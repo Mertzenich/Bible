@@ -1,0 +1,626 @@
+* Lamentations 1
+
+** Lamentations 1:1
+
+Quomodo sedet sola <l eID="gen26036" level="1"/> <l level="1" sID="gen26037"/>civitas plena populo ! <l eID="gen26037" level="1"/> <l level="1" sID="gen26038"/>Facta est quasi vidua <l eID="gen26038" level="1"/> <l level="1" sID="gen26039"/>domina gentium ; <l eID="gen26039" level="1"/> <l level="1" sID="gen26040"/>princeps provinciarum <l eID="gen26040" level="1"/> <l level="1" sID="gen26041"/>facta est sub tributo. <l eID="gen26041" level="1"/> <lg eID="gen26035"/>
+
+** Lamentations 1:2
+
+Plorans ploravit in nocte, <l eID="gen26043" level="1"/> <l level="1" sID="gen26044"/>et lacrimæ ejus in maxillis ejus : <l eID="gen26044" level="1"/> <l level="1" sID="gen26045"/>non est qui consoletur eam <l eID="gen26045" level="1"/> <l level="1" sID="gen26046"/>ex omnibus caris ejus ; <l eID="gen26046" level="1"/> <l level="1" sID="gen26047"/>omnes amici ejus spreverunt eam, <l eID="gen26047" level="1"/> <l level="1" sID="gen26048"/>et facti sunt ei inimici. <l eID="gen26048" level="1"/> <lg eID="gen26042"/>
+
+** Lamentations 1:3
+
+Migravit Judas propter afflictionem, <l eID="gen26050" level="1"/> <l level="1" sID="gen26051"/>et multitudinem servitutis ; <l eID="gen26051" level="1"/> <l level="1" sID="gen26052"/>habitavit inter gentes, <l eID="gen26052" level="1"/> <l level="1" sID="gen26053"/>nec invenit requiem : <l eID="gen26053" level="1"/> <l level="1" sID="gen26054"/>omnes persecutores ejus apprehenderunt eam <l eID="gen26054" level="1"/> <l level="1" sID="gen26055"/>inter angustias. <l eID="gen26055" level="1"/> <lg eID="gen26049"/>
+
+** Lamentations 1:4
+
+Viæ Sion lugent, eo quod non sint <l eID="gen26057" level="1"/> <l level="1" sID="gen26058"/>qui veniant ad solemnitatem : <l eID="gen26058" level="1"/> <l level="1" sID="gen26059"/>omnes portæ ejus destructæ, <l eID="gen26059" level="1"/> <l level="1" sID="gen26060"/>sacerdotes ejus gementes ; <l eID="gen26060" level="1"/> <l level="1" sID="gen26061"/>virgines ejus squalidæ, <l eID="gen26061" level="1"/> <l level="1" sID="gen26062"/>et ipsa oppressa amaritudine. <l eID="gen26062" level="1"/> <lg eID="gen26056"/>
+
+** Lamentations 1:5
+
+Facti sunt hostes ejus in capite ; <l eID="gen26064" level="1"/> <l level="1" sID="gen26065"/>inimici ejus locupletati sunt : <l eID="gen26065" level="1"/> <l level="1" sID="gen26066"/>quia Dominus locutus est super eam <l eID="gen26066" level="1"/> <l level="1" sID="gen26067"/>propter multitudinem iniquitatum ejus. <l eID="gen26067" level="1"/> <l level="1" sID="gen26068"/>Parvuli ejus ducti sunt in captivitatem <l eID="gen26068" level="1"/> <l level="1" sID="gen26069"/>ante faciem tribulantis. <l eID="gen26069" level="1"/> <lg eID="gen26063"/>
+
+** Lamentations 1:6
+
+Et egressus est a filia Sion <l eID="gen26071" level="1"/> <l level="1" sID="gen26072"/>omnis decor ejus ; <l eID="gen26072" level="1"/> <l level="1" sID="gen26073"/>facti sunt principes ejus velut arietes <l eID="gen26073" level="1"/> <l level="1" sID="gen26074"/>non invenientes pascua, <l eID="gen26074" level="1"/> <l level="1" sID="gen26075"/>et abierunt absque fortitudine <l eID="gen26075" level="1"/> <l level="1" sID="gen26076"/>ante faciem subsequentis. <l eID="gen26076" level="1"/> <lg eID="gen26070"/>
+
+** Lamentations 1:7
+
+Recordata est Jerusalem dierum afflictionis suæ, <l eID="gen26078" level="1"/> <l level="1" sID="gen26079"/>et prævaricationis, <l eID="gen26079" level="1"/> <l level="1" sID="gen26080"/>omnium desiderabilium suorum, <l eID="gen26080" level="1"/> <l level="1" sID="gen26081"/>quæ habuerat a diebus antiquis, <l eID="gen26081" level="1"/> <l level="1" sID="gen26082"/>cum caderet populus ejus in manu hostili, <l eID="gen26082" level="1"/> <l level="1" sID="gen26083"/>et non esset auxiliator : <l eID="gen26083" level="1"/> <l level="1" sID="gen26084"/>viderunt eam hostes, <l eID="gen26084" level="1"/> <l level="1" sID="gen26085"/>et deriserunt sabbata ejus. <l eID="gen26085" level="1"/> <lg eID="gen26077"/>
+
+** Lamentations 1:8
+
+Peccatum peccavit Jerusalem, <l eID="gen26087" level="1"/> <l level="1" sID="gen26088"/>propterea instabilis facta est ; <l eID="gen26088" level="1"/> <l level="1" sID="gen26089"/>omnes qui glorificabant eam spreverunt illam, <l eID="gen26089" level="1"/> <l level="1" sID="gen26090"/>quia viderunt ignominiam ejus : <l eID="gen26090" level="1"/> <l level="1" sID="gen26091"/>ipsa autem gemens <l eID="gen26091" level="1"/> <l level="1" sID="gen26092"/>conversa est retrorsum. <l eID="gen26092" level="1"/> <lg eID="gen26086"/>
+
+** Lamentations 1:9
+
+Sordes ejus in pedibus ejus, <l eID="gen26094" level="1"/> <l level="1" sID="gen26095"/>nec recordata est finis sui ; <l eID="gen26095" level="1"/> <l level="1" sID="gen26096"/>deposita est vehementer, <l eID="gen26096" level="1"/> <l level="1" sID="gen26097"/>non habens consolatorem. <l eID="gen26097" level="1"/> <l level="1" sID="gen26098"/>Vide, Domine, afflictionem meam, <l eID="gen26098" level="1"/> <l level="1" sID="gen26099"/>quoniam erectus est inimicus. <l eID="gen26099" level="1"/> <lg eID="gen26093"/>
+
+** Lamentations 1:10
+
+Manum suam misit hostis <l eID="gen26101" level="1"/> <l level="1" sID="gen26102"/>ad omnia desiderabilia ejus, <l eID="gen26102" level="1"/> <l level="1" sID="gen26103"/>quia vidit gentes <l eID="gen26103" level="1"/> <l level="1" sID="gen26104"/>ingressas sanctuarium suum, <l eID="gen26104" level="1"/> <l level="1" sID="gen26105"/>de quibus præceperas <l eID="gen26105" level="1"/> <l level="1" sID="gen26106"/>ne intrarent in ecclesiam tuam. <l eID="gen26106" level="1"/> <lg eID="gen26100"/>
+
+** Lamentations 1:11
+
+Omnis populus ejus gemens, <l eID="gen26108" level="1"/> <l level="1" sID="gen26109"/>et quærens panem ; <l eID="gen26109" level="1"/> <l level="1" sID="gen26110"/>dederunt pretiosa quæque pro cibo <l eID="gen26110" level="1"/> <l level="1" sID="gen26111"/>ad refocillandam animam. <l eID="gen26111" level="1"/> <l level="1" sID="gen26112"/>Vide, Domine, et considera <l eID="gen26112" level="1"/> <l level="1" sID="gen26113"/>quoniam facta sum vilis ! <l eID="gen26113" level="1"/> <lg eID="gen26107"/>
+
+** Lamentations 1:12
+
+O vos omnes qui transitis per viam, <l eID="gen26115" level="1"/> <l level="1" sID="gen26116"/>attendite, et videte <l eID="gen26116" level="1"/> <l level="1" sID="gen26117"/>si est dolor sicut dolor meus ! <l eID="gen26117" level="1"/> <l level="1" sID="gen26118"/>quoniam vindemiavit me, <l eID="gen26118" level="1"/> <l level="1" sID="gen26119"/>ut locutus est Dominus, <l eID="gen26119" level="1"/> <l level="1" sID="gen26120"/>in die iræ furoris sui. <l eID="gen26120" level="1"/> <lg eID="gen26114"/>
+
+** Lamentations 1:13
+
+De excelso misit ignem in ossibus meis, <l eID="gen26122" level="1"/> <l level="1" sID="gen26123"/>et erudivit me : <l eID="gen26123" level="1"/> <l level="1" sID="gen26124"/>expandit rete pedibus meis, <l eID="gen26124" level="1"/> <l level="1" sID="gen26125"/>convertit me retrorsum ; <l eID="gen26125" level="1"/> <l level="1" sID="gen26126"/>posuit me desolatam, <l eID="gen26126" level="1"/> <l level="1" sID="gen26127"/>tota die mœrore confectam. <l eID="gen26127" level="1"/> <lg eID="gen26121"/>
+
+** Lamentations 1:14
+
+Vigilavit jugum iniquitatum mearum ; <l eID="gen26129" level="1"/> <l level="1" sID="gen26130"/>in manu ejus convolutæ sunt, <l eID="gen26130" level="1"/> <l level="1" sID="gen26131"/>et impositæ collo meo. <l eID="gen26131" level="1"/> <l level="1" sID="gen26132"/>Infirmata est virtus mea : <l eID="gen26132" level="1"/> <l level="1" sID="gen26133"/>dedit me Dominus in manu <l eID="gen26133" level="1"/> <l level="1" sID="gen26134"/>de qua non potero surgere. <l eID="gen26134" level="1"/> <lg eID="gen26128"/>
+
+** Lamentations 1:15
+
+Abstulit omnes magnificos meos Dominus <l eID="gen26136" level="1"/> <l level="1" sID="gen26137"/>de medio mei ; <l eID="gen26137" level="1"/> <l level="1" sID="gen26138"/>vocavit adversum me tempus <l eID="gen26138" level="1"/> <l level="1" sID="gen26139"/>ut contereret electos meos. <l eID="gen26139" level="1"/> <l level="1" sID="gen26140"/>Torcular calcavit Dominus <l eID="gen26140" level="1"/> <l level="1" sID="gen26141"/>virgini filiæ Juda. <l eID="gen26141" level="1"/> <lg eID="gen26135"/>
+
+** Lamentations 1:16
+
+Idcirco ego plorans, <l eID="gen26143" level="1"/> <l level="1" sID="gen26144"/>et oculus meus deducens aquas, <l eID="gen26144" level="1"/> <l level="1" sID="gen26145"/>quia longe factus est a me consolator, <l eID="gen26145" level="1"/> <l level="1" sID="gen26146"/>convertens animam meam. <l eID="gen26146" level="1"/> <l level="1" sID="gen26147"/>Facti sunt filii mei perditi, <l eID="gen26147" level="1"/> <l level="1" sID="gen26148"/>quoniam invaluit inimicus. <l eID="gen26148" level="1"/> <lg eID="gen26142"/>
+
+** Lamentations 1:17
+
+Expandit Sion manus suas ; <l eID="gen26150" level="1"/> <l level="1" sID="gen26151"/>non est qui consoletur eam. <l eID="gen26151" level="1"/> <l level="1" sID="gen26152"/>Mandavit Dominus adversum Jacob <l eID="gen26152" level="1"/> <l level="1" sID="gen26153"/>in circuitu ejus hostes ejus ; <l eID="gen26153" level="1"/> <l level="1" sID="gen26154"/>facta est Jerusalem <l eID="gen26154" level="1"/> <l level="1" sID="gen26155"/>quasi polluta menstruis inter eos. <l eID="gen26155" level="1"/> <lg eID="gen26149"/>
+
+** Lamentations 1:18
+
+Justus est Dominus, <l eID="gen26157" level="1"/> <l level="1" sID="gen26158"/>quia os ejus ad iracundiam provocavi. <l eID="gen26158" level="1"/> <l level="1" sID="gen26159"/>Audite, obsecro, universi populi, <l eID="gen26159" level="1"/> <l level="1" sID="gen26160"/>et videte dolorem meum : <l eID="gen26160" level="1"/> <l level="1" sID="gen26161"/>virgines meæ et juvenes mei abierunt <l eID="gen26161" level="1"/> <l level="1" sID="gen26162"/>in captivitatem. <l eID="gen26162" level="1"/> <lg eID="gen26156"/>
+
+** Lamentations 1:19
+
+Vocavi amicos meos, <l eID="gen26164" level="1"/> <l level="1" sID="gen26165"/>et ipsi deceperunt me ; <l eID="gen26165" level="1"/> <l level="1" sID="gen26166"/>sacerdotes mei et senes mei <l eID="gen26166" level="1"/> <l level="1" sID="gen26167"/>in urbe consumpti sunt, <l eID="gen26167" level="1"/> <l level="1" sID="gen26168"/>quia quæsierunt cibum sibi <l eID="gen26168" level="1"/> <l level="1" sID="gen26169"/>ut refocillarent animam suam. <l eID="gen26169" level="1"/> <lg eID="gen26163"/>
+
+** Lamentations 1:20
+
+Vide, Domine, quoniam tribulor : <l eID="gen26171" level="1"/> <l level="1" sID="gen26172"/>conturbatus est venter meus, <l eID="gen26172" level="1"/> <l level="1" sID="gen26173"/>subversum est cor meum in memetipsa, <l eID="gen26173" level="1"/> <l level="1" sID="gen26174"/>quoniam amaritudine plena sum. <l eID="gen26174" level="1"/> <l level="1" sID="gen26175"/>Foris interfecit gladius, <l eID="gen26175" level="1"/> <l level="1" sID="gen26176"/>et domi mors similis est. <l eID="gen26176" level="1"/> <lg eID="gen26170"/>
+
+** Lamentations 1:21
+
+Audierunt quia ingemisco ego, <l eID="gen26178" level="1"/> <l level="1" sID="gen26179"/>et non est qui consoletur me ; <l eID="gen26179" level="1"/> <l level="1" sID="gen26180"/>omnes inimici mei audierunt malum meum, <l eID="gen26180" level="1"/> <l level="1" sID="gen26181"/>lætati sunt quoniam tu fecisti : <l eID="gen26181" level="1"/> <l level="1" sID="gen26182"/>adduxisti diem consolationis, <l eID="gen26182" level="1"/> <l level="1" sID="gen26183"/>et fient similes mei. <l eID="gen26183" level="1"/> <lg eID="gen26177"/>
+
+** Lamentations 1:22
+
+Ingrediatur omne malum eorum coram te : <l eID="gen26185" level="1"/> <l level="1" sID="gen26186"/>et vindemia eos, sicut vindemiasti me <l eID="gen26186" level="1"/> <l level="1" sID="gen26187"/>propter omnes iniquitates meas : <l eID="gen26187" level="1"/> <l level="1" sID="gen26188"/>multi enim gemitus mei, <l eID="gen26188" level="1"/> <l level="1" sID="gen26189"/>et cor meum mœrens. <l eID="gen26189" level="1"/><lg eID="gen26184"/> <chapter eID="Lam.1"/>
+
+* Lamentations 2
+
+** Lamentations 2:1
+
+Quomodo obtexit caligine in furore suo <l eID="gen26191" level="1"/> <l level="1" sID="gen26192"/>Dominus filiam Sion ; <l eID="gen26192" level="1"/> <l level="1" sID="gen26193"/>projecit de cælo in terram <l eID="gen26193" level="1"/> <l level="1" sID="gen26194"/>inclytam Israël, <l eID="gen26194" level="1"/> <l level="1" sID="gen26195"/>et non est recordatus scabelli pedum suorum <l eID="gen26195" level="1"/> <l level="1" sID="gen26196"/>in die furoris sui ! <l eID="gen26196" level="1"/> <lg eID="gen26190"/>
+
+** Lamentations 2:2
+
+Præcipitavit Dominus, nec pepercit <l eID="gen26198" level="1"/> <l level="1" sID="gen26199"/>omnia speciosa Jacob : <l eID="gen26199" level="1"/> <l level="1" sID="gen26200"/>destruxit in furore suo <l eID="gen26200" level="1"/> <l level="1" sID="gen26201"/>munitiones virginis Juda, <l eID="gen26201" level="1"/> <l level="1" sID="gen26202"/>et dejecit in terram ; <l eID="gen26202" level="1"/> <l level="1" sID="gen26203"/>polluit regnum et principes ejus. <l eID="gen26203" level="1"/> <lg eID="gen26197"/>
+
+** Lamentations 2:3
+
+Confregit in ira furoris sui <l eID="gen26205" level="1"/> <l level="1" sID="gen26206"/>omne cornu Israël ; <l eID="gen26206" level="1"/> <l level="1" sID="gen26207"/>avertit retrorsum dexteram suam <l eID="gen26207" level="1"/> <l level="1" sID="gen26208"/>a facie inimici, <l eID="gen26208" level="1"/> <l level="1" sID="gen26209"/>et succendit in Jacob quasi ignem <l eID="gen26209" level="1"/> <l level="1" sID="gen26210"/>flammæ devorantis in gyro. <l eID="gen26210" level="1"/> <lg eID="gen26204"/>
+
+** Lamentations 2:4
+
+Tetendit arcum suum quasi inimicus, <l eID="gen26212" level="1"/> <l level="1" sID="gen26213"/>firmavit dexteram suam quasi hostis, <l eID="gen26213" level="1"/> <l level="1" sID="gen26214"/>et occidit omne quod pulchrum erat visu <l eID="gen26214" level="1"/> <l level="1" sID="gen26215"/>in tabernaculo filiæ Sion ; <l eID="gen26215" level="1"/> <l level="1" sID="gen26216"/>effudit quasi ignem <l eID="gen26216" level="1"/> <l level="1" sID="gen26217"/>indignationem suam. <l eID="gen26217" level="1"/> <lg eID="gen26211"/>
+
+** Lamentations 2:5
+
+Factus est Dominus velut inimicus, <l eID="gen26219" level="1"/> <l level="1" sID="gen26220"/>præcipitavit Israël : <l eID="gen26220" level="1"/> <l level="1" sID="gen26221"/>præcipitavit omnia mœnia ejus, <l eID="gen26221" level="1"/> <l level="1" sID="gen26222"/>dissipavit munitiones ejus, <l eID="gen26222" level="1"/> <l level="1" sID="gen26223"/>et replevit in filia Juda <l eID="gen26223" level="1"/> <l level="1" sID="gen26224"/>humiliatum et humiliatam. <l eID="gen26224" level="1"/> <lg eID="gen26218"/>
+
+** Lamentations 2:6
+
+Et dissipavit quasi hortum tentorium suum ; <l eID="gen26226" level="1"/> <l level="1" sID="gen26227"/>demolitus est tabernaculum suum. <l eID="gen26227" level="1"/> <l level="1" sID="gen26228"/>Oblivioni tradidit Dominus in Sion <l eID="gen26228" level="1"/> <l level="1" sID="gen26229"/>festivitatem et sabbatum ; <l eID="gen26229" level="1"/> <l level="1" sID="gen26230"/>et in opprobrium, et in indignationem furoris sui, <l eID="gen26230" level="1"/> <l level="1" sID="gen26231"/>regem et sacerdotem. <l eID="gen26231" level="1"/> <lg eID="gen26225"/>
+
+** Lamentations 2:7
+
+Repulit Dominus altare suum ; <l eID="gen26233" level="1"/> <l level="1" sID="gen26234"/>maledixit sanctificationi suæ : <l eID="gen26234" level="1"/> <l level="1" sID="gen26235"/>tradidit in manu inimici <l eID="gen26235" level="1"/> <l level="1" sID="gen26236"/>muros turrium ejus. <l eID="gen26236" level="1"/> <l level="1" sID="gen26237"/>Vocem dederunt in domo Domini <l eID="gen26237" level="1"/> <l level="1" sID="gen26238"/>sicut in die solemni. <l eID="gen26238" level="1"/> <lg eID="gen26232"/>
+
+** Lamentations 2:8
+
+Cogitavit Dominus dissipare <l eID="gen26240" level="1"/> <l level="1" sID="gen26241"/>murum filiæ Sion ; <l eID="gen26241" level="1"/> <l level="1" sID="gen26242"/>tetendit funiculum suum, <l eID="gen26242" level="1"/> <l level="1" sID="gen26243"/>et non avertit manum suam a perditione : <l eID="gen26243" level="1"/> <l level="1" sID="gen26244"/>luxitque antemurale, <l eID="gen26244" level="1"/> <l level="1" sID="gen26245"/>et murus pariter dissipatus est. <l eID="gen26245" level="1"/> <lg eID="gen26239"/>
+
+** Lamentations 2:9
+
+Defixæ sunt in terra portæ ejus, <l eID="gen26247" level="1"/> <l level="1" sID="gen26248"/>perdidit et contrivit vectes ejus ; <l eID="gen26248" level="1"/> <l level="1" sID="gen26249"/>regem ejus et principes ejus in gentibus : <l eID="gen26249" level="1"/> <l level="1" sID="gen26250"/>non est lex, <l eID="gen26250" level="1"/> <l level="1" sID="gen26251"/>et prophetæ ejus non invenerunt <l eID="gen26251" level="1"/> <l level="1" sID="gen26252"/>visionem a Domino. <l eID="gen26252" level="1"/> <lg eID="gen26246"/>
+
+** Lamentations 2:10
+
+Sederunt in terra, conticuerunt <l eID="gen26254" level="1"/> <l level="1" sID="gen26255"/>senes filiæ Sion ; <l eID="gen26255" level="1"/> <l level="1" sID="gen26256"/>consperserunt cinere capita sua, <l eID="gen26256" level="1"/> <l level="1" sID="gen26257"/>accincti sunt ciliciis : <l eID="gen26257" level="1"/> <l level="1" sID="gen26258"/>abjecerunt in terram capita sua <l eID="gen26258" level="1"/> <l level="1" sID="gen26259"/>virgines Jerusalem. <l eID="gen26259" level="1"/> <lg eID="gen26253"/>
+
+** Lamentations 2:11
+
+Defecerunt præ lacrimis oculi mei, <l eID="gen26261" level="1"/> <l level="1" sID="gen26262"/>conturbata sunt viscera mea ; <l eID="gen26262" level="1"/> <l level="1" sID="gen26263"/>effusum est in terra jecur meum <l eID="gen26263" level="1"/> <l level="1" sID="gen26264"/>super contritione filiæ populi mei, <l eID="gen26264" level="1"/> <l level="1" sID="gen26265"/>cum deficeret parvulus et lactens <l eID="gen26265" level="1"/> <l level="1" sID="gen26266"/>in plateis oppidi. <l eID="gen26266" level="1"/> <lg eID="gen26260"/>
+
+** Lamentations 2:12
+
+Matribus suis dixerunt : <l eID="gen26268" level="1"/> <l level="1" sID="gen26269"/>Ubi est triticum et vinum ? <l eID="gen26269" level="1"/> <l level="1" sID="gen26270"/>cum deficerent quasi vulnerati <l eID="gen26270" level="1"/> <l level="1" sID="gen26271"/>in plateis civitatis, <l eID="gen26271" level="1"/> <l level="1" sID="gen26272"/>cum exhalarent animas suas <l eID="gen26272" level="1"/> <l level="1" sID="gen26273"/>in sinu matrum suarum. <l eID="gen26273" level="1"/> <lg eID="gen26267"/>
+
+** Lamentations 2:13
+
+Cui comparabo te, vel cui assimilabo te, <l eID="gen26275" level="1"/> <l level="1" sID="gen26276"/>filia Jerusalem ? <l eID="gen26276" level="1"/> <l level="1" sID="gen26277"/>cui exæquabo te, et consolabor te, <l eID="gen26277" level="1"/> <l level="1" sID="gen26278"/>virgo, filia Sion ? <l eID="gen26278" level="1"/> <l level="1" sID="gen26279"/>magna est enim velut mare contritio tua : <l eID="gen26279" level="1"/> <l level="1" sID="gen26280"/>quis medebitur tui ? <l eID="gen26280" level="1"/> <lg eID="gen26274"/>
+
+** Lamentations 2:14
+
+Prophetæ tui viderunt tibi <l eID="gen26282" level="1"/> <l level="1" sID="gen26283"/>falsa et stulta ; <l eID="gen26283" level="1"/> <l level="1" sID="gen26284"/>nec aperiebant iniquitatem tuam, <l eID="gen26284" level="1"/> <l level="1" sID="gen26285"/>ut te ad pœnitentiam provocarent ; <l eID="gen26285" level="1"/> <l level="1" sID="gen26286"/>viderunt autem tibi assumptiones falsas, <l eID="gen26286" level="1"/> <l level="1" sID="gen26287"/>et ejectiones. <l eID="gen26287" level="1"/> <lg eID="gen26281"/>
+
+** Lamentations 2:15
+
+Plauserunt super te manibus <l eID="gen26289" level="1"/> <l level="1" sID="gen26290"/>omnes transeuntes per viam ; <l eID="gen26290" level="1"/> <l level="1" sID="gen26291"/>sibilaverunt et moverunt caput suum <l eID="gen26291" level="1"/> <l level="1" sID="gen26292"/>super filiam Jerusalem : <l eID="gen26292" level="1"/> <l level="1" sID="gen26293"/>Hæccine est urbs, dicentes, perfecti decoris, <l eID="gen26293" level="1"/> <l level="1" sID="gen26294"/>gaudium universæ terræ ? <l eID="gen26294" level="1"/> <lg eID="gen26288"/>
+
+** Lamentations 2:16
+
+Aperuerunt super te os suum <l eID="gen26296" level="1"/> <l level="1" sID="gen26297"/>omnes inimici tui : <l eID="gen26297" level="1"/> <l level="1" sID="gen26298"/>sibilaverunt, et fremuerunt dentibus, <l eID="gen26298" level="1"/> <l level="1" sID="gen26299"/>et dixerunt : Devorabimus : <l eID="gen26299" level="1"/> <l level="1" sID="gen26300"/>en ista est dies quam exspectabamus ; <l eID="gen26300" level="1"/> <l level="1" sID="gen26301"/>invenimus, vidimus. <l eID="gen26301" level="1"/> <lg eID="gen26295"/>
+
+** Lamentations 2:17
+
+Fecit Dominus quæ cogitavit ; <l eID="gen26303" level="1"/> <l level="1" sID="gen26304"/>complevit sermonem suum, <l eID="gen26304" level="1"/> <l level="1" sID="gen26305"/>quem præceperat a diebus antiquis : <l eID="gen26305" level="1"/> <l level="1" sID="gen26306"/>destruxit, et non pepercit, <l eID="gen26306" level="1"/> <l level="1" sID="gen26307"/>et lætificavit super te inimicum, <l eID="gen26307" level="1"/> <l level="1" sID="gen26308"/>et exaltavit cornu hostium tuorum. <l eID="gen26308" level="1"/> <lg eID="gen26302"/>
+
+** Lamentations 2:18
+
+Clamavit cor eorum ad Dominum <l eID="gen26310" level="1"/> <l level="1" sID="gen26311"/>super muros filiæ Sion : <l eID="gen26311" level="1"/> <l level="1" sID="gen26312"/>Deduc quasi torrentem lacrimas <l eID="gen26312" level="1"/> <l level="1" sID="gen26313"/>per diem et noctem ; <l eID="gen26313" level="1"/> <l level="1" sID="gen26314"/>non des requiem tibi, <l eID="gen26314" level="1"/> <l level="1" sID="gen26315"/>neque taceat pupilla oculi tui. <l eID="gen26315" level="1"/> <lg eID="gen26309"/>
+
+** Lamentations 2:19
+
+Consurge, lauda in nocte, <l eID="gen26317" level="1"/> <l level="1" sID="gen26318"/>in principio vigiliarum ; <l eID="gen26318" level="1"/> <l level="1" sID="gen26319"/>effunde sicut aquam cor tuum <l eID="gen26319" level="1"/> <l level="1" sID="gen26320"/>ante conspectum Domini : <l eID="gen26320" level="1"/> <l level="1" sID="gen26321"/>leva ad eum manus tuas <l eID="gen26321" level="1"/> <l level="1" sID="gen26322"/>pro anima parvulorum tuorum, <l eID="gen26322" level="1"/> <l level="1" sID="gen26323"/>qui defecerunt in fame <l eID="gen26323" level="1"/> <l level="1" sID="gen26324"/>in capite omnium compitorum. <l eID="gen26324" level="1"/> <lg eID="gen26316"/>
+
+** Lamentations 2:20
+
+Vide, Domine, et considera <l eID="gen26326" level="1"/> <l level="1" sID="gen26327"/>quem vindemiaveris ita. <l eID="gen26327" level="1"/> <l level="1" sID="gen26328"/>Ergone comedent mulieres fructum suum, <l eID="gen26328" level="1"/> <l level="1" sID="gen26329"/>parvulos ad mensuram palmæ ? <l eID="gen26329" level="1"/> <l level="1" sID="gen26330"/>si occiditur in sanctuario Domini <l eID="gen26330" level="1"/> <l level="1" sID="gen26331"/>sacerdos et propheta ? <l eID="gen26331" level="1"/> <lg eID="gen26325"/>
+
+** Lamentations 2:21
+
+Jacuerunt in terra foris <l eID="gen26333" level="1"/> <l level="1" sID="gen26334"/>puer et senex ; <l eID="gen26334" level="1"/> <l level="1" sID="gen26335"/>virgines meæ et juvenes mei <l eID="gen26335" level="1"/> <l level="1" sID="gen26336"/>ceciderunt in gladio : <l eID="gen26336" level="1"/> <l level="1" sID="gen26337"/>interfecisti in die furoris tui, <l eID="gen26337" level="1"/> <l level="1" sID="gen26338"/>percussisti, nec misertus es. <l eID="gen26338" level="1"/> <lg eID="gen26332"/>
+
+** Lamentations 2:22
+
+Vocasti quasi ad diem solemnem, <l eID="gen26340" level="1"/> <l level="1" sID="gen26341"/>qui terrerent me de circuitu ; <l eID="gen26341" level="1"/> <l level="1" sID="gen26342"/>et non fuit in die furoris Domini qui effugeret, <l eID="gen26342" level="1"/> <l level="1" sID="gen26343"/>et relinqueretur : <l eID="gen26343" level="1"/> <l level="1" sID="gen26344"/>quos educavi et enutrivi, <l eID="gen26344" level="1"/> <l level="1" sID="gen26345"/>inimicus meus consumpsit eos. <l eID="gen26345" level="1"/><lg eID="gen26339"/> <chapter eID="Lam.2"/>
+
+* Lamentations 3
+
+** Lamentations 3:1
+
+Ego vir videns paupertatem meam <l eID="gen26347" level="1"/> <l level="1" sID="gen26348"/>in virga indignationis ejus. <l eID="gen26348" level="1"/>
+
+** Lamentations 3:2
+
+Me minavit, et adduxit in tenebras, <l eID="gen26349" level="1"/> <l level="1" sID="gen26350"/>et non in lucem. <l eID="gen26350" level="1"/>
+
+** Lamentations 3:3
+
+Tantum in me vertit et convertit <l eID="gen26351" level="1"/> <l level="1" sID="gen26352"/>manum suam tota die. <l eID="gen26352" level="1"/> <lg eID="gen26346"/>
+
+** Lamentations 3:4
+
+Vetustam fecit pellem meam et carnem meam ; <l eID="gen26354" level="1"/> <l level="1" sID="gen26355"/>contrivit ossa mea. <l eID="gen26355" level="1"/>
+
+** Lamentations 3:5
+
+Ædificavit in gyro meo, et circumdedit me <l eID="gen26356" level="1"/> <l level="1" sID="gen26357"/>felle et labore. <l eID="gen26357" level="1"/>
+
+** Lamentations 3:6
+
+In tenebrosis collocavit me, <l eID="gen26358" level="1"/> <l level="1" sID="gen26359"/>quasi mortuos sempiternos. <l eID="gen26359" level="1"/> <lg eID="gen26353"/>
+
+** Lamentations 3:7
+
+Circumædificavit adversum me, ut non egrediar ; <l eID="gen26361" level="1"/> <l level="1" sID="gen26362"/>aggravavit compedem meum. <l eID="gen26362" level="1"/>
+
+** Lamentations 3:8
+
+Sed et cum clamavero, et rogavero, <l eID="gen26363" level="1"/> <l level="1" sID="gen26364"/>exclusit orationem meam. <l eID="gen26364" level="1"/>
+
+** Lamentations 3:9
+
+Conclusit vias meas lapidibus quadris ; <l eID="gen26365" level="1"/> <l level="1" sID="gen26366"/>semitas meas subvertit. <l eID="gen26366" level="1"/> <lg eID="gen26360"/>
+
+** Lamentations 3:10
+
+Ursus insidians factus est mihi, <l eID="gen26368" level="1"/> <l level="1" sID="gen26369"/>leo in absconditis. <l eID="gen26369" level="1"/>
+
+** Lamentations 3:11
+
+Semitas meas subvertit, et confregit me ; <l eID="gen26370" level="1"/> <l level="1" sID="gen26371"/>posuit me desolatam. <l eID="gen26371" level="1"/>
+
+** Lamentations 3:12
+
+Tetendit arcum suum, et posuit me <l eID="gen26372" level="1"/> <l level="1" sID="gen26373"/>quasi signum ad sagittam. <l eID="gen26373" level="1"/> <lg eID="gen26367"/>
+
+** Lamentations 3:13
+
+Misit in renibus meis <l eID="gen26375" level="1"/> <l level="1" sID="gen26376"/>filias pharetræ suæ. <l eID="gen26376" level="1"/>
+
+** Lamentations 3:14
+
+Factus sum in derisum omni populo meo, <l eID="gen26377" level="1"/> <l level="1" sID="gen26378"/>canticum eorum tota die. <l eID="gen26378" level="1"/>
+
+** Lamentations 3:15
+
+Replevit me amaritudinibus ; <l eID="gen26379" level="1"/> <l level="1" sID="gen26380"/>inebriavit me absinthio. <l eID="gen26380" level="1"/> <lg eID="gen26374"/>
+
+** Lamentations 3:16
+
+Et fregit ad numerum dentes meos ; <l eID="gen26382" level="1"/> <l level="1" sID="gen26383"/>cibavit me cinere. <l eID="gen26383" level="1"/>
+
+** Lamentations 3:17
+
+Et repulsa est a pace anima mea ; <l eID="gen26384" level="1"/> <l level="1" sID="gen26385"/>oblitus sum bonorum. <l eID="gen26385" level="1"/>
+
+** Lamentations 3:18
+
+Et dixi : Periit finis meus, <l eID="gen26386" level="1"/> <l level="1" sID="gen26387"/>et spes mea a Domino. <l eID="gen26387" level="1"/> <lg eID="gen26381"/>
+
+** Lamentations 3:19
+
+Recordare paupertatis, et transgressionis meæ, <l eID="gen26389" level="1"/> <l level="1" sID="gen26390"/>absinthii et fellis. <l eID="gen26390" level="1"/>
+
+** Lamentations 3:20
+
+Memoria memor ero, et tabescet <l eID="gen26391" level="1"/> <l level="1" sID="gen26392"/>in me anima mea. <l eID="gen26392" level="1"/>
+
+** Lamentations 3:21
+
+Hæc recolens in corde meo, <l eID="gen26393" level="1"/> <l level="1" sID="gen26394"/>ideo sperabo. <l eID="gen26394" level="1"/> <lg eID="gen26388"/>
+
+** Lamentations 3:22
+
+Misericordiæ Domini, quia non sumus consumpti ; <l eID="gen26396" level="1"/> <l level="1" sID="gen26397"/>quia non defecerunt miserationes ejus. <l eID="gen26397" level="1"/>
+
+** Lamentations 3:23
+
+Novi diluculo, <l eID="gen26398" level="1"/> <l level="1" sID="gen26399"/>multa est fides tua. <l eID="gen26399" level="1"/>
+
+** Lamentations 3:24
+
+Pars mea Dominus, dixit anima mea ; <l eID="gen26400" level="1"/> <l level="1" sID="gen26401"/>propterea exspectabo eum. <l eID="gen26401" level="1"/> <lg eID="gen26395"/>
+
+** Lamentations 3:25
+
+Bonus est Dominus sperantibus in eum, <l eID="gen26403" level="1"/> <l level="1" sID="gen26404"/>animæ quærenti illum. <l eID="gen26404" level="1"/>
+
+** Lamentations 3:26
+
+Bonum est præstolari cum silentio <l eID="gen26405" level="1"/> <l level="1" sID="gen26406"/>salutare Dei. <l eID="gen26406" level="1"/>
+
+** Lamentations 3:27
+
+Bonum est viro cum portaverit jugum <l eID="gen26407" level="1"/> <l level="1" sID="gen26408"/>ab adolescentia sua. <l eID="gen26408" level="1"/> <lg eID="gen26402"/>
+
+** Lamentations 3:28
+
+Sedebit solitarius, et tacebit, <l eID="gen26410" level="1"/> <l level="1" sID="gen26411"/>quia levavit super se. <l eID="gen26411" level="1"/>
+
+** Lamentations 3:29
+
+Ponet in pulvere os suum, <l eID="gen26412" level="1"/> <l level="1" sID="gen26413"/>si forte sit spes. <l eID="gen26413" level="1"/>
+
+** Lamentations 3:30
+
+Dabit percutienti se maxillam : <l eID="gen26414" level="1"/> <l level="1" sID="gen26415"/>saturabitur opprobriis. <l eID="gen26415" level="1"/> <lg eID="gen26409"/>
+
+** Lamentations 3:31
+
+Quia non repellet <l eID="gen26417" level="1"/> <l level="1" sID="gen26418"/>in sempiternum Dominus. <l eID="gen26418" level="1"/>
+
+** Lamentations 3:32
+
+Quia si abjecit, et miserebitur, <l eID="gen26419" level="1"/> <l level="1" sID="gen26420"/>secundum multitudinem misericordiarum suarum. <l eID="gen26420" level="1"/>
+
+** Lamentations 3:33
+
+Non enim humiliavit ex corde suo <l eID="gen26421" level="1"/> <l level="1" sID="gen26422"/>et abjecit filios hominum. <l eID="gen26422" level="1"/> <lg eID="gen26416"/>
+
+** Lamentations 3:34
+
+Ut conteret sub pedibus suis <l eID="gen26424" level="1"/> <l level="1" sID="gen26425"/>omnes vinctos terræ. <l eID="gen26425" level="1"/>
+
+** Lamentations 3:35
+
+Ut declinaret judicium viri <l eID="gen26426" level="1"/> <l level="1" sID="gen26427"/>in conspectu vultus Altissimi. <l eID="gen26427" level="1"/>
+
+** Lamentations 3:36
+
+Ut perverteret hominem in judicio suo ; <l eID="gen26428" level="1"/> <l level="1" sID="gen26429"/>Dominus ignoravit. <l eID="gen26429" level="1"/> <lg eID="gen26423"/>
+
+** Lamentations 3:37
+
+Quis est iste qui dixit ut fieret, <l eID="gen26431" level="1"/> <l level="1" sID="gen26432"/>Domino non jubente ? <l eID="gen26432" level="1"/>
+
+** Lamentations 3:38
+
+Ex ore Altissimi non egredientur <l eID="gen26433" level="1"/> <l level="1" sID="gen26434"/>nec mala nec bona ? <l eID="gen26434" level="1"/>
+
+** Lamentations 3:39
+
+Quid murmuravit homo vivens, <l eID="gen26435" level="1"/> <l level="1" sID="gen26436"/>vir pro peccatis suis ? <l eID="gen26436" level="1"/> <lg eID="gen26430"/>
+
+** Lamentations 3:40
+
+Scrutemur vias nostras, et quæramus, <l eID="gen26438" level="1"/> <l level="1" sID="gen26439"/>et revertamur ad Dominum. <l eID="gen26439" level="1"/>
+
+** Lamentations 3:41
+
+Levemus corda nostra cum manibus <l eID="gen26440" level="1"/> <l level="1" sID="gen26441"/>ad Dominum in cælos. <l eID="gen26441" level="1"/>
+
+** Lamentations 3:42
+
+Nos inique egimus, et ad iracundiam provocavimus ; <l eID="gen26442" level="1"/> <l level="1" sID="gen26443"/>idcirco tu inexorabilis es. <l eID="gen26443" level="1"/> <lg eID="gen26437"/>
+
+** Lamentations 3:43
+
+Operuisti in furore, et percussisti nos ; <l eID="gen26445" level="1"/> <l level="1" sID="gen26446"/>occidisti, nec pepercisti. <l eID="gen26446" level="1"/>
+
+** Lamentations 3:44
+
+Opposuisti nubem tibi, <l eID="gen26447" level="1"/> <l level="1" sID="gen26448"/>ne transeat oratio. <l eID="gen26448" level="1"/>
+
+** Lamentations 3:45
+
+Eradicationem et abjectionem posuisti me <l eID="gen26449" level="1"/> <l level="1" sID="gen26450"/>in medio populorum. <l eID="gen26450" level="1"/> <lg eID="gen26444"/>
+
+** Lamentations 3:46
+
+Aperuerunt super nos os suum <l eID="gen26452" level="1"/> <l level="1" sID="gen26453"/>omnes inimici. <l eID="gen26453" level="1"/>
+
+** Lamentations 3:47
+
+Formido et laqueus facta est nobis <l eID="gen26454" level="1"/> <l level="1" sID="gen26455"/>vaticinatio, et contritio. <l eID="gen26455" level="1"/>
+
+** Lamentations 3:48
+
+Divisiones aquarum deduxit oculus meus, <l eID="gen26456" level="1"/> <l level="1" sID="gen26457"/>in contritione filiæ populi mei. <l eID="gen26457" level="1"/> <lg eID="gen26451"/>
+
+** Lamentations 3:49
+
+Oculus meus afflictus est, nec tacuit, <l eID="gen26459" level="1"/> <l level="1" sID="gen26460"/>eo quod non esset requies. <l eID="gen26460" level="1"/>
+
+** Lamentations 3:50
+
+Donec respiceret et videret <l eID="gen26461" level="1"/> <l level="1" sID="gen26462"/>Dominus de cælis. <l eID="gen26462" level="1"/>
+
+** Lamentations 3:51
+
+Oculus meus deprædatus est animam meam <l eID="gen26463" level="1"/> <l level="1" sID="gen26464"/>in cunctis filiabus urbis meæ. <l eID="gen26464" level="1"/> <lg eID="gen26458"/>
+
+** Lamentations 3:52
+
+Venatione ceperunt me quasi avem <l eID="gen26466" level="1"/> <l level="1" sID="gen26467"/>inimici mei gratis. <l eID="gen26467" level="1"/>
+
+** Lamentations 3:53
+
+Lapsa est in lacum vita mea, <l eID="gen26468" level="1"/> <l level="1" sID="gen26469"/>et posuerunt lapidem super me. <l eID="gen26469" level="1"/>
+
+** Lamentations 3:54
+
+Inundaverunt aquæ super caput meum ; <l eID="gen26470" level="1"/> <l level="1" sID="gen26471"/>dixi : Perii. <l eID="gen26471" level="1"/> <lg eID="gen26465"/>
+
+** Lamentations 3:55
+
+Invocavi nomen tuum, Domine, <l eID="gen26473" level="1"/> <l level="1" sID="gen26474"/>de lacu novissimo. <l eID="gen26474" level="1"/>
+
+** Lamentations 3:56
+
+Vocem meam audisti ; ne avertas aurem tuam <l eID="gen26475" level="1"/> <l level="1" sID="gen26476"/>a singultu meo et clamoribus. <l eID="gen26476" level="1"/>
+
+** Lamentations 3:57
+
+Appropinquasti in die quando invocavi te ; <l eID="gen26477" level="1"/> <l level="1" sID="gen26478"/>dixisti : Ne timeas. <l eID="gen26478" level="1"/> <lg eID="gen26472"/>
+
+** Lamentations 3:58
+
+Judicasti, Domine, causam animæ meæ, <l eID="gen26480" level="1"/> <l level="1" sID="gen26481"/>redemptor vitæ meæ. <l eID="gen26481" level="1"/>
+
+** Lamentations 3:59
+
+Vidisti, Domine, iniquitatem illorum adversum me : <l eID="gen26482" level="1"/> <l level="1" sID="gen26483"/>judica judicium meum. <l eID="gen26483" level="1"/>
+
+** Lamentations 3:60
+
+Vidisti omnem furorem, <l eID="gen26484" level="1"/> <l level="1" sID="gen26485"/>universas cogitationes eorum adversum me. <l eID="gen26485" level="1"/> <lg eID="gen26479"/>
+
+** Lamentations 3:61
+
+Audisti opprobrium eorum, Domine, <l eID="gen26487" level="1"/> <l level="1" sID="gen26488"/>omnes cogitationes eorum adversum me. <l eID="gen26488" level="1"/>
+
+** Lamentations 3:62
+
+Labia insurgentium mihi, et meditationes eorum <l eID="gen26489" level="1"/> <l level="1" sID="gen26490"/>adversum me tota die. <l eID="gen26490" level="1"/>
+
+** Lamentations 3:63
+
+Sessionem eorum et resurrectionem eorum vide ; <l eID="gen26491" level="1"/> <l level="1" sID="gen26492"/>ego sum psalmus eorum. <l eID="gen26492" level="1"/> <lg eID="gen26486"/>
+
+** Lamentations 3:64
+
+Redes eis vicem, Domine, <l eID="gen26494" level="1"/> <l level="1" sID="gen26495"/>juxta opera manuum suarum. <l eID="gen26495" level="1"/>
+
+** Lamentations 3:65
+
+Dabis eis scutum cordis, <l eID="gen26496" level="1"/> <l level="1" sID="gen26497"/>laborem tuum. <l eID="gen26497" level="1"/>
+
+** Lamentations 3:66
+
+Persequeris in furore, et conteres eos <l eID="gen26498" level="1"/> <l level="1" sID="gen26499"/>sub cælis, Domine. <l eID="gen26499" level="1"/><lg eID="gen26493"/> <chapter eID="Lam.3"/>
+
+* Lamentations 4
+
+** Lamentations 4:1
+
+Quomodo obscuratum est aurum, <l eID="gen26501" level="1"/> <l level="1" sID="gen26502"/>mutatus est color optimus ! <l eID="gen26502" level="1"/> <l level="1" sID="gen26503"/>dispersi sunt lapides sanctuarii <l eID="gen26503" level="1"/> <l level="1" sID="gen26504"/>in capite omnium platearum ! <l eID="gen26504" level="1"/> <lg eID="gen26500"/>
+
+** Lamentations 4:2
+
+Filii Sion inclyti, <l eID="gen26506" level="1"/> <l level="1" sID="gen26507"/>et amicti auro primo : <l eID="gen26507" level="1"/> <l level="1" sID="gen26508"/>quomodo reputati sunt in vasa testea, <l eID="gen26508" level="1"/> <l level="1" sID="gen26509"/>opus manuum figuli ! <l eID="gen26509" level="1"/> <lg eID="gen26505"/>
+
+** Lamentations 4:3
+
+Sed et lamiæ nudaverunt mammam, <l eID="gen26511" level="1"/> <l level="1" sID="gen26512"/>lactaverunt catulos suos : <l eID="gen26512" level="1"/> <l level="1" sID="gen26513"/>filia populi mei crudelis <l eID="gen26513" level="1"/> <l level="1" sID="gen26514"/>quasi struthio in deserto. <l eID="gen26514" level="1"/> <lg eID="gen26510"/>
+
+** Lamentations 4:4
+
+Adhæsit lingua lactentis <l eID="gen26516" level="1"/> <l level="1" sID="gen26517"/>ad palatum ejus in siti ; <l eID="gen26517" level="1"/> <l level="1" sID="gen26518"/>parvuli petierunt panem, <l eID="gen26518" level="1"/> <l level="1" sID="gen26519"/>et non erat qui frangeret eis. <l eID="gen26519" level="1"/> <lg eID="gen26515"/>
+
+** Lamentations 4:5
+
+Qui vescebantur voluptuose, <l eID="gen26521" level="1"/> <l level="1" sID="gen26522"/>interierunt in viis ; <l eID="gen26522" level="1"/> <l level="1" sID="gen26523"/>qui nutriebantur in croceis, <l eID="gen26523" level="1"/> <l level="1" sID="gen26524"/>amplexati sunt stercora. <l eID="gen26524" level="1"/> <lg eID="gen26520"/>
+
+** Lamentations 4:6
+
+Et major effecta est iniquitas filiæ populi mei <l eID="gen26526" level="1"/> <l level="1" sID="gen26527"/>peccato Sodomorum, <l eID="gen26527" level="1"/> <l level="1" sID="gen26528"/>quæ subversa est in momento, <l eID="gen26528" level="1"/> <l level="1" sID="gen26529"/>et non ceperunt in ea manus. <l eID="gen26529" level="1"/> <lg eID="gen26525"/>
+
+** Lamentations 4:7
+
+Candidiores Nazaræi ejus nive, <l eID="gen26531" level="1"/> <l level="1" sID="gen26532"/>nitidiores lacte, <l eID="gen26532" level="1"/> <l level="1" sID="gen26533"/>rubicundiores ebore antiquo, <l eID="gen26533" level="1"/> <l level="1" sID="gen26534"/>sapphiro pulchriores. <l eID="gen26534" level="1"/> <lg eID="gen26530"/>
+
+** Lamentations 4:8
+
+Denigrata est super carbones facies eorum <l eID="gen26536" level="1"/> <l level="1" sID="gen26537"/>et non sunt cogniti in plateis ; <l eID="gen26537" level="1"/> <l level="1" sID="gen26538"/>adhæsit cutis eorum ossibus : <l eID="gen26538" level="1"/> <l level="1" sID="gen26539"/>aruit, et facta est quasi lignum. <l eID="gen26539" level="1"/> <lg eID="gen26535"/>
+
+** Lamentations 4:9
+
+Melius fuit occisis gladio <l eID="gen26541" level="1"/> <l level="1" sID="gen26542"/>quam interfectis fame, <l eID="gen26542" level="1"/> <l level="1" sID="gen26543"/>quoniam isti extabuerunt consumpti <l eID="gen26543" level="1"/> <l level="1" sID="gen26544"/>a sterilitate terræ. <l eID="gen26544" level="1"/> <lg eID="gen26540"/>
+
+** Lamentations 4:10
+
+Manus mulierum misericordium <l eID="gen26546" level="1"/> <l level="1" sID="gen26547"/>coxerunt filios suos ; <l eID="gen26547" level="1"/> <l level="1" sID="gen26548"/>facti sunt cibus earum <l eID="gen26548" level="1"/> <l level="1" sID="gen26549"/>in contritione filiæ populi mei. <l eID="gen26549" level="1"/> <lg eID="gen26545"/>
+
+** Lamentations 4:11
+
+Complevit Dominus furorem suum, <l eID="gen26551" level="1"/> <l level="1" sID="gen26552"/>effudit iram indignationis suæ : <l eID="gen26552" level="1"/> <l level="1" sID="gen26553"/>et succendit ignem in Sion, <l eID="gen26553" level="1"/> <l level="1" sID="gen26554"/>et devoravit fundamenta ejus. <l eID="gen26554" level="1"/> <lg eID="gen26550"/>
+
+** Lamentations 4:12
+
+Non crediderunt reges terræ, <l eID="gen26556" level="1"/> <l level="1" sID="gen26557"/>et universi habitatores orbis, <l eID="gen26557" level="1"/> <l level="1" sID="gen26558"/>quoniam ingrederetur hostis et inimicus <l eID="gen26558" level="1"/> <l level="1" sID="gen26559"/>per portas Jerusalem. <l eID="gen26559" level="1"/> <lg eID="gen26555"/>
+
+** Lamentations 4:13
+
+Propter peccata prophetarum ejus, <l eID="gen26561" level="1"/> <l level="1" sID="gen26562"/>et iniquitates sacerdotum ejus, <l eID="gen26562" level="1"/> <l level="1" sID="gen26563"/>qui effuderunt in medio ejus <l eID="gen26563" level="1"/> <l level="1" sID="gen26564"/>sanguinem justorum. <l eID="gen26564" level="1"/> <lg eID="gen26560"/>
+
+** Lamentations 4:14
+
+Erraverunt cæci in plateis, <l eID="gen26566" level="1"/> <l level="1" sID="gen26567"/>polluti sunt in sanguine ; <l eID="gen26567" level="1"/> <l level="1" sID="gen26568"/>cumque non possent, <l eID="gen26568" level="1"/> <l level="1" sID="gen26569"/>tenuerunt lacinias suas. <l eID="gen26569" level="1"/> <lg eID="gen26565"/>
+
+** Lamentations 4:15
+
+Recedite polluti, clamaverunt eis ; <l eID="gen26571" level="1"/> <l level="1" sID="gen26572"/>recedite, abite, nolite tangere : <l eID="gen26572" level="1"/> <l level="1" sID="gen26573"/>jurgati quippe sunt, et commoti dixerunt inter gentes : <l eID="gen26573" level="1"/> <l level="1" sID="gen26574"/>Non addet ultra ut habitet in eis. <l eID="gen26574" level="1"/> <lg eID="gen26570"/>
+
+** Lamentations 4:16
+
+Facies Domini divisit eos, <l eID="gen26576" level="1"/> <l level="1" sID="gen26577"/>non addet ut respiciat eos ; <l eID="gen26577" level="1"/> <l level="1" sID="gen26578"/>facies sacerdotum non erubuerunt, <l eID="gen26578" level="1"/> <l level="1" sID="gen26579"/>neque senum miserti sunt. <l eID="gen26579" level="1"/> <lg eID="gen26575"/>
+
+** Lamentations 4:17
+
+Cum adhuc subsisteremus, defecerunt oculi nostri <l eID="gen26581" level="1"/> <l level="1" sID="gen26582"/>ad auxilium nostrum vanum ; <l eID="gen26582" level="1"/> <l level="1" sID="gen26583"/>cum respiceremus attenti ad gentem <l eID="gen26583" level="1"/> <l level="1" sID="gen26584"/>quæ salvare non poterat. <l eID="gen26584" level="1"/> <lg eID="gen26580"/>
+
+** Lamentations 4:18
+
+Lubricaverunt vestigia nostra <l eID="gen26586" level="1"/> <l level="1" sID="gen26587"/>in itinere platearum nostrarum ; <l eID="gen26587" level="1"/> <l level="1" sID="gen26588"/>appropinquavit finis noster, completi sunt dies nostri, <l eID="gen26588" level="1"/> <l level="1" sID="gen26589"/>quia venit finis noster. <l eID="gen26589" level="1"/> <lg eID="gen26585"/>
+
+** Lamentations 4:19
+
+Velociores fuerunt persecutores nostri <l eID="gen26591" level="1"/> <l level="1" sID="gen26592"/>aquilis cæli ; <l eID="gen26592" level="1"/> <l level="1" sID="gen26593"/>super montes persecuti sunt nos, <l eID="gen26593" level="1"/> <l level="1" sID="gen26594"/>in deserto insidiati sunt nobis. <l eID="gen26594" level="1"/> <lg eID="gen26590"/>
+
+** Lamentations 4:20
+
+Spiritus oris nostri, christus Dominus, <l eID="gen26596" level="1"/> <l level="1" sID="gen26597"/>captus est in peccatis nostris, <l eID="gen26597" level="1"/> <l level="1" sID="gen26598"/>cui diximus : In umbra tua <l eID="gen26598" level="1"/> <l level="1" sID="gen26599"/>vivemus in gentibus. <l eID="gen26599" level="1"/> <lg eID="gen26595"/>
+
+** Lamentations 4:21
+
+Gaude et lætare, filia Edom, <l eID="gen26601" level="1"/> <l level="1" sID="gen26602"/>quæ habitas in terra Hus ! <l eID="gen26602" level="1"/> <l level="1" sID="gen26603"/>ad te quoque perveniet calix : inebriaberis, <l eID="gen26603" level="1"/> <l level="1" sID="gen26604"/>atque nudaberis. <l eID="gen26604" level="1"/> <lg eID="gen26600"/>
+
+** Lamentations 4:22
+
+Completa est iniquitas tua, filia Sion : <l eID="gen26606" level="1"/> <l level="1" sID="gen26607"/>non addet ultra ut transmigret te. <l eID="gen26607" level="1"/> <l level="1" sID="gen26608"/>Visitavit iniquitatem tuam, filia Edom ; <l eID="gen26608" level="1"/> <l level="1" sID="gen26609"/>discooperuit peccata tua.  <chapter eID="Lam.4"/>
+
+* Lamentations 5
+
+** Lamentations 5:1
+
+Recordare, Domine, quid acciderit nobis ; <l eID="gen26610" level="1"/> <l level="1" sID="gen26611"/>intuere et respice opprobrium nostrum. <l eID="gen26611" level="1"/>
+
+** Lamentations 5:2
+
+Hæreditas nostra versa est ad alienos, <l eID="gen26612" level="1"/> <l level="1" sID="gen26613"/>domus nostræ ad extraneos. <l eID="gen26613" level="1"/>
+
+** Lamentations 5:3
+
+Pupilli facti sumus absque patre, <l eID="gen26614" level="1"/> <l level="1" sID="gen26615"/>matres nostræ quasi viduæ. <l eID="gen26615" level="1"/>
+
+** Lamentations 5:4
+
+Aquam nostram pecunia bibimus ; <l eID="gen26616" level="1"/> <l level="1" sID="gen26617"/>ligna nostra pretio comparavimus. <l eID="gen26617" level="1"/>
+
+** Lamentations 5:5
+
+Cervicibus nostris minabamur, <l eID="gen26618" level="1"/> <l level="1" sID="gen26619"/>lassis non dabatur requies. <l eID="gen26619" level="1"/>
+
+** Lamentations 5:6
+
+Ægypto dedimus manum et Assyriis, <l eID="gen26620" level="1"/> <l level="1" sID="gen26621"/>ut saturaremur pane. <l eID="gen26621" level="1"/>
+
+** Lamentations 5:7
+
+Patres nostri peccaverunt, et non sunt : <l eID="gen26622" level="1"/> <l level="1" sID="gen26623"/>et nos iniquitates eorum portavimus. <l eID="gen26623" level="1"/>
+
+** Lamentations 5:8
+
+Servi dominati sunt nostri : <l eID="gen26624" level="1"/> <l level="1" sID="gen26625"/>non fuit qui redimeret de manu eorum. <l eID="gen26625" level="1"/>
+
+** Lamentations 5:9
+
+In animabus nostris afferebamus panem nobis, <l eID="gen26626" level="1"/> <l level="1" sID="gen26627"/>a facie gladii in deserto. <l eID="gen26627" level="1"/>
+
+** Lamentations 5:10
+
+Pellis nostra quasi clibanus exusta est, <l eID="gen26628" level="1"/> <l level="1" sID="gen26629"/>a facie tempestatum famis. <l eID="gen26629" level="1"/>
+
+** Lamentations 5:11
+
+Mulieres in Sion humiliaverunt, <l eID="gen26630" level="1"/> <l level="1" sID="gen26631"/>et virgines in civitatibus Juda. <l eID="gen26631" level="1"/>
+
+** Lamentations 5:12
+
+Principes manu suspensi sunt ; <l eID="gen26632" level="1"/> <l level="1" sID="gen26633"/>facies senum non erubuerunt. <l eID="gen26633" level="1"/>
+
+** Lamentations 5:13
+
+Adolescentibus impudice abusi sunt, <l eID="gen26634" level="1"/> <l level="1" sID="gen26635"/>et pueri in ligno corruerunt. <l eID="gen26635" level="1"/>
+
+** Lamentations 5:14
+
+Senes defecerunt de portis, <l eID="gen26636" level="1"/> <l level="1" sID="gen26637"/>juvenes de choro psallentium. <l eID="gen26637" level="1"/>
+
+** Lamentations 5:15
+
+Defecit gaudium cordis nostri ; <l eID="gen26638" level="1"/> <l level="1" sID="gen26639"/>versus est in luctum chorus noster. <l eID="gen26639" level="1"/>
+
+** Lamentations 5:16
+
+Cecidit corona capitis nostri : <l eID="gen26640" level="1"/> <l level="1" sID="gen26641"/>væ nobis, quia peccavimus ! <l eID="gen26641" level="1"/>
+
+** Lamentations 5:17
+
+Propterea mœstum factum est cor nostrum ; <l eID="gen26642" level="1"/> <l level="1" sID="gen26643"/>ideo contenebrati sunt oculi nostri, <l eID="gen26643" level="1"/>
+
+** Lamentations 5:18
+
+propter montem Sion quia disperiit ; <l eID="gen26644" level="1"/> <l level="1" sID="gen26645"/>vulpes ambulaverunt in eo. <l eID="gen26645" level="1"/>
+
+** Lamentations 5:19
+
+Tu autem, Domine, in æternum permanebis, <l eID="gen26646" level="1"/> <l level="1" sID="gen26647"/>solium tuum in generationem et generationem. <l eID="gen26647" level="1"/>
+
+** Lamentations 5:20
+
+Quare in perpetuum oblivisceris nostri, <l eID="gen26648" level="1"/> <l level="1" sID="gen26649"/>derelinques nos in longitudine dierum ? <l eID="gen26649" level="1"/>
+
+** Lamentations 5:21
+
+Converte nos, Domine, ad te, et convertemur ; <l eID="gen26650" level="1"/> <l level="1" sID="gen26651"/>innova dies nostros, sicut a principio. <l eID="gen26651" level="1"/>
+
+** Lamentations 5:22
+
+Sed projiciens repulisti nos : <l eID="gen26652" level="1"/> <l level="1" sID="gen26653"/>iratus es contra nos vehementer. <l eID="gen26653" level="1"/> <lg eID="gen26605"/> <chapter eID="Lam.5"/> <div eID="gen26033" osisID="Lam" type="book"/>
+

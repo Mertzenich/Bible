@@ -1,0 +1,606 @@
+* Amos 1
+
+** Amos 1:1
+
+Verba Amos, qui fuit in pastoribus de Thecue, quæ vidit super Israël in diebus Oziæ, regis Juda, et in diebus Jeroboam, filii Joas, regis Israël, ante duos annos terræmotus.  <div eID="gen29991" type="x-p"/>
+
+** Amos 1:2
+
+Et dixit : <div eID="gen29992" type="x-p"/> <lg sID="gen29993"/> <l level="1" sID="gen29994"/>Dominus de Sion rugiet, <l eID="gen29994" level="1"/> <l level="1" sID="gen29995"/>et de Jerusalem dabit vocem suam ; <l eID="gen29995" level="1"/> <l level="1" sID="gen29996"/>et luxerunt speciosa pastorum, <l eID="gen29996" level="1"/> <l level="1" sID="gen29997"/>et exsiccatus est vertex Carmeli. <l eID="gen29997" level="1"/>
+
+** Amos 1:3
+
+Hæc dicit Dominus : <l eID="gen29998" level="1"/> <l level="1" sID="gen29999"/>Super tribus sceleribus Damasci, <l eID="gen29999" level="1"/> <l level="1" sID="gen30000"/>et super quatuor non convertam eum, <l eID="gen30000" level="1"/> <l level="1" sID="gen30001"/>eo quod trituraverint in plaustris ferreis Galaad. <l eID="gen30001" level="1"/>
+
+** Amos 1:4
+
+Et mittam ignem in domum Azaël, <l eID="gen30002" level="1"/> <l level="1" sID="gen30003"/>et devorabit domos Benadad. <l eID="gen30003" level="1"/>
+
+** Amos 1:5
+
+Et conteram vectem Damasci : <l eID="gen30004" level="1"/> <l level="1" sID="gen30005"/>et disperdam habitatorem de campo idoli, <l eID="gen30005" level="1"/> <l level="1" sID="gen30006"/>et tenentem sceptrum de domo voluptatis : <l eID="gen30006" level="1"/> <l level="1" sID="gen30007"/>et transferetur populus Syriæ Cyrenen, <l eID="gen30007" level="1"/> <l level="1" sID="gen30008"/>dicit Dominus. <l eID="gen30008" level="1"/>
+
+** Amos 1:6
+
+Hæc dicit Dominus : <l eID="gen30009" level="1"/> <l level="1" sID="gen30010"/>Super tribus sceleribus Gazæ, <l eID="gen30010" level="1"/> <l level="1" sID="gen30011"/>et super quatuor non convertam eum, <l eID="gen30011" level="1"/> <l level="1" sID="gen30012"/>eo quod transtulerint captivitatem perfectam, <l eID="gen30012" level="1"/> <l level="1" sID="gen30013"/>ut concluderent eam in Idumæa. <l eID="gen30013" level="1"/>
+
+** Amos 1:7
+
+Et mittam ignem in murum Gazæ, <l eID="gen30014" level="1"/> <l level="1" sID="gen30015"/>et devorabit ædes ejus. <l eID="gen30015" level="1"/>
+
+** Amos 1:8
+
+Et disperdam habitatorem de Azoto, <l eID="gen30016" level="1"/> <l level="1" sID="gen30017"/>et tenentem sceptrum de Ascalone : <l eID="gen30017" level="1"/> <l level="1" sID="gen30018"/>et convertam manum meam super Accaron, <l eID="gen30018" level="1"/> <l level="1" sID="gen30019"/>et peribunt reliqui Philisthinorum, <l eID="gen30019" level="1"/> <l level="1" sID="gen30020"/>dicit Dominus Deus. <l eID="gen30020" level="1"/>
+
+** Amos 1:9
+
+Hæc dicit Dominus : <l eID="gen30021" level="1"/> <l level="1" sID="gen30022"/>Super tribus sceleribus Tyri, <l eID="gen30022" level="1"/> <l level="1" sID="gen30023"/>et super quatuor non convertam eum, <l eID="gen30023" level="1"/> <l level="1" sID="gen30024"/>eo quod concluserint captivitatem perfectam in Idumæa, <l eID="gen30024" level="1"/> <l level="1" sID="gen30025"/>et non sint recordati fœderis fratrum. <l eID="gen30025" level="1"/>
+
+** Amos 1:10
+
+Et mittam ignem in murum Tyri, <l eID="gen30026" level="1"/> <l level="1" sID="gen30027"/>et devorabit ædes ejus. <l eID="gen30027" level="1"/>
+
+** Amos 1:11
+
+Hæc dicit Dominus : <l eID="gen30028" level="1"/> <l level="1" sID="gen30029"/>Super tribus sceleribus Edom, <l eID="gen30029" level="1"/> <l level="1" sID="gen30030"/>et super quatuor non convertam eum, <l eID="gen30030" level="1"/> <l level="1" sID="gen30031"/>eo quod persecutus sit in gladio fratrem suum, <l eID="gen30031" level="1"/> <l level="1" sID="gen30032"/>et violaverit misericordiam ejus, <l eID="gen30032" level="1"/> <l level="1" sID="gen30033"/>et tenuerit ultra furorem suum, <l eID="gen30033" level="1"/> <l level="1" sID="gen30034"/>et indignationem suam servaverit usque in finem. <l eID="gen30034" level="1"/>
+
+** Amos 1:12
+
+Mittam ignem in Theman, <l eID="gen30035" level="1"/> <l level="1" sID="gen30036"/>et devorabit ædes Bosræ. <l eID="gen30036" level="1"/>
+
+** Amos 1:13
+
+Hæc dicit Dominus : <l eID="gen30037" level="1"/> <l level="1" sID="gen30038"/>Super tribus sceleribus filiorum Ammon, <l eID="gen30038" level="1"/> <l level="1" sID="gen30039"/>et super quatuor non convertam eum, <l eID="gen30039" level="1"/> <l level="1" sID="gen30040"/>eo quod dissecuerit prægnantes Galaad <l eID="gen30040" level="1"/> <l level="1" sID="gen30041"/>ad dilatandum terminum suum. <l eID="gen30041" level="1"/>
+
+** Amos 1:14
+
+Et succendam ignem in muro Rabba, <l eID="gen30042" level="1"/> <l level="1" sID="gen30043"/>et devorabit ædes ejus in ululatu in die belli, <l eID="gen30043" level="1"/> <l level="1" sID="gen30044"/>et in turbine in die commotionis. <l eID="gen30044" level="1"/>
+
+** Amos 1:15
+
+Et ibit Melchom in captivitatem, <l eID="gen30045" level="1"/> <l level="1" sID="gen30046"/>ipse et principes ejus simul, <l eID="gen30046" level="1"/> <l level="1" sID="gen30047"/>dicit Dominus.  <chapter eID="Amos.1"/>
+
+* Amos 2
+
+** Amos 2:1
+
+Hæc dicit Dominus : <l eID="gen30048" level="1"/> <l level="1" sID="gen30049"/>Super tribus sceleribus Moab, <l eID="gen30049" level="1"/> <l level="1" sID="gen30050"/>et super quatuor non convertam eum, <l eID="gen30050" level="1"/> <l level="1" sID="gen30051"/>eo quod incenderit ossa regis Idumææ usque ad cinerem. <l eID="gen30051" level="1"/>
+
+** Amos 2:2
+
+Et mittam ignem in Moab, <l eID="gen30052" level="1"/> <l level="1" sID="gen30053"/>et devorabit ædes Carioth : <l eID="gen30053" level="1"/> <l level="1" sID="gen30054"/>et morietur in sonitu Moab, in clangore tubæ. <l eID="gen30054" level="1"/>
+
+** Amos 2:3
+
+Et disperdam judicem de medio ejus, <l eID="gen30055" level="1"/> <l level="1" sID="gen30056"/>et omnes principes ejus interficiam cum eo, <l eID="gen30056" level="1"/> <l level="1" sID="gen30057"/>dicit Dominus. <l eID="gen30057" level="1"/>
+
+** Amos 2:4
+
+Hæc dicit Dominus : <l eID="gen30058" level="1"/> <l level="1" sID="gen30059"/>Super tribus sceleribus Juda, <l eID="gen30059" level="1"/> <l level="1" sID="gen30060"/>et super quatuor non convertam eum, <l eID="gen30060" level="1"/> <l level="1" sID="gen30061"/>eo quod abjecerit legem Domini <l eID="gen30061" level="1"/> <l level="1" sID="gen30062"/>et mandata ejus non custodierit : <l eID="gen30062" level="1"/> <l level="1" sID="gen30063"/>deceperant enim eos idola sua, <l eID="gen30063" level="1"/> <l level="1" sID="gen30064"/>post quæ abierant patres eorum. <l eID="gen30064" level="1"/>
+
+** Amos 2:5
+
+Et mittam ignem in Juda, <l eID="gen30065" level="1"/> <l level="1" sID="gen30066"/>et devorabit ædes Jerusalem. <l eID="gen30066" level="1"/>
+
+** Amos 2:6
+
+Hæc dicit Dominus : <l eID="gen30067" level="1"/> <l level="1" sID="gen30068"/>Super tribus sceleribus Israël, <l eID="gen30068" level="1"/> <l level="1" sID="gen30069"/>et super quatuor non convertam eum, <l eID="gen30069" level="1"/> <l level="1" sID="gen30070"/>pro eo quod vendiderit pro argento justum, <l eID="gen30070" level="1"/> <l level="1" sID="gen30071"/>et pauperem pro calceamentis. <l eID="gen30071" level="1"/>
+
+** Amos 2:7
+
+Qui conterunt super pulverem terræ capita pauperum, <l eID="gen30072" level="1"/> <l level="1" sID="gen30073"/>et viam humilium declinant : <l eID="gen30073" level="1"/> <l level="1" sID="gen30074"/>et filius ac pater ejus ierunt ad puellam, <l eID="gen30074" level="1"/> <l level="1" sID="gen30075"/>ut violarent nomen sanctum meum. <l eID="gen30075" level="1"/>
+
+** Amos 2:8
+
+Et super vestimentis pignoratis accubuerunt juxta omne altare, <l eID="gen30076" level="1"/> <l level="1" sID="gen30077"/>et vinum damnatorum bibebant in domo Dei sui. <l eID="gen30077" level="1"/>
+
+** Amos 2:9
+
+Ego autem exterminavi Amorrhæum a facie eorum, <l eID="gen30078" level="1"/> <l level="1" sID="gen30079"/>cujus altitudo, cedrorum altitudo ejus, <l eID="gen30079" level="1"/> <l level="1" sID="gen30080"/>et fortis ipse quasi quercus ; <l eID="gen30080" level="1"/> <l level="1" sID="gen30081"/>et contrivi fructum ejus desuper, <l eID="gen30081" level="1"/> <l level="1" sID="gen30082"/>et radices ejus subter. <l eID="gen30082" level="1"/>
+
+** Amos 2:10
+
+Ego sum qui ascendere vos feci de terra Ægypti, <l eID="gen30083" level="1"/> <l level="1" sID="gen30084"/>et duxi vos in deserto quadraginta annis, <l eID="gen30084" level="1"/> <l level="1" sID="gen30085"/>ut possideretis terram Amorrhæi. <l eID="gen30085" level="1"/>
+
+** Amos 2:11
+
+Et suscitavi de filiis vestris in prophetas, <l eID="gen30086" level="1"/> <l level="1" sID="gen30087"/>et de juvenibus vestris nazaræos. <l eID="gen30087" level="1"/> <l level="1" sID="gen30088"/>Numquid non ita est, filii Israël ? dicit Dominus. <l eID="gen30088" level="1"/>
+
+** Amos 2:12
+
+Et propinabitis nazaræis vinum, <l eID="gen30089" level="1"/> <l level="1" sID="gen30090"/>et prophetis mandabitis, dicentes : <l eID="gen30090" level="1"/> <l level="1" sID="gen30091"/>Ne prophetetis. <l eID="gen30091" level="1"/>
+
+** Amos 2:13
+
+Ecce ego stridebo subter vos, <l eID="gen30092" level="1"/> <l level="1" sID="gen30093"/>sicut stridet plaustrum onustum fœno. <l eID="gen30093" level="1"/>
+
+** Amos 2:14
+
+Et peribit fuga a veloce, <l eID="gen30094" level="1"/> <l level="1" sID="gen30095"/>et fortis non obtinebit virtutem suam, <l eID="gen30095" level="1"/> <l level="1" sID="gen30096"/>et robustus non salvabit animam suam : <l eID="gen30096" level="1"/>
+
+** Amos 2:15
+
+et tenens arcum non stabit, <l eID="gen30097" level="1"/> <l level="1" sID="gen30098"/>et velox pedibus suis non salvabitur, <l eID="gen30098" level="1"/> <l level="1" sID="gen30099"/>et ascensor equi non salvabit animam suam : <l eID="gen30099" level="1"/>
+
+** Amos 2:16
+
+et robustus corde inter fortes nudus fugiet in illa die, <l eID="gen30100" level="1"/> <l level="1" sID="gen30101"/>dicit Dominus.  <chapter eID="Amos.2"/>
+
+* Amos 3
+
+** Amos 3:1
+
+Audite verbum quod locutus est Dominus super vos, filii Israël, <l eID="gen30102" level="1"/> <l level="1" sID="gen30103"/>super omnem cognationem quam eduxi de terra Ægypti, dicens : <l eID="gen30103" level="1"/>
+
+** Amos 3:2
+
+Tantummodo vos cognovi ex omnibus cognationibus terræ ; <l eID="gen30104" level="1"/> <l level="1" sID="gen30105"/>idcirco visitabo super vos omnes iniquitates vestras. <l eID="gen30105" level="1"/>
+
+** Amos 3:3
+
+Numquid ambulabunt duo pariter, <l eID="gen30106" level="1"/> <l level="1" sID="gen30107"/>nisi convenerit eis ? <l eID="gen30107" level="1"/>
+
+** Amos 3:4
+
+numquid rugiet leo in saltu, <l eID="gen30108" level="1"/> <l level="1" sID="gen30109"/>nisi habuerit prædam ? <l eID="gen30109" level="1"/> <l level="1" sID="gen30110"/>numquid dabit catulus leonis vocem de cubili suo, <l eID="gen30110" level="1"/> <l level="1" sID="gen30111"/>nisi aliquid apprehenderit ? <l eID="gen30111" level="1"/>
+
+** Amos 3:5
+
+numquid cadet avis in laqueum terræ <l eID="gen30112" level="1"/> <l level="1" sID="gen30113"/>absque aucupe ? <l eID="gen30113" level="1"/> <l level="1" sID="gen30114"/>numquid auferetur laqueus de terra <l eID="gen30114" level="1"/> <l level="1" sID="gen30115"/>antequam quid ceperit ? <l eID="gen30115" level="1"/>
+
+** Amos 3:6
+
+si clanget tuba in civitate, <l eID="gen30116" level="1"/> <l level="1" sID="gen30117"/>et populus non expavescet ? <l eID="gen30117" level="1"/> <l level="1" sID="gen30118"/>si erit malum in civitate, <l eID="gen30118" level="1"/> <l level="1" sID="gen30119"/>quod Dominus non fecerit ? <l eID="gen30119" level="1"/>
+
+** Amos 3:7
+
+Quia non facit Dominus Deus verbum, <l eID="gen30120" level="1"/> <l level="1" sID="gen30121"/>nisi revelaverit secretum suum ad servos suos prophetas. <l eID="gen30121" level="1"/>
+
+** Amos 3:8
+
+Leo rugiet, quis non timebit ? <l eID="gen30122" level="1"/> <l level="1" sID="gen30123"/>Dominus Deus locutus est, quis non prophetabit ? <l eID="gen30123" level="1"/>
+
+** Amos 3:9
+
+Auditum facite in ædibus Azoti, <l eID="gen30124" level="1"/> <l level="1" sID="gen30125"/>et in ædibus terræ Ægypti, <l eID="gen30125" level="1"/> <l level="1" sID="gen30126"/>et dicite : Congregamini super montes Samariæ, <l eID="gen30126" level="1"/> <l level="1" sID="gen30127"/>et videte insanias multas in medio ejus, <l eID="gen30127" level="1"/> <l level="1" sID="gen30128"/>et calumniam patientes in penetralibus ejus. <l eID="gen30128" level="1"/>
+
+** Amos 3:10
+
+Et nescierunt facere rectum, dicit Dominus, <l eID="gen30129" level="1"/> <l level="1" sID="gen30130"/>thesaurizantes iniquitatem et rapinas in ædibus suis. <l eID="gen30130" level="1"/>
+
+** Amos 3:11
+
+Propterea hæc dicit Dominus Deus : <l eID="gen30131" level="1"/> <l level="1" sID="gen30132"/>Tribulabitur et circuietur terra : <l eID="gen30132" level="1"/> <l level="1" sID="gen30133"/>et detrahetur ex te fortitudo tua, <l eID="gen30133" level="1"/> <l level="1" sID="gen30134"/>et diripientur ædes tuæ. <l eID="gen30134" level="1"/>
+
+** Amos 3:12
+
+Hæc dicit Dominus : <l eID="gen30135" level="1"/> <l level="1" sID="gen30136"/>Quomodo si eruat pastor de ore leonis <l eID="gen30136" level="1"/> <l level="1" sID="gen30137"/>duo crura, aut extremum auriculæ, <l eID="gen30137" level="1"/> <l level="1" sID="gen30138"/>sic eruentur filii Israël, qui habitant in Samaria <l eID="gen30138" level="1"/> <l level="1" sID="gen30139"/>in plaga lectuli, et in Damasci grabato. <l eID="gen30139" level="1"/>
+
+** Amos 3:13
+
+Audite, et contestamini in domo Jacob, <l eID="gen30140" level="1"/> <l level="1" sID="gen30141"/>dicit Dominus Deus exercituum ; <l eID="gen30141" level="1"/>
+
+** Amos 3:14
+
+quia in die cum visitare cœpero prævaricationes Israël, <l eID="gen30142" level="1"/> <l level="1" sID="gen30143"/>super eum visitabo, et super altaria Bethel ; <l eID="gen30143" level="1"/> <l level="1" sID="gen30144"/>et amputabuntur cornua altaris, et cadent in terram. <l eID="gen30144" level="1"/>
+
+** Amos 3:15
+
+Et percutiam domum hiemalem cum domo æstiva, <l eID="gen30145" level="1"/> <l level="1" sID="gen30146"/>et peribunt domus eburneæ, <l eID="gen30146" level="1"/> <l level="1" sID="gen30147"/>et dissipabuntur ædes multæ, <l eID="gen30147" level="1"/> <l level="1" sID="gen30148"/>dicit Dominus.  <chapter eID="Amos.3"/>
+
+* Amos 4
+
+** Amos 4:1
+
+Audite verbum hoc, vaccæ pingues, <l eID="gen30149" level="1"/> <l level="1" sID="gen30150"/>quæ estis in monte Samariæ, <l eID="gen30150" level="1"/> <l level="1" sID="gen30151"/>quæ calumniam facitis egenis <l eID="gen30151" level="1"/> <l level="1" sID="gen30152"/>et confringitis pauperes ; <l eID="gen30152" level="1"/> <l level="1" sID="gen30153"/>quæ dicitis dominis vestris : Afferte, et bibemus. <l eID="gen30153" level="1"/>
+
+** Amos 4:2
+
+Juravit Dominus Deus in sancto suo, <l eID="gen30154" level="1"/> <l level="1" sID="gen30155"/>quia ecce dies venient super vos, <l eID="gen30155" level="1"/> <l level="1" sID="gen30156"/>et levabunt vos in contis, <l eID="gen30156" level="1"/> <l level="1" sID="gen30157"/>et reliquias vestras in ollis ferventibus. <l eID="gen30157" level="1"/>
+
+** Amos 4:3
+
+Et per aperturas exibitis altera contra alteram, <l eID="gen30158" level="1"/> <l level="1" sID="gen30159"/>et projiciemini in Armon, <l eID="gen30159" level="1"/> <l level="1" sID="gen30160"/>dicit Dominus. <l eID="gen30160" level="1"/>
+
+** Amos 4:4
+
+Venite ad Bethel, et impie agite ; <l eID="gen30161" level="1"/> <l level="1" sID="gen30162"/>ad Galgalam, et multiplicate prævaricationem : <l eID="gen30162" level="1"/> <l level="1" sID="gen30163"/>et afferte mane victimas vestras, <l eID="gen30163" level="1"/> <l level="1" sID="gen30164"/>tribus diebus decimas vestras. <l eID="gen30164" level="1"/>
+
+** Amos 4:5
+
+Et sacrificate de fermentato laudem, <l eID="gen30165" level="1"/> <l level="1" sID="gen30166"/>et vocate voluntarias oblationes, et annuntiate ; <l eID="gen30166" level="1"/> <l level="1" sID="gen30167"/>sic enim voluistis, filii Israël, <l eID="gen30167" level="1"/> <l level="1" sID="gen30168"/>dicit Dominus Deus. <l eID="gen30168" level="1"/>
+
+** Amos 4:6
+
+Unde et ego dedi vobis stuporem dentium in cunctis urbibus vestris, <l eID="gen30169" level="1"/> <l level="1" sID="gen30170"/>et indigentiam panum in omnibus locis vestris ; <l eID="gen30170" level="1"/> <l level="1" sID="gen30171"/>et non estis reversi ad me, <l eID="gen30171" level="1"/> <l level="1" sID="gen30172"/>dicit Dominus. <l eID="gen30172" level="1"/>
+
+** Amos 4:7
+
+Ego quoque prohibui a vobis imbrem, <l eID="gen30173" level="1"/> <l level="1" sID="gen30174"/>cum adhuc tres menses superessent usque ad messem : <l eID="gen30174" level="1"/> <l level="1" sID="gen30175"/>et plui super unam civitatem, <l eID="gen30175" level="1"/> <l level="1" sID="gen30176"/>et super alteram civitatem non plui ; <l eID="gen30176" level="1"/> <l level="1" sID="gen30177"/>pars una compluta est, <l eID="gen30177" level="1"/> <l level="1" sID="gen30178"/>et pars super quam non plui, aruit. <l eID="gen30178" level="1"/>
+
+** Amos 4:8
+
+Et venerunt duæ et tres civitates ad unam civitatem <l eID="gen30179" level="1"/> <l level="1" sID="gen30180"/>ut biberent aquam, et non sunt satiatæ ; <l eID="gen30180" level="1"/> <l level="1" sID="gen30181"/>et non redistis ad me, <l eID="gen30181" level="1"/> <l level="1" sID="gen30182"/>dicit Dominus. <l eID="gen30182" level="1"/>
+
+** Amos 4:9
+
+Percussi vos in vento urente, et in aurugine : <l eID="gen30183" level="1"/> <l level="1" sID="gen30184"/>multitudinem hortorum vestrorum et vinearum vestrarum, <l eID="gen30184" level="1"/> <l level="1" sID="gen30185"/>oliveta vestra et ficeta vestra comedit eruca : <l eID="gen30185" level="1"/> <l level="1" sID="gen30186"/>et non redistis ad me, <l eID="gen30186" level="1"/> <l level="1" sID="gen30187"/>dicit Dominus. <l eID="gen30187" level="1"/>
+
+** Amos 4:10
+
+Misi in vos mortem in via Ægypti ; <l eID="gen30188" level="1"/> <l level="1" sID="gen30189"/>percussi in gladio juvenes vestros, <l eID="gen30189" level="1"/> <l level="1" sID="gen30190"/>usque ad captivitatem equorum vestrorum, <l eID="gen30190" level="1"/> <l level="1" sID="gen30191"/>et ascendere feci putredinem castrorum vestrorum in nares vestras : <l eID="gen30191" level="1"/> <l level="1" sID="gen30192"/>et non redistis ad me, <l eID="gen30192" level="1"/> <l level="1" sID="gen30193"/>dicit Dominus. <l eID="gen30193" level="1"/>
+
+** Amos 4:11
+
+Subverti vos sicut subvertit Deus Sodomam et Gomorrham, <l eID="gen30194" level="1"/> <l level="1" sID="gen30195"/>et facti estis quasi torris raptus ab incendio : <l eID="gen30195" level="1"/> <l level="1" sID="gen30196"/>et non redistis ad me, <l eID="gen30196" level="1"/> <l level="1" sID="gen30197"/>dicit Dominus. <l eID="gen30197" level="1"/>
+
+** Amos 4:12
+
+Quapropter hæc faciam tibi, Israël : <l eID="gen30198" level="1"/> <l level="1" sID="gen30199"/>postquam autem hæc fecero tibi, <l eID="gen30199" level="1"/> <l level="1" sID="gen30200"/>præparare in occursum Dei tui, Israël. <l eID="gen30200" level="1"/>
+
+** Amos 4:13
+
+Quia ecce formans montes, <l eID="gen30201" level="1"/> <l level="1" sID="gen30202"/>et creans ventum, <l eID="gen30202" level="1"/> <l level="1" sID="gen30203"/>et annuntians homini eloquium suum, <l eID="gen30203" level="1"/> <l level="1" sID="gen30204"/>faciens matutinam nebulam, <l eID="gen30204" level="1"/> <l level="1" sID="gen30205"/>et gradiens super excelsa terræ : <l eID="gen30205" level="1"/> <l level="1" sID="gen30206"/>Dominus Deus exercituum nomen ejus.  <chapter eID="Amos.4"/>
+
+* Amos 5
+
+** Amos 5:1
+
+Audite verbum istud, <l eID="gen30207" level="1"/> <l level="1" sID="gen30208"/>quod ego levo super vos planctum : <l eID="gen30208" level="1"/> <l level="1" sID="gen30209"/>domus Israël cecidit, <l eID="gen30209" level="1"/> <l level="1" sID="gen30210"/>et non adjiciet ut resurgat. <l eID="gen30210" level="1"/>
+
+** Amos 5:2
+
+Virgo Israël projecta est in terram suam, <l eID="gen30211" level="1"/> <l level="1" sID="gen30212"/>non est qui suscitet eam. <l eID="gen30212" level="1"/>
+
+** Amos 5:3
+
+Quia hæc dicit Dominus Deus : <l eID="gen30213" level="1"/> <l level="1" sID="gen30214"/>Urbs de qua egrediebantur mille, <l eID="gen30214" level="1"/> <l level="1" sID="gen30215"/>relinquentur in ea centum ; <l eID="gen30215" level="1"/> <l level="1" sID="gen30216"/>et de qua egrediebantur centum, <l eID="gen30216" level="1"/> <l level="1" sID="gen30217"/>relinquentur in ea decem in domo Israël. <l eID="gen30217" level="1"/>
+
+** Amos 5:4
+
+Quia hæc dicit Dominus domui Israël : <l eID="gen30218" level="1"/> <l level="1" sID="gen30219"/>Quærite me, et vivetis. <l eID="gen30219" level="1"/>
+
+** Amos 5:5
+
+Et nolite quærere Bethel, <l eID="gen30220" level="1"/> <l level="1" sID="gen30221"/>et in Galgalam nolite intrare, <l eID="gen30221" level="1"/> <l level="1" sID="gen30222"/>et in Bersabee non transibitis, <l eID="gen30222" level="1"/> <l level="1" sID="gen30223"/>quia Galgala captiva ducetur, <l eID="gen30223" level="1"/> <l level="1" sID="gen30224"/>et Bethel erit inutilis. <l eID="gen30224" level="1"/>
+
+** Amos 5:6
+
+Quærite Dominum, et vivite <l eID="gen30225" level="1"/> <l level="1" sID="gen30226"/>(ne forte comburatur ut ignis domus Joseph, et devorabit, <l eID="gen30226" level="1"/> <l level="1" sID="gen30227"/>et non erit qui extinguat Bethel : <l eID="gen30227" level="1"/>
+
+** Amos 5:7
+
+qui convertitis in absinthium judicium, <l eID="gen30228" level="1"/> <l level="1" sID="gen30229"/>et justitiam in terra relinquitis) : <l eID="gen30229" level="1"/>
+
+** Amos 5:8
+
+facientem Arcturum et Orionem, <l eID="gen30230" level="1"/> <l level="1" sID="gen30231"/>et convertentem in mane tenebras, <l eID="gen30231" level="1"/> <l level="1" sID="gen30232"/>et diem in noctem mutantem ; <l eID="gen30232" level="1"/> <l level="1" sID="gen30233"/>qui vocat aquas maris, <l eID="gen30233" level="1"/> <l level="1" sID="gen30234"/>et effundit eas super faciem terræ ; <l eID="gen30234" level="1"/> <l level="1" sID="gen30235"/>Dominus nomen est ejus : <l eID="gen30235" level="1"/>
+
+** Amos 5:9
+
+qui subridet vastitatem super robustum, <l eID="gen30236" level="1"/> <l level="1" sID="gen30237"/>et depopulationem super potentem affert. <l eID="gen30237" level="1"/>
+
+** Amos 5:10
+
+Odio habuerunt corripientem in porta, <l eID="gen30238" level="1"/> <l level="1" sID="gen30239"/>et loquentem perfecte abominati sunt. <l eID="gen30239" level="1"/>
+
+** Amos 5:11
+
+Idcirco, pro eo quod diripiebatis pauperem, <l eID="gen30240" level="1"/> <l level="1" sID="gen30241"/>et prædam electam tollebatis ab eo, <l eID="gen30241" level="1"/> <l level="1" sID="gen30242"/>domos quadro lapide ædificabitis, <l eID="gen30242" level="1"/> <l level="1" sID="gen30243"/>et non habitabitis in eis ; <l eID="gen30243" level="1"/> <l level="1" sID="gen30244"/>vineas plantabis amantissimas, <l eID="gen30244" level="1"/> <l level="1" sID="gen30245"/>et non bibetis vinum earum. <l eID="gen30245" level="1"/>
+
+** Amos 5:12
+
+Quia cognovi multa scelera vestra, <l eID="gen30246" level="1"/> <l level="1" sID="gen30247"/>et fortia peccata vestra : <l eID="gen30247" level="1"/> <l level="1" sID="gen30248"/>hostes justi, accipientes munus, <l eID="gen30248" level="1"/> <l level="1" sID="gen30249"/>et pauperes deprimentes in porta. <l eID="gen30249" level="1"/>
+
+** Amos 5:13
+
+Ideo prudens in tempore illo tacebit, <l eID="gen30250" level="1"/> <l level="1" sID="gen30251"/>quia tempus malum est. <l eID="gen30251" level="1"/>
+
+** Amos 5:14
+
+Quærite bonum, et non malum, ut vivatis ; <l eID="gen30252" level="1"/> <l level="1" sID="gen30253"/>et erit Dominus Deus exercituum vobiscum, sicut dixistis. <l eID="gen30253" level="1"/>
+
+** Amos 5:15
+
+Odite malum et diligite bonum, <l eID="gen30254" level="1"/> <l level="1" sID="gen30255"/>et constituite in porta judicium : <l eID="gen30255" level="1"/> <l level="1" sID="gen30256"/>si forte misereatur Dominus Deus exercituum reliquiis Joseph. <l eID="gen30256" level="1"/>
+
+** Amos 5:16
+
+Propterea hæc dicit Dominus Deus exercituum, dominator : <l eID="gen30257" level="1"/> <l level="1" sID="gen30258"/>In omnibus plateis planctus ; <l eID="gen30258" level="1"/> <l level="1" sID="gen30259"/>et in cunctis quæ foris sunt, dicetur : Væ, væ ! <l eID="gen30259" level="1"/> <l level="1" sID="gen30260"/>et vocabunt agricolam ad luctum, <l eID="gen30260" level="1"/> <l level="1" sID="gen30261"/>et ad planctum eos qui sciunt plangere. <l eID="gen30261" level="1"/>
+
+** Amos 5:17
+
+Et in omnibus vineis erit planctus, <l eID="gen30262" level="1"/> <l level="1" sID="gen30263"/>quia pertransibo in medio tui, <l eID="gen30263" level="1"/> <l level="1" sID="gen30264"/>dicit Dominus. <l eID="gen30264" level="1"/>
+
+** Amos 5:18
+
+Væ desiderantibus diem Domini ! <l eID="gen30265" level="1"/> <l level="1" sID="gen30266"/>ad quid eam vobis ? <l eID="gen30266" level="1"/> <l level="1" sID="gen30267"/>Dies Domini ista, tenebræ, et non lux. <l eID="gen30267" level="1"/>
+
+** Amos 5:19
+
+Quomodo si fugiat vir a facie leonis, <l eID="gen30268" level="1"/> <l level="1" sID="gen30269"/>et occurrat ei ursus ; <l eID="gen30269" level="1"/> <l level="1" sID="gen30270"/>et ingrediatur domum, et innitatur manu sua super parietem, <l eID="gen30270" level="1"/> <l level="1" sID="gen30271"/>et mordeat eum coluber. <l eID="gen30271" level="1"/>
+
+** Amos 5:20
+
+Numquid non tenebræ dies Domini, et non lux ; <l eID="gen30272" level="1"/> <l level="1" sID="gen30273"/>et caligo, et non splendor in ea ? <l eID="gen30273" level="1"/>
+
+** Amos 5:21
+
+Odi, et projeci festivitates vestras, <l eID="gen30274" level="1"/> <l level="1" sID="gen30275"/>et non capiam odorem cœtuum vestrorum. <l eID="gen30275" level="1"/>
+
+** Amos 5:22
+
+Quod si obtuleritis mihi holocautomata, et munera vestra, <l eID="gen30276" level="1"/> <l level="1" sID="gen30277"/>non suscipiam ; <l eID="gen30277" level="1"/> <l level="1" sID="gen30278"/>et vota pinguium vestrorum non respiciam. <l eID="gen30278" level="1"/>
+
+** Amos 5:23
+
+Aufer a me tumultum carminum tuorum ; <l eID="gen30279" level="1"/> <l level="1" sID="gen30280"/>et cantica lyræ tuæ non audiam. <l eID="gen30280" level="1"/>
+
+** Amos 5:24
+
+Et revelabitur quasi aqua judicium, <l eID="gen30281" level="1"/> <l level="1" sID="gen30282"/>et justitia quasi torrens fortis. <l eID="gen30282" level="1"/>
+
+** Amos 5:25
+
+Numquid hostias et sacrificium obtulistis mihi <l eID="gen30283" level="1"/> <l level="1" sID="gen30284"/>in deserto quadraginta annis, domus Israël ?
+
+** Amos 5:26
+
+et portastis tabernaculum Moloch vestro, <l eID="gen30284" level="1"/> <l level="1" sID="gen30285"/>et imaginem idolorum vestrorum, sidus dei vestri, <l eID="gen30285" level="1"/> <l level="1" sID="gen30286"/>quæ fecistis vobis. <l eID="gen30286" level="1"/>
+
+** Amos 5:27
+
+Et migrare vos faciam trans Damascum, dicit Dominus : <l eID="gen30287" level="1"/> <l level="1" sID="gen30288"/>Deus exercituum nomen ejus.  <chapter eID="Amos.5"/>
+
+* Amos 6
+
+** Amos 6:1
+
+Væ qui opulenti estis in Sion, <l eID="gen30289" level="1"/> <l level="1" sID="gen30290"/>et confiditis in monte Samariæ : <l eID="gen30290" level="1"/> <l level="1" sID="gen30291"/>optimates capita populorum, <l eID="gen30291" level="1"/> <l level="1" sID="gen30292"/>ingredientes pompatice domum Israël ! <l eID="gen30292" level="1"/>
+
+** Amos 6:2
+
+Transite in Chalane, et videte, <l eID="gen30293" level="1"/> <l level="1" sID="gen30294"/>et ite inde in Emath magnam, <l eID="gen30294" level="1"/> <l level="1" sID="gen30295"/>et descendite in Geth Palæstinorum, <l eID="gen30295" level="1"/> <l level="1" sID="gen30296"/>et ad optima quæque regna horum : <l eID="gen30296" level="1"/> <l level="1" sID="gen30297"/>si latior terminus eorum termino vestro est. <l eID="gen30297" level="1"/>
+
+** Amos 6:3
+
+Qui separati estis in diem malum, <l eID="gen30298" level="1"/> <l level="1" sID="gen30299"/>et appropinquatis solio iniquitatis ; <l eID="gen30299" level="1"/>
+
+** Amos 6:4
+
+qui dormitis in lectis eburneis, <l eID="gen30300" level="1"/> <l level="1" sID="gen30301"/>et lascivitis in stratis vestris ; <l eID="gen30301" level="1"/> <l level="1" sID="gen30302"/>qui comeditis agnum de grege, <l eID="gen30302" level="1"/> <l level="1" sID="gen30303"/>et vitulos de medio armenti ; <l eID="gen30303" level="1"/>
+
+** Amos 6:5
+
+qui canitis ad vocem psalterii, <l eID="gen30304" level="1"/> <l level="1" sID="gen30305"/>sicut David putaverunt se habere vasa cantici, <l eID="gen30305" level="1"/>
+
+** Amos 6:6
+
+bibentes vinum in phialis, <l eID="gen30306" level="1"/> <l level="1" sID="gen30307"/>et optimo unguento delibuti, <l eID="gen30307" level="1"/> <l level="1" sID="gen30308"/>et nihil patiebantur super contritione Joseph. <l eID="gen30308" level="1"/>
+
+** Amos 6:7
+
+Quapropter nunc migrabunt in capite transmigrantium, <l eID="gen30309" level="1"/> <l level="1" sID="gen30310"/>et auferetur factio lascivientium. <l eID="gen30310" level="1"/>
+
+** Amos 6:8
+
+Juravit Dominus Deus in anima sua, <l eID="gen30311" level="1"/> <l level="1" sID="gen30312"/>dicit Dominus Deus exercituum : <l eID="gen30312" level="1"/> <l level="1" sID="gen30313"/>Detestor ego superbiam Jacob, <l eID="gen30313" level="1"/> <l level="1" sID="gen30314"/>et domos ejus odi, <l eID="gen30314" level="1"/> <l level="1" sID="gen30315"/>et tradam civitatem cum habitatoribus suis. <l eID="gen30315" level="1"/>
+
+** Amos 6:9
+
+Quod si reliqui fuerint decem viri in domo una, <l eID="gen30316" level="1"/> <l level="1" sID="gen30317"/>et ipsi morientur. <l eID="gen30317" level="1"/>
+
+** Amos 6:10
+
+Et tollet eum propinquus suus, et comburet eum, <l eID="gen30318" level="1"/> <l level="1" sID="gen30319"/>ut efferat ossa de domo ; <l eID="gen30319" level="1"/> <l level="1" sID="gen30320"/>et dicet ei, qui in penetralibus domus est : <l eID="gen30320" level="1"/> <l level="1" sID="gen30321"/>Numquid adhuc est penes te ? <l eID="gen30321" level="1"/>
+
+** Amos 6:11
+
+Et respondebit : Finis est. <l eID="gen30322" level="1"/> <l level="1" sID="gen30323"/>Et dicet ei : Tace, <l eID="gen30323" level="1"/> <l level="1" sID="gen30324"/>et non recorderis nominis Domini. <l eID="gen30324" level="1"/>
+
+** Amos 6:12
+
+Quia ecce Dominus mandabit, <l eID="gen30325" level="1"/> <l level="1" sID="gen30326"/>et percutiet domum majorem ruinis, <l eID="gen30326" level="1"/> <l level="1" sID="gen30327"/>et domum minorem scissionibus. <l eID="gen30327" level="1"/>
+
+** Amos 6:13
+
+Numquid currere queunt in petris equi, <l eID="gen30328" level="1"/> <l level="1" sID="gen30329"/>aut arari potest in bubalis ? <l eID="gen30329" level="1"/> <l level="1" sID="gen30330"/>quoniam convertistis in amaritudinem judicium, <l eID="gen30330" level="1"/> <l level="1" sID="gen30331"/>et fructum justitiæ in absinthium. <l eID="gen30331" level="1"/>
+
+** Amos 6:14
+
+Qui lætamini in nihilo ; qui dicitis : <l eID="gen30332" level="1"/> <l level="1" sID="gen30333"/>Numquid non in fortitudine nostra assumpsimus nobis cornua ? <l eID="gen30333" level="1"/>
+
+** Amos 6:15
+
+Ecce enim suscitabo super vos, domus Israël, <l eID="gen30334" level="1"/> <l level="1" sID="gen30335"/>dicit Dominus Deus exercituum, gentem, <l eID="gen30335" level="1"/> <l level="1" sID="gen30336"/>et conteret vos ab introitu Emath usque ad torrentem deserti. <l eID="gen30336" level="1"/><lg eID="gen29993"/> <chapter eID="Amos.6"/>
+
+* Amos 7
+
+** Amos 7:1
+
+Hæc ostendit mihi Dominus Deus : et ecce fictor locustæ in principio germinantium serotini imbris, et ecce serotinus post tonsionem regis.
+
+** Amos 7:2
+
+Et factum est, cum consummasset comedere herbam terræ, dixi : Domine Deus, propitius esto, obsecro ; quis suscitabit Jacob, quia parvulus est ?
+
+** Amos 7:3
+
+Misertus est Dominus super hoc : Non erit, dixit Dominus.
+
+** Amos 7:4
+
+Hæc ostendit mihi Dominus Deus : et ecce vocabat judicium ad ignem Dominus Deus ; et devoravit abyssum multam, et comedit simul partem.
+
+** Amos 7:5
+
+Et dixi : Domine Deus, quiesce, obsecro ; quis suscitabit Jacob, quia parvulus est ?
+
+** Amos 7:6
+
+Misertus est Dominus super hoc : Sed et istud non erit, dixit Dominus Deus.
+
+** Amos 7:7
+
+Hæc ostendit mihi Dominus : et ecce Dominus stans super murum litum, et in manu ejus trulla cæmentarii.
+
+** Amos 7:8
+
+Et dixit Dominus ad me : Quid tu vides, Amos ? Et dixi : Trullam cæmentarii. Et dixit Dominus : <div eID="gen30337" type="x-p"/> <lg sID="gen30338"/> <l level="1" sID="gen30339"/>Ecce ego ponam trullam in medio populi mei Israël ; <l eID="gen30339" level="1"/> <l level="1" sID="gen30340"/>non adjiciam ultra superinducere eum. <l eID="gen30340" level="1"/>
+
+** Amos 7:9
+
+Et demolientur excelsa idoli, <l eID="gen30341" level="1"/> <l level="1" sID="gen30342"/>et sanctificationes Israël desolabuntur, <l eID="gen30342" level="1"/> <l level="1" sID="gen30343"/>et consurgam super domum Jeroboam in gladio.
+
+** Amos 7:10
+
+Et misit Amasias, sacerdos Bethel, ad Jeroboam, regem Israël, dicens : Rebellavit contra te Amos in medio domus Israël ; non poterit terra sustinere universos sermones ejus.
+
+** Amos 7:11
+
+Hæc enim dicit Amos : In gladio morietur Jeroboam, et Israël captivus migrabit de terra sua.
+
+** Amos 7:12
+
+Et dixit Amasias ad Amos : Qui vides, gradere : fuge in terram Juda, et comede ibi panem, et prophetabis ibi.
+
+** Amos 7:13
+
+Et in Bethel non adjicies ultra ut prophetes, quia sanctificatio regis est, et domus regni est.
+
+** Amos 7:14
+
+Responditque Amos, et dixit ad Amasiam : Non sum propheta, et non sum filius prophetæ : sed armentarius ego sum vellicans sycomoros.
+
+** Amos 7:15
+
+Et tulit me Dominus cum sequerer gregem, et dixit Dominus ad me : Vade, propheta ad populum meum Israël.
+
+** Amos 7:16
+
+Et nunc audi verbum Domini : <l eID="gen30343" level="1"/> <l level="1" sID="gen30344"/>Tu dicis : Non prophetabis super Israël, <l eID="gen30344" level="1"/> <l level="1" sID="gen30345"/>et non stillabis super domum idoli. <l eID="gen30345" level="1"/>
+
+** Amos 7:17
+
+Propter hoc hæc dicit Dominus : <l eID="gen30346" level="1"/> <l level="1" sID="gen30347"/>Uxor tua in civitate fornicabitur, <l eID="gen30347" level="1"/> <l level="1" sID="gen30348"/>et filii tui et filiæ tuæ in gladio cadent, <l eID="gen30348" level="1"/> <l level="1" sID="gen30349"/>et humus tua funiculo metietur : <l eID="gen30349" level="1"/> <l level="1" sID="gen30350"/>et tu in terra polluta morieris, <l eID="gen30350" level="1"/> <l level="1" sID="gen30351"/>et Israël captivus migrabit de terra sua. <l eID="gen30351" level="1"/><lg eID="gen30338"/> <chapter eID="Amos.7"/>
+
+* Amos 8
+
+** Amos 8:1
+
+Hæc ostendit mihi Dominus Deus : et ecce uncinus pomorum.
+
+** Amos 8:2
+
+Et dixit : Quid tu vides, Amos ? Et dixi : Uncinum pomorum. Et dixit Dominus ad me : <div eID="gen30352" type="x-p"/> <lg sID="gen30353"/> <l level="1" sID="gen30354"/>Venit finis super populum meum Israël ; <l eID="gen30354" level="1"/> <l level="1" sID="gen30355"/>non adjiciam ultra ut pertranseam eum. <l eID="gen30355" level="1"/>
+
+** Amos 8:3
+
+Et stridebunt cardines templi in die illa, <l eID="gen30356" level="1"/> <l level="1" sID="gen30357"/>dicit Dominus Deus : <l eID="gen30357" level="1"/> <l level="1" sID="gen30358"/>multi morientur ; <l eID="gen30358" level="1"/> <l level="1" sID="gen30359"/>in omni loco projicietur silentium. <l eID="gen30359" level="1"/>
+
+** Amos 8:4
+
+Audite hoc, qui conteritis pauperem, <l eID="gen30360" level="1"/> <l level="1" sID="gen30361"/>et deficere facitis egenos terræ, <l eID="gen30361" level="1"/>
+
+** Amos 8:5
+
+dicentes : Quando transibit mensis, <l eID="gen30362" level="1"/> <l level="1" sID="gen30363"/>et venundabimus merces ? <l eID="gen30363" level="1"/> <l level="1" sID="gen30364"/>et sabbatum, et aperiemus frumentum, <l eID="gen30364" level="1"/> <l level="1" sID="gen30365"/>ut imminuamus mensuram, et augeamus siclum, <l eID="gen30365" level="1"/> <l level="1" sID="gen30366"/>et supponamus stateras dolosas, <l eID="gen30366" level="1"/>
+
+** Amos 8:6
+
+ut possideamus in argento egenos et pauperes pro calceamentis, <l eID="gen30367" level="1"/> <l level="1" sID="gen30368"/>et quisquilias frumenti vendamus ? <l eID="gen30368" level="1"/>
+
+** Amos 8:7
+
+Juravit Dominus in superbiam Jacob : <l eID="gen30369" level="1"/> <l level="1" sID="gen30370"/>Si oblitus fuero usque ad finem omnia opera eorum. <l eID="gen30370" level="1"/>
+
+** Amos 8:8
+
+Numquid super isto non commovebitur terra, <l eID="gen30371" level="1"/> <l level="1" sID="gen30372"/>et lugebit omnis habitator ejus, <l eID="gen30372" level="1"/> <l level="1" sID="gen30373"/>et ascendet quasi fluvius universus, <l eID="gen30373" level="1"/> <l level="1" sID="gen30374"/>et ejicicetur, et defluet, quasi rivus Ægypti ? <l eID="gen30374" level="1"/>
+
+** Amos 8:9
+
+Et erit in die illa, dicit Dominus Deus : <l eID="gen30375" level="1"/> <l level="1" sID="gen30376"/>occidet sol in meridie, <l eID="gen30376" level="1"/> <l level="1" sID="gen30377"/>et tenebrescere faciam terram in die luminis : <l eID="gen30377" level="1"/>
+
+** Amos 8:10
+
+et convertam festivitates vestras in luctum, <l eID="gen30378" level="1"/> <l level="1" sID="gen30379"/>et omnia cantica vestra in planctum, <l eID="gen30379" level="1"/> <l level="1" sID="gen30380"/>et inducam super omne dorsum vestrum saccum, <l eID="gen30380" level="1"/> <l level="1" sID="gen30381"/>et super omne caput calvitium : <l eID="gen30381" level="1"/> <l level="1" sID="gen30382"/>et ponam eam quasi luctum unigeniti, <l eID="gen30382" level="1"/> <l level="1" sID="gen30383"/>et novissima ejus quasi diem amarum. <l eID="gen30383" level="1"/>
+
+** Amos 8:11
+
+Ecce dies veniunt, dicet Dominus, <l eID="gen30384" level="1"/> <l level="1" sID="gen30385"/>et mittam famem in terram : <l eID="gen30385" level="1"/> <l level="1" sID="gen30386"/>non famem panis, neque sitim aquæ, <l eID="gen30386" level="1"/> <l level="1" sID="gen30387"/>sed audiendi verbum Domini. <l eID="gen30387" level="1"/>
+
+** Amos 8:12
+
+Et commovebuntur a mari usque ad mare, <l eID="gen30388" level="1"/> <l level="1" sID="gen30389"/>et ab aquilone usque ad orientem : <l eID="gen30389" level="1"/> <l level="1" sID="gen30390"/>circuibunt quærentes verbum Domini, <l eID="gen30390" level="1"/> <l level="1" sID="gen30391"/>et non invenient. <l eID="gen30391" level="1"/>
+
+** Amos 8:13
+
+In die illa deficient virgines pulchræ et adolescentes in siti, <l eID="gen30392" level="1"/>
+
+** Amos 8:14
+
+qui jurant in delicto Samariæ, <l eID="gen30393" level="1"/> <l level="1" sID="gen30394"/>et dicunt : Vivit Deus tuus, Dan, <l eID="gen30394" level="1"/> <l level="1" sID="gen30395"/>et vivit via Bersabee ; <l eID="gen30395" level="1"/> <l level="1" sID="gen30396"/>et cadent, et non resurgent ultra. <l eID="gen30396" level="1"/><lg eID="gen30353"/> <chapter eID="Amos.8"/>
+
+* Amos 9
+
+** Amos 9:1
+
+Vidi Dominum stantem super altare, et dixit : <div eID="gen30397" type="x-p"/> <lg sID="gen30398"/> <l level="1" sID="gen30399"/>Percute cardinem, <l eID="gen30399" level="1"/> <l level="1" sID="gen30400"/>et commoveantur superliminaria : <l eID="gen30400" level="1"/> <l level="1" sID="gen30401"/>avaritia enim in capite omnium, <l eID="gen30401" level="1"/> <l level="1" sID="gen30402"/>et novissimum eorum in gladio interficiam ; <l eID="gen30402" level="1"/> <l level="1" sID="gen30403"/>non erit fuga eis. <l eID="gen30403" level="1"/> <l level="1" sID="gen30404"/>Fugient, et non salvabitur ex eis qui fugerit. <l eID="gen30404" level="1"/>
+
+** Amos 9:2
+
+Si descenderint usque ad infernum, <l eID="gen30405" level="1"/> <l level="1" sID="gen30406"/>inde manus mea educet eos ; <l eID="gen30406" level="1"/> <l level="1" sID="gen30407"/>et si ascenderint usque in cælum, <l eID="gen30407" level="1"/> <l level="1" sID="gen30408"/>inde detraham eos. <l eID="gen30408" level="1"/>
+
+** Amos 9:3
+
+Et si absconditi fuerint in vertice Carmeli, <l eID="gen30409" level="1"/> <l level="1" sID="gen30410"/>inde scrutans auferam eos ; <l eID="gen30410" level="1"/> <l level="1" sID="gen30411"/>et si celaverint se ab oculis meis in profundo maris, <l eID="gen30411" level="1"/> <l level="1" sID="gen30412"/>ibi mandabo serpenti, et mordebit eos. <l eID="gen30412" level="1"/>
+
+** Amos 9:4
+
+Et si abierint in captivitatem coram inimicis suis, <l eID="gen30413" level="1"/> <l level="1" sID="gen30414"/>ibi mandabo gladio, et occidet eos : <l eID="gen30414" level="1"/> <l level="1" sID="gen30415"/>et ponam oculos meos super eos in malum, <l eID="gen30415" level="1"/> <l level="1" sID="gen30416"/>et non in bonum. <l eID="gen30416" level="1"/>
+
+** Amos 9:5
+
+Et Dominus Deus exercituum, qui tangit terram, et tabescet, <l eID="gen30417" level="1"/> <l level="1" sID="gen30418"/>et lugebunt omnes habitantes in ea : <l eID="gen30418" level="1"/> <l level="1" sID="gen30419"/>et ascendet sicut rivus omnis, <l eID="gen30419" level="1"/> <l level="1" sID="gen30420"/>et defluet sicut fluvius Ægypti. <l eID="gen30420" level="1"/>
+
+** Amos 9:6
+
+Qui ædificat in cælo ascensionem suam, <l eID="gen30421" level="1"/> <l level="1" sID="gen30422"/>et fasciculum suum super terram fundavit ; <l eID="gen30422" level="1"/> <l level="1" sID="gen30423"/>qui vocat aquas maris, <l eID="gen30423" level="1"/> <l level="1" sID="gen30424"/>et effundit eas super faciem terræ : <l eID="gen30424" level="1"/> <l level="1" sID="gen30425"/>Dominus nomen ejus. <l eID="gen30425" level="1"/>
+
+** Amos 9:7
+
+Numquid non ut filii Æthiopum <l eID="gen30426" level="1"/> <l level="1" sID="gen30427"/>vos estis mihi, filii Israël ? ait Dominus. <l eID="gen30427" level="1"/> <l level="1" sID="gen30428"/>Numquid non Israël ascendere feci de terra Ægypti, <l eID="gen30428" level="1"/> <l level="1" sID="gen30429"/>et Palæstinos de Cappadocia, <l eID="gen30429" level="1"/> <l level="1" sID="gen30430"/>et Syros de Cyrene ? <l eID="gen30430" level="1"/>
+
+** Amos 9:8
+
+Ecce oculi Domini Dei super regnum peccans : <l eID="gen30431" level="1"/> <l level="1" sID="gen30432"/>et conteram illud a facie terræ ; <l eID="gen30432" level="1"/> <l level="1" sID="gen30433"/>verumtamen conterens non conteram domum Jacob, <l eID="gen30433" level="1"/> <l level="1" sID="gen30434"/>dicit Dominus. <l eID="gen30434" level="1"/>
+
+** Amos 9:9
+
+Ecce enim mandabo ego, <l eID="gen30435" level="1"/> <l level="1" sID="gen30436"/>et concutiam in omnibus gentibus domum Israël, <l eID="gen30436" level="1"/> <l level="1" sID="gen30437"/>sicut concutitur triticum in cribro, <l eID="gen30437" level="1"/> <l level="1" sID="gen30438"/>et non cadet lapillus super terram. <l eID="gen30438" level="1"/>
+
+** Amos 9:10
+
+In gladio morientur omnes peccatores populi mei, <l eID="gen30439" level="1"/> <l level="1" sID="gen30440"/>qui dicunt : Non appropinquabit, <l eID="gen30440" level="1"/> <l level="1" sID="gen30441"/>et non veniet super nos malum. <l eID="gen30441" level="1"/>
+
+** Amos 9:11
+
+In die illa suscitabo tabernaculum David, quod cecidit : <l eID="gen30442" level="1"/> <l level="1" sID="gen30443"/>et reædificabo aperturas murorum ejus, <l eID="gen30443" level="1"/> <l level="1" sID="gen30444"/>et ea quæ corruerant instaurabo : <l eID="gen30444" level="1"/> <l level="1" sID="gen30445"/>et reædificabo illud sicut in diebus antiquis, <l eID="gen30445" level="1"/>
+
+** Amos 9:12
+
+ut possideant reliquias Idumææ, et omnes nationes : <l eID="gen30446" level="1"/> <l level="1" sID="gen30447"/>eo quod invocatum sit nomen meum super eos, <l eID="gen30447" level="1"/> <l level="1" sID="gen30448"/>dicit Dominus faciens hæc. <l eID="gen30448" level="1"/>
+
+** Amos 9:13
+
+Ecce dies veniunt, dicit Dominus, <l eID="gen30449" level="1"/> <l level="1" sID="gen30450"/>et comprehendet arator messorem, <l eID="gen30450" level="1"/> <l level="1" sID="gen30451"/>et calcator uvæ mittentem semen : <l eID="gen30451" level="1"/> <l level="1" sID="gen30452"/>et stillabunt montes dulcedinem, <l eID="gen30452" level="1"/> <l level="1" sID="gen30453"/>et omnes colli culti erunt. <l eID="gen30453" level="1"/>
+
+** Amos 9:14
+
+Et convertam captivitatem populi mei Israël ; <l eID="gen30454" level="1"/> <l level="1" sID="gen30455"/>et ædificabunt civitates desertas, et inhabitabunt ; <l eID="gen30455" level="1"/> <l level="1" sID="gen30456"/>et plantabunt vineas, et bibent vinum earum, <l eID="gen30456" level="1"/> <l level="1" sID="gen30457"/>et facient hortos, et comedent fructus eorum. <l eID="gen30457" level="1"/>
+
+** Amos 9:15
+
+Et plantabo eos super humum suam, <l eID="gen30458" level="1"/> <l level="1" sID="gen30459"/>et non evellam eos ultra de terra sua, quam dedi eis, <l eID="gen30459" level="1"/> <l level="1" sID="gen30460"/>dicit Dominus Deus tuus. <l eID="gen30460" level="1"/> <lg eID="gen30398"/> <chapter eID="Amos.9"/> <div eID="gen29990" osisID="Amos" type="book"/>
+

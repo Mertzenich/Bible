@@ -1,0 +1,3722 @@
+* Proverbs 1
+
+** Proverbs 1:1
+
+Parabolæ Salomonis, filii David, regis Israël, <l eID="gen10318" level="1"/>
+
+** Proverbs 1:2
+
+ad sciendam sapientiam et disciplinam ; <l eID="gen10319" level="1"/>
+
+** Proverbs 1:3
+
+ad intelligenda verba prudentiæ, <l eID="gen10320" level="1"/> <l level="1" sID="gen10321"/>et suscipiendam eruditionem doctrinæ, <l eID="gen10321" level="1"/> <l level="1" sID="gen10322"/>justitiam, et judicium, et æquitatem : <l eID="gen10322" level="1"/>
+
+** Proverbs 1:4
+
+ut detur parvulis astutia, <l eID="gen10323" level="1"/> <l level="1" sID="gen10324"/>adolescenti scientia et intellectus. <l eID="gen10324" level="1"/>
+
+** Proverbs 1:5
+
+Audiens sapiens, sapientior erit, <l eID="gen10325" level="1"/> <l level="1" sID="gen10326"/>et intelligens gubernacula possidebit. <l eID="gen10326" level="1"/>
+
+** Proverbs 1:6
+
+Animadvertet parabolam et interpretationem, <l eID="gen10327" level="1"/> <l level="1" sID="gen10328"/>verba sapientum et ænigmata eorum. <l eID="gen10328" level="1"/>
+
+** Proverbs 1:7
+
+Timor Domini principium sapientiæ ; <l eID="gen10329" level="1"/> <l level="1" sID="gen10330"/>sapientiam atque doctrinam stulti despiciunt. <l eID="gen10330" level="1"/>
+
+** Proverbs 1:8
+
+Audi, fili mi, disciplinam patris tui, <l eID="gen10331" level="1"/> <l level="1" sID="gen10332"/>et ne dimittas legem matris tuæ : <l eID="gen10332" level="1"/>
+
+** Proverbs 1:9
+
+ut addatur gratia capiti tuo, <l eID="gen10333" level="1"/> <l level="1" sID="gen10334"/>et torques collo tuo. <l eID="gen10334" level="1"/>
+
+** Proverbs 1:10
+
+Fili mi, si te lactaverint peccatores, <l eID="gen10335" level="1"/> <l level="1" sID="gen10336"/>ne acquiescas eis. <l eID="gen10336" level="1"/>
+
+** Proverbs 1:11
+
+Si dixerint : Veni nobiscum, insidiemur sanguini ; <l eID="gen10337" level="1"/> <l level="1" sID="gen10338"/>abscondamus tendiculas contra insontem frustra ; <l eID="gen10338" level="1"/>
+
+** Proverbs 1:12
+
+deglutiamus eum sicut infernus viventem, <l eID="gen10339" level="1"/> <l level="1" sID="gen10340"/>et integrum quasi descendentem in lacum ; <l eID="gen10340" level="1"/>
+
+** Proverbs 1:13
+
+omnem pretiosam substantiam reperiemus ; <l eID="gen10341" level="1"/> <l level="1" sID="gen10342"/>implebimus domos nostras spoliis : <l eID="gen10342" level="1"/>
+
+** Proverbs 1:14
+
+sortem mitte nobiscum, <l eID="gen10343" level="1"/> <l level="1" sID="gen10344"/>marsupium unum sit omnium nostrum : <l eID="gen10344" level="1"/>
+
+** Proverbs 1:15
+
+fili mi, ne ambules cum eis ; <l eID="gen10345" level="1"/> <l level="1" sID="gen10346"/>prohibe pedem tuum a semitis eorum : <l eID="gen10346" level="1"/>
+
+** Proverbs 1:16
+
+pedes enim illorum ad malum currunt, <l eID="gen10347" level="1"/> <l level="1" sID="gen10348"/>et festinant ut effundant sanguinem. <l eID="gen10348" level="1"/>
+
+** Proverbs 1:17
+
+Frustra autem jacitur rete <l eID="gen10349" level="1"/> <l level="1" sID="gen10350"/>ante oculos pennatorum. <l eID="gen10350" level="1"/>
+
+** Proverbs 1:18
+
+Ipsi quoque contra sanguinem suum insidiantur, <l eID="gen10351" level="1"/> <l level="1" sID="gen10352"/>et moliuntur fraudes contra animas suas. <l eID="gen10352" level="1"/>
+
+** Proverbs 1:19
+
+Sic semitæ omnis avari : <l eID="gen10353" level="1"/> <l level="1" sID="gen10354"/>animas possidentium rapiunt. <l eID="gen10354" level="1"/>
+
+** Proverbs 1:20
+
+Sapientia foris prædicat ; <l eID="gen10355" level="1"/> <l level="1" sID="gen10356"/>in plateis dat vocem suam : <l eID="gen10356" level="1"/>
+
+** Proverbs 1:21
+
+in capite turbarum clamitat ; <l eID="gen10357" level="1"/> <l level="1" sID="gen10358"/>in foribus portarum urbis profert verba sua, dicens : <l eID="gen10358" level="1"/>
+
+** Proverbs 1:22
+
+Usquequo, parvuli, diligitis infantiam, <l eID="gen10359" level="1"/> <l level="1" sID="gen10360"/>et stulti ea quæ sibi sunt noxia cupient, <l eID="gen10360" level="1"/> <l level="1" sID="gen10361"/>et imprudentes odibunt scientiam ? <l eID="gen10361" level="1"/>
+
+** Proverbs 1:23
+
+convertimini ad correptionem meam. <l eID="gen10362" level="1"/> <l level="1" sID="gen10363"/>En proferam vobis spiritum meum, <l eID="gen10363" level="1"/> <l level="1" sID="gen10364"/>et ostendam vobis verba mea. <l eID="gen10364" level="1"/>
+
+** Proverbs 1:24
+
+Quia vocavi, et renuistis ; <l eID="gen10365" level="1"/> <l level="1" sID="gen10366"/>extendi manum meam, et non fuit qui aspiceret : <l eID="gen10366" level="1"/>
+
+** Proverbs 1:25
+
+despexistis omne consilium meum, <l eID="gen10367" level="1"/> <l level="1" sID="gen10368"/>et increpationes meas neglexistis. <l eID="gen10368" level="1"/>
+
+** Proverbs 1:26
+
+Ego quoque in interitu vestro ridebo, <l eID="gen10369" level="1"/> <l level="1" sID="gen10370"/>et subsannabo cum vobis id quod timebatis advenerit. <l eID="gen10370" level="1"/>
+
+** Proverbs 1:27
+
+Cum irruerit repentina calamitas, <l eID="gen10371" level="1"/> <l level="1" sID="gen10372"/>et interitus quasi tempestas ingruerit ; <l eID="gen10372" level="1"/> <l level="1" sID="gen10373"/>quando venerit super vos tribulatio et angustia : <l eID="gen10373" level="1"/>
+
+** Proverbs 1:28
+
+tunc invocabunt me, et non exaudiam ; <l eID="gen10374" level="1"/> <l level="1" sID="gen10375"/>mane consurgent, et non invenient me : <l eID="gen10375" level="1"/>
+
+** Proverbs 1:29
+
+eo quod exosam habuerint disciplinam, <l eID="gen10376" level="1"/> <l level="1" sID="gen10377"/>et timorem Domini non susceperint, <l eID="gen10377" level="1"/>
+
+** Proverbs 1:30
+
+nec acquieverint consilio meo, <l eID="gen10378" level="1"/> <l level="1" sID="gen10379"/>et detraxerint universæ correptioni meæ. <l eID="gen10379" level="1"/>
+
+** Proverbs 1:31
+
+Comedent igitur fructus viæ suæ, <l eID="gen10380" level="1"/> <l level="1" sID="gen10381"/>suisque consiliis saturabuntur. <l eID="gen10381" level="1"/>
+
+** Proverbs 1:32
+
+Aversio parvulorum interficiet eos, <l eID="gen10382" level="1"/> <l level="1" sID="gen10383"/>et prosperitas stultorum perdet illos. <l eID="gen10383" level="1"/>
+
+** Proverbs 1:33
+
+Qui autem me audierit, absque terrore requiescet, <l eID="gen10384" level="1"/> <l level="1" sID="gen10385"/>et abundantia perfruetur, timore malorum sublato.  <chapter eID="Prov.1"/>
+
+* Proverbs 2
+
+** Proverbs 2:1
+
+Fili mi, si susceperis sermones meos, <l eID="gen10386" level="1"/> <l level="1" sID="gen10387"/>et mandata mea absconderis penes te : <l eID="gen10387" level="1"/>
+
+** Proverbs 2:2
+
+ut audiat sapientiam auris tua, <l eID="gen10388" level="1"/> <l level="1" sID="gen10389"/>inclina cor tuum ad cognoscendam prudentiam. <l eID="gen10389" level="1"/>
+
+** Proverbs 2:3
+
+Si enim sapientiam invocaveris, <l eID="gen10390" level="1"/> <l level="1" sID="gen10391"/>et inclinaveris cor tuum prudentiæ ; <l eID="gen10391" level="1"/>
+
+** Proverbs 2:4
+
+si quæsieris eam quasi pecuniam, <l eID="gen10392" level="1"/> <l level="1" sID="gen10393"/>et sicut thesauros effoderis illam : <l eID="gen10393" level="1"/>
+
+** Proverbs 2:5
+
+tunc intelliges timorem Domini, <l eID="gen10394" level="1"/> <l level="1" sID="gen10395"/>et scientiam Dei invenies, <l eID="gen10395" level="1"/>
+
+** Proverbs 2:6
+
+quia Dominus dat sapientiam, <l eID="gen10396" level="1"/> <l level="1" sID="gen10397"/>et ex ore ejus prudentia et scientia. <l eID="gen10397" level="1"/>
+
+** Proverbs 2:7
+
+Custodiet rectorum salutem, <l eID="gen10398" level="1"/> <l level="1" sID="gen10399"/>et proteget gradientes simpliciter, <l eID="gen10399" level="1"/>
+
+** Proverbs 2:8
+
+servans semitas justitiæ, <l eID="gen10400" level="1"/> <l level="1" sID="gen10401"/>et vias sanctorum custodiens. <l eID="gen10401" level="1"/>
+
+** Proverbs 2:9
+
+Tunc intelliges justitiam, et judicium, <l eID="gen10402" level="1"/> <l level="1" sID="gen10403"/>et æquitatem, et omnem semitam bonam. <l eID="gen10403" level="1"/>
+
+** Proverbs 2:10
+
+Si intraverit sapientia cor tuum, <l eID="gen10404" level="1"/> <l level="1" sID="gen10405"/>et scientia animæ tuæ placuerit, <l eID="gen10405" level="1"/>
+
+** Proverbs 2:11
+
+consilium custodiet te, <l eID="gen10406" level="1"/> <l level="1" sID="gen10407"/>et prudentia servabit te : <l eID="gen10407" level="1"/>
+
+** Proverbs 2:12
+
+ut eruaris a via mala, <l eID="gen10408" level="1"/> <l level="1" sID="gen10409"/>et ab homine qui perversa loquitur ; <l eID="gen10409" level="1"/>
+
+** Proverbs 2:13
+
+qui relinquunt iter rectum, <l eID="gen10410" level="1"/> <l level="1" sID="gen10411"/>et ambulant per vias tenebrosas ; <l eID="gen10411" level="1"/>
+
+** Proverbs 2:14
+
+qui lætantur cum malefecerint, <l eID="gen10412" level="1"/> <l level="1" sID="gen10413"/>et exsultant in rebus pessimis ; <l eID="gen10413" level="1"/>
+
+** Proverbs 2:15
+
+quorum viæ perversæ sunt, <l eID="gen10414" level="1"/> <l level="1" sID="gen10415"/>et infames gressus eorum. <l eID="gen10415" level="1"/>
+
+** Proverbs 2:16
+
+Ut eruaris a muliere aliena, <l eID="gen10416" level="1"/> <l level="1" sID="gen10417"/>et ab extranea quæ mollit sermones suos, <l eID="gen10417" level="1"/>
+
+** Proverbs 2:17
+
+et relinquit ducem pubertatis suæ, <l eID="gen10418" level="1"/>
+
+** Proverbs 2:18
+
+et pacti Dei sui oblita est. <l eID="gen10419" level="1"/> <l level="1" sID="gen10420"/>Inclinata est enim ad mortem domus ejus, <l eID="gen10420" level="1"/> <l level="1" sID="gen10421"/>et ad inferos semitæ ipsius. <l eID="gen10421" level="1"/>
+
+** Proverbs 2:19
+
+Omnes qui ingrediuntur ad eam non revertentur, <l eID="gen10422" level="1"/> <l level="1" sID="gen10423"/>nec apprehendent semitas vitæ. <l eID="gen10423" level="1"/>
+
+** Proverbs 2:20
+
+Ut ambules in via bona, <l eID="gen10424" level="1"/> <l level="1" sID="gen10425"/>et calles justorum custodias : <l eID="gen10425" level="1"/>
+
+** Proverbs 2:21
+
+qui enim recti sunt habitabunt in terra, <l eID="gen10426" level="1"/> <l level="1" sID="gen10427"/>et simplices permanebunt in ea ; <l eID="gen10427" level="1"/>
+
+** Proverbs 2:22
+
+impii vero de terra perdentur, <l eID="gen10428" level="1"/> <l level="1" sID="gen10429"/>et qui inique agunt auferentur ex ea.  <chapter eID="Prov.2"/>
+
+* Proverbs 3
+
+** Proverbs 3:1
+
+Fili mi, ne obliviscaris legis meæ, <l eID="gen10430" level="1"/> <l level="1" sID="gen10431"/>et præcepta mea cor tuum custodiat : <l eID="gen10431" level="1"/>
+
+** Proverbs 3:2
+
+longitudinem enim dierum, et annos vitæ, et pacem, <l eID="gen10432" level="1"/> <l level="1" sID="gen10433"/>apponent tibi. <l eID="gen10433" level="1"/>
+
+** Proverbs 3:3
+
+Misericordia et veritas te non deserant ; <l eID="gen10434" level="1"/> <l level="1" sID="gen10435"/>circumda eas gutturi tuo, <l eID="gen10435" level="1"/> <l level="1" sID="gen10436"/>et describe in tabulis cordis tui : <l eID="gen10436" level="1"/>
+
+** Proverbs 3:4
+
+et invenies gratiam, et disciplinam bonam, <l eID="gen10437" level="1"/> <l level="1" sID="gen10438"/>coram Deo et hominibus. <l eID="gen10438" level="1"/>
+
+** Proverbs 3:5
+
+Habe fiduciam in Domino ex toto corde tuo, <l eID="gen10439" level="1"/> <l level="1" sID="gen10440"/>et ne innitaris prudentiæ tuæ. <l eID="gen10440" level="1"/>
+
+** Proverbs 3:6
+
+In omnibus viis tuis cogita illum, <l eID="gen10441" level="1"/> <l level="1" sID="gen10442"/>et ipse diriget gressus tuos. <l eID="gen10442" level="1"/>
+
+** Proverbs 3:7
+
+Ne sis sapiens apud temetipsum ; <l eID="gen10443" level="1"/> <l level="1" sID="gen10444"/>time Deum, et recede a malo : <l eID="gen10444" level="1"/>
+
+** Proverbs 3:8
+
+sanitas quippe erit umbilico tuo, <l eID="gen10445" level="1"/> <l level="1" sID="gen10446"/>et irrigatio ossium tuorum. <l eID="gen10446" level="1"/>
+
+** Proverbs 3:9
+
+Honora Dominum de tua substantia, <l eID="gen10447" level="1"/> <l level="1" sID="gen10448"/>et de primitiis omnium frugum tuarum da ei : <l eID="gen10448" level="1"/>
+
+** Proverbs 3:10
+
+et implebuntur horrea tua saturitate, <l eID="gen10449" level="1"/> <l level="1" sID="gen10450"/>et vino torcularia tua redundabunt. <l eID="gen10450" level="1"/>
+
+** Proverbs 3:11
+
+Disciplinam Domini, fili mi, ne abjicias, <l eID="gen10451" level="1"/> <l level="1" sID="gen10452"/>nec deficias cum ab eo corriperis : <l eID="gen10452" level="1"/>
+
+** Proverbs 3:12
+
+quem enim diligit Dominus, corripit, <l eID="gen10453" level="1"/> <l level="1" sID="gen10454"/>et quasi pater in filio complacet sibi. <l eID="gen10454" level="1"/>
+
+** Proverbs 3:13
+
+Beatus homo qui invenit sapientiam, <l eID="gen10455" level="1"/> <l level="1" sID="gen10456"/>et qui affluit prudentia. <l eID="gen10456" level="1"/>
+
+** Proverbs 3:14
+
+Melior est acquisitio ejus negotiatione argenti, <l eID="gen10457" level="1"/> <l level="1" sID="gen10458"/>et auri primi et purissimi fructus ejus. <l eID="gen10458" level="1"/>
+
+** Proverbs 3:15
+
+Pretiosior est cunctis opibus, <l eID="gen10459" level="1"/> <l level="1" sID="gen10460"/>et omnia quæ desiderantur huic non valent comparari. <l eID="gen10460" level="1"/>
+
+** Proverbs 3:16
+
+Longitudo dierum in dextera ejus, <l eID="gen10461" level="1"/> <l level="1" sID="gen10462"/>et in sinistra illius divitiæ et gloria. <l eID="gen10462" level="1"/>
+
+** Proverbs 3:17
+
+Viæ ejus viæ pulchræ, <l eID="gen10463" level="1"/> <l level="1" sID="gen10464"/>et omnes semitæ illius pacificæ. <l eID="gen10464" level="1"/>
+
+** Proverbs 3:18
+
+Lignum vitæ est his qui apprehenderint eam, <l eID="gen10465" level="1"/> <l level="1" sID="gen10466"/>et qui tenuerit eam beatus. <l eID="gen10466" level="1"/>
+
+** Proverbs 3:19
+
+Dominus sapientia fundavit terram ; <l eID="gen10467" level="1"/> <l level="1" sID="gen10468"/>stabilivit cælos prudentia. <l eID="gen10468" level="1"/>
+
+** Proverbs 3:20
+
+Sapientia illius eruperunt abyssi, <l eID="gen10469" level="1"/> <l level="1" sID="gen10470"/>et nubes rore concrescunt. <l eID="gen10470" level="1"/>
+
+** Proverbs 3:21
+
+Fili mi, ne effluant hæc ab oculis tuis. <l eID="gen10471" level="1"/> <l level="1" sID="gen10472"/>Custodi legem atque consilium, <l eID="gen10472" level="1"/>
+
+** Proverbs 3:22
+
+et erit vita animæ tuæ, <l eID="gen10473" level="1"/> <l level="1" sID="gen10474"/>et gratia faucibus tuis. <l eID="gen10474" level="1"/>
+
+** Proverbs 3:23
+
+Tunc ambulabis fiducialiter in via tua, <l eID="gen10475" level="1"/> <l level="1" sID="gen10476"/>et pes tuus non impinget. <l eID="gen10476" level="1"/>
+
+** Proverbs 3:24
+
+Si dormieris, non timebis ; <l eID="gen10477" level="1"/> <l level="1" sID="gen10478"/>quiesces, et suavis erit somnus tuus. <l eID="gen10478" level="1"/>
+
+** Proverbs 3:25
+
+Ne paveas repentino terrore, <l eID="gen10479" level="1"/> <l level="1" sID="gen10480"/>et irruentes tibi potentias impiorum. <l eID="gen10480" level="1"/>
+
+** Proverbs 3:26
+
+Dominus enim erit in latere tuo, <l eID="gen10481" level="1"/> <l level="1" sID="gen10482"/>et custodiet pedem tuum, ne capiaris. <l eID="gen10482" level="1"/>
+
+** Proverbs 3:27
+
+Noli prohibere benefacere eum qui potest : <l eID="gen10483" level="1"/> <l level="1" sID="gen10484"/>si vales, et ipse benefac. <l eID="gen10484" level="1"/>
+
+** Proverbs 3:28
+
+Ne dicas amico tuo : Vade, et revertere : cras dabo tibi : <l eID="gen10485" level="1"/> <l level="1" sID="gen10486"/>cum statim possis dare. <l eID="gen10486" level="1"/>
+
+** Proverbs 3:29
+
+Ne moliaris amico tuo malum, <l eID="gen10487" level="1"/> <l level="1" sID="gen10488"/>cum ille in te habeat fiduciam. <l eID="gen10488" level="1"/>
+
+** Proverbs 3:30
+
+Ne contendas adversus hominem frustra, <l eID="gen10489" level="1"/> <l level="1" sID="gen10490"/>cum ipse tibi nihil mali fecerit. <l eID="gen10490" level="1"/>
+
+** Proverbs 3:31
+
+Ne æmuleris hominem injustum, <l eID="gen10491" level="1"/> <l level="1" sID="gen10492"/>nec imiteris vias ejus : <l eID="gen10492" level="1"/>
+
+** Proverbs 3:32
+
+quia abominatio Domini est omnis illusor, <l eID="gen10493" level="1"/> <l level="1" sID="gen10494"/>et cum simplicibus sermocinatio ejus. <l eID="gen10494" level="1"/>
+
+** Proverbs 3:33
+
+Egestas a Domino in domo impii ; <l eID="gen10495" level="1"/> <l level="1" sID="gen10496"/>habitacula autem justorum benedicentur. <l eID="gen10496" level="1"/>
+
+** Proverbs 3:34
+
+Ipse deludet illusores, <l eID="gen10497" level="1"/> <l level="1" sID="gen10498"/>et mansuetis dabit gratiam. <l eID="gen10498" level="1"/>
+
+** Proverbs 3:35
+
+Gloriam sapientes possidebunt ; <l eID="gen10499" level="1"/> <l level="1" sID="gen10500"/>stultorum exaltatio ignominia. <l eID="gen10500" level="1"/> <lg eID="gen10317"/>
+
+* Proverbs 4
+
+** Proverbs 4:1
+
+Audite, filii, disciplinam patris, <l eID="gen10503" level="1"/> <l level="1" sID="gen10504"/>et attendite ut sciatis prudentiam. <l eID="gen10504" level="1"/>
+
+** Proverbs 4:2
+
+Donum bonum tribuam vobis : <l eID="gen10505" level="1"/> <l level="1" sID="gen10506"/>legem meam ne derelinquatis. <l eID="gen10506" level="1"/>
+
+** Proverbs 4:3
+
+Nam et ego filius fui patris mei, <l eID="gen10507" level="1"/> <l level="1" sID="gen10508"/>tenellus et unigenitus coram matre mea. <l eID="gen10508" level="1"/>
+
+** Proverbs 4:4
+
+Et docebat me, atque dicebat : <l eID="gen10509" level="1"/> <l level="1" sID="gen10510"/>Suscipiat verba mea cor tuum ; <l eID="gen10510" level="1"/> <l level="1" sID="gen10511"/>custodi præcepta mea, et vives. <l eID="gen10511" level="1"/>
+
+** Proverbs 4:5
+
+Posside sapientiam, posside prudentiam : <l eID="gen10512" level="1"/> <l level="1" sID="gen10513"/>ne obliviscaris, neque declines a verbis oris mei. <l eID="gen10513" level="1"/>
+
+** Proverbs 4:6
+
+Ne dimittas eam, et custodiet te : <l eID="gen10514" level="1"/> <l level="1" sID="gen10515"/>dilige eam, et conservabit te. <l eID="gen10515" level="1"/>
+
+** Proverbs 4:7
+
+Principium sapientiæ : posside sapientiam, <l eID="gen10516" level="1"/> <l level="1" sID="gen10517"/>et in omni possessione tua acquire prudentiam. <l eID="gen10517" level="1"/>
+
+** Proverbs 4:8
+
+Arripe illam, et exaltabit te ; <l eID="gen10518" level="1"/> <l level="1" sID="gen10519"/>glorificaberis ab ea cum eam fueris amplexatus. <l eID="gen10519" level="1"/>
+
+** Proverbs 4:9
+
+Dabit capiti tuo augmenta gratiarum, <l eID="gen10520" level="1"/> <l level="1" sID="gen10521"/>et corona inclyta proteget te. <l eID="gen10521" level="1"/>
+
+** Proverbs 4:10
+
+Audi, fili mi, et suscipe verba mea, <l eID="gen10522" level="1"/> <l level="1" sID="gen10523"/>ut multiplicentur tibi anni vitæ. <l eID="gen10523" level="1"/>
+
+** Proverbs 4:11
+
+Viam sapientiæ monstrabo tibi ; <l eID="gen10524" level="1"/> <l level="1" sID="gen10525"/>ducam te per semitas æquitatis : <l eID="gen10525" level="1"/>
+
+** Proverbs 4:12
+
+quas cum ingressus fueris, non arctabuntur gressus tui, <l eID="gen10526" level="1"/> <l level="1" sID="gen10527"/>et currens non habebis offendiculum. <l eID="gen10527" level="1"/>
+
+** Proverbs 4:13
+
+Tene disciplinam, ne dimittas eam ; <l eID="gen10528" level="1"/> <l level="1" sID="gen10529"/>custodi illam, quia ipsa est vita tua. <l eID="gen10529" level="1"/>
+
+** Proverbs 4:14
+
+Ne delecteris in semitis impiorum, <l eID="gen10530" level="1"/> <l level="1" sID="gen10531"/>nec tibi placeat malorum via. <l eID="gen10531" level="1"/>
+
+** Proverbs 4:15
+
+Fuge ab ea, nec transeas per illam ; <l eID="gen10532" level="1"/> <l level="1" sID="gen10533"/>declina, et desere eam. <l eID="gen10533" level="1"/>
+
+** Proverbs 4:16
+
+Non enim dormiunt nisi malefecerint, <l eID="gen10534" level="1"/> <l level="1" sID="gen10535"/>et rapitur somnus ab eis nisi supplantaverint. <l eID="gen10535" level="1"/>
+
+** Proverbs 4:17
+
+Comedunt panem impietatis, <l eID="gen10536" level="1"/> <l level="1" sID="gen10537"/>et vinum iniquitatis bibunt. <l eID="gen10537" level="1"/>
+
+** Proverbs 4:18
+
+Justorum autem semita quasi lux splendens procedit, <l eID="gen10538" level="1"/> <l level="1" sID="gen10539"/>et crescit usque ad perfectam diem. <l eID="gen10539" level="1"/>
+
+** Proverbs 4:19
+
+Via impiorum tenebrosa ; <l eID="gen10540" level="1"/> <l level="1" sID="gen10541"/>nesciunt ubi corruant. <l eID="gen10541" level="1"/>
+
+** Proverbs 4:20
+
+Fili mi, ausculta sermones meos, <l eID="gen10542" level="1"/> <l level="1" sID="gen10543"/>et ad eloquia mea inclina aurem tuam. <l eID="gen10543" level="1"/>
+
+** Proverbs 4:21
+
+Ne recedant ab oculis tuis : <l eID="gen10544" level="1"/> <l level="1" sID="gen10545"/>custodi ea in medio cordis tui : <l eID="gen10545" level="1"/>
+
+** Proverbs 4:22
+
+vita enim sunt invenientibus ea, <l eID="gen10546" level="1"/> <l level="1" sID="gen10547"/>et universæ carni sanitas. <l eID="gen10547" level="1"/>
+
+** Proverbs 4:23
+
+Omni custodia serva cor tuum, <l eID="gen10548" level="1"/> <l level="1" sID="gen10549"/>quia ex ipso vita procedit. <l eID="gen10549" level="1"/>
+
+** Proverbs 4:24
+
+Remove a te os pravum, <l eID="gen10550" level="1"/> <l level="1" sID="gen10551"/>et detrahentia labia sint procul a te. <l eID="gen10551" level="1"/>
+
+** Proverbs 4:25
+
+Oculi tui recta videant, <l eID="gen10552" level="1"/> <l level="1" sID="gen10553"/>et palpebræ tuæ præcedant gressus tuos. <l eID="gen10553" level="1"/>
+
+** Proverbs 4:26
+
+Dirige semitam pedibus tuis, <l eID="gen10554" level="1"/> <l level="1" sID="gen10555"/>et omnes viæ tuæ stabilientur. <l eID="gen10555" level="1"/>
+
+** Proverbs 4:27
+
+Ne declines ad dexteram neque ad sinistram ; <l eID="gen10556" level="1"/> <l level="1" sID="gen10557"/>averte pedem tuum a malo : <l eID="gen10557" level="1"/> <l level="1" sID="gen10558"/>vias enim quæ a dextris sunt novit Dominus : <l eID="gen10558" level="1"/> <l level="1" sID="gen10559"/>perversæ vero sunt quæ a sinistris sunt. <l eID="gen10559" level="1"/> <l level="1" sID="gen10560"/>Ipse autem rectos faciet cursus tuos, <l eID="gen10560" level="1"/> <l level="1" sID="gen10561"/>itinera autem tua in pace producet.  <chapter eID="Prov.4"/>
+
+* Proverbs 5
+
+** Proverbs 5:1
+
+Fili mi, attende ad sapientiam meam, <l eID="gen10562" level="1"/> <l level="1" sID="gen10563"/>et prudentiæ meæ inclina aurem tuam : <l eID="gen10563" level="1"/>
+
+** Proverbs 5:2
+
+ut custodias cogitationes, et disciplinam labia tua conservent. <l eID="gen10564" level="1"/> <l level="1" sID="gen10565"/>Ne attendas fallaciæ mulieris ; <l eID="gen10565" level="1"/>
+
+** Proverbs 5:3
+
+favus enim distillans labia meretricis, <l eID="gen10566" level="1"/> <l level="1" sID="gen10567"/>et nitidius oleo guttur ejus : <l eID="gen10567" level="1"/>
+
+** Proverbs 5:4
+
+novissima autem illius amara quasi absinthium, <l eID="gen10568" level="1"/> <l level="1" sID="gen10569"/>et acuta quasi gladius biceps. <l eID="gen10569" level="1"/>
+
+** Proverbs 5:5
+
+Pedes ejus descendunt in mortem, <l eID="gen10570" level="1"/> <l level="1" sID="gen10571"/>et ad inferos gressus illius penetrant. <l eID="gen10571" level="1"/>
+
+** Proverbs 5:6
+
+Per semitam vitæ non ambulant ; <l eID="gen10572" level="1"/> <l level="1" sID="gen10573"/>vagi sunt gressus ejus et investigabiles. <l eID="gen10573" level="1"/>
+
+** Proverbs 5:7
+
+Nunc ergo fili mi, audi me, <l eID="gen10574" level="1"/> <l level="1" sID="gen10575"/>et ne recedas a verbis oris mei. <l eID="gen10575" level="1"/>
+
+** Proverbs 5:8
+
+Longe fac ab ea viam tuam, <l eID="gen10576" level="1"/> <l level="1" sID="gen10577"/>et ne appropinques foribus domus ejus. <l eID="gen10577" level="1"/>
+
+** Proverbs 5:9
+
+Ne des alienis honorem tuum, <l eID="gen10578" level="1"/> <l level="1" sID="gen10579"/>et annos tuos crudeli : <l eID="gen10579" level="1"/>
+
+** Proverbs 5:10
+
+ne forte impleantur extranei viribus tuis, <l eID="gen10580" level="1"/> <l level="1" sID="gen10581"/>et labores tui sint in domo aliena, <l eID="gen10581" level="1"/>
+
+** Proverbs 5:11
+
+et gemas in novissimis, <l eID="gen10582" level="1"/> <l level="1" sID="gen10583"/>quando consumpseris carnes tuas et corpus tuum, <l eID="gen10583" level="1"/> <l level="1" sID="gen10584"/>et dicas :
+
+** Proverbs 5:12
+
+Cur detestatus sum disciplinam, <l eID="gen10584" level="1"/> <l level="1" sID="gen10585"/>et increpationibus non acquievit cor meum, <l eID="gen10585" level="1"/>
+
+** Proverbs 5:13
+
+nec audivi vocem docentium me, <l eID="gen10586" level="1"/> <l level="1" sID="gen10587"/>et magistris non inclinavi aurem meam ? <l eID="gen10587" level="1"/>
+
+** Proverbs 5:14
+
+pene fui in omni malo, <l eID="gen10588" level="1"/> <l level="1" sID="gen10589"/>in medio ecclesiæ et synagogæ. <l eID="gen10589" level="1"/>
+
+** Proverbs 5:15
+
+Bibe aquam de cisterna tua, <l eID="gen10590" level="1"/> <l level="1" sID="gen10591"/>et fluenta putei tui ; <l eID="gen10591" level="1"/>
+
+** Proverbs 5:16
+
+deriventur fontes tui foras, <l eID="gen10592" level="1"/> <l level="1" sID="gen10593"/>et in plateis aquas tuas divide. <l eID="gen10593" level="1"/>
+
+** Proverbs 5:17
+
+Habeto eas solus, <l eID="gen10594" level="1"/> <l level="1" sID="gen10595"/>nec sint alieni participes tui. <l eID="gen10595" level="1"/>
+
+** Proverbs 5:18
+
+Sit vena tua benedicta, <l eID="gen10596" level="1"/> <l level="1" sID="gen10597"/>et lætare cum muliere adolescentiæ tuæ. <l eID="gen10597" level="1"/>
+
+** Proverbs 5:19
+
+Cerva carissima, et gratissimus hinnulus : <l eID="gen10598" level="1"/> <l level="1" sID="gen10599"/>ubera ejus inebrient te in omni tempore ; <l eID="gen10599" level="1"/> <l level="1" sID="gen10600"/>in amore ejus delectare jugiter. <l eID="gen10600" level="1"/>
+
+** Proverbs 5:20
+
+Quare seduceris, fili mi, ab aliena, <l eID="gen10601" level="1"/> <l level="1" sID="gen10602"/>et foveris in sinu alterius ? <l eID="gen10602" level="1"/>
+
+** Proverbs 5:21
+
+Respicit Dominus vias hominis, <l eID="gen10603" level="1"/> <l level="1" sID="gen10604"/>et omnes gressus ejus considerat. <l eID="gen10604" level="1"/>
+
+** Proverbs 5:22
+
+Iniquitates suas capiunt impium, <l eID="gen10605" level="1"/> <l level="1" sID="gen10606"/>et funibus peccatorum suorum constringitur. <l eID="gen10606" level="1"/>
+
+** Proverbs 5:23
+
+Ipse morietur, quia non habuit disciplinam, <l eID="gen10607" level="1"/> <l level="1" sID="gen10608"/>et in multitudine stultitiæ suæ decipietur.  <chapter eID="Prov.5"/>
+
+* Proverbs 6
+
+** Proverbs 6:1
+
+Fili mi, si spoponderis pro amico tuo, <l eID="gen10609" level="1"/> <l level="1" sID="gen10610"/>defixisti apud extraneum manum tuam : <l eID="gen10610" level="1"/>
+
+** Proverbs 6:2
+
+illaqueatus es verbis oris tui, <l eID="gen10611" level="1"/> <l level="1" sID="gen10612"/>et captus propriis sermonibus. <l eID="gen10612" level="1"/>
+
+** Proverbs 6:3
+
+Fac ergo quod dico, fili mi, et temetipsum libera, <l eID="gen10613" level="1"/> <l level="1" sID="gen10614"/>quia incidisti in manum proximi tui. <l eID="gen10614" level="1"/> <l level="1" sID="gen10615"/>Discurre, festina, suscita amicum tuum. <l eID="gen10615" level="1"/>
+
+** Proverbs 6:4
+
+Ne dederis somnum oculis tuis, <l eID="gen10616" level="1"/> <l level="1" sID="gen10617"/>nec dormitent palpebræ tuæ. <l eID="gen10617" level="1"/>
+
+** Proverbs 6:5
+
+Eruere quasi damula de manu, <l eID="gen10618" level="1"/> <l level="1" sID="gen10619"/>et quasi avis de manu aucupis. <l eID="gen10619" level="1"/>
+
+** Proverbs 6:6
+
+Vade ad formicam, o piger, <l eID="gen10620" level="1"/> <l level="1" sID="gen10621"/>et considera vias ejus, et disce sapientiam. <l eID="gen10621" level="1"/>
+
+** Proverbs 6:7
+
+Quæ cum non habeat ducem, <l eID="gen10622" level="1"/> <l level="1" sID="gen10623"/>nec præceptorem, nec principem, <l eID="gen10623" level="1"/>
+
+** Proverbs 6:8
+
+parat in æstate cibum sibi, <l eID="gen10624" level="1"/> <l level="1" sID="gen10625"/>et congregat in messe quod comedat. <l eID="gen10625" level="1"/>
+
+** Proverbs 6:9
+
+Usquequo, piger, dormies ? <l eID="gen10626" level="1"/> <l level="1" sID="gen10627"/>quando consurges e somno tuo ? <l eID="gen10627" level="1"/>
+
+** Proverbs 6:10
+
+Paululum dormies, paululum dormitabis, <l eID="gen10628" level="1"/> <l level="1" sID="gen10629"/>paululum conseres manus ut dormias ; <l eID="gen10629" level="1"/>
+
+** Proverbs 6:11
+
+et veniet tibi quasi viator egestas, <l eID="gen10630" level="1"/> <l level="1" sID="gen10631"/>et pauperies quasi vir armatus. <l eID="gen10631" level="1"/> <l level="1" sID="gen10632"/>Si vero impiger fueris, veniet ut fons messis tua, <l eID="gen10632" level="1"/> <l level="1" sID="gen10633"/>et egestas longe fugiet a te. <l eID="gen10633" level="1"/>
+
+** Proverbs 6:12
+
+Homo apostata, vir inutilis, graditur ore perverso ; <l eID="gen10634" level="1"/>
+
+** Proverbs 6:13
+
+annuit oculis, terit pede, digito loquitur, <l eID="gen10635" level="1"/>
+
+** Proverbs 6:14
+
+pravo corde machinatur malum, <l eID="gen10636" level="1"/> <l level="1" sID="gen10637"/>et omni tempore jurgia seminat. <l eID="gen10637" level="1"/>
+
+** Proverbs 6:15
+
+Huic extemplo veniet perditio sua, <l eID="gen10638" level="1"/> <l level="1" sID="gen10639"/>et subito conteretur, nec habebit ultra medicinam. <l eID="gen10639" level="1"/>
+
+** Proverbs 6:16
+
+Sex sunt quæ odit Dominus, <l eID="gen10640" level="1"/> <l level="1" sID="gen10641"/>et septimum detestatur anima ejus : <l eID="gen10641" level="1"/>
+
+** Proverbs 6:17
+
+oculos sublimes, linguam mendacem, <l eID="gen10642" level="1"/> <l level="1" sID="gen10643"/>manus effundentes innoxium sanguinem, <l eID="gen10643" level="1"/>
+
+** Proverbs 6:18
+
+cor machinans cogitationes pessimas, <l eID="gen10644" level="1"/> <l level="1" sID="gen10645"/>pedes veloces ad currendum in malum, <l eID="gen10645" level="1"/>
+
+** Proverbs 6:19
+
+proferentem mendacia testem fallacem, <l eID="gen10646" level="1"/> <l level="1" sID="gen10647"/>et eum qui seminat inter fratres discordias. <l eID="gen10647" level="1"/>
+
+** Proverbs 6:20
+
+Conserva, fili mi, præcepta patris tui, <l eID="gen10648" level="1"/> <l level="1" sID="gen10649"/>et ne dimittas legem matris tuæ. <l eID="gen10649" level="1"/>
+
+** Proverbs 6:21
+
+Liga ea in corde tuo jugiter, <l eID="gen10650" level="1"/> <l level="1" sID="gen10651"/>et circumda gutturi tuo. <l eID="gen10651" level="1"/>
+
+** Proverbs 6:22
+
+Cum ambulaveris, gradiantur tecum ; <l eID="gen10652" level="1"/> <l level="1" sID="gen10653"/>cum dormieris, custodiant te : <l eID="gen10653" level="1"/> <l level="1" sID="gen10654"/>et evigilans loquere cum eis. <l eID="gen10654" level="1"/>
+
+** Proverbs 6:23
+
+Quia mandatum lucerna est, et lex lux, <l eID="gen10655" level="1"/> <l level="1" sID="gen10656"/>et via vitæ increpatio disciplinæ : <l eID="gen10656" level="1"/>
+
+** Proverbs 6:24
+
+ut custodiant te a muliere mala, <l eID="gen10657" level="1"/> <l level="1" sID="gen10658"/>et a blanda lingua extraneæ. <l eID="gen10658" level="1"/>
+
+** Proverbs 6:25
+
+Non concupiscat pulchritudinem ejus cor tuum, <l eID="gen10659" level="1"/> <l level="1" sID="gen10660"/>nec capiaris nutibus illius : <l eID="gen10660" level="1"/>
+
+** Proverbs 6:26
+
+pretium enim scorti vix est unius panis, <l eID="gen10661" level="1"/> <l level="1" sID="gen10662"/>mulier autem viri pretiosam animam capit. <l eID="gen10662" level="1"/>
+
+** Proverbs 6:27
+
+Numquid potest homo abscondere ignem in sinu suo, <l eID="gen10663" level="1"/> <l level="1" sID="gen10664"/>ut vestimenta illius non ardeant ? <l eID="gen10664" level="1"/>
+
+** Proverbs 6:28
+
+aut ambulare super prunas, <l eID="gen10665" level="1"/> <l level="1" sID="gen10666"/>ut non comburantur plantæ ejus ? <l eID="gen10666" level="1"/>
+
+** Proverbs 6:29
+
+sic qui ingreditur ad mulierem proximi sui, <l eID="gen10667" level="1"/> <l level="1" sID="gen10668"/>non erit mundus cum tetigerit eam. <l eID="gen10668" level="1"/>
+
+** Proverbs 6:30
+
+Non grandis est culpa cum quis furatus fuerit : <l eID="gen10669" level="1"/> <l level="1" sID="gen10670"/>furatur enim ut esurientem impleat animam ; <l eID="gen10670" level="1"/>
+
+** Proverbs 6:31
+
+deprehensus quoque reddet septuplum, <l eID="gen10671" level="1"/> <l level="1" sID="gen10672"/>et omnem substantiam domus suæ tradet. <l eID="gen10672" level="1"/>
+
+** Proverbs 6:32
+
+Qui autem adulter est, <l eID="gen10673" level="1"/> <l level="1" sID="gen10674"/>propter cordis inopiam perdet animam suam ; <l eID="gen10674" level="1"/>
+
+** Proverbs 6:33
+
+turpitudinem et ignominiam congregat sibi, <l eID="gen10675" level="1"/> <l level="1" sID="gen10676"/>et opprobrium illius non delebitur : <l eID="gen10676" level="1"/>
+
+** Proverbs 6:34
+
+quia zelus et furor viri <l eID="gen10677" level="1"/> <l level="1" sID="gen10678"/>non parcet in die vindictæ, <l eID="gen10678" level="1"/>
+
+** Proverbs 6:35
+
+nec acquiescet cujusquam precibus, <l eID="gen10679" level="1"/> <l level="1" sID="gen10680"/>nec suscipiet pro redemptione dona plurima.  <chapter eID="Prov.6"/>
+
+* Proverbs 7
+
+** Proverbs 7:1
+
+Fili mi, custodi sermones meos, <l eID="gen10681" level="1"/> <l level="1" sID="gen10682"/>et præcepta mea reconde tibi. <l eID="gen10682" level="1"/> <l level="1" sID="gen10683"/>Fili,
+
+** Proverbs 7:2
+
+serva mandata mea, et vives ; <l eID="gen10683" level="1"/> <l level="1" sID="gen10684"/>et legem meam quasi pupillam oculi tui : <l eID="gen10684" level="1"/>
+
+** Proverbs 7:3
+
+liga eam in digitis tuis, <l eID="gen10685" level="1"/> <l level="1" sID="gen10686"/>scribe illam in tabulis cordis tui. <l eID="gen10686" level="1"/>
+
+** Proverbs 7:4
+
+Dic sapientiæ : Soror mea es, <l eID="gen10687" level="1"/> <l level="1" sID="gen10688"/>et prudentiam voca amicam tuam : <l eID="gen10688" level="1"/>
+
+** Proverbs 7:5
+
+ut custodiant te a muliere extranea, <l eID="gen10689" level="1"/> <l level="1" sID="gen10690"/>et ab aliena quæ verba sua dulcia facit. <l eID="gen10690" level="1"/>
+
+** Proverbs 7:6
+
+De fenestra enim domus meæ <l eID="gen10691" level="1"/> <l level="1" sID="gen10692"/>per cancellos prospexi, <l eID="gen10692" level="1"/>
+
+** Proverbs 7:7
+
+et video parvulos ; <l eID="gen10693" level="1"/> <l level="1" sID="gen10694"/>considero vecordem juvenem, <l eID="gen10694" level="1"/>
+
+** Proverbs 7:8
+
+qui transit per plateam juxta angulum <l eID="gen10695" level="1"/> <l level="1" sID="gen10696"/>et prope viam domus illius graditur : <l eID="gen10696" level="1"/>
+
+** Proverbs 7:9
+
+in obscuro, advesperascente die, <l eID="gen10697" level="1"/> <l level="1" sID="gen10698"/>in noctis tenebris et caligine. <l eID="gen10698" level="1"/>
+
+** Proverbs 7:10
+
+Et ecce occurrit illi mulier ornatu meretricio, <l eID="gen10699" level="1"/> <l level="1" sID="gen10700"/>præparata ad capiendas animas : <l eID="gen10700" level="1"/> <l level="1" sID="gen10701"/>garrula et vaga, <l eID="gen10701" level="1"/>
+
+** Proverbs 7:11
+
+quietis impatiens, <l eID="gen10702" level="1"/> <l level="1" sID="gen10703"/>nec valens in domo consistere pedibus suis ; <l eID="gen10703" level="1"/>
+
+** Proverbs 7:12
+
+nunc foris, nunc in plateis, <l eID="gen10704" level="1"/> <l level="1" sID="gen10705"/>nunc juxta angulos insidians. <l eID="gen10705" level="1"/>
+
+** Proverbs 7:13
+
+Apprehensumque deosculatur juvenem, <l eID="gen10706" level="1"/> <l level="1" sID="gen10707"/>et procaci vultu blanditur, dicens : <l eID="gen10707" level="1"/>
+
+** Proverbs 7:14
+
+Victimas pro salute vovi ; <l eID="gen10708" level="1"/> <l level="1" sID="gen10709"/>hodie reddidi vota mea : <l eID="gen10709" level="1"/>
+
+** Proverbs 7:15
+
+idcirco egressa sum in occursum tuum, <l eID="gen10710" level="1"/> <l level="1" sID="gen10711"/>desiderans te videre, et reperi. <l eID="gen10711" level="1"/>
+
+** Proverbs 7:16
+
+Intexui funibus lectulum meum ; <l eID="gen10712" level="1"/> <l level="1" sID="gen10713"/>stravi tapetibus pictis ex Ægypto : <l eID="gen10713" level="1"/>
+
+** Proverbs 7:17
+
+aspersi cubile meum myrrha, <l eID="gen10714" level="1"/> <l level="1" sID="gen10715"/>et aloë, et cinnamomo. <l eID="gen10715" level="1"/>
+
+** Proverbs 7:18
+
+Veni, inebriemur uberibus, <l eID="gen10716" level="1"/> <l level="1" sID="gen10717"/>et fruamur cupitis amplexibus donec illucescat dies. <l eID="gen10717" level="1"/>
+
+** Proverbs 7:19
+
+Non est enim vir in domo sua : <l eID="gen10718" level="1"/> <l level="1" sID="gen10719"/>abiit via longissima : <l eID="gen10719" level="1"/>
+
+** Proverbs 7:20
+
+sacculum pecuniæ secum tulit ; <l eID="gen10720" level="1"/> <l level="1" sID="gen10721"/>in die plenæ lunæ reversurus est in domum suam. <l eID="gen10721" level="1"/>
+
+** Proverbs 7:21
+
+Irretivit eum multis sermonibus, <l eID="gen10722" level="1"/> <l level="1" sID="gen10723"/>et blanditiis labiorum protraxit illum. <l eID="gen10723" level="1"/>
+
+** Proverbs 7:22
+
+Statim eam sequitur quasi bos ductus ad victimam, <l eID="gen10724" level="1"/> <l level="1" sID="gen10725"/>et quasi agnus lasciviens, <l eID="gen10725" level="1"/> <l level="1" sID="gen10726"/>et ignorans quod ad vincula stultus trahatur : <l eID="gen10726" level="1"/>
+
+** Proverbs 7:23
+
+donec transfigat sagitta jecur ejus, <l eID="gen10727" level="1"/> <l level="1" sID="gen10728"/>velut si avis festinet ad laqueum, <l eID="gen10728" level="1"/> <l level="1" sID="gen10729"/>et nescit quod de periculo animæ illius agitur. <l eID="gen10729" level="1"/>
+
+** Proverbs 7:24
+
+Nunc ergo, fili mi, audi me, <l eID="gen10730" level="1"/> <l level="1" sID="gen10731"/>et attende verbis oris mei. <l eID="gen10731" level="1"/>
+
+** Proverbs 7:25
+
+Ne abstrahatur in viis illius mens tua, <l eID="gen10732" level="1"/> <l level="1" sID="gen10733"/>neque decipiaris semitis ejus ; <l eID="gen10733" level="1"/>
+
+** Proverbs 7:26
+
+multos enim vulneratos dejecit, <l eID="gen10734" level="1"/> <l level="1" sID="gen10735"/>et fortissimi quique interfecti sunt ab ea. <l eID="gen10735" level="1"/>
+
+** Proverbs 7:27
+
+Viæ inferi domus ejus, <l eID="gen10736" level="1"/> <l level="1" sID="gen10737"/>penetrantes in interiora mortis.  <chapter eID="Prov.7"/>
+
+* Proverbs 8
+
+** Proverbs 8:1
+
+Numquid non sapientia clamitat, <l eID="gen10738" level="1"/> <l level="1" sID="gen10739"/>et prudentia dat vocem suam ? <l eID="gen10739" level="1"/>
+
+** Proverbs 8:2
+
+In summis excelsisque verticibus supra viam, <l eID="gen10740" level="1"/> <l level="1" sID="gen10741"/>in mediis semitis stans, <l eID="gen10741" level="1"/>
+
+** Proverbs 8:3
+
+juxta portas civitatis, <l eID="gen10742" level="1"/> <l level="1" sID="gen10743"/>in ipsis foribus loquitur, dicens : <l eID="gen10743" level="1"/>
+
+** Proverbs 8:4
+
+O viri, ad vos clamito, <l eID="gen10744" level="1"/> <l level="1" sID="gen10745"/>et vox mea ad filios hominum. <l eID="gen10745" level="1"/>
+
+** Proverbs 8:5
+
+Intelligite, parvuli, astutiam, <l eID="gen10746" level="1"/> <l level="1" sID="gen10747"/>et insipientes, animadvertite. <l eID="gen10747" level="1"/>
+
+** Proverbs 8:6
+
+Audite, quoniam de rebus magnis locutura sum, <l eID="gen10748" level="1"/> <l level="1" sID="gen10749"/>et aperientur labia mea ut recta prædicent. <l eID="gen10749" level="1"/>
+
+** Proverbs 8:7
+
+Veritatem meditabitur guttur meum, <l eID="gen10750" level="1"/> <l level="1" sID="gen10751"/>et labia mea detestabuntur impium. <l eID="gen10751" level="1"/>
+
+** Proverbs 8:8
+
+Justi sunt omnes sermones mei : <l eID="gen10752" level="1"/> <l level="1" sID="gen10753"/>non est in eis pravum quid, neque perversum ; <l eID="gen10753" level="1"/>
+
+** Proverbs 8:9
+
+recti sunt intelligentibus, <l eID="gen10754" level="1"/> <l level="1" sID="gen10755"/>et æqui invenientibus scientiam. <l eID="gen10755" level="1"/>
+
+** Proverbs 8:10
+
+Accipite disciplinam meam, et non pecuniam ; <l eID="gen10756" level="1"/> <l level="1" sID="gen10757"/>doctrinam magis quam aurum eligite : <l eID="gen10757" level="1"/>
+
+** Proverbs 8:11
+
+melior est enim sapientia cunctis pretiosissimis, <l eID="gen10758" level="1"/> <l level="1" sID="gen10759"/>et omne desiderabile ei non potest comparari. <l eID="gen10759" level="1"/>
+
+** Proverbs 8:12
+
+Ego sapientia, habito in consilio, <l eID="gen10760" level="1"/> <l level="1" sID="gen10761"/>et eruditis intersum cogitationibus. <l eID="gen10761" level="1"/>
+
+** Proverbs 8:13
+
+Timor Domini odit malum : <l eID="gen10762" level="1"/> <l level="1" sID="gen10763"/>arrogantiam, et superbiam, <l eID="gen10763" level="1"/> <l level="1" sID="gen10764"/>et viam pravam, et os bilingue, detestor. <l eID="gen10764" level="1"/>
+
+** Proverbs 8:14
+
+Meum est consilium et æquitas ; <l eID="gen10765" level="1"/> <l level="1" sID="gen10766"/>mea est prudentia, mea est fortitudo. <l eID="gen10766" level="1"/>
+
+** Proverbs 8:15
+
+Per me reges regnant, <l eID="gen10767" level="1"/> <l level="1" sID="gen10768"/>et legum conditores justa decernunt ; <l eID="gen10768" level="1"/>
+
+** Proverbs 8:16
+
+per me principes imperant, <l eID="gen10769" level="1"/> <l level="1" sID="gen10770"/>et potentes decernunt justitiam. <l eID="gen10770" level="1"/>
+
+** Proverbs 8:17
+
+Ego diligentes me diligo, <l eID="gen10771" level="1"/> <l level="1" sID="gen10772"/>et qui mane vigilant ad me, invenient me. <l eID="gen10772" level="1"/>
+
+** Proverbs 8:18
+
+Mecum sunt divitiæ et gloria, <l eID="gen10773" level="1"/> <l level="1" sID="gen10774"/>opes superbæ et justitia. <l eID="gen10774" level="1"/>
+
+** Proverbs 8:19
+
+Melior est enim fructus meus auro et lapide pretioso, <l eID="gen10775" level="1"/> <l level="1" sID="gen10776"/>et genimina mea argento electo. <l eID="gen10776" level="1"/>
+
+** Proverbs 8:20
+
+In viis justitiæ ambulo, <l eID="gen10777" level="1"/> <l level="1" sID="gen10778"/>in medio semitarum judicii : <l eID="gen10778" level="1"/>
+
+** Proverbs 8:21
+
+ut ditem diligentes me, <l eID="gen10779" level="1"/> <l level="1" sID="gen10780"/>et thesauros eorum repleam. <l eID="gen10780" level="1"/>
+
+** Proverbs 8:22
+
+Dominus possedit me in initio viarum suarum <l eID="gen10781" level="1"/> <l level="1" sID="gen10782"/>antequam quidquam faceret a principio. <l eID="gen10782" level="1"/>
+
+** Proverbs 8:23
+
+Ab æterno ordinata sum, <l eID="gen10783" level="1"/> <l level="1" sID="gen10784"/>et ex antiquis antequam terra fieret. <l eID="gen10784" level="1"/>
+
+** Proverbs 8:24
+
+Nondum erant abyssi, et ego jam concepta eram : <l eID="gen10785" level="1"/> <l level="1" sID="gen10786"/>necdum fontes aquarum eruperant, <l eID="gen10786" level="1"/>
+
+** Proverbs 8:25
+
+necdum montes gravi mole constiterant : <l eID="gen10787" level="1"/> <l level="1" sID="gen10788"/>ante colles ego parturiebar. <l eID="gen10788" level="1"/>
+
+** Proverbs 8:26
+
+Adhuc terram non fecerat, et flumina, <l eID="gen10789" level="1"/> <l level="1" sID="gen10790"/>et cardines orbis terræ. <l eID="gen10790" level="1"/>
+
+** Proverbs 8:27
+
+Quando præparabat cælos, aderam ; <l eID="gen10791" level="1"/> <l level="1" sID="gen10792"/>quando certa lege et gyro vallabat abyssos ; <l eID="gen10792" level="1"/>
+
+** Proverbs 8:28
+
+quando æthera firmabat sursum, <l eID="gen10793" level="1"/> <l level="1" sID="gen10794"/>et librabat fontes aquarum ; <l eID="gen10794" level="1"/>
+
+** Proverbs 8:29
+
+quando circumdabat mari terminum suum, <l eID="gen10795" level="1"/> <l level="1" sID="gen10796"/>et legem ponebat aquis, ne transirent fines suos ; <l eID="gen10796" level="1"/> <l level="1" sID="gen10797"/>quando appendebat fundamenta terræ : <l eID="gen10797" level="1"/>
+
+** Proverbs 8:30
+
+cum eo eram, cuncta componens. <l eID="gen10798" level="1"/> <l level="1" sID="gen10799"/>Et delectabar per singulos dies, <l eID="gen10799" level="1"/> <l level="1" sID="gen10800"/>ludens coram eo omni tempore, <l eID="gen10800" level="1"/>
+
+** Proverbs 8:31
+
+ludens in orbe terrarum ; <l eID="gen10801" level="1"/> <l level="1" sID="gen10802"/>et deliciæ meæ esse cum filiis hominum. <l eID="gen10802" level="1"/>
+
+** Proverbs 8:32
+
+Nunc ergo, filii, audite me : <l eID="gen10803" level="1"/> <l level="1" sID="gen10804"/>beati qui custodiunt vias meas. <l eID="gen10804" level="1"/>
+
+** Proverbs 8:33
+
+Audite disciplinam, et estote sapientes, <l eID="gen10805" level="1"/> <l level="1" sID="gen10806"/>et nolite abjicere eam. <l eID="gen10806" level="1"/>
+
+** Proverbs 8:34
+
+Beatus homo qui audit me, <l eID="gen10807" level="1"/> <l level="1" sID="gen10808"/>et qui vigilat ad fores meas quotidie, <l eID="gen10808" level="1"/> <l level="1" sID="gen10809"/>et observat ad postes ostii mei. <l eID="gen10809" level="1"/>
+
+** Proverbs 8:35
+
+Qui me invenerit, inveniet vitam, <l eID="gen10810" level="1"/> <l level="1" sID="gen10811"/>et hauriet salutem a Domino. <l eID="gen10811" level="1"/>
+
+** Proverbs 8:36
+
+Qui autem in me peccaverit, lædet animam suam ; <l eID="gen10812" level="1"/> <l level="1" sID="gen10813"/>omnes qui me oderunt diligunt mortem.  <chapter eID="Prov.8"/>
+
+* Proverbs 9
+
+** Proverbs 9:1
+
+Sapientia ædificavit sibi domum : <l eID="gen10814" level="1"/> <l level="1" sID="gen10815"/>excidit columnas septem. <l eID="gen10815" level="1"/>
+
+** Proverbs 9:2
+
+Immolavit victimas suas, miscuit vinum, <l eID="gen10816" level="1"/> <l level="1" sID="gen10817"/>et proposuit mensam suam. <l eID="gen10817" level="1"/>
+
+** Proverbs 9:3
+
+Misit ancillas suas ut vocarent <l eID="gen10818" level="1"/> <l level="1" sID="gen10819"/>ad arcem et ad mœnia civitatis. <l eID="gen10819" level="1"/>
+
+** Proverbs 9:4
+
+Si quis est parvulus, veniat ad me. <l eID="gen10820" level="1"/> <l level="1" sID="gen10821"/>Et insipientibus locuta est : <l eID="gen10821" level="1"/>
+
+** Proverbs 9:5
+
+Venite, comedite panem meum, <l eID="gen10822" level="1"/> <l level="1" sID="gen10823"/>et bibite vinum quod miscui vobis. <l eID="gen10823" level="1"/>
+
+** Proverbs 9:6
+
+Relinquite infantiam, et vivite, <l eID="gen10824" level="1"/> <l level="1" sID="gen10825"/>et ambulate per vias prudentiæ. <l eID="gen10825" level="1"/>
+
+** Proverbs 9:7
+
+Qui erudit derisorem, ipse injuriam sibi facit, <l eID="gen10826" level="1"/> <l level="1" sID="gen10827"/>et qui arguit impium, sibi maculam generat. <l eID="gen10827" level="1"/>
+
+** Proverbs 9:8
+
+Noli arguere derisorem, ne oderit te : <l eID="gen10828" level="1"/> <l level="1" sID="gen10829"/>argue sapientem, et diliget te. <l eID="gen10829" level="1"/>
+
+** Proverbs 9:9
+
+Da sapienti occasionem, et addetur ei sapientia ; <l eID="gen10830" level="1"/> <l level="1" sID="gen10831"/>doce justum, et festinabit accipere. <l eID="gen10831" level="1"/>
+
+** Proverbs 9:10
+
+Principium sapientiæ timor Domini, <l eID="gen10832" level="1"/> <l level="1" sID="gen10833"/>et scientia sanctorum prudentia. <l eID="gen10833" level="1"/>
+
+** Proverbs 9:11
+
+Per me enim multiplicabuntur dies tui, <l eID="gen10834" level="1"/> <l level="1" sID="gen10835"/>et addentur tibi anni vitæ. <l eID="gen10835" level="1"/>
+
+** Proverbs 9:12
+
+Si sapiens fueris, tibimetipsi eris ; <l eID="gen10836" level="1"/> <l level="1" sID="gen10837"/>si autem illusor, solus portabis malum. <l eID="gen10837" level="1"/>
+
+** Proverbs 9:13
+
+Mulier stulta et clamosa, <l eID="gen10838" level="1"/> <l level="1" sID="gen10839"/>plenaque illecebris, et nihil omnino sciens, <l eID="gen10839" level="1"/>
+
+** Proverbs 9:14
+
+sedit in foribus domus suæ, <l eID="gen10840" level="1"/> <l level="1" sID="gen10841"/>super sellam in excelso urbis loco, <l eID="gen10841" level="1"/>
+
+** Proverbs 9:15
+
+ut vocaret transeuntes per viam, <l eID="gen10842" level="1"/> <l level="1" sID="gen10843"/>et pergentes itinere suo : <l eID="gen10843" level="1"/>
+
+** Proverbs 9:16
+
+Qui est parvulus declinet ad me. <l eID="gen10844" level="1"/> <l level="1" sID="gen10845"/>Et vecordi locuta est : <l eID="gen10845" level="1"/>
+
+** Proverbs 9:17
+
+Aquæ furtivæ dulciores sunt, <l eID="gen10846" level="1"/> <l level="1" sID="gen10847"/>et panis absconditus suavior. <l eID="gen10847" level="1"/>
+
+** Proverbs 9:18
+
+Et ignoravit quod ibi sint gigantes, <l eID="gen10848" level="1"/> <l level="1" sID="gen10849"/>et in profundis inferni convivæ ejus.  <chapter eID="Prov.9"/>
+
+* Proverbs 10
+
+** Proverbs 10:1
+
+Filius sapiens lætificat patrem, <l eID="gen10850" level="1"/> <l level="1" sID="gen10851"/>filius vero stultus mœstitia est matris suæ. <l eID="gen10851" level="1"/>
+
+** Proverbs 10:2
+
+Nil proderunt thesauri impietatis, <l eID="gen10852" level="1"/> <l level="1" sID="gen10853"/>justitia vero liberabit a morte. <l eID="gen10853" level="1"/>
+
+** Proverbs 10:3
+
+Non affliget Dominus fame animam justi, <l eID="gen10854" level="1"/> <l level="1" sID="gen10855"/>et insidias impiorum subvertet. <l eID="gen10855" level="1"/>
+
+** Proverbs 10:4
+
+Egestatem operata est manus remissa ; <l eID="gen10856" level="1"/> <l level="1" sID="gen10857"/>manus autem fortium divitias parat. <l eID="gen10857" level="1"/> <l level="1" sID="gen10858"/>Qui nititur mendaciis, hic pascit ventos ; <l eID="gen10858" level="1"/> <l level="1" sID="gen10859"/>idem autem ipse sequitur aves volantes. <l eID="gen10859" level="1"/>
+
+** Proverbs 10:5
+
+Qui congregat in messe, filius sapiens est ; <l eID="gen10860" level="1"/> <l level="1" sID="gen10861"/>qui autem stertit æstate, filius confusionis. <l eID="gen10861" level="1"/>
+
+** Proverbs 10:6
+
+Benedictio Domini super caput justi ; <l eID="gen10862" level="1"/> <l level="1" sID="gen10863"/>os autem impiorum operit iniquitas. <l eID="gen10863" level="1"/>
+
+** Proverbs 10:7
+
+Memoria justi cum laudibus, <l eID="gen10864" level="1"/> <l level="1" sID="gen10865"/>et nomen impiorum putrescet. <l eID="gen10865" level="1"/>
+
+** Proverbs 10:8
+
+Sapiens corde præcepta suscipit ; <l eID="gen10866" level="1"/> <l level="1" sID="gen10867"/>stultus cæditur labiis. <l eID="gen10867" level="1"/>
+
+** Proverbs 10:9
+
+Qui ambulat simpliciter ambulat confidenter ; <l eID="gen10868" level="1"/> <l level="1" sID="gen10869"/>qui autem depravat vias suas manifestus erit. <l eID="gen10869" level="1"/>
+
+** Proverbs 10:10
+
+Qui annuit oculo dabit dolorem ; <l eID="gen10870" level="1"/> <l level="1" sID="gen10871"/>et stultus labiis verberabitur. <l eID="gen10871" level="1"/>
+
+** Proverbs 10:11
+
+Vena vitæ os justi, <l eID="gen10872" level="1"/> <l level="1" sID="gen10873"/>et os impiorum operit iniquitatem. <l eID="gen10873" level="1"/>
+
+** Proverbs 10:12
+
+Odium suscitat rixas, <l eID="gen10874" level="1"/> <l level="1" sID="gen10875"/>et universa delicta operit caritas. <l eID="gen10875" level="1"/>
+
+** Proverbs 10:13
+
+In labiis sapientis invenitur sapientia, <l eID="gen10876" level="1"/> <l level="1" sID="gen10877"/>et virga in dorso ejus qui indiget corde. <l eID="gen10877" level="1"/>
+
+** Proverbs 10:14
+
+Sapientes abscondunt scientiam ; <l eID="gen10878" level="1"/> <l level="1" sID="gen10879"/>os autem stulti confusioni proximum est. <l eID="gen10879" level="1"/>
+
+** Proverbs 10:15
+
+Substantia divitis, urbs fortitudinis ejus ; <l eID="gen10880" level="1"/> <l level="1" sID="gen10881"/>pavor pauperum egestas eorum. <l eID="gen10881" level="1"/>
+
+** Proverbs 10:16
+
+Opus justi ad vitam, <l eID="gen10882" level="1"/> <l level="1" sID="gen10883"/>fructus autem impii ad peccatum. <l eID="gen10883" level="1"/>
+
+** Proverbs 10:17
+
+Via vitæ custodienti disciplinam ; <l eID="gen10884" level="1"/> <l level="1" sID="gen10885"/>qui autem increpationes relinquit, errat. <l eID="gen10885" level="1"/>
+
+** Proverbs 10:18
+
+Abscondunt odium labia mendacia ; <l eID="gen10886" level="1"/> <l level="1" sID="gen10887"/>qui profert contumeliam, insipiens est. <l eID="gen10887" level="1"/>
+
+** Proverbs 10:19
+
+In multiloquio non deerit peccatum, <l eID="gen10888" level="1"/> <l level="1" sID="gen10889"/>qui autem moderatur labia sua prudentissimus est. <l eID="gen10889" level="1"/>
+
+** Proverbs 10:20
+
+Argentum electum lingua justi ; <l eID="gen10890" level="1"/> <l level="1" sID="gen10891"/>cor autem impiorum pro nihilo. <l eID="gen10891" level="1"/>
+
+** Proverbs 10:21
+
+Labia justi erudiunt plurimos ; <l eID="gen10892" level="1"/> <l level="1" sID="gen10893"/>qui autem indocti sunt in cordis egestate morientur. <l eID="gen10893" level="1"/>
+
+** Proverbs 10:22
+
+Benedictio Domini divites facit, <l eID="gen10894" level="1"/> <l level="1" sID="gen10895"/>nec sociabitur eis afflictio. <l eID="gen10895" level="1"/>
+
+** Proverbs 10:23
+
+Quasi per risum stultus operatur scelus, <l eID="gen10896" level="1"/> <l level="1" sID="gen10897"/>sapientia autem est viro prudentia. <l eID="gen10897" level="1"/>
+
+** Proverbs 10:24
+
+Quod timet impius veniet super eum ; <l eID="gen10898" level="1"/> <l level="1" sID="gen10899"/>desiderium suum justus dabitur. <l eID="gen10899" level="1"/>
+
+** Proverbs 10:25
+
+Quasi tempestas transiens non erit impius ; <l eID="gen10900" level="1"/> <l level="1" sID="gen10901"/>justus autem quasi fundamentum sempiternum. <l eID="gen10901" level="1"/>
+
+** Proverbs 10:26
+
+Sicut acetum dentibus, et fumus oculis, <l eID="gen10902" level="1"/> <l level="1" sID="gen10903"/>sic piger his qui miserunt eum. <l eID="gen10903" level="1"/>
+
+** Proverbs 10:27
+
+Timor Domini apponet dies, <l eID="gen10904" level="1"/> <l level="1" sID="gen10905"/>et anni impiorum breviabuntur. <l eID="gen10905" level="1"/>
+
+** Proverbs 10:28
+
+Exspectatio justorum lætitia, <l eID="gen10906" level="1"/> <l level="1" sID="gen10907"/>spes autem impiorum peribit. <l eID="gen10907" level="1"/>
+
+** Proverbs 10:29
+
+Fortitudo simplicis via Domini, <l eID="gen10908" level="1"/> <l level="1" sID="gen10909"/>et pavor his qui operantur malum. <l eID="gen10909" level="1"/>
+
+** Proverbs 10:30
+
+Justus in æternum non commovebitur, <l eID="gen10910" level="1"/> <l level="1" sID="gen10911"/>impii autem non habitabunt super terram. <l eID="gen10911" level="1"/>
+
+** Proverbs 10:31
+
+Os justi parturiet sapientiam ; <l eID="gen10912" level="1"/> <l level="1" sID="gen10913"/>lingua pravorum peribit. <l eID="gen10913" level="1"/>
+
+** Proverbs 10:32
+
+Labia justi considerant placita, <l eID="gen10914" level="1"/> <l level="1" sID="gen10915"/>et os impiorum perversa.  <chapter eID="Prov.10"/>
+
+* Proverbs 11
+
+** Proverbs 11:1
+
+Statera dolosa abominatio est apud Dominum, <l eID="gen10916" level="1"/> <l level="1" sID="gen10917"/>et pondus æquum voluntas ejus. <l eID="gen10917" level="1"/>
+
+** Proverbs 11:2
+
+Ubi fuerit superbia, ibi erit et contumelia ; <l eID="gen10918" level="1"/> <l level="1" sID="gen10919"/>ubi autem est humilitas, ibi et sapientia. <l eID="gen10919" level="1"/>
+
+** Proverbs 11:3
+
+Simplicitas justorum diriget eos, <l eID="gen10920" level="1"/> <l level="1" sID="gen10921"/>et supplantatio perversorum vastabit illos. <l eID="gen10921" level="1"/>
+
+** Proverbs 11:4
+
+Non proderunt divitiæ in die ultionis ; <l eID="gen10922" level="1"/> <l level="1" sID="gen10923"/>justitia autem liberabit a morte. <l eID="gen10923" level="1"/>
+
+** Proverbs 11:5
+
+Justitia simplicis diriget viam ejus, <l eID="gen10924" level="1"/> <l level="1" sID="gen10925"/>et in impietate sua corruet impius. <l eID="gen10925" level="1"/>
+
+** Proverbs 11:6
+
+Justitia rectorum liberabit eos, <l eID="gen10926" level="1"/> <l level="1" sID="gen10927"/>et in insidiis suis capientur iniqui. <l eID="gen10927" level="1"/>
+
+** Proverbs 11:7
+
+Mortuo homine impio, nulla erit ultra spes, <l eID="gen10928" level="1"/> <l level="1" sID="gen10929"/>et exspectatio sollicitorum peribit. <l eID="gen10929" level="1"/>
+
+** Proverbs 11:8
+
+Justus de angustia liberatus est, <l eID="gen10930" level="1"/> <l level="1" sID="gen10931"/>et tradetur impius pro eo. <l eID="gen10931" level="1"/>
+
+** Proverbs 11:9
+
+Simulator ore decipit amicum suum ; <l eID="gen10932" level="1"/> <l level="1" sID="gen10933"/>justi autem liberabuntur scientia. <l eID="gen10933" level="1"/>
+
+** Proverbs 11:10
+
+In bonis justorum exsultabit civitas, <l eID="gen10934" level="1"/> <l level="1" sID="gen10935"/>et in perditione impiorum erit laudatio. <l eID="gen10935" level="1"/>
+
+** Proverbs 11:11
+
+Benedictione justorum exaltabitur civitas, <l eID="gen10936" level="1"/> <l level="1" sID="gen10937"/>et ore impiorum subvertetur. <l eID="gen10937" level="1"/>
+
+** Proverbs 11:12
+
+Qui despicit amicum suum indigens corde est ; <l eID="gen10938" level="1"/> <l level="1" sID="gen10939"/>vir autem prudens tacebit. <l eID="gen10939" level="1"/>
+
+** Proverbs 11:13
+
+Qui ambulat fraudulenter, revelat arcana ; <l eID="gen10940" level="1"/> <l level="1" sID="gen10941"/>qui autem fidelis est animi, celat amici commissum. <l eID="gen10941" level="1"/>
+
+** Proverbs 11:14
+
+Ubi non est gubernator, populus corruet ; <l eID="gen10942" level="1"/> <l level="1" sID="gen10943"/>salus autem, ubi multa consilia. <l eID="gen10943" level="1"/>
+
+** Proverbs 11:15
+
+Affligetur malo qui fidem facit pro extraneo ; <l eID="gen10944" level="1"/> <l level="1" sID="gen10945"/>qui autem cavet laqueos securus erit. <l eID="gen10945" level="1"/>
+
+** Proverbs 11:16
+
+Mulier gratiosa inveniet gloriam, <l eID="gen10946" level="1"/> <l level="1" sID="gen10947"/>et robusti habebunt divitias. <l eID="gen10947" level="1"/>
+
+** Proverbs 11:17
+
+Benefacit animæ suæ vir misericors ; <l eID="gen10948" level="1"/> <l level="1" sID="gen10949"/>qui autem crudelis est, etiam propinquos abjicit. <l eID="gen10949" level="1"/>
+
+** Proverbs 11:18
+
+Impius facit opus instabile, <l eID="gen10950" level="1"/> <l level="1" sID="gen10951"/>seminanti autem justitiam merces fidelis. <l eID="gen10951" level="1"/>
+
+** Proverbs 11:19
+
+Clementia præparat vitam, <l eID="gen10952" level="1"/> <l level="1" sID="gen10953"/>et sectatio malorum mortem. <l eID="gen10953" level="1"/>
+
+** Proverbs 11:20
+
+Abominabile Domino cor pravum, <l eID="gen10954" level="1"/> <l level="1" sID="gen10955"/>et voluntas ejus in iis qui simpliciter ambulant. <l eID="gen10955" level="1"/>
+
+** Proverbs 11:21
+
+Manus in manu non erit innocens malus ; <l eID="gen10956" level="1"/> <l level="1" sID="gen10957"/>semen autem justorum salvabitur. <l eID="gen10957" level="1"/>
+
+** Proverbs 11:22
+
+Circulus aureus in naribus suis, <l eID="gen10958" level="1"/> <l level="1" sID="gen10959"/>mulier pulchra et fatua. <l eID="gen10959" level="1"/>
+
+** Proverbs 11:23
+
+Desiderium justorum omne bonum est ; <l eID="gen10960" level="1"/> <l level="1" sID="gen10961"/>præstolatio impiorum furor. <l eID="gen10961" level="1"/>
+
+** Proverbs 11:24
+
+Alii dividunt propria, et ditiores fiunt ; <l eID="gen10962" level="1"/> <l level="1" sID="gen10963"/>alii rapiunt non sua, et semper in egestate sunt. <l eID="gen10963" level="1"/>
+
+** Proverbs 11:25
+
+Anima quæ benedicit impinguabitur, <l eID="gen10964" level="1"/> <l level="1" sID="gen10965"/>et qui inebriat, ipse quoque inebriabitur. <l eID="gen10965" level="1"/>
+
+** Proverbs 11:26
+
+Qui abscondit frumenta maledicetur in populis ; <l eID="gen10966" level="1"/> <l level="1" sID="gen10967"/>benedictio autem super caput vendentium. <l eID="gen10967" level="1"/>
+
+** Proverbs 11:27
+
+Bene consurgit diluculo qui quærit bona ; <l eID="gen10968" level="1"/> <l level="1" sID="gen10969"/>qui autem investigator malorum est, opprimetur ab eis. <l eID="gen10969" level="1"/>
+
+** Proverbs 11:28
+
+Qui confidit in divitiis suis corruet : <l eID="gen10970" level="1"/> <l level="1" sID="gen10971"/>justi autem quasi virens folium germinabunt. <l eID="gen10971" level="1"/>
+
+** Proverbs 11:29
+
+Qui conturbat domum suam possidebit ventos, <l eID="gen10972" level="1"/> <l level="1" sID="gen10973"/>et qui stultus est serviet sapienti. <l eID="gen10973" level="1"/>
+
+** Proverbs 11:30
+
+Fructus justi lignum vitæ, <l eID="gen10974" level="1"/> <l level="1" sID="gen10975"/>et qui suscipit animas sapiens est. <l eID="gen10975" level="1"/>
+
+** Proverbs 11:31
+
+Si justus in terra recipit, <l eID="gen10976" level="1"/> <l level="1" sID="gen10977"/>quanto magis impius et peccator !  <chapter eID="Prov.11"/>
+
+* Proverbs 12
+
+** Proverbs 12:1
+
+Qui diligit disciplinam diligit scientiam ; <l eID="gen10978" level="1"/> <l level="1" sID="gen10979"/>qui autem odit increpationes insipiens est. <l eID="gen10979" level="1"/>
+
+** Proverbs 12:2
+
+Qui bonus est hauriet gratiam a Domino ; <l eID="gen10980" level="1"/> <l level="1" sID="gen10981"/>qui autem confidit in cogitationibus suis impie agit. <l eID="gen10981" level="1"/>
+
+** Proverbs 12:3
+
+Non roborabitur homo ex impietate, <l eID="gen10982" level="1"/> <l level="1" sID="gen10983"/>et radix justorum non commovebitur. <l eID="gen10983" level="1"/>
+
+** Proverbs 12:4
+
+Mulier diligens corona est viro suo ; <l eID="gen10984" level="1"/> <l level="1" sID="gen10985"/>et putredo in ossibus ejus, quæ confusione res dignas gerit. <l eID="gen10985" level="1"/>
+
+** Proverbs 12:5
+
+Cogitationes justorum judicia, <l eID="gen10986" level="1"/> <l level="1" sID="gen10987"/>et consilia impiorum fraudulenta. <l eID="gen10987" level="1"/>
+
+** Proverbs 12:6
+
+Verba impiorum insidiantur sanguini ; <l eID="gen10988" level="1"/> <l level="1" sID="gen10989"/>os justorum liberabit eos. <l eID="gen10989" level="1"/>
+
+** Proverbs 12:7
+
+Verte impios, et non erunt ; <l eID="gen10990" level="1"/> <l level="1" sID="gen10991"/>domus autem justorum permanebit. <l eID="gen10991" level="1"/>
+
+** Proverbs 12:8
+
+Doctrina sua noscetur vir ; <l eID="gen10992" level="1"/> <l level="1" sID="gen10993"/>qui autem vanus et excors est patebit contemptui. <l eID="gen10993" level="1"/>
+
+** Proverbs 12:9
+
+Melior est pauper et sufficiens sibi <l eID="gen10994" level="1"/> <l level="1" sID="gen10995"/>quam gloriosus et indigens pane. <l eID="gen10995" level="1"/>
+
+** Proverbs 12:10
+
+Novit justus jumentorum suorum animas ; <l eID="gen10996" level="1"/> <l level="1" sID="gen10997"/>viscera autem impiorum crudelia. <l eID="gen10997" level="1"/>
+
+** Proverbs 12:11
+
+Qui operatur terram suam satiabitur panibus ; <l eID="gen10998" level="1"/> <l level="1" sID="gen10999"/>qui autem sectatur otium stultissimus est. <l eID="gen10999" level="1"/> <l level="1" sID="gen11000"/>Qui suavis est in vini demorationibus, <l eID="gen11000" level="1"/> <l level="1" sID="gen11001"/>in suis munitionibus relinquit contumeliam. <l eID="gen11001" level="1"/>
+
+** Proverbs 12:12
+
+Desiderium impii munimentum est pessimorum ; <l eID="gen11002" level="1"/> <l level="1" sID="gen11003"/>radix autem justorum proficiet. <l eID="gen11003" level="1"/>
+
+** Proverbs 12:13
+
+Propter peccata labiorum ruina proximat malo ; <l eID="gen11004" level="1"/> <l level="1" sID="gen11005"/>effugiet autem justus de angustia. <l eID="gen11005" level="1"/>
+
+** Proverbs 12:14
+
+De fructu oris sui unusquisque replebitur bonis, <l eID="gen11006" level="1"/> <l level="1" sID="gen11007"/>et juxta opera manuum suarum retribuetur ei. <l eID="gen11007" level="1"/>
+
+** Proverbs 12:15
+
+Via stulti recta in oculis ejus ; <l eID="gen11008" level="1"/> <l level="1" sID="gen11009"/>qui autem sapiens est audit consilia. <l eID="gen11009" level="1"/>
+
+** Proverbs 12:16
+
+Fatuus statim indicat iram suam ; <l eID="gen11010" level="1"/> <l level="1" sID="gen11011"/>qui autem dissimulat injuriam callidus est. <l eID="gen11011" level="1"/>
+
+** Proverbs 12:17
+
+Qui quod novit loquitur, index justitiæ est ; <l eID="gen11012" level="1"/> <l level="1" sID="gen11013"/>qui autem mentitur, testis est fraudulentus. <l eID="gen11013" level="1"/>
+
+** Proverbs 12:18
+
+Est qui promittit, et quasi gladio pungitur conscientiæ : <l eID="gen11014" level="1"/> <l level="1" sID="gen11015"/>lingua autem sapientium sanitas est. <l eID="gen11015" level="1"/>
+
+** Proverbs 12:19
+
+Labium veritatis firmum erit in perpetuum ; <l eID="gen11016" level="1"/> <l level="1" sID="gen11017"/>qui autem testis est repentinus, concinnat linguam mendacii. <l eID="gen11017" level="1"/>
+
+** Proverbs 12:20
+
+Dolus in corde cogitantium mala ; <l eID="gen11018" level="1"/> <l level="1" sID="gen11019"/>qui autem pacis ineunt consilia, sequitur eos gaudium. <l eID="gen11019" level="1"/>
+
+** Proverbs 12:21
+
+Non contristabit justum quidquid ei acciderit : <l eID="gen11020" level="1"/> <l level="1" sID="gen11021"/>impii autem replebuntur malo. <l eID="gen11021" level="1"/>
+
+** Proverbs 12:22
+
+Abominatio est Domino labia mendacia ; <l eID="gen11022" level="1"/> <l level="1" sID="gen11023"/>qui autem fideliter agunt placent ei. <l eID="gen11023" level="1"/>
+
+** Proverbs 12:23
+
+Homo versatus celat scientiam, <l eID="gen11024" level="1"/> <l level="1" sID="gen11025"/>et cor insipientium provocat stultitiam. <l eID="gen11025" level="1"/>
+
+** Proverbs 12:24
+
+Manus fortium dominabitur ; <l eID="gen11026" level="1"/> <l level="1" sID="gen11027"/>quæ autem remissa est, tributis serviet. <l eID="gen11027" level="1"/>
+
+** Proverbs 12:25
+
+Mœror in corde viri humiliabit illum, <l eID="gen11028" level="1"/> <l level="1" sID="gen11029"/>et sermone bono lætificabitur. <l eID="gen11029" level="1"/>
+
+** Proverbs 12:26
+
+Qui negligit damnum propter amicum, justus est ; <l eID="gen11030" level="1"/> <l level="1" sID="gen11031"/>iter autem impiorum decipiet eos. <l eID="gen11031" level="1"/>
+
+** Proverbs 12:27
+
+Non inveniet fraudulentus lucrum, <l eID="gen11032" level="1"/> <l level="1" sID="gen11033"/>et substantia hominis erit auri pretium. <l eID="gen11033" level="1"/>
+
+** Proverbs 12:28
+
+In semita justitiæ vita ; <l eID="gen11034" level="1"/> <l level="1" sID="gen11035"/>iter autem devium ducit ad mortem.  <chapter eID="Prov.12"/>
+
+* Proverbs 13
+
+** Proverbs 13:1
+
+Filius sapiens doctrina patris ; <l eID="gen11036" level="1"/> <l level="1" sID="gen11037"/>qui autem illusor est non audit cum arguitur. <l eID="gen11037" level="1"/>
+
+** Proverbs 13:2
+
+De fructu oris sui homo satiabitur bonis : <l eID="gen11038" level="1"/> <l level="1" sID="gen11039"/>anima autem prævaricatorum iniqua. <l eID="gen11039" level="1"/>
+
+** Proverbs 13:3
+
+Qui custodit os suum custodit animam suam ; <l eID="gen11040" level="1"/> <l level="1" sID="gen11041"/>qui autem inconsideratus est ad loquendum, sentiet mala. <l eID="gen11041" level="1"/>
+
+** Proverbs 13:4
+
+Vult et non vult piger ; <l eID="gen11042" level="1"/> <l level="1" sID="gen11043"/>anima autem operantium impinguabitur. <l eID="gen11043" level="1"/>
+
+** Proverbs 13:5
+
+Verbum mendax justus detestabitur ; <l eID="gen11044" level="1"/> <l level="1" sID="gen11045"/>impius autem confundit, et confundetur. <l eID="gen11045" level="1"/>
+
+** Proverbs 13:6
+
+Justitia custodit innocentis viam, <l eID="gen11046" level="1"/> <l level="1" sID="gen11047"/>impietas autem peccatorem supplantat. <l eID="gen11047" level="1"/>
+
+** Proverbs 13:7
+
+Est quasi dives, cum nihil habeat, <l eID="gen11048" level="1"/> <l level="1" sID="gen11049"/>et est quasi pauper, cum in multis divitiis sit. <l eID="gen11049" level="1"/>
+
+** Proverbs 13:8
+
+Redemptio animæ viri divitiæ suæ ; <l eID="gen11050" level="1"/> <l level="1" sID="gen11051"/>qui autem pauper est, increpationem non sustinet. <l eID="gen11051" level="1"/>
+
+** Proverbs 13:9
+
+Lux justorum lætificat : <l eID="gen11052" level="1"/> <l level="1" sID="gen11053"/>lucerna autem impiorum extinguetur. <l eID="gen11053" level="1"/>
+
+** Proverbs 13:10
+
+Inter superbos semper jurgia sunt ; <l eID="gen11054" level="1"/> <l level="1" sID="gen11055"/>qui autem agunt omnia cum consilio, reguntur sapientia. <l eID="gen11055" level="1"/>
+
+** Proverbs 13:11
+
+Substantia festinata minuetur ; <l eID="gen11056" level="1"/> <l level="1" sID="gen11057"/>quæ autem paulatim colligitur manu, multiplicabitur. <l eID="gen11057" level="1"/>
+
+** Proverbs 13:12
+
+Spes quæ differtur affligit animam ; <l eID="gen11058" level="1"/> <l level="1" sID="gen11059"/>lignum vitæ desiderium veniens. <l eID="gen11059" level="1"/>
+
+** Proverbs 13:13
+
+Qui detrahit alicui rei, ipse se in futurum obligat ; <l eID="gen11060" level="1"/> <l level="1" sID="gen11061"/>qui autem timet præceptum, in pace versabitur. <l eID="gen11061" level="1"/> <l level="1" sID="gen11062"/>Animæ dolosæ errant in peccatis : <l eID="gen11062" level="1"/> <l level="1" sID="gen11063"/>justi autem misericordes sunt, et miserantur. <l eID="gen11063" level="1"/>
+
+** Proverbs 13:14
+
+Lex sapientis fons vitæ, <l eID="gen11064" level="1"/> <l level="1" sID="gen11065"/>ut declinet a ruina mortis. <l eID="gen11065" level="1"/>
+
+** Proverbs 13:15
+
+Doctrina bona dabit gratiam ; <l eID="gen11066" level="1"/> <l level="1" sID="gen11067"/>in itinere contemptorum vorago. <l eID="gen11067" level="1"/>
+
+** Proverbs 13:16
+
+Astutus omnia agit cum consilio ; <l eID="gen11068" level="1"/> <l level="1" sID="gen11069"/>qui autem fatuus est aperit stultitiam. <l eID="gen11069" level="1"/>
+
+** Proverbs 13:17
+
+Nuntius impii cadet in malum ; <l eID="gen11070" level="1"/> <l level="1" sID="gen11071"/>legatus autem fidelis, sanitas. <l eID="gen11071" level="1"/>
+
+** Proverbs 13:18
+
+Egestas et ignominia ei qui deserit disciplinam ; <l eID="gen11072" level="1"/> <l level="1" sID="gen11073"/>qui autem acquiescit arguenti glorificabitur. <l eID="gen11073" level="1"/>
+
+** Proverbs 13:19
+
+Desiderium si compleatur delectat animam ; <l eID="gen11074" level="1"/> <l level="1" sID="gen11075"/>detestantur stulti eos qui fugiunt mala. <l eID="gen11075" level="1"/>
+
+** Proverbs 13:20
+
+Qui cum sapientibus graditur sapiens erit ; <l eID="gen11076" level="1"/> <l level="1" sID="gen11077"/>amicus stultorum similis efficietur. <l eID="gen11077" level="1"/>
+
+** Proverbs 13:21
+
+Peccatores persequitur malum, <l eID="gen11078" level="1"/> <l level="1" sID="gen11079"/>et justis retribuentur bona. <l eID="gen11079" level="1"/>
+
+** Proverbs 13:22
+
+Bonus reliquit hæredes filios et nepotes, <l eID="gen11080" level="1"/> <l level="1" sID="gen11081"/>et custoditur justo substantia peccatoris. <l eID="gen11081" level="1"/>
+
+** Proverbs 13:23
+
+Multi cibi in novalibus patrum, <l eID="gen11082" level="1"/> <l level="1" sID="gen11083"/>et aliis congregantur absque judicio. <l eID="gen11083" level="1"/>
+
+** Proverbs 13:24
+
+Qui parcit virgæ odit filium suum ; <l eID="gen11084" level="1"/> <l level="1" sID="gen11085"/>qui autem diligit illum instanter erudit. <l eID="gen11085" level="1"/>
+
+** Proverbs 13:25
+
+Justus comedit et replet animam suam ; <l eID="gen11086" level="1"/> <l level="1" sID="gen11087"/>venter autem impiorum insaturabilis.  <chapter eID="Prov.13"/>
+
+* Proverbs 14
+
+** Proverbs 14:1
+
+Sapiens mulier ædificat domum suam ; <l eID="gen11088" level="1"/> <l level="1" sID="gen11089"/>insipiens exstructam quoque manibus destruet. <l eID="gen11089" level="1"/>
+
+** Proverbs 14:2
+
+Ambulans recto itinere, et timens Deum, <l eID="gen11090" level="1"/> <l level="1" sID="gen11091"/>despicitur ab eo qui infami graditur via. <l eID="gen11091" level="1"/>
+
+** Proverbs 14:3
+
+In ore stulti virga superbiæ ; <l eID="gen11092" level="1"/> <l level="1" sID="gen11093"/>labia autem sapientium custodiunt eos. <l eID="gen11093" level="1"/>
+
+** Proverbs 14:4
+
+Ubi non sunt boves, præsepe vacuum est ; <l eID="gen11094" level="1"/> <l level="1" sID="gen11095"/>ubi autem plurimæ segetes, ibi manifesta est fortitudo bovis. <l eID="gen11095" level="1"/>
+
+** Proverbs 14:5
+
+Testis fidelis non mentitur ; <l eID="gen11096" level="1"/> <l level="1" sID="gen11097"/>profert autem mendacium dolosus testis. <l eID="gen11097" level="1"/>
+
+** Proverbs 14:6
+
+Quærit derisor sapientiam, et non invenit ; <l eID="gen11098" level="1"/> <l level="1" sID="gen11099"/>doctrina prudentium facilis. <l eID="gen11099" level="1"/>
+
+** Proverbs 14:7
+
+Vade contra virum stultum, <l eID="gen11100" level="1"/> <l level="1" sID="gen11101"/>et nescit labia prudentiæ. <l eID="gen11101" level="1"/>
+
+** Proverbs 14:8
+
+Sapientia callidi est intelligere viam suam, <l eID="gen11102" level="1"/> <l level="1" sID="gen11103"/>et imprudentia stultorum errans. <l eID="gen11103" level="1"/>
+
+** Proverbs 14:9
+
+Stultus illudet peccatum, <l eID="gen11104" level="1"/> <l level="1" sID="gen11105"/>et inter justos morabitur gratia. <l eID="gen11105" level="1"/>
+
+** Proverbs 14:10
+
+Cor quod novit amaritudinem animæ suæ, <l eID="gen11106" level="1"/> <l level="1" sID="gen11107"/>in gaudio ejus non miscebitur extraneus. <l eID="gen11107" level="1"/>
+
+** Proverbs 14:11
+
+Domus impiorum delebitur : <l eID="gen11108" level="1"/> <l level="1" sID="gen11109"/>tabernacula vero justorum germinabunt. <l eID="gen11109" level="1"/>
+
+** Proverbs 14:12
+
+Est via quæ videtur homini justa, <l eID="gen11110" level="1"/> <l level="1" sID="gen11111"/>novissima autem ejus deducunt ad mortem. <l eID="gen11111" level="1"/>
+
+** Proverbs 14:13
+
+Risus dolore miscebitur, <l eID="gen11112" level="1"/> <l level="1" sID="gen11113"/>et extrema gaudii luctus occupat. <l eID="gen11113" level="1"/>
+
+** Proverbs 14:14
+
+Viis suis replebitur stultus, <l eID="gen11114" level="1"/> <l level="1" sID="gen11115"/>et super eum erit vir bonus. <l eID="gen11115" level="1"/>
+
+** Proverbs 14:15
+
+Innocens credit omni verbo ; <l eID="gen11116" level="1"/> <l level="1" sID="gen11117"/>astutus considerat gressus suos. <l eID="gen11117" level="1"/> <l level="1" sID="gen11118"/>Filio doloso nihil erit boni ; <l eID="gen11118" level="1"/> <l level="1" sID="gen11119"/>servo autem sapienti prosperi erunt actus, <l eID="gen11119" level="1"/> <l level="1" sID="gen11120"/>et dirigetur via ejus. <l eID="gen11120" level="1"/>
+
+** Proverbs 14:16
+
+Sapiens timet, et declinat a malo ; <l eID="gen11121" level="1"/> <l level="1" sID="gen11122"/>stultus transilit, et confidit. <l eID="gen11122" level="1"/>
+
+** Proverbs 14:17
+
+Impatiens operabitur stultitiam, <l eID="gen11123" level="1"/> <l level="1" sID="gen11124"/>et vir versutus odiosus est. <l eID="gen11124" level="1"/>
+
+** Proverbs 14:18
+
+Possidebunt parvuli stultitiam, <l eID="gen11125" level="1"/> <l level="1" sID="gen11126"/>et exspectabunt astuti scientiam. <l eID="gen11126" level="1"/>
+
+** Proverbs 14:19
+
+Jacebunt mali ante bonos, <l eID="gen11127" level="1"/> <l level="1" sID="gen11128"/>et impii ante portas justorum. <l eID="gen11128" level="1"/>
+
+** Proverbs 14:20
+
+Etiam proximo suo pauper odiosus erit : <l eID="gen11129" level="1"/> <l level="1" sID="gen11130"/>amici vero divitum multi. <l eID="gen11130" level="1"/>
+
+** Proverbs 14:21
+
+Qui despicit proximum suum peccat ; <l eID="gen11131" level="1"/> <l level="1" sID="gen11132"/>qui autem miseretur pauperis beatus erit. <l eID="gen11132" level="1"/> <l level="1" sID="gen11133"/>Qui credit in Domino misericordiam diligit. <l eID="gen11133" level="1"/>
+
+** Proverbs 14:22
+
+Errant qui operantur malum ; <l eID="gen11134" level="1"/> <l level="1" sID="gen11135"/>misericordia et veritas præparant bona. <l eID="gen11135" level="1"/>
+
+** Proverbs 14:23
+
+In omni opere erit abundantia ; <l eID="gen11136" level="1"/> <l level="1" sID="gen11137"/>ubi autem verba sunt plurima, ibi frequenter egestas. <l eID="gen11137" level="1"/>
+
+** Proverbs 14:24
+
+Corona sapientium divitiæ eorum ; <l eID="gen11138" level="1"/> <l level="1" sID="gen11139"/>fatuitas stultorum imprudentia. <l eID="gen11139" level="1"/>
+
+** Proverbs 14:25
+
+Liberat animas testis fidelis, <l eID="gen11140" level="1"/> <l level="1" sID="gen11141"/>et profert mendacia versipellis. <l eID="gen11141" level="1"/>
+
+** Proverbs 14:26
+
+In timore Domini fiducia fortitudinis, <l eID="gen11142" level="1"/> <l level="1" sID="gen11143"/>et filiis ejus erit spes. <l eID="gen11143" level="1"/>
+
+** Proverbs 14:27
+
+Timor Domini fons vitæ, <l eID="gen11144" level="1"/> <l level="1" sID="gen11145"/>ut declinent a ruina mortis. <l eID="gen11145" level="1"/>
+
+** Proverbs 14:28
+
+In multitudine populi dignitas regis, <l eID="gen11146" level="1"/> <l level="1" sID="gen11147"/>et in paucitate plebis ignominia principis. <l eID="gen11147" level="1"/>
+
+** Proverbs 14:29
+
+Qui patiens est multa gubernatur prudentia ; <l eID="gen11148" level="1"/> <l level="1" sID="gen11149"/>qui autem impatiens est exaltat stultitiam suam. <l eID="gen11149" level="1"/>
+
+** Proverbs 14:30
+
+Vita carnium sanitas cordis ; <l eID="gen11150" level="1"/> <l level="1" sID="gen11151"/>putredo ossium invidia. <l eID="gen11151" level="1"/>
+
+** Proverbs 14:31
+
+Qui calumniatur egentem exprobrat factori ejus ; <l eID="gen11152" level="1"/> <l level="1" sID="gen11153"/>honorat autem eum qui miseretur pauperis. <l eID="gen11153" level="1"/>
+
+** Proverbs 14:32
+
+In malitia sua expelletur impius : <l eID="gen11154" level="1"/> <l level="1" sID="gen11155"/>sperat autem justus in morte sua. <l eID="gen11155" level="1"/>
+
+** Proverbs 14:33
+
+In corde prudentis requiescit sapientia, <l eID="gen11156" level="1"/> <l level="1" sID="gen11157"/>et indoctos quosque erudiet. <l eID="gen11157" level="1"/>
+
+** Proverbs 14:34
+
+Justitia elevat gentem ; <l eID="gen11158" level="1"/> <l level="1" sID="gen11159"/>miseros autem facit populos peccatum. <l eID="gen11159" level="1"/>
+
+** Proverbs 14:35
+
+Acceptus est regi minister intelligens ; <l eID="gen11160" level="1"/> <l level="1" sID="gen11161"/>iracundiam ejus inutilis sustinebit.  <chapter eID="Prov.14"/>
+
+* Proverbs 15
+
+** Proverbs 15:1
+
+Responsio mollis frangit iram ; <l eID="gen11162" level="1"/> <l level="1" sID="gen11163"/>sermo durus suscitat furorem. <l eID="gen11163" level="1"/>
+
+** Proverbs 15:2
+
+Lingua sapientium ornat scientiam ; <l eID="gen11164" level="1"/> <l level="1" sID="gen11165"/>os fatuorum ebullit stultitiam. <l eID="gen11165" level="1"/>
+
+** Proverbs 15:3
+
+In omni loco, oculi Domini <l eID="gen11166" level="1"/> <l level="1" sID="gen11167"/>contemplantur bonos et malos. <l eID="gen11167" level="1"/>
+
+** Proverbs 15:4
+
+Lingua placabilis lignum vitæ ; <l eID="gen11168" level="1"/> <l level="1" sID="gen11169"/>quæ autem immoderata est conteret spiritum. <l eID="gen11169" level="1"/>
+
+** Proverbs 15:5
+
+Stultus irridet disciplinam patris sui ; <l eID="gen11170" level="1"/> <l level="1" sID="gen11171"/>qui autem custodit increpationes astutior fiet. <l eID="gen11171" level="1"/> <l level="1" sID="gen11172"/>In abundanti justitia virtus maxima est : <l eID="gen11172" level="1"/> <l level="1" sID="gen11173"/>cogitationes autem impiorum eradicabuntur. <l eID="gen11173" level="1"/>
+
+** Proverbs 15:6
+
+Domus justi plurima fortitudo, <l eID="gen11174" level="1"/> <l level="1" sID="gen11175"/>et in fructibus impii conturbatio. <l eID="gen11175" level="1"/>
+
+** Proverbs 15:7
+
+Labia sapientium disseminabunt scientiam ; <l eID="gen11176" level="1"/> <l level="1" sID="gen11177"/>cor stultorum dissimile erit. <l eID="gen11177" level="1"/>
+
+** Proverbs 15:8
+
+Victimæ impiorum abominabiles Domino ; <l eID="gen11178" level="1"/> <l level="1" sID="gen11179"/>vota justorum placabilia. <l eID="gen11179" level="1"/>
+
+** Proverbs 15:9
+
+Abominatio est Domino via impii ; <l eID="gen11180" level="1"/> <l level="1" sID="gen11181"/>qui sequitur justitiam diligitur ab eo. <l eID="gen11181" level="1"/>
+
+** Proverbs 15:10
+
+Doctrina mala deserenti viam vitæ ; <l eID="gen11182" level="1"/> <l level="1" sID="gen11183"/>qui increpationes odit, morietur. <l eID="gen11183" level="1"/>
+
+** Proverbs 15:11
+
+Infernus et perditio coram Domino ; <l eID="gen11184" level="1"/> <l level="1" sID="gen11185"/>quanto magis corda filiorum hominum ! <l eID="gen11185" level="1"/>
+
+** Proverbs 15:12
+
+Non amat pestilens eum qui se corripit, <l eID="gen11186" level="1"/> <l level="1" sID="gen11187"/>nec ad sapientes graditur. <l eID="gen11187" level="1"/>
+
+** Proverbs 15:13
+
+Cor gaudens exhilarat faciem ; <l eID="gen11188" level="1"/> <l level="1" sID="gen11189"/>in mœrore animi dejicitur spiritus. <l eID="gen11189" level="1"/>
+
+** Proverbs 15:14
+
+Cor sapientis quærit doctrinam, <l eID="gen11190" level="1"/> <l level="1" sID="gen11191"/>et os stultorum pascitur imperitia. <l eID="gen11191" level="1"/>
+
+** Proverbs 15:15
+
+Omnes dies pauperis, mali ; <l eID="gen11192" level="1"/> <l level="1" sID="gen11193"/>secura mens quasi juge convivium. <l eID="gen11193" level="1"/>
+
+** Proverbs 15:16
+
+Melius est parum cum timore Domini, <l eID="gen11194" level="1"/> <l level="1" sID="gen11195"/>quam thesauri magni et insatiabiles. <l eID="gen11195" level="1"/>
+
+** Proverbs 15:17
+
+Melius est vocari ad olera cum caritate, <l eID="gen11196" level="1"/> <l level="1" sID="gen11197"/>quam ad vitulum saginatum cum odio. <l eID="gen11197" level="1"/>
+
+** Proverbs 15:18
+
+Vir iracundus provocat rixas ; <l eID="gen11198" level="1"/> <l level="1" sID="gen11199"/>qui patiens est mitigat suscitatas. <l eID="gen11199" level="1"/>
+
+** Proverbs 15:19
+
+Iter pigrorum quasi sepes spinarum ; <l eID="gen11200" level="1"/> <l level="1" sID="gen11201"/>via justorum absque offendiculo. <l eID="gen11201" level="1"/>
+
+** Proverbs 15:20
+
+Filius sapiens lætificat patrem, <l eID="gen11202" level="1"/> <l level="1" sID="gen11203"/>et stultus homo despicit matrem suam. <l eID="gen11203" level="1"/>
+
+** Proverbs 15:21
+
+Stultitia gaudium stulto, <l eID="gen11204" level="1"/> <l level="1" sID="gen11205"/>et vir prudens dirigit gressus suos. <l eID="gen11205" level="1"/>
+
+** Proverbs 15:22
+
+Dissipantur cogitationes ubi non est consilium ; <l eID="gen11206" level="1"/> <l level="1" sID="gen11207"/>ubi vero sunt plures consiliarii, confirmantur. <l eID="gen11207" level="1"/>
+
+** Proverbs 15:23
+
+Lætatur homo in sententia oris sui, <l eID="gen11208" level="1"/> <l level="1" sID="gen11209"/>et sermo opportunus est optimus. <l eID="gen11209" level="1"/>
+
+** Proverbs 15:24
+
+Semita vitæ super eruditum, <l eID="gen11210" level="1"/> <l level="1" sID="gen11211"/>ut declinet de inferno novissimo. <l eID="gen11211" level="1"/>
+
+** Proverbs 15:25
+
+Domum superborum demolietur Dominus, <l eID="gen11212" level="1"/> <l level="1" sID="gen11213"/>et firmos faciet terminos viduæ. <l eID="gen11213" level="1"/>
+
+** Proverbs 15:26
+
+Abominatio Domini cogitationes malæ, <l eID="gen11214" level="1"/> <l level="1" sID="gen11215"/>et purus sermo pulcherrimus firmabitur ab eo. <l eID="gen11215" level="1"/>
+
+** Proverbs 15:27
+
+Conturbat domum suam qui sectatur avaritiam ; <l eID="gen11216" level="1"/> <l level="1" sID="gen11217"/>qui autem odit munera, vivet. <l eID="gen11217" level="1"/> <l level="1" sID="gen11218"/>Per misericordiam et fidem purgantur peccata : <l eID="gen11218" level="1"/> <l level="1" sID="gen11219"/>per timorem autem Domini declinat omnis a malo. <l eID="gen11219" level="1"/>
+
+** Proverbs 15:28
+
+Mens justi meditatur obedientiam ; <l eID="gen11220" level="1"/> <l level="1" sID="gen11221"/>os impiorum redundat malis. <l eID="gen11221" level="1"/>
+
+** Proverbs 15:29
+
+Longe est Dominus ab impiis, <l eID="gen11222" level="1"/> <l level="1" sID="gen11223"/>et orationes justorum exaudiet. <l eID="gen11223" level="1"/>
+
+** Proverbs 15:30
+
+Lux oculorum lætificat animam ; <l eID="gen11224" level="1"/> <l level="1" sID="gen11225"/>fama bona impinguat ossa. <l eID="gen11225" level="1"/>
+
+** Proverbs 15:31
+
+Auris quæ audit increpationes vitæ <l eID="gen11226" level="1"/> <l level="1" sID="gen11227"/>in medio sapientium commorabitur. <l eID="gen11227" level="1"/>
+
+** Proverbs 15:32
+
+Qui abjicit disciplinam despicit animam suam ; <l eID="gen11228" level="1"/> <l level="1" sID="gen11229"/>qui autem acquiescit increpationibus possessor est cordis. <l eID="gen11229" level="1"/>
+
+** Proverbs 15:33
+
+Timor Domini disciplina sapientiæ, <l eID="gen11230" level="1"/> <l level="1" sID="gen11231"/>et gloriam præcedit humilitas.  <chapter eID="Prov.15"/>
+
+* Proverbs 16
+
+** Proverbs 16:1
+
+Hominis est animam præparare, <l eID="gen11232" level="1"/> <l level="1" sID="gen11233"/>et Domini gubernare linguam. <l eID="gen11233" level="1"/>
+
+** Proverbs 16:2
+
+Omnes viæ hominis patent oculis ejus ; <l eID="gen11234" level="1"/> <l level="1" sID="gen11235"/>spirituum ponderator est Dominus. <l eID="gen11235" level="1"/>
+
+** Proverbs 16:3
+
+Revela Domino opera tua, <l eID="gen11236" level="1"/> <l level="1" sID="gen11237"/>et dirigentur cogitationes tuæ. <l eID="gen11237" level="1"/>
+
+** Proverbs 16:4
+
+Universa propter semetipsum operatus est Dominus ; <l eID="gen11238" level="1"/> <l level="1" sID="gen11239"/>impium quoque ad diem malum. <l eID="gen11239" level="1"/>
+
+** Proverbs 16:5
+
+Abominatio Domini est omnis arrogans ; <l eID="gen11240" level="1"/> <l level="1" sID="gen11241"/>etiamsi manus ad manum fuerit, non est innocens. <l eID="gen11241" level="1"/> <l level="1" sID="gen11242"/>Initium viæ bonæ facere justitiam ; <l eID="gen11242" level="1"/> <l level="1" sID="gen11243"/>accepta est autem apud Deum magis quam immolare hostias. <l eID="gen11243" level="1"/>
+
+** Proverbs 16:6
+
+Misericordia et veritate redimitur iniquitas, <l eID="gen11244" level="1"/> <l level="1" sID="gen11245"/>et in timore Domini declinatur a malo. <l eID="gen11245" level="1"/>
+
+** Proverbs 16:7
+
+Cum placuerint Domino viæ hominis, <l eID="gen11246" level="1"/> <l level="1" sID="gen11247"/>inimicos quoque ejus convertet ad pacem. <l eID="gen11247" level="1"/>
+
+** Proverbs 16:8
+
+Melius est parum cum justitia <l eID="gen11248" level="1"/> <l level="1" sID="gen11249"/>quam multi fructus cum iniquitate. <l eID="gen11249" level="1"/>
+
+** Proverbs 16:9
+
+Cor hominis disponit viam suam, <l eID="gen11250" level="1"/> <l level="1" sID="gen11251"/>sed Domini est dirigere gressus ejus. <l eID="gen11251" level="1"/>
+
+** Proverbs 16:10
+
+Divinatio in labiis regis ; <l eID="gen11252" level="1"/> <l level="1" sID="gen11253"/>in judicio non errabit os ejus. <l eID="gen11253" level="1"/>
+
+** Proverbs 16:11
+
+Pondus et statera judicia Domini sunt, <l eID="gen11254" level="1"/> <l level="1" sID="gen11255"/>et opera ejus omnes lapides sacculi. <l eID="gen11255" level="1"/>
+
+** Proverbs 16:12
+
+Abominabiles regi qui agunt impie, <l eID="gen11256" level="1"/> <l level="1" sID="gen11257"/>quoniam justitia firmatur solium. <l eID="gen11257" level="1"/>
+
+** Proverbs 16:13
+
+Voluntas regum labia justa ; <l eID="gen11258" level="1"/> <l level="1" sID="gen11259"/>qui recta loquitur diligetur. <l eID="gen11259" level="1"/>
+
+** Proverbs 16:14
+
+Indignatio regis nuntii mortis, <l eID="gen11260" level="1"/> <l level="1" sID="gen11261"/>et vir sapiens placabit eam. <l eID="gen11261" level="1"/>
+
+** Proverbs 16:15
+
+In hilaritate vultus regis vita, <l eID="gen11262" level="1"/> <l level="1" sID="gen11263"/>et clementia ejus quasi imber serotinus. <l eID="gen11263" level="1"/>
+
+** Proverbs 16:16
+
+Posside sapientiam, quia auro melior est, <l eID="gen11264" level="1"/> <l level="1" sID="gen11265"/>et acquire prudentiam, quia pretiosior est argento. <l eID="gen11265" level="1"/>
+
+** Proverbs 16:17
+
+Semita justorum declinat mala ; <l eID="gen11266" level="1"/> <l level="1" sID="gen11267"/>custos animæ suæ servat viam suam. <l eID="gen11267" level="1"/>
+
+** Proverbs 16:18
+
+Contritionem præcedit superbia, <l eID="gen11268" level="1"/> <l level="1" sID="gen11269"/>et ante ruinam exaltatur spiritus. <l eID="gen11269" level="1"/>
+
+** Proverbs 16:19
+
+Melius est humiliari cum mitibus <l eID="gen11270" level="1"/> <l level="1" sID="gen11271"/>quam dividere spolia cum superbis. <l eID="gen11271" level="1"/>
+
+** Proverbs 16:20
+
+Eruditus in verbo reperiet bona, <l eID="gen11272" level="1"/> <l level="1" sID="gen11273"/>et qui sperat in Domino beatus est. <l eID="gen11273" level="1"/>
+
+** Proverbs 16:21
+
+Qui sapiens est corde appellabitur prudens, <l eID="gen11274" level="1"/> <l level="1" sID="gen11275"/>et qui dulcis eloquio majora percipiet. <l eID="gen11275" level="1"/>
+
+** Proverbs 16:22
+
+Fons vitæ eruditio possidentis ; <l eID="gen11276" level="1"/> <l level="1" sID="gen11277"/>doctrina stultorum fatuitas. <l eID="gen11277" level="1"/>
+
+** Proverbs 16:23
+
+Cor sapientis erudiet os ejus, <l eID="gen11278" level="1"/> <l level="1" sID="gen11279"/>et labiis ejus addet gratiam. <l eID="gen11279" level="1"/>
+
+** Proverbs 16:24
+
+Favus mellis composita verba ; <l eID="gen11280" level="1"/> <l level="1" sID="gen11281"/>dulcedo animæ sanitas ossium. <l eID="gen11281" level="1"/>
+
+** Proverbs 16:25
+
+Est via quæ videtur homini recta, <l eID="gen11282" level="1"/> <l level="1" sID="gen11283"/>et novissima ejus ducunt ad mortem. <l eID="gen11283" level="1"/>
+
+** Proverbs 16:26
+
+Anima laborantis laborat sibi, <l eID="gen11284" level="1"/> <l level="1" sID="gen11285"/>quia compulit eum os suum. <l eID="gen11285" level="1"/>
+
+** Proverbs 16:27
+
+Vir impius fodit malum, <l eID="gen11286" level="1"/> <l level="1" sID="gen11287"/>et in labiis ejus ignis ardescit. <l eID="gen11287" level="1"/>
+
+** Proverbs 16:28
+
+Homo perversus suscitat lites, <l eID="gen11288" level="1"/> <l level="1" sID="gen11289"/>et verbosus separat principes. <l eID="gen11289" level="1"/>
+
+** Proverbs 16:29
+
+Vir iniquus lactat amicum suum, <l eID="gen11290" level="1"/> <l level="1" sID="gen11291"/>et ducit eum per viam non bonam. <l eID="gen11291" level="1"/>
+
+** Proverbs 16:30
+
+Qui attonitis oculis cogitat prava, <l eID="gen11292" level="1"/> <l level="1" sID="gen11293"/>mordens labia sua perficit malum. <l eID="gen11293" level="1"/>
+
+** Proverbs 16:31
+
+Corona dignitatis senectus, <l eID="gen11294" level="1"/> <l level="1" sID="gen11295"/>quæ in viis justitiæ reperietur. <l eID="gen11295" level="1"/>
+
+** Proverbs 16:32
+
+Melior est patiens viro forti, <l eID="gen11296" level="1"/> <l level="1" sID="gen11297"/>et qui dominatur animo suo expugnatore urbium. <l eID="gen11297" level="1"/>
+
+** Proverbs 16:33
+
+Sortes mittuntur in sinum, <l eID="gen11298" level="1"/> <l level="1" sID="gen11299"/>sed a Domino temperantur.  <chapter eID="Prov.16"/>
+
+* Proverbs 17
+
+** Proverbs 17:1
+
+Melior est buccella sicca cum gaudio <l eID="gen11300" level="1"/> <l level="1" sID="gen11301"/>quam domus plena victimis cum jurgio. <l eID="gen11301" level="1"/>
+
+** Proverbs 17:2
+
+Servus sapiens dominabitur filiis stultis, <l eID="gen11302" level="1"/> <l level="1" sID="gen11303"/>et inter fratres hæreditatem dividet. <l eID="gen11303" level="1"/>
+
+** Proverbs 17:3
+
+Sicut igne probatur argentum et aurum camino, <l eID="gen11304" level="1"/> <l level="1" sID="gen11305"/>ita corda probat Dominus. <l eID="gen11305" level="1"/>
+
+** Proverbs 17:4
+
+Malus obedit linguæ iniquæ, <l eID="gen11306" level="1"/> <l level="1" sID="gen11307"/>et fallax obtemperat labiis mendacibus. <l eID="gen11307" level="1"/>
+
+** Proverbs 17:5
+
+Qui despicit pauperem exprobrat factori ejus, <l eID="gen11308" level="1"/> <l level="1" sID="gen11309"/>et qui ruina lætatur alterius non erit impunitus. <l eID="gen11309" level="1"/>
+
+** Proverbs 17:6
+
+Corona senum filii filiorum, <l eID="gen11310" level="1"/> <l level="1" sID="gen11311"/>et gloria filiorum patres eorum. <l eID="gen11311" level="1"/>
+
+** Proverbs 17:7
+
+Non decent stultum verba composita, <l eID="gen11312" level="1"/> <l level="1" sID="gen11313"/>nec principem labium mentiens. <l eID="gen11313" level="1"/>
+
+** Proverbs 17:8
+
+Gemma gratissima exspectatio præstolantis ; <l eID="gen11314" level="1"/> <l level="1" sID="gen11315"/>quocumque se vertit, prudenter intelligit. <l eID="gen11315" level="1"/>
+
+** Proverbs 17:9
+
+Qui celat delictum quærit amicitias ; <l eID="gen11316" level="1"/> <l level="1" sID="gen11317"/>qui altero sermone repetit, separat fœderatos. <l eID="gen11317" level="1"/>
+
+** Proverbs 17:10
+
+Plus proficit correptio apud prudentem, <l eID="gen11318" level="1"/> <l level="1" sID="gen11319"/>quam centum plagæ apud stultum. <l eID="gen11319" level="1"/>
+
+** Proverbs 17:11
+
+Semper jurgia quærit malus : <l eID="gen11320" level="1"/> <l level="1" sID="gen11321"/>angelus autem crudelis mittetur contra eum. <l eID="gen11321" level="1"/>
+
+** Proverbs 17:12
+
+Expedit magis ursæ occurrere raptis fœtibus, <l eID="gen11322" level="1"/> <l level="1" sID="gen11323"/>quam fatuo confidenti in stultitia sua. <l eID="gen11323" level="1"/>
+
+** Proverbs 17:13
+
+Qui reddit mala pro bonis, <l eID="gen11324" level="1"/> <l level="1" sID="gen11325"/>non recedet malum de domo ejus. <l eID="gen11325" level="1"/>
+
+** Proverbs 17:14
+
+Qui dimittit aquam caput est jurgiorum, <l eID="gen11326" level="1"/> <l level="1" sID="gen11327"/>et antequam patiatur contumeliam judicium deserit. <l eID="gen11327" level="1"/>
+
+** Proverbs 17:15
+
+Qui justificat impium, et qui condemnat justum, <l eID="gen11328" level="1"/> <l level="1" sID="gen11329"/>abominabilis est uterque apud Deum. <l eID="gen11329" level="1"/>
+
+** Proverbs 17:16
+
+Quid prodest stulto habere divitias, <l eID="gen11330" level="1"/> <l level="1" sID="gen11331"/>cum sapientiam emere non possit ? <l eID="gen11331" level="1"/> <l level="1" sID="gen11332"/>Qui altum facit domum suam quærit ruinam, <l eID="gen11332" level="1"/> <l level="1" sID="gen11333"/>et qui evitat discere incidet in mala. <l eID="gen11333" level="1"/>
+
+** Proverbs 17:17
+
+Omni tempore diligit qui amicus est, <l eID="gen11334" level="1"/> <l level="1" sID="gen11335"/>et frater in angustiis comprobatur. <l eID="gen11335" level="1"/>
+
+** Proverbs 17:18
+
+Stultus homo plaudet manibus, <l eID="gen11336" level="1"/> <l level="1" sID="gen11337"/>cum spoponderit pro amico suo. <l eID="gen11337" level="1"/>
+
+** Proverbs 17:19
+
+Qui meditatur discordias diligit rixas, <l eID="gen11338" level="1"/> <l level="1" sID="gen11339"/>et qui exaltat ostium quærit ruinam. <l eID="gen11339" level="1"/>
+
+** Proverbs 17:20
+
+Qui perversi cordis est non inveniet bonum, <l eID="gen11340" level="1"/> <l level="1" sID="gen11341"/>et qui vertit linguam incidet in malum. <l eID="gen11341" level="1"/>
+
+** Proverbs 17:21
+
+Natus est stultus in ignominiam suam ; <l eID="gen11342" level="1"/> <l level="1" sID="gen11343"/>sed nec pater in fatuo lætabitur. <l eID="gen11343" level="1"/>
+
+** Proverbs 17:22
+
+Animus gaudens ætatem floridam facit ; <l eID="gen11344" level="1"/> <l level="1" sID="gen11345"/>spiritus tristis exsiccat ossa. <l eID="gen11345" level="1"/>
+
+** Proverbs 17:23
+
+Munera de sinu impius accipit, <l eID="gen11346" level="1"/> <l level="1" sID="gen11347"/>ut pervertat semitas judicii. <l eID="gen11347" level="1"/>
+
+** Proverbs 17:24
+
+In facie prudentis lucet sapientia ; <l eID="gen11348" level="1"/> <l level="1" sID="gen11349"/>oculi stultorum in finibus terræ. <l eID="gen11349" level="1"/>
+
+** Proverbs 17:25
+
+Ira patris filius stultus, <l eID="gen11350" level="1"/> <l level="1" sID="gen11351"/>et dolor matris quæ genuit eum. <l eID="gen11351" level="1"/>
+
+** Proverbs 17:26
+
+Non est bonum damnum inferre justo, <l eID="gen11352" level="1"/> <l level="1" sID="gen11353"/>nec percutere principem qui recta judicat. <l eID="gen11353" level="1"/>
+
+** Proverbs 17:27
+
+Qui moderatur sermones suos doctus et prudens est, <l eID="gen11354" level="1"/> <l level="1" sID="gen11355"/>et pretiosi spiritus vir eruditus. <l eID="gen11355" level="1"/>
+
+** Proverbs 17:28
+
+Stultus quoque, si tacuerit, sapiens reputabitur, <l eID="gen11356" level="1"/> <l level="1" sID="gen11357"/>et si compresserit labia sua, intelligens.  <chapter eID="Prov.17"/>
+
+* Proverbs 18
+
+** Proverbs 18:1
+
+Occasiones quærit qui vult recedere ab amico : <l eID="gen11358" level="1"/> <l level="1" sID="gen11359"/>omni tempore erit exprobrabilis. <l eID="gen11359" level="1"/>
+
+** Proverbs 18:2
+
+Non recipit stultus verba prudentiæ, <l eID="gen11360" level="1"/> <l level="1" sID="gen11361"/>nisi ea dixeris quæ versantur in corde ejus. <l eID="gen11361" level="1"/>
+
+** Proverbs 18:3
+
+Impius, cum in profundum venerit peccatorum, contemnit ; <l eID="gen11362" level="1"/> <l level="1" sID="gen11363"/>sed sequitur eum ignominia et opprobrium. <l eID="gen11363" level="1"/>
+
+** Proverbs 18:4
+
+Aqua profunda verba ex ore viri, <l eID="gen11364" level="1"/> <l level="1" sID="gen11365"/>et torrens redundans fons sapientiæ. <l eID="gen11365" level="1"/>
+
+** Proverbs 18:5
+
+Accipere personam impii non est bonum, <l eID="gen11366" level="1"/> <l level="1" sID="gen11367"/>ut declines a veritate judicii. <l eID="gen11367" level="1"/>
+
+** Proverbs 18:6
+
+Labia stulti miscent se rixis, <l eID="gen11368" level="1"/> <l level="1" sID="gen11369"/>et os ejus jurgia provocat. <l eID="gen11369" level="1"/>
+
+** Proverbs 18:7
+
+Os stulti contritio ejus, <l eID="gen11370" level="1"/> <l level="1" sID="gen11371"/>et labia ipsius ruina animæ ejus. <l eID="gen11371" level="1"/>
+
+** Proverbs 18:8
+
+Verba bilinguis quasi simplicia, <l eID="gen11372" level="1"/> <l level="1" sID="gen11373"/>et ipsa perveniunt usque ad interiora ventris. <l eID="gen11373" level="1"/> <l level="1" sID="gen11374"/>Pigrum dejicit timor ; <l eID="gen11374" level="1"/> <l level="1" sID="gen11375"/>animæ autem effeminatorum esurient. <l eID="gen11375" level="1"/>
+
+** Proverbs 18:9
+
+Qui mollis et dissolutus est in opere suo <l eID="gen11376" level="1"/> <l level="1" sID="gen11377"/>frater est sua opera dissipantis. <l eID="gen11377" level="1"/>
+
+** Proverbs 18:10
+
+Turris fortissima nomen Domini ; <l eID="gen11378" level="1"/> <l level="1" sID="gen11379"/>ad ipsum currit justus, et exaltabitur. <l eID="gen11379" level="1"/>
+
+** Proverbs 18:11
+
+Substantia divitis urbs roboris ejus, <l eID="gen11380" level="1"/> <l level="1" sID="gen11381"/>et quasi murus validus circumdans eum. <l eID="gen11381" level="1"/>
+
+** Proverbs 18:12
+
+Antequam conteratur, exaltatur cor hominis, <l eID="gen11382" level="1"/> <l level="1" sID="gen11383"/>et antequam glorificetur, humiliatur. <l eID="gen11383" level="1"/>
+
+** Proverbs 18:13
+
+Qui prius respondet quam audiat, <l eID="gen11384" level="1"/> <l level="1" sID="gen11385"/>stultum se esse demonstrat, et confusione dignum. <l eID="gen11385" level="1"/>
+
+** Proverbs 18:14
+
+Spiritus viri sustentat imbecillitatem suam ; <l eID="gen11386" level="1"/> <l level="1" sID="gen11387"/>spiritum vero ad irascendum facilem quis poterit sustinere ? <l eID="gen11387" level="1"/>
+
+** Proverbs 18:15
+
+Cor prudens possidebit scientiam, <l eID="gen11388" level="1"/> <l level="1" sID="gen11389"/>et auris sapientium quærit doctrinam. <l eID="gen11389" level="1"/>
+
+** Proverbs 18:16
+
+Donum hominis dilatat viam ejus, <l eID="gen11390" level="1"/> <l level="1" sID="gen11391"/>et ante principes spatium ei facit. <l eID="gen11391" level="1"/>
+
+** Proverbs 18:17
+
+Justus prior est accusator sui : <l eID="gen11392" level="1"/> <l level="1" sID="gen11393"/>venit amicus ejus, et investigabit eum. <l eID="gen11393" level="1"/>
+
+** Proverbs 18:18
+
+Contradictiones comprimit sors, <l eID="gen11394" level="1"/> <l level="1" sID="gen11395"/>et inter potentes quoque dijudicat. <l eID="gen11395" level="1"/>
+
+** Proverbs 18:19
+
+Frater qui adjuvatur a fratre quasi civitas firma, <l eID="gen11396" level="1"/> <l level="1" sID="gen11397"/>et judicia quasi vectes urbium. <l eID="gen11397" level="1"/>
+
+** Proverbs 18:20
+
+De fructu oris viri replebitur venter ejus, <l eID="gen11398" level="1"/> <l level="1" sID="gen11399"/>et genimina labiorum ipsius saturabunt eum. <l eID="gen11399" level="1"/>
+
+** Proverbs 18:21
+
+Mors et vita in manu linguæ ; <l eID="gen11400" level="1"/> <l level="1" sID="gen11401"/>qui diligunt eam comedent fructus ejus. <l eID="gen11401" level="1"/>
+
+** Proverbs 18:22
+
+Qui invenit mulierem bonam invenit bonum, <l eID="gen11402" level="1"/> <l level="1" sID="gen11403"/>et hauriet jucunditatem a Domino. <l eID="gen11403" level="1"/> <l level="1" sID="gen11404"/>Qui expellit mulierem bonam expellit bonum ; <l eID="gen11404" level="1"/> <l level="1" sID="gen11405"/>qui autem tenet adulteram stultus est et impius. <l eID="gen11405" level="1"/>
+
+** Proverbs 18:23
+
+Cum obsecrationibus loquetur pauper, <l eID="gen11406" level="1"/> <l level="1" sID="gen11407"/>et dives effabitur rigide. <l eID="gen11407" level="1"/>
+
+** Proverbs 18:24
+
+Vir amabilis ad societatem <l eID="gen11408" level="1"/> <l level="1" sID="gen11409"/>magis amicus erit quam frater.  <chapter eID="Prov.18"/>
+
+* Proverbs 19
+
+** Proverbs 19:1
+
+Melior est pauper qui ambulat in simplicitate sua <l eID="gen11410" level="1"/> <l level="1" sID="gen11411"/>quam dives torquens labia sua, et insipiens. <l eID="gen11411" level="1"/>
+
+** Proverbs 19:2
+
+Ubi non est scientia animæ, non est bonum, <l eID="gen11412" level="1"/> <l level="1" sID="gen11413"/>et qui festinus est pedibus offendet. <l eID="gen11413" level="1"/>
+
+** Proverbs 19:3
+
+Stultitia hominis supplantat gressus ejus, <l eID="gen11414" level="1"/> <l level="1" sID="gen11415"/>et contra Deum fervet animo suo. <l eID="gen11415" level="1"/>
+
+** Proverbs 19:4
+
+Divitiæ addunt amicos plurimos ; <l eID="gen11416" level="1"/> <l level="1" sID="gen11417"/>a paupere autem et hi quos habuit separantur. <l eID="gen11417" level="1"/>
+
+** Proverbs 19:5
+
+Testis falsus non erit impunitus, <l eID="gen11418" level="1"/> <l level="1" sID="gen11419"/>et qui mendacia loquitur non effugiet. <l eID="gen11419" level="1"/>
+
+** Proverbs 19:6
+
+Multi colunt personam potentis, <l eID="gen11420" level="1"/> <l level="1" sID="gen11421"/>et amici sunt dona tribuentis. <l eID="gen11421" level="1"/>
+
+** Proverbs 19:7
+
+Fratres hominis pauperis oderunt eum ; <l eID="gen11422" level="1"/> <l level="1" sID="gen11423"/>insuper et amici procul recesserunt ab eo. <l eID="gen11423" level="1"/> <lg eID="gen10502"/> <div sID="gen11424" type="x-p"/> <div eID="gen11424" type="x-p"/> <lg sID="gen11425"/> <l level="1" sID="gen11426"/>Qui tantum verba sectatur nihil habebit ; <l eID="gen11426" level="1"/>
+
+** Proverbs 19:8
+
+qui autem possessor est mentis diligit animam suam, <l eID="gen11427" level="1"/> <l level="1" sID="gen11428"/>et custos prudentiæ inveniet bona. <l eID="gen11428" level="1"/>
+
+** Proverbs 19:9
+
+Falsus testis non erit impunitus, <l eID="gen11429" level="1"/> <l level="1" sID="gen11430"/>et qui loquitur mendacia peribit. <l eID="gen11430" level="1"/>
+
+** Proverbs 19:10
+
+Non decent stultum deliciæ, <l eID="gen11431" level="1"/> <l level="1" sID="gen11432"/>nec servum dominari principibus. <l eID="gen11432" level="1"/>
+
+** Proverbs 19:11
+
+Doctrina viri per patientiam noscitur, <l eID="gen11433" level="1"/> <l level="1" sID="gen11434"/>et gloria ejus est iniqua prætergredi. <l eID="gen11434" level="1"/>
+
+** Proverbs 19:12
+
+Sicut fremitus leonis, ita et regis ira, <l eID="gen11435" level="1"/> <l level="1" sID="gen11436"/>et sicut ros super herbam, ita et hilaritas ejus. <l eID="gen11436" level="1"/>
+
+** Proverbs 19:13
+
+Dolor patris filius stultus, <l eID="gen11437" level="1"/> <l level="1" sID="gen11438"/>et tecta jugiter perstillantia litigiosa mulier. <l eID="gen11438" level="1"/>
+
+** Proverbs 19:14
+
+Domus et divitiæ dantur a parentibus ; <l eID="gen11439" level="1"/> <l level="1" sID="gen11440"/>a Domino autem proprie uxor prudens. <l eID="gen11440" level="1"/>
+
+** Proverbs 19:15
+
+Pigredo immittit soporem, <l eID="gen11441" level="1"/> <l level="1" sID="gen11442"/>et anima dissoluta esuriet. <l eID="gen11442" level="1"/>
+
+** Proverbs 19:16
+
+Qui custodit mandatum custodit animam suam ; <l eID="gen11443" level="1"/> <l level="1" sID="gen11444"/>qui autem negligit viam suam mortificabitur. <l eID="gen11444" level="1"/>
+
+** Proverbs 19:17
+
+Fœneratur Domino qui miseretur pauperis, <l eID="gen11445" level="1"/> <l level="1" sID="gen11446"/>et vicissitudinem suam reddet ei. <l eID="gen11446" level="1"/>
+
+** Proverbs 19:18
+
+Erudi filium tuum ; ne desperes : <l eID="gen11447" level="1"/> <l level="1" sID="gen11448"/>ad interfectionem autem ejus ne ponas animam tuam. <l eID="gen11448" level="1"/>
+
+** Proverbs 19:19
+
+Qui impatiens est sustinebit damnum, <l eID="gen11449" level="1"/> <l level="1" sID="gen11450"/>et cum rapuerit, aliud apponet. <l eID="gen11450" level="1"/>
+
+** Proverbs 19:20
+
+Audi consilium, et suscipe disciplinam, <l eID="gen11451" level="1"/> <l level="1" sID="gen11452"/>ut sis sapiens in novissimis tuis. <l eID="gen11452" level="1"/>
+
+** Proverbs 19:21
+
+Multæ cogitationes in corde viri ; <l eID="gen11453" level="1"/> <l level="1" sID="gen11454"/>voluntas autem Domini permanebit. <l eID="gen11454" level="1"/>
+
+** Proverbs 19:22
+
+Homo indigens misericors est, <l eID="gen11455" level="1"/> <l level="1" sID="gen11456"/>et melior est pauper quam vir mendax. <l eID="gen11456" level="1"/>
+
+** Proverbs 19:23
+
+Timor Domini ad vitam, <l eID="gen11457" level="1"/> <l level="1" sID="gen11458"/>et in plenitudine commorabitur absque visitatione pessima. <l eID="gen11458" level="1"/>
+
+** Proverbs 19:24
+
+Abscondit piger manum suam sub ascella, <l eID="gen11459" level="1"/> <l level="1" sID="gen11460"/>nec ad os suum applicat eam. <l eID="gen11460" level="1"/>
+
+** Proverbs 19:25
+
+Pestilente flagellato stultus sapientior erit ; <l eID="gen11461" level="1"/> <l level="1" sID="gen11462"/>si autem corripueris sapientem, intelliget disciplinam. <l eID="gen11462" level="1"/>
+
+** Proverbs 19:26
+
+Qui affligit patrem, et fugat matrem, <l eID="gen11463" level="1"/> <l level="1" sID="gen11464"/>ignominiosus est et infelix. <l eID="gen11464" level="1"/>
+
+** Proverbs 19:27
+
+Non cesses, fili, audire doctrinam, <l eID="gen11465" level="1"/> <l level="1" sID="gen11466"/>nec ignores sermones scientiæ. <l eID="gen11466" level="1"/>
+
+** Proverbs 19:28
+
+Testis iniquus deridet judicium, <l eID="gen11467" level="1"/> <l level="1" sID="gen11468"/>et os impiorum devorat iniquitatem. <l eID="gen11468" level="1"/>
+
+** Proverbs 19:29
+
+Parata sunt derisoribus judicia, <l eID="gen11469" level="1"/> <l level="1" sID="gen11470"/>et mallei percutientes stultorum corporibus.  <chapter eID="Prov.19"/>
+
+* Proverbs 20
+
+** Proverbs 20:1
+
+Luxuriosa res vinum, et tumultuosa ebrietas : <l eID="gen11471" level="1"/> <l level="1" sID="gen11472"/>quicumque his delectatur non erit sapiens. <l eID="gen11472" level="1"/>
+
+** Proverbs 20:2
+
+Sicut rugitus leonis, ita et terror regis : <l eID="gen11473" level="1"/> <l level="1" sID="gen11474"/>qui provocat eum peccat in animam suam. <l eID="gen11474" level="1"/>
+
+** Proverbs 20:3
+
+Honor est homini qui separat se a contentionibus ; <l eID="gen11475" level="1"/> <l level="1" sID="gen11476"/>omnes autem stulti miscentur contumeliis. <l eID="gen11476" level="1"/>
+
+** Proverbs 20:4
+
+Propter frigus piger arare noluit ; <l eID="gen11477" level="1"/> <l level="1" sID="gen11478"/>mendicabit ergo æstate, et non dabitur illi. <l eID="gen11478" level="1"/>
+
+** Proverbs 20:5
+
+Sicut aqua profunda, sic consilium in corde viri ; <l eID="gen11479" level="1"/> <l level="1" sID="gen11480"/>sed homo sapiens exhauriet illud. <l eID="gen11480" level="1"/>
+
+** Proverbs 20:6
+
+Multi homines misericordes vocantur ; <l eID="gen11481" level="1"/> <l level="1" sID="gen11482"/>virum autem fidelem quis inveniet ? <l eID="gen11482" level="1"/>
+
+** Proverbs 20:7
+
+Justus qui ambulat in simplicitate sua <l eID="gen11483" level="1"/> <l level="1" sID="gen11484"/>beatos post se filios derelinquet. <l eID="gen11484" level="1"/>
+
+** Proverbs 20:8
+
+Rex qui sedet in solio judicii <l eID="gen11485" level="1"/> <l level="1" sID="gen11486"/>dissipat omne malum intuitu suo. <l eID="gen11486" level="1"/>
+
+** Proverbs 20:9
+
+Quis potest dicere : Mundum est cor meum ; <l eID="gen11487" level="1"/> <l level="1" sID="gen11488"/>purus sum a peccato ? <l eID="gen11488" level="1"/>
+
+** Proverbs 20:10
+
+Pondus et pondus, mensura et mensura : <l eID="gen11489" level="1"/> <l level="1" sID="gen11490"/>utrumque abominabile est apud Deum. <l eID="gen11490" level="1"/>
+
+** Proverbs 20:11
+
+Ex studiis suis intelligitur puer, <l eID="gen11491" level="1"/> <l level="1" sID="gen11492"/>si munda et recta sint opera ejus. <l eID="gen11492" level="1"/>
+
+** Proverbs 20:12
+
+Aurem audientem, et oculum videntem : <l eID="gen11493" level="1"/> <l level="1" sID="gen11494"/>Dominus fecit utrumque. <l eID="gen11494" level="1"/>
+
+** Proverbs 20:13
+
+Noli diligere somnum, ne te egestas opprimat : <l eID="gen11495" level="1"/> <l level="1" sID="gen11496"/>aperi oculos tuos, et saturare panibus. <l eID="gen11496" level="1"/>
+
+** Proverbs 20:14
+
+Malum est, malum est, dicit omnis emptor ; <l eID="gen11497" level="1"/> <l level="1" sID="gen11498"/>et cum recesserit, tunc gloriabitur. <l eID="gen11498" level="1"/>
+
+** Proverbs 20:15
+
+Est aurum et multitudo gemmarum, <l eID="gen11499" level="1"/> <l level="1" sID="gen11500"/>et vas pretiosum labia scientiæ. <l eID="gen11500" level="1"/>
+
+** Proverbs 20:16
+
+Tolle vestimentum ejus qui fidejussor extitit alieni, <l eID="gen11501" level="1"/> <l level="1" sID="gen11502"/>et pro extraneis aufer pignus ab eo. <l eID="gen11502" level="1"/>
+
+** Proverbs 20:17
+
+Suavis est homini panis mendacii, <l eID="gen11503" level="1"/> <l level="1" sID="gen11504"/>et postea implebitur os ejus calculo. <l eID="gen11504" level="1"/>
+
+** Proverbs 20:18
+
+Cogitationes consiliis roborantur, <l eID="gen11505" level="1"/> <l level="1" sID="gen11506"/>et gubernaculis tractanda sunt bella. <l eID="gen11506" level="1"/>
+
+** Proverbs 20:19
+
+Ei qui revelat mysteria, et ambulat fraudulenter, <l eID="gen11507" level="1"/> <l level="1" sID="gen11508"/>et dilatat labia sua, ne commiscearis. <l eID="gen11508" level="1"/>
+
+** Proverbs 20:20
+
+Qui maledicit patri suo et matri, <l eID="gen11509" level="1"/> <l level="1" sID="gen11510"/>extinguetur lucerna ejus in mediis tenebris : <l eID="gen11510" level="1"/>
+
+** Proverbs 20:21
+
+hæreditas ad quam festinatur in principio, <l eID="gen11511" level="1"/> <l level="1" sID="gen11512"/>in novissimo benedictione carebit. <l eID="gen11512" level="1"/>
+
+** Proverbs 20:22
+
+Ne dicas : Reddam malum : <l eID="gen11513" level="1"/> <l level="1" sID="gen11514"/>exspecta Dominum, et liberabit te. <l eID="gen11514" level="1"/>
+
+** Proverbs 20:23
+
+Abominatio est apud Dominum pondus et pondus ; <l eID="gen11515" level="1"/> <l level="1" sID="gen11516"/>statera dolosa non est bona. <l eID="gen11516" level="1"/>
+
+** Proverbs 20:24
+
+A Domino diriguntur gressus viri : <l eID="gen11517" level="1"/> <l level="1" sID="gen11518"/>quis autem hominum intelligere potest viam suam ? <l eID="gen11518" level="1"/>
+
+** Proverbs 20:25
+
+Ruina est homini devorare sanctos, <l eID="gen11519" level="1"/> <l level="1" sID="gen11520"/>et post vota retractare. <l eID="gen11520" level="1"/>
+
+** Proverbs 20:26
+
+Dissipat impios rex sapiens, <l eID="gen11521" level="1"/> <l level="1" sID="gen11522"/>et incurvat super eos fornicem. <l eID="gen11522" level="1"/>
+
+** Proverbs 20:27
+
+Lucerna Domini spiraculum hominis, <l eID="gen11523" level="1"/> <l level="1" sID="gen11524"/>quæ investigat omnia secreta ventris. <l eID="gen11524" level="1"/>
+
+** Proverbs 20:28
+
+Misericordia et veritas custodiunt regem, <l eID="gen11525" level="1"/> <l level="1" sID="gen11526"/>et roboratur clementia thronus ejus. <l eID="gen11526" level="1"/>
+
+** Proverbs 20:29
+
+Exsultatio juvenum fortitudo eorum, <l eID="gen11527" level="1"/> <l level="1" sID="gen11528"/>et dignitas senum canities. <l eID="gen11528" level="1"/>
+
+** Proverbs 20:30
+
+Livor vulneris absterget mala, <l eID="gen11529" level="1"/> <l level="1" sID="gen11530"/>et plagæ in secretioribus ventris.  <chapter eID="Prov.20"/>
+
+* Proverbs 21
+
+** Proverbs 21:1
+
+Sicut divisiones aquarum, ita cor regis in manu Domini : <l eID="gen11531" level="1"/> <l level="1" sID="gen11532"/>quocumque voluerit, inclinabit illud. <l eID="gen11532" level="1"/>
+
+** Proverbs 21:2
+
+Omnis via viri recta sibi videtur : <l eID="gen11533" level="1"/> <l level="1" sID="gen11534"/>appendit autem corda Dominus. <l eID="gen11534" level="1"/>
+
+** Proverbs 21:3
+
+Facere misericordiam et judicium <l eID="gen11535" level="1"/> <l level="1" sID="gen11536"/>magis placet Domino quam victimæ. <l eID="gen11536" level="1"/>
+
+** Proverbs 21:4
+
+Exaltatio oculorum est dilatatio cordis ; <l eID="gen11537" level="1"/> <l level="1" sID="gen11538"/>lucerna impiorum peccatum. <l eID="gen11538" level="1"/>
+
+** Proverbs 21:5
+
+Cogitationes robusti semper in abundantia ; <l eID="gen11539" level="1"/> <l level="1" sID="gen11540"/>omnis autem piger semper in egestate est. <l eID="gen11540" level="1"/>
+
+** Proverbs 21:6
+
+Qui congregat thesauros lingua mendacii vanus et excors est, <l eID="gen11541" level="1"/> <l level="1" sID="gen11542"/>et impingetur ad laqueos mortis. <l eID="gen11542" level="1"/>
+
+** Proverbs 21:7
+
+Rapinæ impiorum detrahent eos, <l eID="gen11543" level="1"/> <l level="1" sID="gen11544"/>quia noluerunt facere judicium. <l eID="gen11544" level="1"/>
+
+** Proverbs 21:8
+
+Perversa via viri aliena est ; <l eID="gen11545" level="1"/> <l level="1" sID="gen11546"/>qui autem mundus est, rectum opus ejus. <l eID="gen11546" level="1"/>
+
+** Proverbs 21:9
+
+Melius est sedere in angulo domatis, <l eID="gen11547" level="1"/> <l level="1" sID="gen11548"/>quam cum muliere litigiosa, et in domo communi. <l eID="gen11548" level="1"/>
+
+** Proverbs 21:10
+
+Anima impii desiderat malum : <l eID="gen11549" level="1"/> <l level="1" sID="gen11550"/>non miserebitur proximo suo. <l eID="gen11550" level="1"/>
+
+** Proverbs 21:11
+
+Mulctato pestilente, sapientior erit parvulus, <l eID="gen11551" level="1"/> <l level="1" sID="gen11552"/>et si sectetur sapientem, sumet scientiam. <l eID="gen11552" level="1"/>
+
+** Proverbs 21:12
+
+Excogitat justus de domo impii, <l eID="gen11553" level="1"/> <l level="1" sID="gen11554"/>ut detrahat impios a malo. <l eID="gen11554" level="1"/>
+
+** Proverbs 21:13
+
+Qui obturat aurem suam ad clamorem pauperis, <l eID="gen11555" level="1"/> <l level="1" sID="gen11556"/>et ipse clamabit, et non exaudietur. <l eID="gen11556" level="1"/>
+
+** Proverbs 21:14
+
+Munus absconditum extinguit iras, <l eID="gen11557" level="1"/> <l level="1" sID="gen11558"/>et donum in sinu indignationem maximam. <l eID="gen11558" level="1"/>
+
+** Proverbs 21:15
+
+Gaudium justo est facere judicium, <l eID="gen11559" level="1"/> <l level="1" sID="gen11560"/>et pavor operantibus iniquitatem. <l eID="gen11560" level="1"/>
+
+** Proverbs 21:16
+
+Vir qui erraverit a via doctrinæ <l eID="gen11561" level="1"/> <l level="1" sID="gen11562"/>in cœtu gigantum commorabitur. <l eID="gen11562" level="1"/>
+
+** Proverbs 21:17
+
+Qui diligit epulas in egestate erit ; <l eID="gen11563" level="1"/> <l level="1" sID="gen11564"/>qui amat vinum et pinguia non ditabitur. <l eID="gen11564" level="1"/>
+
+** Proverbs 21:18
+
+Pro justo datur impius, <l eID="gen11565" level="1"/> <l level="1" sID="gen11566"/>et pro rectis iniquus. <l eID="gen11566" level="1"/>
+
+** Proverbs 21:19
+
+Melius est habitare in terra deserta <l eID="gen11567" level="1"/> <l level="1" sID="gen11568"/>quam cum muliere rixosa et iracunda. <l eID="gen11568" level="1"/>
+
+** Proverbs 21:20
+
+Thesaurus desiderabilis, et oleum in habitaculo justi : <l eID="gen11569" level="1"/> <l level="1" sID="gen11570"/>et imprudens homo dissipabit illud. <l eID="gen11570" level="1"/>
+
+** Proverbs 21:21
+
+Qui sequitur justitiam et misericordiam <l eID="gen11571" level="1"/> <l level="1" sID="gen11572"/>inveniet vitam, justitiam, et gloriam. <l eID="gen11572" level="1"/>
+
+** Proverbs 21:22
+
+Civitatem fortium ascendit sapiens, <l eID="gen11573" level="1"/> <l level="1" sID="gen11574"/>et destruxit robur fiduciæ ejus. <l eID="gen11574" level="1"/>
+
+** Proverbs 21:23
+
+Qui custodit os suum et linguam suam <l eID="gen11575" level="1"/> <l level="1" sID="gen11576"/>custodit ab angustiis animam suam. <l eID="gen11576" level="1"/>
+
+** Proverbs 21:24
+
+Superbus et arrogans vocatur indoctus, <l eID="gen11577" level="1"/> <l level="1" sID="gen11578"/>qui in ira operatur superbiam. <l eID="gen11578" level="1"/>
+
+** Proverbs 21:25
+
+Desideria occidunt pigrum : <l eID="gen11579" level="1"/> <l level="1" sID="gen11580"/>noluerunt enim quidquam manus ejus operari. <l eID="gen11580" level="1"/>
+
+** Proverbs 21:26
+
+Tota die concupiscit et desiderat ; <l eID="gen11581" level="1"/> <l level="1" sID="gen11582"/>qui autem justus est, tribuet, et non cessabit. <l eID="gen11582" level="1"/>
+
+** Proverbs 21:27
+
+Hostiæ impiorum abominabiles, <l eID="gen11583" level="1"/> <l level="1" sID="gen11584"/>quia offeruntur ex scelere. <l eID="gen11584" level="1"/>
+
+** Proverbs 21:28
+
+Testis mendax peribit ; <l eID="gen11585" level="1"/> <l level="1" sID="gen11586"/>vir obediens loquetur victoriam. <l eID="gen11586" level="1"/>
+
+** Proverbs 21:29
+
+Vir impius procaciter obfirmat vultum suum ; <l eID="gen11587" level="1"/> <l level="1" sID="gen11588"/>qui autem rectus est corrigit viam suam. <l eID="gen11588" level="1"/>
+
+** Proverbs 21:30
+
+Non est sapientia, non est prudentia, <l eID="gen11589" level="1"/> <l level="1" sID="gen11590"/>non est consilium contra Dominum. <l eID="gen11590" level="1"/>
+
+** Proverbs 21:31
+
+Equus paratur ad diem belli ; <l eID="gen11591" level="1"/> <l level="1" sID="gen11592"/>Dominus autem salutem tribuit.  <chapter eID="Prov.21"/>
+
+* Proverbs 22
+
+** Proverbs 22:1
+
+Melius est nomen bonum quam divitiæ multæ ; <l eID="gen11593" level="1"/> <l level="1" sID="gen11594"/>super argentum et aurum gratia bona. <l eID="gen11594" level="1"/>
+
+** Proverbs 22:2
+
+Dives et pauper obviaverunt sibi : <l eID="gen11595" level="1"/> <l level="1" sID="gen11596"/>utriusque operator est Dominus. <l eID="gen11596" level="1"/>
+
+** Proverbs 22:3
+
+Callidus vidit malum, et abscondit se ; <l eID="gen11597" level="1"/> <l level="1" sID="gen11598"/>innocens pertransiit, et afflictus est damno. <l eID="gen11598" level="1"/>
+
+** Proverbs 22:4
+
+Finis modestiæ timor Domini, <l eID="gen11599" level="1"/> <l level="1" sID="gen11600"/>divitiæ, et gloria, et vita. <l eID="gen11600" level="1"/>
+
+** Proverbs 22:5
+
+Arma et gladii in via perversi ; <l eID="gen11601" level="1"/> <l level="1" sID="gen11602"/>custos autem animæ suæ longe recedit ab eis. <l eID="gen11602" level="1"/>
+
+** Proverbs 22:6
+
+Proverbium est : adolescens juxta viam suam ; <l eID="gen11603" level="1"/> <l level="1" sID="gen11604"/>etiam cum senuerit, non recedet ab ea. <l eID="gen11604" level="1"/>
+
+** Proverbs 22:7
+
+Dives pauperibus imperat, <l eID="gen11605" level="1"/> <l level="1" sID="gen11606"/>et qui accipit mutuum servus est fœnerantis. <l eID="gen11606" level="1"/>
+
+** Proverbs 22:8
+
+Qui seminat iniquitatem metet mala, <l eID="gen11607" level="1"/> <l level="1" sID="gen11608"/>et virga iræ suæ consummabitur. <l eID="gen11608" level="1"/>
+
+** Proverbs 22:9
+
+Qui pronus est ad misericordiam benedicetur : <l eID="gen11609" level="1"/> <l level="1" sID="gen11610"/>de panibus enim suis dedit pauperi. <l eID="gen11610" level="1"/> <l level="1" sID="gen11611"/>Victoriam et honorem acquiret qui dat munera ; <l eID="gen11611" level="1"/> <l level="1" sID="gen11612"/>animam autem aufert accipientium. <l eID="gen11612" level="1"/>
+
+** Proverbs 22:10
+
+Ejice derisorem, et exibit cum eo jurgium, <l eID="gen11613" level="1"/> <l level="1" sID="gen11614"/>cessabuntque causæ et contumeliæ. <l eID="gen11614" level="1"/>
+
+** Proverbs 22:11
+
+Qui diligit cordis munditiam, <l eID="gen11615" level="1"/> <l level="1" sID="gen11616"/>propter gratiam labiorum suorum habebit amicum regem. <l eID="gen11616" level="1"/>
+
+** Proverbs 22:12
+
+Oculi Domini custodiunt scientiam, <l eID="gen11617" level="1"/> <l level="1" sID="gen11618"/>et supplantantur verba iniqui. <l eID="gen11618" level="1"/>
+
+** Proverbs 22:13
+
+Dicit piger : Leo est foris ; <l eID="gen11619" level="1"/> <l level="1" sID="gen11620"/>in medio platearum occidendus sum. <l eID="gen11620" level="1"/>
+
+** Proverbs 22:14
+
+Fovea profunda os alienæ : <l eID="gen11621" level="1"/> <l level="1" sID="gen11622"/>cui iratus est Dominus, incidet in eam. <l eID="gen11622" level="1"/>
+
+** Proverbs 22:15
+
+Stultitia colligata est in corde pueri, <l eID="gen11623" level="1"/> <l level="1" sID="gen11624"/>et virga disciplinæ fugabit eam. <l eID="gen11624" level="1"/>
+
+** Proverbs 22:16
+
+Qui calumniatur pauperem ut augeat divitias suas, <l eID="gen11625" level="1"/> <l level="1" sID="gen11626"/>dabit ipse ditiori, et egebit. <l eID="gen11626" level="1"/>
+
+** Proverbs 22:17
+
+Inclina aurem tuam, et audi verba sapientium : <l eID="gen11627" level="1"/> <l level="1" sID="gen11628"/>appone autem cor ad doctrinam meam, <l eID="gen11628" level="1"/>
+
+** Proverbs 22:18
+
+quæ pulchra erit tibi cum servaveris eam in ventre tuo, <l eID="gen11629" level="1"/> <l level="1" sID="gen11630"/>et redundabit in labiis tuis : <l eID="gen11630" level="1"/>
+
+** Proverbs 22:19
+
+ut sit in Domino fiducia tua, <l eID="gen11631" level="1"/> <l level="1" sID="gen11632"/>unde et ostendi eam tibi hodie. <l eID="gen11632" level="1"/>
+
+** Proverbs 22:20
+
+Ecce descripsi eam tibi tripliciter, <l eID="gen11633" level="1"/> <l level="1" sID="gen11634"/>in cogitationibus et scientia : <l eID="gen11634" level="1"/>
+
+** Proverbs 22:21
+
+ut ostenderem tibi firmitatem et eloquia veritatis, <l eID="gen11635" level="1"/> <l level="1" sID="gen11636"/>respondere ex his illis qui miserunt te. <l eID="gen11636" level="1"/>
+
+** Proverbs 22:22
+
+Non facias violentiam pauperi quia pauper est, <l eID="gen11637" level="1"/> <l level="1" sID="gen11638"/>neque conteras egenum in porta : <l eID="gen11638" level="1"/>
+
+** Proverbs 22:23
+
+quia judicabit Dominus causam ejus, <l eID="gen11639" level="1"/> <l level="1" sID="gen11640"/>et configet eos qui confixerunt animam ejus. <l eID="gen11640" level="1"/>
+
+** Proverbs 22:24
+
+Noli esse amicus homini iracundo, <l eID="gen11641" level="1"/> <l level="1" sID="gen11642"/>neque ambules cum viro furioso : <l eID="gen11642" level="1"/>
+
+** Proverbs 22:25
+
+ne forte discas semitas ejus, <l eID="gen11643" level="1"/> <l level="1" sID="gen11644"/>et sumas scandalum animæ tuæ. <l eID="gen11644" level="1"/>
+
+** Proverbs 22:26
+
+Noli esse cum his qui defigunt manus suas, <l eID="gen11645" level="1"/> <l level="1" sID="gen11646"/>et qui vades se offerunt pro debitis : <l eID="gen11646" level="1"/>
+
+** Proverbs 22:27
+
+si enim non habes unde restituas, <l eID="gen11647" level="1"/> <l level="1" sID="gen11648"/>quid causæ est ut tollat operimentum de cubili tuo ? <l eID="gen11648" level="1"/>
+
+** Proverbs 22:28
+
+Ne transgrediaris terminos antiquos, <l eID="gen11649" level="1"/> <l level="1" sID="gen11650"/>quos posuerunt patres tui. <l eID="gen11650" level="1"/>
+
+** Proverbs 22:29
+
+Vidisti virum velocem in opere suo ? <l eID="gen11651" level="1"/> <l level="1" sID="gen11652"/>coram regibus stabit, nec erit ante ignobiles.  <chapter eID="Prov.22"/>
+
+* Proverbs 23
+
+** Proverbs 23:1
+
+Quando sederis ut comedas cum principe, <l eID="gen11653" level="1"/> <l level="1" sID="gen11654"/>diligenter attende quæ apposita sunt ante faciem tuam. <l eID="gen11654" level="1"/>
+
+** Proverbs 23:2
+
+Et statue cultrum in gutture tuo : <l eID="gen11655" level="1"/> <l level="1" sID="gen11656"/>si tamen habes in potestate animam tuam. <l eID="gen11656" level="1"/>
+
+** Proverbs 23:3
+
+Ne desideres de cibis ejus, <l eID="gen11657" level="1"/> <l level="1" sID="gen11658"/>in quo est panis mendacii. <l eID="gen11658" level="1"/>
+
+** Proverbs 23:4
+
+Noli laborare ut diteris, <l eID="gen11659" level="1"/> <l level="1" sID="gen11660"/>sed prudentiæ tuæ pone modum. <l eID="gen11660" level="1"/>
+
+** Proverbs 23:5
+
+Ne erigas oculos tuos ad opes quas non potes habere, <l eID="gen11661" level="1"/> <l level="1" sID="gen11662"/>quia facient sibi pennas quasi aquilæ, et volabunt in cælum. <l eID="gen11662" level="1"/>
+
+** Proverbs 23:6
+
+Ne comedas cum homine invido, <l eID="gen11663" level="1"/> <l level="1" sID="gen11664"/>et ne desideres cibos ejus : <l eID="gen11664" level="1"/>
+
+** Proverbs 23:7
+
+quoniam in similitudinem arioli et conjectoris <l eID="gen11665" level="1"/> <l level="1" sID="gen11666"/>æstimat quod ignorat. <l eID="gen11666" level="1"/> <l level="1" sID="gen11667"/>Comede et bibe, dicet tibi ; <l eID="gen11667" level="1"/> <l level="1" sID="gen11668"/>et mens ejus non est tecum. <l eID="gen11668" level="1"/>
+
+** Proverbs 23:8
+
+Cibos quos comederas evomes, <l eID="gen11669" level="1"/> <l level="1" sID="gen11670"/>et perdes pulchros sermones tuos. <l eID="gen11670" level="1"/>
+
+** Proverbs 23:9
+
+In auribus insipientium ne loquaris, <l eID="gen11671" level="1"/> <l level="1" sID="gen11672"/>qui despicient doctrinam eloquii tui. <l eID="gen11672" level="1"/>
+
+** Proverbs 23:10
+
+Ne attingas parvulorum terminos, <l eID="gen11673" level="1"/> <l level="1" sID="gen11674"/>et agrum pupillorum ne introëas : <l eID="gen11674" level="1"/>
+
+** Proverbs 23:11
+
+propinquus enim illorum fortis est, <l eID="gen11675" level="1"/> <l level="1" sID="gen11676"/>et ipse judicabit contra te causam illorum. <l eID="gen11676" level="1"/>
+
+** Proverbs 23:12
+
+Ingrediatur ad doctrinam cor tuum, <l eID="gen11677" level="1"/> <l level="1" sID="gen11678"/>et aures tuæ ad verba scientiæ. <l eID="gen11678" level="1"/>
+
+** Proverbs 23:13
+
+Noli subtrahere a puero disciplinam : <l eID="gen11679" level="1"/> <l level="1" sID="gen11680"/>si enim percusseris eum virga, non morietur. <l eID="gen11680" level="1"/>
+
+** Proverbs 23:14
+
+Tu virga percuties eum, <l eID="gen11681" level="1"/> <l level="1" sID="gen11682"/>et animam ejus de inferno liberabis. <l eID="gen11682" level="1"/>
+
+** Proverbs 23:15
+
+Fili mi, si sapiens fuerit animus tuus, <l eID="gen11683" level="1"/> <l level="1" sID="gen11684"/>gaudebit tecum cor meum : <l eID="gen11684" level="1"/>
+
+** Proverbs 23:16
+
+et exsultabunt renes mei, <l eID="gen11685" level="1"/> <l level="1" sID="gen11686"/>cum locuta fuerint rectum labia tua. <l eID="gen11686" level="1"/>
+
+** Proverbs 23:17
+
+Non æmuletur cor tuum peccatores, <l eID="gen11687" level="1"/> <l level="1" sID="gen11688"/>sed in timore Domini esto tota die : <l eID="gen11688" level="1"/>
+
+** Proverbs 23:18
+
+quia habebis spem in novissimo, <l eID="gen11689" level="1"/> <l level="1" sID="gen11690"/>et præstolatio tua non auferetur. <l eID="gen11690" level="1"/>
+
+** Proverbs 23:19
+
+Audi, fili mi, et esto sapiens, <l eID="gen11691" level="1"/> <l level="1" sID="gen11692"/>et dirige in via animum tuum. <l eID="gen11692" level="1"/>
+
+** Proverbs 23:20
+
+Noli esse in conviviis potatorum, <l eID="gen11693" level="1"/> <l level="1" sID="gen11694"/>nec in comessationibus eorum qui carnes ad vescendum conferunt : <l eID="gen11694" level="1"/>
+
+** Proverbs 23:21
+
+quia vacantes potibus et dantes symbola consumentur, <l eID="gen11695" level="1"/> <l level="1" sID="gen11696"/>et vestietur pannis dormitatio. <l eID="gen11696" level="1"/>
+
+** Proverbs 23:22
+
+Audi patrem tuum, qui genuit te, <l eID="gen11697" level="1"/> <l level="1" sID="gen11698"/>et ne contemnas cum senuerit mater tua. <l eID="gen11698" level="1"/>
+
+** Proverbs 23:23
+
+Veritatem eme, et noli vendere sapientiam, <l eID="gen11699" level="1"/> <l level="1" sID="gen11700"/>et doctrinam, et intelligentiam. <l eID="gen11700" level="1"/>
+
+** Proverbs 23:24
+
+Exsultat gaudio pater justi ; <l eID="gen11701" level="1"/> <l level="1" sID="gen11702"/>qui sapientem genuit, lætabitur in eo. <l eID="gen11702" level="1"/>
+
+** Proverbs 23:25
+
+Gaudeat pater tuus et mater tua, <l eID="gen11703" level="1"/> <l level="1" sID="gen11704"/>et exsultet quæ genuit te. <l eID="gen11704" level="1"/>
+
+** Proverbs 23:26
+
+Præbe, fili mi, cor tuum mihi, <l eID="gen11705" level="1"/> <l level="1" sID="gen11706"/>et oculi tui vias meas custodiant. <l eID="gen11706" level="1"/>
+
+** Proverbs 23:27
+
+Fovea enim profunda est meretrix, <l eID="gen11707" level="1"/> <l level="1" sID="gen11708"/>et puteus angustus aliena. <l eID="gen11708" level="1"/>
+
+** Proverbs 23:28
+
+Insidiatur in via quasi latro, <l eID="gen11709" level="1"/> <l level="1" sID="gen11710"/>et quos incautos viderit, interficiet. <l eID="gen11710" level="1"/>
+
+** Proverbs 23:29
+
+Cui væ ? cujus patri væ ? <l eID="gen11711" level="1"/> <l level="1" sID="gen11712"/>cui rixæ ? cui foveæ ? <l eID="gen11712" level="1"/> <l level="1" sID="gen11713"/>cui sine causa vulnera ? cui suffusio oculorum ? <l eID="gen11713" level="1"/>
+
+** Proverbs 23:30
+
+nonne his qui commorantur in vino, <l eID="gen11714" level="1"/> <l level="1" sID="gen11715"/>et student calicibus epotandis ? <l eID="gen11715" level="1"/>
+
+** Proverbs 23:31
+
+Ne intuearis vinum quando flavescit, <l eID="gen11716" level="1"/> <l level="1" sID="gen11717"/>cum splenduerit in vitro color ejus : <l eID="gen11717" level="1"/> <l level="1" sID="gen11718"/>ingreditur blande, <l eID="gen11718" level="1"/>
+
+** Proverbs 23:32
+
+sed in novissimo mordebit ut coluber, <l eID="gen11719" level="1"/> <l level="1" sID="gen11720"/>et sicut regulus venena diffundet. <l eID="gen11720" level="1"/>
+
+** Proverbs 23:33
+
+Oculi tui videbunt extraneas, <l eID="gen11721" level="1"/> <l level="1" sID="gen11722"/>et cor tuum loquetur perversa. <l eID="gen11722" level="1"/>
+
+** Proverbs 23:34
+
+Et eris sicut dormiens in medio mari, <l eID="gen11723" level="1"/> <l level="1" sID="gen11724"/>et quasi sopitus gubernator, amisso clavo. <l eID="gen11724" level="1"/>
+
+** Proverbs 23:35
+
+Et dices : Verberaverunt me, sed non dolui ; <l eID="gen11725" level="1"/> <l level="1" sID="gen11726"/>traxerunt me, et ego non sensi. <l eID="gen11726" level="1"/> <l level="1" sID="gen11727"/>Quando evigilabo, et rursus vina reperiam ?  <chapter eID="Prov.23"/>
+
+* Proverbs 24
+
+** Proverbs 24:1
+
+Ne æmuleris viros malos, <l eID="gen11728" level="1"/> <l level="1" sID="gen11729"/>nec desideres esse cum eis : <l eID="gen11729" level="1"/>
+
+** Proverbs 24:2
+
+quia rapinas meditatur mens eorum, <l eID="gen11730" level="1"/> <l level="1" sID="gen11731"/>et fraudes labia eorum loquuntur. <l eID="gen11731" level="1"/>
+
+** Proverbs 24:3
+
+Sapientia ædificabitur domus, <l eID="gen11732" level="1"/> <l level="1" sID="gen11733"/>et prudentia roborabitur. <l eID="gen11733" level="1"/>
+
+** Proverbs 24:4
+
+In doctrina replebuntur cellaria, <l eID="gen11734" level="1"/> <l level="1" sID="gen11735"/>universa substantia pretiosa et pulcherrima. <l eID="gen11735" level="1"/>
+
+** Proverbs 24:5
+
+Vir sapiens fortis est, <l eID="gen11736" level="1"/> <l level="1" sID="gen11737"/>et vir doctus robustus et validus : <l eID="gen11737" level="1"/>
+
+** Proverbs 24:6
+
+quia cum dispositione initur bellum, <l eID="gen11738" level="1"/> <l level="1" sID="gen11739"/>et erit salus ubi multa consilia sunt. <l eID="gen11739" level="1"/>
+
+** Proverbs 24:7
+
+Excelsa stulto sapientia ; <l eID="gen11740" level="1"/> <l level="1" sID="gen11741"/>in porta non aperiet os suum. <l eID="gen11741" level="1"/>
+
+** Proverbs 24:8
+
+Qui cogitat mala facere stultus vocabitur : <l eID="gen11742" level="1"/>
+
+** Proverbs 24:9
+
+cogitatio stulti peccatum est, <l eID="gen11743" level="1"/> <l level="1" sID="gen11744"/>et abominatio hominum detractor. <l eID="gen11744" level="1"/>
+
+** Proverbs 24:10
+
+Si desperaveris lassus in die angustiæ, <l eID="gen11745" level="1"/> <l level="1" sID="gen11746"/>imminuetur fortitudo tua. <l eID="gen11746" level="1"/>
+
+** Proverbs 24:11
+
+Erue eos qui ducuntur ad mortem, <l eID="gen11747" level="1"/> <l level="1" sID="gen11748"/>et qui trahuntur ad interitum, liberare ne cesses. <l eID="gen11748" level="1"/>
+
+** Proverbs 24:12
+
+Si dixeris : Vires non suppetunt ; <l eID="gen11749" level="1"/> <l level="1" sID="gen11750"/>qui inspector est cordis ipse intelligit : <l eID="gen11750" level="1"/> <l level="1" sID="gen11751"/>et servatorem animæ tuæ nihil fallit, <l eID="gen11751" level="1"/> <l level="1" sID="gen11752"/>reddetque homini juxta opera sua. <l eID="gen11752" level="1"/>
+
+** Proverbs 24:13
+
+Comede, fili mi, mel, quia bonum est, <l eID="gen11753" level="1"/> <l level="1" sID="gen11754"/>et favum dulcissimum gutturi tuo. <l eID="gen11754" level="1"/>
+
+** Proverbs 24:14
+
+Sic et doctrina sapientiæ animæ tuæ : <l eID="gen11755" level="1"/> <l level="1" sID="gen11756"/>quam cum inveneris, habebis in novissimis spem, <l eID="gen11756" level="1"/> <l level="1" sID="gen11757"/>et spes tua non peribit. <l eID="gen11757" level="1"/>
+
+** Proverbs 24:15
+
+Ne insidieris, et quæras impietatem in domo justi, <l eID="gen11758" level="1"/> <l level="1" sID="gen11759"/>neque vastes requiem ejus. <l eID="gen11759" level="1"/>
+
+** Proverbs 24:16
+
+Septies enim cadet justus, et resurget : <l eID="gen11760" level="1"/> <l level="1" sID="gen11761"/>impii autem corruent in malum. <l eID="gen11761" level="1"/>
+
+** Proverbs 24:17
+
+Cum ceciderit inimicus tuus ne gaudeas, <l eID="gen11762" level="1"/> <l level="1" sID="gen11763"/>et in ruina ejus ne exsultet cor tuum : <l eID="gen11763" level="1"/>
+
+** Proverbs 24:18
+
+ne forte videat Dominus, et displiceat ei, <l eID="gen11764" level="1"/> <l level="1" sID="gen11765"/>et auferat ab eo iram suam. <l eID="gen11765" level="1"/>
+
+** Proverbs 24:19
+
+Ne contendas cum pessimis, <l eID="gen11766" level="1"/> <l level="1" sID="gen11767"/>nec æmuleris impios : <l eID="gen11767" level="1"/>
+
+** Proverbs 24:20
+
+quoniam non habent futurorum spem mali, <l eID="gen11768" level="1"/> <l level="1" sID="gen11769"/>et lucerna impiorum extinguetur. <l eID="gen11769" level="1"/>
+
+** Proverbs 24:21
+
+Time Dominum, fili mi, et regem, <l eID="gen11770" level="1"/> <l level="1" sID="gen11771"/>et cum detractoribus non commiscearis : <l eID="gen11771" level="1"/>
+
+** Proverbs 24:22
+
+quoniam repente consurget perditio eorum, <l eID="gen11772" level="1"/> <l level="1" sID="gen11773"/>et ruinam utriusque quis novit ? <l eID="gen11773" level="1"/> <lg eID="gen11425"/>
+
+** Proverbs 24:23
+
+Hæc quoque sapientibus. <div eID="gen11774" type="x-p"/> <lg sID="gen11775"/> <l level="1" sID="gen11776"/>Cognoscere personam in judicio non est bonum. <l eID="gen11776" level="1"/>
+
+** Proverbs 24:24
+
+Qui dicunt impio : Justus es : maledicent eis populi, <l eID="gen11777" level="1"/> <l level="1" sID="gen11778"/>et detestabuntur eos tribus. <l eID="gen11778" level="1"/>
+
+** Proverbs 24:25
+
+Qui arguunt eum laudabuntur, <l eID="gen11779" level="1"/> <l level="1" sID="gen11780"/>et super ipsos veniet benedictio. <l eID="gen11780" level="1"/>
+
+** Proverbs 24:26
+
+Labia deosculabitur <l eID="gen11781" level="1"/> <l level="1" sID="gen11782"/>qui recta verba respondet. <l eID="gen11782" level="1"/>
+
+** Proverbs 24:27
+
+Præpara foris opus tuum, <l eID="gen11783" level="1"/> <l level="1" sID="gen11784"/>et diligenter exerce agrum tuum, <l eID="gen11784" level="1"/> <l level="1" sID="gen11785"/>ut postea ædifices domum tuam. <l eID="gen11785" level="1"/>
+
+** Proverbs 24:28
+
+Ne sis testis frustra contra proximum tuum, <l eID="gen11786" level="1"/> <l level="1" sID="gen11787"/>nec lactes quemquam labiis tuis. <l eID="gen11787" level="1"/>
+
+** Proverbs 24:29
+
+Ne dicas : Quomodo fecit mihi, sic faciam ei ; <l eID="gen11788" level="1"/> <l level="1" sID="gen11789"/>reddam unicuique secundum opus suum. <l eID="gen11789" level="1"/>
+
+** Proverbs 24:30
+
+Per agrum hominis pigri transivi, <l eID="gen11790" level="1"/> <l level="1" sID="gen11791"/>et per vineam viri stulti : <l eID="gen11791" level="1"/>
+
+** Proverbs 24:31
+
+et ecce totum repleverant urticæ, <l eID="gen11792" level="1"/> <l level="1" sID="gen11793"/>et operuerant superficiem ejus spinæ, <l eID="gen11793" level="1"/> <l level="1" sID="gen11794"/>et maceria lapidum destructa erat. <l eID="gen11794" level="1"/>
+
+** Proverbs 24:32
+
+Quod cum vidissem, posui in corde meo, <l eID="gen11795" level="1"/> <l level="1" sID="gen11796"/>et exemplo didici disciplinam. <l eID="gen11796" level="1"/>
+
+** Proverbs 24:33
+
+Parum, inquam, dormies, modicum dormitabis ; <l eID="gen11797" level="1"/> <l level="1" sID="gen11798"/>pauxillum manus conseres ut quiescas : <l eID="gen11798" level="1"/>
+
+** Proverbs 24:34
+
+et veniet tibi quasi cursor egestas, <l eID="gen11799" level="1"/> <l level="1" sID="gen11800"/>et mendicitas quasi vir armatus. <l eID="gen11800" level="1"/><lg eID="gen11775"/> <chapter eID="Prov.24"/>
+
+* Proverbs 25
+
+** Proverbs 25:1
+
+Hæ quoque parabolæ Salomonis, quas transtulerunt viri Ezechiæ regis Juda.  <div eID="gen11801" type="x-p"/>
+
+** Proverbs 25:2
+
+Gloria Dei est celare verbum, <l eID="gen11803" level="1"/> <l level="1" sID="gen11804"/>et gloria regum investigare sermonem. <l eID="gen11804" level="1"/>
+
+** Proverbs 25:3
+
+Cælum sursum, et terra deorsum, <l eID="gen11805" level="1"/> <l level="1" sID="gen11806"/>et cor regum inscrutabile. <l eID="gen11806" level="1"/>
+
+** Proverbs 25:4
+
+Aufer rubiginem de argento, <l eID="gen11807" level="1"/> <l level="1" sID="gen11808"/>et egredietur vas purissimum. <l eID="gen11808" level="1"/>
+
+** Proverbs 25:5
+
+Aufer impietatem de vultu regis, <l eID="gen11809" level="1"/> <l level="1" sID="gen11810"/>et firmabitur justitia thronus ejus. <l eID="gen11810" level="1"/>
+
+** Proverbs 25:6
+
+Ne gloriosus appareas coram rege, <l eID="gen11811" level="1"/> <l level="1" sID="gen11812"/>et in loco magnorum ne steteris. <l eID="gen11812" level="1"/>
+
+** Proverbs 25:7
+
+Melius est enim ut dicatur tibi : Ascende huc, <l eID="gen11813" level="1"/> <l level="1" sID="gen11814"/>quam ut humilieris coram principe. <l eID="gen11814" level="1"/>
+
+** Proverbs 25:8
+
+Quæ viderunt oculi tui ne proferas in jurgio cito, <l eID="gen11815" level="1"/> <l level="1" sID="gen11816"/>ne postea emendare non possis, <l eID="gen11816" level="1"/> <l level="1" sID="gen11817"/>cum dehonestaveris amicum tuum. <l eID="gen11817" level="1"/>
+
+** Proverbs 25:9
+
+Causam tuam tracta cum amico tuo, <l eID="gen11818" level="1"/> <l level="1" sID="gen11819"/>et secretum extraneo ne reveles : <l eID="gen11819" level="1"/>
+
+** Proverbs 25:10
+
+ne forte insultet tibi cum audierit, <l eID="gen11820" level="1"/> <l level="1" sID="gen11821"/>et exprobrare non cesset. <l eID="gen11821" level="1"/> <l level="1" sID="gen11822"/>Gratia et amicitia liberant : <l eID="gen11822" level="1"/> <l level="1" sID="gen11823"/>quas tibi serva, ne exprobrabilis fias. <l eID="gen11823" level="1"/>
+
+** Proverbs 25:11
+
+Mala aurea in lectis argenteis, <l eID="gen11824" level="1"/> <l level="1" sID="gen11825"/>qui loquitur verbum in tempore suo. <l eID="gen11825" level="1"/>
+
+** Proverbs 25:12
+
+Inauris aurea, et margaritum fulgens, <l eID="gen11826" level="1"/> <l level="1" sID="gen11827"/>qui arguit sapientem et aurem obedientem. <l eID="gen11827" level="1"/>
+
+** Proverbs 25:13
+
+Sicut frigus nivis in die messis, <l eID="gen11828" level="1"/> <l level="1" sID="gen11829"/>ita legatus fidelis ei qui misit eum : <l eID="gen11829" level="1"/> <l level="1" sID="gen11830"/>animam ipsius requiescere facit. <l eID="gen11830" level="1"/>
+
+** Proverbs 25:14
+
+Nubes, et ventus, et pluviæ non sequentes, <l eID="gen11831" level="1"/> <l level="1" sID="gen11832"/>vir gloriosus et promissa non complens. <l eID="gen11832" level="1"/>
+
+** Proverbs 25:15
+
+Patientia lenietur princeps, <l eID="gen11833" level="1"/> <l level="1" sID="gen11834"/>et lingua mollis confringet duritiam. <l eID="gen11834" level="1"/>
+
+** Proverbs 25:16
+
+Mel invenisti : comede quod sufficit tibi, <l eID="gen11835" level="1"/> <l level="1" sID="gen11836"/>ne forte satiatus evomas illud. <l eID="gen11836" level="1"/>
+
+** Proverbs 25:17
+
+Subtrahe pedem tuum de domo proximi tui, <l eID="gen11837" level="1"/> <l level="1" sID="gen11838"/>nequando satiatus oderit te. <l eID="gen11838" level="1"/>
+
+** Proverbs 25:18
+
+Jaculum, et gladius, et sagitta acuta, <l eID="gen11839" level="1"/> <l level="1" sID="gen11840"/>homo qui loquitur contra proximum suum falsum testimonium. <l eID="gen11840" level="1"/>
+
+** Proverbs 25:19
+
+Dens putridus, et pes lassus, <l eID="gen11841" level="1"/> <l level="1" sID="gen11842"/>qui sperat super infideli in die angustiæ, <l eID="gen11842" level="1"/>
+
+** Proverbs 25:20
+
+et amittit pallium in die frigoris. <l eID="gen11843" level="1"/> <l level="1" sID="gen11844"/>Acetum in nitro, <l eID="gen11844" level="1"/> <l level="1" sID="gen11845"/>qui cantat carmina cordi pessimo. <l eID="gen11845" level="1"/> <l level="1" sID="gen11846"/>Sicut tinea vestimento, et vermis ligno, <l eID="gen11846" level="1"/> <l level="1" sID="gen11847"/>ita tristitia viri nocet cordi. <l eID="gen11847" level="1"/>
+
+** Proverbs 25:21
+
+Si esurierit inimicus tuus, ciba illum ; <l eID="gen11848" level="1"/> <l level="1" sID="gen11849"/>si sitierit, da ei aquam bibere : <l eID="gen11849" level="1"/>
+
+** Proverbs 25:22
+
+prunas enim congregabis super caput ejus, <l eID="gen11850" level="1"/> <l level="1" sID="gen11851"/>et Dominus reddet tibi. <l eID="gen11851" level="1"/>
+
+** Proverbs 25:23
+
+Ventus aquilo dissipat pluvias, <l eID="gen11852" level="1"/> <l level="1" sID="gen11853"/>et facies tristis linguam detrahentem. <l eID="gen11853" level="1"/>
+
+** Proverbs 25:24
+
+Melius est sedere in angulo domatis <l eID="gen11854" level="1"/> <l level="1" sID="gen11855"/>quam cum muliere litigiosa et in domo communi. <l eID="gen11855" level="1"/>
+
+** Proverbs 25:25
+
+Aqua frigida animæ sitienti, <l eID="gen11856" level="1"/> <l level="1" sID="gen11857"/>et nuntius bonus de terra longinqua. <l eID="gen11857" level="1"/>
+
+** Proverbs 25:26
+
+Fons turbatus pede et vena corrupta, <l eID="gen11858" level="1"/> <l level="1" sID="gen11859"/>justus cadens coram impio. <l eID="gen11859" level="1"/>
+
+** Proverbs 25:27
+
+Sicut qui mel multum comedit non est ei bonum, <l eID="gen11860" level="1"/> <l level="1" sID="gen11861"/>sic qui scrutator est majestatis opprimetur a gloria. <l eID="gen11861" level="1"/>
+
+** Proverbs 25:28
+
+Sicut urbs patens et absque murorum ambitu, <l eID="gen11862" level="1"/> <l level="1" sID="gen11863"/>ita vir qui non potest in loquendo cohibere spiritum suum.  <chapter eID="Prov.25"/>
+
+* Proverbs 26
+
+** Proverbs 26:1
+
+Quomodo nix in æstate, et pluviæ in messe, <l eID="gen11864" level="1"/> <l level="1" sID="gen11865"/>sic indecens est stulto gloria. <l eID="gen11865" level="1"/>
+
+** Proverbs 26:2
+
+Sicut avis ad alia transvolans, et passer quolibet vadens, <l eID="gen11866" level="1"/> <l level="1" sID="gen11867"/>sic maledictum frustra prolatum in quempiam superveniet. <l eID="gen11867" level="1"/>
+
+** Proverbs 26:3
+
+Flagellum equo, et camus asino, <l eID="gen11868" level="1"/> <l level="1" sID="gen11869"/>et virga in dorso imprudentium. <l eID="gen11869" level="1"/>
+
+** Proverbs 26:4
+
+Ne respondeas stulto juxta stultitiam suam, <l eID="gen11870" level="1"/> <l level="1" sID="gen11871"/>ne efficiaris ei similis. <l eID="gen11871" level="1"/>
+
+** Proverbs 26:5
+
+Responde stulto juxta stultitiam suam, <l eID="gen11872" level="1"/> <l level="1" sID="gen11873"/>ne sibi sapiens esse videatur. <l eID="gen11873" level="1"/>
+
+** Proverbs 26:6
+
+Claudus pedibus, et iniquitatem bibens, <l eID="gen11874" level="1"/> <l level="1" sID="gen11875"/>qui mittit verba per nuntium stultum. <l eID="gen11875" level="1"/>
+
+** Proverbs 26:7
+
+Quomodo pulchras frustra habet claudus tibias, <l eID="gen11876" level="1"/> <l level="1" sID="gen11877"/>sic indecens est in ore stultorum parabola. <l eID="gen11877" level="1"/>
+
+** Proverbs 26:8
+
+Sicut qui mittit lapidem in acervum Mercurii, <l eID="gen11878" level="1"/> <l level="1" sID="gen11879"/>ita qui tribuit insipienti honorem. <l eID="gen11879" level="1"/>
+
+** Proverbs 26:9
+
+Quomodo si spina nascatur in manu temulenti, <l eID="gen11880" level="1"/> <l level="1" sID="gen11881"/>sic parabola in ore stultorum. <l eID="gen11881" level="1"/>
+
+** Proverbs 26:10
+
+Judicium determinat causas, <l eID="gen11882" level="1"/> <l level="1" sID="gen11883"/>et qui imponit stulto silentium iras mitigat. <l eID="gen11883" level="1"/>
+
+** Proverbs 26:11
+
+Sicut canis qui revertitur ad vomitum suum, <l eID="gen11884" level="1"/> <l level="1" sID="gen11885"/>sic imprudens qui iterat stultitiam suam. <l eID="gen11885" level="1"/>
+
+** Proverbs 26:12
+
+Vidisti hominem sapientem sibi videri ? <l eID="gen11886" level="1"/> <l level="1" sID="gen11887"/>magis illo spem habebit insipiens. <l eID="gen11887" level="1"/>
+
+** Proverbs 26:13
+
+Dicit piger : Leo est in via, <l eID="gen11888" level="1"/> <l level="1" sID="gen11889"/>et leæna in itineribus. <l eID="gen11889" level="1"/>
+
+** Proverbs 26:14
+
+Sicut ostium vertitur in cardine suo, <l eID="gen11890" level="1"/> <l level="1" sID="gen11891"/>ita piger in lectulo suo. <l eID="gen11891" level="1"/>
+
+** Proverbs 26:15
+
+Abscondit piger manum sub ascella sua, <l eID="gen11892" level="1"/> <l level="1" sID="gen11893"/>et laborat si ad os suum eam converterit. <l eID="gen11893" level="1"/>
+
+** Proverbs 26:16
+
+Sapientior sibi piger videtur <l eID="gen11894" level="1"/> <l level="1" sID="gen11895"/>septem viris loquentibus sententias. <l eID="gen11895" level="1"/>
+
+** Proverbs 26:17
+
+Sicut qui apprehendit auribus canem, <l eID="gen11896" level="1"/> <l level="1" sID="gen11897"/>sic qui transit impatiens et commiscetur rixæ alterius. <l eID="gen11897" level="1"/>
+
+** Proverbs 26:18
+
+Sicut noxius est qui mittit sagittas et lanceas in mortem, <l eID="gen11898" level="1"/>
+
+** Proverbs 26:19
+
+ita vir fraudulenter nocet amico suo, <l eID="gen11899" level="1"/> <l level="1" sID="gen11900"/>et cum fuerit deprehensus dicit : Ludens feci. <l eID="gen11900" level="1"/>
+
+** Proverbs 26:20
+
+Cum defecerint ligna extinguetur ignis, <l eID="gen11901" level="1"/> <l level="1" sID="gen11902"/>et susurrone subtracto, jurgia conquiescent. <l eID="gen11902" level="1"/>
+
+** Proverbs 26:21
+
+Sicut carbones ad prunas, et ligna ad ignem, <l eID="gen11903" level="1"/> <l level="1" sID="gen11904"/>sic homo iracundus suscitat rixas. <l eID="gen11904" level="1"/>
+
+** Proverbs 26:22
+
+Verba susurronis quasi simplicia, <l eID="gen11905" level="1"/> <l level="1" sID="gen11906"/>et ipsa perveniunt ad intima ventris. <l eID="gen11906" level="1"/>
+
+** Proverbs 26:23
+
+Quomodo si argento sordido ornare velis vas fictile, <l eID="gen11907" level="1"/> <l level="1" sID="gen11908"/>sic labia tumentia cum pessimo corde sociata. <l eID="gen11908" level="1"/>
+
+** Proverbs 26:24
+
+Labiis suis intelligitur inimicus, <l eID="gen11909" level="1"/> <l level="1" sID="gen11910"/>cum in corde tractaverit dolos. <l eID="gen11910" level="1"/>
+
+** Proverbs 26:25
+
+Quando submiserit vocem suam, ne credideris ei, <l eID="gen11911" level="1"/> <l level="1" sID="gen11912"/>quoniam septem nequitiæ sunt in corde illius. <l eID="gen11912" level="1"/>
+
+** Proverbs 26:26
+
+Qui operit odium fraudulenter, <l eID="gen11913" level="1"/> <l level="1" sID="gen11914"/>revelabitur malitia ejus in consilio. <l eID="gen11914" level="1"/>
+
+** Proverbs 26:27
+
+Qui fodit foveam incidet in eam, <l eID="gen11915" level="1"/> <l level="1" sID="gen11916"/>et qui volvit lapidem revertetur ad eum. <l eID="gen11916" level="1"/>
+
+** Proverbs 26:28
+
+Lingua fallax non amat veritatem, <l eID="gen11917" level="1"/> <l level="1" sID="gen11918"/>et os lubricum operatur ruinas.  <chapter eID="Prov.26"/>
+
+* Proverbs 27
+
+** Proverbs 27:1
+
+Ne glorieris in crastinum, <l eID="gen11919" level="1"/> <l level="1" sID="gen11920"/>ignorans quid superventura pariat dies. <l eID="gen11920" level="1"/>
+
+** Proverbs 27:2
+
+Laudet te alienus, et non os tuum ; <l eID="gen11921" level="1"/> <l level="1" sID="gen11922"/>extraneus, et non labia tua. <l eID="gen11922" level="1"/>
+
+** Proverbs 27:3
+
+Grave est saxum, et onerosa arena, <l eID="gen11923" level="1"/> <l level="1" sID="gen11924"/>sed ira stulti utroque gravior. <l eID="gen11924" level="1"/>
+
+** Proverbs 27:4
+
+Ira non habet misericordiam nec erumpens furor, <l eID="gen11925" level="1"/> <l level="1" sID="gen11926"/>et impetum concitati ferre quis poterit ? <l eID="gen11926" level="1"/>
+
+** Proverbs 27:5
+
+Melior est manifesta correptio <l eID="gen11927" level="1"/> <l level="1" sID="gen11928"/>quam amor absconditus. <l eID="gen11928" level="1"/>
+
+** Proverbs 27:6
+
+Meliora sunt vulnera diligentis <l eID="gen11929" level="1"/> <l level="1" sID="gen11930"/>quam fraudulenta oscula odientis. <l eID="gen11930" level="1"/>
+
+** Proverbs 27:7
+
+Anima saturata calcabit favum, <l eID="gen11931" level="1"/> <l level="1" sID="gen11932"/>et anima esuriens etiam amarum pro dulci sumet. <l eID="gen11932" level="1"/>
+
+** Proverbs 27:8
+
+Sicut avis transmigrans de nido suo, <l eID="gen11933" level="1"/> <l level="1" sID="gen11934"/>sic vir qui derelinquit locum suum. <l eID="gen11934" level="1"/>
+
+** Proverbs 27:9
+
+Unguento et variis odoribus delectatur cor, <l eID="gen11935" level="1"/> <l level="1" sID="gen11936"/>et bonis amici consiliis anima dulcoratur. <l eID="gen11936" level="1"/>
+
+** Proverbs 27:10
+
+Amicum tuum et amicum patris tui ne dimiseris, <l eID="gen11937" level="1"/> <l level="1" sID="gen11938"/>et domum fratris tui ne ingrediaris in die afflictionis tuæ. <l eID="gen11938" level="1"/> <l level="1" sID="gen11939"/>Melior est vicinus juxta <l eID="gen11939" level="1"/> <l level="1" sID="gen11940"/>quam frater procul. <l eID="gen11940" level="1"/>
+
+** Proverbs 27:11
+
+Stude sapientiæ, fili mi, et lætifica cor meum, <l eID="gen11941" level="1"/> <l level="1" sID="gen11942"/>ut possis exprobranti respondere sermonem. <l eID="gen11942" level="1"/>
+
+** Proverbs 27:12
+
+Astutus videns malum, absconditus est : <l eID="gen11943" level="1"/> <l level="1" sID="gen11944"/>parvuli transeuntes sustinuerunt dispendia. <l eID="gen11944" level="1"/>
+
+** Proverbs 27:13
+
+Tolle vestimentum ejus qui spopondit pro extraneo, <l eID="gen11945" level="1"/> <l level="1" sID="gen11946"/>et pro alienis aufer ei pignus. <l eID="gen11946" level="1"/>
+
+** Proverbs 27:14
+
+Qui benedicit proximo suo voce grandi, <l eID="gen11947" level="1"/> <l level="1" sID="gen11948"/>de nocte consurgens maledicenti similis erit. <l eID="gen11948" level="1"/>
+
+** Proverbs 27:15
+
+Tecta perstillantia in die frigoris <l eID="gen11949" level="1"/> <l level="1" sID="gen11950"/>et litigiosa mulier comparantur. <l eID="gen11950" level="1"/>
+
+** Proverbs 27:16
+
+Qui retinet eam quasi qui ventum teneat, <l eID="gen11951" level="1"/> <l level="1" sID="gen11952"/>et oleum dexteræ suæ vocabit. <l eID="gen11952" level="1"/>
+
+** Proverbs 27:17
+
+Ferrum ferro exacuitur, <l eID="gen11953" level="1"/> <l level="1" sID="gen11954"/>et homo exacuit faciem amici sui. <l eID="gen11954" level="1"/>
+
+** Proverbs 27:18
+
+Qui servat ficum comedet fructus ejus, <l eID="gen11955" level="1"/> <l level="1" sID="gen11956"/>et qui custos est domini sui glorificabitur. <l eID="gen11956" level="1"/>
+
+** Proverbs 27:19
+
+Quomodo in aquis resplendent vultus prospicientium, <l eID="gen11957" level="1"/> <l level="1" sID="gen11958"/>sic corda hominum manifesta sunt prudentibus. <l eID="gen11958" level="1"/>
+
+** Proverbs 27:20
+
+Infernus et perditio numquam implentur : <l eID="gen11959" level="1"/> <l level="1" sID="gen11960"/>similiter et oculi hominum insatiabiles. <l eID="gen11960" level="1"/>
+
+** Proverbs 27:21
+
+Quomodo probatur in conflatorio argentum et in fornace aurum, <l eID="gen11961" level="1"/> <l level="1" sID="gen11962"/>sic probatur homo ore laudantis. <l eID="gen11962" level="1"/> <l level="1" sID="gen11963"/>Cor iniqui inquirit mala, <l eID="gen11963" level="1"/> <l level="1" sID="gen11964"/>cor autem rectum inquirit scientiam. <l eID="gen11964" level="1"/>
+
+** Proverbs 27:22
+
+Si contuderis stultum in pila <l eID="gen11965" level="1"/> <l level="1" sID="gen11966"/>quasi ptisanas feriente desuper pilo, <l eID="gen11966" level="1"/> <l level="1" sID="gen11967"/>non auferetur ab eo stultitia ejus. <l eID="gen11967" level="1"/>
+
+** Proverbs 27:23
+
+Diligenter agnosce vultum pecoris tui, <l eID="gen11968" level="1"/> <l level="1" sID="gen11969"/>tuosque greges considera : <l eID="gen11969" level="1"/>
+
+** Proverbs 27:24
+
+non enim habebis jugiter potestatem, <l eID="gen11970" level="1"/> <l level="1" sID="gen11971"/>sed corona tribuetur in generationem et generationem. <l eID="gen11971" level="1"/>
+
+** Proverbs 27:25
+
+Aperta sunt prata, et apparuerunt herbæ virentes, <l eID="gen11972" level="1"/> <l level="1" sID="gen11973"/>et collecta sunt fœna de montibus. <l eID="gen11973" level="1"/>
+
+** Proverbs 27:26
+
+Agni ad vestimentum tuum, <l eID="gen11974" level="1"/> <l level="1" sID="gen11975"/>et hædi ad agri pretium. <l eID="gen11975" level="1"/>
+
+** Proverbs 27:27
+
+Sufficiat tibi lac caprarum in cibos tuos, <l eID="gen11976" level="1"/> <l level="1" sID="gen11977"/>et in necessaria domus tuæ, et ad victum ancillis tuis.  <chapter eID="Prov.27"/>
+
+* Proverbs 28
+
+** Proverbs 28:1
+
+Fugit impius nemine persequente ; <l eID="gen11978" level="1"/> <l level="1" sID="gen11979"/>justus autem, quasi leo confidens, absque terrore erit. <l eID="gen11979" level="1"/>
+
+** Proverbs 28:2
+
+Propter peccata terræ multi principes ejus ; <l eID="gen11980" level="1"/> <l level="1" sID="gen11981"/>et propter hominis sapientiam, et horum scientiam quæ dicuntur, <l eID="gen11981" level="1"/> <l level="1" sID="gen11982"/>vita ducis longior erit. <l eID="gen11982" level="1"/>
+
+** Proverbs 28:3
+
+Vir pauper calumnians pauperes <l eID="gen11983" level="1"/> <l level="1" sID="gen11984"/>similis est imbri vehementi in quo paratur fames. <l eID="gen11984" level="1"/>
+
+** Proverbs 28:4
+
+Qui derelinquunt legem laudant impium ; <l eID="gen11985" level="1"/> <l level="1" sID="gen11986"/>qui custodiunt, succenduntur contra eum. <l eID="gen11986" level="1"/>
+
+** Proverbs 28:5
+
+Viri mali non cogitant judicium ; <l eID="gen11987" level="1"/> <l level="1" sID="gen11988"/>qui autem inquirunt Dominum animadvertunt omnia. <l eID="gen11988" level="1"/>
+
+** Proverbs 28:6
+
+Melior est pauper ambulans in simplicitate sua <l eID="gen11989" level="1"/> <l level="1" sID="gen11990"/>quam dives in pravis itineribus. <l eID="gen11990" level="1"/>
+
+** Proverbs 28:7
+
+Qui custodit legem filius sapiens est ; <l eID="gen11991" level="1"/> <l level="1" sID="gen11992"/>qui autem comessatores pascit confundit patrem suum. <l eID="gen11992" level="1"/>
+
+** Proverbs 28:8
+
+Qui coacervat divitias usuris et fœnore, <l eID="gen11993" level="1"/> <l level="1" sID="gen11994"/>liberali in pauperes congregat eas. <l eID="gen11994" level="1"/>
+
+** Proverbs 28:9
+
+Qui declinat aures suas ne audiat legem, <l eID="gen11995" level="1"/> <l level="1" sID="gen11996"/>oratio ejus erit execrabilis. <l eID="gen11996" level="1"/>
+
+** Proverbs 28:10
+
+Qui decipit justos in via mala, in interitu suo corruet, <l eID="gen11997" level="1"/> <l level="1" sID="gen11998"/>et simplices possidebunt bona ejus. <l eID="gen11998" level="1"/>
+
+** Proverbs 28:11
+
+Sapiens sibi videtur vir dives ; <l eID="gen11999" level="1"/> <l level="1" sID="gen12000"/>pauper autem prudens scrutabitur eum. <l eID="gen12000" level="1"/>
+
+** Proverbs 28:12
+
+In exsultatione justorum multa gloria est ; <l eID="gen12001" level="1"/> <l level="1" sID="gen12002"/>regnantibus impiis, ruinæ hominum. <l eID="gen12002" level="1"/>
+
+** Proverbs 28:13
+
+Qui abscondit scelera sua non dirigetur ; <l eID="gen12003" level="1"/> <l level="1" sID="gen12004"/>qui autem confessus fuerit et reliquerit ea, misericordiam consequetur. <l eID="gen12004" level="1"/>
+
+** Proverbs 28:14
+
+Beatus homo qui semper est pavidus ; <l eID="gen12005" level="1"/> <l level="1" sID="gen12006"/>qui vero mentis est duræ corruet in malum. <l eID="gen12006" level="1"/>
+
+** Proverbs 28:15
+
+Leo rugiens et ursus esuriens, <l eID="gen12007" level="1"/> <l level="1" sID="gen12008"/>princeps impius super populum pauperem. <l eID="gen12008" level="1"/>
+
+** Proverbs 28:16
+
+Dux indigens prudentia multos opprimet per calumniam ; <l eID="gen12009" level="1"/> <l level="1" sID="gen12010"/>qui autem odit avaritiam, longi fient dies ejus. <l eID="gen12010" level="1"/>
+
+** Proverbs 28:17
+
+Hominem qui calumniatur animæ sanguinem, <l eID="gen12011" level="1"/> <l level="1" sID="gen12012"/>si usque ad lacum fugerit, nemo sustinet. <l eID="gen12012" level="1"/>
+
+** Proverbs 28:18
+
+Qui ambulat simpliciter salvus erit ; <l eID="gen12013" level="1"/> <l level="1" sID="gen12014"/>qui perversis graditur viis concidet semel. <l eID="gen12014" level="1"/>
+
+** Proverbs 28:19
+
+Qui operatur terram suam satiabitur panibus ; <l eID="gen12015" level="1"/> <l level="1" sID="gen12016"/>qui autem sectatur otium replebitur egestate. <l eID="gen12016" level="1"/>
+
+** Proverbs 28:20
+
+Vir fidelis multum laudabitur ; <l eID="gen12017" level="1"/> <l level="1" sID="gen12018"/>qui autem festinat ditari non erit innocens. <l eID="gen12018" level="1"/>
+
+** Proverbs 28:21
+
+Qui cognoscit in judicio faciem non bene facit ; <l eID="gen12019" level="1"/> <l level="1" sID="gen12020"/>iste et pro buccella panis deserit veritatem. <l eID="gen12020" level="1"/>
+
+** Proverbs 28:22
+
+Vir qui festinat ditari, et aliis invidet, <l eID="gen12021" level="1"/> <l level="1" sID="gen12022"/>ignorat quod egestas superveniet ei. <l eID="gen12022" level="1"/>
+
+** Proverbs 28:23
+
+Qui corripit hominem gratiam postea inveniet apud eum, <l eID="gen12023" level="1"/> <l level="1" sID="gen12024"/>magis quam ille qui per linguæ blandimenta decipit. <l eID="gen12024" level="1"/>
+
+** Proverbs 28:24
+
+Qui subtrahit aliquid a patre suo et a matre, <l eID="gen12025" level="1"/> <l level="1" sID="gen12026"/>et dicit hoc non esse peccatum, <l eID="gen12026" level="1"/> <l level="1" sID="gen12027"/>particeps homicidæ est. <l eID="gen12027" level="1"/>
+
+** Proverbs 28:25
+
+Qui se jactat et dilatat, jurgia concitat ; <l eID="gen12028" level="1"/> <l level="1" sID="gen12029"/>qui vero sperat in Domino sanabitur. <l eID="gen12029" level="1"/>
+
+** Proverbs 28:26
+
+Qui confidit in corde suo stultus est ; <l eID="gen12030" level="1"/> <l level="1" sID="gen12031"/>qui autem graditur sapienter, ipse salvabitur. <l eID="gen12031" level="1"/>
+
+** Proverbs 28:27
+
+Qui dat pauperi non indigebit ; <l eID="gen12032" level="1"/> <l level="1" sID="gen12033"/>qui despicit deprecantem sustinebit penuriam. <l eID="gen12033" level="1"/>
+
+** Proverbs 28:28
+
+Cum surrexerint impii, abscondentur homines ; <l eID="gen12034" level="1"/> <l level="1" sID="gen12035"/>cum illi perierint, multiplicabuntur justi.  <chapter eID="Prov.28"/>
+
+* Proverbs 29
+
+** Proverbs 29:1
+
+Viro qui corripientem dura cervice contemnit, <l eID="gen12036" level="1"/> <l level="1" sID="gen12037"/>repentinus ei superveniet interitus, <l eID="gen12037" level="1"/> <l level="1" sID="gen12038"/>et eum sanitas non sequetur. <l eID="gen12038" level="1"/>
+
+** Proverbs 29:2
+
+In multiplicatione justorum lætabitur vulgus ; <l eID="gen12039" level="1"/> <l level="1" sID="gen12040"/>cum impii sumpserint principatum, gemet populus. <l eID="gen12040" level="1"/>
+
+** Proverbs 29:3
+
+Vir qui amat sapientiam lætificat patrem suum ; <l eID="gen12041" level="1"/> <l level="1" sID="gen12042"/>qui autem nutrit scorta perdet substantiam. <l eID="gen12042" level="1"/>
+
+** Proverbs 29:4
+
+Rex justus erigit terram ; <l eID="gen12043" level="1"/> <l level="1" sID="gen12044"/>vir avarus destruet eam. <l eID="gen12044" level="1"/>
+
+** Proverbs 29:5
+
+Homo qui blandis fictisque sermonibus loquitur amico suo <l eID="gen12045" level="1"/> <l level="1" sID="gen12046"/>rete expandit gressibus ejus. <l eID="gen12046" level="1"/>
+
+** Proverbs 29:6
+
+Peccantem virum iniquum involvet laqueus, <l eID="gen12047" level="1"/> <l level="1" sID="gen12048"/>et justus laudabit atque gaudebit. <l eID="gen12048" level="1"/>
+
+** Proverbs 29:7
+
+Novit justus causam pauperum ; <l eID="gen12049" level="1"/> <l level="1" sID="gen12050"/>impius ignorat scientiam. <l eID="gen12050" level="1"/>
+
+** Proverbs 29:8
+
+Homines pestilentes dissipant civitatem ; <l eID="gen12051" level="1"/> <l level="1" sID="gen12052"/>sapientes vero avertunt furorem. <l eID="gen12052" level="1"/>
+
+** Proverbs 29:9
+
+Vir sapiens si cum stulto contenderit, <l eID="gen12053" level="1"/> <l level="1" sID="gen12054"/>sive irascatur, sive rideat, non inveniet requiem. <l eID="gen12054" level="1"/>
+
+** Proverbs 29:10
+
+Viri sanguinum oderunt simplicem ; <l eID="gen12055" level="1"/> <l level="1" sID="gen12056"/>justi autem quærunt animam ejus. <l eID="gen12056" level="1"/>
+
+** Proverbs 29:11
+
+Totum spiritum suum profert stultus ; <l eID="gen12057" level="1"/> <l level="1" sID="gen12058"/>sapiens differt, et reservat in posterum. <l eID="gen12058" level="1"/>
+
+** Proverbs 29:12
+
+Princeps qui libenter audit verba mendacii, <l eID="gen12059" level="1"/> <l level="1" sID="gen12060"/>omnes ministros habet impios. <l eID="gen12060" level="1"/>
+
+** Proverbs 29:13
+
+Pauper et creditor obviaverunt sibi : <l eID="gen12061" level="1"/> <l level="1" sID="gen12062"/>utriusque illuminator est Dominus. <l eID="gen12062" level="1"/>
+
+** Proverbs 29:14
+
+Rex qui judicat in veritate pauperes, <l eID="gen12063" level="1"/> <l level="1" sID="gen12064"/>thronus ejus in æternum firmabitur. <l eID="gen12064" level="1"/>
+
+** Proverbs 29:15
+
+Virga atque correptio tribuit sapientiam ; <l eID="gen12065" level="1"/> <l level="1" sID="gen12066"/>puer autem qui dimittitur voluntati suæ confundit matrem suam. <l eID="gen12066" level="1"/>
+
+** Proverbs 29:16
+
+In multiplicatione impiorum multiplicabuntur scelera, <l eID="gen12067" level="1"/> <l level="1" sID="gen12068"/>et justi ruinas eorum videbunt. <l eID="gen12068" level="1"/>
+
+** Proverbs 29:17
+
+Erudi filium tuum, et refrigerabit te, <l eID="gen12069" level="1"/> <l level="1" sID="gen12070"/>et dabit delicias animæ tuæ. <l eID="gen12070" level="1"/>
+
+** Proverbs 29:18
+
+Cum prophetia defecerit, dissipabitur populus ; <l eID="gen12071" level="1"/> <l level="1" sID="gen12072"/>qui vero custodit legem beatus est. <l eID="gen12072" level="1"/>
+
+** Proverbs 29:19
+
+Servus verbis non potest erudiri, <l eID="gen12073" level="1"/> <l level="1" sID="gen12074"/>quia quod dicis intelligit, et respondere contemnit. <l eID="gen12074" level="1"/>
+
+** Proverbs 29:20
+
+Vidisti hominem velocem ad loquendum ? <l eID="gen12075" level="1"/> <l level="1" sID="gen12076"/>stultitia magis speranda est quam illius correptio. <l eID="gen12076" level="1"/>
+
+** Proverbs 29:21
+
+Qui delicate a pueritia nutrit servum suum <l eID="gen12077" level="1"/> <l level="1" sID="gen12078"/>postea sentiet eum contumacem. <l eID="gen12078" level="1"/>
+
+** Proverbs 29:22
+
+Vir iracundus provocat rixas, <l eID="gen12079" level="1"/> <l level="1" sID="gen12080"/>et qui ad indignandum facilis est erit ad peccandum proclivior. <l eID="gen12080" level="1"/>
+
+** Proverbs 29:23
+
+Superbum sequitur humilitas, <l eID="gen12081" level="1"/> <l level="1" sID="gen12082"/>et humilem spiritu suscipiet gloria. <l eID="gen12082" level="1"/>
+
+** Proverbs 29:24
+
+Qui cum fure participat odit animam suam ; <l eID="gen12083" level="1"/> <l level="1" sID="gen12084"/>adjurantem audit, et non indicat. <l eID="gen12084" level="1"/>
+
+** Proverbs 29:25
+
+Qui timet hominem cito corruet ; <l eID="gen12085" level="1"/> <l level="1" sID="gen12086"/>qui sperat in Domino sublevabitur. <l eID="gen12086" level="1"/>
+
+** Proverbs 29:26
+
+Multi requirunt faciem principis, <l eID="gen12087" level="1"/> <l level="1" sID="gen12088"/>et judicium a Domino egreditur singulorum. <l eID="gen12088" level="1"/>
+
+** Proverbs 29:27
+
+Abominantur justi virum impium, <l eID="gen12089" level="1"/> <l level="1" sID="gen12090"/>et abominantur impii eos qui in recta sunt via. <l eID="gen12090" level="1"/> <l level="1" sID="gen12091"/>Verbum custodiens filius <l eID="gen12091" level="1"/> <l level="1" sID="gen12092"/>extra perditionem erit. <l eID="gen12092" level="1"/><lg eID="gen11802"/> <chapter eID="Prov.29"/>
+
+* Proverbs 30
+
+** Proverbs 30:1
+
+Verba Congregantis, filii Vomentis. Visio quam locutus est vir cum quo est Deus, et qui Deo secum morante confortatus, ait :  <div eID="gen12093" type="x-p"/>
+
+** Proverbs 30:2
+
+Stultissimus sum virorum, <l eID="gen12095" level="1"/> <l level="1" sID="gen12096"/>et sapientia hominum non est mecum. <l eID="gen12096" level="1"/>
+
+** Proverbs 30:3
+
+Non didici sapientiam, <l eID="gen12097" level="1"/> <l level="1" sID="gen12098"/>et non novi scientiam sanctorum. <l eID="gen12098" level="1"/>
+
+** Proverbs 30:4
+
+Quis ascendit in cælum, atque descendit ? <l eID="gen12099" level="1"/> <l level="1" sID="gen12100"/>quis continuit spiritum in manibus suis ? <l eID="gen12100" level="1"/> <l level="1" sID="gen12101"/>quis colligavit aquas quasi in vestimento ? <l eID="gen12101" level="1"/> <l level="1" sID="gen12102"/>quis suscitavit omnes terminos terræ ? <l eID="gen12102" level="1"/> <l level="1" sID="gen12103"/>quod nomen est ejus, et quod nomen filii ejus, si nosti ? <l eID="gen12103" level="1"/>
+
+** Proverbs 30:5
+
+Omnis sermo Dei ignitus : <l eID="gen12104" level="1"/> <l level="1" sID="gen12105"/>clypeus est sperantibus in se. <l eID="gen12105" level="1"/>
+
+** Proverbs 30:6
+
+Ne addas quidquam verbis illius, <l eID="gen12106" level="1"/> <l level="1" sID="gen12107"/>et arguaris, inveniarisque mendax. <l eID="gen12107" level="1"/>
+
+** Proverbs 30:7
+
+Duo rogavi te : <l eID="gen12108" level="1"/> <l level="1" sID="gen12109"/>ne deneges mihi antequam moriar : <l eID="gen12109" level="1"/>
+
+** Proverbs 30:8
+
+vanitatem et verba mendacia longe fac a me ; <l eID="gen12110" level="1"/> <l level="1" sID="gen12111"/>mendicitatem et divitias ne dederis mihi : <l eID="gen12111" level="1"/> <l level="1" sID="gen12112"/>tribue tantum victui meo necessaria, <l eID="gen12112" level="1"/>
+
+** Proverbs 30:9
+
+ne forte satiatus illiciar ad negandum, <l eID="gen12113" level="1"/> <l level="1" sID="gen12114"/>et dicam : Quis est Dominus ? <l eID="gen12114" level="1"/> <l level="1" sID="gen12115"/>aut egestate compulsus, furer, <l eID="gen12115" level="1"/> <l level="1" sID="gen12116"/>et perjurem nomen Dei mei. <l eID="gen12116" level="1"/>
+
+** Proverbs 30:10
+
+Ne accuses servum ad dominum suum, <l eID="gen12117" level="1"/> <l level="1" sID="gen12118"/>ne forte maledicat tibi, et corruas. <l eID="gen12118" level="1"/>
+
+** Proverbs 30:11
+
+Generatio quæ patri suo maledicit, <l eID="gen12119" level="1"/> <l level="1" sID="gen12120"/>et quæ matri suæ non benedicit ; <l eID="gen12120" level="1"/>
+
+** Proverbs 30:12
+
+generatio quæ sibi munda videtur, <l eID="gen12121" level="1"/> <l level="1" sID="gen12122"/>et tamen non est lota a sordibus suis ; <l eID="gen12122" level="1"/>
+
+** Proverbs 30:13
+
+generatio cujus excelsi sunt oculi, <l eID="gen12123" level="1"/> <l level="1" sID="gen12124"/>et palpebræ ejus in alta surrectæ ; <l eID="gen12124" level="1"/>
+
+** Proverbs 30:14
+
+generatio quæ pro dentibus gladios habet, <l eID="gen12125" level="1"/> <l level="1" sID="gen12126"/>et commandit molaribus suis, <l eID="gen12126" level="1"/> <l level="1" sID="gen12127"/>ut comedat inopes de terra, <l eID="gen12127" level="1"/> <l level="1" sID="gen12128"/>et pauperes ex hominibus. <l eID="gen12128" level="1"/>
+
+** Proverbs 30:15
+
+Sanguisugæ duæ sunt filiæ, <l eID="gen12129" level="1"/> <l level="1" sID="gen12130"/>dicentes : Affer, affer. <l eID="gen12130" level="1"/> <l level="1" sID="gen12131"/>Tria sunt insaturabilia, <l eID="gen12131" level="1"/> <l level="1" sID="gen12132"/>et quartum quod numquam dicit : Sufficit. <l eID="gen12132" level="1"/>
+
+** Proverbs 30:16
+
+Infernus, et os vulvæ, <l eID="gen12133" level="1"/> <l level="1" sID="gen12134"/>et terra quæ non satiatur aqua : <l eID="gen12134" level="1"/> <l level="1" sID="gen12135"/>ignis vero numquam dicit : Sufficit. <l eID="gen12135" level="1"/>
+
+** Proverbs 30:17
+
+Oculum qui subsannat patrem, <l eID="gen12136" level="1"/> <l level="1" sID="gen12137"/>et qui despicit partum matris suæ, <l eID="gen12137" level="1"/> <l level="1" sID="gen12138"/>effodiant eum corvi de torrentibus, <l eID="gen12138" level="1"/> <l level="1" sID="gen12139"/>et comedant eum filii aquilæ ! <l eID="gen12139" level="1"/>
+
+** Proverbs 30:18
+
+Tria sunt difficilia mihi, <l eID="gen12140" level="1"/> <l level="1" sID="gen12141"/>et quartum penitus ignoro : <l eID="gen12141" level="1"/>
+
+** Proverbs 30:19
+
+viam aquilæ in cælo, <l eID="gen12142" level="1"/> <l level="1" sID="gen12143"/>viam colubri super petram, <l eID="gen12143" level="1"/> <l level="1" sID="gen12144"/>viam navis in medio mari, <l eID="gen12144" level="1"/> <l level="1" sID="gen12145"/>et viam viri in adolescentia. <l eID="gen12145" level="1"/>
+
+** Proverbs 30:20
+
+Talis est et via mulieris adulteræ, <l eID="gen12146" level="1"/> <l level="1" sID="gen12147"/>quæ comedit, et tergens os suum <l eID="gen12147" level="1"/> <l level="1" sID="gen12148"/>dicit : Non sum operata malum. <l eID="gen12148" level="1"/>
+
+** Proverbs 30:21
+
+Per tria movetur terra, <l eID="gen12149" level="1"/> <l level="1" sID="gen12150"/>et quartum non potest sustinere : <l eID="gen12150" level="1"/>
+
+** Proverbs 30:22
+
+per servum, cum regnaverit ; <l eID="gen12151" level="1"/> <l level="1" sID="gen12152"/>per stultum, cum saturatus fuerit cibo ; <l eID="gen12152" level="1"/>
+
+** Proverbs 30:23
+
+per odiosam mulierem, cum in matrimonio fuerit assumpta ; <l eID="gen12153" level="1"/> <l level="1" sID="gen12154"/>et per ancillam, cum fuerit hæres dominæ suæ. <l eID="gen12154" level="1"/>
+
+** Proverbs 30:24
+
+Quatuor sunt minima terræ, <l eID="gen12155" level="1"/> <l level="1" sID="gen12156"/>et ipsa sunt sapientiora sapientibus : <l eID="gen12156" level="1"/>
+
+** Proverbs 30:25
+
+formicæ, populus infirmus, <l eID="gen12157" level="1"/> <l level="1" sID="gen12158"/>qui præparat in messe cibum sibi ; <l eID="gen12158" level="1"/>
+
+** Proverbs 30:26
+
+lepusculus, plebs invalida, <l eID="gen12159" level="1"/> <l level="1" sID="gen12160"/>qui collocat in petra cubile suum ; <l eID="gen12160" level="1"/>
+
+** Proverbs 30:27
+
+regem locusta non habet, <l eID="gen12161" level="1"/> <l level="1" sID="gen12162"/>et egreditur universa per turmas suas ; <l eID="gen12162" level="1"/>
+
+** Proverbs 30:28
+
+stellio manibus nititur, <l eID="gen12163" level="1"/> <l level="1" sID="gen12164"/>et moratur in ædibus regis. <l eID="gen12164" level="1"/>
+
+** Proverbs 30:29
+
+Tria sunt quæ bene gradiuntur, <l eID="gen12165" level="1"/> <l level="1" sID="gen12166"/>et quartum quod incedit feliciter : <l eID="gen12166" level="1"/>
+
+** Proverbs 30:30
+
+leo, fortissimus bestiarum, <l eID="gen12167" level="1"/> <l level="1" sID="gen12168"/>ad nullius pavebit occursum ; <l eID="gen12168" level="1"/>
+
+** Proverbs 30:31
+
+gallus succinctus lumbos ; <l eID="gen12169" level="1"/> <l level="1" sID="gen12170"/>et aries ; nec est rex, qui resistat ei. <l eID="gen12170" level="1"/>
+
+** Proverbs 30:32
+
+Est qui stultus apparuit postquam elevatus est in sublime ; <l eID="gen12171" level="1"/> <l level="1" sID="gen12172"/>si enim intellexisset, ori suo imposuisset manum. <l eID="gen12172" level="1"/>
+
+** Proverbs 30:33
+
+Qui autem fortiter premit ubera ad eliciendum lac exprimit butyrum ; <l eID="gen12173" level="1"/> <l level="1" sID="gen12174"/>et qui vehementer emungit elicit sanguinem ; <l eID="gen12174" level="1"/> <l level="1" sID="gen12175"/>et qui provocat iras producit discordias. <l eID="gen12175" level="1"/><lg eID="gen12094"/> <chapter eID="Prov.30"/>
+
+* Proverbs 31
+
+** Proverbs 31:1
+
+Verba Lamuelis regis. Visio qua erudivit eum mater sua.  <div eID="gen12176" type="x-p"/>
+
+** Proverbs 31:2
+
+Quid, dilecte mi ? quid, dilecte uteri mei ? <l eID="gen12178" level="1"/> <l level="1" sID="gen12179"/>quid, dilecte votorum meorum ? <l eID="gen12179" level="1"/>
+
+** Proverbs 31:3
+
+Ne dederis mulieribus substantiam tuam, <l eID="gen12180" level="1"/> <l level="1" sID="gen12181"/>et divitias tuas ad delendos reges. <l eID="gen12181" level="1"/>
+
+** Proverbs 31:4
+
+Noli regibus, o Lamuel, noli regibus dare vinum, <l eID="gen12182" level="1"/> <l level="1" sID="gen12183"/>quia nullum secretum est ubi regnat ebrietas ; <l eID="gen12183" level="1"/>
+
+** Proverbs 31:5
+
+et ne forte bibant, et obliviscantur judiciorum, <l eID="gen12184" level="1"/> <l level="1" sID="gen12185"/>et mutent causam filiorum pauperis. <l eID="gen12185" level="1"/>
+
+** Proverbs 31:6
+
+Date siceram mœrentibus, <l eID="gen12186" level="1"/> <l level="1" sID="gen12187"/>et vinum his qui amaro sunt animo. <l eID="gen12187" level="1"/>
+
+** Proverbs 31:7
+
+Bibant, et obliviscantur egestatis suæ, <l eID="gen12188" level="1"/> <l level="1" sID="gen12189"/>et doloris sui non recordentur amplius. <l eID="gen12189" level="1"/>
+
+** Proverbs 31:8
+
+Aperi os tuum muto, <l eID="gen12190" level="1"/> <l level="1" sID="gen12191"/>et causis omnium filiorum qui pertranseunt. <l eID="gen12191" level="1"/>
+
+** Proverbs 31:9
+
+Aperi os tuum, decerne quod justum est, <l eID="gen12192" level="1"/> <l level="1" sID="gen12193"/>et judica inopem et pauperem. <l eID="gen12193" level="1"/>
+
+** Proverbs 31:10
+
+Mulierem fortem quis inveniet ? <l eID="gen12194" level="1"/> <l level="1" sID="gen12195"/>procul et de ultimis finibus pretium ejus. <l eID="gen12195" level="1"/>
+
+** Proverbs 31:11
+
+Confidit in ea cor viri sui, <l eID="gen12196" level="1"/> <l level="1" sID="gen12197"/>et spoliis non indigebit. <l eID="gen12197" level="1"/>
+
+** Proverbs 31:12
+
+Reddet ei bonum, et non malum, <l eID="gen12198" level="1"/> <l level="1" sID="gen12199"/>omnibus diebus vitæ suæ. <l eID="gen12199" level="1"/>
+
+** Proverbs 31:13
+
+Quæsivit lanam et linum, <l eID="gen12200" level="1"/> <l level="1" sID="gen12201"/>et operata est consilia manuum suarum. <l eID="gen12201" level="1"/>
+
+** Proverbs 31:14
+
+Facta est quasi navis institoris, <l eID="gen12202" level="1"/> <l level="1" sID="gen12203"/>de longe portans panem suum. <l eID="gen12203" level="1"/>
+
+** Proverbs 31:15
+
+Et de nocte surrexit, <l eID="gen12204" level="1"/> <l level="1" sID="gen12205"/>deditque prædam domesticis suis, <l eID="gen12205" level="1"/> <l level="1" sID="gen12206"/>et cibaria ancillis suis. <l eID="gen12206" level="1"/>
+
+** Proverbs 31:16
+
+Consideravit agrum, et emit eum ; <l eID="gen12207" level="1"/> <l level="1" sID="gen12208"/>de fructu manuum suarum plantavit vineam. <l eID="gen12208" level="1"/>
+
+** Proverbs 31:17
+
+Accinxit fortitudine lumbos suos, <l eID="gen12209" level="1"/> <l level="1" sID="gen12210"/>et roboravit brachium suum. <l eID="gen12210" level="1"/>
+
+** Proverbs 31:18
+
+Gustavit, et vidit quia bona est negotiatio ejus ; <l eID="gen12211" level="1"/> <l level="1" sID="gen12212"/>non extinguetur in nocte lucerna ejus. <l eID="gen12212" level="1"/>
+
+** Proverbs 31:19
+
+Manum suam misit ad fortia, <l eID="gen12213" level="1"/> <l level="1" sID="gen12214"/>et digiti ejus apprehenderunt fusum. <l eID="gen12214" level="1"/>
+
+** Proverbs 31:20
+
+Manum suam aperuit inopi, <l eID="gen12215" level="1"/> <l level="1" sID="gen12216"/>et palmas suas extendit ad pauperem. <l eID="gen12216" level="1"/>
+
+** Proverbs 31:21
+
+Non timebit domui suæ a frigoribus nivis ; <l eID="gen12217" level="1"/> <l level="1" sID="gen12218"/>omnes enim domestici ejus vestiti sunt duplicibus. <l eID="gen12218" level="1"/>
+
+** Proverbs 31:22
+
+Stragulatam vestem fecit sibi ; <l eID="gen12219" level="1"/> <l level="1" sID="gen12220"/>byssus et purpura indumentum ejus. <l eID="gen12220" level="1"/>
+
+** Proverbs 31:23
+
+Nobilis in portis vir ejus, <l eID="gen12221" level="1"/> <l level="1" sID="gen12222"/>quando sederit cum senatoribus terræ. <l eID="gen12222" level="1"/>
+
+** Proverbs 31:24
+
+Sindonem fecit, et vendidit, <l eID="gen12223" level="1"/> <l level="1" sID="gen12224"/>et cingulum tradidit Chananæo. <l eID="gen12224" level="1"/>
+
+** Proverbs 31:25
+
+Fortitudo et decor indumentum ejus, <l eID="gen12225" level="1"/> <l level="1" sID="gen12226"/>et ridebit in die novissimo. <l eID="gen12226" level="1"/>
+
+** Proverbs 31:26
+
+Os suum aperuit sapientiæ, <l eID="gen12227" level="1"/> <l level="1" sID="gen12228"/>et lex clementiæ in lingua ejus. <l eID="gen12228" level="1"/>
+
+** Proverbs 31:27
+
+Consideravit semitas domus suæ, <l eID="gen12229" level="1"/> <l level="1" sID="gen12230"/>et panem otiosa non comedit. <l eID="gen12230" level="1"/>
+
+** Proverbs 31:28
+
+Surrexerunt filii ejus, et beatissimam prædicaverunt ; <l eID="gen12231" level="1"/> <l level="1" sID="gen12232"/>vir ejus, et laudavit eam. <l eID="gen12232" level="1"/>
+
+** Proverbs 31:29
+
+Multæ filiæ congregaverunt divitias ; <l eID="gen12233" level="1"/> <l level="1" sID="gen12234"/>tu supergressa es universas. <l eID="gen12234" level="1"/>
+
+** Proverbs 31:30
+
+Fallax gratia, et vana est pulchritudo : <l eID="gen12235" level="1"/> <l level="1" sID="gen12236"/>mulier timens Dominum, ipsa laudabitur. <l eID="gen12236" level="1"/>
+
+** Proverbs 31:31
+
+Date ei de fructu manuum suarum, <l eID="gen12237" level="1"/> <l level="1" sID="gen12238"/>et laudent eam in portis opera ejus. <l eID="gen12238" level="1"/> <lg eID="gen12177"/> <chapter eID="Prov.31"/> <div eID="gen10316" osisID="Prov" type="book"/>
+
