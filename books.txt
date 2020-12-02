@@ -1,4 +1,4 @@
-"Genesis.org" \
+touch "Genesis.org" \
 "Exodus.org" \
 "Leviticus.org" \
 "Numbers.org" \
@@ -43,4 +43,31 @@
 "Zephaniah.org" \
 "Haggai.org" \
 "Zechariah.org" \
-"Malachi.org"
+"Malachi.org" \
+"Matthew.org" \
+"Mark.org" \
+"Luke.org" \
+"John.org" \
+"Acts of the Apostles.org" \
+"Romans.org" \
+"1 Corinthians.org" \
+"2 Corinthians.org" \
+"Galatians.org" \
+"Ephesians.org" \
+"Philippians.org" \
+"Colossians.org" \
+"1 Thessalonians.org" \
+"2 Thessalonians.org" \
+"1 Timothy.org" \
+"2 Timothy.org" \
+"Titus.org" \
+"Philemon.org" \
+"Hebrews.org" \
+"James.org" \
+"1 Peter.org" \
+"2 Peter.org" \
+"1 John.org" \
+"2 John.org" \
+"3 John.org" \
+"Jude.org" \
+"Revelation.org"
