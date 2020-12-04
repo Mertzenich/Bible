@@ -6,7 +6,7 @@ Paulus Apostolus Jesu Christi per voluntatem Dei, secundum promissionem vitæ, q
 
 ** II Timothy 1:2
 
-Timotheo carissimo filio : gratia, misericordia, pax a Deo Patre, et Christo Jesu Domino nostro.  <div eID="gen33129" type="x-p"/>
+Timotheo carissimo filio : gratia, misericordia, pax a Deo Patre, et Christo Jesu Domino nostro.  
 
 ** II Timothy 1:3
 
@@ -18,7 +18,7 @@ desiderans te videre, memor lacrimarum tuarum, ut gaudio implear,
 
 ** II Timothy 1:5
 
-recordationem accipiens ejus fidei, quæ est in te non ficta, quæ et habitavit primum in avia tua Loide, et matre tua Eunice, certus sum autem quod et in te.  <div eID="gen33130" type="x-p"/>
+recordationem accipiens ejus fidei, quæ est in te non ficta, quæ et habitavit primum in avia tua Loide, et matre tua Eunice, certus sum autem quod et in te.  
 
 ** II Timothy 1:6
 
@@ -70,7 +70,7 @@ sed cum Romam venisset, sollicite me quæsivit, et invenit.
 
 ** II Timothy 1:18
 
-Det illi Dominus invenire misericordiam a Domino in illa die. Et quanta Ephesi ministravit mihi, tu melius nosti.  <chapter eID="2Tim.1"/> <div eID="gen33131" type="x-p"/>
+Det illi Dominus invenire misericordiam a Domino in illa die. Et quanta Ephesi ministravit mihi, tu melius nosti.   
 
 * II Timothy 2
 
@@ -124,7 +124,7 @@ si sustinebimus, et conregnabimus : si negaverimus, et ille negabit nos :
 
 ** II Timothy 2:13
 
-si non credimus, ille fidelis permanet, negare seipsum non potest.  <div eID="gen33132" type="x-p"/>
+si non credimus, ille fidelis permanet, negare seipsum non potest.  
 
 ** II Timothy 2:14
 
@@ -176,7 +176,7 @@ cum modestia corripientem eos qui resistunt veritati, nequando Deus det illis p�
 
 ** II Timothy 2:26
 
-et resipiscant a diaboli laqueis, a quo captivi tenentur ad ipsius voluntatem.  <chapter eID="2Tim.2"/> <div eID="gen33133" type="x-p"/>
+et resipiscant a diaboli laqueis, a quo captivi tenentur ad ipsius voluntatem.   
 
 * II Timothy 3
 
@@ -246,7 +246,7 @@ Omnis Scriptura divinitus inspirata utilis est ad docendum, ad arguendum, ad cor
 
 ** II Timothy 3:17
 
-ut perfectus sit homo Dei, ad omne opus bonum instructus.  <chapter eID="2Tim.3"/> <div eID="gen33134" type="x-p"/>
+ut perfectus sit homo Dei, ad omne opus bonum instructus.   
 
 * II Timothy 4
 
@@ -280,7 +280,7 @@ Bonum certamen certavi, cursum consummavi, fidem servavi.
 
 ** II Timothy 4:8
 
-In reliquo reposita est mihi corona justitiæ, quam reddet mihi Dominus in illa die, justus judex : non solum autem mihi, sed et iis, qui diligunt adventum ejus. <div eID="gen33135" type="x-p"/> <div sID="gen33136" type="x-p"/> Festina ad me venire cito.
+In reliquo reposita est mihi corona justitiæ, quam reddet mihi Dominus in illa die, justus judex : non solum autem mihi, sed et iis, qui diligunt adventum ejus.   Festina ad me venire cito.
 
 ** II Timothy 4:9
 
@@ -336,5 +336,5 @@ Festina ante hiemem venire. Salutant te Eubulus, et Pudens, et Linus, et Claudia
 
 ** II Timothy 4:22
 
-Dominus Jesus Christus cum spiritu tuo. Gratia vobiscum. Amen.  <div eID="gen33136" type="x-p"/> <chapter eID="2Tim.4"/> <div eID="gen33128" osisID="2Tim" type="book"/>
+Dominus Jesus Christus cum spiritu tuo. Gratia vobiscum. Amen.    
 

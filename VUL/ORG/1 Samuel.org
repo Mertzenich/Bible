@@ -30,7 +30,7 @@ sicque faciebat per singulos annos : cum redeunte tempore ascenderent ad templum
 
 ** I Samuel 1:8
 
-Dixit ergo ei Elcana vir suus : Anna, cur fles ? et quare non comedis ? et quam ob rem affligitur cor tuum ? numquid non ego melior tibi sum, quam decem filii ?  <div eID="gen1334" type="x-p"/>
+Dixit ergo ei Elcana vir suus : Anna, cur fles ? et quare non comedis ? et quam ob rem affligitur cor tuum ? numquid non ego melior tibi sum, quam decem filii ?  
 
 ** I Samuel 1:9
 
@@ -42,7 +42,7 @@ cum esset Anna amaro animo, oravit ad Dominum, flens largiter,
 
 ** I Samuel 1:11
 
-et votum vovit, dicens : Domine exercituum, si respiciens videris afflictionem famulæ tuæ, et recordatus mei fueris, nec oblitus ancillæ tuæ, dederisque servæ tuæ sexum virilem : dabo eum Domino omnibus diebus vitæ ejus, et novacula non ascendet super caput ejus.  <div eID="gen1335" type="x-p"/>
+et votum vovit, dicens : Domine exercituum, si respiciens videris afflictionem famulæ tuæ, et recordatus mei fueris, nec oblitus ancillæ tuæ, dederisque servæ tuæ sexum virilem : dabo eum Domino omnibus diebus vitæ ejus, et novacula non ascendet super caput ejus.  
 
 ** I Samuel 1:12
 
@@ -74,7 +74,7 @@ Et illa dixit : Utinam inveniat ancilla tua gratiam in oculis tuis. Et abiit mul
 
 ** I Samuel 1:19
 
-Et surrexerunt mane, et adoraverunt coram Domino : reversique sunt, et venerunt in domum suam Ramatha. <div eID="gen1336" type="x-p"/> <div sID="gen1337" type="x-p"/> Cognovit autem Elcana Annam uxorem suam : et recordatus est ejus Dominus.
+Et surrexerunt mane, et adoraverunt coram Domino : reversique sunt, et venerunt in domum suam Ramatha.   Cognovit autem Elcana Annam uxorem suam : et recordatus est ejus Dominus.
 
 ** I Samuel 1:20
 
@@ -90,7 +90,7 @@ Et Anna non ascendit : dixit enim viro suo : Non vadam donec ablactetur infans, 
 
 ** I Samuel 1:23
 
-Et ait ei Elcana vir suus : Fac quod bonum tibi videtur, et mane donec ablactes eum : precorque ut impleat Dominus verbum suum. Mansit ergo mulier, et lactavit filium suum, donec amoveret eum a lacte.  <div eID="gen1337" type="x-p"/>
+Et ait ei Elcana vir suus : Fac quod bonum tibi videtur, et mane donec ablactes eum : precorque ut impleat Dominus verbum suum. Mansit ergo mulier, et lactavit filium suum, donec amoveret eum a lacte.  
 
 ** I Samuel 1:24
 
@@ -110,53 +110,53 @@ Pro puero isto oravi, et dedit mihi Dominus petitionem meam quam postulavi eum.
 
 ** I Samuel 1:28
 
-Idcirco et ego commodavi eum Domino cunctis diebus quibus fuerit commodatus Domino. Et adoraverunt ibi Dominum. <div eID="gen1338" type="x-p"/> <div sID="gen1339" type="x-p"/> Et oravit Anna, et ait :  <chapter eID="1Sam.1"/>
+Idcirco et ego commodavi eum Domino cunctis diebus quibus fuerit commodatus Domino. Et adoraverunt ibi Dominum.   Et oravit Anna, et ait :  
 
 * I Samuel 2
 
 ** I Samuel 2:1
 
-Exultavit cor meum in Domino, <l eID="gen1341" level="1"/> <l level="1" sID="gen1342"/>et exaltatum est cornu meum in Deo meo ; <l eID="gen1342" level="1"/> <l level="1" sID="gen1343"/>dilatatum est os meum super inimicos meos : <l eID="gen1343" level="1"/> <l level="1" sID="gen1344"/>quia lætata sum in salutari tuo. <l eID="gen1344" level="1"/>
+Exultavit cor meum in Domino,  et exaltatum est cornu meum in Deo meo ;  dilatatum est os meum super inimicos meos :  quia lætata sum in salutari tuo. 
 
 ** I Samuel 2:2
 
-Non est sanctus, ut est Dominus, <l eID="gen1345" level="1"/> <l level="1" sID="gen1346"/>neque enim est alius extra te, <l eID="gen1346" level="1"/> <l level="1" sID="gen1347"/>et non est fortis sicut Deus noster. <l eID="gen1347" level="1"/>
+Non est sanctus, ut est Dominus,  neque enim est alius extra te,  et non est fortis sicut Deus noster. 
 
 ** I Samuel 2:3
 
-Nolite multiplicare loqui sublimia gloriantes ; <l eID="gen1348" level="1"/> <l level="1" sID="gen1349"/>recedant vetera de ore vestro : <l eID="gen1349" level="1"/> <l level="1" sID="gen1350"/>quia Deus scientiarum Dominus est, <l eID="gen1350" level="1"/> <l level="1" sID="gen1351"/>et ipsi præparantur cogitationes. <l eID="gen1351" level="1"/>
+Nolite multiplicare loqui sublimia gloriantes ;  recedant vetera de ore vestro :  quia Deus scientiarum Dominus est,  et ipsi præparantur cogitationes. 
 
 ** I Samuel 2:4
 
-Arcus fortium superatus est, <l eID="gen1352" level="1"/> <l level="1" sID="gen1353"/>et infirmi accincti sunt robore. <l eID="gen1353" level="1"/>
+Arcus fortium superatus est,  et infirmi accincti sunt robore. 
 
 ** I Samuel 2:5
 
-Repleti prius, pro panibus se locaverunt : <l eID="gen1354" level="1"/> <l level="1" sID="gen1355"/>et famelici saturati sunt, <l eID="gen1355" level="1"/> <l level="1" sID="gen1356"/>donec sterilis peperit plurimos : <l eID="gen1356" level="1"/> <l level="1" sID="gen1357"/>et quæ multos habebat filios, infirmata est. <l eID="gen1357" level="1"/>
+Repleti prius, pro panibus se locaverunt :  et famelici saturati sunt,  donec sterilis peperit plurimos :  et quæ multos habebat filios, infirmata est. 
 
 ** I Samuel 2:6
 
-Dominus mortificat et vivificat ; <l eID="gen1358" level="1"/> <l level="1" sID="gen1359"/>deducit ad inferos et reducit. <l eID="gen1359" level="1"/>
+Dominus mortificat et vivificat ;  deducit ad inferos et reducit. 
 
 ** I Samuel 2:7
 
-Dominus pauperem facit et ditat, <l eID="gen1360" level="1"/> <l level="1" sID="gen1361"/>humiliat et sublevat. <l eID="gen1361" level="1"/>
+Dominus pauperem facit et ditat,  humiliat et sublevat. 
 
 ** I Samuel 2:8
 
-Suscitat de pulvere egenum, <l eID="gen1362" level="1"/> <l level="1" sID="gen1363"/>et de stercore elevat pauperem : <l eID="gen1363" level="1"/> <l level="1" sID="gen1364"/>ut sedeat cum principibus, <l eID="gen1364" level="1"/> <l level="1" sID="gen1365"/>et solium gloriæ teneat. <l eID="gen1365" level="1"/> <l level="1" sID="gen1366"/>Domini enim sunt cardines terræ, <l eID="gen1366" level="1"/> <l level="1" sID="gen1367"/>et posuit super eos orbem. <l eID="gen1367" level="1"/>
+Suscitat de pulvere egenum,  et de stercore elevat pauperem :  ut sedeat cum principibus,  et solium gloriæ teneat.  Domini enim sunt cardines terræ,  et posuit super eos orbem. 
 
 ** I Samuel 2:9
 
-Pedes sanctorum suorum servabit, <l eID="gen1368" level="1"/> <l level="1" sID="gen1369"/>et impii in tenebris conticescent : <l eID="gen1369" level="1"/> <l level="1" sID="gen1370"/>quia non in fortitudine sua roborabitur vir. <l eID="gen1370" level="1"/>
+Pedes sanctorum suorum servabit,  et impii in tenebris conticescent :  quia non in fortitudine sua roborabitur vir. 
 
 ** I Samuel 2:10
 
-Dominum formidabunt adversarii ejus : <l eID="gen1371" level="1"/> <l level="1" sID="gen1372"/>et super ipsos in cælis tonabit. <l eID="gen1372" level="1"/> <l level="1" sID="gen1373"/>Dominus judicabit fines terræ, <l eID="gen1373" level="1"/> <l level="1" sID="gen1374"/>et dabit imperium regi suo, <l eID="gen1374" level="1"/> <l level="1" sID="gen1375"/>et sublimabit cornu christi sui.
+Dominum formidabunt adversarii ejus :  et super ipsos in cælis tonabit.  Dominus judicabit fines terræ,  et dabit imperium regi suo,  et sublimabit cornu christi sui.
 
 ** I Samuel 2:11
 
-Et abiit Elcana Ramatha, in domum suam : puer autem erat minister in conspectu Domini ante faciem Heli sacerdotis. <l eID="gen1375" level="1"/> <lg eID="gen1340"/>
+Et abiit Elcana Ramatha, in domum suam : puer autem erat minister in conspectu Domini ante faciem Heli sacerdotis.  
 
 ** I Samuel 2:12
 
@@ -180,7 +180,7 @@ Dicebatque illi immolans : Incendatur primum juxta morem hodie adeps, et tolle t
 
 ** I Samuel 2:17
 
-Erat ergo peccatum puerorum grande nimis coram Domino : quia retrahebant homines a sacrificio Domini.  <div eID="gen1376" type="x-p"/>
+Erat ergo peccatum puerorum grande nimis coram Domino : quia retrahebant homines a sacrificio Domini.  
 
 ** I Samuel 2:18
 
@@ -196,7 +196,7 @@ Et benedixit Heli Elcanæ et uxori ejus : dixitque ei : Reddat tibi Dominus seme
 
 ** I Samuel 2:21
 
-Visitavit ergo Dominus Annam, et concepit, et peperit tres filios, et duas filias : et magnificatus est puer Samuel apud Dominum.  <div eID="gen1377" type="x-p"/>
+Visitavit ergo Dominus Annam, et concepit, et peperit tres filios, et duas filias : et magnificatus est puer Samuel apud Dominum.  
 
 ** I Samuel 2:22
 
@@ -216,7 +216,7 @@ Si peccaverit vir in virum, placari ei potest Deus : si autem in Dominum peccave
 
 ** I Samuel 2:26
 
-Puer autem Samuel proficiebat atque crescebat, et placebat tam Domino quam hominibus.  <div eID="gen1378" type="x-p"/>
+Puer autem Samuel proficiebat atque crescebat, et placebat tam Domino quam hominibus.  
 
 ** I Samuel 2:27
 
@@ -256,7 +256,7 @@ Et suscitabo mihi sacerdotem fidelem, qui juxta cor meum et animam meam faciet :
 
 ** I Samuel 2:36
 
-Futurum est autem, ut quicumque remanserit in domo tua, veniat ut oretur pro eo, et offerat nummum argenteum, et tortam panis, dicatque : Dimitte me, obsecro, ad unam partem sacerdotalem, ut comedam buccellam panis.  <chapter eID="1Sam.2"/> <div eID="gen1379" type="x-p"/>
+Futurum est autem, ut quicumque remanserit in domo tua, veniat ut oretur pro eo, et offerat nummum argenteum, et tortam panis, dicatque : Dimitte me, obsecro, ad unam partem sacerdotalem, ut comedam buccellam panis.   
 
 * I Samuel 3
 
@@ -314,7 +314,7 @@ Prædixi enim ei quod judicaturus essem domum ejus in æternum propter iniquitat
 
 ** I Samuel 3:14
 
-Idcirco juravi domui Heli quod non expietur iniquitas domus ejus victimis et muneribus usque in æternum.  <div eID="gen1380" type="x-p"/>
+Idcirco juravi domui Heli quod non expietur iniquitas domus ejus victimis et muneribus usque in æternum.  
 
 ** I Samuel 3:15
 
@@ -330,7 +330,7 @@ Et interrogavit eum : Quis est sermo, quem locutus est Dominus ad te ? oro te ne
 
 ** I Samuel 3:18
 
-Indicavit itaque ei Samuel universos sermones, et non abscondit ab eo. Et ille respondit : Dominus est : quod bonum est in oculis suis faciat.  <div eID="gen1381" type="x-p"/>
+Indicavit itaque ei Samuel universos sermones, et non abscondit ab eo. Et ille respondit : Dominus est : quod bonum est in oculis suis faciat.  
 
 ** I Samuel 3:19
 
@@ -342,7 +342,7 @@ Et cognovit universus Israël, a Dan usque Bersabee, quod fidelis Samuel prophet
 
 ** I Samuel 3:21
 
-Et addidit Dominus ut appareret in Silo, quoniam revelatus fuerat Dominus Samueli in Silo juxta verbum Domini. Et evenit sermo Samuelis universo Israëli.  <chapter eID="1Sam.3"/> <div eID="gen1382" type="x-p"/>
+Et addidit Dominus ut appareret in Silo, quoniam revelatus fuerat Dominus Samueli in Silo juxta verbum Domini. Et evenit sermo Samuelis universo Israëli.   
 
 * I Samuel 4
 
@@ -388,7 +388,7 @@ Pugnaverunt ergo Philisthiim, et cæsus est Israël, et fugit unusquisque in tab
 
 ** I Samuel 4:11
 
-Et arca Dei capta est : duo quoque filii Heli mortui sunt, Ophni et Phinees.  <div eID="gen1383" type="x-p"/>
+Et arca Dei capta est : duo quoque filii Heli mortui sunt, Ophni et Phinees.  
 
 ** I Samuel 4:12
 
@@ -432,7 +432,7 @@ Et vocabit puerum Ichabod, dicens : Translata est gloria de Israël, quia capta 
 
 ** I Samuel 4:22
 
-et ait : Translata est gloria ab Israël, eo quod capta esset arca Dei.  <chapter eID="1Sam.4"/> <div eID="gen1384" type="x-p"/>
+et ait : Translata est gloria ab Israël, eo quod capta esset arca Dei.   
 
 * I Samuel 5
 
@@ -482,7 +482,7 @@ Miserunt itaque et congregaverunt omnes satrapas Philisthinorum : qui dixerunt :
 
 ** I Samuel 5:12
 
-Fiebat enim pavor mortis in singulis urbibus, et gravissima valde manus Dei. Viri quoque qui mortui non fuerant, percutiebantur in secretiori parte natium : et ascendebat ululatus uniuscujusque civitatis in cælum.  <chapter eID="1Sam.5"/> <div eID="gen1385" type="x-p"/>
+Fiebat enim pavor mortis in singulis urbibus, et gravissima valde manus Dei. Viri quoque qui mortui non fuerant, percutiebantur in secretiori parte natium : et ascendebat ululatus uniuscujusque civitatis in cælum.   
 
 * I Samuel 6
 
@@ -520,7 +520,7 @@ Tolletisque arcam Domini, et ponetis in plaustro, et vasa aurea quæ exsolvistis
 
 ** I Samuel 6:9
 
-Et aspicietis : et si quidem per viam finium suorum ascenderit contra Bethsames, ipse fecit nobis hoc malum grande : sin autem, minime : sciemus quia nequaquam manus ejus tetigit nos, sed casu accidit.  <div eID="gen1386" type="x-p"/>
+Et aspicietis : et si quidem per viam finium suorum ascenderit contra Bethsames, ipse fecit nobis hoc malum grande : sin autem, minime : sciemus quia nequaquam manus ejus tetigit nos, sed casu accidit.  
 
 ** I Samuel 6:10
 
@@ -556,7 +556,7 @@ Hi sunt autem ani aurei quos reddiderunt Philisthiim pro delicto, Domino : Azotu
 
 ** I Samuel 6:18
 
-et mures aureos secundum numerum urbium Philisthiim, quinque provinciarum, ab urbe murata usque ad villam quæ erat absque muro, et usque ad Abelmagnum, super quem posuerunt arcam Domini, quæ erat usque in illum diem in agro Josue Bethsamitis.  <div eID="gen1387" type="x-p"/>
+et mures aureos secundum numerum urbium Philisthiim, quinque provinciarum, ab urbe murata usque ad villam quæ erat absque muro, et usque ad Abelmagnum, super quem posuerunt arcam Domini, quæ erat usque in illum diem in agro Josue Bethsamitis.  
 
 ** I Samuel 6:19
 
@@ -568,13 +568,13 @@ Et dixerunt viri Bethsamitæ : Quis poterit stare in conspectu Domini Dei sancti
 
 ** I Samuel 6:21
 
-Miseruntque nuntios ad habitatores Cariathiarim, dicentes : Reduxerunt Philisthiim arcam Domini : descendite, et reducite eam ad vos.  <chapter eID="1Sam.6"/> <div eID="gen1388" type="x-p"/>
+Miseruntque nuntios ad habitatores Cariathiarim, dicentes : Reduxerunt Philisthiim arcam Domini : descendite, et reducite eam ad vos.   
 
 * I Samuel 7
 
 ** I Samuel 7:1
 
-Venerunt ergo viri Cariathiarim, et reduxerunt arcam Domini, et intulerunt eam in domum Abinadab in Gabaa : Eleazarum autem filium ejus sanctificaverunt, ut custodiret arcam Domini.  <div eID="gen1389" type="x-p"/>
+Venerunt ergo viri Cariathiarim, et reduxerunt arcam Domini, et intulerunt eam in domum Abinadab in Gabaa : Eleazarum autem filium ejus sanctificaverunt, ut custodiret arcam Domini.  
 
 ** I Samuel 7:2
 
@@ -606,7 +606,7 @@ Dixeruntque ad Samuelem : Ne cesses pro nobis clamare ad Dominum Deum nostrum, u
 
 ** I Samuel 7:9
 
-Tulit autem Samuel agnum lactentem unum, et obtulit illum holocaustum integrum Domino : et clamavit Samuel ad Dominum pro Israël, et exaudivit eum Dominus.  <div eID="gen1390" type="x-p"/>
+Tulit autem Samuel agnum lactentem unum, et obtulit illum holocaustum integrum Domino : et clamavit Samuel ad Dominum pro Israël, et exaudivit eum Dominus.  
 
 ** I Samuel 7:10
 
@@ -638,7 +638,7 @@ et ibat per singulos annos circuiens Bethel et Galgala et Masphath, et judicabat
 
 ** I Samuel 7:17
 
-Revertebaturque in Ramatha : ibi enim erat domus ejus, et ibi judicabat Israëlem : ædificavit etiam ibi altare Domino.  <chapter eID="1Sam.7"/> <div eID="gen1391" type="x-p"/>
+Revertebaturque in Ramatha : ibi enim erat domus ejus, et ibi judicabat Israëlem : ædificavit etiam ibi altare Domino.   
 
 * I Samuel 8
 
@@ -676,7 +676,7 @@ Juxta omnia opera sua quæ fecerunt, a die qua eduxi eos de Ægypto usque ad die
 
 ** I Samuel 8:9
 
-Nunc ergo vocem eorum audi : verumtamen contestare eos, et prædic eis jus regis, qui regnaturus est super eos.  <div eID="gen1392" type="x-p"/>
+Nunc ergo vocem eorum audi : verumtamen contestare eos, et prædic eis jus regis, qui regnaturus est super eos.  
 
 ** I Samuel 8:10
 
@@ -728,7 +728,7 @@ Et audivit Samuel omnia verba populi, et locutus est ea in auribus Domini.
 
 ** I Samuel 8:22
 
-Dixit autem Dominus ad Samuelem : Audi vocem eorum, et constitue super eos regem. Et ait Samuel ad viros Israël : Vadat unusquisque in civitatem suam.  <chapter eID="1Sam.8"/> <div eID="gen1393" type="x-p"/>
+Dixit autem Dominus ad Samuelem : Audi vocem eorum, et constitue super eos regem. Et ait Samuel ad viros Israël : Vadat unusquisque in civitatem suam.   
 
 * I Samuel 9
 
@@ -782,7 +782,7 @@ Quæ respondentes, dixerunt illis : Hic est : ecce ante te, festina nunc : hodie
 
 ** I Samuel 9:13
 
-Ingredientes urbem, statim invenietis eum antequam ascendat excelsum ad vescendum, neque enim comesurus est populus donec ille veniat : quia ipse benedicit hostiæ, et deinceps comedunt qui vocati sunt. Nunc ergo conscendite, quia hodie reperietis eum.  <div eID="gen1394" type="x-p"/>
+Ingredientes urbem, statim invenietis eum antequam ascendat excelsum ad vescendum, neque enim comesurus est populus donec ille veniat : quia ipse benedicit hostiæ, et deinceps comedunt qui vocati sunt. Nunc ergo conscendite, quia hodie reperietis eum.  
 
 ** I Samuel 9:14
 
@@ -830,7 +830,7 @@ Levavit autem cocus armum, et posuit ante Saul. Dixitque Samuel : Ecce quod rema
 
 ** I Samuel 9:25
 
-Et descenderunt de excelso in oppidum, et locutus est cum Saule in solario : stravitque Saul in solario, et dormivit.  <div eID="gen1395" type="x-p"/>
+Et descenderunt de excelso in oppidum, et locutus est cum Saule in solario : stravitque Saul in solario, et dormivit.  
 
 ** I Samuel 9:26
 
@@ -838,13 +838,13 @@ Cumque mane surrexissent, et jam elucesceret, vocavit Samuel Saulem in solario, 
 
 ** I Samuel 9:27
 
-Cumque descenderent in extrema parte civitatis, Samuel dixit ad Saul : Dic puero ut antecedat nos et transeat : tu autem subsiste paulisper, ut indicem tibi verbum Domini.  <chapter eID="1Sam.9"/> <div eID="gen1396" type="x-p"/>
+Cumque descenderent in extrema parte civitatis, Samuel dixit ad Saul : Dic puero ut antecedat nos et transeat : tu autem subsiste paulisper, ut indicem tibi verbum Domini.   
 
 * I Samuel 10
 
 ** I Samuel 10:1
 
-Tulit autem Samuel lenticulam olei, et effudit super caput ejus : et deosculatus est eum, et ait : Ecce unxit te Dominus super hæreditatem suam in principem, et liberabis populum suum de manibus inimicorum ejus qui in circuitu ejus sunt. Et hoc tibi signum, quia unxit te Deus in principem.  <div eID="gen1397" type="x-p"/>
+Tulit autem Samuel lenticulam olei, et effudit super caput ejus : et deosculatus est eum, et ait : Ecce unxit te Dominus super hæreditatem suam in principem, et liberabis populum suum de manibus inimicorum ejus qui in circuitu ejus sunt. Et hoc tibi signum, quia unxit te Deus in principem.  
 
 ** I Samuel 10:2
 
@@ -904,7 +904,7 @@ Et dixit ei patruus suus : Indica mihi quid dixerit tibi Samuel.
 
 ** I Samuel 10:16
 
-Et ait Saul ad patruum suum : Indicavit nobis quia inventæ essent asinæ. De sermone autem regni non indicavit ei quem locutus fuerat ei Samuel.  <div eID="gen1398" type="x-p"/>
+Et ait Saul ad patruum suum : Indicavit nobis quia inventæ essent asinæ. De sermone autem regni non indicavit ei quem locutus fuerat ei Samuel.  
 
 ** I Samuel 10:17
 
@@ -948,7 +948,7 @@ Sed et Saul abiit in domum suam in Gabaa : et abiit cum eo pars exercitus, quoru
 
 ** I Samuel 10:27
 
-Filii vero Belial dixerunt : Num salvare nos poterit iste ? Et despexerunt eum, et non attulerunt ei munera : ille vero dissimulabat se audire.  <chapter eID="1Sam.10"/> <div eID="gen1399" type="x-p"/>
+Filii vero Belial dixerunt : Num salvare nos poterit iste ? Et despexerunt eum, et non attulerunt ei munera : ille vero dissimulabat se audire.   
 
 * I Samuel 11
 
@@ -966,7 +966,7 @@ Et dixerunt ad eum seniores Jabes : Concede nobis septem dies, ut mittamus nunti
 
 ** I Samuel 11:4
 
-Venerunt ergo nuntii in Gabaa Saulis : et locuti sunt verba hæc, audiente populo : et levavit omnis populus vocem suam, et flevit.  <div eID="gen1400" type="x-p"/>
+Venerunt ergo nuntii in Gabaa Saulis : et locuti sunt verba hæc, audiente populo : et levavit omnis populus vocem suam, et flevit.  
 
 ** I Samuel 11:5
 
@@ -990,7 +990,7 @@ Et dixerunt nuntiis qui venerant : Sic dicetis viris qui sunt in Jabes Galaad : 
 
 ** I Samuel 11:10
 
-Et dixerunt : Mane exibimus ad vos : et facietis nobis omne quod placuerit vobis.  <div eID="gen1401" type="x-p"/>
+Et dixerunt : Mane exibimus ad vos : et facietis nobis omne quod placuerit vobis.  
 
 ** I Samuel 11:11
 
@@ -1010,7 +1010,7 @@ Dixit autem Samuel ad populum : Venite, et eamus in Galgala, et innovemus ibi re
 
 ** I Samuel 11:15
 
-Et perrexit omnis populus in Galgala, et fecerunt ibi regem Saul coram Domino in Galgala, et immolaverunt ibi victimas pacificas coram Domino. Et lætatus est ibi Saul, et cuncti viri Israël nimis.  <chapter eID="1Sam.11"/> <div eID="gen1402" type="x-p"/>
+Et perrexit omnis populus in Galgala, et fecerunt ibi regem Saul coram Domino in Galgala, et immolaverunt ibi victimas pacificas coram Domino. Et lætatus est ibi Saul, et cuncti viri Israël nimis.   
 
 * I Samuel 12
 
@@ -1032,7 +1032,7 @@ Et dixerunt : Non es calumniatus nos, neque oppressisti, neque tulisti de manu a
 
 ** I Samuel 12:5
 
-Dixitque ad eos : Testis est Dominus adversum vos, et testis christus ejus in die hac, quia non inveneritis in manu mea quippiam. Et dixerunt : Testis.  <div eID="gen1403" type="x-p"/>
+Dixitque ad eos : Testis est Dominus adversum vos, et testis christus ejus in die hac, quia non inveneritis in manu mea quippiam. Et dixerunt : Testis.  
 
 ** I Samuel 12:6
 
@@ -1084,7 +1084,7 @@ Numquid non messis tritici est hodie ? invocabo Dominum, et dabit voces et pluvi
 
 ** I Samuel 12:18
 
-Et clamavit Samuel ad Dominum, et dedit Dominus voces et pluvias in illa die.  <div eID="gen1404" type="x-p"/>
+Et clamavit Samuel ad Dominum, et dedit Dominus voces et pluvias in illa die.  
 
 ** I Samuel 12:19
 
@@ -1112,7 +1112,7 @@ Igitur timete Dominum, et servite ei in veritate, et ex toto corde vestro : vidi
 
 ** I Samuel 12:25
 
-Quod si perseveraveritis in malitia, et vos et rex vester pariter peribitis.  <chapter eID="1Sam.12"/> <div eID="gen1405" type="x-p"/>
+Quod si perseveraveritis in malitia, et vos et rex vester pariter peribitis.   
 
 * I Samuel 13
 
@@ -1142,7 +1142,7 @@ Quod cum vidissent viri Israël se in arcto positos (afflictus enim erat populus
 
 ** I Samuel 13:7
 
-Hebræi autem transierunt Jordanem in terram Gad et Galaad. <div eID="gen1406" type="x-p"/> <div sID="gen1407" type="x-p"/> Cumque adhuc esset Saul in Galgala, universus populus perterritus est qui sequebatur eum.
+Hebræi autem transierunt Jordanem in terram Gad et Galaad.   Cumque adhuc esset Saul in Galgala, universus populus perterritus est qui sequebatur eum.
 
 ** I Samuel 13:8
 
@@ -1170,7 +1170,7 @@ Dixitque Samuel ad Saul : Stulte egisti, nec custodisti mandata Domini Dei tui q
 
 ** I Samuel 13:14
 
-sed nequaquam regnum tuum ultra consurget. Quæsivit Dominus sibi virum juxta cor suum : et præcepit ei Dominus ut esset dux super populum suum, eo quod non servaveris quæ præcepit Dominus.  <div eID="gen1407" type="x-p"/>
+sed nequaquam regnum tuum ultra consurget. Quæsivit Dominus sibi virum juxta cor suum : et præcepit ei Dominus ut esset dux super populum suum, eo quod non servaveris quæ præcepit Dominus.  
 
 ** I Samuel 13:15
 
@@ -1206,7 +1206,7 @@ Cumque venisset dies prælii, non est inventus ensis et lancea in manu totius po
 
 ** I Samuel 13:23
 
-Egressa est autem statio Philisthiim, ut transcenderet in Machmas.  <chapter eID="1Sam.13"/> <div eID="gen1408" type="x-p"/>
+Egressa est autem statio Philisthiim, ut transcenderet in Machmas.   
 
 * I Samuel 14
 
@@ -1284,7 +1284,7 @@ Et ait Saul ad Achiam : Applica arcam Dei. (Erat enim ibi arca Dei in die illa c
 
 ** I Samuel 14:19
 
-Cumque loqueretur Saul ad sacerdotem, tumultus magnus exortus est in castris Philisthinorum : crescebatque paulatim, et clarius resonabat. Et ait Saul ad sacerdotem : Contrahe manum tuam.  <div eID="gen1409" type="x-p"/>
+Cumque loqueretur Saul ad sacerdotem, tumultus magnus exortus est in castris Philisthinorum : crescebatque paulatim, et clarius resonabat. Et ait Saul ad sacerdotem : Contrahe manum tuam.  
 
 ** I Samuel 14:20
 
@@ -1312,7 +1312,7 @@ omneque terræ vulgus venit in saltum, in quo erat mel super faciem agri.
 
 ** I Samuel 14:26
 
-Ingressus est itaque populus saltum, et apparuit fluens mel, nullusque applicuit manum ad os suum : timebat enim populus juramentum.  <div eID="gen1410" type="x-p"/>
+Ingressus est itaque populus saltum, et apparuit fluens mel, nullusque applicuit manum ad os suum : timebat enim populus juramentum.  
 
 ** I Samuel 14:27
 
@@ -1332,7 +1332,7 @@ quanto magis si comedisset populus de præda inimicorum suorum, quam reperit ? n
 
 ** I Samuel 14:31
 
-Percusserunt ergo in die illa Philisthæos a Machmis usque in Ajalon. <div eID="gen1411" type="x-p"/> <div sID="gen1412" type="x-p"/> Defatigatus est autem populus nimis :
+Percusserunt ergo in die illa Philisthæos a Machmis usque in Ajalon.   Defatigatus est autem populus nimis :
 
 ** I Samuel 14:32
 
@@ -1348,7 +1348,7 @@ Et dixit Saul : Dispergimini in vulgus, et dicite eis ut adducat ad me unusquisq
 
 ** I Samuel 14:35
 
-Ædificavit autem Saul altare Domino, tuncque primum cœpit ædificare altare Domino.  <div eID="gen1412" type="x-p"/>
+Ædificavit autem Saul altare Domino, tuncque primum cœpit ædificare altare Domino.  
 
 ** I Samuel 14:36
 
@@ -1368,7 +1368,7 @@ Vivit Dominus salvator Israël, quia si per Jonathan filium meum factum est, abs
 
 ** I Samuel 14:40
 
-Et ait ad universum Israël : Separamini vos in partem unam, et ego cum Jonatha filio meo ero in parte altera. Responditque populus ad Saul : Quod bonum videtur in oculis tuis, fac.  <div eID="gen1413" type="x-p"/>
+Et ait ad universum Israël : Separamini vos in partem unam, et ego cum Jonatha filio meo ero in parte altera. Responditque populus ad Saul : Quod bonum videtur in oculis tuis, fac.  
 
 ** I Samuel 14:41
 
@@ -1392,7 +1392,7 @@ Dixitque populus ad Saul : Ergone Jonathas morietur, qui fecit salutem hanc magn
 
 ** I Samuel 14:46
 
-Recessitque Saul, nec persecutus est Philisthiim : porro Philisthiim abierunt in loca sua.  <div eID="gen1414" type="x-p"/>
+Recessitque Saul, nec persecutus est Philisthiim : porro Philisthiim abierunt in loca sua.  
 
 ** I Samuel 14:47
 
@@ -1416,7 +1416,7 @@ Porro Cis fuit pater Saul, et Ner pater Abner, filius Abiel.
 
 ** I Samuel 14:52
 
-Erat autem bellum potens adversum Philisthæos omnibus diebus Saul. Nam quemcumque viderat Saul virum fortem, et aptum ad prælium, sociabat eum sibi.  <chapter eID="1Sam.14"/> <div eID="gen1415" type="x-p"/>
+Erat autem bellum potens adversum Philisthæos omnibus diebus Saul. Nam quemcumque viderat Saul virum fortem, et aptum ad prælium, sociabat eum sibi.   
 
 * I Samuel 15
 
@@ -1454,7 +1454,7 @@ Et apprehendit Agag regem Amalec vivum : omne autem vulgus interfecit in ore gla
 
 ** I Samuel 15:9
 
-Et pepercit Saul et populus Agag, et optimis gregibus ovium et armentorum, et vestibus et arietibus, et universis quæ pulchra erant, nec voluerunt disperdere ea : quidquid vero vile fuit et reprobum, hoc demoliti sunt.  <div eID="gen1416" type="x-p"/>
+Et pepercit Saul et populus Agag, et optimis gregibus ovium et armentorum, et vestibus et arietibus, et universis quæ pulchra erant, nec voluerunt disperdere ea : quidquid vero vile fuit et reprobum, hoc demoliti sunt.  
 
 ** I Samuel 15:10
 
@@ -1502,7 +1502,7 @@ Et ait Saul ad Samuelem : Immo audivi vocem Domini, et ambulavi in via per quam 
 
 ** I Samuel 15:21
 
-Tulit autem de præda populus oves et boves, primitias eorum quæ cæsa sunt, ut immolet Domino Deo suo in Galgalis.  <div eID="gen1417" type="x-p"/>
+Tulit autem de præda populus oves et boves, primitias eorum quæ cæsa sunt, ut immolet Domino Deo suo in Galgalis.  
 
 ** I Samuel 15:22
 
@@ -1542,7 +1542,7 @@ At ille ait : Peccavi : sed nunc honora me coram senioribus populi mei et coram 
 
 ** I Samuel 15:31
 
-Reversus ergo Samuel secutus est Saulem : et adoravit Saul Dominum.  <div eID="gen1418" type="x-p"/>
+Reversus ergo Samuel secutus est Saulem : et adoravit Saul Dominum.  
 
 ** I Samuel 15:32
 
@@ -1558,7 +1558,7 @@ Abiit autem Samuel in Ramatha : Saul vero ascendit in domum suam in Gabaa.
 
 ** I Samuel 15:35
 
-Et non vidit Samuel ultra Saul usque ad diem mortis suæ : verumtamen lugebat Samuel Saulem, quoniam Dominum pœnitebat quod constituisset eum regem super Israël.  <chapter eID="1Sam.15"/> <div eID="gen1419" type="x-p"/>
+Et non vidit Samuel ultra Saul usque ad diem mortis suæ : verumtamen lugebat Samuel Saulem, quoniam Dominum pœnitebat quod constituisset eum regem super Israël.   
 
 * I Samuel 16
 
@@ -1580,7 +1580,7 @@ Fecit ergo Samuel sicut locutus est ei Dominus. Venitque in Bethlehem, et admira
 
 ** I Samuel 16:5
 
-Et ait : Pacificus : ad immolandum Domino veni : sanctificamini, et venite mecum ut immolem. Sanctificavit ergo Isai et filios ejus, et vocavit eos ad sacrificium.  <div eID="gen1420" type="x-p"/>
+Et ait : Pacificus : ad immolandum Domino veni : sanctificamini, et venite mecum ut immolem. Sanctificavit ergo Isai et filios ejus, et vocavit eos ad sacrificium.  
 
 ** I Samuel 16:6
 
@@ -1612,7 +1612,7 @@ Misit ergo, et adduxit eum. Erat autem rufus, et pulcher aspectu, decoraque faci
 
 ** I Samuel 16:13
 
-Tulit ergo Samuel cornu olei, et unxit eum in medio fratrum ejus : et directus est spiritus Domini a die illa in David, et deinceps. Surgensque Samuel abiit in Ramatha.  <div eID="gen1421" type="x-p"/>
+Tulit ergo Samuel cornu olei, et unxit eum in medio fratrum ejus : et directus est spiritus Domini a die illa in David, et deinceps. Surgensque Samuel abiit in Ramatha.  
 
 ** I Samuel 16:14
 
@@ -1652,7 +1652,7 @@ Misitque Saul ad Isai, dicens : Stet David in conspectu meo : invenit enim grati
 
 ** I Samuel 16:23
 
-Igitur quandocumque spiritus Domini malus arripiebat Saul, David tollebat citharam, et percutiebat manu sua, et refocillabatur Saul, et levius habebat : recedebat enim ab eo spiritus malus.  <chapter eID="1Sam.16"/> <div eID="gen1422" type="x-p"/>
+Igitur quandocumque spiritus Domini malus arripiebat Saul, David tollebat citharam, et percutiebat manu sua, et refocillabatur Saul, et levius habebat : recedebat enim ab eo spiritus malus.   
 
 * I Samuel 17
 
@@ -1698,7 +1698,7 @@ Et aiebat Philisthæus : Ego exprobravi agminibus Israël hodie : date mihi viru
 
 ** I Samuel 17:11
 
-Audiens autem Saul et omnes Israëlitæ sermones Philisthæi hujuscemodi, stupebant, et metuebant nimis.  <div eID="gen1423" type="x-p"/>
+Audiens autem Saul et omnes Israëlitæ sermones Philisthæi hujuscemodi, stupebant, et metuebant nimis.  
 
 ** I Samuel 17:12
 
@@ -1750,7 +1750,7 @@ Cumque adhuc ille loqueretur eis, apparuit vir ille spurius ascendens, Goliath n
 
 ** I Samuel 17:24
 
-Omnes autem Israëlitæ, cum vidissent virum, fugerunt a facie ejus, timentes eum valde.  <div eID="gen1424" type="x-p"/>
+Omnes autem Israëlitæ, cum vidissent virum, fugerunt a facie ejus, timentes eum valde.  
 
 ** I Samuel 17:25
 
@@ -1774,7 +1774,7 @@ Et dixit David : Quid feci ? numquid non verbum est ?
 
 ** I Samuel 17:30
 
-Et declinavit paululum ab eo ad alium : dixitque eumdem sermonem. Et respondit ei populus verbum sicut prius.  <div eID="gen1425" type="x-p"/>
+Et declinavit paululum ab eo ad alium : dixitque eumdem sermonem. Et respondit ei populus verbum sicut prius.  
 
 ** I Samuel 17:31
 
@@ -1810,7 +1810,7 @@ Et induit Saul David vestimentis suis, et imposuit galeam æream super caput eju
 
 ** I Samuel 17:39
 
-Accinctus ergo David gladio ejus super vestem suam, cœpit tentare si armatus posset incedere : non enim habebat consuetudinem. Dixitque David ad Saul : Non possum sic incedere, quia non usum habeo. <div eID="gen1426" type="x-p"/> <div sID="gen1427" type="x-p"/> Et deposuit ea,
+Accinctus ergo David gladio ejus super vestem suam, cœpit tentare si armatus posset incedere : non enim habebat consuetudinem. Dixitque David ad Saul : Non possum sic incedere, quia non usum habeo.   Et deposuit ea,
 
 ** I Samuel 17:40
 
@@ -1870,7 +1870,7 @@ Et revertentes filii Israël postquam persecuti fuerant Philisthæos, invaserunt
 
 ** I Samuel 17:54
 
-Assumens autem David caput Philisthæi, attulit illud in Jerusalem : arma vero ejus posuit in tabernaculo suo.  <div eID="gen1427" type="x-p"/>
+Assumens autem David caput Philisthæi, attulit illud in Jerusalem : arma vero ejus posuit in tabernaculo suo.  
 
 ** I Samuel 17:55
 
@@ -1886,7 +1886,7 @@ Cumque regressus esset David, percusso Philisthæo, tulit eum Abner, et introdux
 
 ** I Samuel 17:58
 
-Et ait ad eum Saul : De qua progenie es, o adolescens ? Dixitque David : Filius servi tui Isai Bethlehemitæ ego sum.  <chapter eID="1Sam.17"/> <div eID="gen1428" type="x-p"/>
+Et ait ad eum Saul : De qua progenie es, o adolescens ? Dixitque David : Filius servi tui Isai Bethlehemitæ ego sum.   
 
 * I Samuel 18
 
@@ -1908,7 +1908,7 @@ Nam expoliavit se Jonathas tunica qua erat indutus, et dedit eam David, et reliq
 
 ** I Samuel 18:5
 
-Egrediebatur quoque David ad omnia quæcumque misisset eum Saul, et prudenter se agebat : posuitque eum Saul super viros belli, et acceptus erat in oculis universi populi, maximeque in conspectu famulorum Saul.  <div eID="gen1429" type="x-p"/>
+Egrediebatur quoque David ad omnia quæcumque misisset eum Saul, et prudenter se agebat : posuitque eum Saul super viros belli, et acceptus erat in oculis universi populi, maximeque in conspectu famulorum Saul.  
 
 ** I Samuel 18:6
 
@@ -1916,7 +1916,7 @@ Porro cum reverteretur percusso Philisthæo David, egressæ sunt mulieres de uni
 
 ** I Samuel 18:7
 
-Et præcinebant mulieres, ludentes, atque dicentes : <div eID="gen1430" type="x-p"/> <lg sID="gen1431"/> <l level="1" sID="gen1432"/>Percussit Saul mille, <l eID="gen1432" level="1"/> <l level="1" sID="gen1433"/>et David decem millia.
+Et præcinebant mulieres, ludentes, atque dicentes :   Percussit Saul mille,  et David decem millia.
 
 ** I Samuel 18:8
 
@@ -1952,7 +1952,7 @@ Vidit itaque Saul quod prudens esset nimis, et cœpit cavere eum.
 
 ** I Samuel 18:16
 
-Omnis autem Israël et Juda diligebat David : ipse enim ingrediebatur et egrediebatur ante eos. <l eID="gen1433" level="1"/> <lg eID="gen1431"/>
+Omnis autem Israël et Juda diligebat David : ipse enim ingrediebatur et egrediebatur ante eos.  
 
 ** I Samuel 18:17
 
@@ -2008,7 +2008,7 @@ Et Saul magis cœpit timere David : factusque est Saul inimicus David cunctis di
 
 ** I Samuel 18:30
 
-Et egressi sunt principes Philisthinorum. A principio autem egressionis eorum, prudentius se gerebat David quam omnes servi Saul, et celebre factum est nomen ejus nimis.  <chapter eID="1Sam.18"/> <div eID="gen1434" type="x-p"/>
+Et egressi sunt principes Philisthinorum. A principio autem egressionis eorum, prudentius se gerebat David quam omnes servi Saul, et celebre factum est nomen ejus nimis.   
 
 * I Samuel 19
 
@@ -2050,7 +2050,7 @@ Et factus est spiritus Domini malus in Saul : sedebat autem in domo sua, et tene
 
 ** I Samuel 19:10
 
-Nisusque est Saul configere David lancea in pariete, et declinavit David a facie Saul : lancea autem casso vulnere perlata est in parietem, et David fugit, et salvatus est nocte illa.  <div eID="gen1435" type="x-p"/>
+Nisusque est Saul configere David lancea in pariete, et declinavit David a facie Saul : lancea autem casso vulnere perlata est in parietem, et David fugit, et salvatus est nocte illa.  
 
 ** I Samuel 19:11
 
@@ -2078,7 +2078,7 @@ Cumque venissent nuntii, inventum est simulacrum super lectum, et pellis capraru
 
 ** I Samuel 19:17
 
-Dixitque Saul ad Michol : Quare sic illusisti mihi, et dimisisti inimicum meum ut fugeret ? Et respondit Michol ad Saul : Quia ipse locutus est mihi : Dimitte me, alioquin interficiam te.  <div eID="gen1436" type="x-p"/>
+Dixitque Saul ad Michol : Quare sic illusisti mihi, et dimisisti inimicum meum ut fugeret ? Et respondit Michol ad Saul : Quia ipse locutus est mihi : Dimitte me, alioquin interficiam te.  
 
 ** I Samuel 19:18
 
@@ -2106,7 +2106,7 @@ Et abiit in Najoth in Ramatha, et factus est etiam super eum spiritus Domini, et
 
 ** I Samuel 19:24
 
-Et expoliavit etiam ipse se vestimentis suis, et prophetavit cum ceteris coram Samuele, et cecidit nudus tota die illa et nocte. Unde et exivit proverbium : Num et Saul inter prophetas ?  <chapter eID="1Sam.19"/> <div eID="gen1437" type="x-p"/>
+Et expoliavit etiam ipse se vestimentis suis, et prophetavit cum ceteris coram Samuele, et cecidit nudus tota die illa et nocte. Unde et exivit proverbium : Num et Saul inter prophetas ?   
 
 * I Samuel 20
 
@@ -2148,7 +2148,7 @@ Et ait Jonathas : Absit hoc a te : neque enim fieri potest, ut si certe cognover
 
 ** I Samuel 20:10
 
-Responditque David ad Jonathan : Quis renuntiabit mihi, si quid forte responderit tibi pater tuus dure de me ?  <div eID="gen1438" type="x-p"/>
+Responditque David ad Jonathan : Quis renuntiabit mihi, si quid forte responderit tibi pater tuus dure de me ?  
 
 ** I Samuel 20:11
 
@@ -2200,7 +2200,7 @@ Si dixero puero : Ecce sagittæ intra te sunt, tolle eas : tu veni ad me, quia p
 
 ** I Samuel 20:23
 
-De verbo autem quod locuti sumus ego et tu, sit Dominus inter me et te usque in sempiternum.  <div eID="gen1439" type="x-p"/>
+De verbo autem quod locuti sumus ego et tu, sit Dominus inter me et te usque in sempiternum.  
 
 ** I Samuel 20:24
 
@@ -2280,7 +2280,7 @@ Dixit ergo Jonathas ad David : Vade in pace : quæcumque juravimus ambo in nomin
 
 ** I Samuel 20:43
 
-Et surrexit David, et abiit : sed et Jonathas ingressus est civitatem.  <chapter eID="1Sam.20"/> <div eID="gen1440" type="x-p"/>
+Et surrexit David, et abiit : sed et Jonathas ingressus est civitatem.   
 
 * I Samuel 21
 
@@ -2318,7 +2318,7 @@ Dixit autem David ad Achimelech : Si habes hic ad manum hastam aut gladium ? qui
 
 ** I Samuel 21:9
 
-Et dixit sacerdos : Ecce hic gladius Goliath Philisthæi, quem percussisti in Valle terebinthi : est involutus pallio post ephod : si istum vis tollere, tolle : neque enim hic est alius absque eo. Et ait David : Non est huic alter similis : da mihi eum.  <div eID="gen1441" type="x-p"/>
+Et dixit sacerdos : Ecce hic gladius Goliath Philisthæi, quem percussisti in Valle terebinthi : est involutus pallio post ephod : si istum vis tollere, tolle : neque enim hic est alius absque eo. Et ait David : Non est huic alter similis : da mihi eum.  
 
 ** I Samuel 21:10
 
@@ -2326,7 +2326,7 @@ Surrexit itaque David, et fugit in die illa a facie Saul : et venit ad Achis reg
 
 ** I Samuel 21:11
 
-Dixeruntque servi Achis ad eum cum vidissent David : Numquid non iste est David rex terræ ? nonne huic cantabant per choros, dicentes : <div eID="gen1442" type="x-p"/> <lg sID="gen1443"/> <l level="1" sID="gen1444"/>Percussit Saul mille, <l eID="gen1444" level="1"/> <l level="1" sID="gen1445"/>et David decem millia ?
+Dixeruntque servi Achis ad eum cum vidissent David : Numquid non iste est David rex terræ ? nonne huic cantabant per choros, dicentes :   Percussit Saul mille,  et David decem millia ?
 
 ** I Samuel 21:12
 
@@ -2342,7 +2342,7 @@ Et ait Achis ad servos suos : Vidistis hominem insanum : quare adduxistis eum ad
 
 ** I Samuel 21:15
 
-an desunt nobis furiosi, quod introduxistis istum, ut fureret me præsente ? hiccine ingredietur domum meam ? <l eID="gen1445" level="1"/><lg eID="gen1443"/> <chapter eID="1Sam.21"/>
+an desunt nobis furiosi, quod introduxistis istum, ut fureret me præsente ? hiccine ingredietur domum meam ?  
 
 * I Samuel 22
 
@@ -2376,7 +2376,7 @@ ait ad servos suos qui assistebant ei : Audite nunc, filii Jemini : numquid omni
 
 ** I Samuel 22:8
 
-quoniam conjurastis omnes adversum me, et non est qui mihi renuntiet, maxime cum et filius meus fœdus inierit cum filio Isai. Non est qui vicem meam doleat ex vobis, nec qui annuntiet mihi : eo quod suscitaverit filius meus servum meum adversum me, insidiantem mihi usque hodie.  <div eID="gen1446" type="x-p"/>
+quoniam conjurastis omnes adversum me, et non est qui mihi renuntiet, maxime cum et filius meus fœdus inierit cum filio Isai. Non est qui vicem meam doleat ex vobis, nec qui annuntiet mihi : eo quod suscitaverit filius meus servum meum adversum me, insidiantem mihi usque hodie.  
 
 ** I Samuel 22:9
 
@@ -2436,7 +2436,7 @@ Et ait David ad Abiathar : Sciebam in die illa quod cum ibi esset Doëg Idumæus
 
 ** I Samuel 22:23
 
-Mane mecum : ne timeas : si quis quæsierit animam meam, quæret et animam tuam, mecumque servaberis.  <chapter eID="1Sam.22"/> <div eID="gen1447" type="x-p"/>
+Mane mecum : ne timeas : si quis quæsierit animam meam, quæret et animam tuam, mecumque servaberis.   
 
 * I Samuel 23
 
@@ -2462,7 +2462,7 @@ Abiit ergo David et viri ejus in Ceilam, et pugnavit adversum Philisthæos : et 
 
 ** I Samuel 23:6
 
-Porro eo tempore quo fugiebat Abiathar filius Achimelech ad David in Ceilam, ephod secum habens descenderat.  <div eID="gen1448" type="x-p"/>
+Porro eo tempore quo fugiebat Abiathar filius Achimelech ad David in Ceilam, ephod secum habens descenderat.  
 
 ** I Samuel 23:7
 
@@ -2510,7 +2510,7 @@ Ne timeas : neque enim inveniet te manus Saul patris mei, et tu regnabis super I
 
 ** I Samuel 23:18
 
-Percussit ergo uterque fœdus coram Domino : mansitque David in silva, Jonathas autem reversus est in domum suam.  <div eID="gen1449" type="x-p"/>
+Percussit ergo uterque fœdus coram Domino : mansitque David in silva, Jonathas autem reversus est in domum suam.  
 
 ** I Samuel 23:19
 
@@ -2530,7 +2530,7 @@ Abite ergo, oro, et diligentius præparate, et curiosius agite, et considerate l
 
 ** I Samuel 23:23
 
-Considerate, et videte omnia latibula ejus in quibus absconditur : et revertimini ad me ad rem certam, ut vadam vobiscum. Quod si etiam in terram se abstruserit, perscrutabor eum in cunctis millibus Juda.  <div eID="gen1450" type="x-p"/>
+Considerate, et videte omnia latibula ejus in quibus absconditur : et revertimini ad me ad rem certam, ut vadam vobiscum. Quod si etiam in terram se abstruserit, perscrutabor eum in cunctis millibus Juda.  
 
 ** I Samuel 23:24
 
@@ -2550,7 +2550,7 @@ Et nuntius venit ad Saul, dicens : Festina, et veni, quoniam infuderunt se Phili
 
 ** I Samuel 23:28
 
-Reversus est ergo Saul desistens persequi David, et perrexit in occursum Philisthinorum : propter hoc vocaverunt locum illum, Petram dividentem.  <chapter eID="1Sam.23"/> <div eID="gen1451" type="x-p"/>
+Reversus est ergo Saul desistens persequi David, et perrexit in occursum Philisthinorum : propter hoc vocaverunt locum illum, Petram dividentem.   
 
 * I Samuel 24
 
@@ -2584,7 +2584,7 @@ Dixitque ad viros suos : Propitius sit mihi Dominus, ne faciam hanc rem domino m
 
 ** I Samuel 24:8
 
-Et confregit David viros suos sermonibus, et non permisit eos ut consurgerent in Saul : porro Saul exsurgens de spelunca, pergebat cœpto itinere.  <div eID="gen1452" type="x-p"/>
+Et confregit David viros suos sermonibus, et non permisit eos ut consurgerent in Saul : porro Saul exsurgens de spelunca, pergebat cœpto itinere.  
 
 ** I Samuel 24:9
 
@@ -2644,7 +2644,7 @@ jura mihi in Domino, ne deleas semen meum post me, neque auferas nomen meum de d
 
 ** I Samuel 24:23
 
-Et juravit David Sauli. Abiit ergo Saul in domum suam : et David et viri ejus ascenderunt ad tutiora loca.  <chapter eID="1Sam.24"/> <div eID="gen1453" type="x-p"/>
+Et juravit David Sauli. Abiit ergo Saul in domum suam : et David et viri ejus ascenderunt ad tutiora loca.   
 
 * I Samuel 25
 
@@ -2690,7 +2690,7 @@ Respondens autem Nabal pueris David, ait : Quis est David ? et quis est filius I
 
 ** I Samuel 25:11
 
-Tollam ergo panes meos, et aquas meas, et carnes pecorum quæ occidi tonsoribus meis, et dabo viris quos nescio unde sint ?  <div eID="gen1454" type="x-p"/>
+Tollam ergo panes meos, et aquas meas, et carnes pecorum quæ occidi tonsoribus meis, et dabo viris quos nescio unde sint ?  
 
 ** I Samuel 25:12
 
@@ -2734,7 +2734,7 @@ Et ait David : Vere frustra servavi omnia quæ hujus erant in deserto, et non pe
 
 ** I Samuel 25:22
 
-Hæc faciat Deus inimicis David, et hæc addat, si reliquero de omnibus quæ ad ipsum pertinent usque mane mingentem ad parietem.  <div eID="gen1455" type="x-p"/>
+Hæc faciat Deus inimicis David, et hæc addat, si reliquero de omnibus quæ ad ipsum pertinent usque mane mingentem ad parietem.  
 
 ** I Samuel 25:23
 
@@ -2786,7 +2786,7 @@ Alioquin vivit Dominus Deus Israël, qui prohibuit me ne malum facerem tibi : ni
 
 ** I Samuel 25:35
 
-Suscepit ergo David de manu ejus omnia quæ attulerat ei, dixitque ei : Vade pacifice in domum tuam : ecce audivi vocem tuam, et honoravi faciem tuam.  <div eID="gen1456" type="x-p"/>
+Suscepit ergo David de manu ejus omnia quæ attulerat ei, dixitque ei : Vade pacifice in domum tuam : ecce audivi vocem tuam, et honoravi faciem tuam.  
 
 ** I Samuel 25:36
 
@@ -2822,7 +2822,7 @@ Sed et Achinoam accepit David de Jezraël : et fuit utraque uxor ejus.
 
 ** I Samuel 25:44
 
-Saul autem dedit Michol filiam suam, uxorem David, Phalti filio Lais, qui erat de Gallim.  <chapter eID="1Sam.25"/> <div eID="gen1457" type="x-p"/>
+Saul autem dedit Michol filiam suam, uxorem David, Phalti filio Lais, qui erat de Gallim.   
 
 * I Samuel 26
 
@@ -2848,7 +2848,7 @@ Et surrexit David clam, et venit ad locum ubi erat Saul : cumque vidisset locum 
 
 ** I Samuel 26:6
 
-ait David ad Achimelech Hethæum, et Abisai filium Sarviæ fratrem Joab, dicens : Quis descendet mecum ad Saul in castra ? Dixitque Abisai : Ego descendam tecum.  <div eID="gen1458" type="x-p"/>
+ait David ad Achimelech Hethæum, et Abisai filium Sarviæ fratrem Joab, dicens : Quis descendet mecum ad Saul in castra ? Dixitque Abisai : Ego descendam tecum.  
 
 ** I Samuel 26:7
 
@@ -2888,7 +2888,7 @@ Et ait David ad Abner : Numquid non vir tu es ? et quis alius similis tui in Isr
 
 ** I Samuel 26:16
 
-Non est bonum hoc, quod fecisti : vivit Dominus, quoniam filii mortis estis vos, qui non custodistis dominum vestrum, christum Domini : nunc ergo vide ubi sit hasta regis, et ubi sit scyphus aquæ qui erat ad caput ejus.  <div eID="gen1459" type="x-p"/>
+Non est bonum hoc, quod fecisti : vivit Dominus, quoniam filii mortis estis vos, qui non custodistis dominum vestrum, christum Domini : nunc ergo vide ubi sit hasta regis, et ubi sit scyphus aquæ qui erat ad caput ejus.  
 
 ** I Samuel 26:17
 
@@ -2924,7 +2924,7 @@ Et sicut magnificata est anima tua hodie in oculis meis, sic magnificetur anima 
 
 ** I Samuel 26:25
 
-Ait ergo Saul ad David : Benedictus tu, fili mi David : et quidem faciens facies, et potens poteris. Abiit autem David in viam suam, et Saul reversus est in locum suum.  <chapter eID="1Sam.26"/> <div eID="gen1460" type="x-p"/>
+Ait ergo Saul ad David : Benedictus tu, fili mi David : et quidem faciens facies, et potens poteris. Abiit autem David in viam suam, et Saul reversus est in locum suum.   
 
 * I Samuel 27
 
@@ -2954,7 +2954,7 @@ Dedit itaque ei Achis in die illa Siceleg : propter quam causam facta est Sicele
 
 ** I Samuel 27:7
 
-Fuit autem numerus dierum quibus habitavit David in regione Philisthinorum, quatuor mensium.  <div eID="gen1461" type="x-p"/>
+Fuit autem numerus dierum quibus habitavit David in regione Philisthinorum, quatuor mensium.  
 
 ** I Samuel 27:8
 
@@ -2974,7 +2974,7 @@ Virum et mulierem non vivificabat David, nec adducebat in Geth, dicens : Ne fort
 
 ** I Samuel 27:12
 
-Credidit ergo Achis David, dicens : Multa mala operatus est contra populum suum Israël : erit igitur mihi servus sempiternus.  <chapter eID="1Sam.27"/> <div eID="gen1462" type="x-p"/>
+Credidit ergo Achis David, dicens : Multa mala operatus est contra populum suum Israël : erit igitur mihi servus sempiternus.   
 
 * I Samuel 28
 
@@ -2996,7 +2996,7 @@ Congregatique sunt Philisthiim, et venerunt, et castrametati sunt in Sunam : con
 
 ** I Samuel 28:5
 
-Et vidit Saul castra Philisthiim, et timuit, et expavit cor ejus nimis.  <div eID="gen1463" type="x-p"/>
+Et vidit Saul castra Philisthiim, et timuit, et expavit cor ejus nimis.  
 
 ** I Samuel 28:6
 
@@ -3076,7 +3076,7 @@ Mulier autem illa habebat vitulum pascualem in domo, et festinavit, et occidit e
 
 ** I Samuel 28:25
 
-et posuit ante Saul et ante servos ejus. Qui cum comedissent, surrexerunt, et ambulaverunt per totam noctem illam.  <chapter eID="1Sam.28"/> <div eID="gen1464" type="x-p"/>
+et posuit ante Saul et ante servos ejus. Qui cum comedissent, surrexerunt, et ambulaverunt per totam noctem illam.   
 
 * I Samuel 29
 
@@ -3098,7 +3098,7 @@ Irati sunt autem adversus eum principes Philisthiim, et dixerunt ei : Revertatur
 
 ** I Samuel 29:5
 
-Nonne iste est David, cui cantabant in choris, dicentes : <div eID="gen1465" type="x-p"/> <lg sID="gen1466"/> <l level="1" sID="gen1467"/>Percussit Saul in millibus suis, <l eID="gen1467" level="1"/> <l level="1" sID="gen1468"/>et David in decem millibus suis ?
+Nonne iste est David, cui cantabant in choris, dicentes :   Percussit Saul in millibus suis,  et David in decem millibus suis ?
 
 ** I Samuel 29:6
 
@@ -3122,7 +3122,7 @@ Igitur consurge mane tu, et servi domini tui qui venerunt tecum : et cum de noct
 
 ** I Samuel 29:11
 
-Surrexit itaque de nocte David, ipse et viri ejus, ut proficiscerentur mane, et reverterentur ad terram Philisthiim : Philisthiim autem ascenderunt in Jezrahel. <l eID="gen1468" level="1"/><lg eID="gen1466"/> <chapter eID="1Sam.29"/>
+Surrexit itaque de nocte David, ipse et viri ejus, ut proficiscerentur mane, et reverterentur ad terram Philisthiim : Philisthiim autem ascenderunt in Jezrahel.  
 
 * I Samuel 30
 
@@ -3148,7 +3148,7 @@ Siquidem et duæ uxores David captivæ ductæ fuerant, Achinoam Jezrahelites, et
 
 ** I Samuel 30:6
 
-Et contristatus est David valde : volebat enim eum populus lapidare, quia amara erat anima uniuscujusque viri super filiis suis et filiabus : confortatus est autem David in Domino Deo suo.  <div eID="gen1469" type="x-p"/>
+Et contristatus est David valde : volebat enim eum populus lapidare, quia amara erat anima uniuscujusque viri super filiis suis et filiabus : confortatus est autem David in Domino Deo suo.  
 
 ** I Samuel 30:7
 
@@ -3204,7 +3204,7 @@ Nec defuit quidquam a parvo usque ad magnum, tam de filiis quam de filiabus, et 
 
 ** I Samuel 30:20
 
-Et tulit universos greges et armenta, et minavit ante faciem suam : dixeruntque : Hæc est præda David.  <div eID="gen1470" type="x-p"/>
+Et tulit universos greges et armenta, et minavit ante faciem suam : dixeruntque : Hæc est præda David.  
 
 ** I Samuel 30:21
 
@@ -3248,7 +3248,7 @@ et qui in Arama, et qui in lacu Asan, et qui in Athach,
 
 ** I Samuel 30:31
 
-et qui in Hebron, et reliquis qui erant in his locis in quibus commoratus fuerat David, ipse et viri ejus.  <chapter eID="1Sam.30"/> <div eID="gen1471" type="x-p"/>
+et qui in Hebron, et reliquis qui erant in his locis in quibus commoratus fuerat David, ipse et viri ejus.   
 
 * I Samuel 31
 
@@ -3302,5 +3302,5 @@ surrexerunt omnes viri fortissimi, et ambulaverunt tota nocte, et tulerunt cadav
 
 ** I Samuel 31:13
 
-et tulerunt ossa eorum, et sepelierunt in nemore Jabes, et jejunaverunt septem diebus.  <div eID="gen1472" type="x-p"/> <chapter eID="1Sam.31"/> <div eID="gen1333" osisID="1Sam" type="book"/>
+et tulerunt ossa eorum, et sepelierunt in nemore Jabes, et jejunaverunt septem diebus.    
 

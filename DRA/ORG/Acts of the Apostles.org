@@ -102,7 +102,7 @@ To take the place of this ministry and apostleship, from which Judas hath by tra
 
 *** Acts 1:26
 
-And they gave them lot, and the lot fell upon Matthias, and he was numbered with the eleven apostles. <chapter eID="gen32858" osisID="Acts.1"/>
+And they gave them lot, and the lot fell upon Matthias, and he was numbered with the eleven apostles. 
 
 ** Acts 2
 
@@ -292,7 +292,7 @@ And continuing daily with one accord in the temple and breaking bread from house
 
 *** Acts 2:47
 
-Praising God and having favour with all the people. And the Lord increased daily together such as should be saved. <chapter eID="gen32885" osisID="Acts.2"/>
+Praising God and having favour with all the people. And the Lord increased daily together such as should be saved. 
 
 ** Acts 3
 
@@ -398,7 +398,7 @@ You are the children of the prophets and of the testament which God made to our 
 
 *** Acts 3:26
 
-To you first, God, raising up his Son, hath sent him to bless you: that every one may convert himself from his wickedness. <chapter eID="gen32933" osisID="Acts.3"/>
+To you first, God, raising up his Son, hath sent him to bless you: that every one may convert himself from his wickedness. 
 
 ** Acts 4
 
@@ -548,7 +548,7 @@ And Joseph, who, by the apostles, was surnamed Barnabas (which is, by interpreta
 
 *** Acts 4:37
 
-Having land, sold it and brought the price and laid it at the feet of the Apostles. <chapter eID="gen32960" osisID="Acts.4"/>
+Having land, sold it and brought the price and laid it at the feet of the Apostles. 
 
 ** Acts 5
 
@@ -718,7 +718,7 @@ And they indeed went from the presence of the council, rejoicing that they were 
 
 *** Acts 5:42
 
-And every day they ceased not, in the temple and from house to house, to teach and preach Christ Jesus. <chapter eID="gen32998" osisID="Acts.5"/>
+And every day they ceased not, in the temple and from house to house, to teach and preach Christ Jesus. 
 
 ** Acts 6
 
@@ -780,7 +780,7 @@ For we have heard him say that this Jesus of Nazareth shall destroy this place a
 
 *** Acts 6:15
 
-And all that sat in the council, looking on him, saw his face as if it had been the face of an angel. <chapter eID="gen33041" osisID="Acts.6"/>
+And all that sat in the council, looking on him, saw his face as if it had been the face of an angel. 
 
 ** Acts 7
 
@@ -1018,7 +1018,7 @@ And they stoned Stephen, invoking and saying: Lord Jesus, receive my spirit.
 
 *** Acts 7:59
 
-And falling on his knees, he cried with a loud voice, saying: Lord, lay not his sin to their charge: And when he had said this, he fell asleep in the Lord. And Saul was consenting to his death. <chapter eID="gen33057" osisID="Acts.7"/>
+And falling on his knees, he cried with a loud voice, saying: Lord, lay not his sin to their charge: And when he had said this, he fell asleep in the Lord. And Saul was consenting to his death. 
 
 ** Acts 8
 
@@ -1180,7 +1180,7 @@ And when they were come up out of the water, the Spirit of the Lord took away Ph
 
 *** Acts 8:40
 
-But Philip was found in Azotus: and passing through, he preached the gospel to all the cities, till he came to Caesarea. <chapter eID="gen33117" osisID="Acts.8"/>
+But Philip was found in Azotus: and passing through, he preached the gospel to all the cities, till he came to Caesarea. 
 
 ** Acts 9
 
@@ -1354,7 +1354,7 @@ And it was made known throughout all Joppe. And many believed in the Lord.
 
 *** Acts 9:43
 
-And it cane to pass that he abode many days in Joppe, with one Simon a tanner. <chapter eID="gen33158" osisID="Acts.9"/>
+And it cane to pass that he abode many days in Joppe, with one Simon a tanner. 
 
 ** Acts 10
 
@@ -1548,7 +1548,7 @@ Then Peter answered: Can any man forbid water, that these should not be baptized
 
 *** Acts 10:48
 
-And he commanded them to be baptized in the name of the Lord Jesus Christ. Then they desired him to tarry with them some days. <chapter eID="gen33202" osisID="Acts.10"/>
+And he commanded them to be baptized in the name of the Lord Jesus Christ. Then they desired him to tarry with them some days. 
 
 ** Acts 11
 
@@ -1670,7 +1670,7 @@ And the disciples, every man according to his ability, purposed to send relief t
 
 *** Acts 11:30
 
-Which also they did, sending it to the ancients, by the hands of Barnabas and Saul. <chapter eID="gen33251" osisID="Acts.11"/>
+Which also they did, sending it to the ancients, by the hands of Barnabas and Saul. 
 
 ** Acts 12
 
@@ -1772,7 +1772,7 @@ But the word of the Lord increased and multiplied.
 
 *** Acts 12:25
 
-And Barnabas and Saul, returned from Jerusalem, having fulfilled their ministry, taking with them John who was surnamed Mark. <chapter eID="gen33282" osisID="Acts.12"/>
+And Barnabas and Saul, returned from Jerusalem, having fulfilled their ministry, taking with them John who was surnamed Mark. 
 
 ** Acts 13
 
@@ -1982,7 +1982,7 @@ But they, shaking off the dust of their feet against them, came to Iconium.
 
 *** Acts 13:52
 
-And the disciples were filled with joy and with the Holy Ghost. <chapter eID="gen33308" osisID="Acts.13"/>
+And the disciples were filled with joy and with the Holy Ghost. 
 
 ** Acts 14
 
@@ -2092,7 +2092,7 @@ And when they were come and had assembled the church, they related what great th
 
 *** Acts 14:27
 
-And they abode no small time with the disciples. <chapter eID="gen33361" osisID="Acts.14"/>
+And they abode no small time with the disciples. 
 
 ** Acts 15
 
@@ -2258,7 +2258,7 @@ But Paul, choosing Silas, departed, being delivered by the brethren to the grace
 
 *** Acts 15:41
 
-And he went through Syria and Cilicia, confirming the churches, commanding them to keep the precepts of the apostles and the ancients. <chapter eID="gen33389" osisID="Acts.15"/>
+And he went through Syria and Cilicia, confirming the churches, commanding them to keep the precepts of the apostles and the ancients. 
 
 ** Acts 16
 
@@ -2420,7 +2420,7 @@ And coming, they besought them: and bringing them out, they desired them to depa
 
 *** Acts 16:40
 
-And they went out of the prison and entered into the house of Lydia: and having seen the brethren, they comforted them and departed. <chapter eID="gen33431" osisID="Acts.16"/>
+And they went out of the prison and entered into the house of Lydia: and having seen the brethren, they comforted them and departed. 
 
 ** Acts 17
 
@@ -2558,7 +2558,7 @@ So Paul went out from among them.
 
 *** Acts 17:34
 
-But certain men, adhering to him, did believe: among whom was also Dionysius the Areopagite and a woman named Damaris and others with them. <chapter eID="gen33472" osisID="Acts.17"/>
+But certain men, adhering to him, did believe: among whom was also Dionysius the Areopagite and a woman named Damaris and others with them. 
 
 ** Acts 18
 
@@ -2672,7 +2672,7 @@ And whereas he was desirous to go to Achaia, the brethren exhorting wrote to the
 
 *** Acts 18:28
 
-For with much vigour he convinced the Jews openly, shewing by the scriptures that Jesus is the Christ. <chapter eID="gen33507" osisID="Acts.18"/>
+For with much vigour he convinced the Jews openly, shewing by the scriptures that Jesus is the Christ. 
 
 ** Acts 19
 
@@ -2834,7 +2834,7 @@ And if you inquire after any other matter, it may be decided in a lawful assembl
 
 *** Acts 19:40
 
-For we are even in danger to be called in question for this day's uproar, there being no man guilty (of whom we may give account) of this concourse. And when he had said these things, he dismissed the assembly. <chapter eID="gen33536" osisID="Acts.19"/>
+For we are even in danger to be called in question for this day's uproar, there being no man guilty (of whom we may give account) of this concourse. And when he had said these things, he dismissed the assembly. 
 
 ** Acts 20
 
@@ -2988,7 +2988,7 @@ And there was much weeping among them all. And falling on the neck of Paul, they
 
 *** Acts 20:38
 
-Being grieved most of all for the word which he had said, that they should see his face no more. And they brought him on his way to the ship. <chapter eID="gen33577" osisID="Acts.20"/>
+Being grieved most of all for the word which he had said, that they should see his face no more. And they brought him on his way to the ship. 
 
 ** Acts 21
 
@@ -3150,7 +3150,7 @@ But Paul said to him: I am a Jew of Tarsus in Cilicia, a citizen of no mean city
 
 *** Acts 21:40
 
-And when he had given him leave, Paul standing on the stairs, beckoned with his hand to the people. And a great silence being made, he spoke unto them in the Hebrew tongue, saying: <chapter eID="gen33616" osisID="Acts.21"/>
+And when he had given him leave, Paul standing on the stairs, beckoned with his hand to the people. And a great silence being made, he spoke unto them in the Hebrew tongue, saying: 
 
 ** Acts 22
 
@@ -3272,7 +3272,7 @@ Immediately therefore they departed from him that were about to torture him. The
 
 *** Acts 22:30
 
-But on the next day, meaning to know more diligently for what cause he was accused by the Jews, he loosed him and commanded the priests to come together and all the council: and, bringing forth Paul, he set him before them. <chapter eID="gen33657" osisID="Acts.22"/>
+But on the next day, meaning to know more diligently for what cause he was accused by the Jews, he loosed him and commanded the priests to come together and all the council: and, bringing forth Paul, he set him before them. 
 
 ** Acts 23
 
@@ -3414,7 +3414,7 @@ And when he had read it and had asked of what province he was and understood tha
 
 *** Acts 23:35
 
-I will hear thee, said he, when thy accusers come. And he commanded him to be kept in Herod's judgment hall. <chapter eID="gen33688" osisID="Acts.23"/>
+I will hear thee, said he, when thy accusers come. And he commanded him to be kept in Herod's judgment hall. 
 
 ** Acts 24
 
@@ -3524,7 +3524,7 @@ Hoping also withal that money should be given him by Paul: for which cause also 
 
 *** Acts 24:27
 
-But when two years were ended, Felix had for successor Portius Festus. And Felix being willing to shew the Jews a pleasure, left Paul bound. <chapter eID="gen33724" osisID="Acts.24"/>
+But when two years were ended, Felix had for successor Portius Festus. And Felix being willing to shew the Jews a pleasure, left Paul bound. 
 
 ** Acts 25
 
@@ -3634,7 +3634,7 @@ Of whom I have nothing certain to write to my lord. For which cause, I have brou
 
 *** Acts 25:27
 
-For it seemeth to me unreasonable to send a prisoner and not to signify the things laid to his charge. <chapter eID="gen33752" osisID="Acts.25"/>
+For it seemeth to me unreasonable to send a prisoner and not to signify the things laid to his charge. 
 
 ** Acts 26
 
@@ -3764,7 +3764,7 @@ And when they were gone aside, they spoke among themselves, saying: This man hat
 
 *** Acts 26:32
 
-And Agrippa said to Festus: This man might have been set at liberty, if he had not appealed to Caesar. <chapter eID="gen33780" osisID="Acts.26"/>
+And Agrippa said to Festus: This man might have been set at liberty, if he had not appealed to Caesar. 
 
 ** Acts 27
 
@@ -3942,7 +3942,7 @@ But the centurion, willing to save Paul, forbade it to be done. And he commanded
 
 *** Acts 27:44
 
-And the rest, some they carried on boards and some on those things that belonged to the ship. And so it came to pass that every soul got safe to land. <chapter eID="gen33813" osisID="Acts.27"/>
+And the rest, some they carried on boards and some on those things that belonged to the ship. And so it came to pass that every soul got safe to land. 
 
 ** Acts 28
 
@@ -4068,4 +4068,4 @@ And he remained two whole years in his own hired lodging: and he received all th
 
 *** Acts 28:31
 
-Preaching the kingdom of God and teaching the things which concern the Lord Jesus Christ, with all confidence, without prohibition. <chapter eID="gen33858" osisID="Acts.28"/> <div eID="gen32857" osisID="Acts" type="book"/>
+Preaching the kingdom of God and teaching the things which concern the Lord Jesus Christ, with all confidence, without prohibition.  

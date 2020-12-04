@@ -142,7 +142,7 @@ And when he had proved it, he gave the priests many goods, and divers presents, 
 
 *** II Maccabees 1:36
 
-And Nehemias called this place Nephthar, which is interpreted purification. But many call it Nephi. <chapter eID="gen28414" osisID="2Macc.1"/>
+And Nehemias called this place Nephthar, which is interpreted purification. But many call it Nephi. 
 
 ** II Maccabees 2
 
@@ -276,7 +276,7 @@ But to pursue brevity of speech, and to avoid nice declarations of things, is to
 
 *** II Maccabees 2:33
 
-Here then we will begin the narration: let this be enough by way of a preface: for it is a foolish thing to make a long prologue, and to be short in the story itself. <chapter eID="gen28451" osisID="2Macc.2"/>
+Here then we will begin the narration: let this be enough by way of a preface: for it is a foolish thing to make a long prologue, and to be short in the story itself. 
 
 ** II Maccabees 3
 
@@ -438,7 +438,7 @@ For he that hath his dwelling in the heavens, is the visitor and protector of th
 
 *** II Maccabees 3:40
 
-And the things concerning Heliodorus, and the keeping of the treasury, fell out in this manner. <chapter eID="gen28485" osisID="2Macc.3"/>
+And the things concerning Heliodorus, and the keeping of the treasury, fell out in this manner. 
 
 ** II Maccabees 4
 
@@ -640,7 +640,7 @@ Wherefore even the Tyrians, being moved with indignation, were very liberal towa
 
 *** II Maccabees 4:50
 
-And so through the covetousness of them that were in power, Menelaus continued in authority, increasing in malice to the betraying of the citizens. <chapter eID="gen28526" osisID="2Macc.4"/>
+And so through the covetousness of them that were in power, Menelaus continued in authority, increasing in malice to the betraying of the citizens. 
 
 ** II Maccabees 5
 
@@ -750,7 +750,7 @@ And he slew all that were come forth to flee: and running through the city with 
 
 *** II Maccabees 5:27
 
-But Judas Machabeus, who was the tenth, had withdrawn himself into a desert place, and there lived amongst wild beasts in the mountains with his company: and they continued feeding on herbs, that they might not be partakers of the pollution. <chapter eID="gen28577" osisID="2Macc.5"/>
+But Judas Machabeus, who was the tenth, had withdrawn himself into a desert place, and there lived amongst wild beasts in the mountains with his company: and they continued feeding on herbs, that they might not be partakers of the pollution. 
 
 ** II Maccabees 6
 
@@ -876,7 +876,7 @@ But when be was now ready to die with the stripes, he groaned: and said: O Lord,
 
 *** II Maccabees 6:31
 
-Thus did this man die, leaving not only to young men, but also to the whole nation, the memory of his death, for an example of virtue and fortitude. <chapter eID="gen28605" osisID="2Macc.6"/>
+Thus did this man die, leaving not only to young men, but also to the whole nation, the memory of his death, for an example of virtue and fortitude. 
 
 ** II Maccabees 7
 
@@ -1046,7 +1046,7 @@ And last of all, after the sons, the mother also was consumed.
 
 *** II Maccabees 7:42
 
-But now there is enough said of the sacrifices and of the excessive cruelties. <chapter eID="gen28637" osisID="2Macc.7"/>
+But now there is enough said of the sacrifices and of the excessive cruelties. 
 
 ** II Maccabees 8
 
@@ -1192,7 +1192,7 @@ Being, through the help of the Lord, brought down by them, of whom he had made n
 
 *** II Maccabees 8:36
 
-And he that had promised to levy the tribute for the Romans, by the means of the captives of Jerusalem, now professed that the Jews had God for their protector, and therefore they could not be hurt, because they followed the laws appointed by him. <chapter eID="gen28680" osisID="2Macc.8"/>
+And he that had promised to levy the tribute for the Romans, by the means of the captives of Jerusalem, now professed that the Jews had God for their protector, and therefore they could not be hurt, because they followed the laws appointed by him. 
 
 ** II Maccabees 9
 
@@ -1310,7 +1310,7 @@ Thus the murderer and blasphemer being grievously struck, as himself had treated
 
 *** II Maccabees 9:29
 
-But Philip, that was brought up with him, carried away his body: and out of fear of the son of Antiochus, went into Egypt to Ptolemee Philometor. <chapter eID="gen28717" osisID="2Macc.9"/>
+But Philip, that was brought up with him, carried away his body: and out of fear of the son of Antiochus, went into Egypt to Ptolemee Philometor. 
 
 ** II Maccabees 10
 
@@ -1464,7 +1464,7 @@ And having for two days together pillaged and sacked the fortress, they killed T
 
 *** II Maccabees 10:38
 
-And when this was done, they blessed the Lord with hymns and thanksgiving, who had done great things in Israel, and given them the victory. <chapter eID="gen28747" osisID="2Macc.10"/>
+And when this was done, they blessed the Lord with hymns and thanksgiving, who had done great things in Israel, and given them the victory. 
 
 ** II Maccabees 11
 
@@ -1618,7 +1618,7 @@ And therefore make haste to write back, that we may know of what mind you are.
 
 *** II Maccabees 11:38
 
-Fare ye well. In the year one hundred and forty-eight, the fifteenth day of the month of Xanthicus. <chapter eID="gen28786" osisID="2Macc.11"/>
+Fare ye well. In the year one hundred and forty-eight, the fifteenth day of the month of Xanthicus. 
 
 ** II Maccabees 12
 
@@ -1804,7 +1804,7 @@ And because he considered that they who had fallen asleep with godliness, had gr
 
 *** II Maccabees 12:46
 
-It is therefore a holy and wholesome thought to pray for the dead, that they may be loosed from sins. <chapter eID="gen28825" osisID="2Macc.12"/>
+It is therefore a holy and wholesome thought to pray for the dead, that they may be loosed from sins. 
 
 ** II Maccabees 13
 
@@ -1910,7 +1910,7 @@ But when he was come to Ptolemais, the men of that city were much displeased wit
 
 *** II Maccabees 13:26
 
-Then Lysias went up to the judgment seat, and set forth the reason, and appeased the people, and returned to Antioch: and thus matters went with regard to the king's coming and his return. <chapter eID="gen28872" osisID="2Macc.13"/>
+Then Lysias went up to the judgment seat, and set forth the reason, and appeased the people, and returned to Antioch: and thus matters went with regard to the king's coming and his return. 
 
 ** II Maccabees 14
 
@@ -2096,7 +2096,7 @@ And as he had yet breath in him, being inflamed in mind, he arose: and while his
 
 *** II Maccabees 14:46
 
-And standing upon a steep rock, when he was now almost without blood, grasping his bowels, with both hands he cast them upon the throng, calling upon the Lord of life and spirit, to restore these to him again: and so he departed this life. <chapter eID="gen28899" osisID="2Macc.14"/>
+And standing upon a steep rock, when he was now almost without blood, grasping his bowels, with both hands he cast them upon the throng, calling upon the Lord of life and spirit, to restore these to him again: and so he departed this life. 
 
 ** II Maccabees 15
 
@@ -2258,4 +2258,4 @@ Which if I have done well, and as it becometh the history, it is what I desired:
 
 *** II Maccabees 15:40
 
-For as it is hurtful to drink always wine, or always water, but pleasant to use sometimes the one, and sometimes the other: so if the speech be always nicely framed, it will not be grateful to the readers. But here it shall be ended. <chapter eID="gen28946" osisID="2Macc.15"/> <div eID="gen28413" osisID="2Macc" type="book"/>
+For as it is hurtful to drink always wine, or always water, but pleasant to use sometimes the one, and sometimes the other: so if the speech be always nicely framed, it will not be grateful to the readers. But here it shall be ended.  

@@ -90,7 +90,7 @@ Who also hath sealed us and given the pledge of the Spirit in our hearts.
 
 *** II Corinthians 1:23
 
-But I call God to witness upon my soul that to spare you, I came not any more to Corinth: not because we exercise dominion over your faith: but we are helpers of your joy. For in faith you stand. <chapter eID="gen34795" osisID="2Cor.1"/>
+But I call God to witness upon my soul that to spare you, I came not any more to Corinth: not because we exercise dominion over your faith: but we are helpers of your joy. For in faith you stand. 
 
 *** II Corinthians 1:24
 
@@ -164,7 +164,7 @@ To the one indeed the odour of death unto death: but to the others the odour of 
 
 *** II Corinthians 2:17
 
-For we are not as many, adulterating the word of God: but with sincerity: but as from God, before God, in Christ we speak. <chapter eID="gen34819" osisID="2Cor.2"/>
+For we are not as many, adulterating the word of God: but with sincerity: but as from God, before God, in Christ we speak. 
 
 ** II Corinthians 3
 
@@ -238,7 +238,7 @@ Now the Lord is a Spirit. And where the Spirit of the Lord is, there is liberty.
 
 *** II Corinthians 3:18
 
-But we all, beholding the glory of the Lord with open face, are transformed into the same image from glory to glory, as by the Spirit of the Lord. <chapter eID="gen34837" osisID="2Cor.3"/>
+But we all, beholding the glory of the Lord with open face, are transformed into the same image from glory to glory, as by the Spirit of the Lord. 
 
 ** II Corinthians 4
 
@@ -312,7 +312,7 @@ For that which is at present momentary and light of our tribulation worketh for 
 
 *** II Corinthians 4:18
 
-While we look not at the things which are seen, but at the things which are not seen. For the things which are seen are temporal: but the things which are not seen, are eternal. <chapter eID="gen34856" osisID="2Cor.4"/>
+While we look not at the things which are seen, but at the things which are not seen. For the things which are seen are temporal: but the things which are not seen, are eternal. 
 
 ** II Corinthians 5
 
@@ -398,7 +398,7 @@ For Christ therefore we are ambassadors, God as it were exhorting by us, for Chr
 
 *** II Corinthians 5:21
 
-Him, who knew no sin, he hath made sin for us: that we might be made the justice of God in him. <chapter eID="gen34875" osisID="2Cor.5"/>
+Him, who knew no sin, he hath made sin for us: that we might be made the justice of God in him. 
 
 ** II Corinthians 6
 
@@ -472,7 +472,7 @@ Wherefore: Go out from among them and be ye separate, saith the Lord, and touch 
 
 *** II Corinthians 6:18
 
-And I will receive you. And will be a Father to you: and you shall be my sons and daughters, saith the Lord Almighty. <chapter eID="gen34897" osisID="2Cor.6"/>
+And I will receive you. And will be a Father to you: and you shall be my sons and daughters, saith the Lord Almighty. 
 
 ** II Corinthians 7
 
@@ -538,7 +538,7 @@ And his bowels are more abundantly towards you: remembering the obedience of you
 
 *** II Corinthians 7:16
 
-I rejoice that in all things I have confidence in you. <chapter eID="gen34916" osisID="2Cor.7"/>
+I rejoice that in all things I have confidence in you. 
 
 ** II Corinthians 8
 
@@ -636,7 +636,7 @@ Either for Titus, who is my companion and fellow labourer towards you, or our br
 
 *** II Corinthians 8:24
 
-Wherefore shew ye to them, in the sight of the churches, the evidence of your charity and of our boasting on your behalf. <chapter eID="gen34933" osisID="2Cor.8"/>
+Wherefore shew ye to them, in the sight of the churches, the evidence of your charity and of our boasting on your behalf. 
 
 ** II Corinthians 9
 
@@ -698,7 +698,7 @@ And in their praying for you, being desirous of you, because of the excellent gr
 
 *** II Corinthians 9:15
 
-Thanks be to God for his unspeakable gift. <chapter eID="gen34958" osisID="2Cor.9"/>
+Thanks be to God for his unspeakable gift. 
 
 ** II Corinthians 10
 
@@ -772,7 +772,7 @@ But he that glorieth, let him glory in the Lord.
 
 *** II Corinthians 10:18
 
-For not he who commendeth himself is approved: but he, whom God commendeth. <chapter eID="gen34974" osisID="2Cor.10"/>
+For not he who commendeth himself is approved: but he, whom God commendeth. 
 
 ** II Corinthians 11
 
@@ -906,7 +906,7 @@ At Damascus, the governor of the nation under Aretas the king, guarded the city 
 
 *** II Corinthians 11:33
 
-And through a window in a basket was I let down by the wall: and so escaped his hands. <chapter eID="gen34993" osisID="2Cor.11"/>
+And through a window in a basket was I let down by the wall: and so escaped his hands. 
 
 ** II Corinthians 12
 
@@ -992,7 +992,7 @@ For I fear lest perhaps, when I come, I shall not find you such as I would, and 
 
 *** II Corinthians 12:21
 
-Lest again, when I come, God humble me among you: and I mourn many of them that sinned before and have not done penance for the uncleanness and fornication and lasciviousness that they have committed. <chapter eID="gen35027" osisID="2Cor.12"/>
+Lest again, when I come, God humble me among you: and I mourn many of them that sinned before and have not done penance for the uncleanness and fornication and lasciviousness that they have committed. 
 
 ** II Corinthians 13
 
@@ -1046,4 +1046,4 @@ Salute one another with a holy kiss. All the saints salute you.
 
 *** II Corinthians 13:13
 
-The grace of our Lord Jesus Christ and the charity of God and the communication of the Holy Ghost be with you all. Amen. <chapter eID="gen35049" osisID="2Cor.13"/> <div eID="gen34794" osisID="2Cor" type="book"/>
+The grace of our Lord Jesus Christ and the charity of God and the communication of the Holy Ghost be with you all. Amen.  

@@ -82,7 +82,7 @@ Et omne verbum sapientiæ et intellectus, quod sciscitatus est ab eis rex, inven
 
 ** Daniel 1:21
 
-Fuit autem Daniel usque ad annum primum Cyri regis.  <chapter eID="Dan.1"/> <div eID="gen28950" type="x-p"/>
+Fuit autem Daniel usque ad annum primum Cyri regis.   
 
 * Daniel 2
 
@@ -156,7 +156,7 @@ Et ingressus est domum suam, Ananiæque et Misaëli et Azariæ, sociis suis, ind
 
 ** Daniel 2:18
 
-ut quærerent misericordiam a facie Dei cæli super sacramento isto, et non perirent Daniel et socii ejus cum ceteris sapientibus Babylonis.  <div eID="gen28951" type="x-p"/>
+ut quærerent misericordiam a facie Dei cæli super sacramento isto, et non perirent Daniel et socii ejus cum ceteris sapientibus Babylonis.  
 
 ** Daniel 2:19
 
@@ -180,7 +180,7 @@ Tibi, Deus patrum nostrorum, confiteor, teque laudo, quia sapientiam et fortitud
 
 ** Daniel 2:24
 
-Post hæc Daniel ingressus ad Arioch, quem constituerat rex ut perderet sapientes Babylonis, sic ei locutus est : Sapientes Babylonis ne perdas : introduc me in conspectu regis, et solutionem regi narrabo.  <div eID="gen28952" type="x-p"/>
+Post hæc Daniel ingressus ad Arioch, quem constituerat rex ut perderet sapientes Babylonis, sic ei locutus est : Sapientes Babylonis ne perdas : introduc me in conspectu regis, et solutionem regi narrabo.  
 
 ** Daniel 2:25
 
@@ -228,7 +228,7 @@ Tunc contrita sunt pariter ferrum, testa, æs, argentum, et aurum, et redacta qu
 
 ** Daniel 2:36
 
-Hoc est somnium : interpretationem quoque ejus dicemus coram te, rex.  <div eID="gen28953" type="x-p"/>
+Hoc est somnium : interpretationem quoque ejus dicemus coram te, rex.  
 
 ** Daniel 2:37
 
@@ -264,7 +264,7 @@ In diebus autem regnorum illorum suscitabit Deus cæli regnum, quod in æternum 
 
 ** Daniel 2:45
 
-Secundum quod vidisti, quod de monte abscissus est lapis sine manibus, et comminuit testam, et ferrum, et æs, et argentum, et aurum, Deus magnus ostendit regi quæ ventura sunt postea : et verum est somnium, et fidelis interpretatio ejus.  <div eID="gen28954" type="x-p"/>
+Secundum quod vidisti, quod de monte abscissus est lapis sine manibus, et comminuit testam, et ferrum, et æs, et argentum, et aurum, Deus magnus ostendit regi quæ ventura sunt postea : et verum est somnium, et fidelis interpretatio ejus.  
 
 ** Daniel 2:46
 
@@ -280,7 +280,7 @@ Tunc rex Danielem in sublime extulit, et munera multa et magna dedit ei : et con
 
 ** Daniel 2:49
 
-Daniel autem postulavit a rege, et constituit super opera provinciæ Babylonis Sidrach, Misach, et Abdenago : ipse autem Daniel erat in foribus regis.  <chapter eID="Dan.2"/> <div eID="gen28955" type="x-p"/>
+Daniel autem postulavit a rege, et constituit super opera provinciæ Babylonis Sidrach, Misach, et Abdenago : ipse autem Daniel erat in foribus regis.   
 
 * Daniel 3
 
@@ -310,7 +310,7 @@ Si quis autem non prostratus adoraverit, eadem hora mittetur in fornacem ignis a
 
 ** Daniel 3:7
 
-Post hæc igitur, statim ut audierunt omnes populi sonitum tubæ, fistulæ, et citharæ, sambucæ, et psalterii, et symphoniæ, et omnis generis musicorum, cadentes omnes populi, tribus, et linguæ adoraverunt statuam auream, quam constituerat Nabuchodonosor rex.  <div eID="gen28956" type="x-p"/>
+Post hæc igitur, statim ut audierunt omnes populi sonitum tubæ, fistulæ, et citharæ, sambucæ, et psalterii, et symphoniæ, et omnis generis musicorum, cadentes omnes populi, tribus, et linguæ adoraverunt statuam auream, quam constituerat Nabuchodonosor rex.  
 
 ** Daniel 3:8
 
@@ -374,7 +374,7 @@ nam jussio regis urgebat. Fornax autem succensa erat nimis : porro viros illos, 
 
 ** Daniel 3:23
 
-Viri autem hi tres, id est, Sidrach, Misach, et Abdenago, ceciderunt in medio camino ignis ardentis, colligati.  <div eID="gen28957" type="x-p"/>
+Viri autem hi tres, id est, Sidrach, Misach, et Abdenago, ceciderunt in medio camino ignis ardentis, colligati.  
 
 ** Daniel 3:24
 
@@ -382,87 +382,87 @@ Et ambulabant in medio flammæ, laudantes Deum, et benedicentes Domino.
 
 ** Daniel 3:25
 
-Stans autem Azarias oravit sic, aperiensque os suum in medio ignis, ait :  <div eID="gen28958" type="x-p"/>
+Stans autem Azarias oravit sic, aperiensque os suum in medio ignis, ait :  
 
 ** Daniel 3:26
 
-Benedictus es, Domine Deus patrum nostrorum, <l eID="gen28960" level="1"/> <l level="1" sID="gen28961"/>et laudabile, et gloriosum nomen tuum in sæcula : <l eID="gen28961" level="1"/>
+Benedictus es, Domine Deus patrum nostrorum,  et laudabile, et gloriosum nomen tuum in sæcula : 
 
 ** Daniel 3:27
 
-quia justus es in omnibus, quæ fecisti nobis, <l eID="gen28962" level="1"/> <l level="1" sID="gen28963"/>et universa opera tua vera, et viæ tuæ rectæ, <l eID="gen28963" level="1"/> <l level="1" sID="gen28964"/>et omnia judicia tua vera.
+quia justus es in omnibus, quæ fecisti nobis,  et universa opera tua vera, et viæ tuæ rectæ,  et omnia judicia tua vera.
 
 ** Daniel 3:28
 
-Judicia enim vera fecisti <l eID="gen28964" level="1"/> <l level="1" sID="gen28965"/>juxta omnia, quæ induxisti super nos, <l eID="gen28965" level="1"/> <l level="1" sID="gen28966"/>et super civitatem sanctam patrum nostrorum Jerusalem : <l eID="gen28966" level="1"/> <l level="1" sID="gen28967"/>quia in veritate et in judicio induxisti omnia hæc <l eID="gen28967" level="1"/> <l level="1" sID="gen28968"/>propter peccata nostra. <l eID="gen28968" level="1"/>
+Judicia enim vera fecisti  juxta omnia, quæ induxisti super nos,  et super civitatem sanctam patrum nostrorum Jerusalem :  quia in veritate et in judicio induxisti omnia hæc  propter peccata nostra. 
 
 ** Daniel 3:29
 
-Peccavimus enim, et inique egimus recedentes a te, <l eID="gen28969" level="1"/> <l level="1" sID="gen28970"/>et deliquimus in omnibus : <l eID="gen28970" level="1"/>
+Peccavimus enim, et inique egimus recedentes a te,  et deliquimus in omnibus : 
 
 ** Daniel 3:30
 
-et præcepta tua non audivimus, <l eID="gen28971" level="1"/> <l level="1" sID="gen28972"/>nec observavimus, <l eID="gen28972" level="1"/> <l level="1" sID="gen28973"/>nec fecimus sicut præceperas nobis <l eID="gen28973" level="1"/> <l level="1" sID="gen28974"/>ut bene nobis esset. <l eID="gen28974" level="1"/>
+et præcepta tua non audivimus,  nec observavimus,  nec fecimus sicut præceperas nobis  ut bene nobis esset. 
 
 ** Daniel 3:31
 
-Omnia ergo, quæ induxisti super nos, <l eID="gen28975" level="1"/> <l level="1" sID="gen28976"/>et universa quæ fecisti nobis, <l eID="gen28976" level="1"/> <l level="1" sID="gen28977"/>in vero judicio fecisti ; <l eID="gen28977" level="1"/>
+Omnia ergo, quæ induxisti super nos,  et universa quæ fecisti nobis,  in vero judicio fecisti ; 
 
 ** Daniel 3:32
 
-et tradidisti nos in manibus inimicorum nostrorum iniquorum, <l eID="gen28978" level="1"/> <l level="1" sID="gen28979"/>et pessimorum, prævaricatorumque, <l eID="gen28979" level="1"/> <l level="1" sID="gen28980"/>et regi injusto, et pessimo ultra omnem terram. <l eID="gen28980" level="1"/>
+et tradidisti nos in manibus inimicorum nostrorum iniquorum,  et pessimorum, prævaricatorumque,  et regi injusto, et pessimo ultra omnem terram. 
 
 ** Daniel 3:33
 
-Et nunc non possumus aperire os : <l eID="gen28981" level="1"/> <l level="1" sID="gen28982"/>confusio, et opprobrium facti sumus servis tuis, <l eID="gen28982" level="1"/> <l level="1" sID="gen28983"/>et his qui colunt te. <l eID="gen28983" level="1"/>
+Et nunc non possumus aperire os :  confusio, et opprobrium facti sumus servis tuis,  et his qui colunt te. 
 
 ** Daniel 3:34
 
-Ne, quæsumus, tradas nos in perpetuum propter nomen tuum, <l eID="gen28984" level="1"/> <l level="1" sID="gen28985"/>et ne dissipes testamentum tuum : <l eID="gen28985" level="1"/>
+Ne, quæsumus, tradas nos in perpetuum propter nomen tuum,  et ne dissipes testamentum tuum : 
 
 ** Daniel 3:35
 
-neque auferas misericordiam tuam a nobis, <l eID="gen28986" level="1"/> <l level="1" sID="gen28987"/>propter Abraham, dilectum tuum, <l eID="gen28987" level="1"/> <l level="1" sID="gen28988"/>et Isaac, servum tuum, <l eID="gen28988" level="1"/> <l level="1" sID="gen28989"/>et Israël, sanctum tuum, <l eID="gen28989" level="1"/>
+neque auferas misericordiam tuam a nobis,  propter Abraham, dilectum tuum,  et Isaac, servum tuum,  et Israël, sanctum tuum, 
 
 ** Daniel 3:36
 
-quibus locutus es pollicens quod multiplicares semen eorum <l eID="gen28990" level="1"/> <l level="1" sID="gen28991"/>sicut stellas cæli, <l eID="gen28991" level="1"/> <l level="1" sID="gen28992"/>et sicut arenam quæ est in littore maris ; <l eID="gen28992" level="1"/>
+quibus locutus es pollicens quod multiplicares semen eorum  sicut stellas cæli,  et sicut arenam quæ est in littore maris ; 
 
 ** Daniel 3:37
 
-quia, Domine, imminuti sumus plus quam omnes gentes, <l eID="gen28993" level="1"/> <l level="1" sID="gen28994"/>sumusque humiles in universa terra hodie <l eID="gen28994" level="1"/> <l level="1" sID="gen28995"/>propter peccata nostra. <l eID="gen28995" level="1"/>
+quia, Domine, imminuti sumus plus quam omnes gentes,  sumusque humiles in universa terra hodie  propter peccata nostra. 
 
 ** Daniel 3:38
 
-Et non est in tempore hoc princeps, et dux, et propheta, <l eID="gen28996" level="1"/> <l level="1" sID="gen28997"/>neque holocaustum, neque sacrificium, <l eID="gen28997" level="1"/> <l level="1" sID="gen28998"/>neque oblatio, neque incensum, <l eID="gen28998" level="1"/> <l level="1" sID="gen28999"/>neque locus primitiarum coram te, <l eID="gen28999" level="1"/>
+Et non est in tempore hoc princeps, et dux, et propheta,  neque holocaustum, neque sacrificium,  neque oblatio, neque incensum,  neque locus primitiarum coram te, 
 
 ** Daniel 3:39
 
-ut possimus invenire misericordiam tuam, <l eID="gen29000" level="1"/> <l level="1" sID="gen29001"/>sed in animo contrito, et spiritu humilitatis suscipiamur. <l eID="gen29001" level="1"/>
+ut possimus invenire misericordiam tuam,  sed in animo contrito, et spiritu humilitatis suscipiamur. 
 
 ** Daniel 3:40
 
-Sicut in holocausto arietum, et taurorum, <l eID="gen29002" level="1"/> <l level="1" sID="gen29003"/>et sicut in millibus agnorum pinguium, <l eID="gen29003" level="1"/> <l level="1" sID="gen29004"/>sic fiat sacrificium nostrum in conspectu tuo hodie, ut placeat tibi, <l eID="gen29004" level="1"/> <l level="1" sID="gen29005"/>quoniam non est confusio confidentibus in te. <l eID="gen29005" level="1"/>
+Sicut in holocausto arietum, et taurorum,  et sicut in millibus agnorum pinguium,  sic fiat sacrificium nostrum in conspectu tuo hodie, ut placeat tibi,  quoniam non est confusio confidentibus in te. 
 
 ** Daniel 3:41
 
-Et nunc sequimur te in toto corde ; <l eID="gen29006" level="1"/> <l level="1" sID="gen29007"/>et timemus te, et quærimus faciem tuam. <l eID="gen29007" level="1"/>
+Et nunc sequimur te in toto corde ;  et timemus te, et quærimus faciem tuam. 
 
 ** Daniel 3:42
 
-Nec confundas nos, <l eID="gen29008" level="1"/> <l level="1" sID="gen29009"/>sed fac nobiscum juxta mansuetudinem tuam, <l eID="gen29009" level="1"/> <l level="1" sID="gen29010"/>et secundum multitudinem misericordiæ tuæ. <l eID="gen29010" level="1"/>
+Nec confundas nos,  sed fac nobiscum juxta mansuetudinem tuam,  et secundum multitudinem misericordiæ tuæ. 
 
 ** Daniel 3:43
 
-Et erue nos in mirabilibus tuis, <l eID="gen29011" level="1"/> <l level="1" sID="gen29012"/>et da gloriam nomini tuo, Domine ; <l eID="gen29012" level="1"/>
+Et erue nos in mirabilibus tuis,  et da gloriam nomini tuo, Domine ; 
 
 ** Daniel 3:44
 
-et confundantur omnes qui ostendunt servis tuis mala : <l eID="gen29013" level="1"/> <l level="1" sID="gen29014"/>confundantur in omni potentia tua, <l eID="gen29014" level="1"/> <l level="1" sID="gen29015"/>et robur eorum conteratur : <l eID="gen29015" level="1"/>
+et confundantur omnes qui ostendunt servis tuis mala :  confundantur in omni potentia tua,  et robur eorum conteratur : 
 
 ** Daniel 3:45
 
-et sciant quia tu es Dominus Deus solus, <l eID="gen29016" level="1"/> <l level="1" sID="gen29017"/>et gloriosus super orbem terrarum.
+et sciant quia tu es Dominus Deus solus,  et gloriosus super orbem terrarum.
 
 ** Daniel 3:46
 
@@ -486,163 +486,163 @@ et fecit medium fornacis quasi ventum roris flantem, et non tetigit eos omnino i
 
 ** Daniel 3:51
 
-Tunc hi tres quasi ex uno ore laudabant, et glorificabant, et benedicebant Deum in fornace, dicentes : <l eID="gen29017" level="1"/>
+Tunc hi tres quasi ex uno ore laudabant, et glorificabant, et benedicebant Deum in fornace, dicentes : 
 
 ** Daniel 3:52
 
-Benedictus es, Domine Deus patrum nostrorum : <l eID="gen29018" level="1"/> <l level="1" sID="gen29019"/>et laudabilis, et gloriosus, et superexaltatus in sæcula. <l eID="gen29019" level="1"/> <l level="1" sID="gen29020"/>Et benedictum nomen gloriæ tuæ sanctum : <l eID="gen29020" level="1"/> <l level="1" sID="gen29021"/>et laudabile, et superexaltatum in omnibus sæculis. <l eID="gen29021" level="1"/>
+Benedictus es, Domine Deus patrum nostrorum :  et laudabilis, et gloriosus, et superexaltatus in sæcula.  Et benedictum nomen gloriæ tuæ sanctum :  et laudabile, et superexaltatum in omnibus sæculis. 
 
 ** Daniel 3:53
 
-Benedictus es in templo sancto gloriæ tuæ : <l eID="gen29022" level="1"/> <l level="1" sID="gen29023"/>et superlaudabilis, et supergloriosus in sæcula. <l eID="gen29023" level="1"/>
+Benedictus es in templo sancto gloriæ tuæ :  et superlaudabilis, et supergloriosus in sæcula. 
 
 ** Daniel 3:54
 
-Benedictus es in throno regni tui : <l eID="gen29024" level="1"/> <l level="1" sID="gen29025"/>et superlaudabilis, et superexaltatus in sæcula. <l eID="gen29025" level="1"/>
+Benedictus es in throno regni tui :  et superlaudabilis, et superexaltatus in sæcula. 
 
 ** Daniel 3:55
 
-Benedictus es, qui intueris abyssos, et sedes super cherubim : <l eID="gen29026" level="1"/> <l level="1" sID="gen29027"/>et laudabilis, et superexaltatus in sæcula. <l eID="gen29027" level="1"/>
+Benedictus es, qui intueris abyssos, et sedes super cherubim :  et laudabilis, et superexaltatus in sæcula. 
 
 ** Daniel 3:56
 
-Benedictus es in firmamento cæli : <l eID="gen29028" level="1"/> <l level="1" sID="gen29029"/>et laudabilis et gloriosus in sæcula. <l eID="gen29029" level="1"/>
+Benedictus es in firmamento cæli :  et laudabilis et gloriosus in sæcula. 
 
 ** Daniel 3:57
 
-Benedicite, omnia opera Domini, Domino : <l eID="gen29030" level="1"/> <l level="1" sID="gen29031"/>laudate et superexaltate eum in sæcula. <l eID="gen29031" level="1"/>
+Benedicite, omnia opera Domini, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:58
 
-Benedicite, angeli Domini, Domino : <l eID="gen29032" level="1"/> <l level="1" sID="gen29033"/>laudate et superexaltate eum in sæcula. <l eID="gen29033" level="1"/>
+Benedicite, angeli Domini, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:59
 
-Benedicite, cæli, Domino : <l eID="gen29034" level="1"/> <l level="1" sID="gen29035"/>laudate et superexaltate eum in sæcula. <l eID="gen29035" level="1"/>
+Benedicite, cæli, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:60
 
-Benedicite, aquæ omnes, quæ super cælos sunt, Domino : <l eID="gen29036" level="1"/> <l level="1" sID="gen29037"/>laudate et superexaltate eum in sæcula. <l eID="gen29037" level="1"/>
+Benedicite, aquæ omnes, quæ super cælos sunt, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:61
 
-Benedicite, omnes virtutes Domini, Domino : <l eID="gen29038" level="1"/> <l level="1" sID="gen29039"/>laudate et superexaltate eum in sæcula. <l eID="gen29039" level="1"/>
+Benedicite, omnes virtutes Domini, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:62
 
-Benedicite, sol et luna, Domino : <l eID="gen29040" level="1"/> <l level="1" sID="gen29041"/>laudate et superexaltate eum in sæcula. <l eID="gen29041" level="1"/>
+Benedicite, sol et luna, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:63
 
-Benedicite, stellæ cæli, Domino : <l eID="gen29042" level="1"/> <l level="1" sID="gen29043"/>laudate et superexaltate eum in sæcula. <l eID="gen29043" level="1"/>
+Benedicite, stellæ cæli, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:64
 
-Benedicite, omnis imber et ros, Domino : <l eID="gen29044" level="1"/> <l level="1" sID="gen29045"/>laudate et superexaltate eum in sæcula. <l eID="gen29045" level="1"/>
+Benedicite, omnis imber et ros, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:65
 
-Benedicite, omnes spiritus Dei, Domino : <l eID="gen29046" level="1"/> <l level="1" sID="gen29047"/>laudate et superexaltate eum in sæcula. <l eID="gen29047" level="1"/>
+Benedicite, omnes spiritus Dei, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:66
 
-Benedicite, ignis et æstus, Domino : <l eID="gen29048" level="1"/> <l level="1" sID="gen29049"/>laudate et superexaltate eum in sæcula. <l eID="gen29049" level="1"/>
+Benedicite, ignis et æstus, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:67
 
-Benedicite, frigus et æstus, Domino : <l eID="gen29050" level="1"/> <l level="1" sID="gen29051"/>laudate et superexaltate eum in sæcula. <l eID="gen29051" level="1"/>
+Benedicite, frigus et æstus, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:68
 
-Benedicite, rores et pruina, Domino : <l eID="gen29052" level="1"/> <l level="1" sID="gen29053"/>laudate et superexaltate eum in sæcula. <l eID="gen29053" level="1"/>
+Benedicite, rores et pruina, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:69
 
-Benedicite, gelu et frigus, Domino : <l eID="gen29054" level="1"/> <l level="1" sID="gen29055"/>laudate et superexaltate eum in sæcula. <l eID="gen29055" level="1"/>
+Benedicite, gelu et frigus, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:70
 
-Benedicite, glacies et nives, Domino : <l eID="gen29056" level="1"/> <l level="1" sID="gen29057"/>laudate et superexaltate eum in sæcula. <l eID="gen29057" level="1"/>
+Benedicite, glacies et nives, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:71
 
-Benedicite, noctes et dies, Domino <l eID="gen29058" level="1"/> <l level="1" sID="gen29059"/>laudate et superexaltate eum in sæcula. <l eID="gen29059" level="1"/>
+Benedicite, noctes et dies, Domino  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:72
 
-Benedicite, lux et tenebræ, Domino : <l eID="gen29060" level="1"/> <l level="1" sID="gen29061"/>laudate et superexaltate eum in sæcula. <l eID="gen29061" level="1"/>
+Benedicite, lux et tenebræ, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:73
 
-Benedicite, fulgura et nubes, Domino : <l eID="gen29062" level="1"/> <l level="1" sID="gen29063"/>laudate et superexaltate eum in sæcula. <l eID="gen29063" level="1"/>
+Benedicite, fulgura et nubes, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:74
 
-Benedicat terra Dominum : <l eID="gen29064" level="1"/> <l level="1" sID="gen29065"/>laudet et superexaltet eum in sæcula. <l eID="gen29065" level="1"/>
+Benedicat terra Dominum :  laudet et superexaltet eum in sæcula. 
 
 ** Daniel 3:75
 
-Benedicite, montes et colles, Domino : <l eID="gen29066" level="1"/> <l level="1" sID="gen29067"/>laudate et superexaltate eum in sæcula. <l eID="gen29067" level="1"/>
+Benedicite, montes et colles, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:76
 
-Benedicite, universa germinantia in terra, Domino : <l eID="gen29068" level="1"/> <l level="1" sID="gen29069"/>laudate et superexaltate eum in sæcula. <l eID="gen29069" level="1"/>
+Benedicite, universa germinantia in terra, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:77
 
-Benedicite, fontes, Domino : <l eID="gen29070" level="1"/> <l level="1" sID="gen29071"/>laudate et superexaltate eum in sæcula. <l eID="gen29071" level="1"/>
+Benedicite, fontes, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:78
 
-Benedicite, maria et flumina, Domino : <l eID="gen29072" level="1"/> <l level="1" sID="gen29073"/>laudate et superexaltate eum in sæcula. <l eID="gen29073" level="1"/>
+Benedicite, maria et flumina, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:79
 
-Benedicite, cete, et omnia quæ moventur in aquis, Domino : <l eID="gen29074" level="1"/> <l level="1" sID="gen29075"/>laudate et superexaltate eum in sæcula. <l eID="gen29075" level="1"/>
+Benedicite, cete, et omnia quæ moventur in aquis, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:80
 
-Benedicite, omnes volucres cæli, Domino : <l eID="gen29076" level="1"/> <l level="1" sID="gen29077"/>laudate et superexaltate eum in sæcula. <l eID="gen29077" level="1"/>
+Benedicite, omnes volucres cæli, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:81
 
-Benedicite, omnes bestiæ et pecora, Domino : <l eID="gen29078" level="1"/> <l level="1" sID="gen29079"/>laudate et superexaltate eum in sæcula. <l eID="gen29079" level="1"/>
+Benedicite, omnes bestiæ et pecora, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:82
 
-Benedicite, filii hominum, Domino : <l eID="gen29080" level="1"/> <l level="1" sID="gen29081"/>laudate et superexaltate eum in sæcula. <l eID="gen29081" level="1"/>
+Benedicite, filii hominum, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:83
 
-Benedicat Israël Dominum : <l eID="gen29082" level="1"/> <l level="1" sID="gen29083"/>laudet et superexaltet eum in sæcula. <l eID="gen29083" level="1"/>
+Benedicat Israël Dominum :  laudet et superexaltet eum in sæcula. 
 
 ** Daniel 3:84
 
-Benedicite, sacerdotes Domini, Domino : <l eID="gen29084" level="1"/> <l level="1" sID="gen29085"/>laudate et superexaltate eum in sæcula. <l eID="gen29085" level="1"/>
+Benedicite, sacerdotes Domini, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:85
 
-Benedicite, servi Domini, Domino : <l eID="gen29086" level="1"/> <l level="1" sID="gen29087"/>laudate et superexaltate eum in sæcula. <l eID="gen29087" level="1"/>
+Benedicite, servi Domini, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:86
 
-Benedicite, spiritus et animæ justorum, Domino : <l eID="gen29088" level="1"/> <l level="1" sID="gen29089"/>laudate et superexaltate eum in sæcula. <l eID="gen29089" level="1"/>
+Benedicite, spiritus et animæ justorum, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:87
 
-Benedicite, sancti et humiles corde, Domino : <l eID="gen29090" level="1"/> <l level="1" sID="gen29091"/>laudate et superexaltate eum in sæcula. <l eID="gen29091" level="1"/>
+Benedicite, sancti et humiles corde, Domino :  laudate et superexaltate eum in sæcula. 
 
 ** Daniel 3:88
 
-Benedicite, Anania, Azaria, Misaël, Domino : <l eID="gen29092" level="1"/> <l level="1" sID="gen29093"/>laudate et superexaltate eum in sæcula : <l eID="gen29093" level="1"/> <l level="1" sID="gen29094"/>quia eruit nos de inferno, <l eID="gen29094" level="1"/> <l level="1" sID="gen29095"/>et salvos fecit de manu mortis : <l eID="gen29095" level="1"/> <l level="1" sID="gen29096"/>et liberavit nos de medio ardentis flammæ, <l eID="gen29096" level="1"/> <l level="1" sID="gen29097"/>et de medio ignis eruit nos. <l eID="gen29097" level="1"/>
+Benedicite, Anania, Azaria, Misaël, Domino :  laudate et superexaltate eum in sæcula :  quia eruit nos de inferno,  et salvos fecit de manu mortis :  et liberavit nos de medio ardentis flammæ,  et de medio ignis eruit nos. 
 
 ** Daniel 3:89
 
-Confitemini Domino, quoniam bonus : <l eID="gen29098" level="1"/> <l level="1" sID="gen29099"/>quoniam in sæculum misericordia ejus. <l eID="gen29099" level="1"/>
+Confitemini Domino, quoniam bonus :  quoniam in sæculum misericordia ejus. 
 
 ** Daniel 3:90
 
-Benedicite, omnes religiosi, Domino Deo deorum : <l eID="gen29100" level="1"/> <l level="1" sID="gen29101"/>laudate et confitemini ei, quia in omnia sæcula misericordia ejus. <l eID="gen29101" level="1"/> <lg eID="gen28959"/>
+Benedicite, omnes religiosi, Domino Deo deorum :  laudate et confitemini ei, quia in omnia sæcula misericordia ejus.  
 
 ** Daniel 3:91
 
@@ -670,7 +670,7 @@ A me ergo positum est hoc decretum : ut omnis populus, tribus, et lingua, quæcu
 
 ** Daniel 3:97
 
-Tunc rex promovit Sidrach, Misach, et Abdenago in provincia Babylonis.  <div eID="gen29102" type="x-p"/>
+Tunc rex promovit Sidrach, Misach, et Abdenago in provincia Babylonis.  
 
 ** Daniel 3:98
 
@@ -682,7 +682,7 @@ Signa, et mirabilia fecit apud me Deus excelsus. Placuit ergo mihi prædicare
 
 ** Daniel 3:100
 
-signa ejus, quia magna sunt : et mirabilia ejus, quia fortia : et regnum ejus regnum sempiternum, et potestas ejus in generationem et generationem.  <chapter eID="Dan.3"/> <div eID="gen29103" type="x-p"/>
+signa ejus, quia magna sunt : et mirabilia ejus, quia fortia : et regnum ejus regnum sempiternum, et potestas ejus in generationem et generationem.   
 
 * Daniel 4
 
@@ -780,7 +780,7 @@ Quod autem præcepit ut relinqueretur germen radicum ejus, id est arboris : regn
 
 ** Daniel 4:24
 
-Quam ob rem, rex, consilium meum placeat tibi, et peccata tua eleemosynis redime, et iniquitates tuas misericordiis pauperum : forsitan ignoscet delictis tuis.  <div eID="gen29104" type="x-p"/>
+Quam ob rem, rex, consilium meum placeat tibi, et peccata tua eleemosynis redime, et iniquitates tuas misericordiis pauperum : forsitan ignoscet delictis tuis.  
 
 ** Daniel 4:25
 
@@ -804,7 +804,7 @@ et ab hominibus ejicient te, et cum bestiis et feris erit habitatio tua : fœnum
 
 ** Daniel 4:30
 
-Eadem hora sermo completus est super Nabuchodonosor, et ex hominibus abjectus est, et fœnum ut bos comedit, et rore cæli corpus ejus infectum est, donec capilli ejus in similitudinem aquilarum crescerent, et ungues ejus quasi avium.  <div eID="gen29105" type="x-p"/>
+Eadem hora sermo completus est super Nabuchodonosor, et ex hominibus abjectus est, et fœnum ut bos comedit, et rore cæli corpus ejus infectum est, donec capilli ejus in similitudinem aquilarum crescerent, et ungues ejus quasi avium.  
 
 ** Daniel 4:31
 
@@ -820,7 +820,7 @@ In ipso tempore sensus meus reversus est ad me, et ad honorem regni mei, decorem
 
 ** Daniel 4:34
 
-Nunc igitur, ego Nabuchodonosor laudo, et magnifico, et glorifico regem cæli : quia omnia opera ejus vera, et viæ ejus judicia, et gradientes in superbia potest humiliare.  <chapter eID="Dan.4"/> <div eID="gen29106" type="x-p"/>
+Nunc igitur, ego Nabuchodonosor laudo, et magnifico, et glorifico regem cæli : quia omnia opera ejus vera, et viæ ejus judicia, et gradientes in superbia potest humiliare.   
 
 * Daniel 5
 
@@ -838,7 +838,7 @@ Tunc allata sunt vasa aurea, et argentea, quæ asportaverat de templo, quod fuer
 
 ** Daniel 5:4
 
-Bibebant vinum, et laudabant deos suos aureos et argenteos, æreos, ferreos, ligneosque et lapideos.  <div eID="gen29107" type="x-p"/>
+Bibebant vinum, et laudabant deos suos aureos et argenteos, æreos, ferreos, ligneosque et lapideos.  
 
 ** Daniel 5:5
 
@@ -870,7 +870,7 @@ Est vir in regno tuo, qui spiritum deorum sanctorum habet in se, et in diebus pa
 
 ** Daniel 5:12
 
-quia spiritus amplior, et prudentia, intelligentiaque et interpretatio somniorum, et ostensio secretorum, ac solutio ligatorum inventæ sunt in eo, hoc est in Daniele : cui rex posuit nomen Baltassar. Nunc itaque Daniel vocetur, et interpretationem narrabit.  <div eID="gen29108" type="x-p"/>
+quia spiritus amplior, et prudentia, intelligentiaque et interpretatio somniorum, et ostensio secretorum, ac solutio ligatorum inventæ sunt in eo, hoc est in Daniele : cui rex posuit nomen Baltassar. Nunc itaque Daniel vocetur, et interpretationem narrabit.  
 
 ** Daniel 5:13
 
@@ -934,7 +934,7 @@ Thecel : appensus es in statera, et inventus es minus habens.
 
 ** Daniel 5:28
 
-Phares : divisum est regnum tuum, et datum est Medis, et Persis.  <div eID="gen29109" type="x-p"/>
+Phares : divisum est regnum tuum, et datum est Medis, et Persis.  
 
 ** Daniel 5:29
 
@@ -946,7 +946,7 @@ Eadem nocte interfectus est Baltassar rex Chaldæus.
 
 ** Daniel 5:31
 
-Et Darius Medus successit in regnum, annos natus sexaginta duos.  <chapter eID="Dan.5"/> <div eID="gen29110" type="x-p"/>
+Et Darius Medus successit in regnum, annos natus sexaginta duos.   
 
 * Daniel 6
 
@@ -984,7 +984,7 @@ Nunc itaque rex, confirma sententiam, et scribe decretum : ut non immutetur quod
 
 ** Daniel 6:9
 
-Porro rex Darius proposuit edictum, et statuit.  <div eID="gen29111" type="x-p"/>
+Porro rex Darius proposuit edictum, et statuit.  
 
 ** Daniel 6:10
 
@@ -1016,7 +1016,7 @@ Tunc rex præcepit, et adduxerunt Danielem, et miserunt eum in lacum leonum. Dix
 
 ** Daniel 6:17
 
-Allatusque est lapis unus, et positus est super os laci : quem obsignavit rex annulo suo, et annulo optimatum suorum, ne quid fieret contra Danielem.  <div eID="gen29112" type="x-p"/>
+Allatusque est lapis unus, et positus est super os laci : quem obsignavit rex annulo suo, et annulo optimatum suorum, ne quid fieret contra Danielem.  
 
 ** Daniel 6:18
 
@@ -1060,7 +1060,7 @@ Ipse liberator atque salvator, faciens signa et mirabilia in cælo et in terra :
 
 ** Daniel 6:28
 
-Porro Daniel perseveravit usque ad regnum Darii, regnumque Cyri Persæ.  <chapter eID="Dan.6"/> <div eID="gen29113" type="x-p"/>
+Porro Daniel perseveravit usque ad regnum Darii, regnumque Cyri Persæ.   
 
 * Daniel 7
 
@@ -1118,7 +1118,7 @@ Aspiciebam ergo in visione noctis, et ecce cum nubibus cæli quasi filius homini
 
 ** Daniel 7:14
 
-Et dedit ei potestatem, et honorem, et regnum : et omnes populi, tribus, et linguæ ipsi servient : potestas ejus, potestas æterna, quæ non auferetur : et regnum ejus, quod non corrumpetur.  <div eID="gen29114" type="x-p"/>
+Et dedit ei potestatem, et honorem, et regnum : et omnes populi, tribus, et linguæ ipsi servient : potestas ejus, potestas æterna, quæ non auferetur : et regnum ejus, quod non corrumpetur.  
 
 ** Daniel 7:15
 
@@ -1174,7 +1174,7 @@ Regnum autem, et potestas, et magnitudo regni, quæ est subter omne cælum, detu
 
 ** Daniel 7:28
 
-Hucusque finis verbi. Ego Daniel multum cogitationibus meis conturbabar, et facies mea mutata est in me : verbum autem in corde meo conservavi.  <chapter eID="Dan.7"/> <div eID="gen29115" type="x-p"/>
+Hucusque finis verbi. Ego Daniel multum cogitationibus meis conturbabar, et facies mea mutata est in me : verbum autem in corde meo conservavi.   
 
 * Daniel 8
 
@@ -1232,7 +1232,7 @@ Et audivi unum de sanctis loquentem : et dixit unus sanctus alteri nescio cui lo
 
 ** Daniel 8:14
 
-Et dixit ei : Usque ad vesperam et mane, dies duo millia trecenti : et mundabitur sanctuarium.  <div eID="gen29116" type="x-p"/>
+Et dixit ei : Usque ad vesperam et mane, dies duo millia trecenti : et mundabitur sanctuarium.  
 
 ** Daniel 8:15
 
@@ -1284,7 +1284,7 @@ Et visio vespere et mane, quæ dicta est, vera est : tu ergo visionem signa, qui
 
 ** Daniel 8:27
 
-Et ego Daniel langui, et ægrotavi per dies : cumque surrexissem, faciebam opera regis, et stupebam ad visionem, et non erat qui interpretaretur.  <chapter eID="Dan.8"/> <div eID="gen29117" type="x-p"/>
+Et ego Daniel langui, et ægrotavi per dies : cumque surrexissem, faciebam opera regis, et stupebam ad visionem, et non erat qui interpretaretur.   
 
 * Daniel 9
 
@@ -1298,7 +1298,7 @@ anno uno regni ejus, ego Daniel intellexi in libris numerum annorum, de quo fact
 
 ** Daniel 9:3
 
-Et posui faciem meam ad Dominum Deum meum rogare et deprecari in jejuniis, sacco, et cinere.  <div eID="gen29118" type="x-p"/>
+Et posui faciem meam ad Dominum Deum meum rogare et deprecari in jejuniis, sacco, et cinere.  
 
 ** Daniel 9:4
 
@@ -1362,7 +1362,7 @@ Inclina, Deus meus, aurem tuam, et audi : aperi oculos tuos, et vide desolatione
 
 ** Daniel 9:19
 
-Exaudi, Domine ; placare Domine : attende et fac : ne moreris propter temetipsum, Deus meus, quia nomen tuum invocatum est super civitatem et super populum tuum.  <div eID="gen29119" type="x-p"/>
+Exaudi, Domine ; placare Domine : attende et fac : ne moreris propter temetipsum, Deus meus, quia nomen tuum invocatum est super civitatem et super populum tuum.  
 
 ** Daniel 9:20
 
@@ -1394,7 +1394,7 @@ Et post hebdomades sexaginta duas occidetur christus : et non erit ejus populus 
 
 ** Daniel 9:27
 
-Confirmabit autem pactum multis hebdomada una : et in dimidio hebdomadis deficiet hostia et sacrificium : et erit in templo abominatio desolationis : et usque ad consummationem et finem perseverabit desolatio.  <chapter eID="Dan.9"/> <div eID="gen29120" type="x-p"/>
+Confirmabit autem pactum multis hebdomada una : et in dimidio hebdomadis deficiet hostia et sacrificium : et erit in templo abominatio desolationis : et usque ad consummationem et finem perseverabit desolatio.   
 
 * Daniel 10
 
@@ -1408,7 +1408,7 @@ In diebus illis ego Daniel lugebam trium hebdomadarum diebus :
 
 ** Daniel 10:3
 
-panem desiderabilem non comedi, et caro et vinum non introierunt in os meum, sed neque unguento unctus sum, donec complerentur trium hebdomadarum dies.  <div eID="gen29121" type="x-p"/>
+panem desiderabilem non comedi, et caro et vinum non introierunt in os meum, sed neque unguento unctus sum, donec complerentur trium hebdomadarum dies.  
 
 ** Daniel 10:4
 
@@ -1452,7 +1452,7 @@ Princeps autem regni Persarum restitit mihi viginti et uno diebus : et ecce Mich
 
 ** Daniel 10:14
 
-Veni autem ut docerem te quæ ventura sunt populo tuo in novissimis diebus, quoniam adhuc visio in dies.  <div eID="gen29122" type="x-p"/>
+Veni autem ut docerem te quæ ventura sunt populo tuo in novissimis diebus, quoniam adhuc visio in dies.  
 
 ** Daniel 10:15
 
@@ -1480,7 +1480,7 @@ Et ait : Numquid scis quare venerim ad te ? et nunc revertar ut prælier adversu
 
 ** Daniel 10:21
 
-Verumtamen annuntiabo tibi quod expressum est in scriptura veritatis : et nemo est adjutor meus in omnibus his, nisi Michaël princeps vester.  <chapter eID="Dan.10"/> <div eID="gen29123" type="x-p"/>
+Verumtamen annuntiabo tibi quod expressum est in scriptura veritatis : et nemo est adjutor meus in omnibus his, nisi Michaël princeps vester.   
 
 * Daniel 11
 
@@ -1490,7 +1490,7 @@ Ego autem ab anno primo Darii Medi stabam ut confortaretur et roboraretur.
 
 ** Daniel 11:2
 
-Et nunc veritatem annuntiabo tibi. Ecce adhuc tres reges stabunt in Perside, et quartus ditabitur opibus nimiis super omnes : et cum invaluerit divitiis suis, concitabit omnes adversum regnum Græciæ.  <div eID="gen29124" type="x-p"/>
+Et nunc veritatem annuntiabo tibi. Ecce adhuc tres reges stabunt in Perside, et quartus ditabitur opibus nimiis super omnes : et cum invaluerit divitiis suis, concitabit omnes adversum regnum Græciæ.  
 
 ** Daniel 11:3
 
@@ -1498,7 +1498,7 @@ Surget vero rex fortis, et dominabitur potestate multa, et faciet quod placuerit
 
 ** Daniel 11:4
 
-Et cum steterit, conteretur regnum ejus, et dividetur in quatuor ventos cæli : sed non in posteros ejus, neque secundum potentiam illius, qua dominatus est : lacerabitur enim regnum ejus etiam in externos, exceptis his.  <div eID="gen29125" type="x-p"/>
+Et cum steterit, conteretur regnum ejus, et dividetur in quatuor ventos cæli : sed non in posteros ejus, neque secundum potentiam illius, qua dominatus est : lacerabitur enim regnum ejus etiam in externos, exceptis his.  
 
 ** Daniel 11:5
 
@@ -1562,7 +1562,7 @@ Et convertet faciem suam ad imperium terræ suæ, et impinget, et corruet, et no
 
 ** Daniel 11:20
 
-Et stabit in loco ejus vilissimus, et indignus decore regio : et in paucis diebus conteretur, non in furore, nec in prælio.  <div eID="gen29126" type="x-p"/>
+Et stabit in loco ejus vilissimus, et indignus decore regio : et in paucis diebus conteretur, non in furore, nec in prælio.  
 
 ** Daniel 11:21
 
@@ -1602,7 +1602,7 @@ Statuto tempore revertetur, et veniet ad austrum : et non erit priori simile nov
 
 ** Daniel 11:30
 
-Et venient super eum trieres, et Romani : et percutietur, et revertetur, et indignabitur contra testamentum sanctuarii, et faciet : reverteturque, et cogitabit adversum eos qui dereliquerunt testamentum sanctuarii.  <div eID="gen29127" type="x-p"/>
+Et venient super eum trieres, et Romani : et percutietur, et revertetur, et indignabitur contra testamentum sanctuarii, et faciet : reverteturque, et cogitabit adversum eos qui dereliquerunt testamentum sanctuarii.  
 
 ** Daniel 11:31
 
@@ -1638,7 +1638,7 @@ Deum autem Maozim in loco suo venerabitur : et deum, quem ignoraverunt patres ej
 
 ** Daniel 11:39
 
-Et faciet ut muniat Maozim cum deo alieno, quem cognovit, et multiplicabit gloriam, et dabit eis potestatem in multis, et terram dividet gratuito.  <div eID="gen29128" type="x-p"/>
+Et faciet ut muniat Maozim cum deo alieno, quem cognovit, et multiplicabit gloriam, et dabit eis potestatem in multis, et terram dividet gratuito.  
 
 ** Daniel 11:40
 
@@ -1662,7 +1662,7 @@ Et fama turbabit eum ab oriente et ab aquilone : et veniet in multitudine magna 
 
 ** Daniel 11:45
 
-Et figet tabernaculum suum Apadno inter maria, super montem inclytum et sanctum : et veniet usque ad summitatem ejus, et nemo auxiliabitur ei.  <chapter eID="Dan.11"/> <div eID="gen29129" type="x-p"/>
+Et figet tabernaculum suum Apadno inter maria, super montem inclytum et sanctum : et veniet usque ad summitatem ejus, et nemo auxiliabitur ei.   
 
 * Daniel 12
 
@@ -1680,7 +1680,7 @@ Qui autem docti fuerint, fulgebunt quasi splendor firmamenti : et qui ad justiti
 
 ** Daniel 12:4
 
-Tu autem Daniel, claude sermones, et signa librum usque ad tempus statutum : plurimi pertransibunt, et multiplex erit scientia.  <div eID="gen29130" type="x-p"/>
+Tu autem Daniel, claude sermones, et signa librum usque ad tempus statutum : plurimi pertransibunt, et multiplex erit scientia.  
 
 ** Daniel 12:5
 
@@ -1716,7 +1716,7 @@ Beatus qui exspectat, et pervenit usque ad dies mille trecentos triginta quinque
 
 ** Daniel 12:13
 
-Tu autem vade ad præfinitum : et requiesces, et stabis in sorte tua in finem dierum.  <chapter eID="Dan.12"/> <div eID="gen29131" type="x-p"/>
+Tu autem vade ad præfinitum : et requiesces, et stabis in sorte tua in finem dierum.   
 
 * Daniel 13
 
@@ -1774,7 +1774,7 @@ Eamus domum, quia hora prandii est. Et egressi, recesserunt a se.
 
 ** Daniel 13:14
 
-Cumque revertissent, venerunt in unum : et sciscitantes ab invicem causam, confessi sunt concupiscentiam suam : et tunc in communi statuerunt tempus quando eam possent invenire solam.  <div eID="gen29132" type="x-p"/>
+Cumque revertissent, venerunt in unum : et sciscitantes ab invicem causam, confessi sunt concupiscentiam suam : et tunc in communi statuerunt tempus quando eam possent invenire solam.  
 
 ** Daniel 13:15
 
@@ -1790,7 +1790,7 @@ Dixit ergo puellis : Afferte mihi oleum, et smigmata, et ostia pomarii claudite,
 
 ** Daniel 13:18
 
-Et fecerunt sicut præceperat : clauseruntque ostia pomarii, et egressæ sunt per posticum ut afferrent quæ jusserat ; nesciebantque senes intus esse absconditos.  <div eID="gen29133" type="x-p"/>
+Et fecerunt sicut præceperat : clauseruntque ostia pomarii, et egressæ sunt per posticum ut afferrent quæ jusserat ; nesciebantque senes intus esse absconditos.  
 
 ** Daniel 13:19
 
@@ -1826,7 +1826,7 @@ Cum ergo audissent clamorem famuli domus in pomario, irruerunt per posticum ut v
 
 ** Daniel 13:27
 
-Postquam autem senes locuti sunt, erubuerunt servi vehementer, quia numquam dictus fuerat sermo hujuscemodi de Susanna. Et facta est dies crastina.  <div eID="gen29134" type="x-p"/>
+Postquam autem senes locuti sunt, erubuerunt servi vehementer, quia numquam dictus fuerat sermo hujuscemodi de Susanna. Et facta est dies crastina.  
 
 ** Daniel 13:28
 
@@ -1882,7 +1882,7 @@ hanc autem cum apprehendissemus, interrogavimus, quisnam esset adolescens, et no
 
 ** Daniel 13:41
 
-Credidit eis multitudo quasi senibus et judicibus populi, et condemnaverunt eam ad mortem.  <div eID="gen29135" type="x-p"/>
+Credidit eis multitudo quasi senibus et judicibus populi, et condemnaverunt eam ad mortem.  
 
 ** Daniel 13:42
 
@@ -1954,7 +1954,7 @@ Nunc ergo, dic mihi sub qua arbore comprehenderis eos loquentes sibi. Qui ait : 
 
 ** Daniel 13:59
 
-Dixit autem ei Daniel : Recte mentitus es et tu in caput tuum : manet enim angelus Domini, gladium habens, ut secet te medium, et interficiat vos.  <div eID="gen29136" type="x-p"/>
+Dixit autem ei Daniel : Recte mentitus es et tu in caput tuum : manet enim angelus Domini, gladium habens, ut secet te medium, et interficiat vos.  
 
 ** Daniel 13:60
 
@@ -1978,7 +1978,7 @@ Daniel autem factus est magnus in conspectu populi a die illa, et deinceps.
 
 ** Daniel 13:65
 
-Et rex Astyages appositus est ad patres suos, et suscepit Cyrus Perses regnum ejus.  <chapter eID="Dan.13"/> <div eID="gen29137" type="x-p"/>
+Et rex Astyages appositus est ad patres suos, et suscepit Cyrus Perses regnum ejus.   
 
 * Daniel 14
 
@@ -2016,7 +2016,7 @@ Si autem ostenderitis quoniam Bel comedat hæc, morietur Daniel, quia blasphemav
 
 ** Daniel 14:9
 
-Erant autem sacerdotes Bel septuaginta, exceptis uxoribus, et parvulis, et filiis. <div eID="gen29138" type="x-p"/> <div sID="gen29139" type="x-p"/> Et venit rex cum Daniele in templum Bel.
+Erant autem sacerdotes Bel septuaginta, exceptis uxoribus, et parvulis, et filiis.   Et venit rex cum Daniele in templum Bel.
 
 ** Daniel 14:10
 
@@ -2064,7 +2064,7 @@ Tunc apprehendit sacerdotes, et uxores, et filios eorum : et ostenderunt ei absc
 
 ** Daniel 14:21
 
-Occidit ergo illos rex, et tradidit Bel in potestatem Danielis : qui subvertit eum, et templum ejus.  <div eID="gen29139" type="x-p"/>
+Occidit ergo illos rex, et tradidit Bel in potestatem Danielis : qui subvertit eum, et templum ejus.  
 
 ** Daniel 14:22
 
@@ -2132,7 +2132,7 @@ Et ait Daniel : Recordatus es mei, Deus, et non dereliquisti diligentes te.
 
 ** Daniel 14:38
 
-Surgensque Daniel comedit. Porro angelus Domini restituit Habacuc confestim in loco suo.  <div eID="gen29140" type="x-p"/>
+Surgensque Daniel comedit. Porro angelus Domini restituit Habacuc confestim in loco suo.  
 
 ** Daniel 14:39
 
@@ -2148,5 +2148,5 @@ Porro illos, qui perditionis ejus causa fuerant, intromisit in lacum, et devorat
 
 ** Daniel 14:42
 
-Tunc rex ait : Paveant omnes habitantes in universa terra Deum Danielis : quia ipse est salvator, faciens signa et mirabilia in terra : qui liberavit Danielem de lacu leonum.  <div eID="gen29141" type="x-p"/> <chapter eID="Dan.14"/> <div eID="gen28949" osisID="Dan" type="book"/>
+Tunc rex ait : Paveant omnes habitantes in universa terra Deum Danielis : quia ipse est salvator, faciens signa et mirabilia in terra : qui liberavit Danielem de lacu leonum.    
 

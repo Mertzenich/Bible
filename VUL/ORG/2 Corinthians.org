@@ -6,7 +6,7 @@ Paulus, Apostolus Jesu Christi per voluntatem Dei, et Timotheus frater, ecclesi�
 
 ** II Corinthians 1:2
 
-Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.  <div eID="gen32978" type="x-p"/>
+Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.  
 
 ** II Corinthians 1:3
 
@@ -42,7 +42,7 @@ qui de tantis periculis nos eripuit, et eruit : in quem speramus quoniam et adhu
 
 ** II Corinthians 1:11
 
-adjuvantibus et vobis in oratione pro nobis : ut ex multorum personis, ejus quæ in nobis est donationis, per multos gratiæ agantur pro nobis.  <div eID="gen32979" type="x-p"/>
+adjuvantibus et vobis in oratione pro nobis : ut ex multorum personis, ejus quæ in nobis est donationis, per multos gratiæ agantur pro nobis.  
 
 ** II Corinthians 1:12
 
@@ -86,11 +86,11 @@ Qui autem confirmat nos vobiscum in Christo, et qui unxit nos Deus :
 
 ** II Corinthians 1:22
 
-qui et signavit nos, et dedit pignus Spiritus in cordibus nostris.  <div eID="gen32980" type="x-p"/>
+qui et signavit nos, et dedit pignus Spiritus in cordibus nostris.  
 
 ** II Corinthians 1:23
 
-Ego autem testem Deum invoco in animam meam, quod parcens vobis, non veni ultra Corinthum : non quia dominamur fidei vestæ, sed adjutores sumus gaudii vestri : nam fide statis.  <chapter eID="2Cor.1"/> <div eID="gen32981" type="x-p"/>
+Ego autem testem Deum invoco in animam meam, quod parcens vobis, non veni ultra Corinthum : non quia dominamur fidei vestæ, sed adjutores sumus gaudii vestri : nam fide statis.   
 
 ** II Corinthians 1:24
 
@@ -112,7 +112,7 @@ Et hoc ipsum scripsi vobis, ut non cum venero, tristitiam super tristitiam habea
 
 ** II Corinthians 2:4
 
-Nam ex multa tribulatione et angustia cordis scripsi vobis per multas lacrimas : non ut contristemini, sed ut sciatis, quam caritatem habeam abundantius in vobis.  <div eID="gen32982" type="x-p"/>
+Nam ex multa tribulatione et angustia cordis scripsi vobis per multas lacrimas : non ut contristemini, sed ut sciatis, quam caritatem habeam abundantius in vobis.  
 
 ** II Corinthians 2:5
 
@@ -140,7 +140,7 @@ Cui autem aliquid donastis, et ego : nam et ego quod donavi, si quid donavi, pro
 
 ** II Corinthians 2:11
 
-ut non circumveniamur a Satana : non enim ignoramus cogitationes ejus.  <div eID="gen32983" type="x-p"/>
+ut non circumveniamur a Satana : non enim ignoramus cogitationes ejus.  
 
 ** II Corinthians 2:12
 
@@ -164,7 +164,7 @@ aliis quidem odor mortis in mortem : aliis autem odor vitæ in vitam. Et ad hæc
 
 ** II Corinthians 2:17
 
-non enim sumus sicut plurimi, adulterantes verbum Dei, sed ex sinceritate, sed sicut ex Deo, coram Deo, in Christo loquimur.  <chapter eID="2Cor.2"/> <div eID="gen32984" type="x-p"/>
+non enim sumus sicut plurimi, adulterantes verbum Dei, sed ex sinceritate, sed sicut ex Deo, coram Deo, in Christo loquimur.   
 
 * II Corinthians 3
 
@@ -178,7 +178,7 @@ Epistola nostra vos estis, scripta in cordibus nostris, quæ scitur, et legitur 
 
 ** II Corinthians 3:3
 
-manifestati quod epistola estis Christi, ministrata a nobis, et scripta non atramento, sed Spiritu Dei vivi : non in tabulis lapideis, sed in tabulis cordis carnalibus.  <div eID="gen32985" type="x-p"/>
+manifestati quod epistola estis Christi, ministrata a nobis, et scripta non atramento, sed Spiritu Dei vivi : non in tabulis lapideis, sed in tabulis cordis carnalibus.  
 
 ** II Corinthians 3:4
 
@@ -210,7 +210,7 @@ Nam nec glorificatum est, quod claruit in hac parte, propter excellentem gloriam
 
 ** II Corinthians 3:11
 
-Si enim quod evacuatur, per gloriam est : multo magis quod manet, in gloria est.  <div eID="gen32986" type="x-p"/>
+Si enim quod evacuatur, per gloriam est : multo magis quod manet, in gloria est.  
 
 ** II Corinthians 3:12
 
@@ -238,7 +238,7 @@ Dominus autem Spiritus est : ubi autem Spiritus Domini, ibi libertas.
 
 ** II Corinthians 3:18
 
-Nos vero omnes, revelata facie gloriam Domini speculantes, in eamdem imaginem transformamur a claritate in claritatem, tamquam a Domini Spiritu.  <chapter eID="2Cor.3"/> <div eID="gen32987" type="x-p"/>
+Nos vero omnes, revelata facie gloriam Domini speculantes, in eamdem imaginem transformamur a claritate in claritatem, tamquam a Domini Spiritu.   
 
 * II Corinthians 4
 
@@ -264,7 +264,7 @@ Non enim nosmetipsos prædicamus, sed Jesum Christum Dominum nostrum : nos autem
 
 ** II Corinthians 4:6
 
-quoniam Deus, qui dixit de tenebris lucem splendescere, ipse illuxit in cordibus nostris ad illuminationem scientiæ claritatis Dei, in facie Christi Jesu.  <div eID="gen32988" type="x-p"/>
+quoniam Deus, qui dixit de tenebris lucem splendescere, ipse illuxit in cordibus nostris ad illuminationem scientiæ claritatis Dei, in facie Christi Jesu.  
 
 ** II Corinthians 4:7
 
@@ -312,7 +312,7 @@ Id enim, quod in præsenti est momentaneum et leve tribulationis nostræ, supra 
 
 ** II Corinthians 4:18
 
-non contemplantibus nobis quæ videntur, sed quæ non videntur. Quæ enim videntur, temporalia sunt : quæ autem non videntur, æterna sunt.  <chapter eID="2Cor.4"/> <div eID="gen32989" type="x-p"/>
+non contemplantibus nobis quæ videntur, sed quæ non videntur. Quæ enim videntur, temporalia sunt : quæ autem non videntur, æterna sunt.   
 
 * II Corinthians 5
 
@@ -354,7 +354,7 @@ Et ideo contendimus, sive absentes, sive præsentes, placere illi.
 
 ** II Corinthians 5:10
 
-Omnes enim nos manifestari oportet ante tribunal Christi, ut referat unusquisque propria corporis, prout gessit, sive bonum, sive malum.  <div eID="gen32990" type="x-p"/>
+Omnes enim nos manifestari oportet ante tribunal Christi, ut referat unusquisque propria corporis, prout gessit, sive bonum, sive malum.  
 
 ** II Corinthians 5:11
 
@@ -398,7 +398,7 @@ Pro Christo ergo legatione fungimur, tamquam Deo exhortante per nos. Obsecramus 
 
 ** II Corinthians 5:21
 
-Eum, qui non noverat peccatum, pro nobis peccatum fecit, ut nos efficeremur justitia Dei in ipso.  <chapter eID="2Cor.5"/> <div eID="gen32991" type="x-p"/>
+Eum, qui non noverat peccatum, pro nobis peccatum fecit, ut nos efficeremur justitia Dei in ipso.   
 
 * II Corinthians 6
 
@@ -440,7 +440,7 @@ quasi morientes, et ecce vivimus : ut castigati, et non mortificati :
 
 ** II Corinthians 6:10
 
-quasi tristes, semper autem gaudentes : sicut egentes, multos autem locupletantes : tamquam nihil habentes, et omnia possidentes.  <div eID="gen32992" type="x-p"/>
+quasi tristes, semper autem gaudentes : sicut egentes, multos autem locupletantes : tamquam nihil habentes, et omnia possidentes.  
 
 ** II Corinthians 6:11
 
@@ -452,7 +452,7 @@ Non angustiamini in nobis : angustiamini autem in visceribus vestris :
 
 ** II Corinthians 6:13
 
-eamdem autem habentes remunerationem, tamquam filiis dico, dilatamini et vos.  <div eID="gen32993" type="x-p"/>
+eamdem autem habentes remunerationem, tamquam filiis dico, dilatamini et vos.  
 
 ** II Corinthians 6:14
 
@@ -464,15 +464,15 @@ quæ autem conventio Christi ad Belial ? aut quæ pars fideli cum infideli ?
 
 ** II Corinthians 6:16
 
-qui autem consensus templo Dei cum idolis ? vos enim estis templum Dei vivi, sicut dicit Deus : <div eID="gen32994" type="x-p"/> <lg sID="gen32995"/> <l level="1" sID="gen32996"/>Quoniam inhabitabo in illis, et inambulabo inter eos, <l eID="gen32996" level="1"/> <l level="1" sID="gen32997"/>et ero illorum Deus, et ipsi erunt mihi populus. <l eID="gen32997" level="1"/>
+qui autem consensus templo Dei cum idolis ? vos enim estis templum Dei vivi, sicut dicit Deus :   Quoniam inhabitabo in illis, et inambulabo inter eos,  et ero illorum Deus, et ipsi erunt mihi populus. 
 
 ** II Corinthians 6:17
 
-Propter quod exite de medio eorum, <l eID="gen32998" level="1"/> <l level="1" sID="gen32999"/>et separamini, dicit Dominus, <l eID="gen32999" level="1"/> <l level="1" sID="gen33000"/>et immundum ne tetigeritis : <l eID="gen33000" level="1"/>
+Propter quod exite de medio eorum,  et separamini, dicit Dominus,  et immundum ne tetigeritis : 
 
 ** II Corinthians 6:18
 
-et ego recipiam vos : <l eID="gen33001" level="1"/> <l level="1" sID="gen33002"/>et ero vobis in patrem, <l eID="gen33002" level="1"/> <l level="1" sID="gen33003"/>et vos eritis mihi in filios et filias, <l eID="gen33003" level="1"/> <l level="1" sID="gen33004"/>dicit Dominus omnipotens. <l eID="gen33004" level="1"/><lg eID="gen32995"/> <chapter eID="2Cor.6"/>
+et ego recipiam vos :  et ero vobis in patrem,  et vos eritis mihi in filios et filias,  dicit Dominus omnipotens.  
 
 * II Corinthians 7
 
@@ -502,7 +502,7 @@ Sed qui consolatur humiles, consolatus est nos Deus in adventu Titi.
 
 ** II Corinthians 7:7
 
-Non solum autem in adventu ejus, sed etiam in consolatione, qua consolatus est in vobis, referens nobis vestrum desiderium, vestrum fletum, vestram æmulationem pro me, ita ut magis gauderem.  <div eID="gen33005" type="x-p"/>
+Non solum autem in adventu ejus, sed etiam in consolatione, qua consolatus est in vobis, referens nobis vestrum desiderium, vestrum fletum, vestram æmulationem pro me, ita ut magis gauderem.  
 
 ** II Corinthians 7:8
 
@@ -538,7 +538,7 @@ et viscera ejus abundantius in vobis sunt, reminiscentis omnium vestrum obedient
 
 ** II Corinthians 7:16
 
-Gaudeo quod in omnibus confido in vobis.  <chapter eID="2Cor.7"/> <div eID="gen33006" type="x-p"/>
+Gaudeo quod in omnibus confido in vobis.   
 
 * II Corinthians 8
 
@@ -600,7 +600,7 @@ In præsenti tempore vestra abundantia illorum inopiam suppleat : ut et illorum 
 
 ** II Corinthians 8:15
 
-Qui multum, non abundavit : et qui modicum, non minoravit.  <div eID="gen33007" type="x-p"/>
+Qui multum, non abundavit : et qui modicum, non minoravit.  
 
 ** II Corinthians 8:16
 
@@ -636,7 +636,7 @@ sive pro Tito, qui est socius meus, et in vos adjutor, sive fratres nostri, Apos
 
 ** II Corinthians 8:24
 
-Ostensionem ergo, quæ est caritatis vestræ, et nostræ gloriæ pro vobis, in illos ostendite in faciem ecclesiarum.  <chapter eID="2Cor.8"/> <div eID="gen33008" type="x-p"/>
+Ostensionem ergo, quæ est caritatis vestræ, et nostræ gloriæ pro vobis, in illos ostendite in faciem ecclesiarum.   
 
 * II Corinthians 9
 
@@ -658,7 +658,7 @@ ne cum venerint Macedones mecum, et invenerint vos imparatos, erubescamus nos (u
 
 ** II Corinthians 9:5
 
-Necessarium ergo existimavi rogare fratres, ut præveniant ad vos, et præparent repromissam benedictionem hanc paratam esse sic, quasi benedictionem, non tamquam avaritiam.  <div eID="gen33009" type="x-p"/>
+Necessarium ergo existimavi rogare fratres, ut præveniant ad vos, et præparent repromissam benedictionem hanc paratam esse sic, quasi benedictionem, non tamquam avaritiam.  
 
 ** II Corinthians 9:6
 
@@ -698,7 +698,7 @@ et in ipsorum obsecratione pro vobis, desiderantium vos propter eminentem gratia
 
 ** II Corinthians 9:15
 
-Gratias Deo super inenarrabili dono ejus.  <chapter eID="2Cor.9"/> <div eID="gen33010" type="x-p"/>
+Gratias Deo super inenarrabili dono ejus.   
 
 * II Corinthians 10
 
@@ -724,7 +724,7 @@ et omnem altitudinem extollentem se adversus scientiam Dei, et in captivitatem r
 
 ** II Corinthians 10:6
 
-et in promptu habentes ulcisci omnem inobedientiam, cum impleta fuerit vestra obedientia.  <div eID="gen33011" type="x-p"/>
+et in promptu habentes ulcisci omnem inobedientiam, cum impleta fuerit vestra obedientia.  
 
 ** II Corinthians 10:7
 
@@ -744,7 +744,7 @@ quoniam quidem epistolæ, inquiunt, graves sunt et fortes : præsentia autem cor
 
 ** II Corinthians 10:11
 
-hoc cogitet qui ejusmodi est, quia quales sumus verbo per epistolas absentes, tales et præsentes in facto.  <div eID="gen33012" type="x-p"/>
+hoc cogitet qui ejusmodi est, quia quales sumus verbo per epistolas absentes, tales et præsentes in facto.  
 
 ** II Corinthians 10:12
 
@@ -772,7 +772,7 @@ Qui autem gloriatur, in Domino glorietur.
 
 ** II Corinthians 10:18
 
-Non enim qui seipsum commendat, ille probatus est : sed quem Deus commendat.  <chapter eID="2Cor.10"/> <div eID="gen33013" type="x-p"/>
+Non enim qui seipsum commendat, ille probatus est : sed quem Deus commendat.   
 
 * II Corinthians 11
 
@@ -798,7 +798,7 @@ Existimo enim nihil me minus fecisse a magnis Apostolis.
 
 ** II Corinthians 11:6
 
-Nam etsi imperitus sermone, sed non scientia, in omnibus autem manifestati sumus vobis.  <div eID="gen33014" type="x-p"/>
+Nam etsi imperitus sermone, sed non scientia, in omnibus autem manifestati sumus vobis.  
 
 ** II Corinthians 11:7
 
@@ -834,7 +834,7 @@ Et non mirum : ipse enim Satanas transfigurat se in angelum lucis.
 
 ** II Corinthians 11:15
 
-Non est ergo magnum, si ministri ejus transfigurentur velut ministri justitiæ : quorum finis erit secundum opera ipsorum.  <div eID="gen33015" type="x-p"/>
+Non est ergo magnum, si ministri ejus transfigurentur velut ministri justitiæ : quorum finis erit secundum opera ipsorum.  
 
 ** II Corinthians 11:16
 
@@ -862,7 +862,7 @@ Secundum ignobilitatem dico, quasi nos infirmi fuerimus in hac parte. In quo qui
 
 ** II Corinthians 11:22
 
-Hebræi sunt, et ego : Israëlitæ sunt, et ego : semen Abrahæ sunt, et ego.  <div eID="gen33016" type="x-p"/>
+Hebræi sunt, et ego : Israëlitæ sunt, et ego : semen Abrahæ sunt, et ego.  
 
 ** II Corinthians 11:23
 
@@ -906,7 +906,7 @@ Damasci præpositus gentis Aretæ regis custodiebat civitatem Damascenorum ut me
 
 ** II Corinthians 11:33
 
-et per fenestram in sporta dimissus sum per murum, et sic effugi manus ejus.  <chapter eID="2Cor.11"/> <div eID="gen33017" type="x-p"/>
+et per fenestram in sporta dimissus sum per murum, et sic effugi manus ejus.   
 
 * II Corinthians 12
 
@@ -960,7 +960,7 @@ signa tamen apostolatus mei facta sunt super vos in omni patientia, in signis, e
 
 ** II Corinthians 12:13
 
-Quid est enim, quod minus habuistis præ ceteris ecclesiis, nisi quod ego ipse non gravavi vos ? donate mihi hanc injuriam.  <div eID="gen33018" type="x-p"/>
+Quid est enim, quod minus habuistis præ ceteris ecclesiis, nisi quod ego ipse non gravavi vos ? donate mihi hanc injuriam.  
 
 ** II Corinthians 12:14
 
@@ -980,7 +980,7 @@ Numquid per aliquem eorum, quod misi ad vos, circumveni vos ?
 
 ** II Corinthians 12:18
 
-Rogavi Titum, et misi cum illo fratrem. Numquid Titus vos circumvenit ? nonne eodem spiritu ambulavimus ? nonne iisdem vestigiis ?  <div eID="gen33019" type="x-p"/>
+Rogavi Titum, et misi cum illo fratrem. Numquid Titus vos circumvenit ? nonne eodem spiritu ambulavimus ? nonne iisdem vestigiis ?  
 
 ** II Corinthians 12:19
 
@@ -992,7 +992,7 @@ Timeo enim ne forte cum venero, non quales volo, inveniam vos : et ego inveniar 
 
 ** II Corinthians 12:21
 
-ne iterum cum venero, humiliet me Deus apud vos, et lugeam multos ex iis qui ante peccaverunt, et non egerunt pœnitentiam super immunditia, et fornicatione, et impudicitia, quam gesserunt.  <chapter eID="2Cor.12"/> <div eID="gen33020" type="x-p"/>
+ne iterum cum venero, humiliet me Deus apud vos, et lugeam multos ex iis qui ante peccaverunt, et non egerunt pœnitentiam super immunditia, et fornicatione, et impudicitia, quam gesserunt.   
 
 * II Corinthians 13
 
@@ -1034,7 +1034,7 @@ Gaudemus enim, quoniam nos infirmi sumus, vos autem potentes estis. Hoc et oramu
 
 ** II Corinthians 13:10
 
-Ideo hæc absens scribo, ut non præsens durius agam secundum potestatem, quam Dominus dedit mihi in ædificationem, et non in destructionem.  <div eID="gen33021" type="x-p"/>
+Ideo hæc absens scribo, ut non præsens durius agam secundum potestatem, quam Dominus dedit mihi in ædificationem, et non in destructionem.  
 
 ** II Corinthians 13:11
 
@@ -1046,5 +1046,5 @@ Salutate invicem in osculo sancto. Salutant vos omnes sancti.
 
 ** II Corinthians 13:13
 
-Gratia Domini nostri Jesu Christi, et caritas Dei, et communicatio Sancti Spiritus sit cum omnibus vobis. Amen.  <div eID="gen33022" type="x-p"/> <chapter eID="2Cor.13"/> <div eID="gen32977" osisID="2Cor" type="book"/>
+Gratia Domini nostri Jesu Christi, et caritas Dei, et communicatio Sancti Spiritus sit cum omnibus vobis. Amen.    
 

@@ -10,19 +10,19 @@ Iratus est Dominus super patres vestros iracundia.
 
 ** Zechariah 1:3
 
-Et dices ad eos : <div eID="gen31586" type="x-p"/> <lg sID="gen31587"/> <l level="1" sID="gen31588"/>Hæc dicit Dominus exercituum : <l eID="gen31588" level="1"/> <l level="1" sID="gen31589"/>Convertimini ad me, ait Dominus exercituum, <l eID="gen31589" level="1"/> <l level="1" sID="gen31590"/>et convertar ad vos, dicit Dominus exercituum. <l eID="gen31590" level="1"/>
+Et dices ad eos :   Hæc dicit Dominus exercituum :  Convertimini ad me, ait Dominus exercituum,  et convertar ad vos, dicit Dominus exercituum. 
 
 ** Zechariah 1:4
 
-Ne sitis sicut patres vestri, <l eID="gen31591" level="1"/> <l level="1" sID="gen31592"/>ad quos clamabant prophetæ priores, dicentes : <l eID="gen31592" level="1"/> <l level="1" sID="gen31593"/>Hæc dicit Dominus exercituum : <l eID="gen31593" level="1"/> <l level="1" sID="gen31594"/>Convertimini de viis vestris malis, <l eID="gen31594" level="1"/> <l level="1" sID="gen31595"/>et de cogitationibus vestris pessimis : <l eID="gen31595" level="1"/> <l level="1" sID="gen31596"/>et non audierunt, neque attenderunt ad me, <l eID="gen31596" level="1"/> <l level="1" sID="gen31597"/>dicit Dominus. <l eID="gen31597" level="1"/>
+Ne sitis sicut patres vestri,  ad quos clamabant prophetæ priores, dicentes :  Hæc dicit Dominus exercituum :  Convertimini de viis vestris malis,  et de cogitationibus vestris pessimis :  et non audierunt, neque attenderunt ad me,  dicit Dominus. 
 
 ** Zechariah 1:5
 
-Patres vestri, ubi sunt ? <l eID="gen31598" level="1"/> <l level="1" sID="gen31599"/>et prophetæ numquid in sempiternum vivent ? <l eID="gen31599" level="1"/>
+Patres vestri, ubi sunt ?  et prophetæ numquid in sempiternum vivent ? 
 
 ** Zechariah 1:6
 
-Verumtamen verba mea, et legitima mea, <l eID="gen31600" level="1"/> <l level="1" sID="gen31601"/>quæ mandavi servis meis prophetis, <l eID="gen31601" level="1"/> <l level="1" sID="gen31602"/>numquid non comprehenderunt patres vestros, <l eID="gen31602" level="1"/> <l level="1" sID="gen31603"/>et conversi sunt, et dixerunt : <l eID="gen31603" level="1"/> <l level="1" sID="gen31604"/>Sicut cogitavit Dominus exercituum facere nobis <l eID="gen31604" level="1"/> <l level="1" sID="gen31605"/>secundum vias nostras, et secundum adinventiones nostras, <l eID="gen31605" level="1"/> <l level="1" sID="gen31606"/>fecit nobis ? <l eID="gen31606" level="1"/> <lg eID="gen31587"/>
+Verumtamen verba mea, et legitima mea,  quæ mandavi servis meis prophetis,  numquid non comprehenderunt patres vestros,  et conversi sunt, et dixerunt :  Sicut cogitavit Dominus exercituum facere nobis  secundum vias nostras, et secundum adinventiones nostras,  fecit nobis ?  
 
 ** Zechariah 1:7
 
@@ -54,19 +54,19 @@ Et respondit Dominus angelo qui loquebatur in me verba bona, verba consolatoria.
 
 ** Zechariah 1:14
 
-Et dixit ad me angelus qui loquebatur in me : Clama, dicens : <div eID="gen31607" type="x-p"/> <lg sID="gen31608"/> <l level="1" sID="gen31609"/>Hæc dicit Dominus exercituum : <l eID="gen31609" level="1"/> <l level="1" sID="gen31610"/>Zelatus sum Jerusalem et Sion zelo magno, <l eID="gen31610" level="1"/>
+Et dixit ad me angelus qui loquebatur in me : Clama, dicens :   Hæc dicit Dominus exercituum :  Zelatus sum Jerusalem et Sion zelo magno, 
 
 ** Zechariah 1:15
 
-et ira magna ego irascor super gentes opulentas, <l eID="gen31611" level="1"/> <l level="1" sID="gen31612"/>quia ego iratus sum parum, <l eID="gen31612" level="1"/> <l level="1" sID="gen31613"/>ipsi vero adjuverunt in malum. <l eID="gen31613" level="1"/>
+et ira magna ego irascor super gentes opulentas,  quia ego iratus sum parum,  ipsi vero adjuverunt in malum. 
 
 ** Zechariah 1:16
 
-Propterea hæc dicit Dominus : <l eID="gen31614" level="1"/> <l level="1" sID="gen31615"/>Revertar ad Jerusalem in misericordiis, <l eID="gen31615" level="1"/> <l level="1" sID="gen31616"/>et domus mea ædificabitur in ea, ait Dominus exercituum, <l eID="gen31616" level="1"/> <l level="1" sID="gen31617"/>et perpendiculum extendetur super Jerusalem.
+Propterea hæc dicit Dominus :  Revertar ad Jerusalem in misericordiis,  et domus mea ædificabitur in ea, ait Dominus exercituum,  et perpendiculum extendetur super Jerusalem.
 
 ** Zechariah 1:17
 
-Adhuc clama, dicens : <l eID="gen31617" level="1"/> <l level="1" sID="gen31618"/>Hæc dicit Dominus exercituum : <l eID="gen31618" level="1"/> <l level="1" sID="gen31619"/>Adhuc affluent civitates meæ bonis, <l eID="gen31619" level="1"/> <l level="1" sID="gen31620"/>et consolabitur adhuc Dominus Sion, et eliget adhuc Jerusalem. <l eID="gen31620" level="1"/> <lg eID="gen31608"/>
+Adhuc clama, dicens :  Hæc dicit Dominus exercituum :  Adhuc affluent civitates meæ bonis,  et consolabitur adhuc Dominus Sion, et eliget adhuc Jerusalem.  
 
 ** Zechariah 1:18
 
@@ -82,7 +82,7 @@ Et ostendit mihi Dominus quatuor fabros.
 
 ** Zechariah 1:21
 
-Et dixi : Quid isti veniunt facere ? Qui ait, dicens : Hæc sunt cornua quæ ventilaverunt Judam per singulos viros, et nemo eorum levavit caput suum : et venerunt isti deterrere ea, ut dejiciant cornua gentium, quæ levaverunt cornu super terram Juda ut dispergerent eam.  <chapter eID="Zech.1"/> <div eID="gen31621" type="x-p"/>
+Et dixi : Quid isti veniunt facere ? Qui ait, dicens : Hæc sunt cornua quæ ventilaverunt Judam per singulos viros, et nemo eorum levavit caput suum : et venerunt isti deterrere ea, ut dejiciant cornua gentium, quæ levaverunt cornu super terram Juda ut dispergerent eam.   
 
 * Zechariah 2
 
@@ -104,39 +104,39 @@ et dixit ad eum : Curre, loquere ad puerum istum, dicens : Absque muro habitabit
 
 ** Zechariah 2:5
 
-Et ego ero ei, ait Dominus, murus ignis in circuitu, et in gloria ero in medio ejus.  <div eID="gen31622" type="x-p"/>
+Et ego ero ei, ait Dominus, murus ignis in circuitu, et in gloria ero in medio ejus.  
 
 ** Zechariah 2:6
 
-O, o, fugite de terra aquilonis, dicit Dominus, <l eID="gen31624" level="1"/> <l level="1" sID="gen31625"/>quoniam in quatuor ventos cæli dispersi vos, dicit Dominus. <l eID="gen31625" level="1"/>
+O, o, fugite de terra aquilonis, dicit Dominus,  quoniam in quatuor ventos cæli dispersi vos, dicit Dominus. 
 
 ** Zechariah 2:7
 
-O Sion ! fuge, quæ habitas apud filiam Babylonis : <l eID="gen31626" level="1"/>
+O Sion ! fuge, quæ habitas apud filiam Babylonis : 
 
 ** Zechariah 2:8
 
-quia hæc dicit Dominus exercituum : <l eID="gen31627" level="1"/> <l level="1" sID="gen31628"/>Post gloriam misit me ad gentes quæ spoliaverunt vos : <l eID="gen31628" level="1"/> <l level="1" sID="gen31629"/>qui enim tetigerit vos, tangit pupillam oculi mei : <l eID="gen31629" level="1"/>
+quia hæc dicit Dominus exercituum :  Post gloriam misit me ad gentes quæ spoliaverunt vos :  qui enim tetigerit vos, tangit pupillam oculi mei : 
 
 ** Zechariah 2:9
 
-quia ecce ego levo manum meam super eos, <l eID="gen31630" level="1"/> <l level="1" sID="gen31631"/>et erunt prædæ his qui serviebant sibi : <l eID="gen31631" level="1"/> <l level="1" sID="gen31632"/>et cognoscetis quia Dominus exercituum misit me. <l eID="gen31632" level="1"/>
+quia ecce ego levo manum meam super eos,  et erunt prædæ his qui serviebant sibi :  et cognoscetis quia Dominus exercituum misit me. 
 
 ** Zechariah 2:10
 
-Lauda et lætare, filia Sion, quia ecce ego venio, <l eID="gen31633" level="1"/> <l level="1" sID="gen31634"/>et habitabo in medio tui, ait Dominus. <l eID="gen31634" level="1"/>
+Lauda et lætare, filia Sion, quia ecce ego venio,  et habitabo in medio tui, ait Dominus. 
 
 ** Zechariah 2:11
 
-Et applicabuntur gentes multæ ad Dominum in die illa, <l eID="gen31635" level="1"/> <l level="1" sID="gen31636"/>et erunt mihi in populum, <l eID="gen31636" level="1"/> <l level="1" sID="gen31637"/>et habitabo in medio tui : <l eID="gen31637" level="1"/> <l level="1" sID="gen31638"/>et scies quia Dominus exercituum misit me ad te. <l eID="gen31638" level="1"/>
+Et applicabuntur gentes multæ ad Dominum in die illa,  et erunt mihi in populum,  et habitabo in medio tui :  et scies quia Dominus exercituum misit me ad te. 
 
 ** Zechariah 2:12
 
-Et possidebit Dominus Judam partem suam in terra sanctificata, <l eID="gen31639" level="1"/> <l level="1" sID="gen31640"/>et eliget adhuc Jerusalem. <l eID="gen31640" level="1"/>
+Et possidebit Dominus Judam partem suam in terra sanctificata,  et eliget adhuc Jerusalem. 
 
 ** Zechariah 2:13
 
-Sileat omnis caro a facie Domini, <l eID="gen31641" level="1"/> <l level="1" sID="gen31642"/>quia consurrexit de habitaculo sancto suo. <l eID="gen31642" level="1"/><lg eID="gen31623"/> <chapter eID="Zech.2"/>
+Sileat omnis caro a facie Domini,  quia consurrexit de habitaculo sancto suo.  
 
 * Zechariah 3
 
@@ -162,23 +162,23 @@ Et dixit : Ponite cidarim mundam super caput ejus. Et posuerunt cidarim mundam s
 
 ** Zechariah 3:6
 
-Et contestabatur angelus Domini Jesum, dicens :  <div eID="gen31643" type="x-p"/>
+Et contestabatur angelus Domini Jesum, dicens :  
 
 ** Zechariah 3:7
 
-Hæc dicit Dominus exercituum : <l eID="gen31645" level="1"/> <l level="1" sID="gen31646"/>Si in viis meis ambulaveris, <l eID="gen31646" level="1"/> <l level="1" sID="gen31647"/>et custodiam meam custodieris, <l eID="gen31647" level="1"/> <l level="1" sID="gen31648"/>tu quoque judicabis domum meam, <l eID="gen31648" level="1"/> <l level="1" sID="gen31649"/>et custodies atria mea, <l eID="gen31649" level="1"/> <l level="1" sID="gen31650"/>et dabo tibi ambulantes de his qui nunc hic assistunt. <l eID="gen31650" level="1"/>
+Hæc dicit Dominus exercituum :  Si in viis meis ambulaveris,  et custodiam meam custodieris,  tu quoque judicabis domum meam,  et custodies atria mea,  et dabo tibi ambulantes de his qui nunc hic assistunt. 
 
 ** Zechariah 3:8
 
-Audi, Jesu sacerdos magne, <l eID="gen31651" level="1"/> <l level="1" sID="gen31652"/>tu et amici tui, qui habitant coram te, <l eID="gen31652" level="1"/> <l level="1" sID="gen31653"/>quia viri portendentes sunt : <l eID="gen31653" level="1"/> <l level="1" sID="gen31654"/>ecce enim ego adducam servum meum Orientem. <l eID="gen31654" level="1"/>
+Audi, Jesu sacerdos magne,  tu et amici tui, qui habitant coram te,  quia viri portendentes sunt :  ecce enim ego adducam servum meum Orientem. 
 
 ** Zechariah 3:9
 
-Quia ecce lapis quem dedi coram Jesu : <l eID="gen31655" level="1"/> <l level="1" sID="gen31656"/>super lapidem unum septem oculi sunt : <l eID="gen31656" level="1"/> <l level="1" sID="gen31657"/>ecce ego cælabo sculpturam ejus, ait Dominus exercituum, <l eID="gen31657" level="1"/> <l level="1" sID="gen31658"/>et auferam iniquitatem terræ illius in die una. <l eID="gen31658" level="1"/>
+Quia ecce lapis quem dedi coram Jesu :  super lapidem unum septem oculi sunt :  ecce ego cælabo sculpturam ejus, ait Dominus exercituum,  et auferam iniquitatem terræ illius in die una. 
 
 ** Zechariah 3:10
 
-In die illa, dicit Dominus exercituum, <l eID="gen31659" level="1"/> <l level="1" sID="gen31660"/>vocabit vir amicum suum subter vitem et subter ficum. <l eID="gen31660" level="1"/><lg eID="gen31644"/> <chapter eID="Zech.3"/>
+In die illa, dicit Dominus exercituum,  vocabit vir amicum suum subter vitem et subter ficum.  
 
 * Zechariah 4
 
@@ -236,7 +236,7 @@ Et ait ad me, dicens : Numquid nescis quid sunt hæc ? Et dixi : Non, domine mi.
 
 ** Zechariah 4:14
 
-Et dixit : Isti sunt duo filii olei, qui assistunt Dominatori universæ terræ.  <chapter eID="Zech.4"/> <div eID="gen31661" type="x-p"/>
+Et dixit : Isti sunt duo filii olei, qui assistunt Dominatori universæ terræ.   
 
 * Zechariah 5
 
@@ -254,7 +254,7 @@ Et dixit ad me : Hæc est maledictio quæ egreditur super faciem omnis terræ : 
 
 ** Zechariah 5:4
 
-Educam illud, dicit Dominus exercituum : et veniet ad domum furis, et ad domum jurantis in nomine meo mendaciter : et commorabitur in medio domus ejus, et consumet eam, et ligna ejus, et lapides ejus.  <div eID="gen31662" type="x-p"/>
+Educam illud, dicit Dominus exercituum : et veniet ad domum furis, et ad domum jurantis in nomine meo mendaciter : et commorabitur in medio domus ejus, et consumet eam, et ligna ejus, et lapides ejus.  
 
 ** Zechariah 5:5
 
@@ -282,7 +282,7 @@ Et dixi ad angelum qui loquebatur in me : Quo istæ deferunt amphoram ?
 
 ** Zechariah 5:11
 
-Et dixit ad me : Ut ædificetur ei domus in terra Sennaar, et stabiliatur, et ponatur ibi super basem suam.  <chapter eID="Zech.5"/> <div eID="gen31663" type="x-p"/>
+Et dixit ad me : Ut ædificetur ei domus in terra Sennaar, et stabiliatur, et ponatur ibi super basem suam.   
 
 * Zechariah 6
 
@@ -316,7 +316,7 @@ Qui autem erant robustissimi, exierunt, et quærebant ire et discurrere per omne
 
 ** Zechariah 6:8
 
-Et vocavit me, et locutus est ad me, dicens : Ecce qui egrediuntur in terram aquilonis, requiescere fecerunt spiritum meum in terra aquilonis.  <div eID="gen31664" type="x-p"/>
+Et vocavit me, et locutus est ad me, dicens : Ecce qui egrediuntur in terram aquilonis, requiescere fecerunt spiritum meum in terra aquilonis.  
 
 ** Zechariah 6:9
 
@@ -344,7 +344,7 @@ Et coronæ erunt Helem, et Tobiæ, et Idaiæ, et Hem filio Sophoniæ, memoriale 
 
 ** Zechariah 6:15
 
-Et qui procul sunt, venient, et ædificabunt in templo Domini : et scietis quia Dominus exercituum misit me ad vos. Erit autem hoc, si auditu audieritis vocem Domini Dei vestri.  <chapter eID="Zech.6"/> <div eID="gen31665" type="x-p"/>
+Et qui procul sunt, venient, et ædificabunt in templo Domini : et scietis quia Dominus exercituum misit me ad vos. Erit autem hoc, si auditu audieritis vocem Domini Dei vestri.   
 
 * Zechariah 7
 
@@ -402,7 +402,7 @@ Et factum est sicut locutus est, et non audierunt : sic clamabunt et non exaudia
 
 ** Zechariah 7:14
 
-Et dispersi eos per omnia regna quæ nesciunt : et terra desolata est ab eis, eo quod non esset transiens et revertens : et posuerunt terram desiderabilem in desertum.  <chapter eID="Zech.7"/> <div eID="gen31666" type="x-p"/>
+Et dispersi eos per omnia regna quæ nesciunt : et terra desolata est ab eis, eo quod non esset transiens et revertens : et posuerunt terram desiderabilem in desertum.   
 
 * Zechariah 8
 
@@ -436,7 +436,7 @@ Hæc dicit Dominus exercituum : Ecce ego salvabo populum meum de terra orientis 
 
 ** Zechariah 8:8
 
-Et adducam eos, et habitabunt in medio Jerusalem : et erunt mihi in populum, et ego ero eis in Deum, in veritate et in justitia.  <div eID="gen31667" type="x-p"/>
+Et adducam eos, et habitabunt in medio Jerusalem : et erunt mihi in populum, et ego ero eis in Deum, in veritate et in justitia.  
 
 ** Zechariah 8:9
 
@@ -472,7 +472,7 @@ Hæc sunt ergo verba quæ facietis : loquimini veritatem unusquisque cum proximo
 
 ** Zechariah 8:17
 
-Et unusquisque malum contra amicum suum ne cogitetis in cordibus vestris, et juramentum mendax ne diligatis : omnia enim hæc sunt quæ odi, dicit Dominus.  <div eID="gen31668" type="x-p"/>
+Et unusquisque malum contra amicum suum ne cogitetis in cordibus vestris, et juramentum mendax ne diligatis : omnia enim hæc sunt quæ odi, dicit Dominus.  
 
 ** Zechariah 8:18
 
@@ -496,141 +496,141 @@ Et venient populi multi, et gentes robustæ, ad quærendum Dominum exercituum in
 
 ** Zechariah 8:23
 
-Hæc dicit Dominus exercituum : In diebus illis, in quibus apprehendent decem homines ex omnibus linguis gentium, et apprehendent fimbriam viri Judæi, dicentes : Ibimus vobiscum : audivimus enim quoniam Deus vobiscum est.  <chapter eID="Zech.8"/>
+Hæc dicit Dominus exercituum : In diebus illis, in quibus apprehendent decem homines ex omnibus linguis gentium, et apprehendent fimbriam viri Judæi, dicentes : Ibimus vobiscum : audivimus enim quoniam Deus vobiscum est.  
 
 * Zechariah 9
 
 ** Zechariah 9:1
 
-Onus verbi Domini in terra Hadrach <l eID="gen31671" level="1"/> <l level="1" sID="gen31672"/>et Damasci requiei ejus, <l eID="gen31672" level="1"/> <l level="1" sID="gen31673"/>quia Domini est oculus hominis et omnium tribuum Israël. <l eID="gen31673" level="1"/>
+Onus verbi Domini in terra Hadrach  et Damasci requiei ejus,  quia Domini est oculus hominis et omnium tribuum Israël. 
 
 ** Zechariah 9:2
 
-Emath quoque in terminis ejus, et Tyrus, et Sidon : <l eID="gen31674" level="1"/> <l level="1" sID="gen31675"/>assumpserunt quippe sibi sapientiam valde. <l eID="gen31675" level="1"/>
+Emath quoque in terminis ejus, et Tyrus, et Sidon :  assumpserunt quippe sibi sapientiam valde. 
 
 ** Zechariah 9:3
 
-Et ædificavit Tyrus munitionem suam, <l eID="gen31676" level="1"/> <l level="1" sID="gen31677"/>et coacervavit argentum quasi humum, <l eID="gen31677" level="1"/> <l level="1" sID="gen31678"/>et aurum ut lutum platearum. <l eID="gen31678" level="1"/>
+Et ædificavit Tyrus munitionem suam,  et coacervavit argentum quasi humum,  et aurum ut lutum platearum. 
 
 ** Zechariah 9:4
 
-Ecce Dominus possidebit eam : <l eID="gen31679" level="1"/> <l level="1" sID="gen31680"/>et percutiet in mari fortitudinem ejus, <l eID="gen31680" level="1"/> <l level="1" sID="gen31681"/>et hæc igni devorabitur. <l eID="gen31681" level="1"/>
+Ecce Dominus possidebit eam :  et percutiet in mari fortitudinem ejus,  et hæc igni devorabitur. 
 
 ** Zechariah 9:5
 
-Videbit Ascalon, et timebit, <l eID="gen31682" level="1"/> <l level="1" sID="gen31683"/>et Gaza, et dolebit nimis, <l eID="gen31683" level="1"/> <l level="1" sID="gen31684"/>et Accaron, quoniam confusa est spes ejus : <l eID="gen31684" level="1"/> <l level="1" sID="gen31685"/>et peribit rex de Gaza, <l eID="gen31685" level="1"/> <l level="1" sID="gen31686"/>et Ascalon non habitabitur. <l eID="gen31686" level="1"/>
+Videbit Ascalon, et timebit,  et Gaza, et dolebit nimis,  et Accaron, quoniam confusa est spes ejus :  et peribit rex de Gaza,  et Ascalon non habitabitur. 
 
 ** Zechariah 9:6
 
-Et sedebit separator in Azoto, <l eID="gen31687" level="1"/> <l level="1" sID="gen31688"/>et disperdam superbiam Philisthinorum. <l eID="gen31688" level="1"/>
+Et sedebit separator in Azoto,  et disperdam superbiam Philisthinorum. 
 
 ** Zechariah 9:7
 
-Et auferam sanguinem ejus de ore ejus, <l eID="gen31689" level="1"/> <l level="1" sID="gen31690"/>et abominationes ejus de medio dentium ejus : <l eID="gen31690" level="1"/> <l level="1" sID="gen31691"/>et relinquetur etiam ipse Deo nostro, <l eID="gen31691" level="1"/> <l level="1" sID="gen31692"/>et erit quasi dux in Juda, <l eID="gen31692" level="1"/> <l level="1" sID="gen31693"/>et Accaron quasi Jebusæus. <l eID="gen31693" level="1"/>
+Et auferam sanguinem ejus de ore ejus,  et abominationes ejus de medio dentium ejus :  et relinquetur etiam ipse Deo nostro,  et erit quasi dux in Juda,  et Accaron quasi Jebusæus. 
 
 ** Zechariah 9:8
 
-Et circumdabo domum meam <l eID="gen31694" level="1"/> <l level="1" sID="gen31695"/>ex his qui militant mihi euntes et revertentes : <l eID="gen31695" level="1"/> <l level="1" sID="gen31696"/>et non transibit super eos ultra exactor, <l eID="gen31696" level="1"/> <l level="1" sID="gen31697"/>quia nunc vidi in oculis meis. <l eID="gen31697" level="1"/>
+Et circumdabo domum meam  ex his qui militant mihi euntes et revertentes :  et non transibit super eos ultra exactor,  quia nunc vidi in oculis meis. 
 
 ** Zechariah 9:9
 
-Exsulta satis, filia Sion ; <l eID="gen31698" level="1"/> <l level="1" sID="gen31699"/>jubila, filia Jerusalem : <l eID="gen31699" level="1"/> <l level="1" sID="gen31700"/>ecce rex tuus veniet tibi justus, et salvator : <l eID="gen31700" level="1"/> <l level="1" sID="gen31701"/>ipse pauper, et ascendens super asinam <l eID="gen31701" level="1"/> <l level="1" sID="gen31702"/>et super pullum filium asinæ. <l eID="gen31702" level="1"/>
+Exsulta satis, filia Sion ;  jubila, filia Jerusalem :  ecce rex tuus veniet tibi justus, et salvator :  ipse pauper, et ascendens super asinam  et super pullum filium asinæ. 
 
 ** Zechariah 9:10
 
-Et disperdam quadrigam ex Ephraim, <l eID="gen31703" level="1"/> <l level="1" sID="gen31704"/>et equum de Jerusalem, <l eID="gen31704" level="1"/> <l level="1" sID="gen31705"/>et dissipabitur arcus belli : <l eID="gen31705" level="1"/> <l level="1" sID="gen31706"/>et loquetur pacem gentibus, <l eID="gen31706" level="1"/> <l level="1" sID="gen31707"/>et potestas ejus a mari usque ad mare, <l eID="gen31707" level="1"/> <l level="1" sID="gen31708"/>et a fluminibus usque ad fines terræ. <l eID="gen31708" level="1"/>
+Et disperdam quadrigam ex Ephraim,  et equum de Jerusalem,  et dissipabitur arcus belli :  et loquetur pacem gentibus,  et potestas ejus a mari usque ad mare,  et a fluminibus usque ad fines terræ. 
 
 ** Zechariah 9:11
 
-Tu quoque in sanguine testamenti tui <l eID="gen31709" level="1"/> <l level="1" sID="gen31710"/>emisisti vinctos tuos de lacu in quo non est aqua. <l eID="gen31710" level="1"/>
+Tu quoque in sanguine testamenti tui  emisisti vinctos tuos de lacu in quo non est aqua. 
 
 ** Zechariah 9:12
 
-Convertimini ad munitionem, vincti spei : <l eID="gen31711" level="1"/> <l level="1" sID="gen31712"/>hodie quoque annuntians duplicia reddam tibi. <l eID="gen31712" level="1"/>
+Convertimini ad munitionem, vincti spei :  hodie quoque annuntians duplicia reddam tibi. 
 
 ** Zechariah 9:13
 
-Quoniam extendi mihi Judam quasi arcum : <l eID="gen31713" level="1"/> <l level="1" sID="gen31714"/>implevi Ephraim : <l eID="gen31714" level="1"/> <l level="1" sID="gen31715"/>et suscitabo filios tuos, Sion, <l eID="gen31715" level="1"/> <l level="1" sID="gen31716"/>super filios tuos, Græcia : <l eID="gen31716" level="1"/> <l level="1" sID="gen31717"/>et ponam te quasi gladium fortium. <l eID="gen31717" level="1"/>
+Quoniam extendi mihi Judam quasi arcum :  implevi Ephraim :  et suscitabo filios tuos, Sion,  super filios tuos, Græcia :  et ponam te quasi gladium fortium. 
 
 ** Zechariah 9:14
 
-Et Dominus Deus super eos videbitur, <l eID="gen31718" level="1"/> <l level="1" sID="gen31719"/>et exibit ut fulgur jaculum ejus : <l eID="gen31719" level="1"/> <l level="1" sID="gen31720"/>et Dominus Deus in tuba canet, <l eID="gen31720" level="1"/> <l level="1" sID="gen31721"/>et vadet in turbine austri. <l eID="gen31721" level="1"/>
+Et Dominus Deus super eos videbitur,  et exibit ut fulgur jaculum ejus :  et Dominus Deus in tuba canet,  et vadet in turbine austri. 
 
 ** Zechariah 9:15
 
-Dominus exercituum proteget eos : <l eID="gen31722" level="1"/> <l level="1" sID="gen31723"/>et devorabunt, et subjicient lapidibus fundæ : <l eID="gen31723" level="1"/> <l level="1" sID="gen31724"/>et bibentes inebriabuntur quasi a vino, <l eID="gen31724" level="1"/> <l level="1" sID="gen31725"/>et replebuntur ut phialæ, <l eID="gen31725" level="1"/> <l level="1" sID="gen31726"/>et quasi cornua altaris. <l eID="gen31726" level="1"/>
+Dominus exercituum proteget eos :  et devorabunt, et subjicient lapidibus fundæ :  et bibentes inebriabuntur quasi a vino,  et replebuntur ut phialæ,  et quasi cornua altaris. 
 
 ** Zechariah 9:16
 
-Et salvabit eos Dominus Deus eorum in die illa, <l eID="gen31727" level="1"/> <l level="1" sID="gen31728"/>ut gregem populi sui, <l eID="gen31728" level="1"/> <l level="1" sID="gen31729"/>quia lapides sancti elevabuntur super terram ejus. <l eID="gen31729" level="1"/>
+Et salvabit eos Dominus Deus eorum in die illa,  ut gregem populi sui,  quia lapides sancti elevabuntur super terram ejus. 
 
 ** Zechariah 9:17
 
-Quid enim bonum ejus est, <l eID="gen31730" level="1"/> <l level="1" sID="gen31731"/>et quid pulchrum ejus, <l eID="gen31731" level="1"/> <l level="1" sID="gen31732"/>nisi frumentum electorum, <l eID="gen31732" level="1"/> <l level="1" sID="gen31733"/>et vinum germinans virgines ?  <chapter eID="Zech.9"/>
+Quid enim bonum ejus est,  et quid pulchrum ejus,  nisi frumentum electorum,  et vinum germinans virgines ?  
 
 * Zechariah 10
 
 ** Zechariah 10:1
 
-Petite a Domino pluviam in tempore serotino, <l eID="gen31734" level="1"/> <l level="1" sID="gen31735"/>et Dominus faciet nives : <l eID="gen31735" level="1"/> <l level="1" sID="gen31736"/>et pluviam imbris dabit eis, <l eID="gen31736" level="1"/> <l level="1" sID="gen31737"/>singulis herbam in agro. <l eID="gen31737" level="1"/>
+Petite a Domino pluviam in tempore serotino,  et Dominus faciet nives :  et pluviam imbris dabit eis,  singulis herbam in agro. 
 
 ** Zechariah 10:2
 
-Quia simulacra locuta sunt inutile, <l eID="gen31738" level="1"/> <l level="1" sID="gen31739"/>et divini viderunt mendacium : <l eID="gen31739" level="1"/> <l level="1" sID="gen31740"/>et somniatores locuti sunt frustra, <l eID="gen31740" level="1"/> <l level="1" sID="gen31741"/>vane consolabantur : <l eID="gen31741" level="1"/> <l level="1" sID="gen31742"/>idcirco abducti sunt quasi grex : <l eID="gen31742" level="1"/> <l level="1" sID="gen31743"/>affligentur, quia non est eis pastor. <l eID="gen31743" level="1"/>
+Quia simulacra locuta sunt inutile,  et divini viderunt mendacium :  et somniatores locuti sunt frustra,  vane consolabantur :  idcirco abducti sunt quasi grex :  affligentur, quia non est eis pastor. 
 
 ** Zechariah 10:3
 
-Super pastores iratus est furor meus, <l eID="gen31744" level="1"/> <l level="1" sID="gen31745"/>et super hircos visitabo : <l eID="gen31745" level="1"/> <l level="1" sID="gen31746"/>quia visitavit Dominus exercituum gregem suum, domum Juda, <l eID="gen31746" level="1"/> <l level="1" sID="gen31747"/>et posuit eos quasi equum gloriæ suæ in bello. <l eID="gen31747" level="1"/>
+Super pastores iratus est furor meus,  et super hircos visitabo :  quia visitavit Dominus exercituum gregem suum, domum Juda,  et posuit eos quasi equum gloriæ suæ in bello. 
 
 ** Zechariah 10:4
 
-Ex ipso angulus, ex ipso paxillus, <l eID="gen31748" level="1"/> <l level="1" sID="gen31749"/>ex ipso arcus prælii, <l eID="gen31749" level="1"/> <l level="1" sID="gen31750"/>ex ipso egredietur omnis exactor simul. <l eID="gen31750" level="1"/>
+Ex ipso angulus, ex ipso paxillus,  ex ipso arcus prælii,  ex ipso egredietur omnis exactor simul. 
 
 ** Zechariah 10:5
 
-Et erunt quasi fortes conculcantes lutum viarum in prælio, <l eID="gen31751" level="1"/> <l level="1" sID="gen31752"/>et bellabunt, quia Dominus cum eis : <l eID="gen31752" level="1"/> <l level="1" sID="gen31753"/>et confundentur ascensores equorum. <l eID="gen31753" level="1"/>
+Et erunt quasi fortes conculcantes lutum viarum in prælio,  et bellabunt, quia Dominus cum eis :  et confundentur ascensores equorum. 
 
 ** Zechariah 10:6
 
-Et confortabo domum Juda, <l eID="gen31754" level="1"/> <l level="1" sID="gen31755"/>et domum Joseph salvabo : <l eID="gen31755" level="1"/> <l level="1" sID="gen31756"/>et convertam eos, quia miserebor eorum : <l eID="gen31756" level="1"/> <l level="1" sID="gen31757"/>et erunt sicut fuerunt quando non projeceram eos : <l eID="gen31757" level="1"/> <l level="1" sID="gen31758"/>ego enim Dominus Deus eorum, et exaudiam eos. <l eID="gen31758" level="1"/>
+Et confortabo domum Juda,  et domum Joseph salvabo :  et convertam eos, quia miserebor eorum :  et erunt sicut fuerunt quando non projeceram eos :  ego enim Dominus Deus eorum, et exaudiam eos. 
 
 ** Zechariah 10:7
 
-Et erunt quasi fortes Ephraim, <l eID="gen31759" level="1"/> <l level="1" sID="gen31760"/>et lætabitur cor eorum quasi a vino : <l eID="gen31760" level="1"/> <l level="1" sID="gen31761"/>et filii eorum videbunt, et lætabuntur, <l eID="gen31761" level="1"/> <l level="1" sID="gen31762"/>et exsultabit cor eorum in Domino. <l eID="gen31762" level="1"/>
+Et erunt quasi fortes Ephraim,  et lætabitur cor eorum quasi a vino :  et filii eorum videbunt, et lætabuntur,  et exsultabit cor eorum in Domino. 
 
 ** Zechariah 10:8
 
-Sibilabo eis, et congregabo illos, <l eID="gen31763" level="1"/> <l level="1" sID="gen31764"/>quia redemi eos : <l eID="gen31764" level="1"/> <l level="1" sID="gen31765"/>et multiplicabo eos sicut ante fuerant multiplicati. <l eID="gen31765" level="1"/>
+Sibilabo eis, et congregabo illos,  quia redemi eos :  et multiplicabo eos sicut ante fuerant multiplicati. 
 
 ** Zechariah 10:9
 
-Et seminabo eos in populis, <l eID="gen31766" level="1"/> <l level="1" sID="gen31767"/>et de longe recordabuntur mei : <l eID="gen31767" level="1"/> <l level="1" sID="gen31768"/>et vivent cum filiis suis, et revertentur. <l eID="gen31768" level="1"/>
+Et seminabo eos in populis,  et de longe recordabuntur mei :  et vivent cum filiis suis, et revertentur. 
 
 ** Zechariah 10:10
 
-Et reducam eos de terra Ægypti, <l eID="gen31769" level="1"/> <l level="1" sID="gen31770"/>et de Assyriis congregabo eos, <l eID="gen31770" level="1"/> <l level="1" sID="gen31771"/>et ad terram Galaad et Libani adducam eos, <l eID="gen31771" level="1"/> <l level="1" sID="gen31772"/>et non invenietur eis locus : <l eID="gen31772" level="1"/>
+Et reducam eos de terra Ægypti,  et de Assyriis congregabo eos,  et ad terram Galaad et Libani adducam eos,  et non invenietur eis locus : 
 
 ** Zechariah 10:11
 
-et transibit in maris freto, <l eID="gen31773" level="1"/> <l level="1" sID="gen31774"/>et percutiet in mari fluctus, <l eID="gen31774" level="1"/> <l level="1" sID="gen31775"/>et confundentur omnia profunda fluminis : <l eID="gen31775" level="1"/> <l level="1" sID="gen31776"/>et humiliabitur superbia Assur, <l eID="gen31776" level="1"/> <l level="1" sID="gen31777"/>et sceptrum Ægypti recedet. <l eID="gen31777" level="1"/>
+et transibit in maris freto,  et percutiet in mari fluctus,  et confundentur omnia profunda fluminis :  et humiliabitur superbia Assur,  et sceptrum Ægypti recedet. 
 
 ** Zechariah 10:12
 
-Confortabo eos in Domino, <l eID="gen31778" level="1"/> <l level="1" sID="gen31779"/>et in nomine ejus ambulabunt, dicit Dominus.  <chapter eID="Zech.10"/>
+Confortabo eos in Domino,  et in nomine ejus ambulabunt, dicit Dominus.  
 
 * Zechariah 11
 
 ** Zechariah 11:1
 
-Aperi, Libane, portas tuas, <l eID="gen31780" level="1"/> <l level="1" sID="gen31781"/>et comedat ignis cedros tuas. <l eID="gen31781" level="1"/>
+Aperi, Libane, portas tuas,  et comedat ignis cedros tuas. 
 
 ** Zechariah 11:2
 
-Ulula, abies, quia cecidit cedrus, <l eID="gen31782" level="1"/> <l level="1" sID="gen31783"/>quoniam magnifici vastati sunt : <l eID="gen31783" level="1"/> <l level="1" sID="gen31784"/>ululate, quercus Basan, <l eID="gen31784" level="1"/> <l level="1" sID="gen31785"/>quoniam succisus est saltus munitus. <l eID="gen31785" level="1"/>
+Ulula, abies, quia cecidit cedrus,  quoniam magnifici vastati sunt :  ululate, quercus Basan,  quoniam succisus est saltus munitus. 
 
 ** Zechariah 11:3
 
-Vox ululatus pastorum, <l eID="gen31786" level="1"/> <l level="1" sID="gen31787"/>quia vastata est magnificentia eorum : <l eID="gen31787" level="1"/> <l level="1" sID="gen31788"/>vox rugitus leonum, <l eID="gen31788" level="1"/> <l level="1" sID="gen31789"/>quoniam vastata est superbia Jordanis. <l eID="gen31789" level="1"/> <lg eID="gen31670"/>
+Vox ululatus pastorum,  quia vastata est magnificentia eorum :  vox rugitus leonum,  quoniam vastata est superbia Jordanis.  
 
 ** Zechariah 11:4
 
@@ -686,91 +686,91 @@ Quia ecce ego suscitabo pastorem in terra, qui derelicta non visitabit, dispersu
 
 ** Zechariah 11:17
 
-O pastor, et idolum derelinquens gregem : gladius super brachium ejus, et super oculum dextrum ejus : brachium ejus ariditate siccabitur, et oculus dexter ejus tenebrescens obscurabitur.  <chapter eID="Zech.11"/> <div eID="gen31790" type="x-p"/>
+O pastor, et idolum derelinquens gregem : gladius super brachium ejus, et super oculum dextrum ejus : brachium ejus ariditate siccabitur, et oculus dexter ejus tenebrescens obscurabitur.   
 
 * Zechariah 12
 
 ** Zechariah 12:1
 
-Onus verbi Domini super Israël. <div eID="gen31791" type="x-p"/> <lg sID="gen31792"/> <l level="1" sID="gen31793"/>Dicit Dominus extendens cælum, et fundans terram, <l eID="gen31793" level="1"/> <l level="1" sID="gen31794"/>et fingens spiritum hominis in eo : <l eID="gen31794" level="1"/>
+Onus verbi Domini super Israël.   Dicit Dominus extendens cælum, et fundans terram,  et fingens spiritum hominis in eo : 
 
 ** Zechariah 12:2
 
-Ecce ego ponam Jerusalem superliminare crapulæ <l eID="gen31795" level="1"/> <l level="1" sID="gen31796"/>omnibus populis in circuitu : <l eID="gen31796" level="1"/> <l level="1" sID="gen31797"/>sed et Juda erit in obsidione contra Jerusalem. <l eID="gen31797" level="1"/>
+Ecce ego ponam Jerusalem superliminare crapulæ  omnibus populis in circuitu :  sed et Juda erit in obsidione contra Jerusalem. 
 
 ** Zechariah 12:3
 
-Et erit : in die illa ponam Jerusalem lapidem oneris cunctis populis : <l eID="gen31798" level="1"/> <l level="1" sID="gen31799"/>omnes qui levabunt eam concisione lacerabuntur, <l eID="gen31799" level="1"/> <l level="1" sID="gen31800"/>et colligentur adversus eam omnia regna terræ. <l eID="gen31800" level="1"/>
+Et erit : in die illa ponam Jerusalem lapidem oneris cunctis populis :  omnes qui levabunt eam concisione lacerabuntur,  et colligentur adversus eam omnia regna terræ. 
 
 ** Zechariah 12:4
 
-In die illa, dicit Dominus, <l eID="gen31801" level="1"/> <l level="1" sID="gen31802"/>percutiam omnem equum in stuporem, <l eID="gen31802" level="1"/> <l level="1" sID="gen31803"/>et ascensorem ejus in amentiam : <l eID="gen31803" level="1"/> <l level="1" sID="gen31804"/>et super domum Juda aperiam oculos meos, <l eID="gen31804" level="1"/> <l level="1" sID="gen31805"/>et omnem equum populorum percutiam cæcitate. <l eID="gen31805" level="1"/>
+In die illa, dicit Dominus,  percutiam omnem equum in stuporem,  et ascensorem ejus in amentiam :  et super domum Juda aperiam oculos meos,  et omnem equum populorum percutiam cæcitate. 
 
 ** Zechariah 12:5
 
-Et dicent duces Juda in corde suo : <l eID="gen31806" level="1"/> <l level="1" sID="gen31807"/>Confortentur mihi habitatores Jerusalem <l eID="gen31807" level="1"/> <l level="1" sID="gen31808"/>in Domino exercituum, Deo eorum ! <l eID="gen31808" level="1"/>
+Et dicent duces Juda in corde suo :  Confortentur mihi habitatores Jerusalem  in Domino exercituum, Deo eorum ! 
 
 ** Zechariah 12:6
 
-In die illa ponam duces Juda <l eID="gen31809" level="1"/> <l level="1" sID="gen31810"/>sicut caminum ignis in lignis, <l eID="gen31810" level="1"/> <l level="1" sID="gen31811"/>et sicut facem ignis in fœno : <l eID="gen31811" level="1"/> <l level="1" sID="gen31812"/>et devorabunt ad dexteram et ad sinistram omnes populos in circuitu, <l eID="gen31812" level="1"/> <l level="1" sID="gen31813"/>et habitabitur Jerusalem rursus in loco suo in Jerusalem. <l eID="gen31813" level="1"/>
+In die illa ponam duces Juda  sicut caminum ignis in lignis,  et sicut facem ignis in fœno :  et devorabunt ad dexteram et ad sinistram omnes populos in circuitu,  et habitabitur Jerusalem rursus in loco suo in Jerusalem. 
 
 ** Zechariah 12:7
 
-Et salvabit Dominus tabernacula Juda, sicut in principio, <l eID="gen31814" level="1"/> <l level="1" sID="gen31815"/>ut non magnifice glorietur domus David, <l eID="gen31815" level="1"/> <l level="1" sID="gen31816"/>et gloria habitantium Jerusalem contra Judam. <l eID="gen31816" level="1"/>
+Et salvabit Dominus tabernacula Juda, sicut in principio,  ut non magnifice glorietur domus David,  et gloria habitantium Jerusalem contra Judam. 
 
 ** Zechariah 12:8
 
-In die illa proteget Dominus habitatores Jerusalem : <l eID="gen31817" level="1"/> <l level="1" sID="gen31818"/>et erit qui offenderit ex eis in die illa quasi David, <l eID="gen31818" level="1"/> <l level="1" sID="gen31819"/>et domus David quasi Dei, <l eID="gen31819" level="1"/> <l level="1" sID="gen31820"/>sicut angelus Domini in conspectu eorum. <l eID="gen31820" level="1"/>
+In die illa proteget Dominus habitatores Jerusalem :  et erit qui offenderit ex eis in die illa quasi David,  et domus David quasi Dei,  sicut angelus Domini in conspectu eorum. 
 
 ** Zechariah 12:9
 
-Et erit in die illa : <l eID="gen31821" level="1"/> <l level="1" sID="gen31822"/>quæram conterere omnes gentes quæ veniunt contra Jerusalem. <l eID="gen31822" level="1"/>
+Et erit in die illa :  quæram conterere omnes gentes quæ veniunt contra Jerusalem. 
 
 ** Zechariah 12:10
 
-Et effundam super domum David <l eID="gen31823" level="1"/> <l level="1" sID="gen31824"/>et super habitatores Jerusalem <l eID="gen31824" level="1"/> <l level="1" sID="gen31825"/>spiritum gratiæ et precum : <l eID="gen31825" level="1"/> <l level="1" sID="gen31826"/>et aspicient ad me quem confixerunt, <l eID="gen31826" level="1"/> <l level="1" sID="gen31827"/>et plangent eum planctu quasi super unigenitum, <l eID="gen31827" level="1"/> <l level="1" sID="gen31828"/>et dolebunt super eum, <l eID="gen31828" level="1"/> <l level="1" sID="gen31829"/>ut doleri solet in morte primogeniti. <l eID="gen31829" level="1"/>
+Et effundam super domum David  et super habitatores Jerusalem  spiritum gratiæ et precum :  et aspicient ad me quem confixerunt,  et plangent eum planctu quasi super unigenitum,  et dolebunt super eum,  ut doleri solet in morte primogeniti. 
 
 ** Zechariah 12:11
 
-In die illa, magnus erit planctus in Jerusalem, <l eID="gen31830" level="1"/> <l level="1" sID="gen31831"/>sicut planctus Adadremmon in campo Mageddon. <l eID="gen31831" level="1"/>
+In die illa, magnus erit planctus in Jerusalem,  sicut planctus Adadremmon in campo Mageddon. 
 
 ** Zechariah 12:12
 
-Et planget terra : familiæ et familiæ seorsum : <l eID="gen31832" level="1"/> <l level="1" sID="gen31833"/>familiæ domus David seorsum, et mulieres eorum seorsum : <l eID="gen31833" level="1"/>
+Et planget terra : familiæ et familiæ seorsum :  familiæ domus David seorsum, et mulieres eorum seorsum : 
 
 ** Zechariah 12:13
 
-familiæ domus Nathan seorsum, et mulieres eorum seorsum : <l eID="gen31834" level="1"/> <l level="1" sID="gen31835"/>familiæ domus Levi seorsum, et mulieres eorum seorsum : <l eID="gen31835" level="1"/> <l level="1" sID="gen31836"/>familiæ Semei seorsum, et mulieres eorum seorsum : <l eID="gen31836" level="1"/>
+familiæ domus Nathan seorsum, et mulieres eorum seorsum :  familiæ domus Levi seorsum, et mulieres eorum seorsum :  familiæ Semei seorsum, et mulieres eorum seorsum : 
 
 ** Zechariah 12:14
 
-omnes familiæ reliquæ, <l eID="gen31837" level="1"/> <l level="1" sID="gen31838"/>familiæ et familiæ seorsum, et mulieres eorum seorsum.  <chapter eID="Zech.12"/>
+omnes familiæ reliquæ,  familiæ et familiæ seorsum, et mulieres eorum seorsum.  
 
 * Zechariah 13
 
 ** Zechariah 13:1
 
-In die illa erit fons patens domui David et habitantibus Jerusalem, <l eID="gen31839" level="1"/> <l level="1" sID="gen31840"/>in ablutionem peccatoris et menstruatæ. <l eID="gen31840" level="1"/>
+In die illa erit fons patens domui David et habitantibus Jerusalem,  in ablutionem peccatoris et menstruatæ. 
 
 ** Zechariah 13:2
 
-Et erit in die illa, dicit Dominus exercituum : <l eID="gen31841" level="1"/> <l level="1" sID="gen31842"/>disperdam nomina idolorum de terra, <l eID="gen31842" level="1"/> <l level="1" sID="gen31843"/>et non memorabuntur ultra : <l eID="gen31843" level="1"/> <l level="1" sID="gen31844"/>et pseudoprophetas, et spiritum immundum auferam de terra. <l eID="gen31844" level="1"/>
+Et erit in die illa, dicit Dominus exercituum :  disperdam nomina idolorum de terra,  et non memorabuntur ultra :  et pseudoprophetas, et spiritum immundum auferam de terra. 
 
 ** Zechariah 13:3
 
-Et erit : cum prophetaverit quispiam ultra, <l eID="gen31845" level="1"/> <l level="1" sID="gen31846"/>dicent ei pater ejus et mater ejus, qui genuerunt eum : <l eID="gen31846" level="1"/> <l level="1" sID="gen31847"/>Non vives, quia mendacium locutus es in nomine Domini : <l eID="gen31847" level="1"/> <l level="1" sID="gen31848"/>et configent eum pater ejus et mater ejus, genitores ejus, <l eID="gen31848" level="1"/> <l level="1" sID="gen31849"/>cum prophetaverit. <l eID="gen31849" level="1"/>
+Et erit : cum prophetaverit quispiam ultra,  dicent ei pater ejus et mater ejus, qui genuerunt eum :  Non vives, quia mendacium locutus es in nomine Domini :  et configent eum pater ejus et mater ejus, genitores ejus,  cum prophetaverit. 
 
 ** Zechariah 13:4
 
-Et erit : in die illa confundentur prophetæ, <l eID="gen31850" level="1"/> <l level="1" sID="gen31851"/>unusquisque ex visione sua cum prophetaverit : <l eID="gen31851" level="1"/> <l level="1" sID="gen31852"/>nec operientur pallio saccino, ut mentiantur : <l eID="gen31852" level="1"/>
+Et erit : in die illa confundentur prophetæ,  unusquisque ex visione sua cum prophetaverit :  nec operientur pallio saccino, ut mentiantur : 
 
 ** Zechariah 13:5
 
-sed dicet : Non sum propheta : <l eID="gen31853" level="1"/> <l level="1" sID="gen31854"/>homo agricola ego sum, <l eID="gen31854" level="1"/> <l level="1" sID="gen31855"/>quoniam Adam exemplum meum ab adolescentia mea. <l eID="gen31855" level="1"/>
+sed dicet : Non sum propheta :  homo agricola ego sum,  quoniam Adam exemplum meum ab adolescentia mea. 
 
 ** Zechariah 13:6
 
-Et dicetur ei : Quid sunt plagæ istæ in medio manuum tuarum ? <l eID="gen31856" level="1"/> <l level="1" sID="gen31857"/>Et dicet : His plagatus sum in domo eorum qui diligebant me. <l eID="gen31857" level="1"/> <lg eID="gen31792"/>
+Et dicetur ei : Quid sunt plagæ istæ in medio manuum tuarum ?  Et dicet : His plagatus sum in domo eorum qui diligebant me.  
 
 ** Zechariah 13:7
 
@@ -782,7 +782,7 @@ Et erunt in omni terra, dicit Dominus : partes duæ in ea dispergentur, et defic
 
 ** Zechariah 13:9
 
-Et ducam tertiam partem per ignem, et uram eos sicut uritur argentum, et probabo eos sicut probatur aurum. Ipse vocabit nomen meum, et ego exaudiam eum. Dicam : Populus meus es : et ipse dicet : Dominus Deus meus.  <chapter eID="Zech.13"/> <div eID="gen31858" type="x-p"/>
+Et ducam tertiam partem per ignem, et uram eos sicut uritur argentum, et probabo eos sicut probatur aurum. Ipse vocabit nomen meum, et ego exaudiam eum. Dicam : Populus meus es : et ipse dicet : Dominus Deus meus.   
 
 * Zechariah 14
 
@@ -828,7 +828,7 @@ Et revertetur omnis terra usque ad desertum, de colle Remmon ad austrum Jerusale
 
 ** Zechariah 14:11
 
-Et habitabunt in ea, et anathema non erit amplius, sed sedebit Jerusalem secura.  <div eID="gen31859" type="x-p"/>
+Et habitabunt in ea, et anathema non erit amplius, sed sedebit Jerusalem secura.  
 
 ** Zechariah 14:12
 
@@ -868,5 +868,5 @@ In die illa, erit quod super frenum equi est, sanctum Domino : et erunt lebetes 
 
 ** Zechariah 14:21
 
-Et erit omnis lebes in Jerusalem et in Juda sanctificatus Domino exercituum : et venient omnes immolantes, et sument ex eis, et coquent in eis : et non erit mercator ultra in domo Domini exercituum in die illo.  <div eID="gen31860" type="x-p"/> <chapter eID="Zech.14"/> <div eID="gen31585" osisID="Zech" type="book"/>
+Et erit omnis lebes in Jerusalem et in Juda sanctificatus Domino exercituum : et venient omnes immolantes, et sument ex eis, et coquent in eis : et non erit mercator ultra in domo Domini exercituum in die illo.    
 

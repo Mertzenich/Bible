@@ -98,7 +98,7 @@ But after forty-five days, the king was killed by his own sons.
 
 *** Tobit 1:25
 
-And Tobias returned to his house, and all his substance was restored to him. <chapter eID="gen13138" osisID="Tob.1"/>
+And Tobias returned to his house, and all his substance was restored to him. 
 
 ** Tobit 2
 
@@ -192,7 +192,7 @@ At these words his wife being angry answered: It is evident the hope is come to 
 
 *** Tobit 2:23
 
-And with these and other such like words, she upbraided him. <chapter eID="gen13164" osisID="Tob.2"/>
+And with these and other such like words, she upbraided him. 
 
 ** Tobit 3
 
@@ -294,7 +294,7 @@ At that time the prayers of them both were heard in the sight of the glory of th
 
 *** Tobit 3:25
 
-And the holy angel of the Lord, Raphael was sent to heal them both, whose prayers at one time were rehearsed in the sight of the Lord. <chapter eID="gen13188" osisID="Tob.3"/>
+And the holy angel of the Lord, Raphael was sent to heal them both, whose prayers at one time were rehearsed in the sight of the Lord. 
 
 ** Tobit 4
 
@@ -388,7 +388,7 @@ Now therefore inquire how thou mayst go to him, and receive of him the foresaid 
 
 *** Tobit 4:23
 
-Fear not, my son: we lead indeed a poor life, but we shall have many good things if we fear God, and depart from all sin, and do that which is good. <chapter eID="gen13214" osisID="Tob.4"/>
+Fear not, my son: we lead indeed a poor life, but we shall have many good things if we fear God, and depart from all sin, and do that which is good. 
 
 ** Tobit 5
 
@@ -502,7 +502,7 @@ For I believe that the good angel of God doth accompany him, and doth order all 
 
 *** Tobit 5:28
 
-At these words his mother ceased weeping, and held her peace. <chapter eID="gen13238" osisID="Tob.5"/>
+At these words his mother ceased weeping, and held her peace. 
 
 ** Tobit 6
 
@@ -592,7 +592,7 @@ And the third night thou shalt obtain a blessing that sound children may be born
 
 *** Tobit 6:22
 
-And when the third night is past, thou shalt take the virgin with the fear of the Lord, moved rather for love of children than for lust, that in the seed of Abraham thou mayst obtain a blessing in children. <chapter eID="gen13267" osisID="Tob.6"/>
+And when the third night is past, thou shalt take the virgin with the fear of the Lord, moved rather for love of children than for lust, that in the seed of Abraham thou mayst obtain a blessing in children. 
 
 ** Tobit 7
 
@@ -674,7 +674,7 @@ And she brought Sara her daughter in thither, and she wept.
 
 *** Tobit 7:20
 
-And she said to her: Be of good cheer, my daughter: the Lord of heaven give thee joy for the trouble thou hast undergone. <chapter eID="gen13290" osisID="Tob.7"/>
+And she said to her: Be of good cheer, my daughter: the Lord of heaven give thee joy for the trouble thou hast undergone. 
 
 ** Tobit 8
 
@@ -772,7 +772,7 @@ And Raguel adjured Tobias, to abide with him two weeks.
 
 *** Tobit 8:24
 
-And of all things which Raguel possessed, he gave one half to Tobias, and made a writing, that the half that remained should after their decease come also to Tobias. <chapter eID="gen13311" osisID="Tob.8"/>
+And of all things which Raguel possessed, he gave one half to Tobias, and made a writing, that the half that remained should after their decease come also to Tobias. 
 
 ** Tobit 9
 
@@ -822,7 +822,7 @@ And may you see your children, and your children's children, unto the third and 
 
 *** Tobit 9:12
 
-And when all had said, Amen, they went to the feast: but the marriage feast they celebrated also with the fear of the Lord. <chapter eID="gen13336" osisID="Tob.9"/>
+And when all had said, Amen, they went to the feast: but the marriage feast they celebrated also with the fear of the Lord. 
 
 ** Tobit 10
 
@@ -876,7 +876,7 @@ And the parents taking their daughter kissed her, and let her go:
 
 *** Tobit 10:13
 
-Admonishing her to honour her father and mother in law, to love her husband, to take care of the family, to govern the house, and to behave herself irreprehensibly. <chapter eID="gen13349" osisID="Tob.10"/>
+Admonishing her to honour her father and mother in law, to love her husband, to take care of the family, to govern the house, and to behave herself irreprehensibly. 
 
 ** Tobit 11
 
@@ -962,7 +962,7 @@ And Achior and Nabath the kinsmen of Tobias came, rejoicing for Tobias, and cong
 
 *** Tobit 11:21
 
-And for seven days they feasted and rejoiced all with great joy. <chapter eID="gen13363" osisID="Tob.11"/>
+And for seven days they feasted and rejoiced all with great joy. 
 
 ** Tobit 12
 
@@ -1052,7 +1052,7 @@ And when he had said these things, he was taken from their sight, and they could
 
 *** Tobit 12:22
 
-Then they lying prostrate for three hours upon their face, blessed God, and rising up, they told all his wonderful works. <chapter eID="gen13385" osisID="Tob.12"/>
+Then they lying prostrate for three hours upon their face, blessed God, and rising up, they told all his wonderful works. 
 
 ** Tobit 13
 
@@ -1146,7 +1146,7 @@ All its streets shall be paved with white and clean stones: and Alleluia shall b
 
 *** Tobit 13:23
 
-Blessed be the Lord, who hath exalted it, and may he reign over it for ever and ever, Amen. <chapter eID="gen13408" osisID="Tob.13"/>
+Blessed be the Lord, who hath exalted it, and may he reign over it for ever and ever, Amen. 
 
 ** Tobit 14
 
@@ -1216,4 +1216,4 @@ And after he had lived ninety-nine years in the fear of the Lord, with joy they 
 
 *** Tobit 14:17
 
-And all his kindred, and all his generation continued in good life, and in holy conversation, so that they were acceptable both to God, and to men, and to all that dwelt in the land. <chapter eID="gen13432" osisID="Tob.14"/> <div eID="gen13137" osisID="Tob" type="book"/>
+And all his kindred, and all his generation continued in good life, and in holy conversation, so that they were acceptable both to God, and to men, and to all that dwelt in the land.  

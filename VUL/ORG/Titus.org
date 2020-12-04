@@ -14,7 +14,7 @@ manifestavit autem temporibus suis verbum suum in prædicatione, quæ credita es
 
 ** Titus 1:4
 
-Tito dilecto filio secundum communem fidem, gratia, et pax a Deo Patre, et Christo Jesu Salvatore nostro.  <div eID="gen33138" type="x-p"/>
+Tito dilecto filio secundum communem fidem, gratia, et pax a Deo Patre, et Christo Jesu Salvatore nostro.  
 
 ** Titus 1:5
 
@@ -34,7 +34,7 @@ sed hospitalem, benignum, sobrium, justum, sanctum, continentem,
 
 ** Titus 1:9
 
-amplectentem eum, qui secundum doctrinam est, fidelem sermonem : ut potens sit exhortari in doctrina sana, et eos qui contradicunt, arguere.  <div eID="gen33139" type="x-p"/>
+amplectentem eum, qui secundum doctrinam est, fidelem sermonem : ut potens sit exhortari in doctrina sana, et eos qui contradicunt, arguere.  
 
 ** Titus 1:10
 
@@ -62,7 +62,7 @@ Omnia munda mundis : coinquinatis autem et infidelibus, nihil est mundum, sed in
 
 ** Titus 1:16
 
-Confitentur se nosse Deum, factis autem negant : cum sint abominati, et incredibiles, et ad omne opus bonum reprobi.  <chapter eID="Titus.1"/> <div eID="gen33140" type="x-p"/>
+Confitentur se nosse Deum, factis autem negant : cum sint abominati, et incredibiles, et ad omne opus bonum reprobi.   
 
 * Titus 2
 
@@ -124,7 +124,7 @@ qui dedit semetipsum pro nobis, ut nos redimeret ab omni iniquitate, et mundaret
 
 ** Titus 2:15
 
-Hæc loquere, et exhortare, et argue cum omni imperio. Nemo te contemnat.  <chapter eID="Titus.2"/> <div eID="gen33141" type="x-p"/>
+Hæc loquere, et exhortare, et argue cum omni imperio. Nemo te contemnat.   
 
 * Titus 3
 
@@ -170,7 +170,7 @@ Hæreticum hominem post unam et secundam correptionem devita :
 
 ** Titus 3:11
 
-sciens quia subversus est, qui ejusmodi est, et delinquit, cum sit proprio judicio condemnatus.  <div eID="gen33142" type="x-p"/>
+sciens quia subversus est, qui ejusmodi est, et delinquit, cum sit proprio judicio condemnatus.  
 
 ** Titus 3:12
 
@@ -186,5 +186,5 @@ Discant autem et nostri bonis operibus præesse ad usus necessarios : ut non sin
 
 ** Titus 3:15
 
-Salutant te qui mecum sunt omnes : saluta eos qui nos amant in fide. Gratia Dei cum omnibus vobis. Amen.  <div eID="gen33143" type="x-p"/> <chapter eID="Titus.3"/> <div eID="gen33137" osisID="Titus" type="book"/>
+Salutant te qui mecum sunt omnes : saluta eos qui nos amant in fide. Gratia Dei cum omnibus vobis. Amen.    
 

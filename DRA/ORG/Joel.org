@@ -78,7 +78,7 @@ To thee, O Lord, will I cry: because fire hath devoured the beautiful places of 
 
 *** Joel 1:20
 
-Yea, and the beasts of the field have looked up to thee, as a garden bed that thirsteth after rain, for the springs of waters are dried up, and fire hath devoured the beautiful places of the wilderness. <chapter eID="gen26551" osisID="Joel.1"/>
+Yea, and the beasts of the field have looked up to thee, as a garden bed that thirsteth after rain, for the springs of waters are dried up, and fire hath devoured the beautiful places of the wilderness. 
 
 ** Joel 2
 
@@ -208,7 +208,7 @@ The sun shall be turned into darkness, and the moon into blood: before the great
 
 *** Joel 2:32
 
-And it shall come to pass, that every one that shall call upon the name of the Lord, shall be saved: for in Mount Sion, and in Jerusalem shall be salvation, as the Lord hath said, and in the residue whom the Lord shall call. <chapter eID="gen26572" osisID="Joel.2"/>
+And it shall come to pass, that every one that shall call upon the name of the Lord, shall be saved: for in Mount Sion, and in Jerusalem shall be salvation, as the Lord hath said, and in the residue whom the Lord shall call. 
 
 ** Joel 3
 
@@ -294,4 +294,4 @@ And Judea shall be inhabited for ever, and Jerusalem to generation and generatio
 
 *** Joel 3:21
 
-And I will cleanse their blood, which I had not cleansed: and the Lord will dwell in Sion. <chapter eID="gen26605" osisID="Joel.3"/> <div eID="gen26550" osisID="Joel" type="book"/>
+And I will cleanse their blood, which I had not cleansed: and the Lord will dwell in Sion.  

@@ -3230,7 +3230,7 @@ Non fuit Phase simile huic in Israël a diebus Samuelis prophetæ : sed nec quis
 
 ** II Chronicles 35:19
 
-Octavodecimo anno regni Josiæ hoc Phase celebratum est.  <div eID="gen2132" type="x-p"/>
+Octavodecimo anno regni Josiæ hoc Phase celebratum est.  
 
 ** II Chronicles 35:20
 
@@ -3262,7 +3262,7 @@ Reliqua autem sermonum Josiæ, et misericordiarum ejus, quæ lege præcepta sunt
 
 ** II Chronicles 35:27
 
-opera quoque illius prima et novissima, scripta sunt in libro regum Juda et Israël.  <chapter eID="2Chr.35"/> <div eID="gen2133" type="x-p"/>
+opera quoque illius prima et novissima, scripta sunt in libro regum Juda et Israël.   
 
 * II Chronicles 36
 
@@ -3280,7 +3280,7 @@ Amovit autem eum rex Ægypti cum venisset in Jerusalem, et condemnavit terram ce
 
 ** II Chronicles 36:4
 
-Constituitque pro eo regem Eliakim fratrem ejus super Judam et Jerusalem, et vertit nomen ejus Joakim : ipsum vero Joachaz tulit secum, et abduxit in Ægyptum.  <div eID="gen2134" type="x-p"/>
+Constituitque pro eo regem Eliakim fratrem ejus super Judam et Jerusalem, et vertit nomen ejus Joakim : ipsum vero Joachaz tulit secum, et abduxit in Ægyptum.  
 
 ** II Chronicles 36:5
 
@@ -3296,7 +3296,7 @@ Ad quam et vasa Domini transtulit, et posuit ea in templo suo.
 
 ** II Chronicles 36:8
 
-Reliqua autem verborum Joakim, et abominationum ejus quas operatus est, et quæ inventa sunt in eo, continentur in libro regum Juda et Israël. Regnavit autem Joachin filius ejus pro eo.  <div eID="gen2135" type="x-p"/>
+Reliqua autem verborum Joakim, et abominationum ejus quas operatus est, et quæ inventa sunt in eo, continentur in libro regum Juda et Israël. Regnavit autem Joachin filius ejus pro eo.  
 
 ** II Chronicles 36:9
 
@@ -3304,7 +3304,7 @@ Octo annorum erat Joachin cum regnare cœpisset, et tribus mensibus ac decem die
 
 ** II Chronicles 36:10
 
-Cumque anni circulus volveretur, misit Nabuchodonosor rex, qui adduxerunt eum in Babylonem, asportatis simul pretiosissimis vasis domus Domini. Regem vero constituit Sedeciam patruum ejus super Judam et Jerusalem.  <div eID="gen2136" type="x-p"/>
+Cumque anni circulus volveretur, misit Nabuchodonosor rex, qui adduxerunt eum in Babylonem, asportatis simul pretiosissimis vasis domus Domini. Regem vero constituit Sedeciam patruum ejus super Judam et Jerusalem.  
 
 ** II Chronicles 36:11
 
@@ -3348,7 +3348,7 @@ Si quis evaserat gladium, ductus in Babylonem servivit regi et filiis ejus, done
 
 ** II Chronicles 36:21
 
-et compleretur sermo Domini ex ore Jeremiæ, et celebraret terra sabbata sua : cunctis enim diebus desolationis egit sabbatum usque dum complerentur septuaginta anni.  <div eID="gen2137" type="x-p"/>
+et compleretur sermo Domini ex ore Jeremiæ, et celebraret terra sabbata sua : cunctis enim diebus desolationis egit sabbatum usque dum complerentur septuaginta anni.  
 
 ** II Chronicles 36:22
 
@@ -3356,5 +3356,5 @@ Anno autem primo Cyri regis Persarum, ad explendum sermonem Domini quem locutus 
 
 ** II Chronicles 36:23
 
-Hæc dicit Cyrus rex Persarum : Omnia regna terræ dedit mihi Dominus Deus cæli, et ipse præcepit mihi ut ædificarem ei domum in Jerusalem, quæ est in Judæa : quis ex vobis est in omni populo ejus ? sit Dominus Deus suus cum eo, et ascendat.  <div eID="gen2138" type="x-p"/> <chapter eID="2Chr.36"/> <div eID="gen2053" osisID="2Chr" type="book"/>
+Hæc dicit Cyrus rex Persarum : Omnia regna terræ dedit mihi Dominus Deus cæli, et ipse præcepit mihi ut ædificarem ei domum in Jerusalem, quæ est in Judæa : quis ex vobis est in omni populo ejus ? sit Dominus Deus suus cum eo, et ascendat.    
 

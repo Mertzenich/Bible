@@ -62,7 +62,7 @@ Behold thou art fair, my beloved, and comely. Our bed is flourishing.
 
 *** Song of Solomon 1:16
 
-The beams of our houses are of cedar, our rafters of cypress trees. <chapter eID="gen19083" osisID="Song.1"/>
+The beams of our houses are of cedar, our rafters of cypress trees. 
 
 ** Song of Solomon 2
 
@@ -132,7 +132,7 @@ My beloved to me, and I to him who feedeth among the lilies,
 
 *** Song of Solomon 2:17
 
-Till the day break, and the shadows retire. Return: be like, my beloved, to a roe, or to a young hart upon the mountains of Bether. <chapter eID="gen19100" osisID="Song.2"/>
+Till the day break, and the shadows retire. Return: be like, my beloved, to a roe, or to a young hart upon the mountains of Bether. 
 
 ** Song of Solomon 3
 
@@ -178,7 +178,7 @@ The pillars thereof he made of silver, the seat of gold, the going up of purple:
 
 *** Song of Solomon 3:11
 
-Go forth, ye daughters of Sion, and see king Solomon in the diadem, wherewith his mother crowned him in the day of his espousal, in the day of the joy of his heart. <chapter eID="gen19118" osisID="Song.3"/>
+Go forth, ye daughters of Sion, and see king Solomon in the diadem, wherewith his mother crowned him in the day of his espousal, in the day of the joy of his heart. 
 
 ** Song of Solomon 4
 
@@ -244,7 +244,7 @@ The fountain of gardens: the well of living waters, which run with a strong stre
 
 *** Song of Solomon 4:16
 
-Arise, O north wind, and come, O south wind, blow through my garden, and let the aromatical spices thereof flow. <chapter eID="gen19130" osisID="Song.4"/>
+Arise, O north wind, and come, O south wind, blow through my garden, and let the aromatical spices thereof flow. 
 
 ** Song of Solomon 5
 
@@ -314,7 +314,7 @@ His throat most sweet, and he is all lovely: such is my beloved, and he is my fr
 
 *** Song of Solomon 5:17
 
-Whither is thy beloved gone, O thou most beautiful among women? whither is thy beloved turned aside, and we will seek him with thee? <chapter eID="gen19147" osisID="Song.5"/>
+Whither is thy beloved gone, O thou most beautiful among women? whither is thy beloved turned aside, and we will seek him with thee? 
 
 ** Song of Solomon 6
 
@@ -364,7 +364,7 @@ I knew not: my soul troubled me for the chariots of Aminadab.
 
 *** Song of Solomon 6:12
 
-Return, return, O Sulamitess: return, return that we may behold thee. <chapter eID="gen19165" osisID="Song.6"/>
+Return, return, O Sulamitess: return, return that we may behold thee. 
 
 ** Song of Solomon 7
 
@@ -418,7 +418,7 @@ Let us get up early to the vineyards, let us see if the vineyard flourish, if th
 
 *** Song of Solomon 7:13
 
-The mandrakes give a smell. In our gates are all fruits: the new and the old, my beloved, I have kept for thee. <chapter eID="gen19178" osisID="Song.7"/>
+The mandrakes give a smell. In our gates are all fruits: the new and the old, my beloved, I have kept for thee. 
 
 ** Song of Solomon 8
 
@@ -476,4 +476,4 @@ Thou that dwellest in the gardens, the friends hearken: make me hear thy voice.
 
 *** Song of Solomon 8:14
 
-Flee away, O my beloved, and be like to the roe, and to the young hart upon the mountains of aromatical spices. <chapter eID="gen19192" osisID="Song.8"/> <div eID="gen19082" osisID="Song" type="book"/>
+Flee away, O my beloved, and be like to the roe, and to the young hart upon the mountains of aromatical spices.  

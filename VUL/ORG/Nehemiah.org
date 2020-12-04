@@ -42,7 +42,7 @@ Et ipsi servi tui, et populus tuus, quos redemisti in fortitudine tua magna, et 
 
 ** Nehemiah 1:11
 
-Obsecro, Domine, sit auris tua attendens ad orationem servi tui, et ad orationem servorum tuorum, qui volunt timere nomen tuum : et dirige servum tuum hodie, et da ei misericordiam ante virum hunc. Ego enim eram pincerna regis.  <chapter eID="Neh.1"/> <div eID="gen2172" type="x-p"/>
+Obsecro, Domine, sit auris tua attendens ad orationem servi tui, et ad orationem servorum tuorum, qui volunt timere nomen tuum : et dirige servum tuum hodie, et da ei misericordiam ante virum hunc. Ego enim eram pincerna regis.   
 
 * Nehemiah 2
 
@@ -84,7 +84,7 @@ Et veni ad duces regionis trans flumen, dedique eis epistolas regis. Miserat aut
 
 ** Nehemiah 2:10
 
-Et audierunt Sanaballat Horonites, et Tobias servus Ammanites : et contristati sunt afflictione magna, quod venisset homo qui quæreret prosperitatem filiorum Israël.  <div eID="gen2173" type="x-p"/>
+Et audierunt Sanaballat Horonites, et Tobias servus Ammanites : et contristati sunt afflictione magna, quod venisset homo qui quæreret prosperitatem filiorum Israël.  
 
 ** Nehemiah 2:11
 
@@ -124,7 +124,7 @@ Audierunt autem Sanaballat Horonites, et Tobias servus Ammanites, et Gosem Arabs
 
 ** Nehemiah 2:20
 
-Et reddidi eis sermonem, dixique ad eos : Deus cæli ipse nos juvat, et nos servi ejus sumus : surgamus et ædificemus : vobis autem non est pars, et justitia, et memoria in Jerusalem.  <chapter eID="Neh.2"/> <div eID="gen2174" type="x-p"/>
+Et reddidi eis sermonem, dixique ad eos : Deus cæli ipse nos juvat, et nos servi ejus sumus : surgamus et ædificemus : vobis autem non est pars, et justitia, et memoria in Jerusalem.   
 
 * Nehemiah 3
 
@@ -134,7 +134,7 @@ Et surrexit Eliasib sacerdos magnus, et fratres ejus sacerdotes, et ædificaveru
 
 ** Nehemiah 3:2
 
-Et juxta eum ædificaverunt viri Jericho : et juxta eum ædificavit Zachur filius Amri.  <div eID="gen2175" type="x-p"/>
+Et juxta eum ædificaverunt viri Jericho : et juxta eum ædificavit Zachur filius Amri.  
 
 ** Nehemiah 3:3
 
@@ -146,7 +146,7 @@ Et juxta eum ædificavit Mosollam filius Barachiæ, filii Mesezebel : et juxta e
 
 ** Nehemiah 3:5
 
-Et juxta eos ædificaverunt Thecueni : optimates autem eorum non supposuerunt colla sua in opere Domini sui.  <div eID="gen2176" type="x-p"/>
+Et juxta eos ædificaverunt Thecueni : optimates autem eorum non supposuerunt colla sua in opere Domini sui.  
 
 ** Nehemiah 3:6
 
@@ -186,7 +186,7 @@ Et portam sterquilinii ædificavit Melchias filius Rechab, princeps vici Bethach
 
 ** Nehemiah 3:15
 
-Et portam fontis ædificavit Sellum filius Cholhoza, princeps pagi Maspha : ipse ædificavit eam, et texit, et statuit valvas ejus, et seras, et vectes, et muros piscinæ Siloë in hortum regis, et usque ad gradus qui descendunt de civitate David.  <div eID="gen2177" type="x-p"/>
+Et portam fontis ædificavit Sellum filius Cholhoza, princeps pagi Maspha : ipse ædificavit eam, et texit, et statuit valvas ejus, et seras, et vectes, et muros piscinæ Siloë in hortum regis, et usque ad gradus qui descendunt de civitate David.  
 
 ** Nehemiah 3:16
 
@@ -226,7 +226,7 @@ Post eum ædificavit Bennui filius Henadad mensuram secundam, a domo Azariæ usq
 
 ** Nehemiah 3:25
 
-Phalel filius Ozi contra flexuram, et turrim quæ eminet de domo regis excelsa, id est, in atrio carceris : post eum Phadaia filius Pharos.  <div eID="gen2178" type="x-p"/>
+Phalel filius Ozi contra flexuram, et turrim quæ eminet de domo regis excelsa, id est, in atrio carceris : post eum Phadaia filius Pharos.  
 
 ** Nehemiah 3:26
 
@@ -250,7 +250,7 @@ Post eum ædificavit Hanania filius Selemiæ, et Hanun filius Seleph sextus, men
 
 ** Nehemiah 3:31
 
-Et inter cœnaculum anguli in porta gregis, ædificaverunt aurifices et negotiatores.  <chapter eID="Neh.3"/> <div eID="gen2179" type="x-p"/>
+Et inter cœnaculum anguli in porta gregis, ædificaverunt aurifices et negotiatores.   
 
 * Nehemiah 4
 
@@ -344,7 +344,7 @@ In tempore quoque illo dixi populo : Unusquisque cum puero suo maneat in medio J
 
 ** Nehemiah 4:23
 
-Ego autem et fratres mei, et pueri mei, et custodes, qui erant post me, non deponebamus vestimenta nostra : unusquisque tantum nudabatur ad baptismum.  <chapter eID="Neh.4"/> <div eID="gen2180" type="x-p"/>
+Ego autem et fratres mei, et pueri mei, et custodes, qui erant post me, non deponebamus vestimenta nostra : unusquisque tantum nudabatur ad baptismum.   
 
 * Nehemiah 5
 
@@ -398,7 +398,7 @@ Et dixerunt : Reddemus, et ab eis nihil quæremus : sicque faciemus ut loqueris.
 
 ** Nehemiah 5:13
 
-Insuper excussi sinum meum, et dixi : Sic excutiat Deus omnem virum qui non compleverit verbum istud, de domo sua, et de laboribus suis : sic excutiatur, et vacuus fiat. Et dixit universa multitudo : Amen : et laudaverunt Deum. Fecit ergo populus sicut erat dictum.  <div eID="gen2181" type="x-p"/>
+Insuper excussi sinum meum, et dixi : Sic excutiat Deus omnem virum qui non compleverit verbum istud, de domo sua, et de laboribus suis : sic excutiatur, et vacuus fiat. Et dixit universa multitudo : Amen : et laudaverunt Deum. Fecit ergo populus sicut erat dictum.  
 
 ** Nehemiah 5:14
 
@@ -422,7 +422,7 @@ Parabatur autem mihi per dies singulos bos unus, arietes sex electi, exceptis vo
 
 ** Nehemiah 5:19
 
-Memento mei, Deus meus, in bonum, secundum omnia quæ feci populo huic.  <chapter eID="Neh.5"/> <div eID="gen2182" type="x-p"/>
+Memento mei, Deus meus, in bonum, secundum omnia quæ feci populo huic.   
 
 * Nehemiah 6
 
@@ -460,7 +460,7 @@ Et misi ad eos, dicens : Non est factum secundum verba hæc, quæ tu loqueris : 
 
 ** Nehemiah 6:9
 
-Omnes enim hi terrebant nos, cogitantes quod cessarent manus nostræ ab opere, et quiesceremus : quam ob causam magis confortavi manus meas.  <div eID="gen2183" type="x-p"/>
+Omnes enim hi terrebant nos, cogitantes quod cessarent manus nostræ ab opere, et quiesceremus : quam ob causam magis confortavi manus meas.  
 
 ** Nehemiah 6:10
 
@@ -480,7 +480,7 @@ Acceperat enim pretium, ut territus facerem, et peccarem, et haberent malum quod
 
 ** Nehemiah 6:14
 
-Memento mei, Domine, pro Tobia et Sanaballat, juxta opera eorum talia : sed et Noadiæ prophetæ, et ceterorum prophetarum, qui terrebant me.  <div eID="gen2184" type="x-p"/>
+Memento mei, Domine, pro Tobia et Sanaballat, juxta opera eorum talia : sed et Noadiæ prophetæ, et ceterorum prophetarum, qui terrebant me.  
 
 ** Nehemiah 6:15
 
@@ -500,7 +500,7 @@ Multi enim erant in Judæa habentes juramentum ejus, quia gener erat Secheniæ f
 
 ** Nehemiah 6:19
 
-sed et laudabant eum coram me, et verba mea nuntiabant ei : et Tobias mittebat epistolas ut terreret me.  <chapter eID="Neh.6"/> <div eID="gen2185" type="x-p"/>
+sed et laudabant eum coram me, et verba mea nuntiabant ei : et Tobias mittebat epistolas ut terreret me.   
 
 * Nehemiah 7
 
@@ -530,7 +530,7 @@ Isti filii provinciæ, qui ascenderunt de captivitate migrantium, quos transtule
 
 ** Nehemiah 7:7
 
-Qui venerunt cum Zorobabel, Josue, Nehemias, Azarias, Raamias, Nahamani, Mardochæus, Belsam, Mespharath, Begoai, Nahum, Baana. <div eID="gen2186" type="x-p"/> <div sID="gen2187" type="x-p"/> Numerus virorum populi Israël :
+Qui venerunt cum Zorobabel, Josue, Nehemias, Azarias, Raamias, Nahamani, Mardochæus, Belsam, Mespharath, Begoai, Nahum, Baana.   Numerus virorum populi Israël :
 
 ** Nehemiah 7:8
 
@@ -778,7 +778,7 @@ Equi eorum, septingenti triginta sex : muli eorum, ducenti quadraginta quinque :
 
 ** Nehemiah 7:69
 
-cameli eorum, quadringenti triginta quinque : asini, sex millia septingenti viginti.  <div eID="gen2187" type="x-p"/>
+cameli eorum, quadringenti triginta quinque : asini, sex millia septingenti viginti.  
 
 ** Nehemiah 7:70
 
@@ -794,7 +794,7 @@ Et quod dedit reliquus populus, auri drachmas viginti millia, et argenti mnas du
 
 ** Nehemiah 7:73
 
-Habitaverunt autem sacerdotes, et Levitæ, et janitores, et cantores, et reliquum vulgus, et Nathinæi, et omnis Israël, in civitatibus suis.  <chapter eID="Neh.7"/> <div eID="gen2188" type="x-p"/>
+Habitaverunt autem sacerdotes, et Levitæ, et janitores, et cantores, et reliquum vulgus, et Nathinæi, et omnis Israël, in civitatibus suis.   
 
 * Nehemiah 8
 
@@ -856,7 +856,7 @@ Et invenerunt scriptum in lege præcepisse Dominum in manu Moysi ut habitent fil
 
 ** Nehemiah 8:15
 
-et ut prædicent, et divulgent vocem in universis urbibus suis, et in Jerusalem, dicentes : Egredimini in montem, et afferte frondes olivæ, et frondes ligni pulcherrimi, frondes myrti, et ramos palmarum, et frondes ligni nemorosi, ut fiant tabernacula, sicut scriptum est.  <div eID="gen2189" type="x-p"/>
+et ut prædicent, et divulgent vocem in universis urbibus suis, et in Jerusalem, dicentes : Egredimini in montem, et afferte frondes olivæ, et frondes ligni pulcherrimi, frondes myrti, et ramos palmarum, et frondes ligni nemorosi, ut fiant tabernacula, sicut scriptum est.  
 
 ** Nehemiah 8:16
 
@@ -868,7 +868,7 @@ Fecit ergo universa ecclesia eorum qui redierant de captivitate, tabernacula, et
 
 ** Nehemiah 8:18
 
-Legit autem in libro legis Dei per dies singulos, a die primo usque ad diem novissimum. Et fecerunt solemnitatem septem diebus, et in die octavo collectam juxta ritum.  <chapter eID="Neh.8"/> <div eID="gen2190" type="x-p"/>
+Legit autem in libro legis Dei per dies singulos, a die primo usque ad diem novissimum. Et fecerunt solemnitatem septem diebus, et in die octavo collectam juxta ritum.   
 
 * Nehemiah 9
 
@@ -902,7 +902,7 @@ Tu ipse, Domine Deus, qui elegisti Abram, et eduxisti eum de igne Chaldæorum, e
 
 ** Nehemiah 9:8
 
-et invenisti cor ejus fidele coram te, et percussisti cum eo fœdus ut dares ei terram Chananæi, Hethæi, et Amorrhæi, et Pherezæi, et Jebusæi, et Gergesæi, ut dares semini ejus : et implesti verba tua, quoniam justus es.  <div eID="gen2191" type="x-p"/>
+et invenisti cor ejus fidele coram te, et percussisti cum eo fœdus ut dares ei terram Chananæi, Hethæi, et Amorrhæi, et Pherezæi, et Jebusæi, et Gergesæi, ut dares semini ejus : et implesti verba tua, quoniam justus es.  
 
 ** Nehemiah 9:9
 
@@ -930,7 +930,7 @@ et sabbatum sanctificatum tuum ostendisti eis : et mandata, et cæremonias, et l
 
 ** Nehemiah 9:15
 
-Panem quoque de cælo dedisti eis in fame eorum, et aquam de petra eduxisti eis sitientibus, et dixisti eis ut ingrederentur et possiderent terram, super quam levasti manum tuam ut traderes eis.  <div eID="gen2192" type="x-p"/>
+Panem quoque de cælo dedisti eis in fame eorum, et aquam de petra eduxisti eis sitientibus, et dixisti eis ut ingrederentur et possiderent terram, super quam levasti manum tuam ut traderes eis.  
 
 ** Nehemiah 9:16
 
@@ -970,7 +970,7 @@ Et venerunt filii, et possederunt terram, et humiliasti coram eis habitatores te
 
 ** Nehemiah 9:25
 
-Ceperunt itaque urbes munitas et humum pinguem, et possederunt domos plenas cunctis bonis : cisternas ab aliis fabricatas, vineas, et oliveta, et ligna pomifera multa : et comederunt, et saturati sunt, et impinguati sunt, et abundaverunt deliciis in bonitate tua magna.  <div eID="gen2193" type="x-p"/>
+Ceperunt itaque urbes munitas et humum pinguem, et possederunt domos plenas cunctis bonis : cisternas ab aliis fabricatas, vineas, et oliveta, et ligna pomifera multa : et comederunt, et saturati sunt, et impinguati sunt, et abundaverunt deliciis in bonitate tua magna.  
 
 ** Nehemiah 9:26
 
@@ -994,7 +994,7 @@ Et protraxisti super eos annos multos, et contestatus es eos in spiritu tuo per 
 
 ** Nehemiah 9:31
 
-In misericordiis autem tuis plurimis non fecisti eos in consumptionem, nec dereliquisti eos : quoniam Deus miserationum et clemens es tu.  <div eID="gen2194" type="x-p"/>
+In misericordiis autem tuis plurimis non fecisti eos in consumptionem, nec dereliquisti eos : quoniam Deus miserationum et clemens es tu.  
 
 ** Nehemiah 9:32
 
@@ -1022,7 +1022,7 @@ Et fruges ejus multiplicantur regibus quos posuisti super nos propter peccata no
 
 ** Nehemiah 9:38
 
-Super omnibus ergo his nos ipsi percutimus fœdus, et scribimus : et signant principes nostri, Levitæ nostri, et sacerdotes nostri.  <chapter eID="Neh.9"/> <div eID="gen2195" type="x-p"/>
+Super omnibus ergo his nos ipsi percutimus fœdus, et scribimus : et signant principes nostri, Levitæ nostri, et sacerdotes nostri.   
 
 * Nehemiah 10
 
@@ -1132,7 +1132,7 @@ Echaia, Hanan, Anan,
 
 ** Nehemiah 10:27
 
-Melluch, Haran, Baana.  <div eID="gen2196" type="x-p"/>
+Melluch, Haran, Baana.  
 
 ** Nehemiah 10:28
 
@@ -1180,7 +1180,7 @@ Erit autem sacerdos filius Aaron cum Levitis in decimis Levitarum, et Levitæ of
 
 ** Nehemiah 10:39
 
-Ad gazophylacium enim deportabunt filii Israël, et filii Levi, primitias frumenti, vini, et olei : et ibi erunt vasa sanctificata, et sacerdotes, et cantores, et janitores, et ministri : et non dimittemus domum Dei nostri.  <chapter eID="Neh.10"/> <div eID="gen2197" type="x-p"/>
+Ad gazophylacium enim deportabunt filii Israël, et filii Levi, primitias frumenti, vini, et olei : et ibi erunt vasa sanctificata, et sacerdotes, et cantores, et janitores, et ministri : et non dimittemus domum Dei nostri.   
 
 * Nehemiah 11
 
@@ -1326,7 +1326,7 @@ et Ono valle artificum.
 
 ** Nehemiah 11:36
 
-Et de Levitis portiones Judæ et Benjamin.  <chapter eID="Neh.11"/> <div eID="gen2198" type="x-p"/>
+Et de Levitis portiones Judæ et Benjamin.   
 
 * Nehemiah 12
 
@@ -1432,7 +1432,7 @@ Mathania, et Becbecia, Obedia, Mosollam, Telmon, Accub, custodes portarum et ves
 
 ** Nehemiah 12:26
 
-Hi in diebus Joacim filii Josue, filii Josedec, et in diebus Nehemiæ ducis, et Esdræ sacerdotis scribæque.  <div eID="gen2199" type="x-p"/>
+Hi in diebus Joacim filii Josue, filii Josedec, et in diebus Nehemiæ ducis, et Esdræ sacerdotis scribæque.  
 
 ** Nehemiah 12:27
 
@@ -1496,7 +1496,7 @@ et Maasia, et Semeia, et Eleazar, et Azzi, et Johanan, et Melchia, et Ælam, et 
 
 ** Nehemiah 12:42
 
-et immolaverunt in die illa victimas magnas, et lætati sunt : Deus enim lætificaverat eos lætitia magna : sed et uxores eorum et liberi gavisi sunt, et audita est lætitia Jerusalem procul.  <div eID="gen2200" type="x-p"/>
+et immolaverunt in die illa victimas magnas, et lætati sunt : Deus enim lætificaverat eos lætitia magna : sed et uxores eorum et liberi gavisi sunt, et audita est lætitia Jerusalem procul.  
 
 ** Nehemiah 12:43
 
@@ -1512,7 +1512,7 @@ quia in diebus David et Asaph ab exordio erant principes constituti cantorum in 
 
 ** Nehemiah 12:46
 
-Et omnis Israël in diebus Zorobabel et in diebus Nehemiæ, dabant partes cantoribus et janitoribus per dies singulos, et sanctificabant Levitas, et Levitæ sanctificabant filios Aaron.  <chapter eID="Neh.12"/> <div eID="gen2201" type="x-p"/>
+Et omnis Israël in diebus Zorobabel et in diebus Nehemiæ, dabant partes cantoribus et janitoribus per dies singulos, et sanctificabant Levitas, et Levitæ sanctificabant filios Aaron.   
 
 * Nehemiah 13
 
@@ -1526,7 +1526,7 @@ eo quod non occurrerint filiis Israël cum pane et aqua, et conduxerint adversum
 
 ** Nehemiah 13:3
 
-Factum est autem, cum audissent legem, separaverunt omnem alienigenam ab Israël.  <div eID="gen2202" type="x-p"/>
+Factum est autem, cum audissent legem, separaverunt omnem alienigenam ab Israël.  
 
 ** Nehemiah 13:4
 
@@ -1570,7 +1570,7 @@ Et constituimus super horrea Selemiam sacerdotem, et Sadoc scribam, et Phadaiam 
 
 ** Nehemiah 13:14
 
-Memento mei, Deus meus, pro hoc, et ne deleas miserationes meas quas feci in domo Dei mei, et in cæremoniis ejus.  <div eID="gen2203" type="x-p"/>
+Memento mei, Deus meus, pro hoc, et ne deleas miserationes meas quas feci in domo Dei mei, et in cæremoniis ejus.  
 
 ** Nehemiah 13:15
 
@@ -1602,7 +1602,7 @@ Et contestatus sum eos, et dixi eis : Quare manetis ex adverso muri ? si secundo
 
 ** Nehemiah 13:22
 
-Dixi quoque Levitis ut mundarentur, et venirent ad custodiendas portas, et sanctificandam diem sabbati : et pro hoc ergo memento mei, Deus meus, et parce mihi secundum multitudinem miserationum tuarum.  <div eID="gen2204" type="x-p"/>
+Dixi quoque Levitis ut mundarentur, et venirent ad custodiendas portas, et sanctificandam diem sabbati : et pro hoc ergo memento mei, Deus meus, et parce mihi secundum multitudinem miserationum tuarum.  
 
 ** Nehemiah 13:23
 
@@ -1622,7 +1622,7 @@ Numquid non in hujuscemodi re peccavit Salomon rex Israël ? et certe in gentibu
 
 ** Nehemiah 13:27
 
-Numquid et nos inobedientes faciemus omne malum grande hoc ut prævaricemur in Deo nostro, et ducamus uxores peregrinas ?  <div eID="gen2205" type="x-p"/>
+Numquid et nos inobedientes faciemus omne malum grande hoc ut prævaricemur in Deo nostro, et ducamus uxores peregrinas ?  
 
 ** Nehemiah 13:28
 
@@ -1638,5 +1638,5 @@ Igitur mundavi eos ab omnibus alienigenis, et constitui ordines sacerdotum et Le
 
 ** Nehemiah 13:31
 
-et in oblatione lignorum in temporibus constitutis, et in primitivis : memento mei, Deus meus, in bonum. Amen.  <div eID="gen2206" type="x-p"/> <chapter eID="Neh.13"/> <div eID="gen2171" osisID="Neh" type="book"/>
+et in oblatione lignorum in temporibus constitutis, et in primitivis : memento mei, Deus meus, in bonum. Amen.    
 

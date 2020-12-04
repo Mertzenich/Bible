@@ -2,7 +2,7 @@
 
 ** James 1:1
 
-Jacobus, Dei et Domini nostri Jesu Christi servus, duodecim tribubus, quæ sunt in dispersione, salutem.  <div eID="gen33181" type="x-p"/>
+Jacobus, Dei et Domini nostri Jesu Christi servus, duodecim tribubus, quæ sunt in dispersione, salutem.  
 
 ** James 1:2
 
@@ -70,7 +70,7 @@ Omne datum optimum, et omne donum perfectum desursum est, descendens a Patre lum
 
 ** James 1:18
 
-Voluntarie enim genuit nos verbo veritatis, ut simus initium aliquod creaturæ ejus.  <div eID="gen33182" type="x-p"/>
+Voluntarie enim genuit nos verbo veritatis, ut simus initium aliquod creaturæ ejus.  
 
 ** James 1:19
 
@@ -106,7 +106,7 @@ Si quis autem putat se religiosum esse, non refrenans linguam suam, sed seducens
 
 ** James 1:27
 
-Religio munda et immaculata apud Deum et Patrem, hæc est : visitare pupillos et viduas in tribulatione eorum, et immaculatum se custodire ab hoc sæculo.  <chapter eID="Jas.1"/> <div eID="gen33183" type="x-p"/>
+Religio munda et immaculata apud Deum et Patrem, hæc est : visitare pupillos et viduas in tribulatione eorum, et immaculatum se custodire ab hoc sæculo.   
 
 * James 2
 
@@ -160,7 +160,7 @@ Sic loquimini, et sic facite sicut per legem libertatis incipientes judicari.
 
 ** James 2:13
 
-Judicium enim sine misericordia illi qui non fecit misericordiam : superexaltat autem misericordia judicium.  <div eID="gen33184" type="x-p"/>
+Judicium enim sine misericordia illi qui non fecit misericordiam : superexaltat autem misericordia judicium.  
 
 ** James 2:14
 
@@ -212,7 +212,7 @@ Similiter et Rahab meretrix, nonne ex operibus justificata est, suscipiens nunti
 
 ** James 2:26
 
-Sicut enim corpus sine spiritu mortuum est, ita et fides sine operibus mortua est.  <chapter eID="Jas.2"/> <div eID="gen33185" type="x-p"/>
+Sicut enim corpus sine spiritu mortuum est, ita et fides sine operibus mortua est.   
 
 * James 3
 
@@ -262,7 +262,7 @@ Numquid fons de eodem foramine emanat dulcem et amaram aquam ?
 
 ** James 3:12
 
-Numquid potest, fratres mei, ficus uvas facere, aut vitis ficus ? Sic neque salsa dulcem potest facere aquam.  <div eID="gen33186" type="x-p"/>
+Numquid potest, fratres mei, ficus uvas facere, aut vitis ficus ? Sic neque salsa dulcem potest facere aquam.  
 
 ** James 3:13
 
@@ -286,7 +286,7 @@ Quæ autem desursum est sapientia, primum quidem pudica est, deinde pacifica, mo
 
 ** James 3:18
 
-Fructus autem justitiæ, in pace seminatur, facientibus pacem.  <chapter eID="Jas.3"/> <div eID="gen33187" type="x-p"/>
+Fructus autem justitiæ, in pace seminatur, facientibus pacem.   
 
 * James 4
 
@@ -336,7 +336,7 @@ Nolite detrahere alterutrum fratres. Qui detrahit fratri, aut qui judicat fratre
 
 ** James 4:12
 
-Unus est legislator et judex, qui potest perdere et liberare.  <div eID="gen33188" type="x-p"/>
+Unus est legislator et judex, qui potest perdere et liberare.  
 
 ** James 4:13
 
@@ -356,7 +356,7 @@ Nunc autem exsultatis in superbiis vestris. Omnis exsultatio talis, maligna est.
 
 ** James 4:17
 
-Scienti igitur bonum facere, et non facienti, peccatum est illi.  <chapter eID="Jas.4"/> <div eID="gen33189" type="x-p"/>
+Scienti igitur bonum facere, et non facienti, peccatum est illi.   
 
 * James 5
 
@@ -382,7 +382,7 @@ Epulati estis super terram, et in luxuriis enutristis corda vestra in die occisi
 
 ** James 5:6
 
-Addixistis, et occidistis justum, et non restitit vobis.  <div eID="gen33190" type="x-p"/>
+Addixistis, et occidistis justum, et non restitit vobis.  
 
 ** James 5:7
 
@@ -402,11 +402,11 @@ Exemplum accipite, fratres, exitus mali, laboris, et patientiæ, prophetas qui l
 
 ** James 5:11
 
-Ecce beatificamus eos qui sustinuerunt. Sufferentiam Job audistis, et finem Domini vidistis, quoniam misericors Dominus est, et miserator.  <div eID="gen33191" type="x-p"/>
+Ecce beatificamus eos qui sustinuerunt. Sufferentiam Job audistis, et finem Domini vidistis, quoniam misericors Dominus est, et miserator.  
 
 ** James 5:12
 
-Ante omnia autem, fratres mei, nolite jurare, neque per cælum, neque per terram, neque aliud quodcumque juramentum. Sit autem sermo vester : Est, est : Non, non : ut non sub judicio decidatis.  <div eID="gen33192" type="x-p"/>
+Ante omnia autem, fratres mei, nolite jurare, neque per cælum, neque per terram, neque aliud quodcumque juramentum. Sit autem sermo vester : Est, est : Non, non : ut non sub judicio decidatis.  
 
 ** James 5:13
 
@@ -430,7 +430,7 @@ Elias homo erat similis nobis passibilis : et oratione oravit ut non plueret sup
 
 ** James 5:18
 
-Et rursum oravit : et cælum dedit pluviam, et terra dedit fructum suum.  <div eID="gen33193" type="x-p"/>
+Et rursum oravit : et cælum dedit pluviam, et terra dedit fructum suum.  
 
 ** James 5:19
 
@@ -438,5 +438,5 @@ Fratres mei, si quis ex vobis erraverit a veritate, et converterit quis eum :
 
 ** James 5:20
 
-scire debet quoniam qui converti fecerit peccatorem ab errore viæ suæ, salvabit animam ejus a morte, et operiet multitudinem peccatorum.  <div eID="gen33194" type="x-p"/> <chapter eID="Jas.5"/> <div eID="gen33180" osisID="Jas" type="book"/>
+scire debet quoniam qui converti fecerit peccatorem ab errore viæ suæ, salvabit animam ejus a morte, et operiet multitudinem peccatorum.    
 

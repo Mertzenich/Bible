@@ -14,7 +14,7 @@ quod vidimus et audivimus, annuntiamus vobis, ut et vos societatem habeatis nobi
 
 ** I John 1:4
 
-Et hæc scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.  <div eID="gen33222" type="x-p"/>
+Et hæc scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum.  
 
 ** I John 1:5
 
@@ -38,7 +38,7 @@ Si confiteamur peccata nostra : fidelis est, et justus, ut remittat nobis peccat
 
 ** I John 1:10
 
-Si dixerimus quoniam non peccavimus, mendacem facimus eum, et verbum ejus non est in nobis.  <chapter eID="1John.1"/> <div eID="gen33223" type="x-p"/>
+Si dixerimus quoniam non peccavimus, mendacem facimus eum, et verbum ejus non est in nobis.   
 
 * I John 2
 
@@ -48,7 +48,7 @@ Filioli mei, hæc scribo vobis, ut non peccetis. Sed et si quis peccaverit, advo
 
 ** I John 2:2
 
-et ipse est propitiatio pro peccatis nostris : non pro nostris autem tantum, sed etiam pro totius mundi.  <div eID="gen33224" type="x-p"/>
+et ipse est propitiatio pro peccatis nostris : non pro nostris autem tantum, sed etiam pro totius mundi.  
 
 ** I John 2:3
 
@@ -84,7 +84,7 @@ Qui diligit fratrem suum, in lumine manet, et scandalum in eo non est.
 
 ** I John 2:11
 
-Qui autem odit fratrem suum, in tenebris est, et in tenebris ambulat, et nescit quo eat : quia tenebræ obcæcaverunt oculos ejus.  <div eID="gen33225" type="x-p"/>
+Qui autem odit fratrem suum, in tenebris est, et in tenebris ambulat, et nescit quo eat : quia tenebræ obcæcaverunt oculos ejus.  
 
 ** I John 2:12
 
@@ -108,7 +108,7 @@ quoniam omne quod est in mundo, concupiscentia carnis est, et concupiscentia ocu
 
 ** I John 2:17
 
-Et mundus transit, et concupiscentia ejus : qui autem facit voluntatem Dei manet in æternum.  <div eID="gen33226" type="x-p"/>
+Et mundus transit, et concupiscentia ejus : qui autem facit voluntatem Dei manet in æternum.  
 
 ** I John 2:18
 
@@ -148,7 +148,7 @@ Hæc scripsi vobis de his, qui seducant vos.
 
 ** I John 2:27
 
-Et vos unctionem, quam accepistis ab eo, maneat in vobis. Et non necesse habetis ut aliquis doceat vos : sed sicut unctio ejus docet vos de omnibus, et verum est, et non est mendacium. Et sicut docuit vos : manete in eo.  <div eID="gen33227" type="x-p"/>
+Et vos unctionem, quam accepistis ab eo, maneat in vobis. Et non necesse habetis ut aliquis doceat vos : sed sicut unctio ejus docet vos de omnibus, et verum est, et non est mendacium. Et sicut docuit vos : manete in eo.  
 
 ** I John 2:28
 
@@ -156,7 +156,7 @@ Et nunc, filioli, manete in eo : ut cum apparuerit, habeamus fiduciam, et non co
 
 ** I John 2:29
 
-Si scitis quoniam justus est, scitote quoniam et omnis, qui facit justitiam, ex ipso natus est.  <chapter eID="1John.2"/> <div eID="gen33228" type="x-p"/>
+Si scitis quoniam justus est, scitote quoniam et omnis, qui facit justitiam, ex ipso natus est.   
 
 * I John 3
 
@@ -194,7 +194,7 @@ Qui facit peccatum, ex diabolo est : quoniam ab initio diabolus peccat. In hoc a
 
 ** I John 3:9
 
-Omnis qui natus est ex Deo, peccatum non facit : quoniam semen ipsius in eo manet, et non potest peccare, quoniam ex Deo natus est.  <div eID="gen33229" type="x-p"/>
+Omnis qui natus est ex Deo, peccatum non facit : quoniam semen ipsius in eo manet, et non potest peccare, quoniam ex Deo natus est.  
 
 ** I John 3:10
 
@@ -254,7 +254,7 @@ Et hoc est mandatum ejus : ut credamus in nomine Filii ejus Jesu Christi : et di
 
 ** I John 3:24
 
-Et qui servat mandata ejus, in illo manet, et ipse in eo : et in hoc scimus quoniam manet in nobis, de Spiritu quem dedit nobis.  <chapter eID="1John.3"/> <div eID="gen33230" type="x-p"/>
+Et qui servat mandata ejus, in illo manet, et ipse in eo : et in hoc scimus quoniam manet in nobis, de Spiritu quem dedit nobis.   
 
 * I John 4
 
@@ -280,7 +280,7 @@ Ipsi de mundo sunt : ideo de mundo loquuntur, et mundus eos audit.
 
 ** I John 4:6
 
-Nos ex Deo sumus. Qui novit Deum, audit nos ; qui non est ex Deo, non audit nos : in hoc cognoscimus Spiritum veritatis, et spiritum erroris.  <div eID="gen33231" type="x-p"/>
+Nos ex Deo sumus. Qui novit Deum, audit nos ; qui non est ex Deo, non audit nos : in hoc cognoscimus Spiritum veritatis, et spiritum erroris.  
 
 ** I John 4:7
 
@@ -340,7 +340,7 @@ Si quis dixerit : Quoniam diligo Deum, et fratrem suum oderit, mendax est. Qui e
 
 ** I John 4:21
 
-Et hoc mandatum habemus a Deo : ut qui diligit Deum, diligat et fratrem suum.  <chapter eID="1John.4"/> <div eID="gen33232" type="x-p"/>
+Et hoc mandatum habemus a Deo : ut qui diligit Deum, diligat et fratrem suum.   
 
 * I John 5
 
@@ -362,7 +362,7 @@ Quoniam omne quod natum est ex Deo, vincit mundum : et hæc est victoria, quæ v
 
 ** I John 5:5
 
-Quis est, qui vincit mundum, nisi qui credit quoniam Jesus est Filius Dei ?  <div eID="gen33233" type="x-p"/>
+Quis est, qui vincit mundum, nisi qui credit quoniam Jesus est Filius Dei ?  
 
 ** I John 5:6
 
@@ -390,7 +390,7 @@ Et hoc est testimonium, quoniam vitam æternam dedit nobis Deus : et hæc vita i
 
 ** I John 5:12
 
-Qui habet Filium, habet vitam : qui non habet Filium, vitam non habet.  <div eID="gen33234" type="x-p"/>
+Qui habet Filium, habet vitam : qui non habet Filium, vitam non habet.  
 
 ** I John 5:13
 
@@ -426,5 +426,5 @@ Et scimus quoniam Filius Dei venit, et dedit nobis sensum ut cognoscamus verum D
 
 ** I John 5:21
 
-Filioli, custodite vos a simulacris. Amen.  <div eID="gen33235" type="x-p"/> <chapter eID="1John.5"/> <div eID="gen33221" osisID="1John" type="book"/>
+Filioli, custodite vos a simulacris. Amen.    
 

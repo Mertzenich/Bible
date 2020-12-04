@@ -10,7 +10,7 @@ propter veritatem, quæ permanet in nobis, et nobiscum erit in æternum.
 
 ** II John 1:3
 
-Sit vobiscum gratia, misericordia, pax a Deo Patre, et a Christo Jesu Filio Patris in veritate, et caritate.  <div eID="gen33237" type="x-p"/>
+Sit vobiscum gratia, misericordia, pax a Deo Patre, et a Christo Jesu Filio Patris in veritate, et caritate.  
 
 ** II John 1:4
 
@@ -22,7 +22,7 @@ Et nunc rogo te domina, non tamquam mandatum novum scribens tibi, sed quod habui
 
 ** II John 1:6
 
-Et hæc est caritas, ut ambulemus secundum mandata ejus. Hoc est enim mandatum, ut quemadmodum audistis ab initio, in eo ambuletis.  <div eID="gen33238" type="x-p"/>
+Et hæc est caritas, ut ambulemus secundum mandata ejus. Hoc est enim mandatum, ut quemadmodum audistis ab initio, in eo ambuletis.  
 
 ** II John 1:7
 
@@ -42,7 +42,7 @@ Si quis venit ad vos, et hanc doctrinam non affert, nolite recipere eum in domum
 
 ** II John 1:11
 
-Qui enim dicit illi Ave, communicat operibus ejus malignis.  <div eID="gen33239" type="x-p"/>
+Qui enim dicit illi Ave, communicat operibus ejus malignis.  
 
 ** II John 1:12
 
@@ -50,5 +50,5 @@ Plura habens vobis scribere, nolui per cartam et atramentum : spero enim me futu
 
 ** II John 1:13
 
-Salutant te filii sororis tuæ Electæ.  <div eID="gen33240" type="x-p"/> <chapter eID="2John.1"/> <div eID="gen33236" osisID="2John" type="book"/>
+Salutant te filii sororis tuæ Electæ.    
 

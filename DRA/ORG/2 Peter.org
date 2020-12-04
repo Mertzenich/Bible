@@ -82,7 +82,7 @@ Understanding this first: That no prophecy of scripture is made by private inter
 
 *** II Peter 1:21
 
-For prophecy came not by the will of man at any time: but the holy men of God spoke, inspired by the Holy Ghost. <chapter eID="gen36562" osisID="2Pet.1"/>
+For prophecy came not by the will of man at any time: but the holy men of God spoke, inspired by the Holy Ghost. 
 
 ** II Peter 2
 
@@ -172,7 +172,7 @@ For it had been better for them not to have known the way of justice than, after
 
 *** II Peter 2:22
 
-For, that of the true proverb has happened to them: The dog is returned to his vomit; and: The sow that was washed to her wallowing in the mire. <chapter eID="gen36584" osisID="2Pet.2"/>
+For, that of the true proverb has happened to them: The dog is returned to his vomit; and: The sow that was washed to her wallowing in the mire. 
 
 ** II Peter 3
 
@@ -246,4 +246,4 @@ You therefore, brethren, knowing these things before, take heed, lest being led 
 
 *** II Peter 3:18
 
-But grow in grace and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and unto the day of eternity, Amen. <chapter eID="gen36607" osisID="2Pet.3"/> <div eID="gen36561" osisID="2Pet" type="book"/>
+But grow in grace and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and unto the day of eternity, Amen.  

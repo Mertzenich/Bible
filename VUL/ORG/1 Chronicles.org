@@ -106,7 +106,7 @@ Serug, Nachor, Thare,
 
 ** I Chronicles 1:27
 
-Abram : iste est Abraham.  <div eID="gen1917" type="x-p"/>
+Abram : iste est Abraham.  
 
 ** I Chronicles 1:28
 
@@ -166,7 +166,7 @@ Filii Dison : Hamram, et Heseban, et Jethran, et Charan.
 
 ** I Chronicles 1:42
 
-Filii Eser : Balaan, et Zavan, et Jacan. Filii Disan : Hus et Aran.  <div eID="gen1918" type="x-p"/>
+Filii Eser : Balaan, et Zavan, et Jacan. Filii Disan : Hus et Aran.  
 
 ** I Chronicles 1:43
 
@@ -198,7 +198,7 @@ Mortuo quoque Saul, regnavit pro eo Balanan filius Achobor.
 
 ** I Chronicles 1:50
 
-Sed et hic mortuus est, et regnavit pro eo Adad : cujus urbis nomen fuit Phau, et appellata est uxor ejus Meetabel filia Matred filiæ Mezaab.  <div eID="gen1919" type="x-p"/>
+Sed et hic mortuus est, et regnavit pro eo Adad : cujus urbis nomen fuit Phau, et appellata est uxor ejus Meetabel filia Matred filiæ Mezaab.  
 
 ** I Chronicles 1:51
 
@@ -214,7 +214,7 @@ dux Cenez, dux Theman, dux Mabsar,
 
 ** I Chronicles 1:54
 
-dux Magdiel, dux Hiram : hi duces Edom.  <chapter eID="1Chr.1"/> <div eID="gen1920" type="x-p"/>
+dux Magdiel, dux Hiram : hi duces Edom.   
 
 * I Chronicles 2
 
@@ -224,7 +224,7 @@ Filii autem Israël : Ruben, Simeon, Levi, Juda, Issachar, et Zabulon,
 
 ** I Chronicles 2:2
 
-Dan, Joseph, Benjamin, Nephthali, Gad, et Aser.  <div eID="gen1921" type="x-p"/>
+Dan, Joseph, Benjamin, Nephthali, Gad, et Aser.  
 
 ** I Chronicles 2:3
 
@@ -312,7 +312,7 @@ Cepitque Gessur et Aram oppida Jair, et Canath, et viculos ejus sexaginta civita
 
 ** I Chronicles 2:24
 
-Cum autem mortuus esset Hesron, ingressus est Caleb ad Ephratha. Habuit quoque Hesron uxorem Abia, quæ peperit ei Assur patrem Thecuæ.  <div eID="gen1922" type="x-p"/>
+Cum autem mortuus esset Hesron, ingressus est Caleb ad Ephratha. Habuit quoque Hesron uxorem Abia, quæ peperit ei Assur patrem Thecuæ.  
 
 ** I Chronicles 2:25
 
@@ -380,7 +380,7 @@ Elasa genuit Sisamoi, Sisamoi genuit Sellum,
 
 ** I Chronicles 2:41
 
-Sellum genuit Icamiam, Icamia autem genuit Elisama.  <div eID="gen1923" type="x-p"/>
+Sellum genuit Icamiam, Icamia autem genuit Elisama.  
 
 ** I Chronicles 2:42
 
@@ -436,7 +436,7 @@ Filii Salma, Bethlehem, et Netophathi, coronæ domus Joab, et dimidium requietio
 
 ** I Chronicles 2:55
 
-cognationes quoque scribarum habitantium in Jabes, canentes atque resonantes, et in tabernaculis commorantes. Hi sunt Cinæi, qui venerunt de Calore patris domus Rechab.  <chapter eID="1Chr.2"/> <div eID="gen1924" type="x-p"/>
+cognationes quoque scribarum habitantium in Jabes, canentes atque resonantes, et in tabernaculis commorantes. Hi sunt Cinæi, qui venerunt de Calore patris domus Rechab.   
 
 * I Chronicles 3
 
@@ -534,7 +534,7 @@ Filius Naariæ, Elioënai, et Ezechias, et Ezricam, tres.
 
 ** I Chronicles 3:24
 
-Filii Elioënai, Oduia, et Eliasub, et Pheleia, et Accub, et Johanan, et Dalaia, et Anani, septem.  <chapter eID="1Chr.3"/> <div eID="gen1925" type="x-p"/>
+Filii Elioënai, Oduia, et Eliasub, et Pheleia, et Accub, et Johanan, et Dalaia, et Anani, septem.   
 
 * I Chronicles 4
 
@@ -576,7 +576,7 @@ Fuit autem Jabes inclytus præ fratribus suis, et mater ejus vocavit nomen illiu
 
 ** I Chronicles 4:10
 
-Invocavit vero Jabes Deum Israël, dicens : Si benedicens benedixeris mihi, et dilataveris terminos meos, et fuerit manus tua mecum, et feceris me a malitia non opprimi. Et præstitit Deus quæ precatus est.  <div eID="gen1926" type="x-p"/>
+Invocavit vero Jabes Deum Israël, dicens : Si benedicens benedixeris mihi, et dilataveris terminos meos, et fuerit manus tua mecum, et feceris me a malitia non opprimi. Et præstitit Deus quæ precatus est.  
 
 ** I Chronicles 4:11
 
@@ -628,7 +628,7 @@ Et qui stare fecit solem, virique Mendacii, et Securus, et Incendens, qui princi
 
 ** I Chronicles 4:23
 
-Hi sunt figuli habitantes in plantationibus et in sepibus, apud regem in operibus ejus : commoratique sunt ibi.  <div eID="gen1927" type="x-p"/>
+Hi sunt figuli habitantes in plantationibus et in sepibus, apud regem in operibus ejus : commoratique sunt ibi.  
 
 ** I Chronicles 4:24
 
@@ -708,7 +708,7 @@ De filiis quoque Simeon abierunt in montem Seir viri quingenti, habentes princip
 
 ** I Chronicles 4:43
 
-et percusserunt reliquias, quæ evadere potuerant, Amalecitarum, et habitaverunt ibi pro eis usque ad diem hanc.  <chapter eID="1Chr.4"/> <div eID="gen1928" type="x-p"/>
+et percusserunt reliquias, quæ evadere potuerant, Amalecitarum, et habitaverunt ibi pro eis usque ad diem hanc.   
 
 * I Chronicles 5
 
@@ -750,7 +750,7 @@ Contra orientalem quoque plagam habitavit usque ad introitum eremi, et flumen Eu
 
 ** I Chronicles 5:10
 
-In diebus autem Saul præliati sunt contra Agareos, et interfecerunt illos, habitaveruntque pro eis in tabernaculis eorum, in omni plaga quæ respicit ad orientem Galaad.  <div eID="gen1929" type="x-p"/>
+In diebus autem Saul præliati sunt contra Agareos, et interfecerunt illos, habitaveruntque pro eis in tabernaculis eorum, in omni plaga quæ respicit ad orientem Galaad.  
 
 ** I Chronicles 5:11
 
@@ -798,7 +798,7 @@ Ceperuntque omnia quæ possederant, camelorum quinquaginta millia, et ovium duce
 
 ** I Chronicles 5:22
 
-Vulnerati autem multi corruerunt : fuit enim bellum Domini. Habitaveruntque pro eis usque ad transmigrationem.  <div eID="gen1930" type="x-p"/>
+Vulnerati autem multi corruerunt : fuit enim bellum Domini. Habitaveruntque pro eis usque ad transmigrationem.  
 
 ** I Chronicles 5:23
 
@@ -814,7 +814,7 @@ Reliquerunt autem Deum patrum suorum, et fornicati sunt post deos populorum terr
 
 ** I Chronicles 5:26
 
-Et suscitavit Deus Israël spiritum Phul regis Assyriorum, et spiritum Thelgathphalnasar regis Assur : et transtulit Ruben, et Gad, et dimidiam tribum Manasse, et adduxit eos in Lahela, et in Habor, et Ara, et fluvium Gozan, usque ad diem hanc.  <chapter eID="1Chr.5"/> <div eID="gen1931" type="x-p"/>
+Et suscitavit Deus Israël spiritum Phul regis Assyriorum, et spiritum Thelgathphalnasar regis Assur : et transtulit Ruben, et Gad, et dimidiam tribum Manasse, et adduxit eos in Lahela, et in Habor, et Ara, et fluvium Gozan, usque ad diem hanc.   
 
 * I Chronicles 6
 
@@ -1028,7 +1028,7 @@ Meraioth filius ejus, Amarias filius ejus, Achitob filius ejus,
 
 ** I Chronicles 6:53
 
-Sadoc filius ejus, Achimaas filius ejus.  <div eID="gen1932" type="x-p"/>
+Sadoc filius ejus, Achimaas filius ejus.  
 
 ** I Chronicles 6:54
 
@@ -1140,7 +1140,7 @@ Necnon et de tribu Gad, Ramoth in Galaad et suburbana ejus, et Manaim cum suburb
 
 ** I Chronicles 6:81
 
-sed et Hesebon cum suburbanis suis, et Jezer cum suburbanis suis.  <chapter eID="1Chr.6"/> <div eID="gen1933" type="x-p"/>
+sed et Hesebon cum suburbanis suis, et Jezer cum suburbanis suis.   
 
 * I Chronicles 7
 
@@ -1162,7 +1162,7 @@ Cumque eis per familias et populos suos, accincti ad prælium, viri fortissimi, 
 
 ** I Chronicles 7:5
 
-Fratres quoque eorum per omnem cognationem Issachar robustissimi ad pugnandum, octoginta septem millia numerati sunt.  <div eID="gen1934" type="x-p"/>
+Fratres quoque eorum per omnem cognationem Issachar robustissimi ad pugnandum, octoginta septem millia numerati sunt.  
 
 ** I Chronicles 7:6
 
@@ -1190,11 +1190,11 @@ omnes hi filii Jadihel, principes cognationum suarum viri fortissimi, decem et s
 
 ** I Chronicles 7:12
 
-Sepham quoque et Hapham filii Hir : et Hasim filii Aher.  <div eID="gen1935" type="x-p"/>
+Sepham quoque et Hapham filii Hir : et Hasim filii Aher.  
 
 ** I Chronicles 7:13
 
-Filii autem Nephthali : Jaziel, et Guni, et Jeser, et Sellum, filii Bala.  <div eID="gen1936" type="x-p"/>
+Filii autem Nephthali : Jaziel, et Guni, et Jeser, et Sellum, filii Bala.  
 
 ** I Chronicles 7:14
 
@@ -1218,7 +1218,7 @@ Soror autem ejus Regina peperit Virum decorum, et Abiezer, et Mohola.
 
 ** I Chronicles 7:19
 
-Erant autem filii Semida, Ahin, et Sechem, et Leci, et Aniam.  <div eID="gen1937" type="x-p"/>
+Erant autem filii Semida, Ahin, et Sechem, et Leci, et Aniam.  
 
 ** I Chronicles 7:20
 
@@ -1258,7 +1258,7 @@ Possessio autem eorum et habitatio, Bethel cum filiabus suis, et contra orientem
 
 ** I Chronicles 7:29
 
-Juxta filios quoque Manasse, Bethsan et filias ejus, Thanach et filias ejus, Mageddo et filias ejus, Dor et filias ejus : in his habitaverunt filii Joseph, filii Israël.  <div eID="gen1938" type="x-p"/>
+Juxta filios quoque Manasse, Bethsan et filias ejus, Thanach et filias ejus, Mageddo et filias ejus, Dor et filias ejus : in his habitaverunt filii Joseph, filii Israël.  
 
 ** I Chronicles 7:30
 
@@ -1302,7 +1302,7 @@ Filii autem Olla : Aree, et Haniel, et Resia.
 
 ** I Chronicles 7:40
 
-Omnes hi filii Aser, principes cognationum, electi atque fortissimi duces ducum : numerus autem eorum ætatis quæ apta esset ad bellum, viginti sex millia.  <chapter eID="1Chr.7"/> <div eID="gen1939" type="x-p"/>
+Omnes hi filii Aser, principes cognationum, electi atque fortissimi duces ducum : numerus autem eorum ætatis quæ apta esset ad bellum, viginti sex millia.   
 
 * I Chronicles 8
 
@@ -1432,7 +1432,7 @@ Gedor quoque, et Ahio, et Zacher, et Macelloth :
 
 ** I Chronicles 8:32
 
-et Macelloth genuit Samaa : habitaveruntque ex adverso fratrum suorum in Jerusalem cum fratribus suis.  <div eID="gen1940" type="x-p"/>
+et Macelloth genuit Samaa : habitaveruntque ex adverso fratrum suorum in Jerusalem cum fratribus suis.  
 
 ** I Chronicles 8:33
 
@@ -1464,7 +1464,7 @@ Filii autem Esec fratris ejus, Ulam primogenitus, et Jehus secundus, et Eliphale
 
 ** I Chronicles 8:40
 
-Fueruntque filii Ulam viri robustissimi, et magno robore tendentes arcum : et multos habentes filios ac nepotes, usque ad centum quinquaginta. Omnes hi filii Benjamin.  <chapter eID="1Chr.8"/> <div eID="gen1941" type="x-p"/>
+Fueruntque filii Ulam viri robustissimi, et magno robore tendentes arcum : et multos habentes filios ac nepotes, usque ad centum quinquaginta. Omnes hi filii Benjamin.   
 
 * I Chronicles 9
 
@@ -1502,7 +1502,7 @@ et Jobania filius Jeroham, et Ela filius Ozi, filii Mochori, et Mosollam filius 
 
 ** I Chronicles 9:9
 
-et fratres eorum per familias suas, nongenti quinquaginta sex. Omnes hi principes cognationum per domos patrum suorum.  <div eID="gen1942" type="x-p"/>
+et fratres eorum per familias suas, nongenti quinquaginta sex. Omnes hi principes cognationum per domos patrum suorum.  
 
 ** I Chronicles 9:10
 
@@ -1518,7 +1518,7 @@ Porro Adaias filius Jeroham, filii Phassur, filii Melchiæ, et Maasai filius Adi
 
 ** I Chronicles 9:13
 
-Fratres quoque eorum principes per familias suas, mille septingenti sexaginta, fortissimi robore ad faciendum opus ministerii in domo Dei.  <div eID="gen1943" type="x-p"/>
+Fratres quoque eorum principes per familias suas, mille septingenti sexaginta, fortissimi robore ad faciendum opus ministerii in domo Dei.  
 
 ** I Chronicles 9:14
 
@@ -1574,7 +1574,7 @@ His quatuor Levitis creditus erat omnis numerus janitorum, et erant super exedra
 
 ** I Chronicles 9:27
 
-Per gyrum quoque templi Domini morabantur in custodiis suis : ut cum tempus fuisset, ipsi mane aperirent fores.  <div eID="gen1944" type="x-p"/>
+Per gyrum quoque templi Domini morabantur in custodiis suis : ut cum tempus fuisset, ipsi mane aperirent fores.  
 
 ** I Chronicles 9:28
 
@@ -1618,7 +1618,7 @@ Gedor quoque, et Ahio, et Zacharias, et Macelloth.
 
 ** I Chronicles 9:38
 
-Porro Macelloth genuit Samaan : isti habitaverunt e regione fratrum suorum in Jerusalem cum fratribus suis.  <div eID="gen1945" type="x-p"/>
+Porro Macelloth genuit Samaan : isti habitaverunt e regione fratrum suorum in Jerusalem cum fratribus suis.  
 
 ** I Chronicles 9:39
 
@@ -1642,7 +1642,7 @@ Mosa vero genuit Banaa, cujus filius Raphaia, genuit Elasa, de quo ortus est Ase
 
 ** I Chronicles 9:44
 
-Porro Asel sex filios habuit, his nominibus : Ezricam, Bocru, Ismahel, Saria, Obdia, Hanan : hi sunt filii Asel.  <chapter eID="1Chr.9"/> <div eID="gen1946" type="x-p"/>
+Porro Asel sex filios habuit, his nominibus : Ezricam, Bocru, Ismahel, Saria, Obdia, Hanan : hi sunt filii Asel.   
 
 * I Chronicles 10
 
@@ -1700,7 +1700,7 @@ Mortuus est ergo Saul propter iniquitates suas, eo quod prævaricatus sit mandat
 
 ** I Chronicles 10:14
 
-nec speraverit in Domino : propter quod interfecit eum, et transtulit regnum ejus ad David filium Isai.  <chapter eID="1Chr.10"/> <div eID="gen1947" type="x-p"/>
+nec speraverit in Domino : propter quod interfecit eum, et transtulit regnum ejus ad David filium Isai.   
 
 * I Chronicles 11
 
@@ -1714,7 +1714,7 @@ Heri quoque et nudiustertius cum adhuc regnaret Saul, tu eras qui educebas et in
 
 ** I Chronicles 11:3
 
-Venerunt ergo omnes majores natu Israël ad regem in Hebron, et iniit David cum eis fœdus coram Domino : unxeruntque eum regem super Israël, juxta sermonem Domini quem locutus est in manu Samuel.  <div eID="gen1948" type="x-p"/>
+Venerunt ergo omnes majores natu Israël ad regem in Hebron, et iniit David cum eis fœdus coram Domino : unxeruntque eum regem super Israël, juxta sermonem Domini quem locutus est in manu Samuel.  
 
 ** I Chronicles 11:4
 
@@ -1738,7 +1738,7 @@ Habitavit autem David in arce, et idcirco appellata est civitas David.
 
 ** I Chronicles 11:9
 
-Proficiebatque David vadens et crescens, et Dominus exercituum erat cum eo.  <div eID="gen1949" type="x-p"/>
+Proficiebatque David vadens et crescens, et Dominus exercituum erat cum eo.  
 
 ** I Chronicles 11:10
 
@@ -1802,7 +1802,7 @@ Hæc fecit Banaias filius Jojadæ, qui erat inter tres robustos nominatissimus,
 
 ** I Chronicles 11:25
 
-inter triginta primus, verumtamen ad tres usque non pervenerat : posuit autem eum David ad auriculam suam.  <div eID="gen1950" type="x-p"/>
+inter triginta primus, verumtamen ad tres usque non pervenerat : posuit autem eum David ad auriculam suam.  
 
 ** I Chronicles 11:26
 
@@ -1886,7 +1886,7 @@ Jedihel filius Samri, et Joha frater ejus Thosaites,
 
 ** I Chronicles 11:46
 
-Eliel Mahumites, et Jeribai, et Josaia filii Elnaëm, et Jethma Moabites, Eliel, et Obed, et Jasiel de Masobia.  <chapter eID="1Chr.11"/> <div eID="gen1951" type="x-p"/>
+Eliel Mahumites, et Jeribai, et Josaia filii Elnaëm, et Jethma Moabites, Eliel, et Obed, et Jasiel de Masobia.   
 
 * I Chronicles 12
 
@@ -1916,7 +1916,7 @@ Elcana, et Jesia, et Azareel, et Joëzer, et Jesbaam de Carehim :
 
 ** I Chronicles 12:7
 
-Joëla quoque, et Zabadia filii Jeroham de Gedor.  <div eID="gen1952" type="x-p"/>
+Joëla quoque, et Zabadia filii Jeroham de Gedor.  
 
 ** I Chronicles 12:8
 
@@ -1948,7 +1948,7 @@ Hi de filiis Gad principes exercitus : novissimus centum militibus præerat, et 
 
 ** I Chronicles 12:15
 
-Isti sunt qui transierunt Jordanem mense primo, quando inundare consuevit super ripas suas : et omnes fugaverunt qui morabantur in vallibus ad orientalem plagam et occidentalem.  <div eID="gen1953" type="x-p"/>
+Isti sunt qui transierunt Jordanem mense primo, quando inundare consuevit super ripas suas : et omnes fugaverunt qui morabantur in vallibus ad orientalem plagam et occidentalem.  
 
 ** I Chronicles 12:16
 
@@ -1960,7 +1960,7 @@ Egressusque est David obviam eis, et ait : Si pacifice venistis ad me ut auxilie
 
 ** I Chronicles 12:18
 
-Spiritus vero induit Amasai principem inter triginta, et ait : Tui sumus, o David, et tecum, fili Isai. Pax, pax tibi, et pax adjutoribus tuis : te enim adjuvat Deus tuus. Suscepit ergo eos David, et constituit principes turmæ.  <div eID="gen1954" type="x-p"/>
+Spiritus vero induit Amasai principem inter triginta, et ait : Tui sumus, o David, et tecum, fili Isai. Pax, pax tibi, et pax adjutoribus tuis : te enim adjuvat Deus tuus. Suscepit ergo eos David, et constituit principes turmæ.  
 
 ** I Chronicles 12:19
 
@@ -1976,7 +1976,7 @@ Hi præbuerunt auxilium David adversus latrunculos : omnes enim erant viri forti
 
 ** I Chronicles 12:22
 
-Sed et per singulos dies veniebant ad David ad auxiliandum ei, usque dum fieret grandis numerus, quasi exercitus Dei.  <div eID="gen1955" type="x-p"/>
+Sed et per singulos dies veniebant ad David ad auxiliandum ei, usque dum fieret grandis numerus, quasi exercitus Dei.  
 
 ** I Chronicles 12:23
 
@@ -2048,7 +2048,7 @@ Fueruntque ibi apud David tribus diebus comedentes et bibentes : præparaverant 
 
 ** I Chronicles 12:40
 
-Sed et qui juxta eos erant, usque ad Issachar, et Zabulon, et Nephthali, afferebant panes in asinis, et camelis, et mulis, et bobus ad vescendum : farinam, palathas, uvam passam, vinum, oleum, boves, arietes ad omnem copiam : gaudium quippe erat in Israël.  <chapter eID="1Chr.12"/> <div eID="gen1956" type="x-p"/>
+Sed et qui juxta eos erant, usque ad Issachar, et Zabulon, et Nephthali, afferebant panes in asinis, et camelis, et mulis, et bobus ad vescendum : farinam, palathas, uvam passam, vinum, oleum, boves, arietes ad omnem copiam : gaudium quippe erat in Israël.   
 
 * I Chronicles 13
 
@@ -2106,7 +2106,7 @@ et ob hanc causam non adduxit eam ad se, hoc est, in civitatem David, sed averti
 
 ** I Chronicles 13:14
 
-Mansit ergo arca Dei in domo Obededom tribus mensibus : et benedixit Dominus domui ejus, et omnibus quæ habebat.  <chapter eID="1Chr.13"/> <div eID="gen1957" type="x-p"/>
+Mansit ergo arca Dei in domo Obededom tribus mensibus : et benedixit Dominus domui ejus, et omnibus quæ habebat.   
 
 * I Chronicles 14
 
@@ -2136,7 +2136,7 @@ Noga quoque, et Napheg, et Japhia,
 
 ** I Chronicles 14:7
 
-Elisama, et Baaliada, et Eliphalet.  <div eID="gen1958" type="x-p"/>
+Elisama, et Baaliada, et Eliphalet.  
 
 ** I Chronicles 14:8
 
@@ -2176,7 +2176,7 @@ Fecit ergo David sicut præceperat ei Deus, et percussit castra Philisthinorum, 
 
 ** I Chronicles 14:17
 
-Divulgatumque est nomen David in universis regionibus, et Dominus dedit pavorem ejus super omnes gentes.  <chapter eID="1Chr.14"/> <div eID="gen1959" type="x-p"/>
+Divulgatumque est nomen David in universis regionibus, et Dominus dedit pavorem ejus super omnes gentes.   
 
 * I Chronicles 15
 
@@ -2274,7 +2274,7 @@ Et Barachias, et Elcana, janitores arcæ.
 
 ** I Chronicles 15:24
 
-Porro Sebenias, et Josaphat, et Nathanaël, et Amasai, et Zacharias, et Banaias, et Eliezer sacerdotes, clangebant tubis coram arca Dei : et Obededom et Jehias erant janitores arcæ.  <div eID="gen1960" type="x-p"/>
+Porro Sebenias, et Josaphat, et Nathanaël, et Amasai, et Zacharias, et Banaias, et Eliezer sacerdotes, clangebant tubis coram arca Dei : et Obededom et Jehias erant janitores arcæ.  
 
 ** I Chronicles 15:25
 
@@ -2294,7 +2294,7 @@ Universusque Israël deducebant arcam fœderis Domini in jubilo, et sonitu bucci
 
 ** I Chronicles 15:29
 
-Cumque pervenisset arca fœderis Domini usque ad civitatem David, Michol filia Saul prospiciens per fenestram vidit regem David saltantem atque ludentem, et despexit eum in corde suo.  <chapter eID="1Chr.15"/> <div eID="gen1961" type="x-p"/>
+Cumque pervenisset arca fœderis Domini usque ad civitatem David, Michol filia Saul prospiciens per fenestram vidit regem David saltantem atque ludentem, et despexit eum in corde suo.   
 
 * I Chronicles 16
 
@@ -2308,7 +2308,7 @@ Cumque complesset David offerens holocausta et pacifica, benedixit populo in nom
 
 ** I Chronicles 16:3
 
-Et divisit universis per singulos, a viro usque ad mulierem, tortam panis, et partem assæ carnis bubalæ, et frixam oleo similam.  <div eID="gen1962" type="x-p"/>
+Et divisit universis per singulos, a viro usque ad mulierem, tortam panis, et partem assæ carnis bubalæ, et frixam oleo similam.  
 
 ** I Chronicles 16:4
 
@@ -2320,127 +2320,127 @@ Asaph principem, et secundum ejus Zachariam : porro Jahiel, et Semiramoth, et Je
 
 ** I Chronicles 16:6
 
-Banaiam vero et Jaziel sacerdotes canere tuba jugiter coram arca fœderis Domini.  <div eID="gen1963" type="x-p"/>
+Banaiam vero et Jaziel sacerdotes canere tuba jugiter coram arca fœderis Domini.  
 
 ** I Chronicles 16:7
 
-In illo die fecit David principem ad confitendum Domino Asaph et fratres ejus :  <div eID="gen1964" type="x-p"/>
+In illo die fecit David principem ad confitendum Domino Asaph et fratres ejus :  
 
 ** I Chronicles 16:8
 
-Confitemini Domino, et invocate nomen ejus : <l eID="gen1966" level="1"/> <l level="1" sID="gen1967"/>notas facite in populis adinventiones ejus. <l eID="gen1967" level="1"/>
+Confitemini Domino, et invocate nomen ejus :  notas facite in populis adinventiones ejus. 
 
 ** I Chronicles 16:9
 
-Cantate ei, et psallite ei, <l eID="gen1968" level="1"/> <l level="1" sID="gen1969"/>et narrate omnia mirabilia ejus. <l eID="gen1969" level="1"/>
+Cantate ei, et psallite ei,  et narrate omnia mirabilia ejus. 
 
 ** I Chronicles 16:10
 
-Laudate nomen sanctum ejus : <l eID="gen1970" level="1"/> <l level="1" sID="gen1971"/>lætetur cor quærentium Dominum. <l eID="gen1971" level="1"/>
+Laudate nomen sanctum ejus :  lætetur cor quærentium Dominum. 
 
 ** I Chronicles 16:11
 
-Quærite Dominum, et virtutem ejus : <l eID="gen1972" level="1"/> <l level="1" sID="gen1973"/>quærite faciem ejus semper. <l eID="gen1973" level="1"/>
+Quærite Dominum, et virtutem ejus :  quærite faciem ejus semper. 
 
 ** I Chronicles 16:12
 
-Recordamini mirabilium ejus quæ fecit ; <l eID="gen1974" level="1"/> <l level="1" sID="gen1975"/>signorum illius, et judiciorum oris ejus, <l eID="gen1975" level="1"/>
+Recordamini mirabilium ejus quæ fecit ;  signorum illius, et judiciorum oris ejus, 
 
 ** I Chronicles 16:13
 
-semen Israël servi ejus, <l eID="gen1976" level="1"/> <l level="1" sID="gen1977"/>filii Jacob electi ejus. <l eID="gen1977" level="1"/>
+semen Israël servi ejus,  filii Jacob electi ejus. 
 
 ** I Chronicles 16:14
 
-Ipse Dominus Deus noster : <l eID="gen1978" level="1"/> <l level="1" sID="gen1979"/>in universa terra judicia ejus. <l eID="gen1979" level="1"/>
+Ipse Dominus Deus noster :  in universa terra judicia ejus. 
 
 ** I Chronicles 16:15
 
-Recordamini in sempiternum pacti ejus : <l eID="gen1980" level="1"/> <l level="1" sID="gen1981"/>sermonis quem præcepit in mille generationes, <l eID="gen1981" level="1"/>
+Recordamini in sempiternum pacti ejus :  sermonis quem præcepit in mille generationes, 
 
 ** I Chronicles 16:16
 
-quem pepigit cum Abraham, <l eID="gen1982" level="1"/> <l level="1" sID="gen1983"/>et juramenti illius cum Isaac. <l eID="gen1983" level="1"/>
+quem pepigit cum Abraham,  et juramenti illius cum Isaac. 
 
 ** I Chronicles 16:17
 
-Et constituit illud Jacob in præceptum, <l eID="gen1984" level="1"/> <l level="1" sID="gen1985"/>et Israël in pactum sempiternum, <l eID="gen1985" level="1"/>
+Et constituit illud Jacob in præceptum,  et Israël in pactum sempiternum, 
 
 ** I Chronicles 16:18
 
-dicens : Tibi dabo terram Chanaan, <l eID="gen1986" level="1"/> <l level="1" sID="gen1987"/>funiculum hæreditatis vestræ : <l eID="gen1987" level="1"/>
+dicens : Tibi dabo terram Chanaan,  funiculum hæreditatis vestræ : 
 
 ** I Chronicles 16:19
 
-cum essent pauci numero, <l eID="gen1988" level="1"/> <l level="1" sID="gen1989"/>parvi et coloni ejus. <l eID="gen1989" level="1"/>
+cum essent pauci numero,  parvi et coloni ejus. 
 
 ** I Chronicles 16:20
 
-Et transierunt de gente in gentem, <l eID="gen1990" level="1"/> <l level="1" sID="gen1991"/>et de regno ad populum alterum. <l eID="gen1991" level="1"/>
+Et transierunt de gente in gentem,  et de regno ad populum alterum. 
 
 ** I Chronicles 16:21
 
-Non dimisit quemquam calumniari eos, <l eID="gen1992" level="1"/> <l level="1" sID="gen1993"/>sed increpavit pro eis reges. <l eID="gen1993" level="1"/>
+Non dimisit quemquam calumniari eos,  sed increpavit pro eis reges. 
 
 ** I Chronicles 16:22
 
-Nolite tangere christos meos, <l eID="gen1994" level="1"/> <l level="1" sID="gen1995"/>et in prophetis meis nolite malignari. <l eID="gen1995" level="1"/>
+Nolite tangere christos meos,  et in prophetis meis nolite malignari. 
 
 ** I Chronicles 16:23
 
-Cantate Domino omnis terra ; <l eID="gen1996" level="1"/> <l level="1" sID="gen1997"/>annuntiate ex die in diem salutare ejus : <l eID="gen1997" level="1"/>
+Cantate Domino omnis terra ;  annuntiate ex die in diem salutare ejus : 
 
 ** I Chronicles 16:24
 
-narrate in gentibus gloriam ejus ; <l eID="gen1998" level="1"/> <l level="1" sID="gen1999"/>in cunctis populis mirabilia ejus. <l eID="gen1999" level="1"/>
+narrate in gentibus gloriam ejus ;  in cunctis populis mirabilia ejus. 
 
 ** I Chronicles 16:25
 
-Quia magnus Dominus, et laudabilis nimis, <l eID="gen2000" level="1"/> <l level="1" sID="gen2001"/>et horribilis super omnes deos. <l eID="gen2001" level="1"/>
+Quia magnus Dominus, et laudabilis nimis,  et horribilis super omnes deos. 
 
 ** I Chronicles 16:26
 
-Omnes enim dii populorum idola : <l eID="gen2002" level="1"/> <l level="1" sID="gen2003"/>Dominus autem cælos fecit. <l eID="gen2003" level="1"/>
+Omnes enim dii populorum idola :  Dominus autem cælos fecit. 
 
 ** I Chronicles 16:27
 
-Confessio et magnificentia coram eo : <l eID="gen2004" level="1"/> <l level="1" sID="gen2005"/>fortitudo et gaudium in loco ejus. <l eID="gen2005" level="1"/>
+Confessio et magnificentia coram eo :  fortitudo et gaudium in loco ejus. 
 
 ** I Chronicles 16:28
 
-Afferte Domino, familiæ populorum : <l eID="gen2006" level="1"/> <l level="1" sID="gen2007"/>afferte Domino gloriam et imperium. <l eID="gen2007" level="1"/>
+Afferte Domino, familiæ populorum :  afferte Domino gloriam et imperium. 
 
 ** I Chronicles 16:29
 
-Date Domino gloriam ; <l eID="gen2008" level="1"/> <l level="1" sID="gen2009"/>nomini ejus levate sacrificium, <l eID="gen2009" level="1"/> <l level="1" sID="gen2010"/>et venite in conspectu ejus : <l eID="gen2010" level="1"/> <l level="1" sID="gen2011"/>et adorate Dominum in decore sancto. <l eID="gen2011" level="1"/>
+Date Domino gloriam ;  nomini ejus levate sacrificium,  et venite in conspectu ejus :  et adorate Dominum in decore sancto. 
 
 ** I Chronicles 16:30
 
-Commoveatur a facie ejus omnis terra : <l eID="gen2012" level="1"/> <l level="1" sID="gen2013"/>ipse enim fundavit orbem immobilem. <l eID="gen2013" level="1"/>
+Commoveatur a facie ejus omnis terra :  ipse enim fundavit orbem immobilem. 
 
 ** I Chronicles 16:31
 
-Lætentur cæli, et exultet terra, <l eID="gen2014" level="1"/> <l level="1" sID="gen2015"/>et dicant in nationibus : Dominus regnavit. <l eID="gen2015" level="1"/>
+Lætentur cæli, et exultet terra,  et dicant in nationibus : Dominus regnavit. 
 
 ** I Chronicles 16:32
 
-Tonet mare et plenitudo ejus ; <l eID="gen2016" level="1"/> <l level="1" sID="gen2017"/>exultent agri, et omnia quæ in eis sunt. <l eID="gen2017" level="1"/>
+Tonet mare et plenitudo ejus ;  exultent agri, et omnia quæ in eis sunt. 
 
 ** I Chronicles 16:33
 
-Tunc laudabunt ligna saltus coram Domino : <l eID="gen2018" level="1"/> <l level="1" sID="gen2019"/>quia venit judicare terram. <l eID="gen2019" level="1"/>
+Tunc laudabunt ligna saltus coram Domino :  quia venit judicare terram. 
 
 ** I Chronicles 16:34
 
-Confitemini Domino, quoniam bonus : <l eID="gen2020" level="1"/> <l level="1" sID="gen2021"/>quoniam in æternum misericordia ejus. <l eID="gen2021" level="1"/>
+Confitemini Domino, quoniam bonus :  quoniam in æternum misericordia ejus. 
 
 ** I Chronicles 16:35
 
-Et dicite : Salva nos, Deus salvator noster, <l eID="gen2022" level="1"/> <l level="1" sID="gen2023"/>et congrega nos, et erue de gentibus : <l eID="gen2023" level="1"/> <l level="1" sID="gen2024"/>ut confiteamur nomini sancto tuo, <l eID="gen2024" level="1"/> <l level="1" sID="gen2025"/>et exultemus in carminibus tuis. <l eID="gen2025" level="1"/>
+Et dicite : Salva nos, Deus salvator noster,  et congrega nos, et erue de gentibus :  ut confiteamur nomini sancto tuo,  et exultemus in carminibus tuis. 
 
 ** I Chronicles 16:36
 
-Benedictus Dominus Deus Israël, <l eID="gen2026" level="1"/> <l level="1" sID="gen2027"/>ab æterno usque in æternum. Et dicat omnis populo : Amen, et hymnum Domino.
+Benedictus Dominus Deus Israël,  ab æterno usque in æternum. Et dicat omnis populo : Amen, et hymnum Domino.
 
 ** I Chronicles 16:37
 
@@ -2468,7 +2468,7 @@ Heman quoque et Idithun canentes tuba, et quatientes cymbala et omnia musicorum 
 
 ** I Chronicles 16:43
 
-Reversusque est omnis populus in domum suam : et David, ut benediceret etiam domui suæ. <l eID="gen2027" level="1"/><lg eID="gen1965"/> <chapter eID="1Chr.16"/>
+Reversusque est omnis populus in domum suam : et David, ut benediceret etiam domui suæ.  
 
 * I Chronicles 17
 
@@ -2530,7 +2530,7 @@ Et statuam eum in domo mea, et in regno meo usque in sempiternum : et thronus ej
 
 ** I Chronicles 17:15
 
-Juxta omnia verba hæc, et juxta universam visionem istam, sic locutus est Nathan ad David.  <div eID="gen2028" type="x-p"/>
+Juxta omnia verba hæc, et juxta universam visionem istam, sic locutus est Nathan ad David.  
 
 ** I Chronicles 17:16
 
@@ -2578,7 +2578,7 @@ Nunc ergo Domine, tu es Deus, et locutus es ad servum tuum tanta beneficia.
 
 ** I Chronicles 17:27
 
-Et cœpisti benedicere domui servi tui, ut sit semper coram te : te enim, Domine, benedicente, benedicta erit in perpetuum.  <chapter eID="1Chr.17"/> <div eID="gen2029" type="x-p"/>
+Et cœpisti benedicere domui servi tui, ut sit semper coram te : te enim, Domine, benedicente, benedicta erit in perpetuum.   
 
 * I Chronicles 18
 
@@ -2612,7 +2612,7 @@ Tulit quoque David pharetras aureas, quas habuerant servi Adarezer, et attulit e
 
 ** I Chronicles 18:8
 
-Necnon de Thebath et Chun urbibus Adarezer æris plurimum, de quo fecit Salomon mare æneum, et columnas, et vasa ænea.  <div eID="gen2030" type="x-p"/>
+Necnon de Thebath et Chun urbibus Adarezer æris plurimum, de quo fecit Salomon mare æneum, et columnas, et vasa ænea.  
 
 ** I Chronicles 18:9
 
@@ -2648,7 +2648,7 @@ Sadoc autem filius Achitob, et Ahimelech filius Abiathar, sacerdotes : et Susa, 
 
 ** I Chronicles 18:17
 
-Banaias quoque filius Jojadæ super legiones Cerethi et Phelethi : porro filii David, primi ad manum regis.  <chapter eID="1Chr.18"/> <div eID="gen2031" type="x-p"/>
+Banaias quoque filius Jojadæ super legiones Cerethi et Phelethi : porro filii David, primi ad manum regis.   
 
 * I Chronicles 19
 
@@ -2686,7 +2686,7 @@ Quod cum audisset David, misit Joab, et omnem exercitum virorum fortium :
 
 ** I Chronicles 19:9
 
-egressique filii Ammon, direxerunt aciem juxta portam civitatis ; reges autem, qui ad auxilium ejus venerant, separatim in agro steterunt.  <div eID="gen2032" type="x-p"/>
+egressique filii Ammon, direxerunt aciem juxta portam civitatis ; reges autem, qui ad auxilium ejus venerant, separatim in agro steterunt.  
 
 ** I Chronicles 19:10
 
@@ -2726,7 +2726,7 @@ Fugit autem Syrus Israël, et interfecit David de Syris septem millia curruum, e
 
 ** I Chronicles 19:19
 
-Videntes autem servi Adarezer se ab Israël esse superatos, transfugerunt ad David, et servierunt ei : noluitque ultra Syria auxilium præbere filiis Ammon.  <chapter eID="1Chr.19"/> <div eID="gen2033" type="x-p"/>
+Videntes autem servi Adarezer se ab Israël esse superatos, transfugerunt ad David, et servierunt ei : noluitque ultra Syria auxilium præbere filiis Ammon.   
 
 * I Chronicles 20
 
@@ -2756,7 +2756,7 @@ Sed et aliud bellum accidit in Geth, in quo fuit homo longissimus, senos habens 
 
 ** I Chronicles 20:7
 
-Hic blasphemavit Israël : et percussit eum Jonathan filius Samaa fratris David. Hi sunt filii Rapha in Geth, qui ceciderunt in manu David et servorum ejus.  <chapter eID="1Chr.20"/> <div eID="gen2034" type="x-p"/>
+Hic blasphemavit Israël : et percussit eum Jonathan filius Samaa fratris David. Hi sunt filii Rapha in Geth, qui ceciderunt in manu David et servorum ejus.   
 
 * I Chronicles 21
 
@@ -2810,7 +2810,7 @@ aut tribus annis famem ; aut tribus mensibus te fugere hostes tuos, et gladium e
 
 ** I Chronicles 21:13
 
-Et dixit David ad Gad : Ex omni parte me angustiæ premunt : sed melius mihi est ut incidam in manus Domini, quia multæ sunt miserationes ejus, quam in manus hominum.  <div eID="gen2035" type="x-p"/>
+Et dixit David ad Gad : Ex omni parte me angustiæ premunt : sed melius mihi est ut incidam in manus Domini, quia multæ sunt miserationes ejus, quam in manus hominum.  
 
 ** I Chronicles 21:14
 
@@ -2878,7 +2878,7 @@ Tabernaculum autem Domini, quod fecerat Moyses in deserto, et altare holocaustor
 
 ** I Chronicles 21:30
 
-Et non prævaluit David ire ad altare ut ibi obsecraret Deum : nimio enim fuerat in timore perterritus, videns gladium angeli Domini.  <chapter eID="1Chr.21"/> <div eID="gen2036" type="x-p"/>
+Et non prævaluit David ire ad altare ut ibi obsecraret Deum : nimio enim fuerat in timore perterritus, videns gladium angeli Domini.   
 
 * I Chronicles 22
 
@@ -2900,7 +2900,7 @@ Ligna quoque cedrina non poterant æstimari, quæ Sidonii et Tyrii deportaverant
 
 ** I Chronicles 22:5
 
-Et dixit David : Solomon filius meus puer parvulus est et delicatus : domus autem, quam ædificari volo Domino, talis esse debet ut in cunctis regionibus nominetur : præparabo ergo ei necessaria. Et ob hanc causam ante mortem suam omnes præparavit impensas.  <div eID="gen2037" type="x-p"/>
+Et dixit David : Solomon filius meus puer parvulus est et delicatus : domus autem, quam ædificari volo Domino, talis esse debet ut in cunctis regionibus nominetur : præparabo ergo ei necessaria. Et ob hanc causam ante mortem suam omnes præparavit impensas.  
 
 ** I Chronicles 22:6
 
@@ -2944,7 +2944,7 @@ Habes quoque plurimos artifices, latomos, et cæmentarios, artificesque lignorum
 
 ** I Chronicles 22:16
 
-in auro et argento et ære et ferro, cujus non est numerus. Surge igitur et fac, et erit Dominus tecum.  <div eID="gen2038" type="x-p"/>
+in auro et argento et ære et ferro, cujus non est numerus. Surge igitur et fac, et erit Dominus tecum.  
 
 ** I Chronicles 22:17
 
@@ -2956,7 +2956,7 @@ Cernitis, inquiens, quod Dominus Deus vester vobiscum sit, et dederit vobis requ
 
 ** I Chronicles 22:19
 
-Præbete igitur corda vestra et animas vestras, ut quæratis Dominum Deum vestrum : et consurgite, et ædificate sanctuarium Domino Deo, ut introducatur arca fœderis Domini, et vasa Domino consecrata, in domum quæ ædificatur nomini Domini.  <chapter eID="1Chr.22"/> <div eID="gen2039" type="x-p"/>
+Præbete igitur corda vestra et animas vestras, ut quæratis Dominum Deum vestrum : et consurgite, et ædificate sanctuarium Domino Deo, ut introducatur arca fœderis Domini, et vasa Domino consecrata, in domum quæ ædificatur nomini Domini.   
 
 * I Chronicles 23
 
@@ -3086,7 +3086,7 @@ tam in oblatione holocaustorum Domini, quam in sabbatis et calendis et solemnita
 
 ** I Chronicles 23:32
 
-Et custodiant observationes tabernaculi fœderis, et ritum sanctuarii, et observationem filiorum Aaron fratrum suorum, ut ministrent in domo Domini.  <chapter eID="1Chr.23"/> <div eID="gen2040" type="x-p"/>
+Et custodiant observationes tabernaculi fœderis, et ritum sanctuarii, et observationem filiorum Aaron fratrum suorum, ut ministrent in domo Domini.   
 
 * I Chronicles 24
 
@@ -3212,7 +3212,7 @@ Filii Musi : Moholi, Eder et Jerimoth : isti filii Levi secundum domos familiaru
 
 ** I Chronicles 24:31
 
-Miseruntque et ipsi sortes contra fratres suos filios Aaron coram David rege, et Sadoc, et Ahimelech, et principibus familiarum sacerdotalium et Leviticarum, tam majores quam minores : omnes sors æqualiter dividebat.  <chapter eID="1Chr.24"/> <div eID="gen2041" type="x-p"/>
+Miseruntque et ipsi sortes contra fratres suos filios Aaron coram David rege, et Sadoc, et Ahimelech, et principibus familiarum sacerdotalium et Leviticarum, tam majores quam minores : omnes sors æqualiter dividebat.   
 
 * I Chronicles 25
 
@@ -3338,7 +3338,7 @@ Vigesima tertia Mahazioth, filiis et fratribus ejus duodecim.
 
 ** I Chronicles 25:31
 
-Vigesima quarta Romemthiezer, filiis et fratribus ejus duodecim.  <chapter eID="1Chr.25"/> <div eID="gen2042" type="x-p"/>
+Vigesima quarta Romemthiezer, filiis et fratribus ejus duodecim.   
 
 * I Chronicles 26
 
@@ -3416,7 +3416,7 @@ In cellulis quoque janitorum ad occidentem quatuor in via, binique per cellulas.
 
 ** I Chronicles 26:19
 
-Hæ sunt divisiones janitorum filiorum Core et Merari.  <div eID="gen2043" type="x-p"/>
+Hæ sunt divisiones janitorum filiorum Core et Merari.  
 
 ** I Chronicles 26:20
 
@@ -3468,7 +3468,7 @@ Hebronitarum autem princeps fuit Jeria secundum familias et cognationes eorum. Q
 
 ** I Chronicles 26:32
 
-fratresque ejus robustioris ætatis, duo millia septingenti principes familiarum. Præposuit autem eos David rex Rubenitis, et Gadditis, et dimidiæ tribui Manasse, in omne ministerium Dei et regis.  <chapter eID="1Chr.26"/> <div eID="gen2044" type="x-p"/>
+fratresque ejus robustioris ætatis, duo millia septingenti principes familiarum. Præposuit autem eos David rex Rubenitis, et Gadditis, et dimidiæ tribui Manasse, in omne ministerium Dei et regis.   
 
 * I Chronicles 27
 
@@ -3566,7 +3566,7 @@ Noluit autem David numerare eos a viginti annis inferius : quia dixerat Dominus 
 
 ** I Chronicles 27:24
 
-Joab filius Sarviæ cœperat numerare, nec complevit : quia super hoc ira irruerat in Israël, et idcirco numerus eorum qui fuerant recensiti, non est relatus in fastos regis David.  <div eID="gen2045" type="x-p"/>
+Joab filius Sarviæ cœperat numerare, nec complevit : quia super hoc ira irruerat in Israël, et idcirco numerus eorum qui fuerant recensiti, non est relatus in fastos regis David.  
 
 ** I Chronicles 27:25
 
@@ -3606,7 +3606,7 @@ Achitophel etiam consiliarius regis, et Chusai Arachites amicus regis.
 
 ** I Chronicles 27:34
 
-Post Achitophel fuit Jojada filius Banaiæ, et Abiathar. Princeps autem exercitus regis erat Joab.  <chapter eID="1Chr.27"/> <div eID="gen2046" type="x-p"/>
+Post Achitophel fuit Jojada filius Banaiæ, et Abiathar. Princeps autem exercitus regis erat Joab.   
 
 * I Chronicles 28
 
@@ -3648,7 +3648,7 @@ Tu autem, Salomon fili mi, scito Deum patris tui, et servito ei corde perfecto, 
 
 ** I Chronicles 28:10
 
-Nunc ergo quia elegit te Dominus ut ædificares domum sanctuarii, confortare, et perfice.  <div eID="gen2047" type="x-p"/>
+Nunc ergo quia elegit te Dominus ut ædificares domum sanctuarii, confortare, et perfice.  
 
 ** I Chronicles 28:11
 
@@ -3684,7 +3684,7 @@ Altari autem, in quo adoletur incensum, aurum purissimum dedit : ut ex ipso fier
 
 ** I Chronicles 28:19
 
-Omnia, inquit, venerunt scripta manu Domini ad me, ut intelligerem universa opera exemplaris.  <div eID="gen2048" type="x-p"/>
+Omnia, inquit, venerunt scripta manu Domini ad me, ut intelligerem universa opera exemplaris.  
 
 ** I Chronicles 28:20
 
@@ -3692,7 +3692,7 @@ Dixit quoque David Salomoni filio suo : Viriliter age, et confortare, et fac : n
 
 ** I Chronicles 28:21
 
-Ecce divisiones sacerdotum et Levitarum : in omne ministerium domus Domini assistunt tibi, et parati sunt, et noverunt tam principes quam populus facere omnia præcepta tua.  <chapter eID="1Chr.28"/> <div eID="gen2049" type="x-p"/>
+Ecce divisiones sacerdotum et Levitarum : in omne ministerium domus Domini assistunt tibi, et parati sunt, et noverunt tam principes quam populus facere omnia præcepta tua.   
 
 * I Chronicles 29
 
@@ -3726,7 +3726,7 @@ Dederuntque in opera domus Dei auri talenta quinque millia, et solidos decem mil
 
 ** I Chronicles 29:8
 
-Et apud quemcumque inventi sunt lapides, dederunt in thesauros domus Domini per manum Jahiel Gersonitis.  <div eID="gen2050" type="x-p"/>
+Et apud quemcumque inventi sunt lapides, dederunt in thesauros domus Domini per manum Jahiel Gersonitis.  
 
 ** I Chronicles 29:9
 
@@ -3806,7 +3806,7 @@ Et dies quibus regnavit super Israël, fuerunt quadraginta anni : in Hebron regn
 
 ** I Chronicles 29:28
 
-Et mortuus est in senectute bona, plenus dierum, et divitiis, et gloria : et regnavit Salomon filius ejus pro eo.  <div eID="gen2051" type="x-p"/>
+Et mortuus est in senectute bona, plenus dierum, et divitiis, et gloria : et regnavit Salomon filius ejus pro eo.  
 
 ** I Chronicles 29:29
 
@@ -3814,5 +3814,5 @@ Gesta autem David regis priora et novissima scripta sunt in libro Samuelis viden
 
 ** I Chronicles 29:30
 
-universique regni ejus, et fortitudinis, et temporum quæ transierunt sub eo, sive in Israël, sive in cunctis regnis terrarum.  <div eID="gen2052" type="x-p"/> <chapter eID="1Chr.29"/> <div eID="gen1916" osisID="1Chr" type="book"/>
+universique regni ejus, et fortitudinis, et temporum quæ transierunt sub eo, sive in Israël, sive in cunctis regnis terrarum.    
 

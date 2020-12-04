@@ -98,4 +98,4 @@ Mark, Aristarchus, Demas and Luke, my fellow labourers.
 
 *** Philemon 1:25
 
-The grace of our Lord Jesus Christ be with your spirit. Amen. <chapter eID="gen35993" osisID="Phlm.1"/> <div eID="gen35992" osisID="Phlm" type="book"/>
+The grace of our Lord Jesus Christ be with your spirit. Amen.  

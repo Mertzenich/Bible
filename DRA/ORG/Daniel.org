@@ -82,7 +82,7 @@ And in all matters of wisdom and understanding, that the king enquired of them, 
 
 *** Daniel 1:21
 
-And Daniel continued even to the first year of king Cyrus. <chapter eID="gen25792" osisID="Dan.1"/>
+And Daniel continued even to the first year of king Cyrus. 
 
 ** Daniel 2
 
@@ -280,7 +280,7 @@ Then the king advanced Daniel to a high station, and gave him many and great gif
 
 *** Daniel 2:49
 
-And Daniel requested of the king, and he appointed Sidrach, Misach, and Abdenago, over the works of the province of Babylon: but Daniel himself was in the king's palace. <chapter eID="gen25814" osisID="Dan.2"/>
+And Daniel requested of the king, and he appointed Sidrach, Misach, and Abdenago, over the works of the province of Babylon: but Daniel himself was in the king's palace. 
 
 ** Daniel 3
 
@@ -682,7 +682,7 @@ The most high God hath wrought signs and wonders towards me. It hath seemed good
 
 *** Daniel 3:100
 
-His signs, because they are great: and his wonders, because they are mighty: and his kingdom is an everlasting kingdom, and his power to all generations. <chapter eID="gen25864" osisID="Dan.3"/>
+His signs, because they are great: and his wonders, because they are mighty: and his kingdom is an everlasting kingdom, and his power to all generations. 
 
 ** Daniel 4
 
@@ -820,7 +820,7 @@ At the same time my sense returned to me, and I came to the honour and glory of 
 
 *** Daniel 4:34
 
-Therefore I, Nabuchodonosor, do now praise, and magnify, and glorify the King of heaven: because all his works are true, and his ways judgments, and them that walk in pride he is able to abase. <chapter eID="gen25965" osisID="Dan.4"/>
+Therefore I, Nabuchodonosor, do now praise, and magnify, and glorify the King of heaven: because all his works are true, and his ways judgments, and them that walk in pride he is able to abase. 
 
 ** Daniel 5
 
@@ -946,7 +946,7 @@ The same night Baltasar, the Chaldean king, was slain.
 
 *** Daniel 5:31
 
-And Darius, the Mede, succeeded to the kingdom, being threescore and two years old. <chapter eID="gen26000" osisID="Dan.5"/>
+And Darius, the Mede, succeeded to the kingdom, being threescore and two years old. 
 
 ** Daniel 6
 
@@ -1060,7 +1060,7 @@ He is the deliverer, and saviour, doing signs and wonders in heaven, and in eart
 
 *** Daniel 6:28
 
-Now Daniel continued unto the reign of Darius, and the reign of Cyrus, the Persian. <chapter eID="gen26032" osisID="Dan.6"/>
+Now Daniel continued unto the reign of Darius, and the reign of Cyrus, the Persian. 
 
 ** Daniel 7
 
@@ -1174,7 +1174,7 @@ And that the kingdom, and power, and the greatness of the kingdom, under the who
 
 *** Daniel 7:28
 
-Hitherto is the end of the word. I, Daniel, was much troubled with my thoughts, and my countenance was changed in me: but I kept the word in my heart. <chapter eID="gen26061" osisID="Dan.7"/>
+Hitherto is the end of the word. I, Daniel, was much troubled with my thoughts, and my countenance was changed in me: but I kept the word in my heart. 
 
 ** Daniel 8
 
@@ -1284,7 +1284,7 @@ And the vision of the evening and the morning, which was told, is true: thou, th
 
 *** Daniel 8:27
 
-And I, Daniel, languished, and was sick for some days: and when I was risen up, I did the king's business, and I was astonished at the vision, and there was none that could interpret it. <chapter eID="gen26090" osisID="Dan.8"/>
+And I, Daniel, languished, and was sick for some days: and when I was risen up, I did the king's business, and I was astonished at the vision, and there was none that could interpret it. 
 
 ** Daniel 9
 
@@ -1394,7 +1394,7 @@ And after sixty-two weeks Christ shall be slain: and the people that shall deny 
 
 *** Daniel 9:27
 
-And he shall confirm the covenant with many, in one week: and in the half of the week the victim and the sacrifice shall fail: and there shall be in the temple the abomination of desolation: and the desolation shall continue even to the consummation, and to the end. <chapter eID="gen26118" osisID="Dan.9"/>
+And he shall confirm the covenant with many, in one week: and in the half of the week the victim and the sacrifice shall fail: and there shall be in the temple the abomination of desolation: and the desolation shall continue even to the consummation, and to the end. 
 
 ** Daniel 10
 
@@ -1480,7 +1480,7 @@ And he said: Dost thou know wherefore I am come to thee? And now I will return, 
 
 *** Daniel 10:21
 
-But I will tell thee what is set down in the scripture of truth: and none is my helper in all these things, but Michael your prince. <chapter eID="gen26146" osisID="Dan.10"/>
+But I will tell thee what is set down in the scripture of truth: and none is my helper in all these things, but Michael your prince. 
 
 ** Daniel 11
 
@@ -1662,7 +1662,7 @@ And tidings out of the east, and out of the north, shall trouble him: and he sha
 
 *** Daniel 11:45
 
-And he shall fix his tabernacle, Apadno, between the seas, upon a glorious and holy mountain: and he shall come even to the top thereof, and none shall help him. <chapter eID="gen26168" osisID="Dan.11"/>
+And he shall fix his tabernacle, Apadno, between the seas, upon a glorious and holy mountain: and he shall come even to the top thereof, and none shall help him. 
 
 ** Daniel 12
 
@@ -1716,7 +1716,7 @@ Blessed is he that waiteth, and cometh unto a thousand three hundred thirty-five
 
 *** Daniel 12:13
 
-But go thou thy ways until the time appointed: and thou shalt rest, and stand in thy lot unto the end of the days. <chapter eID="gen26214" osisID="Dan.12"/>
+But go thou thy ways until the time appointed: and thou shalt rest, and stand in thy lot unto the end of the days. 
 
 ** Daniel 13
 
@@ -1978,7 +1978,7 @@ And Daniel became great in the sight of the people from that day, and thence for
 
 *** Daniel 13:65
 
-And king Astyages was gathered to his fathers; and Cyrus, the Persian, received his kingdom. <chapter eID="gen26228" osisID="Dan.13"/>
+And king Astyages was gathered to his fathers; and Cyrus, the Persian, received his kingdom. 
 
 ** Daniel 14
 
@@ -2148,4 +2148,4 @@ But those that had been the cause of his destruction, he cast into the den, and 
 
 *** Daniel 14:42
 
-Then the king said: Let all the inhabitants of the whole earth fear the God of Daniel: for he is the Saviour, working signs, and wonders in the earth: who hath delivered Daniel out of the lions' den. <chapter eID="gen26294" osisID="Dan.14"/> <div eID="gen25791" osisID="Dan" type="book"/>
+Then the king said: Let all the inhabitants of the whole earth fear the God of Daniel: for he is the Saviour, working signs, and wonders in the earth: who hath delivered Daniel out of the lions' den.  

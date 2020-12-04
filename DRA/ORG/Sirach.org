@@ -158,7 +158,7 @@ And God discover thy secrets, and cast thee down in the midst of the congregatio
 
 *** Sirach 1:40
 
-Because thou camest to the Lord wickedly, and thy heart is full of guile and deceit. <chapter eID="gen19673" osisID="Sir.1"/>
+Because thou camest to the Lord wickedly, and thy heart is full of guile and deceit. 
 
 ** Sirach 2
 
@@ -252,7 +252,7 @@ Saying: If we do not penance, we shall fall into the hands of the Lord, and not 
 
 *** Sirach 2:23
 
-For according to his greatness, so also is his mercy with him. <chapter eID="gen19714" osisID="Sir.2"/>
+For according to his greatness, so also is his mercy with him. 
 
 ** Sirach 3
 
@@ -390,7 +390,7 @@ Water quencheth a flaming fire, and alms resisteth sins:
 
 *** Sirach 3:34
 
-And God provideth for him that sheweth favour: he remembereth him afterwards, and in the time of his fall he shall find a sure stay. <chapter eID="gen19738" osisID="Sir.3"/>
+And God provideth for him that sheweth favour: he remembereth him afterwards, and in the time of his fall he shall find a sure stay. 
 
 ** Sirach 4
 
@@ -536,7 +536,7 @@ Be not as a lion in thy house, terrifying them of thy household, and oppressing 
 
 *** Sirach 4:36
 
-Let not thy hand be stretched out to receive, and shut when thou shouldst give. <chapter eID="gen19773" osisID="Sir.4"/>
+Let not thy hand be stretched out to receive, and shut when thou shouldst give. 
 
 ** Sirach 5
 
@@ -610,7 +610,7 @@ For confusion and repentance is upon a thief, and an evil mark of disgrace upon 
 
 *** Sirach 5:18
 
-Justify alike the small and the great. <chapter eID="gen19810" osisID="Sir.5"/>
+Justify alike the small and the great. 
 
 ** Sirach 6
 
@@ -760,7 +760,7 @@ And if thou see a man of understanding, go to him early in the morning, and let 
 
 *** Sirach 6:37
 
-Let thy thoughts be upon the precepts of God, and meditate continually on his commandments: and he will give thee a heart, and the desire of wisdom shall be given to thee. <chapter eID="gen19829" osisID="Sir.6"/>
+Let thy thoughts be upon the precepts of God, and meditate continually on his commandments: and he will give thee a heart, and the desire of wisdom shall be given to thee. 
 
 ** Sirach 7
 
@@ -922,7 +922,7 @@ Be not slow to visit the sick: for by these things thou shalt be confirmed in lo
 
 *** Sirach 7:40
 
-In all thy works remember thy last end, and thou shalt never sin. <chapter eID="gen19867" osisID="Sir.7"/>
+In all thy works remember thy last end, and thou shalt never sin. 
 
 ** Sirach 8
 
@@ -1012,7 +1012,7 @@ Before a stranger do no matter of counsel: for thou knowest not what he will bri
 
 *** Sirach 8:22
 
-Open not thy heart to every man: lest he repay thee with an evil turn, and speak reproachfully to thee. <chapter eID="gen19908" osisID="Sir.8"/>
+Open not thy heart to every man: lest he repay thee with an evil turn, and speak reproachfully to thee. 
 
 ** Sirach 9
 
@@ -1114,7 +1114,7 @@ Works shall be praised for the hand of the artificers, and the prince of the peo
 
 *** Sirach 9:25
 
-A man full of tongue is terrible in his city, and he that is rash in his word shall be hateful. <chapter eID="gen19931" osisID="Sir.9"/>
+A man full of tongue is terrible in his city, and he that is rash in his word shall be hateful. 
 
 ** Sirach 10
 
@@ -1252,7 +1252,7 @@ The poor man is glorified by his discipline and fear, and there is a man that is
 
 *** Sirach 10:34
 
-But he that is glorified in poverty, how much more in wealth? and he that is glorified in wealth, let him fear poverty. <chapter eID="gen19957" osisID="Sir.10"/>
+But he that is glorified in poverty, how much more in wealth? and he that is glorified in wealth, let him fear poverty. 
 
 ** Sirach 11
 
@@ -1398,7 +1398,7 @@ Take heed to thyself of a mischievous man, for he worketh evils: lest he bring u
 
 *** Sirach 11:36
 
-Receive a stranger in, and he shall overthrow thee with a whirlwind, and shall turn thee out of thy own. <chapter eID="gen19992" osisID="Sir.11"/>
+Receive a stranger in, and he shall overthrow thee with a whirlwind, and shall turn thee out of thy own. 
 
 ** Sirach 12
 
@@ -1476,7 +1476,7 @@ An enemy hath tears in his eyes, and while he pretendeth to help thee, will unde
 
 *** Sirach 12:19
 
-He will shake his head, and clap his hands, and whisper much, and change his countenance. <chapter eID="gen20029" osisID="Sir.12"/>
+He will shake his head, and clap his hands, and whisper much, and change his countenance. 
 
 ** Sirach 13
 
@@ -1606,7 +1606,7 @@ The heart of a man changeth his countenance, either for good, or for evil.
 
 *** Sirach 13:32
 
-The token of a good heart, and a good countenance thou shalt hardly find, and with labour. <chapter eID="gen20049" osisID="Sir.13"/>
+The token of a good heart, and a good countenance thou shalt hardly find, and with labour. 
 
 ** Sirach 14
 
@@ -1716,7 +1716,7 @@ He shall set his children under her shelter, and shall lodge under her branches:
 
 *** Sirach 14:27
 
-He shall be protected under her covering from the heat, and shall rest in her glory. <chapter eID="gen20082" osisID="Sir.14"/>
+He shall be protected under her covering from the heat, and shall rest in her glory. 
 
 ** Sirach 15
 
@@ -1806,7 +1806,7 @@ He hath commanded no man to do wickedly, and he hath given no man license to sin
 
 *** Sirach 15:22
 
-For he desireth not a multitude of faithless and unprofitable children. <chapter eID="gen20110" osisID="Sir.15"/>
+For he desireth not a multitude of faithless and unprofitable children. 
 
 ** Sirach 16
 
@@ -1932,7 +1932,7 @@ After this God looked upon the earth, and filled it with his goods.
 
 *** Sirach 16:31
 
-The soul of every living thing hath shewn forth before the face thereof, and into it they return again. <chapter eID="gen20133" osisID="Sir.16"/>
+The soul of every living thing hath shewn forth before the face thereof, and into it they return again. 
 
 ** Sirach 17
 
@@ -2058,7 +2058,7 @@ What is brighter than the sun; yet it shall be eclipsed. Or what is more wicked 
 
 *** Sirach 17:31
 
-He beholdeth the power of the height of heaven: and all men are earth and ashes. <chapter eID="gen20165" osisID="Sir.17"/>
+He beholdeth the power of the height of heaven: and all men are earth and ashes. 
 
 ** Sirach 18
 
@@ -2192,7 +2192,7 @@ Take no pleasure in riotous assemblies, be they ever so small: for their concert
 
 *** Sirach 18:33
 
-Make not thyself poor by borrowing to contribute to feasts when thou hast nothing in thy purse: for thou shalt be an enemy to thy own life. <chapter eID="gen20197" osisID="Sir.18"/>
+Make not thyself poor by borrowing to contribute to feasts when thou hast nothing in thy purse: for thou shalt be an enemy to thy own life. 
 
 ** Sirach 19
 
@@ -2306,7 +2306,7 @@ The attire of the body, and the laughter of the teeth, and the gait of the man, 
 
 *** Sirach 19:28
 
-There is a lying rebuke in the anger of an injurious man: and there is a judgment that is not allowed to be good: and there is one that holdeth his peace, he is wise. <chapter eID="gen20231" osisID="Sir.19"/>
+There is a lying rebuke in the anger of an injurious man: and there is a judgment that is not allowed to be good: and there is one that holdeth his peace, he is wise. 
 
 ** Sirach 20
 
@@ -2440,7 +2440,7 @@ O Wisdom that is hid, and treasure that is not seen: what profit is there in the
 
 *** Sirach 20:33
 
-Better is he that hideth his folly, than the man that hideth his wisdom. <chapter eID="gen20260" osisID="Sir.20"/>
+Better is he that hideth his folly, than the man that hideth his wisdom. 
 
 ** Sirach 21
 
@@ -2566,7 +2566,7 @@ While the ungodly curseth the devil, he curseth his own soul.
 
 *** Sirach 21:31
 
-The talebearer shall defile his own soul, and shall be hated by all: and he that shall abide with him shall be hateful: the silent and wise man shall be honoured. <chapter eID="gen20294" osisID="Sir.21"/>
+The talebearer shall defile his own soul, and shall be hated by all: and he that shall abide with him shall be hateful: the silent and wise man shall be honoured. 
 
 ** Sirach 22
 
@@ -2700,7 +2700,7 @@ But every one that shall hear it, will beware of him.
 
 *** Sirach 22:33
 
-Who will set a guard before my mouth, and a sure seal upon my lips, that I fall not by them, and that my tongue destroy me not? <chapter eID="gen20326" osisID="Sir.22"/>
+Who will set a guard before my mouth, and a sure seal upon my lips, that I fall not by them, and that my tongue destroy me not? 
 
 ** Sirach 23
 
@@ -2854,7 +2854,7 @@ And they that remain shall know, that there is nothing better than the fear of G
 
 *** Sirach 23:38
 
-It is great glory to follow the Lord: for length of days shall be received from him. <chapter eID="gen20360" osisID="Sir.23"/>
+It is great glory to follow the Lord: for length of days shall be received from him. 
 
 ** Sirach 24
 
@@ -3044,7 +3044,7 @@ I will yet pour out doctrine as prophecy, and will leave it to them that seek wi
 
 *** Sirach 24:47
 
-See ye that I have not laboured myself only, but for all that seek out the truth. <chapter eID="gen20399" osisID="Sir.24"/>
+See ye that I have not laboured myself only, but for all that seek out the truth. 
 
 ** Sirach 25
 
@@ -3190,7 +3190,7 @@ If she walk not at thy hand, she will confound thee in the sight of thy enemies.
 
 *** Sirach 25:36
 
-Cut her off from thy flesh, lest she always abuse thee. <chapter eID="gen20447" osisID="Sir.25"/>
+Cut her off from thy flesh, lest she always abuse thee. 
 
 ** Sirach 26
 
@@ -3304,7 +3304,7 @@ And he that passeth over from justice to sin, God hath prepared such an one for 
 
 *** Sirach 26:28
 
-Two sorts of callings have appeared to me hard and dangerous: a merchant is hardly free from negligence: and a huckster shall not be justified from the sins of the lips. <chapter eID="gen20484" osisID="Sir.26"/>
+Two sorts of callings have appeared to me hard and dangerous: a merchant is hardly free from negligence: and a huckster shall not be justified from the sins of the lips. 
 
 ** Sirach 27
 
@@ -3438,7 +3438,7 @@ They shall perish in a snare that are delighted with the fall of the just: and s
 
 *** Sirach 27:33
 
-Anger and fury are both of them abominable, and the sinful man shall be subject to them. <chapter eID="gen20513" osisID="Sir.27"/>
+Anger and fury are both of them abominable, and the sinful man shall be subject to them. 
 
 ** Sirach 28
 
@@ -3560,7 +3560,7 @@ Melt down thy gold and silver, and make a balance for thy words, and a just brid
 
 *** Sirach 28:30
 
-And take heed lest thou slip with thy tongue, and fall in the sight of thy enemies who lie in wait for thee, and thy fall be incurable unto death. <chapter eID="gen20547" osisID="Sir.28"/>
+And take heed lest thou slip with thy tongue, and fall in the sight of thy enemies who lie in wait for thee, and thy fall be incurable unto death. 
 
 ** Sirach 29
 
@@ -3698,7 +3698,7 @@ Give place to the honourable presence of my friends: for I want my house, my bro
 
 *** Sirach 29:34
 
-These things are grievous to a man of understanding: the upbraiding of houseroom, and the reproaching of the lender. <chapter eID="gen20578" osisID="Sir.29"/>
+These things are grievous to a man of understanding: the upbraiding of houseroom, and the reproaching of the lender. 
 
 *** Sirach 29:35
 
@@ -3812,7 +3812,7 @@ Envy and anger shorten a man's days, and pensiveness will bring old age before t
 
 *** Sirach 30:27
 
-A cheerful and good heart is always feasting: for his banquets are prepared with diligence. <chapter eID="gen20613" osisID="Sir.30"/>
+A cheerful and good heart is always feasting: for his banquets are prepared with diligence. 
 
 ** Sirach 31
 
@@ -3982,7 +3982,7 @@ Rebuke not thy neighbour in a banquet of wine: and despise him not in his mirth.
 
 *** Sirach 31:42
 
-Speak not to him words of reproach: and press him not in demanding again. <chapter eID="gen20641" osisID="Sir.31"/>
+Speak not to him words of reproach: and press him not in demanding again. 
 
 ** Sirach 32
 
@@ -4096,7 +4096,7 @@ In every work of thine regard thy soul in faith: for this is the keeping of the 
 
 *** Sirach 32:28
 
-He that believeth God, taketh heed to the commandments: and he that trusteth in him, shall fare never the worse. <chapter eID="gen20684" osisID="Sir.32"/>
+He that believeth God, taketh heed to the commandments: and he that trusteth in him, shall fare never the worse. 
 
 ** Sirach 33
 
@@ -4230,7 +4230,7 @@ If thou hurt him unjustly, he will run away:
 
 *** Sirach 33:33
 
-And if he rise up and depart, thou knowest not whom to ask, and in what way to seek him. <chapter eID="gen20713" osisID="Sir.33"/>
+And if he rise up and depart, thou knowest not whom to ask, and in what way to seek him. 
 
 ** Sirach 34
 
@@ -4356,7 +4356,7 @@ He that washeth himself after touching the dead, if he toucheth him again, what 
 
 *** Sirach 34:31
 
-So a man that fasteth for his sins, and doth the same again, what doth his humbling himself profit him? who will hear his prayer? <chapter eID="gen20747" osisID="Sir.34"/>
+So a man that fasteth for his sins, and doth the same again, what doth his humbling himself profit him? who will hear his prayer? 
 
 ** Sirach 35
 
@@ -4462,7 +4462,7 @@ Till he have judged the cause of his people, and he shall delight the just with 
 
 *** Sirach 35:26
 
-The mercy of God is beautiful in the time of affliction, as a cloud of rain in the time of drought. <chapter eID="gen20779" osisID="Sir.35"/>
+The mercy of God is beautiful in the time of affliction, as a cloud of rain in the time of drought. 
 
 ** Sirach 36
 
@@ -4576,7 +4576,7 @@ Where there is no hedge, the possession shall be spoiled: and where there is no 
 
 *** Sirach 36:28
 
-Who will trust him that hath no rest, and that lodgeth wheresoever the night taketh him, as a robber well appointed, that skippeth from city to city. <chapter eID="gen20806" osisID="Sir.36"/>
+Who will trust him that hath no rest, and that lodgeth wheresoever the night taketh him, as a robber well appointed, that skippeth from city to city. 
 
 ** Sirach 37
 
@@ -4714,7 +4714,7 @@ For in many meats there will be sickness, and greediness will turn to choler.
 
 *** Sirach 37:34
 
-By surfeiting many have perished, but he that is temperate, shall prolong life. <chapter eID="gen20835" osisID="Sir.37"/>
+By surfeiting many have perished, but he that is temperate, shall prolong life. 
 
 ** Sirach 38
 
@@ -4872,7 +4872,7 @@ Upon the judges' seat they shall not sit, and the ordinance of judgment they sha
 
 *** Sirach 38:39
 
-But they shall strengthen the state of the world, and their prayer shall be in the work of their craft, applying their soul, and searching in the law of the most High. <chapter eID="gen20870" osisID="Sir.38"/>
+But they shall strengthen the state of the world, and their prayer shall be in the work of their craft, applying their soul, and searching in the law of the most High. 
 
 ** Sirach 39
 
@@ -5038,7 +5038,7 @@ It is not to be said: This is worse than that: for all shall be well approved in
 
 *** Sirach 39:41
 
-Now therefore with the whole heart and mouth praise ye him, and bless the name of the Lord. <chapter eID="gen20910" osisID="Sir.39"/>
+Now therefore with the whole heart and mouth praise ye him, and bless the name of the Lord. 
 
 ** Sirach 40
 
@@ -5168,7 +5168,7 @@ But a man, well instructed and taught, will look to himself.
 
 *** Sirach 40:32
 
-Begging will be sweet in the mouth of the unwise, but in his belly there shall burn a fire. <chapter eID="gen20952" osisID="Sir.40"/>
+Begging will be sweet in the mouth of the unwise, but in his belly there shall burn a fire. 
 
 ** Sirach 41
 
@@ -5282,7 +5282,7 @@ Gaze not upon another man's wife, and be not inquisitive after his handmaid, and
 
 *** Sirach 41:28
 
-Be ashamed of upbraiding speeches before friends: and after thou hast given, upbraid not. <chapter eID="gen20985" osisID="Sir.41"/>
+Be ashamed of upbraiding speeches before friends: and after thou hast given, upbraid not. 
 
 ** Sirach 42
 
@@ -5388,7 +5388,7 @@ All things are double, one against another, and he hath made nothing defective.
 
 *** Sirach 42:26
 
-He hath established the good things of every one. And who shall be filled with beholding his glory? <chapter eID="gen21014" osisID="Sir.42"/>
+He hath established the good things of every one. And who shall be filled with beholding his glory? 
 
 ** Sirach 43
 
@@ -5538,7 +5538,7 @@ There are many things hidden from us that are greater than these: for we have se
 
 *** Sirach 43:37
 
-But the Lord hath made all things, and to the godly he hath given wisdom. <chapter eID="gen21041" osisID="Sir.43"/>
+But the Lord hath made all things, and to the godly he hath given wisdom. 
 
 ** Sirach 44
 
@@ -5648,7 +5648,7 @@ He acknowledged him in his blessings, and gave him an inheritance, and divided h
 
 *** Sirach 44:27
 
-And he preserved for him men of mercy, that found grace in the eyes of all flesh. <chapter eID="gen21079" osisID="Sir.44"/>
+And he preserved for him men of mercy, that found grace in the eyes of all flesh. 
 
 ** Sirach 45
 
@@ -5774,7 +5774,7 @@ Therefore he made to him a covenant of peace, to be the prince of the sanctuary,
 
 *** Sirach 45:31
 
-And a covenant to David the king, the son of Jesse of the tribe of Juda, an inheritance to him and to his seed, that he might give wisdom into our heart to judge his people in justice, that their good things might not be abolished, and he made their glory in their nation everlasting. <chapter eID="gen21107" osisID="Sir.45"/>
+And a covenant to David the king, the son of Jesse of the tribe of Juda, an inheritance to him and to his seed, that he might give wisdom into our heart to judge his people in justice, that their good things might not be abolished, and he made their glory in their nation everlasting. 
 
 ** Sirach 46
 
@@ -5868,7 +5868,7 @@ And before the time of the end of his life in the world, he protested before the
 
 *** Sirach 46:23
 
-And after this he slept, and he made known to the king, and shewed him the end of his life, and he lifted up his voice from the earth in prophecy to blot out the wickedness of the nation. <chapter eID="gen21139" osisID="Sir.46"/>
+And after this he slept, and he made known to the king, and shewed him the end of his life, and he lifted up his voice from the earth in prophecy to blot out the wickedness of the nation. 
 
 ** Sirach 47
 
@@ -5994,7 +5994,7 @@ They removed them far away from their land.
 
 *** Sirach 47:31
 
-And they sought out all iniquities, till vengeance came upon them, and put an end to all their sins. <chapter eID="gen21163" osisID="Sir.47"/>
+And they sought out all iniquities, till vengeance came upon them, and put an end to all their sins. 
 
 ** Sirach 48
 
@@ -6108,7 +6108,7 @@ With a great spirit he saw the things that are to come to pass at last, and comf
 
 *** Sirach 48:28
 
-He showed what should come to pass for ever, and secret things before they came. <chapter eID="gen21195" osisID="Sir.48"/>
+He showed what should come to pass for ever, and secret things before they came. 
 
 ** Sirach 49
 
@@ -6186,7 +6186,7 @@ And his bones were visited, and after death they prophesied.
 
 *** Sirach 49:19
 
-Seth and Sem obtained glory among men: and above every soul Adam in the beginning, <chapter eID="gen21224" osisID="Sir.49"/>
+Seth and Sem obtained glory among men: and above every soul Adam in the beginning, 
 
 ** Sirach 50
 
@@ -6312,7 +6312,7 @@ Blessed is he that is conversant in these good things and he that layeth them up
 
 *** Sirach 50:31
 
-For if he do them, he shall be strong to do all things: because the light of God guideth his steps. <chapter eID="gen21244" osisID="Sir.50"/>
+For if he do them, he shall be strong to do all things: because the light of God guideth his steps. 
 
 ** Sirach 51
 
@@ -6466,4 +6466,4 @@ Let your soul rejoice in his mercy and you shall not be confounded in his praise
 
 *** Sirach 51:38
 
-Work your work before the time, and he will give you your reward in his time. <chapter eID="gen21276" osisID="Sir.51"/> <div eID="gen19666" osisID="Sir" type="book"/>
+Work your work before the time, and he will give you your reward in his time.  

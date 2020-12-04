@@ -110,7 +110,7 @@ And I saw as it were the resemblance of amber as the appearance of fire within i
 
 *** Ezekiel 1:28
 
-As the appearance of the rainbow when it is in a cloud on a rainy day: this was the appearance of the brightness round about. <chapter eID="gen24471" osisID="Ezek.1"/>
+As the appearance of the rainbow when it is in a cloud on a rainy day: this was the appearance of the brightness round about. 
 
 ** Ezekiel 2
 
@@ -148,7 +148,7 @@ But thou, O son of man, hear all that I say to thee: and do not thou provoke me,
 
 *** Ezekiel 2:9
 
-And I looked, and behold, a hand was sent to me, wherein was a book rolled up: and he spread it before me, and it was written within and without: and there were written in it lamentations, and canticles, and woe. <chapter eID="gen24500" osisID="Ezek.2"/>
+And I looked, and behold, a hand was sent to me, wherein was a book rolled up: and he spread it before me, and it was written within and without: and there were written in it lamentations, and canticles, and woe. 
 
 ** Ezekiel 3
 
@@ -258,7 +258,7 @@ And I will make thy tongue stick fast to the roof of thy mouth, and thou shalt b
 
 *** Ezekiel 3:27
 
-But when I shall speak to thee, I will open thy mouth, and thou shalt say to them: Thus saith the Lord God: He that heareth, let him hear: and he that forbeareth, let him forbear: for they are a provoking house. <chapter eID="gen24510" osisID="Ezek.3"/>
+But when I shall speak to thee, I will open thy mouth, and thou shalt say to them: Thus saith the Lord God: He that heareth, let him hear: and he that forbeareth, let him forbear: for they are a provoking house. 
 
 ** Ezekiel 4
 
@@ -328,7 +328,7 @@ And he said to me: Son of man: Behold, I will break in pieces the staff of bread
 
 *** Ezekiel 4:17
 
-So that when bread and water fail, every man may fall against his brother, and they may pine away in their iniquities. <chapter eID="gen24538" osisID="Ezek.4"/>
+So that when bread and water fail, every man may fall against his brother, and they may pine away in their iniquities. 
 
 ** Ezekiel 5
 
@@ -398,7 +398,7 @@ I the Lord have spoken it: When I shall send upon them the grievous arrows of fa
 
 *** Ezekiel 5:17
 
-And I will send in upon you famine, and evil beasts unto utter destruction: and pestilence, and blood shall pass through thee, and I will bring in the sword upon thee. I the Lord have spoken it. <chapter eID="gen24556" osisID="Ezek.5"/>
+And I will send in upon you famine, and evil beasts unto utter destruction: and pestilence, and blood shall pass through thee, and I will bring in the sword upon thee. I the Lord have spoken it. 
 
 ** Ezekiel 6
 
@@ -456,7 +456,7 @@ And you shall know that I am the Lord, when your slain shall be amongst your ido
 
 *** Ezekiel 6:14
 
-And I will stretch forth my hand upon them: and I will make the land desolate, and abandoned from the desert of Deblatha in all their dwelling places: and they shall know that I am the Lord. <chapter eID="gen24574" osisID="Ezek.6"/>
+And I will stretch forth my hand upon them: and I will make the land desolate, and abandoned from the desert of Deblatha in all their dwelling places: and they shall know that I am the Lord. 
 
 ** Ezekiel 7
 
@@ -566,7 +566,7 @@ Trouble shall come upon trouble, and rumour upon rumour, and they shall seek a v
 
 *** Ezekiel 7:27
 
-The king shall mourn, and the prince shall be clothed with sorrow, and the hands of the people of the land shall be troubled. I will do to them according to their way, and will judge them according to their judgments: and they shall know that I am the Lord. <chapter eID="gen24589" osisID="Ezek.7"/>
+The king shall mourn, and the prince shall be clothed with sorrow, and the hands of the people of the land shall be troubled. I will do to them according to their way, and will judge them according to their judgments: and they shall know that I am the Lord. 
 
 ** Ezekiel 8
 
@@ -640,7 +640,7 @@ And he said to me: Surely thou hast seen, O son of man: is this a light thing to
 
 *** Ezekiel 8:18
 
-Therefore I also will deal with them in my wrath: my eye shall not spare them, neither will I shew mercy: and when they shall cry to my ears with a loud voice, I will not hear them. <chapter eID="gen24617" osisID="Ezek.8"/>
+Therefore I also will deal with them in my wrath: my eye shall not spare them, neither will I shew mercy: and when they shall cry to my ears with a loud voice, I will not hear them. 
 
 ** Ezekiel 9
 
@@ -686,7 +686,7 @@ Therefore neither shall my eye spare, nor will I have pity: I will requite their
 
 *** Ezekiel 9:11
 
-And behold the man that was clothed with linen, that had the inkhorn at his back, returned the word, saying: I have done as thou hast commanded me. <chapter eID="gen24636" osisID="Ezek.9"/>
+And behold the man that was clothed with linen, that had the inkhorn at his back, returned the word, saying: I have done as thou hast commanded me. 
 
 ** Ezekiel 10
 
@@ -776,7 +776,7 @@ Each one had four faces, and each one had four wings: and the likeness of a man'
 
 *** Ezekiel 10:22
 
-And as to the likeness of their faces, they were the same faces which I had seen by the river Chobar, and their looks, and the impulse of every one to go straight forward. <chapter eID="gen24648" osisID="Ezek.10"/>
+And as to the likeness of their faces, they were the same faces which I had seen by the river Chobar, and their looks, and the impulse of every one to go straight forward. 
 
 ** Ezekiel 11
 
@@ -878,7 +878,7 @@ And the spirit lifted me up, and brought me into Chaldea, to them of the captivi
 
 *** Ezekiel 11:25
 
-And I spoke to them of the captivity all the words of the Lord, which he had shewn me. <chapter eID="gen24671" osisID="Ezek.11"/>
+And I spoke to them of the captivity all the words of the Lord, which he had shewn me. 
 
 ** Ezekiel 12
 
@@ -992,7 +992,7 @@ Son of man, behold the house of Israel, they that say: The visions that this man
 
 *** Ezekiel 12:28
 
-Therefore say to them: Thus saith the Lord God: not one word of mine shall be prolonged any more: the word that I shall speak shall be accomplished, saith the Lord God. <chapter eID="gen24697" osisID="Ezek.12"/>
+Therefore say to them: Thus saith the Lord God: not one word of mine shall be prolonged any more: the word that I shall speak shall be accomplished, saith the Lord God. 
 
 ** Ezekiel 13
 
@@ -1086,7 +1086,7 @@ Because with lies you have made the heart of the just to mourn, whom I have not 
 
 *** Ezekiel 13:23
 
-Therefore you shall not see vain things, nor divine divinations any more, and I will deliver my people out of your hand: and you shall know that I am the Lord. <chapter eID="gen24726" osisID="Ezek.13"/>
+Therefore you shall not see vain things, nor divine divinations any more, and I will deliver my people out of your hand: and you shall know that I am the Lord. 
 
 ** Ezekiel 14
 
@@ -1180,7 +1180,7 @@ Yet there shall be left in it some that shall be saved, who shall bring away the
 
 *** Ezekiel 14:23
 
-And they shall comfort you, when you shall see their ways, and their doings: and you shall know that I have not done without cause all that I have done in it, saith the Lord God. <chapter eID="gen24750" osisID="Ezek.14"/>
+And they shall comfort you, when you shall see their ways, and their doings: and you shall know that I have not done without cause all that I have done in it, saith the Lord God. 
 
 ** Ezekiel 15
 
@@ -1214,7 +1214,7 @@ And I will set my face against them: they shall go out from fire, and fire shall
 
 *** Ezekiel 15:8
 
-And I shall have made their land a wilderness, and desolate, because they have been transgressors, saith the Lord God. <chapter eID="gen24774" osisID="Ezek.15"/>
+And I shall have made their land a wilderness, and desolate, because they have been transgressors, saith the Lord God. 
 
 ** Ezekiel 16
 
@@ -1468,7 +1468,7 @@ And I will establish my covenant with thee: and thou shalt know that I am the Lo
 
 *** Ezekiel 16:63
 
-That thou mayest remember, and be confounded, and mayest no more open thy mouth because of thy confusion, when I shall be pacified toward thee for all that thou hast done, saith the Lord God. <chapter eID="gen24783" osisID="Ezek.16"/>
+That thou mayest remember, and be confounded, and mayest no more open thy mouth because of thy confusion, when I shall be pacified toward thee for all that thou hast done, saith the Lord God. 
 
 ** Ezekiel 17
 
@@ -1566,7 +1566,7 @@ On the high mountains of Israel will I plant it, and it shall shoot forth into b
 
 *** Ezekiel 17:24
 
-And all the trees of the country shall know that I the Lord have brought down the high tree, and exalted the low tree: and have dried up the green tree, and have caused the dry tree to flourish. I the Lord have spoken and have done it. <chapter eID="gen24847" osisID="Ezek.17"/>
+And all the trees of the country shall know that I the Lord have brought down the high tree, and exalted the low tree: and have dried up the green tree, and have caused the dry tree to flourish. I the Lord have spoken and have done it. 
 
 ** Ezekiel 18
 
@@ -1696,7 +1696,7 @@ Cast away from you all your transgressions, by which you have transgressed, and 
 
 *** Ezekiel 18:32
 
-For I desire not the death of him that dieth, saith the Lord God, return ye and live. <chapter eID="gen24872" osisID="Ezek.18"/>
+For I desire not the death of him that dieth, saith the Lord God, return ye and live. 
 
 ** Ezekiel 19
 
@@ -1754,7 +1754,7 @@ And now she is transplanted into the desert, in a land not passable, and dry.
 
 *** Ezekiel 19:14
 
-And a fire is gone out from a rod of her branches, which hath devoured her fruit: so that she now hath no strong rod, to be a sceptre of rulers. This is a lamentation, and it shall be for a lamentation. <chapter eID="gen24905" osisID="Ezek.19"/>
+And a fire is gone out from a rod of her branches, which hath devoured her fruit: so that she now hath no strong rod, to be a sceptre of rulers. This is a lamentation, and it shall be for a lamentation. 
 
 ** Ezekiel 20
 
@@ -1952,7 +1952,7 @@ And all flesh shall see, that I the Lord have kindled it, and it shall not be qu
 
 *** Ezekiel 20:49
 
-And I said: Ah, ah, ah, O Lord God: they say of me: Doth not this man speak by parables? <chapter eID="gen24920" osisID="Ezek.20"/>
+And I said: Ah, ah, ah, O Lord God: they say of me: Doth not this man speak by parables? 
 
 ** Ezekiel 21
 
@@ -2082,7 +2082,7 @@ And I will pour out upon thee my indignation: in the fire of my rage will I blow
 
 *** Ezekiel 21:32
 
-Thou shalt be fuel for the fire, thy blood shall be in the midst of the land, thou shalt be forgotten: for I the Lord have spoken it. <chapter eID="gen24970" osisID="Ezek.21"/>
+Thou shalt be fuel for the fire, thy blood shall be in the midst of the land, thou shalt be forgotten: for I the Lord have spoken it. 
 
 ** Ezekiel 22
 
@@ -2208,7 +2208,7 @@ And I sought among them for a man that might set up a hedge, and stand in the ga
 
 *** Ezekiel 22:31
 
-And I poured out my indignation upon them, in the fire of my wrath I consumed them: I have rendered their way upon their own head, saith the Lord God. <chapter eID="gen25003" osisID="Ezek.22"/>
+And I poured out my indignation upon them, in the fire of my wrath I consumed them: I have rendered their way upon their own head, saith the Lord God. 
 
 ** Ezekiel 23
 
@@ -2406,7 +2406,7 @@ And I will take away wickedness out of the land: and all women shall learn, not 
 
 *** Ezekiel 23:49
 
-And they shall render your wickedness upon you, and you shall bear the sins of your idols: and you shall know that I am the Lord God. <chapter eID="gen25035" osisID="Ezek.23"/>
+And they shall render your wickedness upon you, and you shall bear the sins of your idols: and you shall know that I am the Lord God. 
 
 ** Ezekiel 24
 
@@ -2516,7 +2516,7 @@ In that day when he that escapeth shall come to thee, to tell thee:
 
 *** Ezekiel 24:27
 
-In that day, I say, shall thy mouth be opened to him that hath escaped, and thou shalt speak, and shalt be silent no more: and thou shalt be unto them for a sign of things to come, and you shall know that I am the Lord. <chapter eID="gen25085" osisID="Ezek.24"/>
+In that day, I say, shall thy mouth be opened to him that hath escaped, and thou shalt speak, and shalt be silent no more: and thou shalt be unto them for a sign of things to come, and you shall know that I am the Lord. 
 
 ** Ezekiel 25
 
@@ -2586,7 +2586,7 @@ Therefore thus saith the Lord God: Behold I will stretch forth my hand upon the 
 
 *** Ezekiel 25:17
 
-And I will execute great vengeance upon them, rebuking them in fury: and they shall know that I am the Lord, when I shall lay my vengeance upon them. <chapter eID="gen25113" osisID="Ezek.25"/>
+And I will execute great vengeance upon them, rebuking them in fury: and they shall know that I am the Lord, when I shall lay my vengeance upon them. 
 
 ** Ezekiel 26
 
@@ -2672,7 +2672,7 @@ And when I shall bring thee down with those that descend into the pit to the eve
 
 *** Ezekiel 26:21
 
-I will bring thee to nothing, and thou shalt not be, and if thou be sought for, thou shalt not be found any more for ever, saith the Lord God. <chapter eID="gen25131" osisID="Ezek.26"/>
+I will bring thee to nothing, and thou shalt not be, and if thou be sought for, thou shalt not be found any more for ever, saith the Lord God. 
 
 ** Ezekiel 27
 
@@ -2818,7 +2818,7 @@ All the inhabitants of the islands are astonished at thee: and all their kings b
 
 *** Ezekiel 27:36
 
-The merchants of people have hissed at thee: thou art brought to nothing, and thou shalt never be any more. <chapter eID="gen25153" osisID="Ezek.27"/>
+The merchants of people have hissed at thee: thou art brought to nothing, and thou shalt never be any more. 
 
 ** Ezekiel 28
 
@@ -2924,7 +2924,7 @@ Thus saith the Lord God: When I shall have gathered together the house of Israel
 
 *** Ezekiel 28:26
 
-And they shall dwell therein secure, and they shall build houses, and shall plant vineyards, and shall dwell with confidence, when I shall have executed judgments upon all that are their enemies round about: and they shall know that I am the Lord their God. <chapter eID="gen25190" osisID="Ezek.28"/>
+And they shall dwell therein secure, and they shall build houses, and shall plant vineyards, and shall dwell with confidence, when I shall have executed judgments upon all that are their enemies round about: and they shall know that I am the Lord their God. 
 
 ** Ezekiel 29
 
@@ -3010,7 +3010,7 @@ And for the service that he hath done me against it: I have given him the land o
 
 *** Ezekiel 29:21
 
-In that day a horn shall bud forth to the house of Israel, and I will give thee an open mouth in the midst of them: and they shall know that I am the Lord. <chapter eID="gen25217" osisID="Ezek.29"/>
+In that day a horn shall bud forth to the house of Israel, and I will give thee an open mouth in the midst of them: and they shall know that I am the Lord. 
 
 ** Ezekiel 30
 
@@ -3116,7 +3116,7 @@ And I will strengthen the arms of the king of Babylon, and the arms of Pharao sh
 
 *** Ezekiel 30:26
 
-And I will disperse Egypt among the nations, and will scatter them through the countries, and they shall know that I am the Lord. <chapter eID="gen25239" osisID="Ezek.30"/>
+And I will disperse Egypt among the nations, and will scatter them through the countries, and they shall know that I am the Lord. 
 
 ** Ezekiel 31
 
@@ -3190,7 +3190,7 @@ For they also shall go down with him to hell to them that are slain by the sword
 
 *** Ezekiel 31:18
 
-To whom art thou like, O thou that art famous and lofty among the trees of pleasure? Behold, thou art brought down with the trees of pleasure to the lowest parts of the earth: thou shalt sleep in the midst of the uncircumcised, with them that are slain by the sword: this is Pharao, and all his multitude, saith the Lord God. <chapter eID="gen25266" osisID="Ezek.31"/>
+To whom art thou like, O thou that art famous and lofty among the trees of pleasure? Behold, thou art brought down with the trees of pleasure to the lowest parts of the earth: thou shalt sleep in the midst of the uncircumcised, with them that are slain by the sword: this is Pharao, and all his multitude, saith the Lord God. 
 
 ** Ezekiel 32
 
@@ -3320,7 +3320,7 @@ Pharao saw them, and he was comforted concerning all his multitude, which was sl
 
 *** Ezekiel 32:32
 
-Because I have spread my terror in the land of the living, and he hath slept in the midst of the uncircumcised with them that are slain by the sword: Pharao and all his multitude, saith the Lord God. <chapter eID="gen25285" osisID="Ezek.32"/>
+Because I have spread my terror in the land of the living, and he hath slept in the midst of the uncircumcised with them that are slain by the sword: Pharao and all his multitude, saith the Lord God. 
 
 ** Ezekiel 33
 
@@ -3454,7 +3454,7 @@ And thou art to them as a musical song which is sung with a sweet and agreeable 
 
 *** Ezekiel 33:33
 
-And when that which was foretold shall come to pass, for behold it is coming, then shall they know that a prophet hath been among them. <chapter eID="gen25318" osisID="Ezek.33"/>
+And when that which was foretold shall come to pass, for behold it is coming, then shall they know that a prophet hath been among them. 
 
 ** Ezekiel 34
 
@@ -3580,7 +3580,7 @@ And they shall know that I the Lord their God am with them, and that they are my
 
 *** Ezekiel 34:31
 
-And you my flocks, the flocks of my pasture are men: and I am the Lord your God, saith the Lord God. <chapter eID="gen25352" osisID="Ezek.34"/>
+And you my flocks, the flocks of my pasture are men: and I am the Lord your God, saith the Lord God. 
 
 ** Ezekiel 35
 
@@ -3642,7 +3642,7 @@ Thus saith the Lord God: When the whole earth shall rejoice, I will make thee a 
 
 *** Ezekiel 35:15
 
-As thou hast rejoiced over the inheritance of the house of Israel, because it was laid waste, so will I do to thee: thou shalt be laid waste, O mount Seir, and all Idumea: and they shall know that I am the Lord. <chapter eID="gen25384" osisID="Ezek.35"/>
+As thou hast rejoiced over the inheritance of the house of Israel, because it was laid waste, so will I do to thee: thou shalt be laid waste, O mount Seir, and all Idumea: and they shall know that I am the Lord. 
 
 ** Ezekiel 36
 
@@ -3796,7 +3796,7 @@ Thus saith the Lord God: Moreover in this shall the house of Israel find me, tha
 
 *** Ezekiel 36:38
 
-As a holy flock, as the flock of Jerusalem in her solemn feasts: so shall the waste cities be full of flocks of men: and they shall know that I am the Lord. <chapter eID="gen25400" osisID="Ezek.36"/>
+As a holy flock, as the flock of Jerusalem in her solemn feasts: so shall the waste cities be full of flocks of men: and they shall know that I am the Lord. 
 
 ** Ezekiel 37
 
@@ -3910,7 +3910,7 @@ And my tabernacle shall be with them: and I will be their God, and they shall be
 
 *** Ezekiel 37:28
 
-And the nations shall know that I am the Lord the sanctifier of Israel, when my sanctuary shall be in the midst of them for ever. <chapter eID="gen25439" osisID="Ezek.37"/>
+And the nations shall know that I am the Lord the sanctifier of Israel, when my sanctuary shall be in the midst of them for ever. 
 
 ** Ezekiel 38
 
@@ -4004,7 +4004,7 @@ And I will judge him with pestilence, and with blood, and with violent rain, and
 
 *** Ezekiel 38:23
 
-And I will be magnified, and I will be sanctified: and I will be known in the eyes of many nations and they shall know that I am the Lord. <chapter eID="gen25468" osisID="Ezek.38"/>
+And I will be magnified, and I will be sanctified: and I will be known in the eyes of many nations and they shall know that I am the Lord. 
 
 ** Ezekiel 39
 
@@ -4122,7 +4122,7 @@ And they shall know that I am the Lord their God, because I caused them to be ca
 
 *** Ezekiel 39:29
 
-And I will hide my face no more from them, for I have poured out my spirit upon all the house of Israel, saith the Lord God. <chapter eID="gen25492" osisID="Ezek.39"/>
+And I will hide my face no more from them, for I have poured out my spirit upon all the house of Israel, saith the Lord God. 
 
 ** Ezekiel 40
 
@@ -4320,7 +4320,7 @@ And he brought me into the porch of the temple: and he measured the porch five c
 
 *** Ezekiel 40:49
 
-And the length of the porch was twenty cubits, and the breadth eleven cubits, and there were eight steps to go up to it. And there were pillars in the fronts: one on this side, and another on that side. <chapter eID="gen25522" osisID="Ezek.40"/>
+And the length of the porch was twenty cubits, and the breadth eleven cubits, and there were eight steps to go up to it. And there were pillars in the fronts: one on this side, and another on that side. 
 
 ** Ezekiel 41
 
@@ -4426,7 +4426,7 @@ And there were cherubims also wrought in the doors of the temple, and the figure
 
 *** Ezekiel 41:26
 
-Upon which were the oblique windows, and the representation of palm trees on this side, and on that side in the sides of the porch, according to the sides of the house, and the breadth of the walls. <chapter eID="gen25572" osisID="Ezek.41"/>
+Upon which were the oblique windows, and the representation of palm trees on this side, and on that side in the sides of the porch, according to the sides of the house, and the breadth of the walls. 
 
 ** Ezekiel 42
 
@@ -4508,7 +4508,7 @@ And toward the west he measured five hundred reeds, with the measuring reed.
 
 *** Ezekiel 42:20
 
-By the four winds he measured the wall thereof on every side round about, five hundred cubits and five hundred cubits broad, making a separation between the sanctuary and the place of the people. <chapter eID="gen25599" osisID="Ezek.42"/>
+By the four winds he measured the wall thereof on every side round about, five hundred cubits and five hundred cubits broad, making a separation between the sanctuary and the place of the people. 
 
 ** Ezekiel 43
 
@@ -4618,7 +4618,7 @@ Seven days shall they expiate the altar, and shall cleanse it: and they shall co
 
 *** Ezekiel 43:27
 
-And the days being expired, on the eighth day and thenceforward, the priests shall offer your holocausts upon the altar, and the peace offerings: and I will be pacified towards you, saith the Lord God. <chapter eID="gen25620" osisID="Ezek.43"/>
+And the days being expired, on the eighth day and thenceforward, the priests shall offer your holocausts upon the altar, and the peace offerings: and I will be pacified towards you, saith the Lord God. 
 
 ** Ezekiel 44
 
@@ -4744,7 +4744,7 @@ And the firstfruits of all the firstborn, and all the libations of all things th
 
 *** Ezekiel 44:31
 
-The priests shall not eat of any thing that is dead of itself or caught by a beast, whether it be fowl or cattle. <chapter eID="gen25648" osisID="Ezek.44"/>
+The priests shall not eat of any thing that is dead of itself or caught by a beast, whether it be fowl or cattle. 
 
 ** Ezekiel 45
 
@@ -4846,7 +4846,7 @@ And he shall offer the sacrifice of an ephi for every calf, and an ephi for ever
 
 *** Ezekiel 45:25
 
-In the seventh month, in the fifteenth day of the month, in the solemn feast, he shall do the like for the seven days: as well in regard to the sin offering, as to the holocaust, and the sacrifice, and the oil. <chapter eID="gen25680" osisID="Ezek.45"/>
+In the seventh month, in the fifteenth day of the month, in the solemn feast, he shall do the like for the seven days: as well in regard to the sin offering, as to the holocaust, and the sacrifice, and the oil. 
 
 ** Ezekiel 46
 
@@ -4944,7 +4944,7 @@ And there was a wall round about compassing the four little courts, and there we
 
 *** Ezekiel 46:24
 
-And he said to me: This is the house of the kitchens wherein the ministers of the house of the Lord shall boil the victims of the people. <chapter eID="gen25706" osisID="Ezek.46"/>
+And he said to me: This is the house of the kitchens wherein the ministers of the house of the Lord shall boil the victims of the people. 
 
 ** Ezekiel 47
 
@@ -5038,7 +5038,7 @@ And you shall divide it by lot for an inheritance to you, and to the strangers t
 
 *** Ezekiel 47:23
 
-And in what tribe soever the stranger shall be, there shall you give him possession, saith the Lord God. <chapter eID="gen25731" osisID="Ezek.47"/>
+And in what tribe soever the stranger shall be, there shall you give him possession, saith the Lord God. 
 
 ** Ezekiel 48
 
@@ -5180,4 +5180,4 @@ And at the west side, four thousand and five hundred, and their three gates, the
 
 *** Ezekiel 48:35
 
-Its circumference was eighteen thousand: and the name of the city from that day, The Lord is there. <chapter eID="gen25755" osisID="Ezek.48"/> <div eID="gen24470" osisID="Ezek" type="book"/>
+Its circumference was eighteen thousand: and the name of the city from that day, The Lord is there.  

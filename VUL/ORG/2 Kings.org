@@ -30,7 +30,7 @@ Qui dixit eis : Cujus figuræ et habitus est vir ille, qui occurrit vobis, et lo
 
 ** II Kings 1:8
 
-At illi dixerunt : Vir pilosus, et zona pellicea accinctus renibus. Qui ait : Elias Thesbites est.  <div eID="gen1798" type="x-p"/>
+At illi dixerunt : Vir pilosus, et zona pellicea accinctus renibus. Qui ait : Elias Thesbites est.  
 
 ** II Kings 1:9
 
@@ -70,7 +70,7 @@ Mortuus est ergo juxta sermonem Domini quem locutus est Elias, et regnavit Joram
 
 ** II Kings 1:18
 
-Reliqua autem verborum Ochoziæ quæ operatus est, nonne hæc scripta sunt in libro sermonum dierum regum Israël ?  <chapter eID="2Kgs.1"/> <div eID="gen1799" type="x-p"/>
+Reliqua autem verborum Ochoziæ quæ operatus est, nonne hæc scripta sunt in libro sermonum dierum regum Israël ?   
 
 * II Kings 2
 
@@ -112,7 +112,7 @@ Cumque transissent, Elias dixit ad Eliseum : Postula quod vis ut faciam tibi, an
 
 ** II Kings 2:10
 
-Qui respondit : Rem difficilem postulasti : attamen si videris me quando tollar a te, erit tibi quod petisti : si autem non videris, non erit.  <div eID="gen1800" type="x-p"/>
+Qui respondit : Rem difficilem postulasti : attamen si videris me quando tollar a te, erit tibi quod petisti : si autem non videris, non erit.  
 
 ** II Kings 2:11
 
@@ -172,7 +172,7 @@ Qui cum respexisset, vidit eos, et maledixit eis in nomine Domini : egressique s
 
 ** II Kings 2:25
 
-Abiit autem inde in montem Carmeli, et inde reversus est in Samariam.  <chapter eID="2Kgs.2"/> <div eID="gen1801" type="x-p"/>
+Abiit autem inde in montem Carmeli, et inde reversus est in Samariam.   
 
 * II Kings 3
 
@@ -222,7 +222,7 @@ Et ait Josaphat : Estne hic propheta Domini, ut deprecemur Dominum per eum ? Et 
 
 ** II Kings 3:12
 
-Et ait Josaphat : Est apud eum sermo Domini. Descenditque ad eum rex Israël, et Josaphat rex Juda, et rex Edom.  <div eID="gen1802" type="x-p"/>
+Et ait Josaphat : Est apud eum sermo Domini. Descenditque ad eum rex Israël, et Josaphat rex Juda, et rex Edom.  
 
 ** II Kings 3:13
 
@@ -282,7 +282,7 @@ Quod cum vidisset rex Moab, prævaluisse scilicet hostes, tulit secum septingent
 
 ** II Kings 3:27
 
-Arripiensque filium suum primogenitum, qui regnaturus erat pro eo, obtulit holocaustum super murum : et facta est indignatio magna in Israël, statimque recesserunt ab eo, et reversi sunt in terram suam.  <chapter eID="2Kgs.3"/> <div eID="gen1803" type="x-p"/>
+Arripiensque filium suum primogenitum, qui regnaturus erat pro eo, obtulit holocaustum super murum : et facta est indignatio magna in Israël, statimque recesserunt ab eo, et reversi sunt in terram suam.   
 
 * II Kings 4
 
@@ -312,7 +312,7 @@ Cumque plena fuissent vasa, dixit ad filium suum : Affer mihi adhuc vas. Et ille
 
 ** II Kings 4:7
 
-Venit autem illa, et indicavit homini Dei. Et ille : Vade, inquit, vende oleum, et redde creditori tuo : tu autem, et filii tui vivite de reliquo.  <div eID="gen1804" type="x-p"/>
+Venit autem illa, et indicavit homini Dei. Et ille : Vade, inquit, vende oleum, et redde creditori tuo : tu autem, et filii tui vivite de reliquo.  
 
 ** II Kings 4:8
 
@@ -352,7 +352,7 @@ dixit ad eam : In tempore isto, et in hac eadem hora, si vita comes fuerit, habe
 
 ** II Kings 4:17
 
-Et concepit mulier, et peperit filium in tempore, et in hora eadem, qua dixerat Eliseus.  <div eID="gen1805" type="x-p"/>
+Et concepit mulier, et peperit filium in tempore, et in hora eadem, qua dixerat Eliseus.  
 
 ** II Kings 4:18
 
@@ -432,7 +432,7 @@ At ille vocavit Giezi, et dixit ei : Voca Sunamitidem hanc. Quæ vocata, ingress
 
 ** II Kings 4:37
 
-Venit illa, et corruit ad pedes ejus, et adoravit super terram : tulitque filium suum, et egressa est.  <div eID="gen1806" type="x-p"/>
+Venit illa, et corruit ad pedes ejus, et adoravit super terram : tulitque filium suum, et egressa est.  
 
 ** II Kings 4:38
 
@@ -460,7 +460,7 @@ Responditque ei minister ejus : Quantum est hoc, ut apponam centum viris ? Rursu
 
 ** II Kings 4:44
 
-Posuit itaque coram eis : qui comederunt, et superfuit juxta verbum Domini.  <chapter eID="2Kgs.4"/> <div eID="gen1807" type="x-p"/>
+Posuit itaque coram eis : qui comederunt, et superfuit juxta verbum Domini.   
 
 * II Kings 5
 
@@ -538,7 +538,7 @@ Hoc autem solum est, de quo depreceris Dominum pro servo tuo, quando ingredietur
 
 ** II Kings 5:19
 
-Qui dixit ei : Vade in pace. Abiit ergo ab eo electo terræ tempore.  <div eID="gen1808" type="x-p"/>
+Qui dixit ei : Vade in pace. Abiit ergo ab eo electo terræ tempore.  
 
 ** II Kings 5:20
 
@@ -570,7 +570,7 @@ At ille ait : Nonne cor meum in præsenti erat, quando reversus est homo de curr
 
 ** II Kings 5:27
 
-Sed et lepra Naaman adhærebit tibi, et semini tuo usque in sempiternum. Et egressus est ab eo leprosus quasi nix.  <chapter eID="2Kgs.5"/> <div eID="gen1809" type="x-p"/>
+Sed et lepra Naaman adhærebit tibi, et semini tuo usque in sempiternum. Et egressus est ab eo leprosus quasi nix.   
 
 * II Kings 6
 
@@ -600,7 +600,7 @@ Dixit autem homo Dei : Ubi cecidit ? At ille monstravit ei locum. Præcidit ergo
 
 ** II Kings 6:7
 
-et ait : Tolle. Qui extendit manum, et tulit illud.  <div eID="gen1810" type="x-p"/>
+et ait : Tolle. Qui extendit manum, et tulit illud.  
 
 ** II Kings 6:8
 
@@ -664,7 +664,7 @@ At ille ait : Non percuties : neque enim cepisti eos gladio et arcu tuo, ut perc
 
 ** II Kings 6:23
 
-Appositaque est eis ciborum magna præparatio, et comederunt et biberunt, et dimisit eos, abieruntque ad dominum suum, et ultra non venerunt latrones Syriæ in terram Israël.  <div eID="gen1811" type="x-p"/>
+Appositaque est eis ciborum magna præparatio, et comederunt et biberunt, et dimisit eos, abieruntque ad dominum suum, et ultra non venerunt latrones Syriæ in terram Israël.  
 
 ** II Kings 6:24
 
@@ -704,7 +704,7 @@ Eliseus autem sedebat in domo sua, et senes sedebant cum eo. Præmisit itaque vi
 
 ** II Kings 6:33
 
-Adhuc illo loquente eis, apparuit nuntius qui veniebat ad eum. Et ait : Ecce, tantum malum a Domino est : quid amplius expectabo a Domino ?  <chapter eID="2Kgs.6"/> <div eID="gen1812" type="x-p"/>
+Adhuc illo loquente eis, apparuit nuntius qui veniebat ad eum. Et ait : Ecce, tantum malum a Domino est : quid amplius expectabo a Domino ?   
 
 * II Kings 7
 
@@ -786,7 +786,7 @@ quando responderat dux ille viro Dei, et dixerat : Etiamsi Dominus fecerit catar
 
 ** II Kings 7:20
 
-Evenit ergo ei sicut prædictum fuerat, et conculcavit eum populus in porta, et mortuus est.  <chapter eID="2Kgs.7"/> <div eID="gen1813" type="x-p"/>
+Evenit ergo ei sicut prædictum fuerat, et conculcavit eum populus in porta, et mortuus est.   
 
 * II Kings 8
 
@@ -812,7 +812,7 @@ Cumque ille narraret regi quomodo mortuum suscitasset, apparuit mulier cujus viv
 
 ** II Kings 8:6
 
-Et interrogavit rex mulierem : quæ narravit ei. Deditque ei rex eunuchum unum, dicens : Restitue ei omnia quæ sua sunt, et universos reditus agrorum, a die qua reliquit terram usque ad præsens.  <div eID="gen1814" type="x-p"/>
+Et interrogavit rex mulierem : quæ narravit ei. Deditque ei rex eunuchum unum, dicens : Restitue ei omnia quæ sua sunt, et universos reditus agrorum, a die qua reliquit terram usque ad præsens.  
 
 ** II Kings 8:7
 
@@ -848,7 +848,7 @@ Qui cum recessisset ab Eliseo, venit ad dominum suum. Qui ait ei : Quid dixit ti
 
 ** II Kings 8:15
 
-Cumque venisset dies altera, tulit stragulum, et infudit aquam, et expandit super faciem ejus : quo mortuo, regnavit Hazaël pro eo.  <div eID="gen1815" type="x-p"/>
+Cumque venisset dies altera, tulit stragulum, et infudit aquam, et expandit super faciem ejus : quo mortuo, regnavit Hazaël pro eo.  
 
 ** II Kings 8:16
 
@@ -884,7 +884,7 @@ Reliqua autem sermonum Joram, et universa quæ fecit, nonne hæc scripta sunt in
 
 ** II Kings 8:24
 
-Et dormivit Joram cum patribus suis, sepultusque est cum eis in civitate David, et regnavit Ochozias filius ejus pro eo.  <div eID="gen1816" type="x-p"/>
+Et dormivit Joram cum patribus suis, sepultusque est cum eis in civitate David, et regnavit Ochozias filius ejus pro eo.  
 
 ** II Kings 8:25
 
@@ -904,7 +904,7 @@ Abiit quoque cum Joram filio Achab ad præliandum contra Hazaël regem Syriæ in
 
 ** II Kings 8:29
 
-Qui reversus est ut curaretur in Jezrahel, quia vulneraverant eum Syri in Ramoth præliantem contra Hazaël regem Syriæ. Porro Ochozias filius Joram rex Juda descendit invisere Joram filium Achab in Jezrahel, quia ægrotabat ibi.  <chapter eID="2Kgs.8"/> <div eID="gen1817" type="x-p"/>
+Qui reversus est ut curaretur in Jezrahel, quia vulneraverant eum Syri in Ramoth præliantem contra Hazaël regem Syriæ. Porro Ochozias filius Joram rex Juda descendit invisere Joram filium Achab in Jezrahel, quia ægrotabat ibi.   
 
 * II Kings 9
 
@@ -958,7 +958,7 @@ At ille responderunt : Falsum est, sed magis narra nobis. Qui ait eis : Hæc et 
 
 ** II Kings 9:13
 
-Festinaverunt itaque, et unusquisque tollens pallium suum posuerunt sub pedibus ejus in similitudinem tribunalis, et cecinerunt tuba, atque dixerunt : Regnavit Jehu.  <div eID="gen1818" type="x-p"/>
+Festinaverunt itaque, et unusquisque tollens pallium suum posuerunt sub pedibus ejus in similitudinem tribunalis, et cecinerunt tuba, atque dixerunt : Regnavit Jehu.  
 
 ** II Kings 9:14
 
@@ -1010,7 +1010,7 @@ Dixitque Jehu ad Badacer ducem : Tolle, projice eum in agro Naboth Jezrahelitæ 
 
 ** II Kings 9:26
 
-Si non pro sanguine Naboth, et pro sanguine filiorum ejus, quem vidi heri, ait Dominus, reddam tibi in agro isto, dicit Dominus. Nunc ergo tolle, et projice eum in agrum juxta verbum Domini.  <div eID="gen1819" type="x-p"/>
+Si non pro sanguine Naboth, et pro sanguine filiorum ejus, quem vidi heri, ait Dominus, reddam tibi in agro isto, dicit Dominus. Nunc ergo tolle, et projice eum in agrum juxta verbum Domini.  
 
 ** II Kings 9:27
 
@@ -1018,7 +1018,7 @@ Ochozias autem rex Juda videns hoc, fugit per viam domus horti : persecutusque e
 
 ** II Kings 9:28
 
-Et imposuerunt eum servi ejus super currum suum, et tulerunt in Jerusalem : sepelieruntque eum in sepulchro cum patribus suis in civitate David.  <div eID="gen1820" type="x-p"/>
+Et imposuerunt eum servi ejus super currum suum, et tulerunt in Jerusalem : sepelieruntque eum in sepulchro cum patribus suis in civitate David.  
 
 ** II Kings 9:29
 
@@ -1054,7 +1054,7 @@ Reversique nuntiaverunt ei. Et ait Jehu : Sermo Domini est, quem locutus est per
 
 ** II Kings 9:37
 
-et erunt carnes Jezabel sicut stercus super faciem terræ in agro Jezrahel, ita ut prætereuntes dicant : Hæccine est illa Jezabel ?  <chapter eID="2Kgs.9"/> <div eID="gen1821" type="x-p"/>
+et erunt carnes Jezabel sicut stercus super faciem terræ in agro Jezrahel, ita ut prætereuntes dicant : Hæccine est illa Jezabel ?   
 
 * II Kings 10
 
@@ -1100,7 +1100,7 @@ videte ergo nunc quoniam non cecidit de sermonibus Domini in terram, quos locutu
 
 ** II Kings 10:11
 
-Percussit igitur Jehu omnes qui reliqui erant de domo Achab in Jezrahel, et universos optimates ejus, et notos, et sacerdotes, donec non remanerent ex eo reliquiæ.  <div eID="gen1822" type="x-p"/>
+Percussit igitur Jehu omnes qui reliqui erant de domo Achab in Jezrahel, et universos optimates ejus, et notos, et sacerdotes, donec non remanerent ex eo reliquiæ.  
 
 ** II Kings 10:12
 
@@ -1124,7 +1124,7 @@ dixitque ad eum : Veni mecum, et vide zelum meum pro Domino. Et impositum in cur
 
 ** II Kings 10:17
 
-duxit in Samariam. Et percussit omnes qui reliqui fuerant de Achab in Samaria usque ad unum, juxta verbum Domini quod locutus est per Eliam.  <div eID="gen1823" type="x-p"/>
+duxit in Samariam. Et percussit omnes qui reliqui fuerant de Achab in Samaria usque ad unum, juxta verbum Domini quod locutus est per Eliam.  
 
 ** II Kings 10:18
 
@@ -1164,7 +1164,7 @@ et protulerunt statuam de fano Baal, et combusserunt,
 
 ** II Kings 10:27
 
-et comminuerunt eam. Destruxerunt quoque ædem Baal, et fecerunt pro ea latrinas usque in diem hanc.  <div eID="gen1824" type="x-p"/>
+et comminuerunt eam. Destruxerunt quoque ædem Baal, et fecerunt pro ea latrinas usque in diem hanc.  
 
 ** II Kings 10:28
 
@@ -1200,7 +1200,7 @@ Et dormivit Jehu cum patribus suis, sepelieruntque eum in Samaria : et regnavit 
 
 ** II Kings 10:36
 
-Dies autem quos regnavit Jehu super Israël, viginti et octo anni sunt in Samaria.  <chapter eID="2Kgs.10"/> <div eID="gen1825" type="x-p"/>
+Dies autem quos regnavit Jehu super Israël, viginti et octo anni sunt in Samaria.   
 
 * II Kings 11
 
@@ -1214,7 +1214,7 @@ Tollens autem Josaba filia regis Joram, soror Ochoziæ, Joas filium Ochoziæ, fu
 
 ** II Kings 11:3
 
-Eratque cum ea sex annis clam in domo Domini : porro Athalia regnavit super terram.  <div eID="gen1826" type="x-p"/>
+Eratque cum ea sex annis clam in domo Domini : porro Athalia regnavit super terram.  
 
 ** II Kings 11:4
 
@@ -1286,7 +1286,7 @@ Lætatusque est omnis populus terræ, et civitas conquievit : Athalia autem occi
 
 ** II Kings 11:21
 
-Septemque annorum erat Joas, cum regnare cœpisset.  <chapter eID="2Kgs.11"/> <div eID="gen1827" type="x-p"/>
+Septemque annorum erat Joas, cum regnare cœpisset.   
 
 * II Kings 12
 
@@ -1300,7 +1300,7 @@ Fecitque Joas rectum coram Domino cunctis diebus quibus docuit eum Jojada sacerd
 
 ** II Kings 12:3
 
-Verumtamen excelsa non abstulit : adhuc enim populus immolabat, et adolebat in excelsis incensum.  <div eID="gen1828" type="x-p"/>
+Verumtamen excelsa non abstulit : adhuc enim populus immolabat, et adolebat in excelsis incensum.  
 
 ** II Kings 12:4
 
@@ -1352,7 +1352,7 @@ et non fiebat ratio iis hominibus qui accipiebant pecuniam ut distribuerent eam 
 
 ** II Kings 12:16
 
-Pecuniam vero pro delicto, et pecuniam pro peccatis non inferebant in templum Domini, quia sacerdotum erat.  <div eID="gen1829" type="x-p"/>
+Pecuniam vero pro delicto, et pecuniam pro peccatis non inferebant in templum Domini, quia sacerdotum erat.  
 
 ** II Kings 12:17
 
@@ -1372,7 +1372,7 @@ Surrexerunt autem servi ejus, et conjuraverunt inter se, percusseruntque Joas in
 
 ** II Kings 12:21
 
-Josachar namque filius Semaath, et Jozabad filius Somer servi ejus, percusserunt eum, et mortuus est : et sepelierunt eum cum patribus suis in civitate David : regnavitque Amasias filius ejus pro eo.  <chapter eID="2Kgs.12"/> <div eID="gen1830" type="x-p"/>
+Josachar namque filius Semaath, et Jozabad filius Somer servi ejus, percusserunt eum, et mortuus est : et sepelierunt eum cum patribus suis in civitate David : regnavitque Amasias filius ejus pro eo.   
 
 * II Kings 13
 
@@ -1426,7 +1426,7 @@ Reliqua autem sermonum Joas, et universa quæ fecit, et fortitudo ejus, quomodo 
 
 ** II Kings 13:13
 
-Et dormivit Joas cum patribus suis : Jeroboam autem sedit super solium ejus. Porro Joas sepultus est in Samaria cum regibus Israël.  <div eID="gen1831" type="x-p"/>
+Et dormivit Joas cum patribus suis : Jeroboam autem sedit super solium ejus. Porro Joas sepultus est in Samaria cum regibus Israël.  
 
 ** II Kings 13:14
 
@@ -1458,7 +1458,7 @@ Mortuus est ergo Eliseus, et sepelierunt eum. Latrunculi autem de Moab venerunt 
 
 ** II Kings 13:21
 
-Quidam autem sepelientes hominem, viderunt latrunculos, et projecerunt cadaver in sepulchro Elisei. Quod cum tetigisset ossa Elisei, revixit homo, et stetit super pedes suos.  <div eID="gen1832" type="x-p"/>
+Quidam autem sepelientes hominem, viderunt latrunculos, et projecerunt cadaver in sepulchro Elisei. Quod cum tetigisset ossa Elisei, revixit homo, et stetit super pedes suos.  
 
 ** II Kings 13:22
 
@@ -1474,7 +1474,7 @@ Mortuus est autem Hazaël rex Syriæ, et regnavit Benadad filius ejus pro eo.
 
 ** II Kings 13:25
 
-Porro Joas filius Joachaz tulit urbes de manu Benadad filii Hazaël, quas tulerat de manu Joachaz patris sui jure prælii : tribus vicibus percussit eum Joas, et reddidit civitates Israël.  <chapter eID="2Kgs.13"/> <div eID="gen1833" type="x-p"/>
+Porro Joas filius Joachaz tulit urbes de manu Benadad filii Hazaël, quas tulerat de manu Joachaz patris sui jure prælii : tribus vicibus percussit eum Joas, et reddidit civitates Israël.   
 
 * II Kings 14
 
@@ -1504,7 +1504,7 @@ filios autem eorum qui occiderant, non occidit, juxta quod scriptum est in libro
 
 ** II Kings 14:7
 
-Ipse percussit Edom in valle Salinarum decem millia, et apprehendit petram in prælio, vocavitque nomen ejus Jectehel usque in præsentem diem.  <div eID="gen1834" type="x-p"/>
+Ipse percussit Edom in valle Salinarum decem millia, et apprehendit petram in prælio, vocavitque nomen ejus Jectehel usque in præsentem diem.  
 
 ** II Kings 14:8
 
@@ -1532,7 +1532,7 @@ Amasiam vero regem Juda, filium Joas filii Ochoziæ, cepit Joas rex Israël in B
 
 ** II Kings 14:14
 
-Tulitque omne aurum et argentum, et universa vasa quæ inventa sunt in domo Domini et in thesauris regis, et obsides, et reversus est in Samariam.  <div eID="gen1835" type="x-p"/>
+Tulitque omne aurum et argentum, et universa vasa quæ inventa sunt in domo Domini et in thesauris regis, et obsides, et reversus est in Samariam.  
 
 ** II Kings 14:15
 
@@ -1564,7 +1564,7 @@ Tulit autem universus populus Judæ Azariam annos natum sedecim, et constituerun
 
 ** II Kings 14:22
 
-Ipse ædificavit Ælath, et restituit eam Judæ, postquam dormivit rex cum patribus suis.  <div eID="gen1836" type="x-p"/>
+Ipse ædificavit Ælath, et restituit eam Judæ, postquam dormivit rex cum patribus suis.  
 
 ** II Kings 14:23
 
@@ -1592,7 +1592,7 @@ Reliqua autem sermonum Jeroboam, et universa quæ fecit, et fortitudo ejus qua p
 
 ** II Kings 14:29
 
-Dormivitque Jeroboam cum patribus suis regibus Israël, et regnavit Zacharias filius ejus pro eo.  <chapter eID="2Kgs.14"/> <div eID="gen1837" type="x-p"/>
+Dormivitque Jeroboam cum patribus suis regibus Israël, et regnavit Zacharias filius ejus pro eo.   
 
 * II Kings 15
 
@@ -1622,7 +1622,7 @@ Reliqua autem sermonum Azariæ, et universa quæ fecit, nonne hæc scripta sunt 
 
 ** II Kings 15:7
 
-Et dormivit Azarias cum patribus suis : sepelieruntque eum cum majoribus suis in civitate David, et regnavit Joatham filius ejus pro eo.  <div eID="gen1838" type="x-p"/>
+Et dormivit Azarias cum patribus suis : sepelieruntque eum cum majoribus suis in civitate David, et regnavit Joatham filius ejus pro eo.  
 
 ** II Kings 15:8
 
@@ -1642,7 +1642,7 @@ Reliqua autem verborum Zachariæ, nonne hæc scripta sunt in libro sermonum dier
 
 ** II Kings 15:12
 
-Iste est sermo Domini quem locutus est ad Jehu, dicens : Filii tui usque ad quartam generationem sedebunt super thronum Israël. Factumque est ita.  <div eID="gen1839" type="x-p"/>
+Iste est sermo Domini quem locutus est ad Jehu, dicens : Filii tui usque ad quartam generationem sedebunt super thronum Israël. Factumque est ita.  
 
 ** II Kings 15:13
 
@@ -1658,7 +1658,7 @@ Reliqua autem verborum Sellum, et conjuratio ejus, per quam tetendit insidias, n
 
 ** II Kings 15:16
 
-Tunc percussit Manahem Thapsam, et omnes qui erant in ea, et terminos ejus de Thersa : noluerant enim aperire ei : et interfecit omnes prægnantes ejus, et scidit eas.  <div eID="gen1840" type="x-p"/>
+Tunc percussit Manahem Thapsam, et omnes qui erant in ea, et terminos ejus de Thersa : noluerant enim aperire ei : et interfecit omnes prægnantes ejus, et scidit eas.  
 
 ** II Kings 15:17
 
@@ -1682,7 +1682,7 @@ Reliqua autem sermonum Manahem, et universa quæ fecit, nonne hæc scripta sunt 
 
 ** II Kings 15:22
 
-Et dormivit Manahem cum patribus suis : regnavitque Phaceia filius ejus pro eo.  <div eID="gen1841" type="x-p"/>
+Et dormivit Manahem cum patribus suis : regnavitque Phaceia filius ejus pro eo.  
 
 ** II Kings 15:23
 
@@ -1698,7 +1698,7 @@ Conjuravit autem adversus eum Phacee filius Romeliæ, dux ejus, et percussit eum
 
 ** II Kings 15:26
 
-Reliqua autem sermonum Phaceia, et universa quæ fecit, nonne hæc scripta sunt in libro sermonum dierum regum Israël ?  <div eID="gen1842" type="x-p"/>
+Reliqua autem sermonum Phaceia, et universa quæ fecit, nonne hæc scripta sunt in libro sermonum dierum regum Israël ?  
 
 ** II Kings 15:27
 
@@ -1718,7 +1718,7 @@ Conjuravit autem et tetendit insidias Osee filius Ela contra Phacee filium Romel
 
 ** II Kings 15:31
 
-Reliqua autem sermonum Phacee, et universa quæ fecit, nonne hæc scripta sunt in libro sermonum dierum regum Israël ?  <div eID="gen1843" type="x-p"/>
+Reliqua autem sermonum Phacee, et universa quæ fecit, nonne hæc scripta sunt in libro sermonum dierum regum Israël ?  
 
 ** II Kings 15:32
 
@@ -1746,7 +1746,7 @@ In diebus illis cœpit Dominus mittere in Judam Rasin regem Syriæ, et Phacee fi
 
 ** II Kings 15:38
 
-Et dormivit Joatham cum patribus suis, sepultusque est cum eis in civitate David patris sui : et regnavit Achaz filius ejus pro eo.  <chapter eID="2Kgs.15"/> <div eID="gen1844" type="x-p"/>
+Et dormivit Joatham cum patribus suis, sepultusque est cum eis in civitate David patris sui : et regnavit Achaz filius ejus pro eo.   
 
 * II Kings 16
 
@@ -1764,7 +1764,7 @@ sed ambulavit in via regum Israël : insuper et filium suum consecravit, transfe
 
 ** II Kings 16:4
 
-Immolabat quoque victimas, et adolebat incensum in excelsis, et in collibus, et sub omni ligno frondoso.  <div eID="gen1845" type="x-p"/>
+Immolabat quoque victimas, et adolebat incensum in excelsis, et in collibus, et sub omni ligno frondoso.  
 
 ** II Kings 16:5
 
@@ -1772,7 +1772,7 @@ Tunc ascendit Rasin rex Syriæ, et Phacee filius Romeliæ rex Israël, in Jerusa
 
 ** II Kings 16:6
 
-In tempore illo restituit Rasin rex Syriæ, Ailam Syriæ, et ejecit Judæos de Aila : et Idumæi venerunt in Ailam, et habitaverunt ibi usque in diem hanc.  <div eID="gen1846" type="x-p"/>
+In tempore illo restituit Rasin rex Syriæ, Ailam Syriæ, et ejecit Judæos de Aila : et Idumæi venerunt in Ailam, et habitaverunt ibi usque in diem hanc.  
 
 ** II Kings 16:7
 
@@ -1828,7 +1828,7 @@ Reliqua autem verborum Achaz quæ fecit, nonne hæc scripta sunt in libro sermon
 
 ** II Kings 16:20
 
-Dormivitque Achaz cum patribus suis, et sepultus est cum eis in civitate David : et regnavit Ezechias filius ejus pro eo.  <chapter eID="2Kgs.16"/> <div eID="gen1847" type="x-p"/>
+Dormivitque Achaz cum patribus suis, et sepultus est cum eis in civitate David : et regnavit Ezechias filius ejus pro eo.   
 
 * II Kings 17
 
@@ -1854,7 +1854,7 @@ Pervagatusque est omnem terram : et ascendens Samariam, obsedit eam tribus annis
 
 ** II Kings 17:6
 
-Anno autem nono Osee, cepit rex Assyriorum Samariam, et transtulit Israël in Assyrios : posuitque eos in Hala et in Habor juxta fluvium Gozan, in civitatibus Medorum.  <div eID="gen1848" type="x-p"/>
+Anno autem nono Osee, cepit rex Assyriorum Samariam, et transtulit Israël in Assyrios : posuitque eos in Hala et in Habor juxta fluvium Gozan, in civitatibus Medorum.  
 
 ** II Kings 17:7
 
@@ -1922,7 +1922,7 @@ Et ambulaverunt filii Israël in universis peccatis Jeroboam quæ fecerat : et n
 
 ** II Kings 17:23
 
-usquequo Dominus auferret Israël a facie sua, sicut locutus fuerat in manu omnium servorum suorum prophetarum : translatusque est Israël de terra sua in Assyrios, usque in diem hanc.  <div eID="gen1849" type="x-p"/>
+usquequo Dominus auferret Israël a facie sua, sicut locutus fuerat in manu omnium servorum suorum prophetarum : translatusque est Israël de terra sua in Assyrios, usque in diem hanc.  
 
 ** II Kings 17:24
 
@@ -1994,7 +1994,7 @@ Illi vero non audierunt, sed juxta consuetudinem suam pristinam perpetrabant.
 
 ** II Kings 17:41
 
-Fuerunt igitur gentes istæ timentes quidem Dominum, sed nihilominus et idolis suis servientes : nam et filii eorum, et nepotes, sicut fecerunt patres sui, ita faciunt usque in præsentem diem.  <chapter eID="2Kgs.17"/> <div eID="gen1850" type="x-p"/>
+Fuerunt igitur gentes istæ timentes quidem Dominum, sed nihilominus et idolis suis servientes : nam et filii eorum, et nepotes, sicut fecerunt patres sui, ita faciunt usque in præsentem diem.   
 
 * II Kings 18
 
@@ -2044,7 +2044,7 @@ et transtulit rex Assyriorum Israël in Assyrios, collocavitque eos in Hala et i
 
 ** II Kings 18:12
 
-quia non audierunt vocem Domini Dei sui, sed prætergressi sunt pactum ejus : omnia quæ præceperat Moyses servus Domini non audierunt, neque fecerunt.  <div eID="gen1851" type="x-p"/>
+quia non audierunt vocem Domini Dei sui, sed prætergressi sunt pactum ejus : omnia quæ præceperat Moyses servus Domini non audierunt, neque fecerunt.  
 
 ** II Kings 18:13
 
@@ -2144,7 +2144,7 @@ Tacuit itaque populus, et non respondit ei quidquam : siquidem præceptum regis 
 
 ** II Kings 18:37
 
-Venitque Eliacim filius Helciæ, præpositus domus, et Sobna scriba, et Joahe filius Asaph a commentariis ad Ezechiam scissis vestibus, et nuntiaverunt ei verba Rabsacis.  <chapter eID="2Kgs.18"/> <div eID="gen1852" type="x-p"/>
+Venitque Eliacim filius Helciæ, præpositus domus, et Sobna scriba, et Joahe filius Asaph a commentariis ad Ezechiam scissis vestibus, et nuntiaverunt ei verba Rabsacis.   
 
 * II Kings 19
 
@@ -2174,7 +2174,7 @@ Dixitque eis Isaias : Hæc dicetis domino vestro : Hæc dicit Dominus : Noli tim
 
 ** II Kings 19:7
 
-Ecce ego immittam ei spiritum, et audiet nuntium, et revertetur in terram suam, et dejiciam eum gladio in terra sua.  <div eID="gen1853" type="x-p"/>
+Ecce ego immittam ei spiritum, et audiet nuntium, et revertetur in terram suam, et dejiciam eum gladio in terra sua.  
 
 ** II Kings 19:8
 
@@ -2226,63 +2226,63 @@ Nunc igitur Domine Deus noster, salvos nos fac de manu ejus, ut sciant omnia reg
 
 ** II Kings 19:20
 
-Misit autem Isaias filius Amos ad Ezechiam, dicens : Hæc dicit Dominus Deus Israël : Quæ deprecatus es me super Sennacherib rege Assyriorum, audivi.  <div eID="gen1854" type="x-p"/>
+Misit autem Isaias filius Amos ad Ezechiam, dicens : Hæc dicit Dominus Deus Israël : Quæ deprecatus es me super Sennacherib rege Assyriorum, audivi.  
 
 ** II Kings 19:21
 
-Iste est sermo, quem locutus est Dominus de eo : <div eID="gen1855" type="x-p"/> <lg sID="gen1856"/> <l level="1" sID="gen1857"/>Sprevit te, et subsannavit te, virgo filia Sion : <l eID="gen1857" level="1"/> <l level="1" sID="gen1858"/>post tergum tuum caput movit, filia Jerusalem. <l eID="gen1858" level="1"/>
+Iste est sermo, quem locutus est Dominus de eo :   Sprevit te, et subsannavit te, virgo filia Sion :  post tergum tuum caput movit, filia Jerusalem. 
 
 ** II Kings 19:22
 
-Cui exprobrasti, et quem blasphemasti ? <l eID="gen1859" level="1"/> <l level="1" sID="gen1860"/>contra quem exaltasti vocem tuam, et elevasti in excelsum oculos tuos ? <l eID="gen1860" level="1"/> <l level="1" sID="gen1861"/>Contra Sanctum Israël. <l eID="gen1861" level="1"/>
+Cui exprobrasti, et quem blasphemasti ?  contra quem exaltasti vocem tuam, et elevasti in excelsum oculos tuos ?  Contra Sanctum Israël. 
 
 ** II Kings 19:23
 
-Per manum servorum tuorum exprobrasti Domino, et dixisti : <l eID="gen1862" level="1"/> <l level="1" sID="gen1863"/>In multitudine curruum meorum ascendi excelsa montium in summitate Libani, <l eID="gen1863" level="1"/> <l level="1" sID="gen1864"/>et succidi sublimes cedros ejus, et electas abietes illius. <l eID="gen1864" level="1"/> <l level="1" sID="gen1865"/>Et ingressus sum usque ad terminos ejus, <l eID="gen1865" level="1"/> <l level="1" sID="gen1866"/>et saltum Carmeli ejus
+Per manum servorum tuorum exprobrasti Domino, et dixisti :  In multitudine curruum meorum ascendi excelsa montium in summitate Libani,  et succidi sublimes cedros ejus, et electas abietes illius.  Et ingressus sum usque ad terminos ejus,  et saltum Carmeli ejus
 
 ** II Kings 19:24
 
-ego succidi. <l eID="gen1866" level="1"/> <l level="1" sID="gen1867"/>Et bibi aquas alienas, et siccavi vestigiis pedum meorum omnes aquas clausas. <l eID="gen1867" level="1"/>
+ego succidi.  Et bibi aquas alienas, et siccavi vestigiis pedum meorum omnes aquas clausas. 
 
 ** II Kings 19:25
 
-Numquid non audisti quid ab initio fecerim ? <l eID="gen1868" level="1"/> <l level="1" sID="gen1869"/>ex diebus antiquis plasmavi illud, et nunc adduxi : <l eID="gen1869" level="1"/> <l level="1" sID="gen1870"/>eruntque in ruinam collium pugnantium civitates munitæ. <l eID="gen1870" level="1"/>
+Numquid non audisti quid ab initio fecerim ?  ex diebus antiquis plasmavi illud, et nunc adduxi :  eruntque in ruinam collium pugnantium civitates munitæ. 
 
 ** II Kings 19:26
 
-Et qui sedent in eis, humiles manu, contremuerunt et confusi sunt : <l eID="gen1871" level="1"/> <l level="1" sID="gen1872"/>facti sunt velut fœnum agri, et virens herba tectorum, <l eID="gen1872" level="1"/> <l level="1" sID="gen1873"/>quæ arefacta est antequam veniret ad maturitatem. <l eID="gen1873" level="1"/>
+Et qui sedent in eis, humiles manu, contremuerunt et confusi sunt :  facti sunt velut fœnum agri, et virens herba tectorum,  quæ arefacta est antequam veniret ad maturitatem. 
 
 ** II Kings 19:27
 
-Habitaculum tuum, et egressum tuum, et introitum tuum, et viam tuam ego præscivi, <l eID="gen1874" level="1"/> <l level="1" sID="gen1875"/>et furorem tuum contra me. <l eID="gen1875" level="1"/>
+Habitaculum tuum, et egressum tuum, et introitum tuum, et viam tuam ego præscivi,  et furorem tuum contra me. 
 
 ** II Kings 19:28
 
-Insanisti in me, et superbia tua ascendit in aures meas : <l eID="gen1876" level="1"/> <l level="1" sID="gen1877"/>ponam itaque circulum in naribus tuis, et camum in labiis tuis, <l eID="gen1877" level="1"/> <l level="1" sID="gen1878"/>et reducam te in viam per quam venisti. <l eID="gen1878" level="1"/>
+Insanisti in me, et superbia tua ascendit in aures meas :  ponam itaque circulum in naribus tuis, et camum in labiis tuis,  et reducam te in viam per quam venisti. 
 
 ** II Kings 19:29
 
-Tibi autem, Ezechia, hoc erit signum : <l eID="gen1879" level="1"/> <l level="1" sID="gen1880"/>comede hoc anno quæ repereris : <l eID="gen1880" level="1"/> <l level="1" sID="gen1881"/>in secundo autem anno, quæ sponte nascuntur : <l eID="gen1881" level="1"/> <l level="1" sID="gen1882"/>porro in tertio anno seminate et metite : <l eID="gen1882" level="1"/> <l level="1" sID="gen1883"/>plantate vineas, et comedite fructum earum. <l eID="gen1883" level="1"/>
+Tibi autem, Ezechia, hoc erit signum :  comede hoc anno quæ repereris :  in secundo autem anno, quæ sponte nascuntur :  porro in tertio anno seminate et metite :  plantate vineas, et comedite fructum earum. 
 
 ** II Kings 19:30
 
-Et quodcumque reliquum fuerit de domo Juda, mittet radicem deorsum, <l eID="gen1884" level="1"/> <l level="1" sID="gen1885"/>et faciet fructum sursum. <l eID="gen1885" level="1"/>
+Et quodcumque reliquum fuerit de domo Juda, mittet radicem deorsum,  et faciet fructum sursum. 
 
 ** II Kings 19:31
 
-De Jerusalem quippe egredientur reliquiæ, <l eID="gen1886" level="1"/> <l level="1" sID="gen1887"/>et quod salvetur de monte Sion : <l eID="gen1887" level="1"/> <l level="1" sID="gen1888"/>zelus Domini exercituum faciet hoc. <l eID="gen1888" level="1"/>
+De Jerusalem quippe egredientur reliquiæ,  et quod salvetur de monte Sion :  zelus Domini exercituum faciet hoc. 
 
 ** II Kings 19:32
 
-Quam ob rem hæc dicit Dominus de rege Assyriorum : <l eID="gen1889" level="1"/> <l level="1" sID="gen1890"/>Non ingredietur urbem hanc, nec mittet in eam sagittam, <l eID="gen1890" level="1"/> <l level="1" sID="gen1891"/>nec occupabit eam clypeus, nec circumdabit eam munitio. <l eID="gen1891" level="1"/>
+Quam ob rem hæc dicit Dominus de rege Assyriorum :  Non ingredietur urbem hanc, nec mittet in eam sagittam,  nec occupabit eam clypeus, nec circumdabit eam munitio. 
 
 ** II Kings 19:33
 
-Per viam qua venit, revertetur : <l eID="gen1892" level="1"/> <l level="1" sID="gen1893"/>et civitatem hanc non ingredietur, dicit Dominus. <l eID="gen1893" level="1"/>
+Per viam qua venit, revertetur :  et civitatem hanc non ingredietur, dicit Dominus. 
 
 ** II Kings 19:34
 
-Protegamque urbem hanc, et salvabo eam propter me, <l eID="gen1894" level="1"/> <l level="1" sID="gen1895"/>et propter David servum meum. <l eID="gen1895" level="1"/> <lg eID="gen1856"/>
+Protegamque urbem hanc, et salvabo eam propter me,  et propter David servum meum.  
 
 ** II Kings 19:35
 
@@ -2294,7 +2294,7 @@ et reversus est Sennacherib rex Assyriorum, et mansit in Ninive.
 
 ** II Kings 19:37
 
-Cumque adoraret in templo Nesroch deum suum, Adramelech et Sarasar filii ejus percusserunt eum gladio, fugeruntque in terram Armeniorum : et regnavit Asarhaddon filius ejus pro eo.  <chapter eID="2Kgs.19"/> <div eID="gen1896" type="x-p"/>
+Cumque adoraret in templo Nesroch deum suum, Adramelech et Sarasar filii ejus percusserunt eum gladio, fugeruntque in terram Armeniorum : et regnavit Asarhaddon filius ejus pro eo.   
 
 * II Kings 20
 
@@ -2340,7 +2340,7 @@ Et ait Ezechias : Facile est umbram crescere decem lineis : nec hoc volo ut fiat
 
 ** II Kings 20:11
 
-Invocavit itaque Isaias propheta Dominum, et reduxit umbram per lineas quibus jam descenderat in horologio Achaz, retrorsum decem gradibus.  <div eID="gen1897" type="x-p"/>
+Invocavit itaque Isaias propheta Dominum, et reduxit umbram per lineas quibus jam descenderat in horologio Achaz, retrorsum decem gradibus.  
 
 ** II Kings 20:12
 
@@ -2372,7 +2372,7 @@ Sed et de filiis tuis qui egredientur ex te, quos generabis, tollentur, et erunt
 
 ** II Kings 20:19
 
-Dixit Ezechias ad Isaiam : Bonus sermo Domini quem locutus es : sit pax et veritas in diebus meis.  <div eID="gen1898" type="x-p"/>
+Dixit Ezechias ad Isaiam : Bonus sermo Domini quem locutus es : sit pax et veritas in diebus meis.  
 
 ** II Kings 20:20
 
@@ -2380,7 +2380,7 @@ Reliqua autem sermonum Ezechiæ, et omnis fortitudo ejus, et quomodo fecerit pis
 
 ** II Kings 20:21
 
-Dormivitque Ezechias cum patribus suis, et regnavit Manasses filius ejus pro eo.  <chapter eID="2Kgs.20"/> <div eID="gen1899" type="x-p"/>
+Dormivitque Ezechias cum patribus suis, et regnavit Manasses filius ejus pro eo.   
 
 * II Kings 21
 
@@ -2454,7 +2454,7 @@ Reliqua autem sermonum Manasse, ut universa quæ fecit, et peccatum ejus quod pe
 
 ** II Kings 21:18
 
-Dormivitque Manasses cum patribus suis, et sepultus est in horto domus suæ, in horto Oza : et regnavit Amon filius ejus pro eo.  <div eID="gen1900" type="x-p"/>
+Dormivitque Manasses cum patribus suis, et sepultus est in horto domus suæ, in horto Oza : et regnavit Amon filius ejus pro eo.  
 
 ** II Kings 21:19
 
@@ -2486,7 +2486,7 @@ Reliqua autem sermonum Amon quæ fecit, nonne hæc scripta sunt in libro sermonu
 
 ** II Kings 21:26
 
-Sepelieruntque eum in sepulchro suo, in horto Oza : et regnavit Josias filius ejus pro eo.  <chapter eID="2Kgs.21"/> <div eID="gen1901" type="x-p"/>
+Sepelieruntque eum in sepulchro suo, in horto Oza : et regnavit Josias filius ejus pro eo.   
 
 * II Kings 22
 
@@ -2516,7 +2516,7 @@ tignariis videlicet et cæmentariis, et iis qui interrupta componunt : et ut ema
 
 ** II Kings 22:7
 
-Verumtamen non supputetur eis argentum quod accipiunt, sed in potestate habeant, et in fide.  <div eID="gen1902" type="x-p"/>
+Verumtamen non supputetur eis argentum quod accipiunt, sed in potestate habeant, et in fide.  
 
 ** II Kings 22:8
 
@@ -2568,7 +2568,7 @@ et perterritum est cor tuum, et humiliatus es coram Domino, auditis sermonibus c
 
 ** II Kings 22:20
 
-idcirco colligam te ad patres tuos, et colligeris ad sepulchrum tuum in pace, ut non videant oculi tui omnia mala quæ inducturus sum super locum istum.  <chapter eID="2Kgs.22"/> <div eID="gen1903" type="x-p"/>
+idcirco colligam te ad patres tuos, et colligeris ad sepulchrum tuum in pace, ut non videant oculi tui omnia mala quæ inducturus sum super locum istum.   
 
 * II Kings 23
 
@@ -2678,7 +2678,7 @@ Verumtamen non est aversus Dominus ab ira furoris sui magni quo iratus est furor
 
 ** II Kings 23:27
 
-Dixit itaque Dominus : Etiam Judam auferam a facie mea, sicut abstuli Israël : et projiciam civitatem hanc quam elegi Jerusalem, et domum de qua dixi : Erit nomen meum ibi.  <div eID="gen1904" type="x-p"/>
+Dixit itaque Dominus : Etiam Judam auferam a facie mea, sicut abstuli Israël : et projiciam civitatem hanc quam elegi Jerusalem, et domum de qua dixi : Erit nomen meum ibi.  
 
 ** II Kings 23:28
 
@@ -2690,7 +2690,7 @@ In diebus ejus ascendit Pharao Nechao rex Ægypti contra regem Assyriorum ad flu
 
 ** II Kings 23:30
 
-Et portaverunt eum servi sui mortuum de Mageddo : et pertulerunt in Jerusalem, et sepelierunt eum in sepulchro suo. Tulitque populus terræ Joachaz filium Josiæ : et unxerunt eum, et constituerunt eum regem pro patre suo.  <div eID="gen1905" type="x-p"/>
+Et portaverunt eum servi sui mortuum de Mageddo : et pertulerunt in Jerusalem, et sepelierunt eum in sepulchro suo. Tulitque populus terræ Joachaz filium Josiæ : et unxerunt eum, et constituerunt eum regem pro patre suo.  
 
 ** II Kings 23:31
 
@@ -2702,7 +2702,7 @@ Et fecit malum coram Domino, juxta omnia quæ fecerant patres ejus.
 
 ** II Kings 23:33
 
-Vinxitque eum Pharao Nechao in Rebla, quæ est in terra Emath, ne regnaret in Jerusalem : et imposuit mulctam terræ centum talentis argenti, et talento auri.  <div eID="gen1906" type="x-p"/>
+Vinxitque eum Pharao Nechao in Rebla, quæ est in terra Emath, ne regnaret in Jerusalem : et imposuit mulctam terræ centum talentis argenti, et talento auri.  
 
 ** II Kings 23:34
 
@@ -2718,7 +2718,7 @@ Viginti quinque annorum erat Joakim cum regnare cœpisset, et undecim annis regn
 
 ** II Kings 23:37
 
-Et fecit malum coram Domino juxta omnia quæ fecerant patres ejus.  <chapter eID="2Kgs.23"/> <div eID="gen1907" type="x-p"/>
+Et fecit malum coram Domino juxta omnia quæ fecerant patres ejus.   
 
 * II Kings 24
 
@@ -2748,7 +2748,7 @@ et regnavit Joachin filius ejus pro eo.
 
 ** II Kings 24:7
 
-Et ultra non addidit rex Ægypti ut egrederetur de terra sua : tulerat enim rex Babylonis, a rivo Ægypti usque ad fluvium Euphraten, omnia quæ fuerant regis Ægypti.  <div eID="gen1908" type="x-p"/>
+Et ultra non addidit rex Ægypti ut egrederetur de terra sua : tulerat enim rex Babylonis, a rivo Ægypti usque ad fluvium Euphraten, omnia quæ fuerant regis Ægypti.  
 
 ** II Kings 24:8
 
@@ -2772,7 +2772,7 @@ Egressusque est Joachin rex Juda ad regem Babylonis, ipse et mater ejus, et serv
 
 ** II Kings 24:13
 
-Et protulit inde omnes thesauros domus Domini, et thesauros domus regiæ : et concidit universa vasa aurea quæ fecerat Salomon rex Israël in templo Domini juxta verbum Domini.  <div eID="gen1909" type="x-p"/>
+Et protulit inde omnes thesauros domus Domini, et thesauros domus regiæ : et concidit universa vasa aurea quæ fecerat Salomon rex Israël in templo Domini juxta verbum Domini.  
 
 ** II Kings 24:14
 
@@ -2788,7 +2788,7 @@ Et omnes viros robustos, septem millia, et artifices, et clusores mille, omnes v
 
 ** II Kings 24:17
 
-Et constituit Matthaniam patruum ejus pro eo : imposuitque nomen ei Sedeciam.  <div eID="gen1910" type="x-p"/>
+Et constituit Matthaniam patruum ejus pro eo : imposuitque nomen ei Sedeciam.  
 
 ** II Kings 24:18
 
@@ -2800,7 +2800,7 @@ Et fecit malum coram Domino, juxta omnia quæ fecerat Joakim.
 
 ** II Kings 24:20
 
-Irascebatur enim Dominus contra Jerusalem et contra Judam, donec projiceret eos a facie sua : recessitque Sedecias a rege Babylonis.  <chapter eID="2Kgs.24"/> <div eID="gen1911" type="x-p"/>
+Irascebatur enim Dominus contra Jerusalem et contra Judam, donec projiceret eos a facie sua : recessitque Sedecias a rege Babylonis.   
 
 * II Kings 25
 
@@ -2830,7 +2830,7 @@ Apprehensum ergo regem duxerunt ad regem Babylonis in Reblatha : qui locutus est
 
 ** II Kings 25:7
 
-Filios autem Sedeciæ occidit coram eo, et oculos ejus effodit, vinxitque eum catenis, et adduxit in Babylonem.  <div eID="gen1912" type="x-p"/>
+Filios autem Sedeciæ occidit coram eo, et oculos ejus effodit, vinxitque eum catenis, et adduxit in Babylonem.  
 
 ** II Kings 25:8
 
@@ -2886,7 +2886,7 @@ Quos tollens Nabuzardan princeps militum, duxit ad regem Babylonis in Reblatha.
 
 ** II Kings 25:21
 
-Percussitque eos rex Babylonis, et interfecit eos in Reblatha in terra Emath : et translatus est Juda de terra sua.  <div eID="gen1913" type="x-p"/>
+Percussitque eos rex Babylonis, et interfecit eos in Reblatha in terra Emath : et translatus est Juda de terra sua.  
 
 ** II Kings 25:22
 
@@ -2902,7 +2902,7 @@ Juravitque Godolias ipsis et sociis eorum, dicens : Nolite timere servire Chald�
 
 ** II Kings 25:25
 
-Factum est autem in mense septimo, venit Ismahel filius Nathaniæ filii Elisama de semine regio, et decem viri cum eo : percusseruntque Godoliam, qui et mortuus est : sed et Judæos et Chaldæos qui erant cum eo in Maspha.  <div eID="gen1914" type="x-p"/>
+Factum est autem in mense septimo, venit Ismahel filius Nathaniæ filii Elisama de semine regio, et decem viri cum eo : percusseruntque Godoliam, qui et mortuus est : sed et Judæos et Chaldæos qui erant cum eo in Maspha.  
 
 ** II Kings 25:26
 
@@ -2922,5 +2922,5 @@ Et mutavit vestes ejus quas habuerat in carcere, et comedebat panem semper in co
 
 ** II Kings 25:30
 
-Annonam quoque constituit ei sine intermissione, quæ et dabatur ei a rege per singulos dies omnibus diebus vitæ suæ.  <div eID="gen1915" type="x-p"/> <chapter eID="2Kgs.25"/> <div eID="gen1797" osisID="2Kgs" type="book"/>
+Annonam quoque constituit ei sine intermissione, quæ et dabatur ei a rege per singulos dies omnibus diebus vitæ suæ.    
 

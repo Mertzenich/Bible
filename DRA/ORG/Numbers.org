@@ -214,7 +214,7 @@ But the Levites shall pitch their tents round about the tabernacle, lest there c
 
 *** Numbers 1:54
 
-And the children of Israel did according to all things which the Lord had commanded Moses. <chapter eID="gen3721" osisID="Num.1"/>
+And the children of Israel did according to all things which the Lord had commanded Moses. 
 
 ** Numbers 2
 
@@ -352,7 +352,7 @@ And the Levites were not numbered among the children of Israel: for so the Lord 
 
 *** Numbers 2:34
 
-And the children of Israel did according to all things that the Lord had commanded. They camped by their troops, and marched by the families and houses of their fathers. <chapter eID="gen3776" osisID="Num.2"/>
+And the children of Israel did according to all things that the Lord had commanded. They camped by their troops, and marched by the families and houses of their fathers. 
 
 ** Numbers 3
 
@@ -558,7 +558,7 @@ For the firstborn of the children of Israel, one thousand three hundred and sixt
 
 *** Numbers 3:51
 
-And gave it to Aaron and his sons according to the word that the Lord had commanded him. <chapter eID="gen3811" osisID="Num.3"/>
+And gave it to Aaron and his sons according to the word that the Lord had commanded him. 
 
 ** Numbers 4
 
@@ -756,7 +756,7 @@ Were in all eight thousand five hundred and eighty.
 
 *** Numbers 4:49
 
-Moses reckoned them up according to the word of the Lord, every one according to their office and burdens, as the Lord had commanded him. <chapter eID="gen3863" osisID="Num.4"/>
+Moses reckoned them up according to the word of the Lord, every one according to their office and burdens, as the Lord had commanded him. 
 
 ** Numbers 5
 
@@ -882,7 +882,7 @@ And the husband stirred up by the spirit of jealousy bring her before the Lord, 
 
 *** Numbers 5:31
 
-The husband shall be blameless, and she shall bear her iniquity. <chapter eID="gen3913" osisID="Num.5"/>
+The husband shall be blameless, and she shall bear her iniquity. 
 
 ** Numbers 6
 
@@ -992,7 +992,7 @@ The Lord turn his countenance to thee, and give thee peace.
 
 *** Numbers 6:27
 
-And they shall invoke my name upon the children of Israel, and I will bless them. <chapter eID="gen3945" osisID="Num.6"/>
+And they shall invoke my name upon the children of Israel, and I will bless them. 
 
 ** Numbers 7
 
@@ -1350,7 +1350,7 @@ And for sacrifices of peace offerings, oxen twenty-four, rams sixty, buck goats 
 
 *** Numbers 7:89
 
-And when Moses entered into the tabernacle of the covenant, to consult the oracle, he heard the voice of one speaking to him from the propitiatory, that is over the ark between the two cherubims, and from this place he spoke to him. <chapter eID="gen3973" osisID="Num.7"/>
+And when Moses entered into the tabernacle of the covenant, to consult the oracle, he heard the voice of one speaking to him from the propitiatory, that is over the ark between the two cherubims, and from this place he spoke to him. 
 
 ** Numbers 8
 
@@ -1456,7 +1456,7 @@ And when they shall have accomplished the fiftieth year of their age, they shall
 
 *** Numbers 8:26
 
-And they shall be the ministers of their brethren in the tabernacle of the covenant, to keep the things that are committed to their care, but not to do the works. Thus shalt thou order the Levites touching their charge. <chapter eID="gen4063" osisID="Num.8"/>
+And they shall be the ministers of their brethren in the tabernacle of the covenant, to keep the things that are committed to their care, but not to do the works. Thus shalt thou order the Levites touching their charge. 
 
 ** Numbers 9
 
@@ -1550,7 +1550,7 @@ But if it remained over the tabernacle for two days or a month or a longer time,
 
 *** Numbers 9:23
 
-By the word of the Lord they pitched their tents, and by his word they marched: and kept the watches of the Lord according to his commandment by the hand of Moses. <chapter eID="gen4090" osisID="Num.9"/>
+By the word of the Lord they pitched their tents, and by his word they marched: and kept the watches of the Lord according to his commandment by the hand of Moses. 
 
 ** Numbers 10
 
@@ -1696,7 +1696,7 @@ And when the ark was lifted up, Moses said: Arise, O Lord, and let thy enemies b
 
 *** Numbers 10:36
 
-And when it was set down, he said: Return, O Lord, to the multitude of the host of Israel. <chapter eID="gen4114" osisID="Num.10"/>
+And when it was set down, he said: Return, O Lord, to the multitude of the host of Israel. 
 
 ** Numbers 11
 
@@ -1834,7 +1834,7 @@ As yet the flesh was between their teeth, neither had that kind of meat failed: 
 
 *** Numbers 11:34
 
-And that place was called, The graves of lust: for there they buried the people that had lusted. And departing from the graves of lust, they came unto Haseroth, and abode there. <chapter eID="gen4151" osisID="Num.11"/>
+And that place was called, The graves of lust: for there they buried the people that had lusted. And departing from the graves of lust, they came unto Haseroth, and abode there. 
 
 ** Numbers 12
 
@@ -1896,7 +1896,7 @@ And the Lord answered him: If her father had spitten upon her face, ought she no
 
 *** Numbers 12:15
 
-Mary therefore was put out of the camp seven days: and the people moved not from that place until Mary was called again. <chapter eID="gen4186" osisID="Num.12"/>
+Mary therefore was put out of the camp seven days: and the people moved not from that place until Mary was called again. 
 
 ** Numbers 13
 
@@ -2034,7 +2034,7 @@ And they spoke ill of the land, which they had viewed, before the children of Is
 
 *** Numbers 13:34
 
-There we saw certain monsters of the sons of Enac, of the giant kind: in comparison of whom, we seemed like locusts. <chapter eID="gen4202" osisID="Num.13"/>
+There we saw certain monsters of the sons of Enac, of the giant kind: in comparison of whom, we seemed like locusts. 
 
 ** Numbers 14
 
@@ -2216,7 +2216,7 @@ But they being blinded went up to the top of the mountain. But the ark of the te
 
 *** Numbers 14:45
 
-And the Amalecite came down, and the Chanaanite that dwelt in the mountain: and smiting and slaying them pursued them as far as Horma. <chapter eID="gen4237" osisID="Num.14"/>
+And the Amalecite came down, and the Chanaanite that dwelt in the mountain: and smiting and slaying them pursued them as far as Horma. 
 
 ** Numbers 15
 
@@ -2382,7 +2382,7 @@ But rather being mindful of the precepts of the Lord, may do them and be holy to
 
 *** Numbers 15:41
 
-I am the Lord your God, who brought you out of the land of Egypt, that I might be your God. <chapter eID="gen4283" osisID="Num.15"/>
+I am the Lord your God, who brought you out of the land of Egypt, that I might be your God. 
 
 ** Numbers 16
 
@@ -2584,7 +2584,7 @@ And the number of them that were slain was fourteen thousand and seven hundred m
 
 *** Numbers 16:50
 
-And Aaron returned to Moses to the door of the tabernacle of the covenant after the destruction was over. <chapter eID="gen4325" osisID="Num.16"/>
+And Aaron returned to Moses to the door of the tabernacle of the covenant after the destruction was over. 
 
 ** Numbers 17
 
@@ -2638,7 +2638,7 @@ And the children of Israel said to Moses: Behold we are consumed, we all perish.
 
 *** Numbers 17:13
 
-Whosoever approacheth to the tabernacle of the Lord, he dieth. Are we all to a man to be utterly destroyed? <chapter eID="gen4376" osisID="Num.17"/>
+Whosoever approacheth to the tabernacle of the Lord, he dieth. Are we all to a man to be utterly destroyed? 
 
 ** Numbers 18
 
@@ -2768,7 +2768,7 @@ And you shall eat them in all your places, both you and your families: because i
 
 *** Numbers 18:32
 
-And you shall not sin in this point, by reserving the choicest and fat things to yourselves, lest you profane the oblations of the children of Israel, and die. <chapter eID="gen4390" osisID="Num.18"/>
+And you shall not sin in this point, by reserving the choicest and fat things to yourselves, lest you profane the oblations of the children of Israel, and die. 
 
 ** Numbers 19
 
@@ -2858,7 +2858,7 @@ This precept shall be an ordinance for ever. He also that sprinkled the water, s
 
 *** Numbers 19:22
 
-Whatsoever a person toucheth who is unclean, he shall make it unclean: and the person that toucheth any of these things, shall be unclean until the evening. <chapter eID="gen4423" osisID="Num.19"/>
+Whatsoever a person toucheth who is unclean, he shall make it unclean: and the person that toucheth any of these things, shall be unclean until the evening. 
 
 ** Numbers 20
 
@@ -2980,7 +2980,7 @@ And Aaron being dead in the top of the mountain, he came down with Eleazar.
 
 *** Numbers 20:30
 
-And all the multitude seeing that Aaron was dead, mourned for him thirty days throughout all their families. <chapter eID="gen4446" osisID="Num.20"/>
+And all the multitude seeing that Aaron was dead, mourned for him thirty days throughout all their families. 
 
 ** Numbers 21
 
@@ -3122,7 +3122,7 @@ And the Lord said to Moses: Fear him not, for I have delivered him and all his p
 
 *** Numbers 21:35
 
-So they slew him also with his sons, and all his people, not letting any one escape, and they possessed his land. <chapter eID="gen4477" osisID="Num.21"/>
+So they slew him also with his sons, and all his people, not letting any one escape, and they possessed his land. 
 
 ** Numbers 22
 
@@ -3288,7 +3288,7 @@ And when Balac had killed oxen and sheep, he sent presents to Balaam, and to the
 
 *** Numbers 22:41
 
-And when morning was come, he brought him to the high places of Baal, and he beheld the uttermost part of the people. <chapter eID="gen4513" osisID="Num.22"/>
+And when morning was come, he brought him to the high places of Baal, and he beheld the uttermost part of the people. 
 
 ** Numbers 23
 
@@ -3410,7 +3410,7 @@ Balaam said to him: Build me here seven altars, and prepare as many calves, and 
 
 *** Numbers 23:30
 
-Balac did as Balaam had said: and he laid on every altar, a calf and a ram. <chapter eID="gen4555" osisID="Num.23"/>
+Balac did as Balaam had said: and he laid on every altar, a calf and a ram. 
 
 ** Numbers 24
 
@@ -3512,7 +3512,7 @@ They shall come in galleys from Italy, they shall overcome the Assyrians, and sh
 
 *** Numbers 24:25
 
-And Balaam rose, and returned to his place: Balac also returned the way that he came. <chapter eID="gen4586" osisID="Num.24"/>
+And Balaam rose, and returned to his place: Balac also returned the way that he came. 
 
 ** Numbers 25
 
@@ -3586,7 +3586,7 @@ Let the Madianites find you their enemies, and slay you them:
 
 *** Numbers 25:18
 
-Because they also have acted like enemies against you, and have guilefully deceived you by the idol Phogor, and Cozbi their sister, a daughter of a prince of Madian, who was slain in the day of the plague for the sacrilege of Phogor. <chapter eID="gen4612" osisID="Num.25"/>
+Because they also have acted like enemies against you, and have guilefully deceived you by the idol Phogor, and Cozbi their sister, a daughter of a prince of Madian, who was slain in the day of the plague for the sacrilege of Phogor. 
 
 ** Numbers 26
 
@@ -3848,7 +3848,7 @@ Among whom there was not one of them that were numbered before by Moses and Aaro
 
 *** Numbers 26:65
 
-For the Lord had foretold that they should die in the wilderness. And none remained of them, but Caleb the son of Jephone, and Josue the son of Nun. <chapter eID="gen4631" osisID="Num.26"/>
+For the Lord had foretold that they should die in the wilderness. And none remained of them, but Caleb the son of Jephone, and Josue the son of Nun. 
 
 ** Numbers 27
 
@@ -3942,7 +3942,7 @@ Moses did as the Lord had commanded. And, when he had taken Josue, he set him be
 
 *** Numbers 27:23
 
-And laying his hands on his head, he repeated all things that the Lord had commanded. <chapter eID="gen4697" osisID="Num.27"/>
+And laying his hands on his head, he repeated all things that the Lord had commanded. 
 
 ** Numbers 28
 
@@ -4068,7 +4068,7 @@ Which is slain for expiation: besides the perpetual holocaust and the libations 
 
 *** Numbers 28:31
 
-You shall offer them all without blemish with their libations. <chapter eID="gen4721" osisID="Num.28"/>
+You shall offer them all without blemish with their libations. 
 
 ** Numbers 29
 
@@ -4226,7 +4226,7 @@ And a buck goat for sin, besides the perpetual holocaust, and the sacrifice and 
 
 *** Numbers 29:39
 
-These things shall you offer to the Lord in your solemnities: besides your vows and voluntary oblations for holocaust, for sacrifice, for libation, and for victims of peace offerings. <chapter eID="gen4753" osisID="Num.29"/>
+These things shall you offer to the Lord in your solemnities: besides your vows and voluntary oblations for holocaust, for sacrifice, for libation, and for victims of peace offerings. 
 
 ** Numbers 30
 
@@ -4296,7 +4296,7 @@ But if he gainsay it after that he knew it, he shall bear her iniquity.
 
 *** Numbers 30:17
 
-These are the laws which the Lord appointed to Moses between the husband and the wife, between the father and the daughter that is as yet but a girl in age, or that abideth in her father's house. <chapter eID="gen4793" osisID="Num.30"/>
+These are the laws which the Lord appointed to Moses between the husband and the wife, between the father and the daughter that is as yet but a girl in age, or that abideth in her father's house. 
 
 ** Numbers 31
 
@@ -4514,7 +4514,7 @@ For that which every one had taken in the booty was his own.
 
 *** Numbers 31:54
 
-And that which was received they brought into the tabernacle of the testimony, for a memorial of the children of Israel before the Lord. <chapter eID="gen4811" osisID="Num.31"/>
+And that which was received they brought into the tabernacle of the testimony, for a memorial of the children of Israel before the Lord. 
 
 ** Numbers 32
 
@@ -4684,7 +4684,7 @@ And Jair the son of Manasses went, and took the villages thereof, and he called 
 
 *** Numbers 32:42
 
-Nobe also went, and took Canath with the villages thereof: and he called it by his own name, Nobe. <chapter eID="gen4866" osisID="Num.32"/>
+Nobe also went, and took Canath with the villages thereof: and he called it by his own name, Nobe. 
 
 ** Numbers 33
 
@@ -4910,7 +4910,7 @@ But if you will not kill the inhabitants of the land: they that remain, shall be
 
 *** Numbers 33:56
 
-And whatsoever I had thought to do to them, I will do to you. <chapter eID="gen4909" osisID="Num.33"/>
+And whatsoever I had thought to do to them, I will do to you. 
 
 ** Numbers 34
 
@@ -5028,7 +5028,7 @@ Of the tribe of Nephtali: Phedael the son of Ammiud.
 
 *** Numbers 34:29
 
-These are they Whom the Lord hath commanded to divide the land of Chanaan to the children of Israel. <chapter eID="gen4966" osisID="Num.34"/>
+These are they Whom the Lord hath commanded to divide the land of Chanaan to the children of Israel. 
 
 ** Numbers 35
 
@@ -5166,7 +5166,7 @@ Defile not the land of your habitation, which is stained with the blood of the i
 
 *** Numbers 35:34
 
-And thus shall your possession be cleansed, myself abiding with you. For I am the Lord that dwell among the children of Israel. <chapter eID="gen4996" osisID="Num.35"/>
+And thus shall your possession be cleansed, myself abiding with you. For I am the Lord that dwell among the children of Israel. 
 
 ** Numbers 36
 
@@ -5220,4 +5220,4 @@ Of the family of Manasses, who was the son of Joseph: and the possession that ha
 
 *** Numbers 36:13
 
-These are the commandments and judgment, which the Lord commanded by the hand of Moses to the children of Israel, in the plains of Moab upon the Jordan over against Jericho. <chapter eID="gen5031" osisID="Num.36"/> <div eID="gen3720" osisID="Num" type="book"/>
+These are the commandments and judgment, which the Lord commanded by the hand of Moses to the children of Israel, in the plains of Moab upon the Jordan over against Jericho.  

@@ -214,7 +214,7 @@ Duke Cenez, duke Theman, duke Mabsar,
 
 *** I Chronicles 1:54
 
-Duke Magdiel, duke Hiram. These are the dukes of Edom. <chapter eID="gen10600" osisID="1Chr.1"/>
+Duke Magdiel, duke Hiram. These are the dukes of Edom. 
 
 ** I Chronicles 2
 
@@ -436,7 +436,7 @@ The sons of Salma, Bethlehem, and Netophathi, the crowns of the house of Joab, a
 
 *** I Chronicles 2:55
 
-And the families of the scribes that dwell in Jabes, singing and making melody, and abiding in tents. These are the Cinites, who came of Calor (Chamath) father of the house of Rechab. <chapter eID="gen10655" osisID="1Chr.2"/>
+And the families of the scribes that dwell in Jabes, singing and making melody, and abiding in tents. These are the Cinites, who came of Calor (Chamath) father of the house of Rechab. 
 
 ** I Chronicles 3
 
@@ -534,7 +534,7 @@ The sons of Naaria, Elioenai, and Ezechias, and Ezricam, three.
 
 *** I Chronicles 3:24
 
-The sons of Elioenai, Oduia, and Eliasub, and Pheleia, and Accub, and Johanan, and Dalaia, and Anani, seven. <chapter eID="gen10711" osisID="1Chr.3"/>
+The sons of Elioenai, Oduia, and Eliasub, and Pheleia, and Accub, and Johanan, and Dalaia, and Anani, seven. 
 
 ** I Chronicles 4
 
@@ -708,7 +708,7 @@ Some also of the children of Simeon, five hundred men, went into mount Seir, hav
 
 *** I Chronicles 4:43
 
-And they slew the remnant of the Amalecites, who had been able to escape, and they dwelt there in their stead unto this day. <chapter eID="gen10736" osisID="1Chr.4"/>
+And they slew the remnant of the Amalecites, who had been able to escape, and they dwelt there in their stead unto this day. 
 
 ** I Chronicles 5
 
@@ -814,7 +814,7 @@ But they forsook the God of their fathers, and went astray after the gods of the
 
 *** I Chronicles 5:26
 
-And the God of Israel stirred up the spirit of Phul king of the Assyrians. and the spirit of Thelgathphalnasar king of Assur: and he carried away Ruben, and Gad, and the half tribe of Manasses, and brought them to Lahela, and to Habor, and to Ara, and to the river of Gozan, unto this day. <chapter eID="gen10780" osisID="1Chr.5"/>
+And the God of Israel stirred up the spirit of Phul king of the Assyrians. and the spirit of Thelgathphalnasar king of Assur: and he carried away Ruben, and Gad, and the half tribe of Manasses, and brought them to Lahela, and to Habor, and to Ara, and to the river of Gozan, unto this day. 
 
 ** I Chronicles 6
 
@@ -1140,7 +1140,7 @@ Moreover also out of the tribe of Gad, Ramoth in Galaad and its suburbs, and Man
 
 *** I Chronicles 6:81
 
-Hesebon also with its suburbs, and Jazer with its suburbs. <chapter eID="gen10807" osisID="1Chr.6"/>
+Hesebon also with its suburbs, and Jazer with its suburbs. 
 
 ** I Chronicles 7
 
@@ -1302,7 +1302,7 @@ And the sons of Olla: Aree, and Haniel, and Resia.
 
 *** I Chronicles 7:40
 
-All these were sons of Aser, heads of their families, choice and most valiant captains of captains: and the number of them that were of the age that was fit for war, was six and twenty thousand. <chapter eID="gen10889" osisID="1Chr.7"/>
+All these were sons of Aser, heads of their families, choice and most valiant captains of captains: and the number of them that were of the age that was fit for war, was six and twenty thousand. 
 
 ** I Chronicles 8
 
@@ -1464,7 +1464,7 @@ And the sons of Esec, his brother, were Ulam the firstborn, and Jehus the second
 
 *** I Chronicles 8:40
 
-And the sons of Ulam were most valiant men, and archers of great strength: and they had many sons and grandsons, even to a hundred and fifty. All these were children of Benjamin. <chapter eID="gen10930" osisID="1Chr.8"/>
+And the sons of Ulam were most valiant men, and archers of great strength: and they had many sons and grandsons, even to a hundred and fifty. All these were children of Benjamin. 
 
 ** I Chronicles 9
 
@@ -1642,7 +1642,7 @@ And Mosa begot Banaa: whose son Raphaia begot Elasa: of whom was born Asel.
 
 *** I Chronicles 9:44
 
-And Asel had six sons whose names are, Ezricam Bochru, Ismahel, Saria, Obdia, Hanan: these are the sons of Asel. <chapter eID="gen10971" osisID="1Chr.9"/>
+And Asel had six sons whose names are, Ezricam Bochru, Ismahel, Saria, Obdia, Hanan: these are the sons of Asel. 
 
 ** I Chronicles 10
 
@@ -1700,7 +1700,7 @@ So Saul died for his iniquities, because he transgressed the commandment of the 
 
 *** I Chronicles 10:14
 
-And trusted not in the Lord: therefore he slew him, and transferred his kingdom to David the son of Isai. <chapter eID="gen11016" osisID="1Chr.10"/>
+And trusted not in the Lord: therefore he slew him, and transferred his kingdom to David the son of Isai. 
 
 ** I Chronicles 11
 
@@ -1886,7 +1886,7 @@ Jedihel the son of Zamri, and Joha his brother a Thosaite,
 
 *** I Chronicles 11:46
 
-Eliel a Mahumite, and Jeribai, and Josaia the sons of Elnaim, and Jethma a Moabite, Eliel, and Obed, and Jasiel of Masobia. <chapter eID="gen11031" osisID="1Chr.11"/>
+Eliel a Mahumite, and Jeribai, and Josaia the sons of Elnaim, and Jethma a Moabite, Eliel, and Obed, and Jasiel of Masobia. 
 
 ** I Chronicles 12
 
@@ -2048,7 +2048,7 @@ And they were there with David three days eating and drinking: for their brethre
 
 *** I Chronicles 12:40
 
-Moreover they that were near them even as far as Issachar, and Zabulon, and Nephtali, brought loaves on asses, and on camels, and on mules, and on oxen, to eat: meal, figs, raisins, wine, oil, and oxen, and sheep in abundance, for there was joy in Israel. <chapter eID="gen11078" osisID="1Chr.12"/>
+Moreover they that were near them even as far as Issachar, and Zabulon, and Nephtali, brought loaves on asses, and on camels, and on mules, and on oxen, to eat: meal, figs, raisins, wine, oil, and oxen, and sheep in abundance, for there was joy in Israel. 
 
 ** I Chronicles 13
 
@@ -2106,7 +2106,7 @@ And therefore he brought it not home to himself, that is, into the city of David
 
 *** I Chronicles 13:14
 
-And the ark of God remained in the house of Obededom three months: and the Lord blessed his house, and all that he had. <chapter eID="gen11119" osisID="1Chr.13"/>
+And the ark of God remained in the house of Obededom three months: and the Lord blessed his house, and all that he had. 
 
 ** I Chronicles 14
 
@@ -2176,7 +2176,7 @@ And David did as God had commanded him, and defeated the army of the Philistines
 
 *** I Chronicles 14:17
 
-And the name of David became famous in all countries, and the Lord made all nations fear aim. <chapter eID="gen11134" osisID="1Chr.14"/>
+And the name of David became famous in all countries, and the Lord made all nations fear aim. 
 
 ** I Chronicles 15
 
@@ -2294,7 +2294,7 @@ And all Israel brought the ark of the covenant of the Lord with joyful shouting,
 
 *** I Chronicles 15:29
 
-And when the ark of the covenant of the Lord was come to the city of David, Michol the daughter of Saul looking out at a window, saw king David dancing and playing, and she despised him in her heart. <chapter eID="gen11152" osisID="1Chr.15"/>
+And when the ark of the covenant of the Lord was come to the city of David, Michol the daughter of Saul looking out at a window, saw king David dancing and playing, and she despised him in her heart. 
 
 ** I Chronicles 16
 
@@ -2468,7 +2468,7 @@ And Heman and Idithun sounded the trumpet, and played on the cymbals, and all ki
 
 *** I Chronicles 16:43
 
-And all the people returned to their houses: and David to bless also his own house. <chapter eID="gen11182" osisID="1Chr.16"/>
+And all the people returned to their houses: and David to bless also his own house. 
 
 ** I Chronicles 17
 
@@ -2578,7 +2578,7 @@ And now O Lord, thou art God: and thou hast promised to thy servant such great b
 
 *** I Chronicles 17:27
 
-And thou hast begun to bless the house of thy servant, that it may be always before thee: for seeing thou blessest it, O Lord, it shall be blessed for ever. <chapter eID="gen11226" osisID="1Chr.17"/>
+And thou hast begun to bless the house of thy servant, that it may be always before thee: for seeing thou blessest it, O Lord, it shall be blessed for ever. 
 
 ** I Chronicles 18
 
@@ -2648,7 +2648,7 @@ And Sadoc the son of Achitob, and Achimelech the son of Abiathar, were the pries
 
 *** I Chronicles 18:17
 
-And Banaias the son of Joiada was over the bands of the Cerethi, and the Phelethi: and the sons of David were chief about the king. <chapter eID="gen11254" osisID="1Chr.18"/>
+And Banaias the son of Joiada was over the bands of the Cerethi, and the Phelethi: and the sons of David were chief about the king. 
 
 ** I Chronicles 19
 
@@ -2726,7 +2726,7 @@ But the Syrian fled before Israel: and David slew of the Syrians seven thousand 
 
 *** I Chronicles 19:19
 
-And when the servants of Adarezer saw themselves overcome by Israel, they went over to David, and served him: and Syria would not help the children of Ammon any more. <chapter eID="gen11272" osisID="1Chr.19"/>
+And when the servants of Adarezer saw themselves overcome by Israel, they went over to David, and served him: and Syria would not help the children of Ammon any more. 
 
 ** I Chronicles 20
 
@@ -2756,7 +2756,7 @@ There was another battle also in Geth, in which there was a man of great stature
 
 *** I Chronicles 20:7
 
-He reviled Israel: but Jonathan the son of Samaa the brother of David slew him. These were the sons of Rapha in Geth, who fell by the hand of David and his servants. <chapter eID="gen11292" osisID="1Chr.20"/>
+He reviled Israel: but Jonathan the son of Samaa the brother of David slew him. These were the sons of Rapha in Geth, who fell by the hand of David and his servants. 
 
 ** I Chronicles 21
 
@@ -2878,7 +2878,7 @@ But the tabernacle of the Lord, which Moses made in the desert, and the altar of
 
 *** I Chronicles 21:30
 
-And David could not go to the altar there to pray to God: for he was seized with an exceeding great fear, seeing the sword of the angel of the Lord. <chapter eID="gen11300" osisID="1Chr.21"/>
+And David could not go to the altar there to pray to God: for he was seized with an exceeding great fear, seeing the sword of the angel of the Lord. 
 
 ** I Chronicles 22
 
@@ -2956,7 +2956,7 @@ Saying: You see, that the Lord your God is with you, and hath given you rest rou
 
 *** I Chronicles 22:19
 
-Give therefore your hearts and your souls, to seek the Lord your God and arise, and build a sanctuary to the Lord God, that the ark of the covenant of the Lord, and the vessels consecrated to the Lord, may be brought into the house, which is built to the name of the Lord. <chapter eID="gen11331" osisID="1Chr.22"/>
+Give therefore your hearts and your souls, to seek the Lord your God and arise, and build a sanctuary to the Lord God, that the ark of the covenant of the Lord, and the vessels consecrated to the Lord, may be brought into the house, which is built to the name of the Lord. 
 
 ** I Chronicles 23
 
@@ -3086,7 +3086,7 @@ As well in the oblation of the holocausts of the Lord, as in the sabbaths and in
 
 *** I Chronicles 23:32
 
-And let them keep the observances of the tabernacle of the covenant, and the ceremonies of the sanctuary, and the charge of the sons of Aaron their brethren, that they may minister in the house of the Lord. <chapter eID="gen11351" osisID="1Chr.23"/>
+And let them keep the observances of the tabernacle of the covenant, and the ceremonies of the sanctuary, and the charge of the sons of Aaron their brethren, that they may minister in the house of the Lord. 
 
 ** I Chronicles 24
 
@@ -3212,7 +3212,7 @@ The sons of Musi: Moholi, Eder, and Jerimoth. These are the sons of Levi accordi
 
 *** I Chronicles 24:31
 
-And they also cast lots over against their brethren the sons of Aaron before David the king, and Sadoc, and Ahimelech, and the princes of the priestly and Levitical families, both the elder and the younger. The lot divided all equally. <chapter eID="gen11384" osisID="1Chr.24"/>
+And they also cast lots over against their brethren the sons of Aaron before David the king, and Sadoc, and Ahimelech, and the princes of the priestly and Levitical families, both the elder and the younger. The lot divided all equally. 
 
 ** I Chronicles 25
 
@@ -3338,7 +3338,7 @@ The three and twentieth to Mahazioth, to his sons and his brethren twelve.
 
 *** I Chronicles 25:31
 
-The four and twentieth to Romemthiezer, to his sons and his brethren twelve. <chapter eID="gen11416" osisID="1Chr.25"/>
+The four and twentieth to Romemthiezer, to his sons and his brethren twelve. 
 
 ** I Chronicles 26
 
@@ -3468,7 +3468,7 @@ And the chief of the Hebronites was Jeria according to their families and kindre
 
 *** I Chronicles 26:32
 
-And his brethren of stronger age, two thousand seven hundred chiefs of families. And king David made them rulers over the Rubenites and the Gadites, and the half tribe of Manasses, for all the service of God, and the king. <chapter eID="gen11448" osisID="1Chr.26"/>
+And his brethren of stronger age, two thousand seven hundred chiefs of families. And king David made them rulers over the Rubenites and the Gadites, and the half tribe of Manasses, for all the service of God, and the king. 
 
 ** I Chronicles 27
 
@@ -3606,7 +3606,7 @@ And Achitophel was the king's counsellor, and Chusai the Arachite, the king's fr
 
 *** I Chronicles 27:34
 
-And after Achitophel was Joiada the son of Banaias, and Abiathar. And the general of the king's army was Joab. <chapter eID="gen11481" osisID="1Chr.27"/>
+And after Achitophel was Joiada the son of Banaias, and Abiathar. And the general of the king's army was Joab. 
 
 ** I Chronicles 28
 
@@ -3692,7 +3692,7 @@ And David said to Solomon his son: Act like a man, and take courage, and do: fea
 
 *** I Chronicles 28:21
 
-Behold the courses of the priests and the Levites, for every ministry of the house of the Lord, stand by thee, and are ready, and both the princes, and the people know how to execute all thy commandments. <chapter eID="gen11516" osisID="1Chr.28"/>
+Behold the courses of the priests and the Levites, for every ministry of the house of the Lord, stand by thee, and are ready, and both the princes, and the people know how to execute all thy commandments. 
 
 ** I Chronicles 29
 
@@ -3814,4 +3814,4 @@ Now the acts of king David first and last are written in the book of Samuel the 
 
 *** I Chronicles 29:30
 
-And of all his reign, and his valour, and of the times that passed under him, either in Israel, or in all the kingdoms of the countries. <chapter eID="gen11538" osisID="1Chr.29"/> <div eID="gen10599" osisID="1Chr" type="book"/>
+And of all his reign, and his valour, and of the times that passed under him, either in Israel, or in all the kingdoms of the countries.  

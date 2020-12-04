@@ -38,7 +38,7 @@ If we confess our sins, he is faithful and just, to forgive us our sins and to c
 
 *** I John 1:10
 
-If we say that we have not sinned, we make him a liar: and his word is not in us. <chapter eID="gen36627" osisID="1John.1"/>
+If we say that we have not sinned, we make him a liar: and his word is not in us. 
 
 ** I John 2
 
@@ -156,7 +156,7 @@ And now, little children, abide in him, that when he shall appear we may have co
 
 *** I John 2:29
 
-If you know that he is just, know ye, that every one also who doth justice is born of him. <chapter eID="gen36638" osisID="1John.2"/>
+If you know that he is just, know ye, that every one also who doth justice is born of him. 
 
 ** I John 3
 
@@ -254,7 +254,7 @@ And this is his commandment: That we should believe in the name of his Son Jesus
 
 *** I John 3:24
 
-And he that keepeth his commandments abideth in him, and he in him. And in this we know that he abideth in us by the Spirit which he hath given us. <chapter eID="gen36668" osisID="1John.3"/>
+And he that keepeth his commandments abideth in him, and he in him. And in this we know that he abideth in us by the Spirit which he hath given us. 
 
 ** I John 4
 
@@ -340,7 +340,7 @@ If any man say: I love God, and hateth his brother; he is a liar. For he that lo
 
 *** I John 4:21
 
-And this commandment we have from God, that he who loveth God love also his brother. <chapter eID="gen36693" osisID="1John.4"/>
+And this commandment we have from God, that he who loveth God love also his brother. 
 
 ** I John 5
 
@@ -426,4 +426,4 @@ And we know that the Son of God is come. And he hath given us understanding that
 
 *** I John 5:21
 
-Little children, keep yourselves from idols. Amen. <chapter eID="gen36715" osisID="1John.5"/> <div eID="gen36626" osisID="1John" type="book"/>
+Little children, keep yourselves from idols. Amen.  

@@ -14,7 +14,7 @@ visum est et mihi, assecuto omnia a principio diligenter, ex ordine tibi scriber
 
 ** Luke 1:4
 
-ut cognoscas eorum verborum, de quibus eruditus es, veritatem.  <div eID="gen32328" type="x-p"/>
+ut cognoscas eorum verborum, de quibus eruditus es, veritatem.  
 
 ** Luke 1:5
 
@@ -98,7 +98,7 @@ post hos autem dies concepit Elisabeth uxor ejus, et occultabat se mensibus quin
 
 ** Luke 1:25
 
-Quia sic fecit mihi Dominus in diebus, quibus respexit auferre opprobrium meum inter homines.  <div eID="gen32329" type="x-p"/>
+Quia sic fecit mihi Dominus in diebus, quibus respexit auferre opprobrium meum inter homines.  
 
 ** Luke 1:26
 
@@ -150,7 +150,7 @@ quia non erit impossibile apud Deum omne verbum.
 
 ** Luke 1:38
 
-Dixit autem Maria : Ecce ancilla Domini : fiat mihi secundum verbum tuum. Et discessit ab illa angelus.  <div eID="gen32330" type="x-p"/>
+Dixit autem Maria : Ecce ancilla Domini : fiat mihi secundum verbum tuum. Et discessit ab illa angelus.  
 
 ** Luke 1:39
 
@@ -182,47 +182,47 @@ Et beata, quæ credidisti, quoniam perficientur ea, quæ dicta sunt tibi a Domin
 
 ** Luke 1:46
 
-Et ait Maria : <div eID="gen32331" type="x-p"/> <lg sID="gen32332"/> <l level="1" sID="gen32333"/>Magnificat anima mea Dominum : <l eID="gen32333" level="1"/>
+Et ait Maria :   Magnificat anima mea Dominum : 
 
 ** Luke 1:47
 
-et exsultavit spiritus meus in Deo salutari meo. <l eID="gen32334" level="1"/>
+et exsultavit spiritus meus in Deo salutari meo. 
 
 ** Luke 1:48
 
-Quia respexit humilitatem ancillæ suæ : <l eID="gen32335" level="1"/> <l level="1" sID="gen32336"/>ecce enim ex hoc beatam me dicent omnes generationes, <l eID="gen32336" level="1"/>
+Quia respexit humilitatem ancillæ suæ :  ecce enim ex hoc beatam me dicent omnes generationes, 
 
 ** Luke 1:49
 
-quia fecit mihi magna qui potens est : <l eID="gen32337" level="1"/> <l level="1" sID="gen32338"/>et sanctum nomen ejus, <l eID="gen32338" level="1"/>
+quia fecit mihi magna qui potens est :  et sanctum nomen ejus, 
 
 ** Luke 1:50
 
-et misericordia ejus a progenie in progenies <l eID="gen32339" level="1"/> <l level="1" sID="gen32340"/>timentibus eum. <l eID="gen32340" level="1"/>
+et misericordia ejus a progenie in progenies  timentibus eum. 
 
 ** Luke 1:51
 
-Fecit potentiam in brachio suo : <l eID="gen32341" level="1"/> <l level="1" sID="gen32342"/>dispersit superbos mente cordis sui. <l eID="gen32342" level="1"/>
+Fecit potentiam in brachio suo :  dispersit superbos mente cordis sui. 
 
 ** Luke 1:52
 
-Deposuit potentes de sede, <l eID="gen32343" level="1"/> <l level="1" sID="gen32344"/>et exaltavit humiles. <l eID="gen32344" level="1"/>
+Deposuit potentes de sede,  et exaltavit humiles. 
 
 ** Luke 1:53
 
-Esurientes implevit bonis : <l eID="gen32345" level="1"/> <l level="1" sID="gen32346"/>et divites dimisit inanes. <l eID="gen32346" level="1"/>
+Esurientes implevit bonis :  et divites dimisit inanes. 
 
 ** Luke 1:54
 
-Suscepit Israël puerum suum, <l eID="gen32347" level="1"/> <l level="1" sID="gen32348"/>recordatus misericordiæ suæ : <l eID="gen32348" level="1"/>
+Suscepit Israël puerum suum,  recordatus misericordiæ suæ : 
 
 ** Luke 1:55
 
-sicut locutus est ad patres nostros, <l eID="gen32349" level="1"/> <l level="1" sID="gen32350"/>Abraham et semini ejus in sæcula.
+sicut locutus est ad patres nostros,  Abraham et semini ejus in sæcula.
 
 ** Luke 1:56
 
-Mansit autem Maria cum illa quasi mensibus tribus : et reversa est in domum suam. <l eID="gen32350" level="1"/> <lg eID="gen32332"/>
+Mansit autem Maria cum illa quasi mensibus tribus : et reversa est in domum suam.  
 
 ** Luke 1:57
 
@@ -266,59 +266,59 @@ et posuerunt omnes qui audierant in corde suo, dicentes : Quis, putas, puer iste
 
 ** Luke 1:67
 
-Et Zacharias pater ejus repletus est Spiritu Sancto : et prophetavit, dicens :  <div eID="gen32351" type="x-p"/>
+Et Zacharias pater ejus repletus est Spiritu Sancto : et prophetavit, dicens :  
 
 ** Luke 1:68
 
-Benedictus Dominus Deus Israël, <l eID="gen32353" level="1"/> <l level="1" sID="gen32354"/>quia visitavit, et fecit redemptionem plebis suæ : <l eID="gen32354" level="1"/>
+Benedictus Dominus Deus Israël,  quia visitavit, et fecit redemptionem plebis suæ : 
 
 ** Luke 1:69
 
-et erexit cornu salutis nobis <l eID="gen32355" level="1"/> <l level="1" sID="gen32356"/>in domo David pueri sui, <l eID="gen32356" level="1"/>
+et erexit cornu salutis nobis  in domo David pueri sui, 
 
 ** Luke 1:70
 
-sicut locutus est per os sanctorum, <l eID="gen32357" level="1"/> <l level="1" sID="gen32358"/>qui a sæculo sunt, prophetarum ejus : <l eID="gen32358" level="1"/>
+sicut locutus est per os sanctorum,  qui a sæculo sunt, prophetarum ejus : 
 
 ** Luke 1:71
 
-salutem ex inimicis nostris, <l eID="gen32359" level="1"/> <l level="1" sID="gen32360"/>et de manu omnium qui oderunt nos : <l eID="gen32360" level="1"/>
+salutem ex inimicis nostris,  et de manu omnium qui oderunt nos : 
 
 ** Luke 1:72
 
-ad faciendam misericordiam cum patribus nostris : <l eID="gen32361" level="1"/> <l level="1" sID="gen32362"/>et memorari testamenti sui sancti : <l eID="gen32362" level="1"/>
+ad faciendam misericordiam cum patribus nostris :  et memorari testamenti sui sancti : 
 
 ** Luke 1:73
 
-jusjurandum, quod juravit ad Abraham patrem nostrum, <l eID="gen32363" level="1"/> <l level="1" sID="gen32364"/>daturum se nobis <l eID="gen32364" level="1"/>
+jusjurandum, quod juravit ad Abraham patrem nostrum,  daturum se nobis 
 
 ** Luke 1:74
 
-ut sine timore, de manu inimicorum nostrorum liberati, <l eID="gen32365" level="1"/> <l level="1" sID="gen32366"/>serviamus illi <l eID="gen32366" level="1"/>
+ut sine timore, de manu inimicorum nostrorum liberati,  serviamus illi 
 
 ** Luke 1:75
 
-in sanctitate et justitia coram ipso, <l eID="gen32367" level="1"/> <l level="1" sID="gen32368"/>omnibus diebus nostris. <l eID="gen32368" level="1"/>
+in sanctitate et justitia coram ipso,  omnibus diebus nostris. 
 
 ** Luke 1:76
 
-Et tu puer, propheta Altissimi vocaberis : <l eID="gen32369" level="1"/> <l level="1" sID="gen32370"/>præibis enim ante faciem Domini parare vias ejus, <l eID="gen32370" level="1"/>
+Et tu puer, propheta Altissimi vocaberis :  præibis enim ante faciem Domini parare vias ejus, 
 
 ** Luke 1:77
 
-ad dandam scientiam salutis plebi ejus <l eID="gen32371" level="1"/> <l level="1" sID="gen32372"/>in remissionem peccatorum eorum <l eID="gen32372" level="1"/>
+ad dandam scientiam salutis plebi ejus  in remissionem peccatorum eorum 
 
 ** Luke 1:78
 
-per viscera misericordiæ Dei nostri, <l eID="gen32373" level="1"/> <l level="1" sID="gen32374"/>in quibus visitavit nos, oriens ex alto : <l eID="gen32374" level="1"/>
+per viscera misericordiæ Dei nostri,  in quibus visitavit nos, oriens ex alto : 
 
 ** Luke 1:79
 
-illuminare his qui in tenebris et in umbra mortis sedent : <l eID="gen32375" level="1"/> <l level="1" sID="gen32376"/>ad dirigendos pedes nostros in viam pacis.
+illuminare his qui in tenebris et in umbra mortis sedent :  ad dirigendos pedes nostros in viam pacis.
 
 ** Luke 1:80
 
-Puer autem crescebat, et confortabatur spiritu : et erat in desertis usque in diem ostensionis suæ ad Israël. <l eID="gen32376" level="1"/><lg eID="gen32352"/> <chapter eID="Luke.1"/>
+Puer autem crescebat, et confortabatur spiritu : et erat in desertis usque in diem ostensionis suæ ad Israël.  
 
 * Luke 2
 
@@ -372,11 +372,11 @@ Et hoc vobis signum : invenietis infantem pannis involutum, et positum in præse
 
 ** Luke 2:13
 
-Et subito facta est cum angelo multitudo militiæ cælestis laudantium Deum, et dicentium :  <div eID="gen32377" type="x-p"/>
+Et subito facta est cum angelo multitudo militiæ cælestis laudantium Deum, et dicentium :  
 
 ** Luke 2:14
 
-Gloria in altissimis Deo, <l eID="gen32379" level="1"/> <l level="1" sID="gen32380"/>et in terra pax hominibus bonæ voluntatis.
+Gloria in altissimis Deo,  et in terra pax hominibus bonæ voluntatis.
 
 ** Luke 2:15
 
@@ -400,7 +400,7 @@ Maria autem conservabat omnia verba hæc, conferens in corde suo.
 
 ** Luke 2:20
 
-Et reversi sunt pastores glorificantes et laudantes Deum in omnibus quæ audierant et viderant, sicut dictum est ad illos. <l eID="gen32380" level="1"/> <lg eID="gen32378"/>
+Et reversi sunt pastores glorificantes et laudantes Deum in omnibus quæ audierant et viderant, sicut dictum est ad illos.  
 
 ** Luke 2:21
 
@@ -432,23 +432,23 @@ Et venit in spiritu in templum. Et cum inducerent puerum Jesum parentes ejus, ut
 
 ** Luke 2:28
 
-et ipse accepit eum in ulnas suas : et benedixit Deum, et dixit :  <div eID="gen32381" type="x-p"/>
+et ipse accepit eum in ulnas suas : et benedixit Deum, et dixit :  
 
 ** Luke 2:29
 
-Nunc dimittis servum tuum Domine, <l eID="gen32383" level="1"/> <l level="1" sID="gen32384"/>secundum verbum tuum in pace : <l eID="gen32384" level="1"/>
+Nunc dimittis servum tuum Domine,  secundum verbum tuum in pace : 
 
 ** Luke 2:30
 
-quia viderunt oculi mei salutare tuum, <l eID="gen32385" level="1"/>
+quia viderunt oculi mei salutare tuum, 
 
 ** Luke 2:31
 
-quod parasti ante faciem omnium populorum : <l eID="gen32386" level="1"/>
+quod parasti ante faciem omnium populorum : 
 
 ** Luke 2:32
 
-lumen ad revelationem gentium, <l eID="gen32387" level="1"/> <l level="1" sID="gen32388"/>et gloriam plebis tuæ Israël.
+lumen ad revelationem gentium,  et gloriam plebis tuæ Israël.
 
 ** Luke 2:33
 
@@ -476,7 +476,7 @@ Et hæc, ipsa hora superveniens, confitebatur Domino : et loquebatur de illo omn
 
 ** Luke 2:39
 
-Et ut perfecerunt omnia secundum legem Domini, reversi sunt in Galilæam in civitatem suam Nazareth. <l eID="gen32388" level="1"/> <lg eID="gen32382"/>
+Et ut perfecerunt omnia secundum legem Domini, reversi sunt in Galilæam in civitatem suam Nazareth.  
 
 ** Luke 2:40
 
@@ -528,7 +528,7 @@ Et descendit cum eis, et venit Nazareth : et erat subditus illis. Et mater ejus 
 
 ** Luke 2:52
 
-Et Jesus proficiebat sapientia, et ætate, et gratia apud Deum et homines.  <chapter eID="Luke.2"/> <div eID="gen32389" type="x-p"/>
+Et Jesus proficiebat sapientia, et ætate, et gratia apud Deum et homines.   
 
 * Luke 3
 
@@ -546,11 +546,11 @@ Et venit in omnem regionem Jordanis, prædicans baptismum pœnitentiæ in remiss
 
 ** Luke 3:4
 
-sicut scriptum est in libro sermonum Isaiæ prophetæ : <div eID="gen32390" type="x-p"/> <lg sID="gen32391"/> <l level="1" sID="gen32392"/>Vox clamantis in deserto : <l eID="gen32392" level="1"/> <l level="1" sID="gen32393"/>Parate viam Domini ; rectas facite semitas ejus : <l eID="gen32393" level="1"/>
+sicut scriptum est in libro sermonum Isaiæ prophetæ :   Vox clamantis in deserto :  Parate viam Domini ; rectas facite semitas ejus : 
 
 ** Luke 3:5
 
-omnis vallis implebitur, <l eID="gen32394" level="1"/> <l level="1" sID="gen32395"/>et omnis mons, et collis humiliabitur : <l eID="gen32395" level="1"/> <l level="1" sID="gen32396"/>et erunt prava in directa, et aspera in vias planas : <l eID="gen32396" level="1"/>
+omnis vallis implebitur,  et omnis mons, et collis humiliabitur :  et erunt prava in directa, et aspera in vias planas : 
 
 ** Luke 3:6
 
@@ -602,7 +602,7 @@ cujus ventilabrum in manu ejus, et purgabit aream suam, et congregabit triticum 
 
 ** Luke 3:18
 
-Multa quidem et alia exhortans evangelizabat populo. <l eID="gen32397" level="1"/> <lg eID="gen32391"/>
+Multa quidem et alia exhortans evangelizabat populo.  
 
 ** Luke 3:19
 
@@ -610,7 +610,7 @@ Herodes autem tetrarcha cum corriperetur ab illo de Herodiade uxore fratris sui,
 
 ** Luke 3:20
 
-adjecit et hoc super omnia, et inclusit Joannem in carcere.  <div eID="gen32398" type="x-p"/>
+adjecit et hoc super omnia, et inclusit Joannem in carcere.  
 
 ** Luke 3:21
 
@@ -682,7 +682,7 @@ qui fuit Methusale, qui fuit Henoch, qui fuit Jared, qui fuit Malaleel, qui fuit
 
 ** Luke 3:38
 
-qui fuit Henos, qui fuit Seth, qui fuit Adam, qui fuit Dei.  <chapter eID="Luke.3"/> <div eID="gen32399" type="x-p"/>
+qui fuit Henos, qui fuit Seth, qui fuit Adam, qui fuit Dei.   
 
 * Luke 4
 
@@ -736,7 +736,7 @@ Et respondens Jesus, ait illi : Dictum est : Non tentabis Dominum Deum tuum.
 
 ** Luke 4:13
 
-Et consummata omni tentatione, diabolus recessit ab illo, usque ad tempus.  <div eID="gen32400" type="x-p"/>
+Et consummata omni tentatione, diabolus recessit ab illo, usque ad tempus.  
 
 ** Luke 4:14
 
@@ -804,7 +804,7 @@ Et surrexerunt, et ejecerunt illum extra civitatem : et duxerunt illum usque ad 
 
 ** Luke 4:30
 
-Ipse autem transiens per medium illorum, ibat.  <div eID="gen32401" type="x-p"/>
+Ipse autem transiens per medium illorum, ibat.  
 
 ** Luke 4:31
 
@@ -832,7 +832,7 @@ Et factus est pavor in omnibus, et colloquebantur ad invicem, dicentes : Quod es
 
 ** Luke 4:37
 
-Et divulgabatur fama de illo in omnem locum regionis.  <div eID="gen32402" type="x-p"/>
+Et divulgabatur fama de illo in omnem locum regionis.  
 
 ** Luke 4:38
 
@@ -848,7 +848,7 @@ Cum autem sol occidisset, omnes qui habebant infirmos variis languoribus, duceba
 
 ** Luke 4:41
 
-Exibant autem dæmonia a multis clamantia, et dicentia : Quia tu es Filius Dei : et increpans non sinebat ea loqui : quia sciebant ipsum esse Christum.  <div eID="gen32403" type="x-p"/>
+Exibant autem dæmonia a multis clamantia, et dicentia : Quia tu es Filius Dei : et increpans non sinebat ea loqui : quia sciebant ipsum esse Christum.  
 
 ** Luke 4:42
 
@@ -860,7 +860,7 @@ Quibus ille ait : Quia et aliis civitatibus oportet me evangelizare regnum Dei :
 
 ** Luke 4:44
 
-Et erat prædicans in synagogis Galilææ.  <chapter eID="Luke.4"/> <div eID="gen32404" type="x-p"/>
+Et erat prædicans in synagogis Galilææ.   
 
 * Luke 5
 
@@ -874,7 +874,7 @@ Et vidit duas naves stantes secus stagnum : piscatores autem descenderant, et la
 
 ** Luke 5:3
 
-Ascendens autem in unam navim, quæ erat Simonis, rogavit eum a terra reducere pusillum. Et sedens docebat de navicula turbas.  <div eID="gen32405" type="x-p"/>
+Ascendens autem in unam navim, quæ erat Simonis, rogavit eum a terra reducere pusillum. Et sedens docebat de navicula turbas.  
 
 ** Luke 5:4
 
@@ -906,7 +906,7 @@ similiter autem Jacobum et Joannem, filios Zebedæi, qui erant socii Simonis. Et
 
 ** Luke 5:11
 
-Et subductis ad terram navibus, relictis omnibus, secuti sunt eum.  <div eID="gen32406" type="x-p"/>
+Et subductis ad terram navibus, relictis omnibus, secuti sunt eum.  
 
 ** Luke 5:12
 
@@ -926,7 +926,7 @@ Perambulabat autem magis sermo de illo : et conveniebant turbæ multæ ut audire
 
 ** Luke 5:16
 
-Ipse autem secedebat in desertum, et orabat.  <div eID="gen32407" type="x-p"/>
+Ipse autem secedebat in desertum, et orabat.  
 
 ** Luke 5:17
 
@@ -966,7 +966,7 @@ Et confestim consurgens coram illis, tulit lectum in quo jacebat : et abiit in d
 
 ** Luke 5:26
 
-Et stupor apprehendit omnes, et magnificabant Deum. Et repleti sunt timore, dicentes : Quia vidimus mirabilia hodie.  <div eID="gen32408" type="x-p"/>
+Et stupor apprehendit omnes, et magnificabant Deum. Et repleti sunt timore, dicentes : Quia vidimus mirabilia hodie.  
 
 ** Luke 5:27
 
@@ -990,7 +990,7 @@ Et respondens Jesus, dixit ad illos : Non egent qui sani sunt medico, sed qui ma
 
 ** Luke 5:32
 
-Non veni vocare justos, sed peccatores ad pœnitentiam.  <div eID="gen32409" type="x-p"/>
+Non veni vocare justos, sed peccatores ad pœnitentiam.  
 
 ** Luke 5:33
 
@@ -1018,7 +1018,7 @@ sed vinum novum in utres novos mittendum est, et utraque conservantur.
 
 ** Luke 5:39
 
-Et nemo bibens vetus, statim vult novum : dicit enim : Vetus melius est.  <chapter eID="Luke.5"/> <div eID="gen32410" type="x-p"/>
+Et nemo bibens vetus, statim vult novum : dicit enim : Vetus melius est.   
 
 * Luke 6
 
@@ -1040,7 +1040,7 @@ quomodo intravit in domum Dei, et panes propositionis sumpsit, et manducavit, et
 
 ** Luke 6:5
 
-Et dicebat illis : Quia dominus est Filius hominis etiam sabbati.  <div eID="gen32411" type="x-p"/>
+Et dicebat illis : Quia dominus est Filius hominis etiam sabbati.  
 
 ** Luke 6:6
 
@@ -1064,7 +1064,7 @@ Et circumspectis omnibus dixit homini : Extende manum tuam. Et extendit : et res
 
 ** Luke 6:11
 
-Ipsi autem repleti sunt insipientia, et colloquebantur ad invicem, quidnam facerent Jesu.  <div eID="gen32412" type="x-p"/>
+Ipsi autem repleti sunt insipientia, et colloquebantur ad invicem, quidnam facerent Jesu.  
 
 ** Luke 6:12
 
@@ -1096,7 +1096,7 @@ qui venerant ut audirent eum, et sanarentur a languoribus suis. Et qui vexabantu
 
 ** Luke 6:19
 
-Et omnis turba quærebat eum tangere : quia virtus de illo exibat, et sanabat omnes.  <div eID="gen32413" type="x-p"/>
+Et omnis turba quærebat eum tangere : quia virtus de illo exibat, et sanabat omnes.  
 
 ** Luke 6:20
 
@@ -1124,7 +1124,7 @@ Væ vobis, qui saturati estis : quia esurietis. Væ vobis, qui ridetis nunc : qu
 
 ** Luke 6:26
 
-Væ cum benedixerint vobis homines : secundum hæc enim faciebant pseudoprophetis patres eorum.  <div eID="gen32414" type="x-p"/>
+Væ cum benedixerint vobis homines : secundum hæc enim faciebant pseudoprophetis patres eorum.  
 
 ** Luke 6:27
 
@@ -1164,7 +1164,7 @@ Verumtamen diligite inimicos vestros : benefacite, et mutuum date, nihil inde sp
 
 ** Luke 6:36
 
-Estote ergo misericordes sicut et Pater vester misericors est.  <div eID="gen32415" type="x-p"/>
+Estote ergo misericordes sicut et Pater vester misericors est.  
 
 ** Luke 6:37
 
@@ -1204,7 +1204,7 @@ Bonus homo de bono thesauro cordis sui profert bonum : et malus homo de malo the
 
 ** Luke 6:46
 
-Quid autem vocatis me Domine, Domine : et non facitis quæ dico ?  <div eID="gen32416" type="x-p"/>
+Quid autem vocatis me Domine, Domine : et non facitis quæ dico ?  
 
 ** Luke 6:47
 
@@ -1216,7 +1216,7 @@ similis est homini ædificanti domum, qui fodit in altum, et posuit fundamentum 
 
 ** Luke 6:49
 
-Qui autem audit, et non facit, similis est homini ædificanti domum suam super terram sine fundamento : in quam illisus est fluvius, et continuo cecidit : et facta est ruina domus illius magna.  <chapter eID="Luke.6"/> <div eID="gen32417" type="x-p"/>
+Qui autem audit, et non facit, similis est homini ædificanti domum suam super terram sine fundamento : in quam illisus est fluvius, et continuo cecidit : et facta est ruina domus illius magna.   
 
 * Luke 7
 
@@ -1258,7 +1258,7 @@ Quo audito Jesus miratus est : et conversus sequentibus se turbis, dixit : Amen 
 
 ** Luke 7:10
 
-Et reversi, qui missi fuerant, domum, invenerunt servum, qui languerat, sanum.  <div eID="gen32418" type="x-p"/>
+Et reversi, qui missi fuerant, domum, invenerunt servum, qui languerat, sanum.  
 
 ** Luke 7:11
 
@@ -1286,7 +1286,7 @@ Accepit autem omnes timor : et magnificabant Deum, dicentes : Quia propheta magn
 
 ** Luke 7:17
 
-Et exiit hic sermo in universam Judæam de eo, et in omnem circa regionem.  <div eID="gen32419" type="x-p"/>
+Et exiit hic sermo in universam Judæam de eo, et in omnem circa regionem.  
 
 ** Luke 7:18
 
@@ -1310,7 +1310,7 @@ Et respondens, dixit illis : Euntes renuntiate Joanni quæ audistis et vidistis 
 
 ** Luke 7:23
 
-et beatus est quicumque non fuerit scandalizatus in me.  <div eID="gen32420" type="x-p"/>
+et beatus est quicumque non fuerit scandalizatus in me.  
 
 ** Luke 7:24
 
@@ -1330,7 +1330,7 @@ hic est, de quo scriptum est : Ecce mitto angelum meum ante faciem tuam, qui pr�
 
 ** Luke 7:28
 
-Dico enim vobis : major inter natos mulierum propheta Joanne Baptista nemo est : qui autem minor est in regno Dei, major est illo.  <div eID="gen32421" type="x-p"/>
+Dico enim vobis : major inter natos mulierum propheta Joanne Baptista nemo est : qui autem minor est in regno Dei, major est illo.  
 
 ** Luke 7:29
 
@@ -1358,7 +1358,7 @@ Venit Filius hominis manducans, et bibens, et dicitis : Ecce homo devorator, et 
 
 ** Luke 7:35
 
-Et justificata est sapientia ab omnibus filiis suis.  <div eID="gen32422" type="x-p"/>
+Et justificata est sapientia ab omnibus filiis suis.  
 
 ** Luke 7:36
 
@@ -1418,7 +1418,7 @@ Et cœperunt qui simul accumbebant, dicere intra se : Quis est hic qui etiam pec
 
 ** Luke 7:50
 
-Dixit autem ad mulierem : Fides tua te salvam fecit : vade in pace.  <chapter eID="Luke.7"/> <div eID="gen32423" type="x-p"/>
+Dixit autem ad mulierem : Fides tua te salvam fecit : vade in pace.   
 
 * Luke 8
 
@@ -1432,7 +1432,7 @@ et mulieres aliquæ, quæ erant curatæ a spiritibus malignis et infirmantibus :
 
 ** Luke 8:3
 
-et Joanna uxor Chusæ procuratoris Herodis, et Susanna, et aliæ multæ, quæ ministrabant ei de facultatibus suis.  <div eID="gen32424" type="x-p"/>
+et Joanna uxor Chusæ procuratoris Herodis, et Susanna, et aliæ multæ, quæ ministrabant ei de facultatibus suis.  
 
 ** Luke 8:4
 
@@ -1452,7 +1452,7 @@ Et aliud cecidit inter spinas, et simul exortæ spinæ suffocaverunt illud.
 
 ** Luke 8:8
 
-Et aliud cecidit in terram bonam : et ortum fecit fructum centuplum. Hæc dicens clamabat : Qui habet aures audiendi, audiat.  <div eID="gen32425" type="x-p"/>
+Et aliud cecidit in terram bonam : et ortum fecit fructum centuplum. Hæc dicens clamabat : Qui habet aures audiendi, audiat.  
 
 ** Luke 8:9
 
@@ -1460,7 +1460,7 @@ Interrogabant autem eum discipuli ejus, quæ esset hæc parabola.
 
 ** Luke 8:10
 
-Quibus ipse dixit : Vobis datum est nosse mysterium regni Dei, ceteris autem in parabolis : ut videntes non videant, et audientes non intelligant.  <div eID="gen32426" type="x-p"/>
+Quibus ipse dixit : Vobis datum est nosse mysterium regni Dei, ceteris autem in parabolis : ut videntes non videant, et audientes non intelligant.  
 
 ** Luke 8:11
 
@@ -1480,7 +1480,7 @@ Quod autem in spinas cecidit : hi sunt qui audierunt, et a sollicitudinibus, et 
 
 ** Luke 8:15
 
-Quod autem in bonam terram : hi sunt qui in corde bono et optimo audientes verbum retinent, et fructum afferunt in patientia.  <div eID="gen32427" type="x-p"/>
+Quod autem in bonam terram : hi sunt qui in corde bono et optimo audientes verbum retinent, et fructum afferunt in patientia.  
 
 ** Luke 8:16
 
@@ -1492,7 +1492,7 @@ Non est enim occultum, quod non manifestetur : nec absconditum, quod non cognosc
 
 ** Luke 8:18
 
-Videte ergo quomodo audiatis ? Qui enim habet, dabitur illi : et quicumque non habet, etiam quod putat se habere, auferetur ab illo.  <div eID="gen32428" type="x-p"/>
+Videte ergo quomodo audiatis ? Qui enim habet, dabitur illi : et quicumque non habet, etiam quod putat se habere, auferetur ab illo.  
 
 ** Luke 8:19
 
@@ -1504,7 +1504,7 @@ Et nuntiatum est illi : Mater tua et fratres tui stant foris, volentes te videre
 
 ** Luke 8:21
 
-Qui respondens, dixit ad eos : Mater mea et fratres mei hi sunt, qui verbum Dei audiunt et faciunt.  <div eID="gen32429" type="x-p"/>
+Qui respondens, dixit ad eos : Mater mea et fratres mei hi sunt, qui verbum Dei audiunt et faciunt.  
 
 ** Luke 8:22
 
@@ -1520,7 +1520,7 @@ Accedentes autem suscitaverunt eum, dicentes : Præceptor, perimus. At ille surg
 
 ** Luke 8:25
 
-Dixit autem illis : Ubi est fides vestra ? Qui timentes, mirati sunt ad invicem, dicentes : Quis putas hic est, quia et ventis, et mari imperat, et obediunt ei ?  <div eID="gen32430" type="x-p"/>
+Dixit autem illis : Ubi est fides vestra ? Qui timentes, mirati sunt ad invicem, dicentes : Quis putas hic est, quia et ventis, et mari imperat, et obediunt ei ?  
 
 ** Luke 8:26
 
@@ -1576,7 +1576,7 @@ Et rogabat illum vir, a quo dæmonia exierant, ut cum eo esset. Dimisit autem eu
 
 ** Luke 8:39
 
-Redi in domum tuam, et narra quanta tibi fecit Deus. Et abiit per universam civitatem, prædicans quanta illi fecisset Jesus.  <div eID="gen32431" type="x-p"/>
+Redi in domum tuam, et narra quanta tibi fecit Deus. Et abiit per universam civitatem, prædicans quanta illi fecisset Jesus.  
 
 ** Luke 8:40
 
@@ -1644,7 +1644,7 @@ Et reversus est spiritus ejus, et surrexit continuo. Et jussit illi dari manduca
 
 ** Luke 8:56
 
-Et stupuerunt parentes ejus, quibus præcepit ne alicui dicerent quod factum erat.  <chapter eID="Luke.8"/> <div eID="gen32432" type="x-p"/>
+Et stupuerunt parentes ejus, quibus præcepit ne alicui dicerent quod factum erat.   
 
 * Luke 9
 
@@ -1670,7 +1670,7 @@ Et quicumque non receperint vos : exeuntes de civitate illa, etiam pulverem pedu
 
 ** Luke 9:6
 
-Egressi autem circuibant per castella evangelizantes, et curantes ubique.  <div eID="gen32433" type="x-p"/>
+Egressi autem circuibant per castella evangelizantes, et curantes ubique.  
 
 ** Luke 9:7
 
@@ -1682,7 +1682,7 @@ a quibusdam : Quia Joannes surrexit a mortuis : a quibusdam vero : Quia Elias ap
 
 ** Luke 9:9
 
-Et ait Herodes : Joannem ego decollavi : quis est autem iste, de quo ego talia audio ? Et quærebat videre eum.  <div eID="gen32434" type="x-p"/>
+Et ait Herodes : Joannem ego decollavi : quis est autem iste, de quo ego talia audio ? Et quærebat videre eum.  
 
 ** Luke 9:10
 
@@ -1714,7 +1714,7 @@ Acceptis autem quinque panibus et duobus piscibus, respexit in cælum, et benedi
 
 ** Luke 9:17
 
-Et manducaverunt omnes, et saturati sunt. Et sublatum est quod superfuit illis, fragmentorum cophini duodecim.  <div eID="gen32435" type="x-p"/>
+Et manducaverunt omnes, et saturati sunt. Et sublatum est quod superfuit illis, fragmentorum cophini duodecim.  
 
 ** Luke 9:18
 
@@ -1734,7 +1734,7 @@ At ille increpans illos, præcepit ne cui dicerent hoc,
 
 ** Luke 9:22
 
-dicens : Quia oportet Filium hominis multa pati, et reprobari a senioribus, et principibus sacerdotum, et scribis, et occidi, et tertia die resurgere.  <div eID="gen32436" type="x-p"/>
+dicens : Quia oportet Filium hominis multa pati, et reprobari a senioribus, et principibus sacerdotum, et scribis, et occidi, et tertia die resurgere.  
 
 ** Luke 9:23
 
@@ -1754,7 +1754,7 @@ Nam qui me erubuerit, et meos sermones : hunc Filius hominis erubescet cum vener
 
 ** Luke 9:27
 
-Dico autem vobis vere : sunt aliqui hic stantes, qui non gustabunt mortem donec videant regnum Dei.  <div eID="gen32437" type="x-p"/>
+Dico autem vobis vere : sunt aliqui hic stantes, qui non gustabunt mortem donec videant regnum Dei.  
 
 ** Luke 9:28
 
@@ -1790,7 +1790,7 @@ Et vox facta est de nube, dicens : Hic est Filius meus dilectus, ipsum audite.
 
 ** Luke 9:36
 
-Et dum fieret vox, inventus est Jesus solus. Et ipsi tacuerunt, et nemini dixerunt in illis diebus quidquam ex his quæ viderant.  <div eID="gen32438" type="x-p"/>
+Et dum fieret vox, inventus est Jesus solus. Et ipsi tacuerunt, et nemini dixerunt in illis diebus quidquam ex his quæ viderant.  
 
 ** Luke 9:37
 
@@ -1818,7 +1818,7 @@ Et cum accederet, elisit illum dæmonium, et dissipavit.
 
 ** Luke 9:43
 
-Et increpavit Jesus spiritum immundum, et sanavit puerum, et reddidit illum patri ejus.  <div eID="gen32439" type="x-p"/>
+Et increpavit Jesus spiritum immundum, et sanavit puerum, et reddidit illum patri ejus.  
 
 ** Luke 9:44
 
@@ -1826,7 +1826,7 @@ Stupebant autem omnes in magnitudine Dei : omnibusque mirantibus in omnibus quæ
 
 ** Luke 9:45
 
-At illi ignorabant verbum istud, et erat velatum ante eos ut non sentirent illud : et timebant eum interrogare de hoc verbo.  <div eID="gen32440" type="x-p"/>
+At illi ignorabant verbum istud, et erat velatum ante eos ut non sentirent illud : et timebant eum interrogare de hoc verbo.  
 
 ** Luke 9:46
 
@@ -1838,7 +1838,7 @@ At Jesus videns cogitationes cordis illorum, apprehendit puerum, et statuit illu
 
 ** Luke 9:48
 
-et ait illis : Quicumque susceperit puerum istum in nomine meo, me recipit : et quicumque me receperit, recipit eum qui me misit. Nam qui minor est inter vos omnes, hic major est.  <div eID="gen32441" type="x-p"/>
+et ait illis : Quicumque susceperit puerum istum in nomine meo, me recipit : et quicumque me receperit, recipit eum qui me misit. Nam qui minor est inter vos omnes, hic major est.  
 
 ** Luke 9:49
 
@@ -1846,7 +1846,7 @@ Respondens autem Joannes dixit : Præceptor, vidimus quemdam in nomine tuo ejici
 
 ** Luke 9:50
 
-Et ait ad illum Jesus : Nolite prohibere : qui enim non est adversum vos, pro vobis est.  <div eID="gen32442" type="x-p"/>
+Et ait ad illum Jesus : Nolite prohibere : qui enim non est adversum vos, pro vobis est.  
 
 ** Luke 9:51
 
@@ -1870,7 +1870,7 @@ Et conversus increpavit illos, dicens : Nescitis cujus spiritus estis.
 
 ** Luke 9:56
 
-Filius hominis non venit animas perdere, sed salvare. Et abierunt in aliud castellum.  <div eID="gen32443" type="x-p"/>
+Filius hominis non venit animas perdere, sed salvare. Et abierunt in aliud castellum.  
 
 ** Luke 9:57
 
@@ -1894,7 +1894,7 @@ Et ait alter : Sequar te Domine, sed permitte mihi primum renuntiare his quæ do
 
 ** Luke 9:62
 
-Ait ad illum Jesus : Nemo mittens manum suam ad aratrum, et respiciens retro, aptus est regno Dei.  <chapter eID="Luke.9"/> <div eID="gen32444" type="x-p"/>
+Ait ad illum Jesus : Nemo mittens manum suam ad aratrum, et respiciens retro, aptus est regno Dei.   
 
 * Luke 10
 
@@ -1944,7 +1944,7 @@ Etiam pulverem, qui adhæsit nobis de civitate vestra, extergimus in vos : tamen
 
 ** Luke 10:12
 
-Dico vobis, quia Sodomis in die illa remissius erit, quam illi civitati.  <div eID="gen32445" type="x-p"/>
+Dico vobis, quia Sodomis in die illa remissius erit, quam illi civitati.  
 
 ** Luke 10:13
 
@@ -1960,7 +1960,7 @@ Et tu Capharnaum, usque ad cælum exaltata, usque ad infernum demergeris.
 
 ** Luke 10:16
 
-Qui vos audit, me audit : et qui vos spernit, me spernit. Qui autem me spernit, spernit eum qui misit me.  <div eID="gen32446" type="x-p"/>
+Qui vos audit, me audit : et qui vos spernit, me spernit. Qui autem me spernit, spernit eum qui misit me.  
 
 ** Luke 10:17
 
@@ -1976,7 +1976,7 @@ Ecce dedi vobis potestatem calcandi supra serpentes, et scorpiones, et super omn
 
 ** Luke 10:20
 
-Verumtamen in hoc nolite gaudere quia spiritus vobis subjiciuntur : gaudete autem, quod nomina vestra scripta sunt in cælis.  <div eID="gen32447" type="x-p"/>
+Verumtamen in hoc nolite gaudere quia spiritus vobis subjiciuntur : gaudete autem, quod nomina vestra scripta sunt in cælis.  
 
 ** Luke 10:21
 
@@ -1992,7 +1992,7 @@ Et conversus ad discipulos suos, dixit : Beati oculi qui vident quæ vos videtis
 
 ** Luke 10:24
 
-Dico enim vobis quod multi prophetæ et reges voluerunt videre quæ vos videtis, et non viderunt : et audire quæ auditis, et non audierunt.  <div eID="gen32448" type="x-p"/>
+Dico enim vobis quod multi prophetæ et reges voluerunt videre quæ vos videtis, et non viderunt : et audire quæ auditis, et non audierunt.  
 
 ** Luke 10:25
 
@@ -2008,7 +2008,7 @@ Ille respondens dixit : Diliges Dominum Deum tuum ex toto corde tuo, et ex tota 
 
 ** Luke 10:28
 
-Dixitque illi : Recte respondisti : hoc fac, et vives.  <div eID="gen32449" type="x-p"/>
+Dixitque illi : Recte respondisti : hoc fac, et vives.  
 
 ** Luke 10:29
 
@@ -2044,7 +2044,7 @@ Quis horum trium videtur tibi proximus fuisse illi, qui incidit in latrones ?
 
 ** Luke 10:37
 
-At ille dixit : Qui fecit misericordiam in illum. Et ait illi Jesus : Vade, et tu fac similiter.  <div eID="gen32450" type="x-p"/>
+At ille dixit : Qui fecit misericordiam in illum. Et ait illi Jesus : Vade, et tu fac similiter.  
 
 ** Luke 10:38
 
@@ -2064,7 +2064,7 @@ Et respondens dixit illi Dominus : Martha, Martha, sollicita es, et turbaris erg
 
 ** Luke 10:42
 
-porro unum est necessarium. Maria optimam partem elegit, quæ non auferetur ab ea.  <chapter eID="Luke.10"/> <div eID="gen32451" type="x-p"/>
+porro unum est necessarium. Maria optimam partem elegit, quæ non auferetur ab ea.   
 
 * Luke 11
 
@@ -2082,7 +2082,7 @@ Panem nostrum quotidianum da nobis hodie.
 
 ** Luke 11:4
 
-Et dimitte nobis peccata nostra, siquidem et ipsi dimittimus omni debenti nobis. Et ne nos inducas in tentationem.  <div eID="gen32452" type="x-p"/>
+Et dimitte nobis peccata nostra, siquidem et ipsi dimittimus omni debenti nobis. Et ne nos inducas in tentationem.  
 
 ** Luke 11:5
 
@@ -2118,7 +2118,7 @@ aut si petierit ovum, numquid porriget illi scorpionem ?
 
 ** Luke 11:13
 
-Si ergo vos, cum sitis mali, nostis bona data dare filiis vestris : quanto magis Pater vester de cælo dabit spiritum bonum petentibus se ?  <div eID="gen32453" type="x-p"/>
+Si ergo vos, cum sitis mali, nostis bona data dare filiis vestris : quanto magis Pater vester de cælo dabit spiritum bonum petentibus se ?  
 
 ** Luke 11:14
 
@@ -2170,7 +2170,7 @@ Et cum venerit, invenit eam scopis mundatam, et ornatam.
 
 ** Luke 11:26
 
-Tunc vadit, et assumit septem alios spiritus secum, nequiores se, et ingressi habitant ibi. Et fiunt novissima hominis illius pejora prioribus.  <div eID="gen32454" type="x-p"/>
+Tunc vadit, et assumit septem alios spiritus secum, nequiores se, et ingressi habitant ibi. Et fiunt novissima hominis illius pejora prioribus.  
 
 ** Luke 11:27
 
@@ -2178,7 +2178,7 @@ Factum est autem, cum hæc diceret : extollens vocem quædam mulier de turba dix
 
 ** Luke 11:28
 
-At ille dixit : Quinimmo beati, qui audiunt verbum Dei et custodiunt illud.  <div eID="gen32455" type="x-p"/>
+At ille dixit : Quinimmo beati, qui audiunt verbum Dei et custodiunt illud.  
 
 ** Luke 11:29
 
@@ -2194,7 +2194,7 @@ Regina austri surget in judicio cum viris generationis hujus, et condemnabit ill
 
 ** Luke 11:32
 
-Viri Ninivitæ surgent in judicio cum generatione hac, et condemnabunt illam : quia pœnitentiam egerunt ad prædicationem Jonæ, et ecce plus quam Jonas hic.  <div eID="gen32456" type="x-p"/>
+Viri Ninivitæ surgent in judicio cum generatione hac, et condemnabunt illam : quia pœnitentiam egerunt ad prædicationem Jonæ, et ecce plus quam Jonas hic.  
 
 ** Luke 11:33
 
@@ -2214,7 +2214,7 @@ Si ergo corpus tuum totum lucidum fuerit, non habens aliquam partem tenebrarum, 
 
 ** Luke 11:37
 
-Et cum loqueretur, rogavit illum quidam pharisæus ut pranderet apud se. Et ingressus recubuit.  <div eID="gen32457" type="x-p"/>
+Et cum loqueretur, rogavit illum quidam pharisæus ut pranderet apud se. Et ingressus recubuit.  
 
 ** Luke 11:38
 
@@ -2282,7 +2282,7 @@ Cum autem hæc ad illos diceret, cœperunt pharisæi et legisperiti graviter ins
 
 ** Luke 11:54
 
-insidiantes ei, et quærentes aliquid capere de ore ejus, ut accusarent eum.  <chapter eID="Luke.11"/> <div eID="gen32458" type="x-p"/>
+insidiantes ei, et quærentes aliquid capere de ore ejus, ut accusarent eum.   
 
 * Luke 12
 
@@ -2296,7 +2296,7 @@ Nihil autem opertum est, quod non reveletur : neque absconditum, quod non sciatu
 
 ** Luke 12:3
 
-Quoniam quæ in tenebris dixistis, in lumine dicentur : et quod in aurem locuti estis in cubiculis, prædicabitur in tectis.  <div eID="gen32459" type="x-p"/>
+Quoniam quæ in tenebris dixistis, in lumine dicentur : et quod in aurem locuti estis in cubiculis, prædicabitur in tectis.  
 
 ** Luke 12:4
 
@@ -2312,7 +2312,7 @@ Nonne quinque passeres veneunt dipondio, et unus ex illis non est in oblivione c
 
 ** Luke 12:7
 
-sed et capilli capitis vestri omnes numerati sunt. Nolite ergo timere : multis passeribus pluris estis vos.  <div eID="gen32460" type="x-p"/>
+sed et capilli capitis vestri omnes numerati sunt. Nolite ergo timere : multis passeribus pluris estis vos.  
 
 ** Luke 12:8
 
@@ -2340,7 +2340,7 @@ Ait autem ei quidam de turba : Magister, dic fratri meo ut dividat mecum hæredi
 
 ** Luke 12:14
 
-At ille dixit illi : Homo, quis me constituit judicem, aut divisorem super vos ?  <div eID="gen32461" type="x-p"/>
+At ille dixit illi : Homo, quis me constituit judicem, aut divisorem super vos ?  
 
 ** Luke 12:15
 
@@ -2368,7 +2368,7 @@ Dixit autem illi Deus : Stulte, hac nocte animam tuam repetunt a te : quæ autem
 
 ** Luke 12:21
 
-Sic est qui sibi thesaurizat, et non est in Deum dives.  <div eID="gen32462" type="x-p"/>
+Sic est qui sibi thesaurizat, et non est in Deum dives.  
 
 ** Luke 12:22
 
@@ -2420,7 +2420,7 @@ Vendite quæ possidetis, et date eleemosynam. Facite vobis sacculos, qui non vet
 
 ** Luke 12:34
 
-Ubi enim thesaurus vester est, ibi et cor vestrum erit.  <div eID="gen32463" type="x-p"/>
+Ubi enim thesaurus vester est, ibi et cor vestrum erit.  
 
 ** Luke 12:35
 
@@ -2476,7 +2476,7 @@ Ille autem servus qui cognovit voluntatem domini sui, et non præparavit, et non
 
 ** Luke 12:48
 
-qui autem non cognovit, et fecit digna plagis, vapulabit paucis. Omni autem cui multum datum est, multum quæretur ab eo : et cui commendaverunt multum, plus petent ab eo.  <div eID="gen32464" type="x-p"/>
+qui autem non cognovit, et fecit digna plagis, vapulabit paucis. Omni autem cui multum datum est, multum quæretur ab eo : et cui commendaverunt multum, plus petent ab eo.  
 
 ** Luke 12:49
 
@@ -2496,7 +2496,7 @@ erunt enim ex hoc quinque in domo una divisi, tres in duos, et duo in tres
 
 ** Luke 12:53
 
-dividentur : pater in filium, et filius in patrem suum, mater in filiam, et filia in matrem, socrus in nurum suam, et nurus in socrum suam.  <div eID="gen32465" type="x-p"/>
+dividentur : pater in filium, et filius in patrem suum, mater in filiam, et filia in matrem, socrus in nurum suam, et nurus in socrum suam.  
 
 ** Luke 12:54
 
@@ -2512,7 +2512,7 @@ Hypocritæ ! faciem cæli et terræ nostis probare : hoc autem tempus quomodo no
 
 ** Luke 12:57
 
-quid autem et a vobis ipsis non judicatis quod justum est ?  <div eID="gen32466" type="x-p"/>
+quid autem et a vobis ipsis non judicatis quod justum est ?  
 
 ** Luke 12:58
 
@@ -2520,7 +2520,7 @@ Cum autem vadis cum adversario tuo ad principem, in via da operam liberari ab il
 
 ** Luke 12:59
 
-Dico tibi, non exies inde, donec etiam novissimum minutum reddas.  <chapter eID="Luke.12"/> <div eID="gen32467" type="x-p"/>
+Dico tibi, non exies inde, donec etiam novissimum minutum reddas.   
 
 * Luke 13
 
@@ -2542,7 +2542,7 @@ Sicut illi decem et octo, supra quos cecidit turris in Siloë, et occidit eos : 
 
 ** Luke 13:5
 
-Non, dico vobis : sed si pœnitentiam non egeritis, omnes similiter peribitis.  <div eID="gen32468" type="x-p"/>
+Non, dico vobis : sed si pœnitentiam non egeritis, omnes similiter peribitis.  
 
 ** Luke 13:6
 
@@ -2558,7 +2558,7 @@ At ille respondens, dicit illi : Domine dimitte illam et hoc anno, usque dum fod
 
 ** Luke 13:9
 
-et siquidem fecerit fructum : sin autem, in futurum succides eam.  <div eID="gen32469" type="x-p"/>
+et siquidem fecerit fructum : sin autem, in futurum succides eam.  
 
 ** Luke 13:10
 
@@ -2590,7 +2590,7 @@ Hanc autem filiam Abrahæ, quam alligavit Satanas, ecce decem et octo annis, non
 
 ** Luke 13:17
 
-Et cum hæc diceret, erubescebant omnes adversarii ejus : et omnis populus gaudebat in universis, quæ gloriose fiebant ab eo.  <div eID="gen32470" type="x-p"/>
+Et cum hæc diceret, erubescebant omnes adversarii ejus : et omnis populus gaudebat in universis, quæ gloriose fiebant ab eo.  
 
 ** Luke 13:18
 
@@ -2606,7 +2606,7 @@ Et iterum dixit : Cui simile æstimabo regnum Dei ?
 
 ** Luke 13:21
 
-Simile est fermento, quod acceptum mulier abscondit in farinæ sata tria, donec fermentaretur totum.  <div eID="gen32471" type="x-p"/>
+Simile est fermento, quod acceptum mulier abscondit in farinæ sata tria, donec fermentaretur totum.  
 
 ** Luke 13:22
 
@@ -2642,7 +2642,7 @@ Et venient ab oriente, et occidente, et aquilone, et austro, et accumbent in reg
 
 ** Luke 13:30
 
-Et ecce sunt novissimi qui erunt primi, et sunt primi qui erunt novissimi.  <div eID="gen32472" type="x-p"/>
+Et ecce sunt novissimi qui erunt primi, et sunt primi qui erunt novissimi.  
 
 ** Luke 13:31
 
@@ -2662,7 +2662,7 @@ Jerusalem, Jerusalem, quæ occidis prophetas, et lapidas eos qui mittuntur ad te
 
 ** Luke 13:35
 
-Ecce relinquetur vobis domus vestra deserta. Dico autem vobis, quia non videbitis me donec veniat cum dicetis : Benedictus qui venit in nomine Domini.  <chapter eID="Luke.13"/> <div eID="gen32473" type="x-p"/>
+Ecce relinquetur vobis domus vestra deserta. Dico autem vobis, quia non videbitis me donec veniat cum dicetis : Benedictus qui venit in nomine Domini.   
 
 * Luke 14
 
@@ -2688,7 +2688,7 @@ Et respondens ad illos dixit : Cujus vestrum asinus, aut bos in puteum cadet, et
 
 ** Luke 14:6
 
-Et non poterant ad hæc respondere illi.  <div eID="gen32474" type="x-p"/>
+Et non poterant ad hæc respondere illi.  
 
 ** Luke 14:7
 
@@ -2708,7 +2708,7 @@ Sed cum vocatus fueris, vade, recumbe in novissimo loco : ut, cum venerit qui te
 
 ** Luke 14:11
 
-quia omnis, qui se exaltat, humiliabitur : et qui se humiliat, exaltabitur.  <div eID="gen32475" type="x-p"/>
+quia omnis, qui se exaltat, humiliabitur : et qui se humiliat, exaltabitur.  
 
 ** Luke 14:12
 
@@ -2720,7 +2720,7 @@ sed cum facis convivium, voca pauperes, debiles, claudos, et cæcos :
 
 ** Luke 14:14
 
-et beatus eris, quia non habent retribuere tibi : retribuetur enim tibi in resurrectione justorum.  <div eID="gen32476" type="x-p"/>
+et beatus eris, quia non habent retribuere tibi : retribuetur enim tibi in resurrectione justorum.  
 
 ** Luke 14:15
 
@@ -2760,7 +2760,7 @@ Et ait dominus servo : Exi in vias, et sæpes : et compelle intrare, ut impleatu
 
 ** Luke 14:24
 
-Dico autem vobis quod nemo virorum illorum qui vocati sunt, gustabit cœnam meam.  <div eID="gen32477" type="x-p"/>
+Dico autem vobis quod nemo virorum illorum qui vocati sunt, gustabit cœnam meam.  
 
 ** Luke 14:25
 
@@ -2804,7 +2804,7 @@ Bonum est sal : si autem sal evanuerit, in quo condietur ?
 
 ** Luke 14:35
 
-Neque in terram, neque in sterquilinium utile est, sed foras mittetur. Qui habet aures audiendi, audiat.  <chapter eID="Luke.14"/> <div eID="gen32478" type="x-p"/>
+Neque in terram, neque in sterquilinium utile est, sed foras mittetur. Qui habet aures audiendi, audiat.   
 
 * Luke 15
 
@@ -2834,7 +2834,7 @@ et veniens domum convocat amicos et vicinos, dicens illis : Congratulamini mihi,
 
 ** Luke 15:7
 
-Dico vobis quod ita gaudium erit in cælo super uno peccatore pœnitentiam agente, quam super nonaginta novem justis, qui non indigent pœnitentia.  <div eID="gen32479" type="x-p"/>
+Dico vobis quod ita gaudium erit in cælo super uno peccatore pœnitentiam agente, quam super nonaginta novem justis, qui non indigent pœnitentia.  
 
 ** Luke 15:8
 
@@ -2846,7 +2846,7 @@ Et cum invenerit convocat amicas et vicinas, dicens : Congratulamini mihi, quia 
 
 ** Luke 15:10
 
-Ita, dico vobis, gaudium erit coram angelis Dei super uno peccatore pœnitentiam agente.  <div eID="gen32480" type="x-p"/>
+Ita, dico vobis, gaudium erit coram angelis Dei super uno peccatore pœnitentiam agente.  
 
 ** Luke 15:11
 
@@ -2934,7 +2934,7 @@ At ipse dixit illi : Fili, tu semper mecum es, et omnia mea tua sunt :
 
 ** Luke 15:32
 
-epulari autem, et gaudere oportebat, quia frater tuus hic mortuus erat, et revixit ; perierat, et inventus est.  <chapter eID="Luke.15"/> <div eID="gen32481" type="x-p"/>
+epulari autem, et gaudere oportebat, quia frater tuus hic mortuus erat, et revixit ; perierat, et inventus est.   
 
 * Luke 16
 
@@ -2988,7 +2988,7 @@ Et si in alieno fideles non fuistis, quod vestrum est, quis dabit vobis ?
 
 ** Luke 16:13
 
-Nemo servus potest duobus dominis servire : aut enim unum odiet, et alterum diliget : aut uni adhærebit, et alterum contemnet. Non potestis Deo servire et mammonæ.  <div eID="gen32482" type="x-p"/>
+Nemo servus potest duobus dominis servire : aut enim unum odiet, et alterum diliget : aut uni adhærebit, et alterum contemnet. Non potestis Deo servire et mammonæ.  
 
 ** Luke 16:14
 
@@ -3008,7 +3008,7 @@ Facilius est autem cælum et terram præterire, quam de lege unum apicem cadere.
 
 ** Luke 16:18
 
-Omnis qui dimittit uxorem suam et alteram ducit, mœchatur : et qui dimissam a viro ducit, mœchatur.  <div eID="gen32483" type="x-p"/>
+Omnis qui dimittit uxorem suam et alteram ducit, mœchatur : et qui dimissam a viro ducit, mœchatur.  
 
 ** Luke 16:19
 
@@ -3060,7 +3060,7 @@ At ille dixit : Non, pater Abraham : sed si quis ex mortuis ierit ad eos, pœnit
 
 ** Luke 16:31
 
-Ait autem illi : Si Moysen et prophetas non audiunt, neque si quis ex mortuis resurrexerit, credent.  <chapter eID="Luke.16"/> <div eID="gen32484" type="x-p"/>
+Ait autem illi : Si Moysen et prophetas non audiunt, neque si quis ex mortuis resurrexerit, credent.   
 
 * Luke 17
 
@@ -3102,7 +3102,7 @@ Numquid gratiam habet servo illi, quia fecit quæ ei imperaverat ?
 
 ** Luke 17:10
 
-non puto. Sic et vos cum feceritis omnia quæ præcepta sunt vobis, dicite : Servi inutiles sumus : quod debuimus facere, fecimus.  <div eID="gen32485" type="x-p"/>
+non puto. Sic et vos cum feceritis omnia quæ præcepta sunt vobis, dicite : Servi inutiles sumus : quod debuimus facere, fecimus.  
 
 ** Luke 17:11
 
@@ -3138,7 +3138,7 @@ Non est inventus qui rediret, et daret gloriam Deo, nisi hic alienigena.
 
 ** Luke 17:19
 
-Et ait illi : Surge, vade : quia fides tua te salvum fecit.  <div eID="gen32486" type="x-p"/>
+Et ait illi : Surge, vade : quia fides tua te salvum fecit.  
 
 ** Luke 17:20
 
@@ -3210,7 +3210,7 @@ Respondentes dicunt illi : Ubi Domine ?
 
 ** Luke 17:37
 
-Qui dixit illis : Ubicumque fuerit corpus, illuc congregabuntur et aquilæ.  <chapter eID="Luke.17"/> <div eID="gen32487" type="x-p"/>
+Qui dixit illis : Ubicumque fuerit corpus, illuc congregabuntur et aquilæ.   
 
 * Luke 18
 
@@ -3244,7 +3244,7 @@ Deus autem non faciet vindictam electorum suorum clamantium ad se die ac nocte, 
 
 ** Luke 18:8
 
-Dico vobis quia cito faciet vindictam illorum. Verumtamen Filius hominis veniens, putas, inveniet fidem in terra ?  <div eID="gen32488" type="x-p"/>
+Dico vobis quia cito faciet vindictam illorum. Verumtamen Filius hominis veniens, putas, inveniet fidem in terra ?  
 
 ** Luke 18:9
 
@@ -3268,7 +3268,7 @@ Et publicanus a longe stans, nolebat nec oculos ad cælum levare : sed percutieb
 
 ** Luke 18:14
 
-Dico vobis, descendit hic justificatus in domum suam ab illo : quia omnis qui se exaltat, humiliabitur, et qui se humiliat, exaltabitur.  <div eID="gen32489" type="x-p"/>
+Dico vobis, descendit hic justificatus in domum suam ab illo : quia omnis qui se exaltat, humiliabitur, et qui se humiliat, exaltabitur.  
 
 ** Luke 18:15
 
@@ -3280,7 +3280,7 @@ Jesus autem convocans illos, dixit : Sinite pueros venire ad me, et nolite vetar
 
 ** Luke 18:17
 
-Amen dico vobis, quicumque non acceperit regnum Dei sicut puer, non intrabit in illud.  <div eID="gen32490" type="x-p"/>
+Amen dico vobis, quicumque non acceperit regnum Dei sicut puer, non intrabit in illud.  
 
 ** Luke 18:18
 
@@ -3332,7 +3332,7 @@ Qui dixit eis : Amen dico vobis, nemo est qui reliquit domum, aut parentes, aut 
 
 ** Luke 18:30
 
-et non recipiat multo plura in hoc tempore, et in sæculo venturo vitam æternam.  <div eID="gen32491" type="x-p"/>
+et non recipiat multo plura in hoc tempore, et in sæculo venturo vitam æternam.  
 
 ** Luke 18:31
 
@@ -3348,7 +3348,7 @@ et postquam flagellaverint, occident eum, et tertia die resurget.
 
 ** Luke 18:34
 
-Et ipsi nihil horum intellexerunt, et erat verbum istud absconditum ab eis, et non intelligebant quæ dicebantur.  <div eID="gen32492" type="x-p"/>
+Et ipsi nihil horum intellexerunt, et erat verbum istud absconditum ab eis, et non intelligebant quæ dicebantur.  
 
 ** Luke 18:35
 
@@ -3384,7 +3384,7 @@ Et Jesus dixit illi : Respice, fides tua te salvum fecit.
 
 ** Luke 18:43
 
-Et confestim vidit, et sequebatur illum magnificans Deum. Et omnis plebs ut vidit, dedit laudem Deo.  <chapter eID="Luke.18"/> <div eID="gen32493" type="x-p"/>
+Et confestim vidit, et sequebatur illum magnificans Deum. Et omnis plebs ut vidit, dedit laudem Deo.   
 
 * Luke 19
 
@@ -3426,7 +3426,7 @@ Ait Jesus ad eum : Quia hodie salus domui huic facta est : eo quod et ipse filiu
 
 ** Luke 19:10
 
-Venit enim Filius hominis quærere, et salvum facere quod perierat.  <div eID="gen32494" type="x-p"/>
+Venit enim Filius hominis quærere, et salvum facere quod perierat.  
 
 ** Luke 19:11
 
@@ -3498,7 +3498,7 @@ Verumtamen inimicos meos illos, qui noluerunt me regnare super se, adducite huc 
 
 ** Luke 19:28
 
-Et his dictis, præcedebat ascendens Jerosolymam.  <div eID="gen32495" type="x-p"/>
+Et his dictis, præcedebat ascendens Jerosolymam.  
 
 ** Luke 19:29
 
@@ -3546,7 +3546,7 @@ Et quidam pharisæorum de turbis dixerunt ad illum : Magister, increpa discipulo
 
 ** Luke 19:40
 
-Quibus ipse ait : Dico vobis, quia si hi tacuerint, lapides clamabunt.  <div eID="gen32496" type="x-p"/>
+Quibus ipse ait : Dico vobis, quia si hi tacuerint, lapides clamabunt.  
 
 ** Luke 19:41
 
@@ -3578,7 +3578,7 @@ Et erat docens quotidie in templo. Principes autem sacerdotum, et scribæ, et pr
 
 ** Luke 19:48
 
-et non inveniebant quid facerent illi. Omnis enim populus suspensus erat, audiens illum.  <chapter eID="Luke.19"/> <div eID="gen32497" type="x-p"/>
+et non inveniebant quid facerent illi. Omnis enim populus suspensus erat, audiens illum.   
 
 * Luke 20
 
@@ -3612,7 +3612,7 @@ Et responderunt se nescire unde esset.
 
 ** Luke 20:8
 
-Et Jesus ait illis : Neque ego dico vobis in qua potestate hæc facio.  <div eID="gen32498" type="x-p"/>
+Et Jesus ait illis : Neque ego dico vobis in qua potestate hæc facio.  
 
 ** Luke 20:9
 
@@ -3652,7 +3652,7 @@ Ille autem aspiciens eos, ait : Quid est ergo hoc quod scriptum est : Lapidem qu
 
 ** Luke 20:18
 
-Omnis qui ceciderit super illum lapidem, conquassabitur : super quem autem ceciderit, comminuet illum.  <div eID="gen32499" type="x-p"/>
+Omnis qui ceciderit super illum lapidem, conquassabitur : super quem autem ceciderit, comminuet illum.  
 
 ** Luke 20:19
 
@@ -3684,7 +3684,7 @@ Et ait illis : Reddite ergo quæ sunt Cæsaris, Cæsari : et quæ sunt Dei, Deo.
 
 ** Luke 20:26
 
-Et non potuerunt verbum ejus reprehendere coram plebe : et mirati in responso ejus, tacuerunt.  <div eID="gen32500" type="x-p"/>
+Et non potuerunt verbum ejus reprehendere coram plebe : et mirati in responso ejus, tacuerunt.  
 
 ** Luke 20:27
 
@@ -3740,7 +3740,7 @@ Respondentes autem quidam scribarum, dixerunt ei : Magister, bene dixisti.
 
 ** Luke 20:40
 
-Et amplius non audebant eum quidquam interrogare.  <div eID="gen32501" type="x-p"/>
+Et amplius non audebant eum quidquam interrogare.  
 
 ** Luke 20:41
 
@@ -3768,7 +3768,7 @@ Attendite a scribis, qui volunt ambulare in stolis, et amant salutationes in for
 
 ** Luke 20:47
 
-qui devorant domos viduarum, simulantes longam orationem : hi accipient damnationem majorem.  <chapter eID="Luke.20"/> <div eID="gen32502" type="x-p"/>
+qui devorant domos viduarum, simulantes longam orationem : hi accipient damnationem majorem.   
 
 * Luke 21
 
@@ -3786,7 +3786,7 @@ Et dixit : Vere dico vobis, quia vidua hæc pauper plus quam omnes misit.
 
 ** Luke 21:4
 
-Nam omnes hi ex abundanti sibi miserunt in munera Dei : hæc autem ex eo quod deest illi, omnem victum suum quem habuit, misit.  <div eID="gen32503" type="x-p"/>
+Nam omnes hi ex abundanti sibi miserunt in munera Dei : hæc autem ex eo quod deest illi, omnem victum suum quem habuit, misit.  
 
 ** Luke 21:5
 
@@ -3814,7 +3814,7 @@ Tunc dicebat illis : Surget gens contra gentem, et regnum adversus regnum.
 
 ** Luke 21:11
 
-Et terræmotus magni erunt per loca, et pestilentiæ, et fames, terroresque de cælo, et signa magna erunt.  <div eID="gen32504" type="x-p"/>
+Et terræmotus magni erunt per loca, et pestilentiæ, et fames, terroresque de cælo, et signa magna erunt.  
 
 ** Luke 21:12
 
@@ -3846,7 +3846,7 @@ et capillus de capite vestro non peribit.
 
 ** Luke 21:19
 
-In patientia vestra possidebitis animas vestras.  <div eID="gen32505" type="x-p"/>
+In patientia vestra possidebitis animas vestras.  
 
 ** Luke 21:20
 
@@ -3866,7 +3866,7 @@ Væ autem prægnantibus et nutrientibus in illis diebus ! erit enim pressura mag
 
 ** Luke 21:24
 
-Et cadent in ore gladii, et captivi ducentur in omnes gentes, et Jerusalem calcabitur a gentibus, donec impleantur tempora nationum.  <div eID="gen32506" type="x-p"/>
+Et cadent in ore gladii, et captivi ducentur in omnes gentes, et Jerusalem calcabitur a gentibus, donec impleantur tempora nationum.  
 
 ** Luke 21:25
 
@@ -3878,7 +3878,7 @@ arescentibus hominibus præ timore, et exspectatione, quæ supervenient universo
 
 ** Luke 21:27
 
-et tunc videbunt Filium hominis venientem in nube cum potestate magna et majestate.  <div eID="gen32507" type="x-p"/>
+et tunc videbunt Filium hominis venientem in nube cum potestate magna et majestate.  
 
 ** Luke 21:28
 
@@ -3902,7 +3902,7 @@ Amen dico vobis, quia non præteribit generatio hæc, donec omnia fiant.
 
 ** Luke 21:33
 
-Cælum et terra transibunt : verba autem mea non transibunt.  <div eID="gen32508" type="x-p"/>
+Cælum et terra transibunt : verba autem mea non transibunt.  
 
 ** Luke 21:34
 
@@ -3914,7 +3914,7 @@ tamquam laqueus enim superveniet in omnes qui sedent super faciem omnis terræ.
 
 ** Luke 21:36
 
-Vigilate itaque, omni tempore orantes, ut digni habeamini fugere ista omnia quæ futura sunt, et stare ante Filium hominis.  <div eID="gen32509" type="x-p"/>
+Vigilate itaque, omni tempore orantes, ut digni habeamini fugere ista omnia quæ futura sunt, et stare ante Filium hominis.  
 
 ** Luke 21:37
 
@@ -3922,7 +3922,7 @@ Erat autem diebus docens in templo : noctibus vero exiens, morabatur in monte qu
 
 ** Luke 21:38
 
-Et omnis populus manicabat ad eum in templo audire eum.  <chapter eID="Luke.21"/> <div eID="gen32510" type="x-p"/>
+Et omnis populus manicabat ad eum in templo audire eum.   
 
 * Luke 22
 
@@ -3948,7 +3948,7 @@ Et gavisi sunt, et pacti sunt pecuniam illi dare.
 
 ** Luke 22:6
 
-Et spopondit, et quærebat opportunitatem ut traderet illum sine turbis.  <div eID="gen32511" type="x-p"/>
+Et spopondit, et quærebat opportunitatem ut traderet illum sine turbis.  
 
 ** Luke 22:7
 
@@ -3996,7 +3996,7 @@ Et accepto calice gratias egit, et dixit : Accipite, et dividite inter vos.
 
 ** Luke 22:18
 
-Dico enim vobis quod non bibam de generatione vitis donec regnum Dei veniat.  <div eID="gen32512" type="x-p"/>
+Dico enim vobis quod non bibam de generatione vitis donec regnum Dei veniat.  
 
 ** Luke 22:19
 
@@ -4016,7 +4016,7 @@ Et quidem Filius hominis, secundum quod definitum est, vadit : verumtamen væ ho
 
 ** Luke 22:23
 
-Et ipsi cœperunt quærere inter se quis esset ex eis qui hoc facturus esset.  <div eID="gen32513" type="x-p"/>
+Et ipsi cœperunt quærere inter se quis esset ex eis qui hoc facturus esset.  
 
 ** Luke 22:24
 
@@ -4044,7 +4044,7 @@ Et ego dispono vobis sicut disposuit mihi Pater meus regnum,
 
 ** Luke 22:30
 
-ut edatis et bibatis super mensam meam in regno meo, et sedeatis super thronos judicantes duodecim tribus Israël.  <div eID="gen32514" type="x-p"/>
+ut edatis et bibatis super mensam meam in regno meo, et sedeatis super thronos judicantes duodecim tribus Israël.  
 
 ** Luke 22:31
 
@@ -4076,7 +4076,7 @@ Dico enim vobis, quoniam adhuc hoc quod scriptum est, oportet impleri in me : Et
 
 ** Luke 22:38
 
-At illi dixerunt : Domine, ecce duo gladii hic. At ille dixit eis : Satis est.  <div eID="gen32515" type="x-p"/>
+At illi dixerunt : Domine, ecce duo gladii hic. At ille dixit eis : Satis est.  
 
 ** Luke 22:39
 
@@ -4108,7 +4108,7 @@ Et cum surrexisset ab oratione et venisset ad discipulos suos, invenit eos dormi
 
 ** Luke 22:46
 
-Et ait illis : Quid dormitis ? surgite, orate, ne intretis in tentationem.  <div eID="gen32516" type="x-p"/>
+Et ait illis : Quid dormitis ? surgite, orate, ne intretis in tentationem.  
 
 ** Luke 22:47
 
@@ -4140,7 +4140,7 @@ Cum quotidie vobiscum fuerim in templo, non extendistis manus in me : sed hæc e
 
 ** Luke 22:54
 
-Comprehendentes autem eum, duxerunt ad domum principis sacerdotum : Petrus vero sequebatur a longe.  <div eID="gen32517" type="x-p"/>
+Comprehendentes autem eum, duxerunt ad domum principis sacerdotum : Petrus vero sequebatur a longe.  
 
 ** Luke 22:55
 
@@ -4172,7 +4172,7 @@ Et conversus Dominus respexit Petrum, et recordatus est Petrus verbi Domini, sic
 
 ** Luke 22:62
 
-Et egressus foras Petrus flevit amare.  <div eID="gen32518" type="x-p"/>
+Et egressus foras Petrus flevit amare.  
 
 ** Luke 22:63
 
@@ -4184,7 +4184,7 @@ Et velaverunt eum, et percutiebant faciem ejus : et interrogabant eum, dicentes 
 
 ** Luke 22:65
 
-Et alia multa blasphemantes dicebant in eum.  <div eID="gen32519" type="x-p"/>
+Et alia multa blasphemantes dicebant in eum.  
 
 ** Luke 22:66
 
@@ -4208,7 +4208,7 @@ Dixerunt autem omnes : Tu ergo es Filius Dei ? Qui ait : Vos dicitis, quia ego s
 
 ** Luke 22:71
 
-At illi dixerunt : Quid adhuc desideramus testimonium ? ipsi enim audivimus de ore ejus.  <chapter eID="Luke.22"/> <div eID="gen32520" type="x-p"/>
+At illi dixerunt : Quid adhuc desideramus testimonium ? ipsi enim audivimus de ore ejus.   
 
 * Luke 23
 
@@ -4238,7 +4238,7 @@ Pilatus autem audiens Galilæam, interrogavit si homo Galilæus esset.
 
 ** Luke 23:7
 
-Et ut cognovit quod de Herodis potestate esset, remisit eum ad Herodem, qui et ipse Jerosolymis erat illis diebus.  <div eID="gen32521" type="x-p"/>
+Et ut cognovit quod de Herodis potestate esset, remisit eum ad Herodem, qui et ipse Jerosolymis erat illis diebus.  
 
 ** Luke 23:8
 
@@ -4258,7 +4258,7 @@ Sprevit autem illum Herodes cum exercitu suo : et illusit indutum veste alba, et
 
 ** Luke 23:12
 
-Et facti sunt amici Herodes et Pilatus in ipsa die : nam antea inimici erant ad invicem.  <div eID="gen32522" type="x-p"/>
+Et facti sunt amici Herodes et Pilatus in ipsa die : nam antea inimici erant ad invicem.  
 
 ** Luke 23:13
 
@@ -4302,7 +4302,7 @@ Ille autem tertio dixit ad illos : Quid enim mali fecit iste ? nullam causam mor
 
 ** Luke 23:23
 
-At illi instabant vocibus magnis postulantes ut crucifigeretur : et invalescebant voces eorum.  <div eID="gen32523" type="x-p"/>
+At illi instabant vocibus magnis postulantes ut crucifigeretur : et invalescebant voces eorum.  
 
 ** Luke 23:24
 
@@ -4338,7 +4338,7 @@ Quia si in viridi ligno hæc faciunt, in arido quid fiet ?
 
 ** Luke 23:32
 
-Ducebantur autem et alii duo nequam cum eo, ut interficerentur.  <div eID="gen32524" type="x-p"/>
+Ducebantur autem et alii duo nequam cum eo, ut interficerentur.  
 
 ** Luke 23:33
 
@@ -4382,7 +4382,7 @@ Et dicebat ad Jesum : Domine, memento mei cum veneris in regnum tuum.
 
 ** Luke 23:43
 
-Et dixit illi Jesus : Amen dico tibi : hodie mecum eris in paradiso.  <div eID="gen32525" type="x-p"/>
+Et dixit illi Jesus : Amen dico tibi : hodie mecum eris in paradiso.  
 
 ** Luke 23:44
 
@@ -4406,7 +4406,7 @@ Et omnis turba eorum, qui simul aderant ad spectaculum istud, et videbant quæ f
 
 ** Luke 23:49
 
-Stabant autem omnes noti ejus a longe, et mulieres, quæ secutæ eum erant a Galilæa, hæc videntes.  <div eID="gen32526" type="x-p"/>
+Stabant autem omnes noti ejus a longe, et mulieres, quæ secutæ eum erant a Galilæa, hæc videntes.  
 
 ** Luke 23:50
 
@@ -4434,7 +4434,7 @@ Subsecutæ autem mulieres, quæ cum eo venerant de Galilæa, viderunt monumentum
 
 ** Luke 23:56
 
-Et revertentes paraverunt aromata, et unguenta : et sabbato quidem siluerunt secundum mandatum.  <chapter eID="Luke.23"/> <div eID="gen32527" type="x-p"/>
+Et revertentes paraverunt aromata, et unguenta : et sabbato quidem siluerunt secundum mandatum.   
 
 * Luke 24
 
@@ -4484,7 +4484,7 @@ Et visa sunt ante illos sicut deliramentum verba ista, et non crediderunt illis.
 
 ** Luke 24:12
 
-Petrus autem surgens cucurrit ad monumentum : et procumbens vidit linteamina sola posita, et abiit secum mirans quod factum fuerat.  <div eID="gen32528" type="x-p"/>
+Petrus autem surgens cucurrit ad monumentum : et procumbens vidit linteamina sola posita, et abiit secum mirans quod factum fuerat.  
 
 ** Luke 24:13
 
@@ -4576,7 +4576,7 @@ dicentes : Quod surrexit Dominus vere, et apparuit Simoni.
 
 ** Luke 24:35
 
-Et ipsi narrabant quæ gesta erant in via, et quomodo cognoverunt eum in fractione panis.  <div eID="gen32529" type="x-p"/>
+Et ipsi narrabant quæ gesta erant in via, et quomodo cognoverunt eum in fractione panis.  
 
 ** Luke 24:36
 
@@ -4608,7 +4608,7 @@ At illi obtulerunt ei partem piscis assi et favum mellis.
 
 ** Luke 24:43
 
-Et cum manducasset coram eis, sumens reliquias dedit eis.  <div eID="gen32530" type="x-p"/>
+Et cum manducasset coram eis, sumens reliquias dedit eis.  
 
 ** Luke 24:44
 
@@ -4632,7 +4632,7 @@ Vos autem testes estis horum.
 
 ** Luke 24:49
 
-Et ego mitto promissum Patris mei in vos ; vos autem sedete in civitate, quoadusque induamini virtute ex alto.  <div eID="gen32531" type="x-p"/>
+Et ego mitto promissum Patris mei in vos ; vos autem sedete in civitate, quoadusque induamini virtute ex alto.  
 
 ** Luke 24:50
 
@@ -4648,5 +4648,5 @@ Et ipsi adorantes regressi sunt in Jerusalem cum gaudio magno :
 
 ** Luke 24:53
 
-et erant semper in templo, laudantes et benedicentes Deum. Amen.  <div eID="gen32532" type="x-p"/> <chapter eID="Luke.24"/> <div eID="gen32327" osisID="Luke" type="book"/>
+et erant semper in templo, laudantes et benedicentes Deum. Amen.    
 

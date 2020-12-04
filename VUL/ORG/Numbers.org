@@ -74,7 +74,7 @@ et congregaverunt primo die mensis secundi, recensentes eos per cognationes, et 
 
 ** Numbers 1:19
 
-sicut præceperat Dominus Moysi. Numeratique sunt in deserto Sinai.  <div eID="gen506" type="x-p"/>
+sicut præceperat Dominus Moysi. Numeratique sunt in deserto Sinai.  
 
 ** Numbers 1:20
 
@@ -170,7 +170,7 @@ De filiis Nephthali per generationes et familias ac domos cognationum suarum rec
 
 ** Numbers 1:43
 
-quinquaginta tria millia quadringenti.  <div eID="gen507" type="x-p"/>
+quinquaginta tria millia quadringenti.  
 
 ** Numbers 1:44
 
@@ -182,7 +182,7 @@ Fueruntque omnis numerus filiorum Israël per domos et familias suas a vigesimo 
 
 ** Numbers 1:46
 
-sexcenta tria millia virorum quingenti quinquaginta.  <div eID="gen508" type="x-p"/>
+sexcenta tria millia virorum quingenti quinquaginta.  
 
 ** Numbers 1:47
 
@@ -214,7 +214,7 @@ Porro Levitæ per gyrum tabernaculi figent tentoria, ne fiat indignatio super mu
 
 ** Numbers 1:54
 
-Fecerunt ergo filii Israël juxta omnia quæ præceperat Dominus Moysi.  <chapter eID="Num.1"/> <div eID="gen509" type="x-p"/>
+Fecerunt ergo filii Israël juxta omnia quæ præceperat Dominus Moysi.   
 
 * Numbers 2
 
@@ -252,7 +252,7 @@ Omnis de stirpe ejus exercitus pugnatorum, quinquaginta septem millia quadringen
 
 ** Numbers 2:9
 
-Universi qui in castris Judæ enumerati sunt, fuerunt centum octoginta sex millia quadringenti : et per turmas suas primi egredientur.  <div eID="gen510" type="x-p"/>
+Universi qui in castris Judæ enumerati sunt, fuerunt centum octoginta sex millia quadringenti : et per turmas suas primi egredientur.  
 
 ** Numbers 2:10
 
@@ -284,7 +284,7 @@ Omnes qui recensiti sunt in castris Ruben, centum quinquaginta millia et mille q
 
 ** Numbers 2:17
 
-Levabitur autem tabernaculum testimonii per officia Levitarum, et turmas eorum : quomodo erigetur, ita et deponetur. Singuli per loca et ordines suos proficiscentur.  <div eID="gen511" type="x-p"/>
+Levabitur autem tabernaculum testimonii per officia Levitarum, et turmas eorum : quomodo erigetur, ita et deponetur. Singuli per loca et ordines suos proficiscentur.  
 
 ** Numbers 2:18
 
@@ -312,7 +312,7 @@ Et cunctus exercitus pugnatorum ejus, qui recensiti sunt, triginta quinque milli
 
 ** Numbers 2:24
 
-Omnes qui numerati sunt in castris Ephraim, centum octo millia centum per turmas suas : tertii proficiscentur.  <div eID="gen512" type="x-p"/>
+Omnes qui numerati sunt in castris Ephraim, centum octo millia centum per turmas suas : tertii proficiscentur.  
 
 ** Numbers 2:25
 
@@ -340,7 +340,7 @@ Cunctus exercitus pugnatorum ejus, quinquaginta tria millia quadringenti.
 
 ** Numbers 2:31
 
-Omnes qui numerati sunt in castris Dan, fuerunt centum quinquaginta septem millia sexcenti : et novissimi proficiscentur.  <div eID="gen513" type="x-p"/>
+Omnes qui numerati sunt in castris Dan, fuerunt centum quinquaginta septem millia sexcenti : et novissimi proficiscentur.  
 
 ** Numbers 2:32
 
@@ -352,7 +352,7 @@ Levitæ autem non sunt numerati inter filios Israël : sic enim præceperat Domi
 
 ** Numbers 2:34
 
-Feceruntque filii Israël juxta omnia quæ mandaverat Dominus. Castrametati sunt per turmas suas, et profecti per familias ac domos patrum suorum.  <chapter eID="Num.2"/> <div eID="gen514" type="x-p"/>
+Feceruntque filii Israël juxta omnia quæ mandaverat Dominus. Castrametati sunt per turmas suas, et profecti per familias ac domos patrum suorum.   
 
 * Numbers 3
 
@@ -510,7 +510,7 @@ Castrametabuntur ante tabernaculum fœderis, id est, ad orientalem plagam, Moyse
 
 ** Numbers 3:39
 
-Omnes Levitæ, quos numeraverunt Moyses et Aaron juxta præceptum Domini per familias suas in genere masculino a mense uno et supra, fuerunt viginti duo millia.  <div eID="gen515" type="x-p"/>
+Omnes Levitæ, quos numeraverunt Moyses et Aaron juxta præceptum Domini per familias suas in genere masculino a mense uno et supra, fuerunt viginti duo millia.  
 
 ** Numbers 3:40
 
@@ -558,7 +558,7 @@ pro primogenitis filiorum Israël, mille trecentorum sexaginta quinque siclorum 
 
 ** Numbers 3:51
 
-et dedit eam Aaron et filiis ejus juxta verbum quod præceperat sibi Dominus.  <chapter eID="Num.3"/> <div eID="gen516" type="x-p"/>
+et dedit eam Aaron et filiis ejus juxta verbum quod præceperat sibi Dominus.   
 
 * Numbers 4
 
@@ -756,7 +756,7 @@ fuerunt simul octo millia quingenti octoginta.
 
 ** Numbers 4:49
 
-Juxta verbum Domini recensuit eos Moyses, unumquemque juxta officium et onera sua, sicut præceperat ei Dominus.  <chapter eID="Num.4"/> <div eID="gen517" type="x-p"/>
+Juxta verbum Domini recensuit eos Moyses, unumquemque juxta officium et onera sua, sicut præceperat ei Dominus.   
 
 * Numbers 5
 
@@ -798,7 +798,7 @@ Omnes quoque primitiæ, quas offerunt filii Israël, ad sacerdotem pertinent :
 
 ** Numbers 5:10
 
-et quidquid in sanctuarium offertur a singulis, et traditur manibus sacerdotis, ipsius erit.  <div eID="gen518" type="x-p"/>
+et quidquid in sanctuarium offertur a singulis, et traditur manibus sacerdotis, ipsius erit.  
 
 ** Numbers 5:11
 
@@ -882,7 +882,7 @@ maritusque zelotypiæ spiritu concitatus adduxerit eam in conspectu Domini, et f
 
 ** Numbers 5:31
 
-maritus absque culpa erit, et illa recipiet iniquitatem suam.  <chapter eID="Num.5"/> <div eID="gen519" type="x-p"/>
+maritus absque culpa erit, et illa recipiet iniquitatem suam.   
 
 * Numbers 6
 
@@ -968,7 +968,7 @@ Susceptaque rursum ab eo, elevabit in conspectu Domini : et sanctificata sacerdo
 
 ** Numbers 6:21
 
-Ista est lex nazaræi, cum voverit oblationem suam Domino tempore consecrationis suæ, exceptis his, quæ invenerit manus ejus : juxta quod mente devoverat, ita faciet ad perfectionem sanctificationis suæ.  <div eID="gen520" type="x-p"/>
+Ista est lex nazaræi, cum voverit oblationem suam Domino tempore consecrationis suæ, exceptis his, quæ invenerit manus ejus : juxta quod mente devoverat, ita faciet ad perfectionem sanctificationis suæ.  
 
 ** Numbers 6:22
 
@@ -992,7 +992,7 @@ Convertat Dominus vultum suum ad te, et det tibi pacem.
 
 ** Numbers 6:27
 
-Invocabuntque nomen meum super filios Israël, et ego benedicam eis.  <chapter eID="Num.6"/> <div eID="gen521" type="x-p"/>
+Invocabuntque nomen meum super filios Israël, et ego benedicam eis.   
 
 * Numbers 7
 
@@ -1030,7 +1030,7 @@ Quatuor alia plaustra et octo boves dedit filiis Merari secundum officia et cult
 
 ** Numbers 7:9
 
-Filiis autem Caath non dedit plaustra et boves : quia in sanctuario serviunt, et onera propriis portant humeris.  <div eID="gen522" type="x-p"/>
+Filiis autem Caath non dedit plaustra et boves : quia in sanctuario serviunt, et onera propriis portant humeris.  
 
 ** Numbers 7:10
 
@@ -1326,7 +1326,7 @@ hircumque pro peccato :
 
 ** Numbers 7:83
 
-et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Ahira filii Enan.  <div eID="gen523" type="x-p"/>
+et in hostias pacificorum boves duos, arietes quinque, hircos quinque, agnos anniculos quinque. Hæc fuit oblatio Ahira filii Enan.  
 
 ** Numbers 7:84
 
@@ -1350,7 +1350,7 @@ In hostias pacificorum, boves viginti quatuor, arietes sexaginta, hirci sexagint
 
 ** Numbers 7:89
 
-Cumque ingrederetur Moyses tabernaculum fœderis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos cherubim, unde et loquebatur ei.  <chapter eID="Num.7"/> <div eID="gen524" type="x-p"/>
+Cumque ingrederetur Moyses tabernaculum fœderis, ut consuleret oraculum, audiebat vocem loquentis ad se de propitiatorio quod erat super arcam testimonii inter duos cherubim, unde et loquebatur ei.   
 
 * Numbers 8
 
@@ -1368,7 +1368,7 @@ Fecitque Aaron, et imposuit lucernas super candelabrum, ut præceperat Dominus M
 
 ** Numbers 8:4
 
-Hæc autem erat factura candelabri, ex auro ductili, tam medius stipes, quam cuncta quæ ex utroque calamorum latere nascebantur : juxta exemplum quod ostendit Dominus Moysi, ita operatus est candelabrum.  <div eID="gen525" type="x-p"/>
+Hæc autem erat factura candelabri, ex auro ductili, tam medius stipes, quam cuncta quæ ex utroque calamorum latere nascebantur : juxta exemplum quod ostendit Dominus Moysi, ita operatus est candelabrum.  
 
 ** Numbers 8:5
 
@@ -1456,7 +1456,7 @@ Cumque quinquagesimum annum ætatis impleverint, servire cessabunt,
 
 ** Numbers 8:26
 
-eruntque ministri fratrum suorum in tabernaculo fœderis, ut custodiant quæ sibi fuerunt commendata : opera autem ipsa non faciant. Sic dispones Levitis in custodiis suis.  <chapter eID="Num.8"/> <div eID="gen526" type="x-p"/>
+eruntque ministri fratrum suorum in tabernaculo fœderis, ut custodiant quæ sibi fuerunt commendata : opera autem ipsa non faciant. Sic dispones Levitis in custodiis suis.   
 
 * Numbers 9
 
@@ -1514,7 +1514,7 @@ Si quis autem et mundus est, et in itinere non fuit, et tamen non fecit Phase, e
 
 ** Numbers 9:14
 
-Peregrinus quoque et advena si fuerint apud vos, facient Phase Domino juxta cæremonias et justificationes ejus. Præceptum idem erit apud vos tam advenæ quam indigenæ.  <div eID="gen527" type="x-p"/>
+Peregrinus quoque et advena si fuerint apud vos, facient Phase Domino juxta cæremonias et justificationes ejus. Præceptum idem erit apud vos tam advenæ quam indigenæ.  
 
 ** Numbers 9:15
 
@@ -1550,7 +1550,7 @@ Si vero biduo aut uno mense vel longiori tempore fuisset super tabernaculum, man
 
 ** Numbers 9:23
 
-Per verbum Domini figebant tentoria, et per verbum illius proficiscebantur : erantque in excubiis Domini juxta imperium ejus per manum Moysi.  <chapter eID="Num.9"/> <div eID="gen528" type="x-p"/>
+Per verbum Domini figebant tentoria, et per verbum illius proficiscebantur : erantque in excubiis Domini juxta imperium ejus per manum Moysi.   
 
 * Numbers 10
 
@@ -1592,7 +1592,7 @@ Si exieritis ad bellum de terra vestra contra hostes qui dimicant adversum vos, 
 
 ** Numbers 10:10
 
-Siquando habebitis epulum, et dies festos, et calendas, canetis tubis super holocaustis, et pacificis victimis, ut sint vobis in recordationem Dei vestri. Ego Dominus Deus vester.  <div eID="gen529" type="x-p"/>
+Siquando habebitis epulum, et dies festos, et calendas, canetis tubis super holocaustis, et pacificis victimis, ut sint vobis in recordationem Dei vestri. Ego Dominus Deus vester.  
 
 ** Numbers 10:11
 
@@ -1664,7 +1664,7 @@ Et in tribu filiorum Nephthali princeps fuit Ahira filius Enan.
 
 ** Numbers 10:28
 
-Hæc sunt castra, et profectiones filiorum Israël per turmas suas quando egrediebantur.  <div eID="gen530" type="x-p"/>
+Hæc sunt castra, et profectiones filiorum Israël per turmas suas quando egrediebantur.  
 
 ** Numbers 10:29
 
@@ -1696,7 +1696,7 @@ Cumque elevaretur arca, dicebat Moyses : Surge, Domine, et dissipentur inimici t
 
 ** Numbers 10:36
 
-Cum autem deponeretur, aiebat : Revertere, Domine, ad multitudinem exercitus Israël.  <chapter eID="Num.10"/> <div eID="gen531" type="x-p"/>
+Cum autem deponeretur, aiebat : Revertere, Domine, ad multitudinem exercitus Israël.   
 
 * Numbers 11
 
@@ -1734,7 +1734,7 @@ Circuibatque populus, et colligens illud, frangebat mola, sive terebat in mortar
 
 ** Numbers 11:9
 
-Cumque descenderet nocte super castra ros, descendebat pariter et man.  <div eID="gen532" type="x-p"/>
+Cumque descenderet nocte super castra ros, descendebat pariter et man.  
 
 ** Numbers 11:10
 
@@ -1758,7 +1758,7 @@ Non possum solus sustinere omnem hunc populum, quia gravis est mihi.
 
 ** Numbers 11:15
 
-Sin aliter tibi videtur, obsecro ut interficias me, et inveniam gratiam in oculis tuis, ne tantis afficiar malis.  <div eID="gen533" type="x-p"/>
+Sin aliter tibi videtur, obsecro ut interficias me, et inveniam gratiam in oculis tuis, ne tantis afficiar malis.  
 
 ** Numbers 11:16
 
@@ -1818,7 +1818,7 @@ At ille : Quid, inquit æmularis pro me ? quis tribuat ut omnis populus prophete
 
 ** Numbers 11:30
 
-Reversusque est Moyses, et majores natu Israël in castra.  <div eID="gen534" type="x-p"/>
+Reversusque est Moyses, et majores natu Israël in castra.  
 
 ** Numbers 11:31
 
@@ -1834,7 +1834,7 @@ Adhuc carnes erant in dentibus eorum, nec defecerat hujuscemodi cibus : et ecce 
 
 ** Numbers 11:34
 
-Vocatusque est ille locus, Sepulchra concupiscentiæ : ibi enim sepelierunt populum qui desideraverat. Egressi autem de Sepulchris concupiscentiæ, venerunt in Haseroth, et manserunt ibi.  <chapter eID="Num.11"/> <div eID="gen535" type="x-p"/>
+Vocatusque est ille locus, Sepulchra concupiscentiæ : ibi enim sepelierunt populum qui desideraverat. Egressi autem de Sepulchris concupiscentiæ, venerunt in Haseroth, et manserunt ibi.   
 
 * Numbers 12
 
@@ -1868,7 +1868,7 @@ At non talis servus meus Moyses, qui in omni domo mea fidelissimus est :
 
 ** Numbers 12:8
 
-ore enim ad os loquor ei : et palam, et non per ænigmata et figuras Dominum videt. Quare ergo non timuistis detrahere servo meo Moysi ?  <div eID="gen536" type="x-p"/>
+ore enim ad os loquor ei : et palam, et non per ænigmata et figuras Dominum videt. Quare ergo non timuistis detrahere servo meo Moysi ?  
 
 ** Numbers 12:9
 
@@ -1896,7 +1896,7 @@ Cui respondit Dominus : Si pater ejus spuisset in faciem illius, nonne debuerat 
 
 ** Numbers 12:15
 
-Exclusa est itaque Maria extra castra septem diebus : et populus non est motus de loco illo, donec revocata est Maria.  <chapter eID="Num.12"/> <div eID="gen537" type="x-p"/>
+Exclusa est itaque Maria extra castra septem diebus : et populus non est motus de loco illo, donec revocata est Maria.   
 
 * Numbers 13
 
@@ -1966,7 +1966,7 @@ De tribu Gad, Guel filium Machi.
 
 ** Numbers 13:17
 
-Hæc sunt nomina virorum, quos misit Moyses ad considerandam terram : vocavitque Osee filium Nun, Josue.  <div eID="gen538" type="x-p"/>
+Hæc sunt nomina virorum, quos misit Moyses ad considerandam terram : vocavitque Osee filium Nun, Josue.  
 
 ** Numbers 13:18
 
@@ -1998,7 +1998,7 @@ Pergentesque usque ad Torrentem botri, absciderunt palmitem cum uva sua, quem po
 
 ** Numbers 13:25
 
-qui appellatus est Nehelescol, id est Torrens botri, eo quod botrum portassent inde filii Israël.  <div eID="gen539" type="x-p"/>
+qui appellatus est Nehelescol, id est Torrens botri, eo quod botrum portassent inde filii Israël.  
 
 ** Numbers 13:26
 
@@ -2034,7 +2034,7 @@ Detraxeruntque terræ, quam inspexerant, apud filios Israël, dicentes : Terra, 
 
 ** Numbers 13:34
 
-Ibi vidimus monstra quædam filiorum Enac de genere giganteo : quibus comparati, quasi locustæ videbamur.  <chapter eID="Num.13"/> <div eID="gen540" type="x-p"/>
+Ibi vidimus monstra quædam filiorum Enac de genere giganteo : quibus comparati, quasi locustæ videbamur.   
 
 * Numbers 14
 
@@ -2076,7 +2076,7 @@ Nolite rebelles esse contra Dominum : neque timeatis populum terræ hujus, quia 
 
 ** Numbers 14:10
 
-Cumque clamaret omnis multitudo, et lapidibus eos vellet opprimere, apparuit gloria Domini super tectum fœderis cunctis filiis Israël.  <div eID="gen541" type="x-p"/>
+Cumque clamaret omnis multitudo, et lapidibus eos vellet opprimere, apparuit gloria Domini super tectum fœderis cunctis filiis Israël.  
 
 ** Numbers 14:11
 
@@ -2188,7 +2188,7 @@ mortui sunt atque percussi in conspectu Domini.
 
 ** Numbers 14:38
 
-Josue autem filius Nun, et Caleb filius Jephone, vixerunt ex omnibus qui perrexerant ad considerandam terram.  <div eID="gen542" type="x-p"/>
+Josue autem filius Nun, et Caleb filius Jephone, vixerunt ex omnibus qui perrexerant ad considerandam terram.  
 
 ** Numbers 14:39
 
@@ -2216,7 +2216,7 @@ At illi contenebrati ascenderunt in verticem montis. Arca autem testamenti Domin
 
 ** Numbers 14:45
 
-Descenditque Amalecites et Chananæus, qui habitabat in monte : et percutiens eos atque concidens, persecutus est eos usque Horma.  <chapter eID="Num.14"/> <div eID="gen543" type="x-p"/>
+Descenditque Amalecites et Chananæus, qui habitabat in monte : et percutiens eos atque concidens, persecutus est eos usque Horma.   
 
 * Numbers 15
 
@@ -2278,7 +2278,7 @@ eodem ritu offerent sacrificia.
 
 ** Numbers 15:15
 
-Unum præceptum erit atque judicium tam vobis quam advenis terræ.  <div eID="gen544" type="x-p"/>
+Unum præceptum erit atque judicium tam vobis quam advenis terræ.  
 
 ** Numbers 15:16
 
@@ -2302,7 +2302,7 @@ de cibis vestris. Sicut de areis primitias separatis,
 
 ** Numbers 15:21
 
-ita et de pulmentis dabitis primitiva Domino.  <div eID="gen545" type="x-p"/>
+ita et de pulmentis dabitis primitiva Domino.  
 
 ** Numbers 15:22
 
@@ -2342,7 +2342,7 @@ Anima vero, quæ per superbiam aliquid commiserit, sive civis sit ille, sive per
 
 ** Numbers 15:31
 
-verbum enim Domini contempsit, et præceptum illius fecit irritum : idcirco delebitur, et portabit iniquitatem suam.  <div eID="gen546" type="x-p"/>
+verbum enim Domini contempsit, et præceptum illius fecit irritum : idcirco delebitur, et portabit iniquitatem suam.  
 
 ** Numbers 15:32
 
@@ -2362,7 +2362,7 @@ Dixitque Dominus ad Moysen : Morte moriatur homo iste : obruat eum lapidibus omn
 
 ** Numbers 15:36
 
-Cumque eduxissent eum foras, obruerunt lapidibus, et mortuus est, sicut præceperat Dominus.  <div eID="gen547" type="x-p"/>
+Cumque eduxissent eum foras, obruerunt lapidibus, et mortuus est, sicut præceperat Dominus.  
 
 ** Numbers 15:37
 
@@ -2382,7 +2382,7 @@ sed magis memores præceptorum Domini faciant ea, sintque sancti Deo suo.
 
 ** Numbers 15:41
 
-Ego Dominus Deus vester, qui eduxi vos de terra Ægypti, ut essem Deus vester.  <chapter eID="Num.15"/> <div eID="gen548" type="x-p"/>
+Ego Dominus Deus vester, qui eduxi vos de terra Ægypti, ut essem Deus vester.   
 
 * Numbers 16
 
@@ -2428,7 +2428,7 @@ idcirco ad se fecit accedere te et omnes fratres tuos filios Levi, ut vobis etia
 
 ** Numbers 16:11
 
-et omnis globus tuus stet contra Dominum ? quid est enim Aaron ut murmuretis contra eum ?  <div eID="gen549" type="x-p"/>
+et omnis globus tuus stet contra Dominum ? quid est enim Aaron ut murmuretis contra eum ?  
 
 ** Numbers 16:12
 
@@ -2444,7 +2444,7 @@ Revera induxisti nos in terram, quæ fluit rivis lactis et mellis, et dedisti no
 
 ** Numbers 16:15
 
-Iratusque Moyses valde, ait ad Dominum : Ne respicias sacrificia eorum : tu scis quod ne asellum quidem umquam acceperim ab eis, nec afflixerim quempiam eorum.  <div eID="gen550" type="x-p"/>
+Iratusque Moyses valde, ait ad Dominum : Ne respicias sacrificia eorum : tu scis quod ne asellum quidem umquam acceperim ab eis, nec afflixerim quempiam eorum.  
 
 ** Numbers 16:16
 
@@ -2480,7 +2480,7 @@ Et ait Dominus ad Moysen :
 
 ** Numbers 16:24
 
-Præcipe universo populo ut separetur a tabernaculis Core et Dathan et Abiron.  <div eID="gen551" type="x-p"/>
+Præcipe universo populo ut separetur a tabernaculis Core et Dathan et Abiron.  
 
 ** Numbers 16:25
 
@@ -2504,7 +2504,7 @@ si consueta hominum morte interierint, et visitaverit eos plaga, qua et ceteri v
 
 ** Numbers 16:30
 
-sin autem novam rem fecerit Dominus, ut aperiens terra os suum deglutiat eos et omnia quæ ad illos pertinent, descenderintque viventes in infernum, scietis quod blasphemaverint Dominum.  <div eID="gen552" type="x-p"/>
+sin autem novam rem fecerit Dominus, ut aperiens terra os suum deglutiat eos et omnia quæ ad illos pertinent, descenderintque viventes in infernum, scietis quod blasphemaverint Dominum.  
 
 ** Numbers 16:31
 
@@ -2544,7 +2544,7 @@ Tulit ergo Eleazar sacerdos thuribula ænea, in quibus obtulerant hi quos incend
 
 ** Numbers 16:40
 
-ut haberent postea filii Israël, quibus commonerentur ne quis accedat alienigena, et qui non est de semine Aaron ad offerendum incensum Domino, ne patiatur sicut passus est Core, et omnis congregatio ejus, loquente Domino ad Moysen.  <div eID="gen553" type="x-p"/>
+ut haberent postea filii Israël, quibus commonerentur ne quis accedat alienigena, et qui non est de semine Aaron ad offerendum incensum Domino, ne patiatur sicut passus est Core, et omnis congregatio ejus, loquente Domino ad Moysen.  
 
 ** Numbers 16:41
 
@@ -2584,7 +2584,7 @@ Fuerunt autem qui percussi sunt, quatuordecim millia hominum, et septingenti, ab
 
 ** Numbers 16:50
 
-Reversusque est Aaron ad Moysen ad ostium tabernaculi fœderis postquam quievit interitus.  <chapter eID="Num.16"/> <div eID="gen554" type="x-p"/>
+Reversusque est Aaron ad Moysen ad ostium tabernaculi fœderis postquam quievit interitus.   
 
 * Numbers 17
 
@@ -2638,7 +2638,7 @@ Dixerunt autem filii Israël ad Moysen : Ecce consumpti sumus, omnes perivimus.
 
 ** Numbers 17:13
 
-Quicumque accedit ad tabernaculum Domini, moritur. Num usque ad internecionem cuncti delendi sumus ?  <chapter eID="Num.17"/> <div eID="gen555" type="x-p"/>
+Quicumque accedit ad tabernaculum Domini, moritur. Num usque ad internecionem cuncti delendi sumus ?   
 
 * Numbers 18
 
@@ -2668,7 +2668,7 @@ Ego dedi vobis fratres vestros Levitas de medio filiorum Israël, et tradidi don
 
 ** Numbers 18:7
 
-Tu autem et filii tui custodite sacerdotium vestrum : et omnia quæ ad cultum altaris pertinent, et intra velum sunt, per sacerdotes administrabuntur : si quis externus accesserit, occidetur.  <div eID="gen556" type="x-p"/>
+Tu autem et filii tui custodite sacerdotium vestrum : et omnia quæ ad cultum altaris pertinent, et intra velum sunt, per sacerdotes administrabuntur : si quis externus accesserit, occidetur.  
 
 ** Numbers 18:8
 
@@ -2716,7 +2716,7 @@ Carnes vero in usum tuum cedent, sicut pectusculum consecratum, et armus dexter 
 
 ** Numbers 18:19
 
-Omnes primitias sanctuarii, quas offerunt filii Israël Domino, tibi dedi, et filiis, ac filiabus tuis, jure perpetuo. Pactum salis est sempiternum coram Domino, tibi ac filiis tuis.  <div eID="gen557" type="x-p"/>
+Omnes primitias sanctuarii, quas offerunt filii Israël Domino, tibi dedi, et filiis, ac filiabus tuis, jure perpetuo. Pactum salis est sempiternum coram Domino, tibi ac filiis tuis.  
 
 ** Numbers 18:20
 
@@ -2736,7 +2736,7 @@ solis filiis Levi mihi in tabernaculo servientibus, et portantibus peccata popul
 
 ** Numbers 18:24
 
-decimarum oblatione contenti, quas in usus eorum et necessaria separavi.  <div eID="gen558" type="x-p"/>
+decimarum oblatione contenti, quas in usus eorum et necessaria separavi.  
 
 ** Numbers 18:25
 
@@ -2768,7 +2768,7 @@ et comedetis eas in omnibus locis vestris, tam vos quam familiæ vestræ : quia 
 
 ** Numbers 18:32
 
-Et non peccabitis super hoc, egregia vobis et pinguia reservantes, ne polluatis oblationes filiorum Israël, et moriamini.  <chapter eID="Num.18"/> <div eID="gen559" type="x-p"/>
+Et non peccabitis super hoc, egregia vobis et pinguia reservantes, ne polluatis oblationes filiorum Israël, et moriamini.   
 
 * Numbers 19
 
@@ -2810,7 +2810,7 @@ Colliget autem vir mundus cineres vaccæ, et effundet eos extra castra in loco p
 
 ** Numbers 19:10
 
-Cumque laverit qui vaccæ portaverat cineres vestimenta sua, immundus erit usque ad vesperum. Habebunt hoc filii Israël, et advenæ qui habitant inter eos, sanctum jure perpetuo.  <div eID="gen560" type="x-p"/>
+Cumque laverit qui vaccæ portaverat cineres vestimenta sua, immundus erit usque ad vesperum. Habebunt hoc filii Israël, et advenæ qui habitant inter eos, sanctum jure perpetuo.  
 
 ** Numbers 19:11
 
@@ -2858,7 +2858,7 @@ Erit hoc præceptum legitimum sempiternum. Ipse quoque qui aspergit aquas, lavab
 
 ** Numbers 19:22
 
-Quidquid tetigerit immundus, immundum faciet : et anima, quæ horum quippiam tetigerit, immunda erit usque ad vesperum.  <chapter eID="Num.19"/> <div eID="gen561" type="x-p"/>
+Quidquid tetigerit immundus, immundum faciet : et anima, quæ horum quippiam tetigerit, immunda erit usque ad vesperum.   
 
 * Numbers 20
 
@@ -2884,7 +2884,7 @@ quare nos fecistis ascendere de Ægypto, et adduxistis in locum istum pessimum, 
 
 ** Numbers 20:6
 
-Ingressusque Moyses et Aaron, dimissa multitudine, tabernaculum fœderis, corruerunt proni in terram, clamaveruntque ad Dominum, atque dixerunt : Domine Deus, audi clamorem hujus populi, et aperi eis thesaurum tuum fontem aquæ vivæ, ut satiati, cesset murmuratio eorum. Et apparuit gloria Domini super eos.  <div eID="gen562" type="x-p"/>
+Ingressusque Moyses et Aaron, dimissa multitudine, tabernaculum fœderis, corruerunt proni in terram, clamaveruntque ad Dominum, atque dixerunt : Domine Deus, audi clamorem hujus populi, et aperi eis thesaurum tuum fontem aquæ vivæ, ut satiati, cesset murmuratio eorum. Et apparuit gloria Domini super eos.  
 
 ** Numbers 20:7
 
@@ -2912,7 +2912,7 @@ Dixitque Dominus ad Moysen et Aaron : Quia non credidistis mihi, ut sanctificare
 
 ** Numbers 20:13
 
-Hæc est aqua contradictionis, ubi jurgati sunt filii Israël contra Dominum, et sanctificatus est in eis.  <div eID="gen563" type="x-p"/>
+Hæc est aqua contradictionis, ubi jurgati sunt filii Israël contra Dominum, et sanctificatus est in eis.  
 
 ** Numbers 20:14
 
@@ -2944,7 +2944,7 @@ At ille respondit : Non transibis. Statimque egressus est obvius, cum infinita m
 
 ** Numbers 20:21
 
-nec voluit acquiescere deprecanti, ut concederet transitum per fines suos. Quam ob rem divertit ab eo Israël.  <div eID="gen564" type="x-p"/>
+nec voluit acquiescere deprecanti, ut concederet transitum per fines suos. Quam ob rem divertit ab eo Israël.  
 
 ** Numbers 20:22
 
@@ -2980,7 +2980,7 @@ Illo mortuo in montis supercilio, descendit cum Eleazaro.
 
 ** Numbers 20:30
 
-Omnis autem multitudo videns occubuisse Aaron, flevit super eo triginta diebus per cunctas familias suas.  <chapter eID="Num.20"/> <div eID="gen565" type="x-p"/>
+Omnis autem multitudo videns occubuisse Aaron, flevit super eo triginta diebus per cunctas familias suas.   
 
 * Numbers 21
 
@@ -2994,7 +2994,7 @@ At Israël voto se Domino obligans, ait : Si tradideris populum istum in manu me
 
 ** Numbers 21:3
 
-Exaudivitque Dominus preces Israël, et tradidit Chananæum, quem ille interfecit subversis urbibus ejus : et vocavit nomen loci illius Horma, id est, anathema.  <div eID="gen566" type="x-p"/>
+Exaudivitque Dominus preces Israël, et tradidit Chananæum, quem ille interfecit subversis urbibus ejus : et vocavit nomen loci illius Horma, id est, anathema.  
 
 ** Numbers 21:4
 
@@ -3018,7 +3018,7 @@ et locutus est Dominus ad eum : Fac serpentem æneum, et pone eum pro signo : qu
 
 ** Numbers 21:9
 
-Fecit ergo Moyses serpentem æneum, et posuit eum pro signo : quem cum percussi aspicerent, sanabantur.  <div eID="gen567" type="x-p"/>
+Fecit ergo Moyses serpentem æneum, et posuit eum pro signo : quem cum percussi aspicerent, sanabantur.  
 
 ** Numbers 21:10
 
@@ -3038,11 +3038,11 @@ Quem relinquentes castrametati sunt contra Arnon, quæ est in deserto, et promin
 
 ** Numbers 21:14
 
-Unde dicitur in libro bellorum Domini : <div eID="gen568" type="x-p"/> <lg sID="gen569"/> <l level="1" sID="gen570"/>Sicut fecit in mari Rubro, <l eID="gen570" level="1"/> <l level="1" sID="gen571"/>sic faciet in torrentibus Arnon. <l eID="gen571" level="1"/>
+Unde dicitur in libro bellorum Domini :   Sicut fecit in mari Rubro,  sic faciet in torrentibus Arnon. 
 
 ** Numbers 21:15
 
-Scopuli torrentium inclinati sunt, ut requiescerent in Ar, <l eID="gen572" level="1"/> <l level="1" sID="gen573"/>et recumberent in finibus Moabitarum.
+Scopuli torrentium inclinati sunt, ut requiescerent in Ar,  et recumberent in finibus Moabitarum.
 
 ** Numbers 21:16
 
@@ -3050,11 +3050,11 @@ Ex eo loco apparuit puteus, super quo locutus est Dominus ad Moysen : Congrega p
 
 ** Numbers 21:17
 
-Tunc cecinit Israël carmen istud : <l eID="gen573" level="1"/> <l level="1" sID="gen574"/>Ascendat puteus. Concinebant : <l eID="gen574" level="1"/>
+Tunc cecinit Israël carmen istud :  Ascendat puteus. Concinebant : 
 
 ** Numbers 21:18
 
-Puteus, quem foderunt principes <l eID="gen575" level="1"/> <l level="1" sID="gen576"/>et paraverunt duces multitudinis <l eID="gen576" level="1"/> <l level="1" sID="gen577"/>in datore legis, et in baculis suis. De solitudine, Matthana.
+Puteus, quem foderunt principes  et paraverunt duces multitudinis  in datore legis, et in baculis suis. De solitudine, Matthana.
 
 ** Numbers 21:19
 
@@ -3062,7 +3062,7 @@ De Matthana in Nahaliel : de Nahaliel in Bamoth.
 
 ** Numbers 21:20
 
-De Bamoth, vallis est in regione Moab, in vertice Phasga, quod respicit contra desertum. <l eID="gen577" level="1"/> <lg eID="gen569"/>
+De Bamoth, vallis est in regione Moab, in vertice Phasga, quod respicit contra desertum.  
 
 ** Numbers 21:21
 
@@ -3090,23 +3090,23 @@ Urbs Hesebon fuit Sehon regis Amorrhæi, qui pugnavit contra regem Moab : et tul
 
 ** Numbers 21:27
 
-Idcirco dicitur in proverbio : <div eID="gen578" type="x-p"/> <lg sID="gen579"/> <l level="1" sID="gen580"/>Venite in Hesebon : ædificetur, et construatur civitas Sehon : <l eID="gen580" level="1"/>
+Idcirco dicitur in proverbio :   Venite in Hesebon : ædificetur, et construatur civitas Sehon : 
 
 ** Numbers 21:28
 
-ignis egressus est de Hesebon, flamma de oppido Sehon, <l eID="gen581" level="1"/> <l level="1" sID="gen582"/>et devoravit Ar Moabitarum, et habitatores excelsorum Arnon. <l eID="gen582" level="1"/>
+ignis egressus est de Hesebon, flamma de oppido Sehon,  et devoravit Ar Moabitarum, et habitatores excelsorum Arnon. 
 
 ** Numbers 21:29
 
-Væ tibi Moab ; peristi popule Chamos. <l eID="gen583" level="1"/> <l level="1" sID="gen584"/>Dedit filios ejus in fugam, et filias in captivitatem regi Amorrhæorum Sehon. <l eID="gen584" level="1"/>
+Væ tibi Moab ; peristi popule Chamos.  Dedit filios ejus in fugam, et filias in captivitatem regi Amorrhæorum Sehon. 
 
 ** Numbers 21:30
 
-Jugum ipsorum disperiit ad Hesebon usque Dibon : <l eID="gen585" level="1"/> <l level="1" sID="gen586"/>lassi pervenerunt in Nophe, et usque Medaba.
+Jugum ipsorum disperiit ad Hesebon usque Dibon :  lassi pervenerunt in Nophe, et usque Medaba.
 
 ** Numbers 21:31
 
-Habitavit itaque Israël in terra Amorrhæi. <l eID="gen586" level="1"/> <lg eID="gen579"/>
+Habitavit itaque Israël in terra Amorrhæi.  
 
 ** Numbers 21:32
 
@@ -3122,7 +3122,7 @@ Dixitque Dominus ad Moysen : Ne timeas eum, quia in manu tua tradidi illum, et o
 
 ** Numbers 21:35
 
-Percusserunt igitur et hunc cum filiis suis, universumque populum ejus usque ad internecionem, et possederunt terram illius.  <chapter eID="Num.21"/> <div eID="gen587" type="x-p"/>
+Percusserunt igitur et hunc cum filiis suis, universumque populum ejus usque ad internecionem, et possederunt terram illius.   
 
 * Numbers 22
 
@@ -3180,7 +3180,7 @@ Qui mane consurgens dixit ad principes : Ite in terram vestram, quia prohibuit m
 
 ** Numbers 22:14
 
-Reversi principes dixerunt ad Balac : Noluit Balaam venire nobiscum.  <div eID="gen588" type="x-p"/>
+Reversi principes dixerunt ad Balac : Noluit Balaam venire nobiscum.  
 
 ** Numbers 22:15
 
@@ -3208,7 +3208,7 @@ Venit ergo Deus ad Balaam nocte, et ait ei : Si vocare te venerunt homines isti,
 
 ** Numbers 22:21
 
-Surrexit Balaam mane, et strata asina sua profectus est cum eis.  <div eID="gen589" type="x-p"/>
+Surrexit Balaam mane, et strata asina sua profectus est cum eis.  
 
 ** Numbers 22:22
 
@@ -3256,7 +3256,7 @@ Cui angelus : Cur, inquit, tertio verberas asinam tuam ? ego veni ut adversarer 
 
 ** Numbers 22:33
 
-et nisi asina declinasset de via, dans locum resistenti, te occidissem, et illa viveret.  <div eID="gen590" type="x-p"/>
+et nisi asina declinasset de via, dans locum resistenti, te occidissem, et illa viveret.  
 
 ** Numbers 22:34
 
@@ -3288,7 +3288,7 @@ Cumque occidisset Balac boves et oves, misit ad Balaam, et principes qui cum eo 
 
 ** Numbers 22:41
 
-Mane autem facto, duxit eum ad excelsa Baal, et intuitus est extremam partem populi.  <chapter eID="Num.22"/> <div eID="gen591" type="x-p"/>
+Mane autem facto, duxit eum ad excelsa Baal, et intuitus est extremam partem populi.   
 
 * Numbers 23
 
@@ -3318,19 +3318,19 @@ Reversus invenit stantem Balac juxta holocaustum suum, et omnes principes Moabit
 
 ** Numbers 23:7
 
-assumptaque parabola sua, dixit : <div eID="gen592" type="x-p"/> <lg sID="gen593"/> <l level="1" sID="gen594"/>De Aram adduxit me Balac <l eID="gen594" level="1"/> <l level="1" sID="gen595"/>rex Moabitarum, de montibus orientis : <l eID="gen595" level="1"/> <l level="1" sID="gen596"/>Veni, inquit, et maledic Jacob ; <l eID="gen596" level="1"/> <l level="1" sID="gen597"/>propera, et detestare Israël. <l eID="gen597" level="1"/>
+assumptaque parabola sua, dixit :   De Aram adduxit me Balac  rex Moabitarum, de montibus orientis :  Veni, inquit, et maledic Jacob ;  propera, et detestare Israël. 
 
 ** Numbers 23:8
 
-Quomodo maledicam, cui non maledixit Deus ? <l eID="gen598" level="1"/> <l level="1" sID="gen599"/>qua ratione detester, quem Dominus non detestatur ? <l eID="gen599" level="1"/>
+Quomodo maledicam, cui non maledixit Deus ?  qua ratione detester, quem Dominus non detestatur ? 
 
 ** Numbers 23:9
 
-De summis silicibus videbo eum, <l eID="gen600" level="1"/> <l level="1" sID="gen601"/>et de collibus considerabo illum. <l eID="gen601" level="1"/> <l level="1" sID="gen602"/>Populus solus habitabit, <l eID="gen602" level="1"/> <l level="1" sID="gen603"/>et inter gentes non reputabitur. <l eID="gen603" level="1"/>
+De summis silicibus videbo eum,  et de collibus considerabo illum.  Populus solus habitabit,  et inter gentes non reputabitur. 
 
 ** Numbers 23:10
 
-Quis dinumerare possit pulverem Jacob, <l eID="gen604" level="1"/> <l level="1" sID="gen605"/>et nosse numerum stirpis Israël ? <l eID="gen605" level="1"/> <l level="1" sID="gen606"/>Moriatur anima mea morte justorum, <l eID="gen606" level="1"/> <l level="1" sID="gen607"/>et fiant novissima mea horum similia. <l eID="gen607" level="1"/> <lg eID="gen593"/>
+Quis dinumerare possit pulverem Jacob,  et nosse numerum stirpis Israël ?  Moriatur anima mea morte justorum,  et fiant novissima mea horum similia.  
 
 ** Numbers 23:11
 
@@ -3362,31 +3362,31 @@ Reversus invenit eum stantem juxta holocaustum suum, et principes Moabitarum cum
 
 ** Numbers 23:18
 
-At ille, assumpta parabola sua, ait : <div eID="gen608" type="x-p"/> <lg sID="gen609"/> <l level="1" sID="gen610"/>Sta, Balac, et ausculta ; audi, fili Sephor : <l eID="gen610" level="1"/>
+At ille, assumpta parabola sua, ait :   Sta, Balac, et ausculta ; audi, fili Sephor : 
 
 ** Numbers 23:19
 
-non est Deus quasi homo, ut mentiatur, <l eID="gen611" level="1"/> <l level="1" sID="gen612"/>nec ut filius hominis, ut mutetur. <l eID="gen612" level="1"/> <l level="1" sID="gen613"/>Dixit ergo, et non faciet ? <l eID="gen613" level="1"/> <l level="1" sID="gen614"/>locutus est, et non implebit ? <l eID="gen614" level="1"/>
+non est Deus quasi homo, ut mentiatur,  nec ut filius hominis, ut mutetur.  Dixit ergo, et non faciet ?  locutus est, et non implebit ? 
 
 ** Numbers 23:20
 
-Ad benedicendum adductus sum : <l eID="gen615" level="1"/> <l level="1" sID="gen616"/>benedictionem prohibere non valeo. <l eID="gen616" level="1"/>
+Ad benedicendum adductus sum :  benedictionem prohibere non valeo. 
 
 ** Numbers 23:21
 
-Non est idolum in Jacob, <l eID="gen617" level="1"/> <l level="1" sID="gen618"/>nec videtur simulacrum in Israël. <l eID="gen618" level="1"/> <l level="1" sID="gen619"/>Dominus Deus ejus cum eo est, <l eID="gen619" level="1"/> <l level="1" sID="gen620"/>et clangor victoriæ regis in illo. <l eID="gen620" level="1"/>
+Non est idolum in Jacob,  nec videtur simulacrum in Israël.  Dominus Deus ejus cum eo est,  et clangor victoriæ regis in illo. 
 
 ** Numbers 23:22
 
-Deus eduxit illum de Ægypto, <l eID="gen621" level="1"/> <l level="1" sID="gen622"/>cujus fortitudo similis est rhinocerotis. <l eID="gen622" level="1"/>
+Deus eduxit illum de Ægypto,  cujus fortitudo similis est rhinocerotis. 
 
 ** Numbers 23:23
 
-Non est augurium in Jacob, <l eID="gen623" level="1"/> <l level="1" sID="gen624"/>nec divinatio in Israël : <l eID="gen624" level="1"/> <l level="1" sID="gen625"/>temporibus suis dicetur Jacob et Israëli quid operatus sit Deus. <l eID="gen625" level="1"/>
+Non est augurium in Jacob,  nec divinatio in Israël :  temporibus suis dicetur Jacob et Israëli quid operatus sit Deus. 
 
 ** Numbers 23:24
 
-Ecce populus ut leæna consurget, <l eID="gen626" level="1"/> <l level="1" sID="gen627"/>et quasi leo erigetur : <l eID="gen627" level="1"/> <l level="1" sID="gen628"/>non accubabit donec devoret prædam, <l eID="gen628" level="1"/> <l level="1" sID="gen629"/>et occisorum sanguinem bibat. <l eID="gen629" level="1"/> <lg eID="gen609"/>
+Ecce populus ut leæna consurget,  et quasi leo erigetur :  non accubabit donec devoret prædam,  et occisorum sanguinem bibat.  
 
 ** Numbers 23:25
 
@@ -3410,7 +3410,7 @@ dixit ei Balaam : Ædifica mihi hic septem aras, et para totidem vitulos, ejusde
 
 ** Numbers 23:30
 
-Fecit Balac ut Balaam dixerat : imposuitque vitulos et arietes per singulas aras.  <chapter eID="Num.23"/> <div eID="gen630" type="x-p"/>
+Fecit Balac ut Balaam dixerat : imposuitque vitulos et arietes per singulas aras.   
 
 * Numbers 24
 
@@ -3424,31 +3424,31 @@ et elevans oculos, vidit Israël in tentoriis commorantem per tribus suas : et i
 
 ** Numbers 24:3
 
-assumpta parabola, ait : <div eID="gen631" type="x-p"/> <lg sID="gen632"/> <l level="1" sID="gen633"/>Dixit Balaam filius Beor : <l eID="gen633" level="1"/> <l level="1" sID="gen634"/>dixit homo, cujus obturatus est oculus : <l eID="gen634" level="1"/>
+assumpta parabola, ait :   Dixit Balaam filius Beor :  dixit homo, cujus obturatus est oculus : 
 
 ** Numbers 24:4
 
-dixit auditor sermonum Dei, <l eID="gen635" level="1"/> <l level="1" sID="gen636"/>qui visionem Omnipotentis intuitus est, <l eID="gen636" level="1"/> <l level="1" sID="gen637"/>qui cadit, et sic aperiuntur oculi ejus : <l eID="gen637" level="1"/>
+dixit auditor sermonum Dei,  qui visionem Omnipotentis intuitus est,  qui cadit, et sic aperiuntur oculi ejus : 
 
 ** Numbers 24:5
 
-Quam pulchra tabernacula tua, Jacob, <l eID="gen638" level="1"/> <l level="1" sID="gen639"/>et tentoria tua, Israël ! <l eID="gen639" level="1"/>
+Quam pulchra tabernacula tua, Jacob,  et tentoria tua, Israël ! 
 
 ** Numbers 24:6
 
-ut valles nemorosæ, <l eID="gen640" level="1"/> <l level="1" sID="gen641"/>ut horti juxta fluvios irrigui, <l eID="gen641" level="1"/> <l level="1" sID="gen642"/>ut tabernacula quæ fixit Dominus, <l eID="gen642" level="1"/> <l level="1" sID="gen643"/>quasi cedri prope aquas. <l eID="gen643" level="1"/>
+ut valles nemorosæ,  ut horti juxta fluvios irrigui,  ut tabernacula quæ fixit Dominus,  quasi cedri prope aquas. 
 
 ** Numbers 24:7
 
-Fluet aqua de situla ejus, <l eID="gen644" level="1"/> <l level="1" sID="gen645"/>et semen illius erit in aquas multas. <l eID="gen645" level="1"/> <l level="1" sID="gen646"/>Tolletur propter Agag, rex ejus, <l eID="gen646" level="1"/> <l level="1" sID="gen647"/>et auferetur regnum illius. <l eID="gen647" level="1"/>
+Fluet aqua de situla ejus,  et semen illius erit in aquas multas.  Tolletur propter Agag, rex ejus,  et auferetur regnum illius. 
 
 ** Numbers 24:8
 
-Deus eduxit illum de Ægypto, <l eID="gen648" level="1"/> <l level="1" sID="gen649"/>cujus fortitudo similis est rhinocerotis. <l eID="gen649" level="1"/> <l level="1" sID="gen650"/>Devorabunt gentes hostes illius, <l eID="gen650" level="1"/> <l level="1" sID="gen651"/>ossaque eorum confringent, et perforabunt sagittis. <l eID="gen651" level="1"/>
+Deus eduxit illum de Ægypto,  cujus fortitudo similis est rhinocerotis.  Devorabunt gentes hostes illius,  ossaque eorum confringent, et perforabunt sagittis. 
 
 ** Numbers 24:9
 
-Accubans dormivit ut leo, <l eID="gen652" level="1"/> <l level="1" sID="gen653"/>et quasi leæna, quam suscitare nullus audebit. <l eID="gen653" level="1"/> <l level="1" sID="gen654"/>Qui benedixerit tibi, erit et ipse benedictus : <l eID="gen654" level="1"/> <l level="1" sID="gen655"/>qui maledixerit, in maledictione reputabitur. <l eID="gen655" level="1"/> <lg eID="gen632"/>
+Accubans dormivit ut leo,  et quasi leæna, quam suscitare nullus audebit.  Qui benedixerit tibi, erit et ipse benedictus :  qui maledixerit, in maledictione reputabitur.  
 
 ** Numbers 24:10
 
@@ -3472,47 +3472,47 @@ verumtamen pergens ad populum meum, dabo consilium, quid populus tuus populo hui
 
 ** Numbers 24:15
 
-Sumpta igitur parabola, rursum ait : <div eID="gen656" type="x-p"/> <lg sID="gen657"/> <l level="1" sID="gen658"/>Dixit Balaam filius Beor : <l eID="gen658" level="1"/> <l level="1" sID="gen659"/>dixit homo, cujus obturatus est oculus : <l eID="gen659" level="1"/>
+Sumpta igitur parabola, rursum ait :   Dixit Balaam filius Beor :  dixit homo, cujus obturatus est oculus : 
 
 ** Numbers 24:16
 
-dixit auditor sermonum Dei, <l eID="gen660" level="1"/> <l level="1" sID="gen661"/>qui novit doctrinam Altissimi, <l eID="gen661" level="1"/> <l level="1" sID="gen662"/>et visiones Omnipotentis videt, <l eID="gen662" level="1"/> <l level="1" sID="gen663"/>qui cadens apertos habet oculos : <l eID="gen663" level="1"/>
+dixit auditor sermonum Dei,  qui novit doctrinam Altissimi,  et visiones Omnipotentis videt,  qui cadens apertos habet oculos : 
 
 ** Numbers 24:17
 
-Videbo eum, sed non modo : <l eID="gen664" level="1"/> <l level="1" sID="gen665"/>intuebor illum, sed non prope. <l eID="gen665" level="1"/> <l level="1" sID="gen666"/>Orietur stella ex Jacob, <l eID="gen666" level="1"/> <l level="1" sID="gen667"/>et consurget virga de Israël : <l eID="gen667" level="1"/> <l level="1" sID="gen668"/>et percutiet duces Moab, <l eID="gen668" level="1"/> <l level="1" sID="gen669"/>vastabitque omnes filios Seth. <l eID="gen669" level="1"/>
+Videbo eum, sed non modo :  intuebor illum, sed non prope.  Orietur stella ex Jacob,  et consurget virga de Israël :  et percutiet duces Moab,  vastabitque omnes filios Seth. 
 
 ** Numbers 24:18
 
-Et erit Idumæa possessio ejus : <l eID="gen670" level="1"/> <l level="1" sID="gen671"/>hæreditas Seir cedet inimicis suis : <l eID="gen671" level="1"/> <l level="1" sID="gen672"/>Israël vero fortiter aget. <l eID="gen672" level="1"/>
+Et erit Idumæa possessio ejus :  hæreditas Seir cedet inimicis suis :  Israël vero fortiter aget. 
 
 ** Numbers 24:19
 
-De Jacob erit qui dominetur, <l eID="gen673" level="1"/> <l level="1" sID="gen674"/>et perdat reliquias civitatis. <l eID="gen674" level="1"/>
+De Jacob erit qui dominetur,  et perdat reliquias civitatis. 
 
 ** Numbers 24:20
 
-Cumque vidisset Amalec, assumens parabolam, ait : <l eID="gen675" level="1"/> <l level="1" sID="gen676"/>Principium gentium Amalec, <l eID="gen676" level="1"/> <l level="1" sID="gen677"/>cujus extrema perdentur.
+Cumque vidisset Amalec, assumens parabolam, ait :  Principium gentium Amalec,  cujus extrema perdentur.
 
 ** Numbers 24:21
 
-Vidit quoque Cinæum : et assumpta parabola, ait : <l eID="gen677" level="1"/> <l level="1" sID="gen678"/>Robustum quidem est habitaculum tuum : <l eID="gen678" level="1"/> <l level="1" sID="gen679"/>sed si in petra posueris nidum tuum, <l eID="gen679" level="1"/>
+Vidit quoque Cinæum : et assumpta parabola, ait :  Robustum quidem est habitaculum tuum :  sed si in petra posueris nidum tuum, 
 
 ** Numbers 24:22
 
-et fueris electus de stirpe Cin, <l eID="gen680" level="1"/> <l level="1" sID="gen681"/>quamdiu poteris permanere ? Assur enim capiet te.
+et fueris electus de stirpe Cin,  quamdiu poteris permanere ? Assur enim capiet te.
 
 ** Numbers 24:23
 
-Assumptaque parabola iterum locutus est : <l eID="gen681" level="1"/> <l level="1" sID="gen682"/>Heu ! quis victurus est, <l eID="gen682" level="1"/> <l level="1" sID="gen683"/>quando ista faciet Deus ? <l eID="gen683" level="1"/>
+Assumptaque parabola iterum locutus est :  Heu ! quis victurus est,  quando ista faciet Deus ? 
 
 ** Numbers 24:24
 
-Venient in trieribus de Italia : <l eID="gen684" level="1"/> <l level="1" sID="gen685"/>superabunt Assyrios, vastabuntque Hebræos, et ad extremum etiam ipsi peribunt.
+Venient in trieribus de Italia :  superabunt Assyrios, vastabuntque Hebræos, et ad extremum etiam ipsi peribunt.
 
 ** Numbers 24:25
 
-Surrexitque Balaam, et reversus est in locum suum : Balac quoque via, qua venerat, rediit. <l eID="gen685" level="1"/><lg eID="gen657"/> <chapter eID="Num.24"/>
+Surrexitque Balaam, et reversus est in locum suum : Balac quoque via, qua venerat, rediit.  
 
 * Numbers 25
 
@@ -3538,7 +3538,7 @@ Dixitque Moyses ad judices Israël : Occidat unusquisque proximos suos, qui init
 
 ** Numbers 25:6
 
-Et ecce unus de filiis Israël intravit coram fratribus suis ad scortum Madianitidem, vidente Moyse, et omni turba filiorum Israël, qui flebant ante fores tabernaculi.  <div eID="gen686" type="x-p"/>
+Et ecce unus de filiis Israël intravit coram fratribus suis ad scortum Madianitidem, vidente Moyse, et omni turba filiorum Israël, qui flebant ante fores tabernaculi.  
 
 ** Numbers 25:7
 
@@ -3586,7 +3586,7 @@ Hostes vos sentiant Madianitæ, et percutite eos :
 
 ** Numbers 25:18
 
-quia et ipsi hostiliter egerunt contra vos, et decepere insidiis per idolum Phogor, et Cozbi filiam ducis Madian sororem suam, quæ percussa est in die plagæ pro sacrilegio Phogor.  <chapter eID="Num.25"/> <div eID="gen687" type="x-p"/>
+quia et ipsi hostiliter egerunt contra vos, et decepere insidiis per idolum Phogor, et Cozbi filiam ducis Madian sororem suam, quæ percussa est in die plagæ pro sacrilegio Phogor.   
 
 * Numbers 26
 
@@ -3812,7 +3812,7 @@ ita dumtaxat ut sors terram tribubus dividat et familiis.
 
 ** Numbers 26:56
 
-Quidquid sorte contigerit, hoc vel plures accipiant, vel pauciores.  <div eID="gen688" type="x-p"/>
+Quidquid sorte contigerit, hoc vel plures accipiant, vel pauciores.  
 
 ** Numbers 26:57
 
@@ -3848,7 +3848,7 @@ inter quos, nullus fuit eorum qui ante numerati sunt a Moyse et Aaron in deserto
 
 ** Numbers 26:65
 
-prædixerat enim Dominus quod omnes morerentur in solitudine. Nullusque remansit ex eis, nisi Caleb filius Jephone, et Josue filius Nun.  <chapter eID="Num.26"/> <div eID="gen689" type="x-p"/>
+prædixerat enim Dominus quod omnes morerentur in solitudine. Nullusque remansit ex eis, nisi Caleb filius Jephone, et Josue filius Nun.   
 
 * Numbers 27
 
@@ -3894,7 +3894,7 @@ Quod si et fratres non fuerint, dabitis hæreditatem fratribus patris ejus.
 
 ** Numbers 27:11
 
-Sin autem nec patruos habuerit, dabitur hæreditas his qui ei proximi sunt. Eritque hoc filiis Israël sanctum lege perpetua, sicut præcepit Dominus Moysi.  <div eID="gen690" type="x-p"/>
+Sin autem nec patruos habuerit, dabitur hæreditas his qui ei proximi sunt. Eritque hoc filiis Israël sanctum lege perpetua, sicut præcepit Dominus Moysi.  
 
 ** Numbers 27:12
 
@@ -3942,7 +3942,7 @@ Fecit Moyses ut præceperat Dominus : cumque tulisset Josue, statuit eum coram E
 
 ** Numbers 27:23
 
-Et impositis capiti ejus manibus, cuncta replicavit quæ mandaverat Dominus.  <chapter eID="Num.27"/> <div eID="gen691" type="x-p"/>
+Et impositis capiti ejus manibus, cuncta replicavit quæ mandaverat Dominus.   
 
 * Numbers 28
 
@@ -4068,7 +4068,7 @@ qui mactatur pro expiatione : præter holocaustum sempiternum et liba ejus.
 
 ** Numbers 28:31
 
-Immaculata offeretis omnia cum libationibus suis.  <chapter eID="Num.28"/> <div eID="gen692" type="x-p"/>
+Immaculata offeretis omnia cum libationibus suis.   
 
 * Numbers 29
 
@@ -4226,7 +4226,7 @@ et hircum pro peccato, absque holocausto sempiterno, sacrificioque ejus et libam
 
 ** Numbers 29:39
 
-Hæc offeretis Domino in solemnitatibus vestris : præter vota et oblationes spontaneas in holocausto, in sacrificio, in libamine, et in hostiis pacificis.  <chapter eID="Num.29"/> <div eID="gen693" type="x-p"/>
+Hæc offeretis Domino in solemnitatibus vestris : præter vota et oblationes spontaneas in holocausto, in sacrificio, in libamine, et in hostiis pacificis.   
 
 * Numbers 30
 
@@ -4296,7 +4296,7 @@ Sin autem contradixerit postquam rescivit, portabit ipse iniquitatem ejus.
 
 ** Numbers 30:17
 
-Istæ sunt leges, quas constituit Dominus Moysi inter virum et uxorem, inter patrem et filiam, quæ in puellari adhuc ætate est, vel quæ manet in parentis domo.  <chapter eID="Num.30"/> <div eID="gen694" type="x-p"/>
+Istæ sunt leges, quas constituit Dominus Moysi inter virum et uxorem, inter patrem et filiam, quæ in puellari adhuc ætate est, vel quæ manet in parentis domo.   
 
 * Numbers 31
 
@@ -4346,7 +4346,7 @@ Et tulerunt prædam, et universa quæ ceperant tam ex hominibus quam ex jumentis
 
 ** Numbers 31:12
 
-et adduxerunt ad Moysen, et Eleazarum sacerdotem, et ad omnem multitudinem filiorum Israël : reliqua autem utensilia portaverunt ad castra in campestribus Moab juxta Jordanem contra Jericho.  <div eID="gen695" type="x-p"/>
+et adduxerunt ad Moysen, et Eleazarum sacerdotem, et ad omnem multitudinem filiorum Israël : reliqua autem utensilia portaverunt ad castra in campestribus Moab juxta Jordanem contra Jericho.  
 
 ** Numbers 31:13
 
@@ -4378,7 +4378,7 @@ et manete extra castra septem diebus. Qui occiderit hominem, vel occisum tetiger
 
 ** Numbers 31:20
 
-Et de omni præda, sive vestimentum fuerit, sive vas, et aliquid in utensilia præparatum, de caprarum pellibus, et pilis, et ligno, expiabitur.  <div eID="gen696" type="x-p"/>
+Et de omni præda, sive vestimentum fuerit, sive vas, et aliquid in utensilia præparatum, de caprarum pellibus, et pilis, et ligno, expiabitur.  
 
 ** Numbers 31:21
 
@@ -4418,7 +4418,7 @@ et dabis eam Eleazaro sacerdoti, quia primitiæ Domini sunt.
 
 ** Numbers 31:30
 
-Ex media quoque parte filiorum Israël accipies quinquagesimum caput hominum, et boum, et asinorum, et ovium, cunctorum animantium, et dabis ea Levitis, qui excubant in custodiis tabernaculi Domini.  <div eID="gen697" type="x-p"/>
+Ex media quoque parte filiorum Israël accipies quinquagesimum caput hominum, et boum, et asinorum, et ovium, cunctorum animantium, et dabis ea Levitis, qui excubant in custodiis tabernaculi Domini.  
 
 ** Numbers 31:31
 
@@ -4486,7 +4486,7 @@ et de hominibus sedecim millibus,
 
 ** Numbers 31:47
 
-tulit Moyses quinquagesimum caput, et dedit Levitis, qui excubabant in tabernaculo Domini, sicut præceperat Dominus.  <div eID="gen698" type="x-p"/>
+tulit Moyses quinquagesimum caput, et dedit Levitis, qui excubabant in tabernaculo Domini, sicut præceperat Dominus.  
 
 ** Numbers 31:48
 
@@ -4514,7 +4514,7 @@ Unusquisque enim quod in præda rapuerat, suum erat.
 
 ** Numbers 31:54
 
-Et susceptum intulerunt in tabernaculum testimonii, in monimentum filiorum Israël coram Domino.  <chapter eID="Num.31"/> <div eID="gen699" type="x-p"/>
+Et susceptum intulerunt in tabernaculum testimonii, in monimentum filiorum Israël coram Domino.   
 
 * Numbers 32
 
@@ -4592,7 +4592,7 @@ Non revertemur in domos nostras, usque dum possideant filii Israël hæreditatem
 
 ** Numbers 32:19
 
-nec quidquam quæremus trans Jordanem, quia jam habemus nostram possessionem in orientali ejus plaga.  <div eID="gen700" type="x-p"/>
+nec quidquam quæremus trans Jordanem, quia jam habemus nostram possessionem in orientali ejus plaga.  
 
 ** Numbers 32:20
 
@@ -4644,7 +4644,7 @@ Responderuntque filii Gad et filii Ruben : Sicut locutus est Dominus servis suis
 
 ** Numbers 32:32
 
-ipsi armati pergemus coram Domino in terram Chanaan, et possessionem jam suscepisse nos confitemur trans Jordanem.  <div eID="gen701" type="x-p"/>
+ipsi armati pergemus coram Domino in terram Chanaan, et possessionem jam suscepisse nos confitemur trans Jordanem.  
 
 ** Numbers 32:33
 
@@ -4684,7 +4684,7 @@ Jair autem filius Manasse abiit, et occupavit vicos ejus, quos appellavit Havoth
 
 ** Numbers 32:42
 
-Nobe quoque perrexit, et apprehendit Chanath cum viculis suis : vocavitque eam ex nomine suo Nobe.  <chapter eID="Num.32"/> <div eID="gen702" type="x-p"/>
+Nobe quoque perrexit, et apprehendit Chanath cum viculis suis : vocavitque eam ex nomine suo Nobe.   
 
 * Numbers 33
 
@@ -4882,7 +4882,7 @@ Profectique de montibus Abarim, transierunt ad campestria Moab, supra Jordanem, 
 
 ** Numbers 33:49
 
-Ibique castrametati sunt de Bethsimoth usque ad Abelsatim in planioribus locis Moabitarum.  <div eID="gen703" type="x-p"/>
+Ibique castrametati sunt de Bethsimoth usque ad Abelsatim in planioribus locis Moabitarum.  
 
 ** Numbers 33:50
 
@@ -4910,7 +4910,7 @@ Sin autem nolueritis interficere habitatores terræ : qui remanserint, erunt vob
 
 ** Numbers 33:56
 
-et quidquid illis cogitaveram facere, vobis faciam.  <chapter eID="Num.33"/> <div eID="gen704" type="x-p"/>
+et quidquid illis cogitaveram facere, vobis faciam.   
 
 * Numbers 34
 
@@ -4960,7 +4960,7 @@ et de Sephama descendent termini in Rebla contra fontem Daphnim : inde pervenien
 
 ** Numbers 34:12
 
-et tendent usque ad Jordanem, et ad ultimum salsissimo claudentur mari. Hanc habebitis terram per fines suos in circuitu.  <div eID="gen705" type="x-p"/>
+et tendent usque ad Jordanem, et ad ultimum salsissimo claudentur mari. Hanc habebitis terram per fines suos in circuitu.  
 
 ** Numbers 34:13
 
@@ -5028,7 +5028,7 @@ De tribu Nephthali, Phedaël filius Ammiud.
 
 ** Numbers 34:29
 
-Hi sunt, quibus præcepit Dominus ut dividerent filiis Israël terram Chanaan.  <chapter eID="Num.34"/> <div eID="gen706" type="x-p"/>
+Hi sunt, quibus præcepit Dominus ut dividerent filiis Israël terram Chanaan.   
 
 * Numbers 35
 
@@ -5062,7 +5062,7 @@ id est, simul quadraginta octo cum suburbanis suis.
 
 ** Numbers 35:8
 
-Ipsæque urbes, quæ dabuntur de possessionibus filiorum Israël, ab his qui plus habent, plures auferentur : et qui minus, pauciores : singuli juxta mensuram hæreditatis suæ dabunt oppida Levitis.  <div eID="gen707" type="x-p"/>
+Ipsæque urbes, quæ dabuntur de possessionibus filiorum Israël, ab his qui plus habent, plures auferentur : et qui minus, pauciores : singuli juxta mensuram hæreditatis suæ dabunt oppida Levitis.  
 
 ** Numbers 35:9
 
@@ -5146,7 +5146,7 @@ Debuerat enim profugus usque ad mortem pontificis in urbe residere. Postquam aut
 
 ** Numbers 35:29
 
-Hæc sempiterna erunt, et legitima in cunctis habitationibus vestris.  <div eID="gen708" type="x-p"/>
+Hæc sempiterna erunt, et legitima in cunctis habitationibus vestris.  
 
 ** Numbers 35:30
 
@@ -5166,7 +5166,7 @@ ne polluatis terram habitationis vestræ, quæ insontium cruore maculatur : nec 
 
 ** Numbers 35:34
 
-Atque ita emundabitur vestra possessio me commorante vobiscum. Ego enim sum Dominus qui habito inter filios Israël.  <chapter eID="Num.35"/> <div eID="gen709" type="x-p"/>
+Atque ita emundabitur vestra possessio me commorante vobiscum. Ego enim sum Dominus qui habito inter filios Israël.   
 
 * Numbers 36
 
@@ -5220,5 +5220,5 @@ de familia Manasse, qui fuit filius Joseph : et possessio, quæ illis fuerat att
 
 ** Numbers 36:13
 
-Hæc sunt mandata atque judicia, quæ mandavit Dominus per manum Moysi ad filios Israël, in campestribus Moab supra Jordanem contra Jericho.  <div eID="gen710" type="x-p"/> <chapter eID="Num.36"/> <div eID="gen505" osisID="Num" type="book"/>
+Hæc sunt mandata atque judicia, quæ mandavit Dominus per manum Moysi ad filios Israël, in campestribus Moab supra Jordanem contra Jericho.    
 

@@ -58,7 +58,7 @@ And I will kindle a fire in the wall of Rabba: and it shall devour the houses th
 
 *** Amos 1:15
 
-And Melchom shall go into captivity, both he, and his princes together, saith the Lord. <chapter eID="gen26628" osisID="Amos.1"/>
+And Melchom shall go into captivity, both he, and his princes together, saith the Lord. 
 
 ** Amos 2
 
@@ -124,7 +124,7 @@ And he that holdeth the bow shall not stand, and the swift of foot shall not esc
 
 *** Amos 2:16
 
-And the stout of heart among the valiant shall flee away naked in that day, saith the Lord. <chapter eID="gen26644" osisID="Amos.2"/>
+And the stout of heart among the valiant shall flee away naked in that day, saith the Lord. 
 
 ** Amos 3
 
@@ -186,7 +186,7 @@ That in the day when I shall begin to visit the transgressions of Israel, I will
 
 *** Amos 3:15
 
-And I will strike the winter house with the summer house: and the houses of ivory shall perish, and many houses shall be destroyed, saith the Lord. <chapter eID="gen26661" osisID="Amos.3"/>
+And I will strike the winter house with the summer house: and the houses of ivory shall perish, and many houses shall be destroyed, saith the Lord. 
 
 ** Amos 4
 
@@ -240,7 +240,7 @@ Therefore I will do these things to thee, O Israel: and after I shall have done 
 
 *** Amos 4:13
 
-For behold he that formeth the mountains and createth the wind, and declareth his word to man, he that maketh the morning mist, and walketh upon the high places of the earth: the Lord the God of hosts is his name. <chapter eID="gen26677" osisID="Amos.4"/>
+For behold he that formeth the mountains and createth the wind, and declareth his word to man, he that maketh the morning mist, and walketh upon the high places of the earth: the Lord the God of hosts is his name. 
 
 ** Amos 5
 
@@ -350,7 +350,7 @@ But you carried a tabernacle for your Moloch, and the image of your idols, the s
 
 *** Amos 5:27
 
-And I will cause you to go into captivity beyond Damascus, saith the Lord, the God of hosts is his name. <chapter eID="gen26691" osisID="Amos.5"/>
+And I will cause you to go into captivity beyond Damascus, saith the Lord, the God of hosts is his name. 
 
 ** Amos 6
 
@@ -412,7 +412,7 @@ You that rejoice in a thing of nought: you that say: Have we not taken unto us h
 
 *** Amos 6:15
 
-But behold, I will raise up a nation against you, O house of Israel, saith the Lord the God of hosts; and they shall destroy you from the entrance of Emath, even to the torrent of the desert. <chapter eID="gen26719" osisID="Amos.6"/>
+But behold, I will raise up a nation against you, O house of Israel, saith the Lord the God of hosts; and they shall destroy you from the entrance of Emath, even to the torrent of the desert. 
 
 ** Amos 7
 
@@ -482,7 +482,7 @@ And now hear thou the word of the Lord: Thou sayest, thou shalt not prophesy aga
 
 *** Amos 7:17
 
-Therefore thus saith the Lord: Thy wife shall play the harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be measured by a line: and thou shalt die in a polluted land, and Israel shall go into captivity out of their land. <chapter eID="gen26735" osisID="Amos.7"/>
+Therefore thus saith the Lord: Thy wife shall play the harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be measured by a line: and thou shalt die in a polluted land, and Israel shall go into captivity out of their land. 
 
 ** Amos 8
 
@@ -540,7 +540,7 @@ In that day the fair virgins, and the young men shall faint for thirst.
 
 *** Amos 8:14
 
-They that swear by the sin of Samaria, and say: Thy God, O Dan, liveth: and the way of Bersabee liveth: and they shall fall, and shall rise no more. <chapter eID="gen26753" osisID="Amos.8"/>
+They that swear by the sin of Samaria, and say: Thy God, O Dan, liveth: and the way of Bersabee liveth: and they shall fall, and shall rise no more. 
 
 ** Amos 9
 
@@ -602,4 +602,4 @@ And I will bring back the captivity of my people Israel: and they shall build th
 
 *** Amos 9:15
 
-And I will plant them upon their own land: and I will no more pluck them out of their land which I have given them, saith the Lord thy God. <chapter eID="gen26768" osisID="Amos.9"/> <div eID="gen26627" osisID="Amos" type="book"/>
+And I will plant them upon their own land: and I will no more pluck them out of their land which I have given them, saith the Lord thy God.  

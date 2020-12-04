@@ -14,7 +14,7 @@ Quæsierunt igitur adolescentulam speciosam in omnibus finibus Israël, et inven
 
 ** I Kings 1:4
 
-Erat autem puella pulchra nimis, dormiebatque cum rege, et ministrabat ei : rex vero non cognovit eam.  <div eID="gen1716" type="x-p"/>
+Erat autem puella pulchra nimis, dormiebatque cum rege, et ministrabat ei : rex vero non cognovit eam.  
 
 ** I Kings 1:5
 
@@ -38,7 +38,7 @@ Immolatis ergo Adonias arietibus et vitulis, et universis pinguibus, juxta lapid
 
 ** I Kings 1:10
 
-Nathan autem prophetam, et Banaiam, et robustos quosque, et Salomonem fratrem suum non vocavit.  <div eID="gen1717" type="x-p"/>
+Nathan autem prophetam, et Banaiam, et robustos quosque, et Salomonem fratrem suum non vocavit.  
 
 ** I Kings 1:11
 
@@ -82,7 +82,7 @@ Verumtamen, domine mi rex, in te oculi respiciunt totius Israël, ut indices eis
 
 ** I Kings 1:21
 
-Eritque, cum dormierit dominus meus rex cum patribus suis, erimus ego et filius meus Salomon peccatores.  <div eID="gen1718" type="x-p"/>
+Eritque, cum dormierit dominus meus rex cum patribus suis, erimus ego et filius meus Salomon peccatores.  
 
 ** I Kings 1:22
 
@@ -122,7 +122,7 @@ quia sicut juravi tibi per Dominum Deum Israël, dicens : Salomon filius tuus re
 
 ** I Kings 1:31
 
-Summissoque Bethsabee in terram vultu, adoravit regem, dicens : Vivat dominus meus David in æternum.  <div eID="gen1719" type="x-p"/>
+Summissoque Bethsabee in terram vultu, adoravit regem, dicens : Vivat dominus meus David in æternum.  
 
 ** I Kings 1:32
 
@@ -158,7 +158,7 @@ Sumpsitque Sadoc sacerdos cornu olei de tabernaculo, et unxit Salomonem : et cec
 
 ** I Kings 1:40
 
-Et ascendit universa multitudo post eum, et populus canentium tibiis, et lætantium gaudio magno : et insonuit terra a clamore eorum.  <div eID="gen1720" type="x-p"/>
+Et ascendit universa multitudo post eum, et populus canentium tibiis, et lætantium gaudio magno : et insonuit terra a clamore eorum.  
 
 ** I Kings 1:41
 
@@ -190,7 +190,7 @@ Et ingressi servi regis benedixerunt domino nostro regi David, dicentes : Amplif
 
 ** I Kings 1:48
 
-et locutus est : Benedictus Dominus Deus Israël, qui dedit hodie sedentem in solio meo, videntibus oculis meis.  <div eID="gen1721" type="x-p"/>
+et locutus est : Benedictus Dominus Deus Israël, qui dedit hodie sedentem in solio meo, videntibus oculis meis.  
 
 ** I Kings 1:49
 
@@ -210,7 +210,7 @@ Dixitque Salomon : Si fuerit vir bonus, non cadet ne unus quidem capillus ejus i
 
 ** I Kings 1:53
 
-Misit ergo rex Salomon, et eduxit eum ab altari : et ingressus adoravit regem Salomonem : dixitque ei Salomon : Vade in domum tuam.  <chapter eID="1Kgs.1"/> <div eID="gen1722" type="x-p"/>
+Misit ergo rex Salomon, et eduxit eum ab altari : et ingressus adoravit regem Salomonem : dixitque ei Salomon : Vade in domum tuam.   
 
 * I Kings 2
 
@@ -256,7 +256,7 @@ Dormivit igitur David cum patribus suis, et sepultus est in civitate David.
 
 ** I Kings 2:11
 
-Dies autem quibus regnavit David super Israël, quadraginta anni sunt : in Hebron regnavit septem annis ; in Jerusalem, triginta tribus.  <div eID="gen1723" type="x-p"/>
+Dies autem quibus regnavit David super Israël, quadraginta anni sunt : in Hebron regnavit septem annis ; in Jerusalem, triginta tribus.  
 
 ** I Kings 2:12
 
@@ -320,7 +320,7 @@ Abiathar quoque sacerdoti dixit rex : Vade in Anathoth ad agrum tuum : equidem v
 
 ** I Kings 2:27
 
-Ejecit ergo Salomon Abiathar ut non esset sacerdos Domini, ut impleretur sermo Domini quem locutus est super domum Heli in Silo.  <div eID="gen1724" type="x-p"/>
+Ejecit ergo Salomon Abiathar ut non esset sacerdos Domini, ut impleretur sermo Domini quem locutus est super domum Heli in Silo.  
 
 ** I Kings 2:28
 
@@ -352,7 +352,7 @@ Ascendit itaque Banaias filius Jojadæ, et aggressus eum interfecit : sepultusqu
 
 ** I Kings 2:35
 
-Et constituit rex Banaiam filium Jojadæ pro eo super exercitum, et Sadoc sacerdotem posuit pro Abiathar.  <div eID="gen1725" type="x-p"/>
+Et constituit rex Banaiam filium Jojadæ pro eo super exercitum, et Sadoc sacerdotem posuit pro Abiathar.  
 
 ** I Kings 2:36
 
@@ -396,7 +396,7 @@ et rex Salomon benedictus, et thronus David erit stabilis coram Domino usque in 
 
 ** I Kings 2:46
 
-Jussit itaque rex Banaiæ filio Jojadæ, qui egressus, percussit eum, et mortuus est.  <chapter eID="1Kgs.2"/> <div eID="gen1726" type="x-p"/>
+Jussit itaque rex Banaiæ filio Jojadæ, qui egressus, percussit eum, et mortuus est.   
 
 * I Kings 3
 
@@ -434,7 +434,7 @@ Et servus tuus in medio est populi quem elegisti, populi infiniti, qui numerari 
 
 ** I Kings 3:9
 
-Dabis ergo servo tuo cor docile, ut populum tuum judicare possit, et discernere inter bonum et malum. Quis enim poterit judicare populum istum, populum tuum hunc multum ?  <div eID="gen1727" type="x-p"/>
+Dabis ergo servo tuo cor docile, ut populum tuum judicare possit, et discernere inter bonum et malum. Quis enim poterit judicare populum istum, populum tuum hunc multum ?  
 
 ** I Kings 3:10
 
@@ -458,7 +458,7 @@ Si autem ambulaveris in viis meis, et custodieris præcepta mea et mandata mea, 
 
 ** I Kings 3:15
 
-Igitur evigilavit Salomon, et intellexit quod esset somnium : cumque venisset Jerusalem, stetit coram arca fœderis Domini, et obtulit holocausta, et fecit victimas pacificas, et grande convivium universis famulis suis.  <div eID="gen1728" type="x-p"/>
+Igitur evigilavit Salomon, et intellexit quod esset somnium : cumque venisset Jerusalem, stetit coram arca fœderis Domini, et obtulit holocausta, et fecit victimas pacificas, et grande convivium universis famulis suis.  
 
 ** I Kings 3:16
 
@@ -510,7 +510,7 @@ Respondit rex, et ait : Date huic infantem vivum, et non occidatur : hæc est en
 
 ** I Kings 3:28
 
-Audivit itaque omnis Israël judicium quod judicasset rex, et timuerunt regem, videntes sapientiam Dei esse in eo ad faciendum judicium.  <chapter eID="1Kgs.3"/> <div eID="gen1729" type="x-p"/>
+Audivit itaque omnis Israël judicium quod judicasset rex, et timuerunt regem, videntes sapientiam Dei esse in eo ad faciendum judicium.   
 
 * I Kings 4
 
@@ -588,7 +588,7 @@ Semei filius Ela in Benjamin.
 
 ** I Kings 4:19
 
-Gaber filius Uri in terra Galaad, in terra Sehon regis Amorrhæi et Og regis Basan, super omnia quæ erant in illa terra.  <div eID="gen1730" type="x-p"/>
+Gaber filius Uri in terra Galaad, in terra Sehon regis Amorrhæi et Og regis Basan, super omnia quæ erant in illa terra.  
 
 ** I Kings 4:20
 
@@ -624,7 +624,7 @@ Nutriebantque eos supradicti regis præfecti : sed et necessaria mensæ regis Sa
 
 ** I Kings 4:28
 
-Hordeum quoque, et paleas equorum et jumentorum, deferebant in locum ubi erat rex, juxta constitutum sibi.  <div eID="gen1731" type="x-p"/>
+Hordeum quoque, et paleas equorum et jumentorum, deferebant in locum ubi erat rex, juxta constitutum sibi.  
 
 ** I Kings 4:29
 
@@ -648,7 +648,7 @@ Et disputavit super lignis a cedro quæ est in Libano, usque ad hyssopum quæ eg
 
 ** I Kings 4:34
 
-Et veniebant de cunctis populis ad audiendam sapientiam Salomonis, et ab universis regibus terræ qui audiebant sapientiam ejus.  <chapter eID="1Kgs.4"/> <div eID="gen1732" type="x-p"/>
+Et veniebant de cunctis populis ad audiendam sapientiam Salomonis, et ab universis regibus terræ qui audiebant sapientiam ejus.   
 
 * I Kings 5
 
@@ -698,7 +698,7 @@ Salomon autem præbebat Hiram coros tritici viginti millia in cibum domui ejus, 
 
 ** I Kings 5:12
 
-Dedit quoque Dominus sapientiam Salomoni, sicut locutus est ei : et erat pax inter Hiram et Salomonem, et percusserunt ambo fœdus.  <div eID="gen1733" type="x-p"/>
+Dedit quoque Dominus sapientiam Salomoni, sicut locutus est ei : et erat pax inter Hiram et Salomonem, et percusserunt ambo fœdus.  
 
 ** I Kings 5:13
 
@@ -722,7 +722,7 @@ Præcepitque rex ut tollerent lapides grandes, lapides pretiosos in fundamentum 
 
 ** I Kings 5:18
 
-quos dolaverunt cæmentarii Salomonis et cæmentarii Hiram : porro Giblii præparaverunt ligna et lapides ad ædificandam domum.  <chapter eID="1Kgs.5"/> <div eID="gen1734" type="x-p"/>
+quos dolaverunt cæmentarii Salomonis et cæmentarii Hiram : porro Giblii præparaverunt ligna et lapides ad ædificandam domum.   
 
 * I Kings 6
 
@@ -776,7 +776,7 @@ Domus hæc, quam ædificas, si ambulaveris in præceptis meis, et judicia mea fe
 
 ** I Kings 6:13
 
-et habitabo in medio filiorum Israël, et non derelinquam populum meum Israël.  <div eID="gen1735" type="x-p"/>
+et habitabo in medio filiorum Israël, et non derelinquam populum meum Israël.  
 
 ** I Kings 6:14
 
@@ -876,7 +876,7 @@ Anno quarto fundata est domus Domini in mense Zio :
 
 ** I Kings 6:38
 
-et in anno undecimo, mense Bul (ipse est mensis octavus), perfecta est domus in omni opere suo, et in universis utensilibus suis : ædificavitque eam annis septem.  <chapter eID="1Kgs.6"/> <div eID="gen1736" type="x-p"/>
+et in anno undecimo, mense Bul (ipse est mensis octavus), perfecta est domus in omni opere suo, et in universis utensilibus suis : ædificavitque eam annis septem.   
 
 * I Kings 7
 
@@ -926,7 +926,7 @@ Et desuper lapides pretiosi æqualis mensuræ secti erant, similiterque de cedro
 
 ** I Kings 7:12
 
-Et atrium majus rotundum trium ordinum de lapidibus sectis, et unius ordinis de dolata cedro : necnon et in atrio domus Domini interiori, et in porticu domus.  <div eID="gen1737" type="x-p"/>
+Et atrium majus rotundum trium ordinum de lapidibus sectis, et unius ordinis de dolata cedro : necnon et in atrio domus Domini interiori, et in porticu domus.  
 
 ** I Kings 7:13
 
@@ -1066,7 +1066,7 @@ In campestri regione Jordanis fudit ea rex in argillosa terra, inter Sochoth et 
 
 ** I Kings 7:47
 
-Et posuit Salomon omnia vasa : propter multitudinem autem nimiam non erat pondus æris.  <div eID="gen1738" type="x-p"/>
+Et posuit Salomon omnia vasa : propter multitudinem autem nimiam non erat pondus æris.  
 
 ** I Kings 7:48
 
@@ -1082,7 +1082,7 @@ et hydrias, et fuscinulas, et phialas, et mortariola, et thuribula, de auro puri
 
 ** I Kings 7:51
 
-Et perfecit omne opus quod faciebat Salomon in domo Domini, et intulit quæ sanctificaverat David pater suus, argentum, et aurum, et vasa, reposuitque in thesauris domus Domini.  <chapter eID="1Kgs.7"/> <div eID="gen1739" type="x-p"/>
+Et perfecit omne opus quod faciebat Salomon in domo Domini, et intulit quæ sanctificaverat David pater suus, argentum, et aurum, et vasa, reposuitque in thesauris domus Domini.   
 
 * I Kings 8
 
@@ -1168,7 +1168,7 @@ Confirmavit Dominus sermonem suum quem locutus est : stetique pro David patre me
 
 ** I Kings 8:21
 
-Et constitui ibi locum arcæ in qua fœdus Domini est, quod percussit cum patribus nostris quando egressi sunt de terra Ægypti.  <div eID="gen1740" type="x-p"/>
+Et constitui ibi locum arcæ in qua fœdus Domini est, quod percussit cum patribus nostris quando egressi sunt de terra Ægypti.  
 
 ** I Kings 8:22
 
@@ -1204,7 +1204,7 @@ ut sint oculi tui aperti super domum hanc nocte ac die : super domum, de qua dix
 
 ** I Kings 8:30
 
-ut exaudias deprecationem servi tui et populi tui Israël, quodcumque oraverint in loco isto, et exaudies in loco habitaculi tui in cælo : et cum exaudieris, propitius eris.  <div eID="gen1741" type="x-p"/>
+ut exaudias deprecationem servi tui et populi tui Israël, quodcumque oraverint in loco isto, et exaudies in loco habitaculi tui in cælo : et cum exaudieris, propitius eris.  
 
 ** I Kings 8:31
 
@@ -1244,7 +1244,7 @@ tu exaudies in cælo in loco habitationis tuæ, et repropitiaberis, et facies ut
 
 ** I Kings 8:40
 
-ut timeant te cunctis diebus quibus vivunt super faciem terræ quam dedisti patribus nostris.  <div eID="gen1742" type="x-p"/>
+ut timeant te cunctis diebus quibus vivunt super faciem terræ quam dedisti patribus nostris.  
 
 ** I Kings 8:41
 
@@ -1264,7 +1264,7 @@ Si egressus fuerit populus tuus ad bellum contra inimicos suos per viam, quocumq
 
 ** I Kings 8:45
 
-et exaudies in cælo orationes eorum et preces eorum, et facies judicium eorum.  <div eID="gen1743" type="x-p"/>
+et exaudies in cælo orationes eorum et preces eorum, et facies judicium eorum.  
 
 ** I Kings 8:46
 
@@ -1296,7 +1296,7 @@ Ut sint oculi tui aperti ad deprecationem servi tui, et populi tui Israël, et e
 
 ** I Kings 8:53
 
-Tu enim separasti eos tibi in hæreditatem de universis populis terræ, sicut locutus es per Moysen servum tuum quando eduxisti patres nostros de Ægypto, Domine Deus.  <div eID="gen1744" type="x-p"/>
+Tu enim separasti eos tibi in hæreditatem de universis populis terræ, sicut locutus es per Moysen servum tuum quando eduxisti patres nostros de Ægypto, Domine Deus.  
 
 ** I Kings 8:54
 
@@ -1328,7 +1328,7 @@ ut sciant omnes populi terræ quia Dominus ipse est Deus, et non est ultra absqu
 
 ** I Kings 8:61
 
-Sit quoque cor nostrum perfectum cum Domino Deo nostro, ut ambulemus in decretis ejus, et custodiamus mandata ejus, sicut et hodie.  <div eID="gen1745" type="x-p"/>
+Sit quoque cor nostrum perfectum cum Domino Deo nostro, ut ambulemus in decretis ejus, et custodiamus mandata ejus, sicut et hodie.  
 
 ** I Kings 8:62
 
@@ -1348,7 +1348,7 @@ Fecit ergo Salomon in tempore illo festivitatem celebrem, et omnis Israël cum e
 
 ** I Kings 8:66
 
-Et in die octava dimisit populos : qui benedicentes regi, profecti sunt in tabernacula sua lætantes, et alacri corde super omnibus bonis quæ fecerat Dominus David servo suo, et Israël populo suo.  <chapter eID="1Kgs.8"/> <div eID="gen1746" type="x-p"/>
+Et in die octava dimisit populos : qui benedicentes regi, profecti sunt in tabernacula sua lætantes, et alacri corde super omnibus bonis quæ fecerat Dominus David servo suo, et Israël populo suo.   
 
 * I Kings 9
 
@@ -1386,7 +1386,7 @@ Et domus hæc erit in exemplum : omnis qui transierit per eam, stupebit, et sibi
 
 ** I Kings 9:9
 
-Et respondebunt : Quia dereliquerunt Dominum Deum suum, qui eduxit patres eorum de terra Ægypti, et secuti sunt deos alienos, et adoraverunt eos, et coluerunt eos : idcirco induxit Dominus super eos omne malum hoc.  <div eID="gen1747" type="x-p"/>
+Et respondebunt : Quia dereliquerunt Dominum Deum suum, qui eduxit patres eorum de terra Ægypti, et secuti sunt deos alienos, et adoraverunt eos, et coluerunt eos : idcirco induxit Dominus super eos omne malum hoc.  
 
 ** I Kings 9:10
 
@@ -1462,7 +1462,7 @@ Misitque Hiram in classe illa servos suos viros nauticos et gnaros maris, cum se
 
 ** I Kings 9:28
 
-Qui cum venissent in Ophir, sumptum inde aurum quadringentorum viginti talentorum, detulerunt ad regem Salomonem.  <chapter eID="1Kgs.9"/> <div eID="gen1748" type="x-p"/>
+Qui cum venissent in Ophir, sumptum inde aurum quadringentorum viginti talentorum, detulerunt ad regem Salomonem.   
 
 * I Kings 10
 
@@ -1504,7 +1504,7 @@ Sit Dominus Deus tuus benedictus, cui complacuisti, et posuit te super thronum I
 
 ** I Kings 10:10
 
-Dedit ergo regi centum viginti talenta auri, et aromata multa nimis, et gemmas pretiosas : non sunt allata ultra aromata tam multa, quam ea quæ dedit regina Saba regi Salomoni.  <div eID="gen1749" type="x-p"/>
+Dedit ergo regi centum viginti talenta auri, et aromata multa nimis, et gemmas pretiosas : non sunt allata ultra aromata tam multa, quam ea quæ dedit regina Saba regi Salomoni.  
 
 ** I Kings 10:11
 
@@ -1552,7 +1552,7 @@ Sed et omnia vasa quibus potabat rex Salomon, erant aurea : et universa supellex
 
 ** I Kings 10:22
 
-quia classis regis per mare cum classe Hiram semel per tres annos ibat in Tharsis, deferens inde aurum, et argentum, et dentes elephantorum, et simias, et pavos.  <div eID="gen1750" type="x-p"/>
+quia classis regis per mare cum classe Hiram semel per tres annos ibat in Tharsis, deferens inde aurum, et argentum, et dentes elephantorum, et simias, et pavos.  
 
 ** I Kings 10:23
 
@@ -1580,7 +1580,7 @@ Et educebantur equi Salomoni de Ægypto, et de Coa. Negotiatores enim regis emeb
 
 ** I Kings 10:29
 
-Egrediebatur autem quadriga ex Ægypto sexcentis siclis argenti, et equus centum quinquaginta. Atque in hunc modum cuncti reges Hethæorum et Syriæ equos venundabant.  <chapter eID="1Kgs.10"/> <div eID="gen1751" type="x-p"/>
+Egrediebatur autem quadriga ex Ægypto sexcentis siclis argenti, et equus centum quinquaginta. Atque in hunc modum cuncti reges Hethæorum et Syriæ equos venundabant.   
 
 * I Kings 11
 
@@ -1634,7 +1634,7 @@ Verumtamen in diebus tuis non faciam propter David patrem tuum : de manu filii t
 
 ** I Kings 11:13
 
-nec totum regnum auferam, sed tribum unam dabo filio tuo propter David servum meum, et Jerusalem, quam elegi.  <div eID="gen1752" type="x-p"/>
+nec totum regnum auferam, sed tribum unam dabo filio tuo propter David servum meum, et Jerusalem, quam elegi.  
 
 ** I Kings 11:14
 
@@ -1670,7 +1670,7 @@ Cumque audisset Adad in Ægypto dormisse David cum patribus suis, et mortuum ess
 
 ** I Kings 11:22
 
-Dixitque ei Pharao : Qua enim re apud me indiges, ut quæras ire ad terram tuam ? At ille respondit : Nulla : sed obsecro te ut dimittas me.  <div eID="gen1753" type="x-p"/>
+Dixitque ei Pharao : Qua enim re apud me indiges, ut quæras ire ad terram tuam ? At ille respondit : Nulla : sed obsecro te ut dimittas me.  
 
 ** I Kings 11:23
 
@@ -1694,7 +1694,7 @@ Et hæc est causa rebellionis adversus eum, quia Salomon ædificavit Mello, et c
 
 ** I Kings 11:28
 
-Erat autem Jeroboam vir fortis et potens : vidensque Salomon adolescentem bonæ indolis et industrium, constituerat eum præfectum super tributa universæ domus Joseph.  <div eID="gen1754" type="x-p"/>
+Erat autem Jeroboam vir fortis et potens : vidensque Salomon adolescentem bonæ indolis et industrium, constituerat eum præfectum super tributa universæ domus Joseph.  
 
 ** I Kings 11:29
 
@@ -1742,7 +1742,7 @@ et affligam semen David super hoc, verumtamen non cunctis diebus.
 
 ** I Kings 11:40
 
-Voluit ergo Salomon interficere Jeroboam : qui surrexit, et aufugit in Ægyptum ad Sesac regem Ægypti, et fuit in Ægypto usque ad mortem Salomonis.  <div eID="gen1755" type="x-p"/>
+Voluit ergo Salomon interficere Jeroboam : qui surrexit, et aufugit in Ægyptum ad Sesac regem Ægypti, et fuit in Ægypto usque ad mortem Salomonis.  
 
 ** I Kings 11:41
 
@@ -1754,7 +1754,7 @@ Dies autem quos regnavit Salomon in Jerusalem super omnem Israël, quadraginta a
 
 ** I Kings 11:43
 
-Dormivitque Salomon cum patribus suis, et sepultus est in civitate David patris sui : regnavitque Roboam filius ejus pro eo.  <chapter eID="1Kgs.11"/> <div eID="gen1756" type="x-p"/>
+Dormivitque Salomon cum patribus suis, et sepultus est in civitate David patris sui : regnavitque Roboam filius ejus pro eo.   
 
 * I Kings 12
 
@@ -1816,7 +1816,7 @@ et locutus est eis secundum consilium juvenum, dicens : Pater meus aggravavit ju
 
 ** I Kings 12:15
 
-Et non acquievit rex populo : quoniam aversatus fuerat eum Dominus, ut suscitaret verbum suum quod locutus fuerat in manu Ahiæ Silonitæ, ad Jeroboam filium Nabat.  <div eID="gen1757" type="x-p"/>
+Et non acquievit rex populo : quoniam aversatus fuerat eum Dominus, ut suscitaret verbum suum quod locutus fuerat in manu Ahiæ Silonitæ, ad Jeroboam filium Nabat.  
 
 ** I Kings 12:16
 
@@ -1852,7 +1852,7 @@ Loquere ad Roboam filium Salomonis regem Juda, et ad omnem domum Juda, et Benjam
 
 ** I Kings 12:24
 
-Hæc dicit Dominus : Non ascendetis, neque bellabitis contra fratres vestros filios Israël : revertatur vir in domum suam : a me enim factum est verbum hoc. Audierunt sermonem Domini, et reversi sunt de itinere, sicut eis præceperat Dominus.  <div eID="gen1758" type="x-p"/>
+Hæc dicit Dominus : Non ascendetis, neque bellabitis contra fratres vestros filios Israël : revertatur vir in domum suam : a me enim factum est verbum hoc. Audierunt sermonem Domini, et reversi sunt de itinere, sicut eis præceperat Dominus.  
 
 ** I Kings 12:25
 
@@ -1888,7 +1888,7 @@ Constituitque diem solemnem in mense octavo, quintadecima die mensis, in similit
 
 ** I Kings 12:33
 
-Et ascendit super altare quod exstruxerat in Bethel, quintadecima die mensis octavi, quem finxerat de corde suo : et fecit solemnitatem filiis Israël, et ascendit super altare, ut adoleret incensum.  <chapter eID="1Kgs.12"/> <div eID="gen1759" type="x-p"/>
+Et ascendit super altare quod exstruxerat in Bethel, quintadecima die mensis octavi, quem finxerat de corde suo : et fecit solemnitatem filiis Israël, et ascendit super altare, ut adoleret incensum.   
 
 * I Kings 13
 
@@ -1930,7 +1930,7 @@ sic enim mandatum est mihi in sermone Domini præcipientis : Non comedes panem, 
 
 ** I Kings 13:10
 
-Abiit ergo per aliam viam, et non est reversus per iter quo venerat in Bethel.  <div eID="gen1760" type="x-p"/>
+Abiit ergo per aliam viam, et non est reversus per iter quo venerat in Bethel.  
 
 ** I Kings 13:11
 
@@ -1978,7 +1978,7 @@ Et exclamavit ad virum Dei qui venerat de Juda, dicens : Hæc dicit Dominus : Qu
 
 ** I Kings 13:22
 
-et reversus es, et comedisti panem, et bibisti aquam in loco in quo præcepit tibi ne comederes panem neque biberes aquam, non inferetur cadaver tuum in sepulchrum patrum tuorum.  <div eID="gen1761" type="x-p"/>
+et reversus es, et comedisti panem, et bibisti aquam in loco in quo præcepit tibi ne comederes panem neque biberes aquam, non inferetur cadaver tuum in sepulchrum patrum tuorum.  
 
 ** I Kings 13:23
 
@@ -2018,7 +2018,7 @@ Cumque planxissent eum, dixit ad filios suos : Cum mortuus fuero, sepelite me in
 
 ** I Kings 13:32
 
-Profecto enim veniet sermo quem prædixit in sermone Domini contra altare quod est in Bethel, et contra omnia fana excelsorum quæ sunt in urbibus Samariæ.  <div eID="gen1762" type="x-p"/>
+Profecto enim veniet sermo quem prædixit in sermone Domini contra altare quod est in Bethel, et contra omnia fana excelsorum quæ sunt in urbibus Samariæ.  
 
 ** I Kings 13:33
 
@@ -2026,7 +2026,7 @@ Post verba hæc non est reversus Jeroboam de via sua pessima, sed e contrario fe
 
 ** I Kings 13:34
 
-Et propter hanc causam peccavit domus Jeroboam, et eversa est, et deleta de superficie terræ.  <chapter eID="1Kgs.13"/> <div eID="gen1763" type="x-p"/>
+Et propter hanc causam peccavit domus Jeroboam, et eversa est, et deleta de superficie terræ.   
 
 * I Kings 14
 
@@ -2100,7 +2100,7 @@ Surrexit itaque uxor Jeroboam, et abiit, et venit in Thersa : cumque illa ingred
 
 ** I Kings 14:18
 
-et sepelierunt eum. Et planxit eum omnis Israël juxta sermonem Domini, quem locutus est in manu servi sui Ahiæ prophetæ.  <div eID="gen1764" type="x-p"/>
+et sepelierunt eum. Et planxit eum omnis Israël juxta sermonem Domini, quem locutus est in manu servi sui Ahiæ prophetæ.  
 
 ** I Kings 14:19
 
@@ -2108,7 +2108,7 @@ Reliqua autem verborum Jeroboam, quomodo pugnaverit, et quomodo regnaverit, ecce
 
 ** I Kings 14:20
 
-Dies autem quibus regnavit Jeroboam, viginti duo anni sunt : et dormivit cum patribus suis, regnavitque Nadab filius ejus pro eo.  <div eID="gen1765" type="x-p"/>
+Dies autem quibus regnavit Jeroboam, viginti duo anni sunt : et dormivit cum patribus suis, regnavitque Nadab filius ejus pro eo.  
 
 ** I Kings 14:21
 
@@ -2152,7 +2152,7 @@ Fuitque bellum inter Roboam et Jeroboam cunctis diebus.
 
 ** I Kings 14:31
 
-Dormivitque Roboam cum patribus suis, et sepultus est cum eis in civitate David : nomen autem matris ejus Naama Ammanitis : et regnavit Abiam filius ejus pro eo.  <chapter eID="1Kgs.14"/> <div eID="gen1766" type="x-p"/>
+Dormivitque Roboam cum patribus suis, et sepultus est cum eis in civitate David : nomen autem matris ejus Naama Ammanitis : et regnavit Abiam filius ejus pro eo.   
 
 * I Kings 15
 
@@ -2186,7 +2186,7 @@ Reliqua autem sermonum Abiam, et omnia quæ fecit, nonne hæc scripta sunt in li
 
 ** I Kings 15:8
 
-Et dormivit Abiam cum patribus suis, et sepelierunt eum in civitate David, regnavitque Asa filius ejus pro eo.  <div eID="gen1767" type="x-p"/>
+Et dormivit Abiam cum patribus suis, et sepelierunt eum in civitate David, regnavitque Asa filius ejus pro eo.  
 
 ** I Kings 15:9
 
@@ -2214,7 +2214,7 @@ excelsa autem non abstulit. Verumtamen cor Asa perfectum erat cum Domino cunctis
 
 ** I Kings 15:15
 
-et intulit ea quæ sanctificaverat pater suus, et voverat, in domum Domini, argentum, et aurum, et vasa.  <div eID="gen1768" type="x-p"/>
+et intulit ea quæ sanctificaverat pater suus, et voverat, in domum Domini, argentum, et aurum, et vasa.  
 
 ** I Kings 15:16
 
@@ -2250,7 +2250,7 @@ Reliqua autem omnium sermonum Asa, et universæ fortitudines ejus, et cuncta qu�
 
 ** I Kings 15:24
 
-Et dormivit cum patribus suis, et sepultus est cum eis in civitate David patris sui. Regnavitque Josaphat filius ejus pro eo.  <div eID="gen1769" type="x-p"/>
+Et dormivit cum patribus suis, et sepultus est cum eis in civitate David patris sui. Regnavitque Josaphat filius ejus pro eo.  
 
 ** I Kings 15:25
 
@@ -2282,7 +2282,7 @@ Reliqua autem sermonum Nadab, et omnia quæ operatus est, nonne hæc scripta sun
 
 ** I Kings 15:32
 
-Fuitque bellum inter Asa, et Baasa regem Israël, cunctis diebus eorum.  <div eID="gen1770" type="x-p"/>
+Fuitque bellum inter Asa, et Baasa regem Israël, cunctis diebus eorum.  
 
 ** I Kings 15:33
 
@@ -2290,7 +2290,7 @@ Anno tertio Asa regis Juda, regnavit Baasa filius Ahiæ super omnem Israël in T
 
 ** I Kings 15:34
 
-Et fecit malum coram Domino, ambulavitque in via Jeroboam, et in peccatis ejus quibus peccare fecit Israël.  <chapter eID="1Kgs.15"/> <div eID="gen1771" type="x-p"/>
+Et fecit malum coram Domino, ambulavitque in via Jeroboam, et in peccatis ejus quibus peccare fecit Israël.   
 
 * I Kings 16
 
@@ -2320,7 +2320,7 @@ Dormivit ergo Baasa cum patribus suis, sepultusque est in Thersa : et regnavit E
 
 ** I Kings 16:7
 
-Cum autem in manu Jehu filii Hanani prophetæ verbum Domini factum esset contra Baasa, et contra domum ejus, et contra omne malum quod fecerat coram Domino, ad irritandum eum in operibus manuum suarum, ut fieret sicut domus Jeroboam : ob hanc causam occidit eum, hoc est, Jehu filium Hanani prophetam.  <div eID="gen1772" type="x-p"/>
+Cum autem in manu Jehu filii Hanani prophetæ verbum Domini factum esset contra Baasa, et contra domum ejus, et contra omne malum quod fecerat coram Domino, ad irritandum eum in operibus manuum suarum, ut fieret sicut domus Jeroboam : ob hanc causam occidit eum, hoc est, Jehu filium Hanani prophetam.  
 
 ** I Kings 16:8
 
@@ -2348,7 +2348,7 @@ propter universa peccata Baasa, et peccata Ela filii ejus, qui peccaverunt, et p
 
 ** I Kings 16:14
 
-Reliqua autem sermonum Ela, et omnia quæ fecit, nonne hæc scripta sunt in libro verborum dierum regum Israël ?  <div eID="gen1773" type="x-p"/>
+Reliqua autem sermonum Ela, et omnia quæ fecit, nonne hæc scripta sunt in libro verborum dierum regum Israël ?  
 
 ** I Kings 16:15
 
@@ -2380,7 +2380,7 @@ Tunc divisus est populus Israël in duas partes : media pars populi sequebatur T
 
 ** I Kings 16:22
 
-Prævaluit autem populus qui erat cum Amri, populo qui sequebatur Thebni filium Gineth : mortuusque est Thebni, et regnavit Amri.  <div eID="gen1774" type="x-p"/>
+Prævaluit autem populus qui erat cum Amri, populo qui sequebatur Thebni filium Gineth : mortuusque est Thebni, et regnavit Amri.  
 
 ** I Kings 16:23
 
@@ -2404,7 +2404,7 @@ Reliqua autem sermonum Amri, et prælia ejus quæ gessit, nonne hæc scripta sun
 
 ** I Kings 16:28
 
-Dormivitque Amri cum patribus suis, et sepultus est in Samaria : regnavitque Achab filius ejus pro eo.  <div eID="gen1775" type="x-p"/>
+Dormivitque Amri cum patribus suis, et sepultus est in Samaria : regnavitque Achab filius ejus pro eo.  
 
 ** I Kings 16:29
 
@@ -2428,7 +2428,7 @@ et plantavit lucum : et addidit Achab in opere suo, irritans Dominum Deum Israë
 
 ** I Kings 16:34
 
-In diebus ejus ædificavit Hiel de Bethel Jericho : in Abiram primitivo suo fundavit eam, et in Segub novissimo suo posuit portas ejus, juxta verbum Domini quod locutus fuerat in manu Josue filii Nun.  <chapter eID="1Kgs.16"/> <div eID="gen1776" type="x-p"/>
+In diebus ejus ædificavit Hiel de Bethel Jericho : in Abiram primitivo suo fundavit eam, et in Segub novissimo suo posuit portas ejus, juxta verbum Domini quod locutus fuerat in manu Josue filii Nun.   
 
 * I Kings 17
 
@@ -2458,7 +2458,7 @@ Corvi quoque deferebant ei panem et carnes mane, similiter panem et carnes vespe
 
 ** I Kings 17:7
 
-Post dies autem siccatus est torrens : non enim pluerat super terram.  <div eID="gen1777" type="x-p"/>
+Post dies autem siccatus est torrens : non enim pluerat super terram.  
 
 ** I Kings 17:8
 
@@ -2526,7 +2526,7 @@ Tulitque Elias puerum, et deposuit eum de cœnaculo in inferiorem domum, et trad
 
 ** I Kings 17:24
 
-Dixitque mulier ad Eliam : Nunc in isto cognovi quoniam vir Dei es tu, et verbum Domini in ore tuo verum est.  <chapter eID="1Kgs.17"/> <div eID="gen1778" type="x-p"/>
+Dixitque mulier ad Eliam : Nunc in isto cognovi quoniam vir Dei es tu, et verbum Domini in ore tuo verum est.   
 
 * I Kings 18
 
@@ -2600,7 +2600,7 @@ Et cum vidisset eum, ait : Tune es ille, qui conturbas Israël ?
 
 ** I Kings 18:18
 
-Et ille ait : Non ego turbavi Israël, sed tu, et domus patris tui, qui dereliquistis mandata Domini, et secuti estis Baalim.  <div eID="gen1779" type="x-p"/>
+Et ille ait : Non ego turbavi Israël, sed tu, et domus patris tui, qui dereliquistis mandata Domini, et secuti estis Baalim.  
 
 ** I Kings 18:19
 
@@ -2648,7 +2648,7 @@ Postquam autem transiit meridies, et illis prophetantibus venerat tempus quo sac
 
 ** I Kings 18:30
 
-dixit Elias omni populo : Venite ad me. <div eID="gen1780" type="x-p"/> <div sID="gen1781" type="x-p"/> Et accedente ad se populo, curavit altare Domini quod destructum fuerat.
+dixit Elias omni populo : Venite ad me.   Et accedente ad se populo, curavit altare Domini quod destructum fuerat.
 
 ** I Kings 18:31
 
@@ -2688,7 +2688,7 @@ Quod cum vidisset omnis populus, cecidit in faciem suam, et ait : Dominus ipse e
 
 ** I Kings 18:40
 
-Dixitque Elias ad eos : Apprehendite prophetas Baal, et ne unus quidem effugiat ex eis. Quos cum apprehendissent, duxit eos Elias ad torrentem Cison, et interfecit eos ibi.  <div eID="gen1781" type="x-p"/>
+Dixitque Elias ad eos : Apprehendite prophetas Baal, et ne unus quidem effugiat ex eis. Quos cum apprehendissent, duxit eos Elias ad torrentem Cison, et interfecit eos ibi.  
 
 ** I Kings 18:41
 
@@ -2712,7 +2712,7 @@ Cumque se verteret huc atque illuc, ecce cæli contenebrati sunt, et nubes, et v
 
 ** I Kings 18:46
 
-et manus Domini facta est super Eliam, accinctisque lumbis currebat ante Achab, donec veniret in Jezrahel.  <chapter eID="1Kgs.18"/> <div eID="gen1782" type="x-p"/>
+et manus Domini facta est super Eliam, accinctisque lumbis currebat ante Achab, donec veniret in Jezrahel.   
 
 * I Kings 19
 
@@ -2746,7 +2746,7 @@ Reversusque est angelus Domini secundo, et tetigit eum, dixitque illi : Surge, c
 
 ** I Kings 19:8
 
-Qui cum surrexisset, comedit et bibit, et ambulavit in fortitudine cibi illius quadraginta diebus et quadraginta noctibus usque ad montem Dei Horeb.  <div eID="gen1783" type="x-p"/>
+Qui cum surrexisset, comedit et bibit, et ambulavit in fortitudine cibi illius quadraginta diebus et quadraginta noctibus usque ad montem Dei Horeb.  
 
 ** I Kings 19:9
 
@@ -2786,7 +2786,7 @@ Et erit : quicumque fugerit gladium Hazaël, occidet eum Jehu : et quicumque fug
 
 ** I Kings 19:18
 
-Et derelinquam mihi in Israël septem millia virorum, quorum genua non sunt incurvata ante Baal, et omne os quod non adoravit eum osculans manus.  <div eID="gen1784" type="x-p"/>
+Et derelinquam mihi in Israël septem millia virorum, quorum genua non sunt incurvata ante Baal, et omne os quod non adoravit eum osculans manus.  
 
 ** I Kings 19:19
 
@@ -2798,7 +2798,7 @@ Qui statim relictis bobus cucurrit post Eliam, et ait : Osculer, oro, patrem meu
 
 ** I Kings 19:21
 
-Reversus autem ab eo, tulit par boum, et mactavit illud, et in aratro boum coxit carnes, et dedit populo, et comederunt : consurgensque abiit, et secutus est Eliam, et ministrabat ei.  <chapter eID="1Kgs.19"/> <div eID="gen1785" type="x-p"/>
+Reversus autem ab eo, tulit par boum, et mactavit illud, et in aratro boum coxit carnes, et dedit populo, et comederunt : consurgensque abiit, et secutus est Eliam, et ministrabat ei.   
 
 * I Kings 20
 
@@ -2848,7 +2848,7 @@ Et respondens rex Israël, ait : Dicite ei : Ne glorietur, accinctus æque ut di
 
 ** I Kings 20:12
 
-Factum est autem cum audisset Benadad verbum istud, bibebat ipse et reges in umbraculis : et ait servis suis : Circumdate civitatem. Et circumdederunt eam.  <div eID="gen1786" type="x-p"/>
+Factum est autem cum audisset Benadad verbum istud, bibebat ipse et reges in umbraculis : et ait servis suis : Circumdate civitatem. Et circumdederunt eam.  
 
 ** I Kings 20:13
 
@@ -2888,7 +2888,7 @@ Necnon egressus rex Israël percussit equos et currus, et percussit Syriam plaga
 
 ** I Kings 20:22
 
-Accedens autem propheta ad regem Israël, dixit ei : Vade, et confortare, et scito, et vide quid facias : sequenti enim anno rex Syriæ ascendet contra te.  <div eID="gen1787" type="x-p"/>
+Accedens autem propheta ad regem Israël, dixit ei : Vade, et confortare, et scito, et vide quid facias : sequenti enim anno rex Syriæ ascendet contra te.  
 
 ** I Kings 20:23
 
@@ -2936,7 +2936,7 @@ Quod acceperunt viri pro omine : et festinantes rapuerunt verbum ex ore ejus, at
 
 ** I Kings 20:34
 
-Qui dixit ei : Civitates quas tulit pater meus a patre tuo, reddam : et plateas fac tibi in Damasco, sicut fecit pater meus in Samaria, et ego fœderatus recedam a te. Pepigit ergo fœdus, et dimisit eum.  <div eID="gen1788" type="x-p"/>
+Qui dixit ei : Civitates quas tulit pater meus a patre tuo, reddam : et plateas fac tibi in Damasco, sicut fecit pater meus in Samaria, et ego fœderatus recedam a te. Pepigit ergo fœdus, et dimisit eum.  
 
 ** I Kings 20:35
 
@@ -2972,7 +2972,7 @@ Qui ait ad eum : Hæc dicit Dominus : Quia dimisisti virum dignum morte de manu 
 
 ** I Kings 20:43
 
-Reversus est igitur rex Israël in domum suam, audire contemnens, et furibundus venit in Samariam.  <chapter eID="1Kgs.20"/> <div eID="gen1789" type="x-p"/>
+Reversus est igitur rex Israël in domum suam, audire contemnens, et furibundus venit in Samariam.   
 
 * I Kings 21
 
@@ -3002,7 +3002,7 @@ Qui respondit ei : Locutus sum Naboth Jezrahelitæ, et dixi ei : Da mihi vineam 
 
 ** I Kings 21:7
 
-Dixit ergo ad eum Jezabel uxor ejus : Grandis auctoritatis es, et bene regis regnum Israël. Surge, et comede panem, et æquo animo esto : ego dabo tibi vineam Naboth Jezrahelitæ.  <div eID="gen1790" type="x-p"/>
+Dixit ergo ad eum Jezabel uxor ejus : Grandis auctoritatis es, et bene regis regnum Israël. Surge, et comede panem, et æquo animo esto : ego dabo tibi vineam Naboth Jezrahelitæ.  
 
 ** I Kings 21:8
 
@@ -3038,7 +3038,7 @@ Factum est autem, cum audisset Jezabel lapidatum Naboth et mortuum, locuta est a
 
 ** I Kings 21:16
 
-Quod cum audisset Achab, mortuum videlicet Naboth, surrexit, et descendebat in vineam Naboth Jezrahelitæ, ut possideret eam.  <div eID="gen1791" type="x-p"/>
+Quod cum audisset Achab, mortuum videlicet Naboth, surrexit, et descendebat in vineam Naboth Jezrahelitæ, ut possideret eam.  
 
 ** I Kings 21:17
 
@@ -3090,7 +3090,7 @@ Et factus est sermo Domini ad Eliam Thesbiten, dicens :
 
 ** I Kings 21:29
 
-Nonne vidisti humiliatum Achab coram me ? quia igitur humiliatus est mei causa, non inducam malum in diebus ejus, sed in diebus filii sui inferam malum domui ejus.  <chapter eID="1Kgs.21"/> <div eID="gen1792" type="x-p"/>
+Nonne vidisti humiliatum Achab coram me ? quia igitur humiliatus est mei causa, non inducam malum in diebus ejus, sed in diebus filii sui inferam malum domui ejus.   
 
 * I Kings 22
 
@@ -3128,7 +3128,7 @@ Et ait rex Israël ad Josaphat : Remansit vir unus per quem possumus interrogare
 
 ** I Kings 22:9
 
-Vocavit ergo rex Israël eunuchum quemdam, et dixit ei : Festina adducere Michæam filium Jemla.  <div eID="gen1793" type="x-p"/>
+Vocavit ergo rex Israël eunuchum quemdam, et dixit ei : Festina adducere Michæam filium Jemla.  
 
 ** I Kings 22:10
 
@@ -3252,7 +3252,7 @@ Reliqua autem sermonum Achab, et universa quæ fecit, et domus eburnea quam ædi
 
 ** I Kings 22:40
 
-Dormivit ergo Achab cum patribus suis, et regnavit Ochozias filius ejus pro eo.  <div eID="gen1794" type="x-p"/>
+Dormivit ergo Achab cum patribus suis, et regnavit Ochozias filius ejus pro eo.  
 
 ** I Kings 22:41
 
@@ -3296,7 +3296,7 @@ Tunc ait Ochozias filius Achab ad Josaphat : Vadant servi mei cum servis tuis in
 
 ** I Kings 22:51
 
-Dormivitque Josaphat cum patribus suis, et sepultus est cum eis in civitate David patris sui : regnavitque Joram filius ejus pro eo.  <div eID="gen1795" type="x-p"/>
+Dormivitque Josaphat cum patribus suis, et sepultus est cum eis in civitate David patris sui : regnavitque Joram filius ejus pro eo.  
 
 ** I Kings 22:52
 
@@ -3308,5 +3308,5 @@ Et fecit malum in conspectu Domini, et ambulavit in via patris sui et matris su�
 
 ** I Kings 22:54
 
-Servivit quoque Baal, et adoravit eum, et irritavit Dominum Deum Israël, juxta omnia quæ fecerat pater ejus.  <div eID="gen1796" type="x-p"/> <chapter eID="1Kgs.22"/> <div eID="gen1715" osisID="1Kgs" type="book"/>
+Servivit quoque Baal, et adoravit eum, et irritavit Dominum Deum Israël, juxta omnia quæ fecerat pater ejus.    
 

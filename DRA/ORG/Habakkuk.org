@@ -66,7 +66,7 @@ Therefore will he offer victims to his drag, and he will sacrifice to his net: b
 
 *** Habakkuk 1:17
 
-For this cause therefore he spreadeth his net, and will not spare continually to slay the nations. <chapter eID="gen27024" osisID="Hab.1"/>
+For this cause therefore he spreadeth his net, and will not spare continually to slay the nations. 
 
 ** Habakkuk 2
 
@@ -148,7 +148,7 @@ Woe to him that saith to wood: Awake: to the dumb stone: Arise: can it teach? Be
 
 *** Habakkuk 2:20
 
-But the Lord is in his holy temple: let all the earth keep silence before him. <chapter eID="gen27042" osisID="Hab.2"/>
+But the Lord is in his holy temple: let all the earth keep silence before him. 
 
 ** Habakkuk 3
 
@@ -226,4 +226,4 @@ But I will rejoice in the Lord: and I will joy in God my Jesus.
 
 *** Habakkuk 3:19
 
-The Lord God is my strength: and he will make my feet like the feet of harts: and he the conqueror will lead me upon my high places singing psalms. <chapter eID="gen27063" osisID="Hab.3"/> <div eID="gen27023" osisID="Hab" type="book"/>
+The Lord God is my strength: and he will make my feet like the feet of harts: and he the conqueror will lead me upon my high places singing psalms.  

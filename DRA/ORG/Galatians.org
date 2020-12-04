@@ -94,7 +94,7 @@ But they had heard only: He, who persecuted us in times past doth now preach the
 
 *** Galatians 1:24
 
-And they glorified God in me. <chapter eID="gen35064" osisID="Gal.1"/>
+And they glorified God in me. 
 
 ** Galatians 2
 
@@ -180,7 +180,7 @@ And I live, now not I: but Christ liveth in me. And that I live now in the flesh
 
 *** Galatians 2:21
 
-I cast not away the grace of God. For if justice be by the law, then Christ died in vain. <chapter eID="gen35089" osisID="Gal.2"/>
+I cast not away the grace of God. For if justice be by the law, then Christ died in vain. 
 
 ** Galatians 3
 
@@ -298,7 +298,7 @@ There is neither Jew nor Greek: there is neither bond nor free: there is neither
 
 *** Galatians 3:29
 
-And if you be Christ's, then are you the seed of Abraham, heirs according to the promise. <chapter eID="gen35111" osisID="Gal.3"/>
+And if you be Christ's, then are you the seed of Abraham, heirs according to the promise. 
 
 ** Galatians 4
 
@@ -424,7 +424,7 @@ But what saith the scripture? Cast out the bondwoman and her son: for the son of
 
 *** Galatians 4:31
 
-So then, brethren, we are not the children of the bondwoman but of the free: by the freedom wherewith Christ has made us free. <chapter eID="gen35141" osisID="Gal.4"/>
+So then, brethren, we are not the children of the bondwoman but of the free: by the freedom wherewith Christ has made us free. 
 
 ** Galatians 5
 
@@ -530,7 +530,7 @@ If we live in the Spirit, let us also walk in the Spirit.
 
 *** Galatians 5:26
 
-Let us not be made desirous of vain glory, provoking one another, envying one another. <chapter eID="gen35173" osisID="Gal.5"/>
+Let us not be made desirous of vain glory, provoking one another, envying one another. 
 
 ** Galatians 6
 
@@ -604,4 +604,4 @@ From henceforth let no man be troublesome to me: for I bear the marks of the Lor
 
 *** Galatians 6:18
 
-The grace of our Lord Jesus Christ be with your spirit, brethren. Amen. <chapter eID="gen35200" osisID="Gal.6"/> <div eID="gen35063" osisID="Gal" type="book"/>
+The grace of our Lord Jesus Christ be with your spirit, brethren. Amen.  

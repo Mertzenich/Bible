@@ -86,7 +86,7 @@ Sin. They have heard that I sigh, and there is none to comfort me: all my enemie
 
 *** Lamentations 1:22
 
-Thau. Let all their evil be present before thee: and make vintage of them, as thou hast made vintage of me for all my iniquities: for my sighs are many, and my heart is sorrowful. <chapter eID="gen24091" osisID="Lam.1"/>
+Thau. Let all their evil be present before thee: and make vintage of them, as thou hast made vintage of me for all my iniquities: for my sighs are many, and my heart is sorrowful. 
 
 ** Lamentations 2
 
@@ -176,7 +176,7 @@ Sin. The child and the old man lie without on the ground: my virgins and my youn
 
 *** Lamentations 2:22
 
-Thau. Thou hast called as to a festival, those that should terrify me round about, and there was none in the day of the wrath of the Lord that escaped and was left: those that I brought up, and nourished, my enemy hath consumed them. <chapter eID="gen24114" osisID="Lam.2"/>
+Thau. Thou hast called as to a festival, those that should terrify me round about, and there was none in the day of the wrath of the Lord that escaped and was left: those that I brought up, and nourished, my enemy hath consumed them. 
 
 ** Lamentations 3
 
@@ -442,7 +442,7 @@ Thau. Thou shalt give them a buckler of heart, thy labour.
 
 *** Lamentations 3:66
 
-Thau. Thou shalt persecute them in anger, and shalt destroy them from under the heavens, O Lord. <chapter eID="gen24137" osisID="Lam.3"/>
+Thau. Thou shalt persecute them in anger, and shalt destroy them from under the heavens, O Lord. 
 
 ** Lamentations 4
 
@@ -532,7 +532,7 @@ Sin. Rejoice, and be glad, O daughter of Edom, that dwellest in the land of Hus:
 
 *** Lamentations 4:22
 
-Thau. Thy iniquity is accomplished, O daughter of Sion, he will no more carry thee away into captivity: he hath visited thy iniquity, O daughter of Edom, he hath discovered thy sins. <chapter eID="gen24204" osisID="Lam.4"/>
+Thau. Thy iniquity is accomplished, O daughter of Sion, he will no more carry thee away into captivity: he hath visited thy iniquity, O daughter of Edom, he hath discovered thy sins. 
 
 ** Lamentations 5
 
@@ -622,4 +622,4 @@ Convert us, O Lord, to thee, and we shall be converted: renew our days, as from 
 
 *** Lamentations 5:22
 
-But thou hast utterly rejected us, thou art exceedingly angry with us. <chapter eID="gen24227" osisID="Lam.5"/> <div eID="gen24090" osisID="Lam" type="book"/>
+But thou hast utterly rejected us, thou art exceedingly angry with us.  

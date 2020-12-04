@@ -86,7 +86,7 @@ And because the midwives feared God, he built them houses.
 
 *** Exodus 1:22
 
-Pharao therefore charged all his people, saying: Whatsoever shall be born of the male sex, ye shall cast into the river: whatsoever of the female, ye shall save alive. <chapter eID="gen1583" osisID="Exod.1"/>
+Pharao therefore charged all his people, saying: Whatsoever shall be born of the male sex, ye shall cast into the river: whatsoever of the female, ye shall save alive. 
 
 ** Exodus 2
 
@@ -188,7 +188,7 @@ And he heard their groaning, and remembered the covenant which he made with Abra
 
 *** Exodus 2:25
 
-And the Lord looked upon the children of Israel, and he knew them. <chapter eID="gen1606" osisID="Exod.2"/>
+And the Lord looked upon the children of Israel, and he knew them. 
 
 ** Exodus 3
 
@@ -278,7 +278,7 @@ And I will give favour to this people, in the sight of the Egyptians: and when y
 
 *** Exodus 3:22
 
-But every woman shall ask of her neighbour, and of her that is in her house, vessels of silver and of gold, and raiment: and you shall put them on your sons and daughters, and shall spoil Egypt. <chapter eID="gen1632" osisID="Exod.3"/>
+But every woman shall ask of her neighbour, and of her that is in her house, vessels of silver and of gold, and raiment: and you shall put them on your sons and daughters, and shall spoil Egypt. 
 
 ** Exodus 4
 
@@ -404,7 +404,7 @@ And Aaron spoke all the words which the Lord had said to Moses: and he wrought t
 
 *** Exodus 4:31
 
-And the people believed. And they heard that the Lord had visited the children of Israel, and that he had looked upon their affliction: and falling down they adored. <chapter eID="gen1655" osisID="Exod.4"/>
+And the people believed. And they heard that the Lord had visited the children of Israel, and that he had looked upon their affliction: and falling down they adored. 
 
 ** Exodus 5
 
@@ -498,7 +498,7 @@ And Moses returned to the Lord, and said: Lord, why hast thou afflicted this peo
 
 *** Exodus 5:23
 
-For since the time that I went in to Pharao to speak in thy name, he hath afflicted thy people: and thou hast not delivered them. <chapter eID="gen1687" osisID="Exod.5"/>
+For since the time that I went in to Pharao to speak in thy name, he hath afflicted thy people: and thou hast not delivered them. 
 
 ** Exodus 6
 
@@ -620,7 +620,7 @@ And the Lord spoke to Moses, saying: I am the Lord; speak thou to Pharao, king o
 
 *** Exodus 6:30
 
-And Moses said before the Lord: Lo I am of uncircumcised lips, how will Pharao hear me? <chapter eID="gen1711" osisID="Exod.6"/>
+And Moses said before the Lord: Lo I am of uncircumcised lips, how will Pharao hear me? 
 
 ** Exodus 7
 
@@ -722,7 +722,7 @@ And all the Egyptians dug round about the river for water to drink; for they cou
 
 *** Exodus 7:25
 
-And seven days were fully ended, after that the Lord struck the river. <chapter eID="gen1742" osisID="Exod.7"/>
+And seven days were fully ended, after that the Lord struck the river. 
 
 ** Exodus 8
 
@@ -852,7 +852,7 @@ And he did according to his word: and he took away the flies from Pharao, and fr
 
 *** Exodus 8:32
 
-And Pharao's heart was hardened, so that neither this time would he let the people go. <chapter eID="gen1768" osisID="Exod.8"/>
+And Pharao's heart was hardened, so that neither this time would he let the people go. 
 
 ** Exodus 9
 
@@ -994,7 +994,7 @@ And Pharao seeing that the rain, and the hail, and the thunders were ceased, inc
 
 *** Exodus 9:35
 
-And his heart was hardened, and the heart of his servants, and it was made exceeding hard: neither did he let the children of Israel go, as the Lord had commanded by the hand of Moses. <chapter eID="gen1801" osisID="Exod.9"/>
+And his heart was hardened, and the heart of his servants, and it was made exceeding hard: neither did he let the children of Israel go, as the Lord had commanded by the hand of Moses. 
 
 ** Exodus 10
 
@@ -1112,7 +1112,7 @@ And Pharao said to Moses: Get thee from me, and beware thou see not my face any 
 
 *** Exodus 10:29
 
-Moses answered: So shall it be as thou hast spoken, I will not see thy face anymore. <chapter eID="gen1837" osisID="Exod.10"/>
+Moses answered: So shall it be as thou hast spoken, I will not see thy face anymore. 
 
 ** Exodus 11
 
@@ -1154,7 +1154,7 @@ And he went out from Pharao exceeding angry. But the Lord said to Moses: Pharao 
 
 *** Exodus 11:10
 
-And Moses and Aaron did all the wonders that are written, before Pharao. And the Lord hardened Pharao's heart, neither did he let the children of Israel go out of his land. <chapter eID="gen1867" osisID="Exod.11"/>
+And Moses and Aaron did all the wonders that are written, before Pharao. And the Lord hardened Pharao's heart, neither did he let the children of Israel go out of his land. 
 
 ** Exodus 12
 
@@ -1360,7 +1360,7 @@ And all the children of Israel did as the Lord had commanded Moses and Aaron.
 
 *** Exodus 12:51
 
-And the same day the Lord brought forth the children of Israel out of the land of Egypt by their companies. <chapter eID="gen1878" osisID="Exod.12"/>
+And the same day the Lord brought forth the children of Israel out of the land of Egypt by their companies. 
 
 ** Exodus 13
 
@@ -1450,7 +1450,7 @@ And the Lord went before them to shew the way, by day in a pillar of a cloud, an
 
 *** Exodus 13:22
 
-There never failed the pillar of the cloud by day, nor the pillar of fire by night, before the people. <chapter eID="gen1930" osisID="Exod.13"/>
+There never failed the pillar of the cloud by day, nor the pillar of fire by night, before the people. 
 
 ** Exodus 14
 
@@ -1576,7 +1576,7 @@ And the Lord delivered Israel in that day out of the hands of the Egyptians.
 
 *** Exodus 14:31
 
-And they saw the Egyptians dead upon the sea shore, and the mighty hand that the Lord had used against them: and the people feared the Lord, and they believed the Lord, and Moses his servant. <chapter eID="gen1953" osisID="Exod.14"/>
+And they saw the Egyptians dead upon the sea shore, and the mighty hand that the Lord had used against them: and the people feared the Lord, and they believed the Lord, and Moses his servant. 
 
 ** Exodus 15
 
@@ -1686,7 +1686,7 @@ Saying: If thou wilt hear the voice of the Lord thy God, and do what is right be
 
 *** Exodus 15:27
 
-And the children of Israel came into Elim, where there were twelve fountains of water, and seventy palm trees: and they encamped by the waters. <chapter eID="gen1985" osisID="Exod.15"/>
+And the children of Israel came into Elim, where there were twelve fountains of water, and seventy palm trees: and they encamped by the waters. 
 
 ** Exodus 16
 
@@ -1832,7 +1832,7 @@ And the children of Israel ate manna forty years, till they came to a habitable 
 
 *** Exodus 16:36
 
-Now a gomor is the tenth part of an ephi. <chapter eID="gen2013" osisID="Exod.16"/>
+Now a gomor is the tenth part of an ephi. 
 
 ** Exodus 17
 
@@ -1898,7 +1898,7 @@ And Moses built an altar; and called the name thereof, The Lord, my exaltation, 
 
 *** Exodus 17:16
 
-Because the hand of the throne of the Lord, and the war of the Lord shall be against Amalec, from generation to generation. <chapter eID="gen2050" osisID="Exod.17"/>
+Because the hand of the throne of the Lord, and the war of the Lord shall be against Amalec, from generation to generation. 
 
 ** Exodus 18
 
@@ -2008,7 +2008,7 @@ And they judged the people at all times: and whatsoever was of greater difficult
 
 *** Exodus 18:27
 
-And he let his kinsman depart: and he returned and went into his own country. <chapter eID="gen2067" osisID="Exod.18"/>
+And he let his kinsman depart: and he returned and went into his own country. 
 
 ** Exodus 19
 
@@ -2110,7 +2110,7 @@ And the Lord said to him: Go, get thee down; and thou shalt come up, thou and Aa
 
 *** Exodus 19:25
 
-And Moses went down to the people and told them all. <chapter eID="gen2095" osisID="Exod.19"/>
+And Moses went down to the people and told them all. 
 
 ** Exodus 20
 
@@ -2216,7 +2216,7 @@ And if thou make an altar of stone unto me, thou shalt not build it of hewn ston
 
 *** Exodus 20:26
 
-Thou shalt not go up by steps unto my altar, lest thy nakedness be discovered. <chapter eID="gen2121" osisID="Exod.20"/>
+Thou shalt not go up by steps unto my altar, lest thy nakedness be discovered. 
 
 ** Exodus 21
 
@@ -2362,7 +2362,7 @@ If one man's ox gore another man's ox, and he die: they shall sell the live ox, 
 
 *** Exodus 21:36
 
-But if he knew that his ox was wont to push yesterday, and the day before, and his master did not keep him in; he shall pay ox for ox, and shall take the whole carcass. <chapter eID="gen2148" osisID="Exod.21"/>
+But if he knew that his ox was wont to push yesterday, and the day before, and his master did not keep him in; he shall pay ox for ox, and shall take the whole carcass. 
 
 ** Exodus 22
 
@@ -2488,7 +2488,7 @@ Thou shalt do the same with the firstborn of thy oxen also and sheep: seven days
 
 *** Exodus 22:31
 
-You shall be holy men to me: the flesh that beasts have tasted of before, you shall not eat, but shall cast it to the dogs. <chapter eID="gen2185" osisID="Exod.22"/>
+You shall be holy men to me: the flesh that beasts have tasted of before, you shall not eat, but shall cast it to the dogs. 
 
 ** Exodus 23
 
@@ -2622,7 +2622,7 @@ Thou shalt not enter into league with them, nor with their gods.
 
 *** Exodus 23:33
 
-Let them not dwell in thy land, lest perhaps they make thee sin against me, if thou serve their gods; which, undoubtedly, will be a scandal to thee. <chapter eID="gen2217" osisID="Exod.23"/>
+Let them not dwell in thy land, lest perhaps they make thee sin against me, if thou serve their gods; which, undoubtedly, will be a scandal to thee. 
 
 ** Exodus 24
 
@@ -2696,7 +2696,7 @@ And the sight of the glory of the Lord, was like a burning fire upon the top of 
 
 *** Exodus 24:18
 
-And Moses entering into the midst of the cloud, went up into the mountain: And he was there forty days and forty nights. <chapter eID="gen2251" osisID="Exod.24"/>
+And Moses entering into the midst of the cloud, went up into the mountain: And he was there forty days and forty nights. 
 
 ** Exodus 25
 
@@ -2858,7 +2858,7 @@ The whole weight of the candlestick, with all the furniture thereof, shall be a 
 
 *** Exodus 25:40
 
-Look, and make it according to the pattern that was shewn thee in the mount. <chapter eID="gen2270" osisID="Exod.25"/>
+Look, and make it according to the pattern that was shewn thee in the mount. 
 
 ** Exodus 26
 
@@ -3008,7 +3008,7 @@ Thou shalt make also a hanging in the entrance of the tabernacle of violet, and 
 
 *** Exodus 26:37
 
-And thou shalt overlay with gold five pillars of setim wood, before which the hanging shall be drawn: their heads shall be of gold, and the sockets of brass. <chapter eID="gen2311" osisID="Exod.26"/>
+And thou shalt overlay with gold five pillars of setim wood, before which the hanging shall be drawn: their heads shall be of gold, and the sockets of brass. 
 
 ** Exodus 27
 
@@ -3094,7 +3094,7 @@ Command the children of Israel that they bring thee the purest oil of the olives
 
 *** Exodus 27:21
 
-In the tabernacle of the testimony, without the veil that hangs before the testimony. And Aaron and his sons shall order it, that it may give light before the Lord until the morning. It shall be a perpetual observance throughout their successions among the children of Israel. <chapter eID="gen2349" osisID="Exod.27"/>
+In the tabernacle of the testimony, without the veil that hangs before the testimony. And Aaron and his sons shall order it, that it may give light before the Lord until the morning. It shall be a perpetual observance throughout their successions among the children of Israel. 
 
 ** Exodus 28
 
@@ -3268,7 +3268,7 @@ Thou shalt make also linen breeches, to cover the flesh of their nakedness, from
 
 *** Exodus 28:43
 
-And Aaron and his sons shall use them when they shall go into the tabernacle of the testimony, or when they approach to the altar to minister in the sanctuary. lest being guilty of iniquity they die. It shall be a law for ever to Aaron, and to his seed after him. <chapter eID="gen2371" osisID="Exod.28"/>
+And Aaron and his sons shall use them when they shall go into the tabernacle of the testimony, or when they approach to the altar to minister in the sanctuary. lest being guilty of iniquity they die. It shall be a law for ever to Aaron, and to his seed after him. 
 
 ** Exodus 29
 
@@ -3454,7 +3454,7 @@ And I will dwell in the midst of the children of Israel, and will be their God:
 
 *** Exodus 29:46
 
-And they shall know that I am the Lord their God, who have brought them out of the land of Egypt, that I might abide among them, I the Lord their God. <chapter eID="gen2415" osisID="Exod.29"/>
+And they shall know that I am the Lord their God, who have brought them out of the land of Egypt, that I might abide among them, I the Lord their God. 
 
 ** Exodus 30
 
@@ -3608,7 +3608,7 @@ You shall not make such a composition for your own uses, because it is holy to t
 
 *** Exodus 30:38
 
-What man soever shall make the like, to enjoy the smell thereof, he shall perish out of his people. <chapter eID="gen2462" osisID="Exod.30"/>
+What man soever shall make the like, to enjoy the smell thereof, he shall perish out of his people. 
 
 ** Exodus 31
 
@@ -3682,7 +3682,7 @@ Between me and the children of Israel, and a perpetual sign. For in six days the
 
 *** Exodus 31:18
 
-And the Lord, when he had ended these words in Mount Sinai, gave to Moses two stone tables of testimony, written with the finger of God. <chapter eID="gen2501" osisID="Exod.31"/>
+And the Lord, when he had ended these words in Mount Sinai, gave to Moses two stone tables of testimony, written with the finger of God. 
 
 ** Exodus 32
 
@@ -3824,7 +3824,7 @@ But go thou, and lead this people whither I have told thee: my angel shall go be
 
 *** Exodus 32:35
 
-The Lord therefore struck the people for the guilt, on occasion of the calf which Aaron had made. <chapter eID="gen2520" osisID="Exod.32"/>
+The Lord therefore struck the people for the guilt, on occasion of the calf which Aaron had made. 
 
 ** Exodus 33
 
@@ -3918,7 +3918,7 @@ And when my glory shall pass, I will set thee in a hole of the rock, and protect
 
 *** Exodus 33:23
 
-And I will take away my hand, and thou shalt see my back parts: but my face thou canst not see. <chapter eID="gen2556" osisID="Exod.33"/>
+And I will take away my hand, and thou shalt see my back parts: but my face thou canst not see. 
 
 ** Exodus 34
 
@@ -4060,7 +4060,7 @@ But when he went in to the Lord, and spoke with him, he took it away until he ca
 
 *** Exodus 34:35
 
-And they saw that the face of Moses when he came out was horned, but he covered his face again, if at any time he spoke to them. <chapter eID="gen2580" osisID="Exod.34"/>
+And they saw that the face of Moses when he came out was horned, but he covered his face again, if at any time he spoke to them. 
 
 ** Exodus 35
 
@@ -4202,7 +4202,7 @@ He hath given in his heart: Ooliab also, the son of Achisamech, of the tribe of 
 
 *** Exodus 35:35
 
-Both of them hath he instructed with wisdom, to do carpenters' work, and tapestry, and embroidery in blue and purple, and scarlet twice dyed, and fine linen, and to weave all things, and to invent all new things. <chapter eID="gen2616" osisID="Exod.35"/>
+Both of them hath he instructed with wisdom, to do carpenters' work, and tapestry, and embroidery in blue and purple, and scarlet twice dyed, and fine linen, and to weave all things, and to invent all new things. 
 
 ** Exodus 36
 
@@ -4356,7 +4356,7 @@ He made also a hanging in the entry of the tabernacle of violet, purple, scarlet
 
 *** Exodus 36:38
 
-And five pillars with their heads, which he covered with gold, and their sockets he cast of brass. <chapter eID="gen2652" osisID="Exod.36"/>
+And five pillars with their heads, which he covered with gold, and their sockets he cast of brass. 
 
 ** Exodus 37
 
@@ -4474,7 +4474,7 @@ And the bars themselves he made also of setim wood, and overlaid them with plate
 
 *** Exodus 37:29
 
-He compounded also the oil for the ointment of sanctification, and incense of the purest spices, according to the work of a perfumer. <chapter eID="gen2691" osisID="Exod.37"/>
+He compounded also the oil for the ointment of sanctification, and incense of the purest spices, according to the work of a perfumer. 
 
 ** Exodus 38
 
@@ -4600,7 +4600,7 @@ Of which were cast the sockets in the entry of the tabernacle of the testimony, 
 
 *** Exodus 38:31
 
-And the sockets of the court as well round about as in the entry thereof, and the pins of the tabernacle, and of the court round about. <chapter eID="gen2721" osisID="Exod.38"/>
+And the sockets of the court as well round about as in the entry thereof, and the pins of the tabernacle, and of the court round about. 
 
 ** Exodus 39
 
@@ -4774,7 +4774,7 @@ The children of Israel offered, as the Lord had commanded.
 
 *** Exodus 39:43
 
-And when Moses saw all things finished, he blessed them. <chapter eID="gen2753" osisID="Exod.39"/>
+And when Moses saw all things finished, he blessed them. 
 
 ** Exodus 40
 
@@ -4920,4 +4920,4 @@ If it hung over, they remained in the same place.
 
 *** Exodus 40:36
 
-For the cloud of the Lord hung over the tabernacle by day, and a fire by night, in the sight of all the children of Israel throughout all their mansions. <chapter eID="gen2797" osisID="Exod.40"/> <div eID="gen1582" osisID="Exod" type="book"/>
+For the cloud of the Lord hung over the tabernacle by day, and a fire by night, in the sight of all the children of Israel throughout all their mansions.  

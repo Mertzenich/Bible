@@ -6,7 +6,7 @@ Paulus et Timotheus, servi Jesu Christi, omnibus sanctis in Christo Jesu, qui su
 
 ** Philippians 1:2
 
-Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.  <div eID="gen33068" type="x-p"/>
+Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.  
 
 ** Philippians 1:3
 
@@ -42,7 +42,7 @@ ut probetis potiora, ut sitis sinceri, et sine offensa in diem Christi,
 
 ** Philippians 1:11
 
-repleti fructu justitiæ per Jesum Christum, in gloriam et laudem Dei.  <div eID="gen33069" type="x-p"/>
+repleti fructu justitiæ per Jesum Christum, in gloriam et laudem Dei.  
 
 ** Philippians 1:12
 
@@ -102,7 +102,7 @@ Et hoc confidens scio quia manebo, et permanebo omnibus vobis ad profectum vestr
 
 ** Philippians 1:26
 
-ut gratulatio vestra abundet in Christo Jesu in me, per meum adventum iterum ad vos.  <div eID="gen33070" type="x-p"/>
+ut gratulatio vestra abundet in Christo Jesu in me, per meum adventum iterum ad vos.  
 
 ** Philippians 1:27
 
@@ -118,7 +118,7 @@ quia vobis donatum est pro Christo, non solum ut in eum credatis, sed ut etiam p
 
 ** Philippians 1:30
 
-idem certamen habentes, quale et vidistis in me, et nunc audistis de me.  <chapter eID="Phil.1"/> <div eID="gen33071" type="x-p"/>
+idem certamen habentes, quale et vidistis in me, et nunc audistis de me.   
 
 * Philippians 2
 
@@ -136,7 +136,7 @@ nihil per contentionem, neque per inanem gloriam : sed in humilitate superiores 
 
 ** Philippians 2:4
 
-non quæ sua sunt singuli considerantes, sed ea quæ aliorum.  <div eID="gen33072" type="x-p"/>
+non quæ sua sunt singuli considerantes, sed ea quæ aliorum.  
 
 ** Philippians 2:5
 
@@ -164,7 +164,7 @@ ut in nomine Jesu omne genu flectatur cælestium, terrestrium et infernorum,
 
 ** Philippians 2:11
 
-et omnis lingua confiteatur, quia Dominus Jesus Christus in gloria est Dei Patris.  <div eID="gen33073" type="x-p"/>
+et omnis lingua confiteatur, quia Dominus Jesus Christus in gloria est Dei Patris.  
 
 ** Philippians 2:12
 
@@ -192,7 +192,7 @@ Sed et si immolor supra sacrificium, et obsequium fidei vestræ, gaudeo, et cong
 
 ** Philippians 2:18
 
-Idipsum autem et vos gaudete, et congratulamini mihi.  <div eID="gen33074" type="x-p"/>
+Idipsum autem et vos gaudete, et congratulamini mihi.  
 
 ** Philippians 2:19
 
@@ -240,7 +240,7 @@ Excipite itaque illum cum omni gaudio in Domino, et ejusmodi cum honore habetote
 
 ** Philippians 2:30
 
-quoniam propter opus Christi usque ad mortem accessit, tradens animam suam ut impleret id quod ex vobis deerat erga meum obsequium.  <chapter eID="Phil.2"/> <div eID="gen33075" type="x-p"/>
+quoniam propter opus Christi usque ad mortem accessit, tradens animam suam ut impleret id quod ex vobis deerat erga meum obsequium.   
 
 * Philippians 3
 
@@ -326,7 +326,7 @@ Nostra autem conversatio in cælis est : unde etiam Salvatorem exspectamus Domin
 
 ** Philippians 3:21
 
-qui reformabit corpus humilitatis nostræ, configuratum corpori claritatis suæ, secundum operationem, qua etiam possit subjicere sibi omnia.  <chapter eID="Phil.3"/> <div eID="gen33076" type="x-p"/>
+qui reformabit corpus humilitatis nostræ, configuratum corpori claritatis suæ, secundum operationem, qua etiam possit subjicere sibi omnia.   
 
 * Philippians 4
 
@@ -364,7 +364,7 @@ De cetero fratres, quæcumque sunt vera, quæcumque pudica, quæcumque justa, qu
 
 ** Philippians 4:9
 
-Quæ et didicistis, et accepistis, et audistis, et vidistis in me, hæc agite : et Deus pacis erit vobiscum.  <div eID="gen33077" type="x-p"/>
+Quæ et didicistis, et accepistis, et audistis, et vidistis in me, hæc agite : et Deus pacis erit vobiscum.  
 
 ** Philippians 4:10
 
@@ -408,7 +408,7 @@ Deus autem meus impleat omne desiderium vestrum secundum divitias suas in gloria
 
 ** Philippians 4:20
 
-Deo autem et Patri nostro gloria in sæcula sæculorum. Amen.  <div eID="gen33078" type="x-p"/>
+Deo autem et Patri nostro gloria in sæcula sæculorum. Amen.  
 
 ** Philippians 4:21
 
@@ -420,5 +420,5 @@ Salutant vos, qui mecum sunt, fratres. Salutant vos omnes sancti, maxime autem q
 
 ** Philippians 4:23
 
-Gratia Domini nostri Jesu Christi cum spiritu vestro. Amen.  <div eID="gen33079" type="x-p"/> <chapter eID="Phil.4"/> <div eID="gen33067" osisID="Phil" type="book"/>
+Gratia Domini nostri Jesu Christi cum spiritu vestro. Amen.    
 

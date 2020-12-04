@@ -86,7 +86,7 @@ I went out full and the Lord hath brought me back empty. Why then do you call me
 
 *** Ruth 1:22
 
-So Noemi came with Ruth, the Moabitess, her daughter in law, from the land of her sojournment: and returned into Bethlehem, in the beginning of the barley harvest. <chapter eID="gen7363" osisID="Ruth.1"/>
+So Noemi came with Ruth, the Moabitess, her daughter in law, from the land of her sojournment: and returned into Bethlehem, in the beginning of the barley harvest. 
 
 ** Ruth 2
 
@@ -180,7 +180,7 @@ And her mother in law said to her: It is better for thee, my daughter, to go out
 
 *** Ruth 2:23
 
-So she kept close to the maids of Booz: and continued to glean with them, till all the barley and the wheat were laid up in the barns. <chapter eID="gen7386" osisID="Ruth.2"/>
+So she kept close to the maids of Booz: and continued to glean with them, till all the barley and the wheat were laid up in the barns. 
 
 ** Ruth 3
 
@@ -254,7 +254,7 @@ And she said: Behold he hath given me six measures of barley: for he said: I wil
 
 *** Ruth 3:18
 
-And Noemi said: Wait, my daughter, till we see what end the thing will have. For the man will not rest until he have accomplished what he hath said. <chapter eID="gen7410" osisID="Ruth.3"/>
+And Noemi said: Wait, my daughter, till we see what end the thing will have. For the man will not rest until he have accomplished what he hath said. 
 
 ** Ruth 4
 
@@ -344,4 +344,4 @@ Salmon begot Booz, Booz begot Obed,
 
 *** Ruth 4:22
 
-Obed begot Isai, Isai begot David. <chapter eID="gen7429" osisID="Ruth.4"/> <div eID="gen7362" osisID="Ruth" type="book"/>
+Obed begot Isai, Isai begot David.  

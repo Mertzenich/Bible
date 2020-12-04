@@ -54,7 +54,7 @@ And you have said: Behold of our labour, and you puffed it away, saith the Lord 
 
 *** Malachi 1:14
 
-Cursed is the deceitful man that hath in his flock a male, and making a vow offereth in sacrifice that which is feeble to the Lord: for I am a great King, saith the Lord of hosts, and my name is dreadful among the Gentiles. <chapter eID="gen27408" osisID="Mal.1"/>
+Cursed is the deceitful man that hath in his flock a male, and making a vow offereth in sacrifice that which is feeble to the Lord: for I am a great King, saith the Lord of hosts, and my name is dreadful among the Gentiles. 
 
 ** Malachi 2
 
@@ -124,7 +124,7 @@ When thou shalt hate her put her away, saith the Lord, the God of Israel: but in
 
 *** Malachi 2:17
 
-You have wearied the Lord with your words, and you said: Wherein have we wearied him? In that you say: Every one that doth evil, is good in the sight of the Lord, and such please him: or surely where is the God of judgment? <chapter eID="gen27423" osisID="Mal.2"/>
+You have wearied the Lord with your words, and you said: Wherein have we wearied him? In that you say: Every one that doth evil, is good in the sight of the Lord, and such please him: or surely where is the God of judgment? 
 
 ** Malachi 3
 
@@ -198,7 +198,7 @@ And they shall be my special possession, saith the Lord of hosts, in the day tha
 
 *** Malachi 3:18
 
-And you shall return, and shall see the difference between the just and the wicked: and between him that serveth God, and him that serveth him not. <chapter eID="gen27441" osisID="Mal.3"/>
+And you shall return, and shall see the difference between the just and the wicked: and between him that serveth God, and him that serveth him not. 
 
 ** Malachi 4
 
@@ -224,4 +224,4 @@ Behold, I will send you Elias the prophet, before the coming of the great and dr
 
 *** Malachi 4:6
 
-And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers: lest I come, and strike the earth with anathema. <chapter eID="gen27460" osisID="Mal.4"/> <div eID="gen27407" osisID="Mal" type="book"/>
+And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers: lest I come, and strike the earth with anathema.  

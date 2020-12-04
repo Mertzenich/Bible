@@ -70,7 +70,7 @@ As we obeyed Moses in all things, so will we obey thee also: only be the Lord th
 
 *** Joshua 1:18
 
-He that shall gainsay thy mouth, and not obey all thy words, that thou shalt command him, let him die: only take thou courage, and do manfully. <chapter eID="gen6040" osisID="Josh.1"/>
+He that shall gainsay thy mouth, and not obey all thy words, that thou shalt command him, let him die: only take thou courage, and do manfully. 
 
 ** Joshua 2
 
@@ -168,7 +168,7 @@ And when they were gone back into the city, the spies returned, and came down fr
 
 *** Joshua 2:24
 
-And said: the Lord hath delivered all this land into our hands, and all the inhabitants thereof are overthrown with fear. <chapter eID="gen6059" osisID="Josh.2"/>
+And said: the Lord hath delivered all this land into our hands, and all the inhabitants thereof are overthrown with fear. 
 
 ** Joshua 3
 
@@ -238,7 +238,7 @@ The waters that came down from above stood in one place, and swelling up like a 
 
 *** Joshua 3:17
 
-And the people marched over against Jericho: and the priests that carried the ark of the covenant of the Lord, stood girded upon the dry ground in the midst of the Jordan, and all the people passed over, through the channel that was dried up. <chapter eID="gen6084" osisID="Josh.3"/>
+And the people marched over against Jericho: and the priests that carried the ark of the covenant of the Lord, stood girded upon the dry ground in the midst of the Jordan, and all the people passed over, through the channel that was dried up. 
 
 ** Joshua 4
 
@@ -340,7 +340,7 @@ As he had done before in the Red Sea, which he dried up till we passed through:
 
 *** Joshua 4:25
 
-That all the people of the earth may learn the most mighty hand of the Lord, that you also may fear the Lord your God for ever. <chapter eID="gen6102" osisID="Josh.4"/>
+That all the people of the earth may learn the most mighty hand of the Lord, that you also may fear the Lord your God for ever. 
 
 ** Joshua 5
 
@@ -406,7 +406,7 @@ Joshua fell on his face to the ground. And worshipping, said: What saith my lord
 
 *** Joshua 5:16
 
-Loose, saith he, thy shoes from off thy feet: for the place whereon thou standest is holy. And Joshua did as was commanded him. <chapter eID="gen6128" osisID="Josh.5"/>
+Loose, saith he, thy shoes from off thy feet: for the place whereon thou standest is holy. And Joshua did as was commanded him. 
 
 ** Joshua 6
 
@@ -516,7 +516,7 @@ Cursed be the man before the Lord, that shall raise up and build the city of Jer
 
 *** Joshua 6:27
 
-And the Lord was with Joshua, and his name was noised throughout all the land <chapter eID="gen6145" osisID="Josh.6"/>
+And the Lord was with Joshua, and his name was noised throughout all the land 
 
 ** Joshua 7
 
@@ -622,7 +622,7 @@ Where Joshua said: Because thou hast troubled us, the Lord trouble thee this day
 
 *** Joshua 7:26
 
-And they gathered together upon him a great heap of stones, which remaineth until this present day And the wrath of the Lord was turned away from them. And the name of that place was called the Valley of Achor, until this day. <chapter eID="gen6173" osisID="Josh.7"/>
+And they gathered together upon him a great heap of stones, which remaineth until this present day And the wrath of the Lord was turned away from them. And the name of that place was called the Valley of Achor, until this day. 
 
 ** Joshua 8
 
@@ -764,7 +764,7 @@ After this, he read all the words of the blessing and the cursing, and all thing
 
 *** Joshua 8:35
 
-He left out nothing of those things which Moses had commanded, but he repeated all before all the people of Israel, with the women and children, and strangers, that dwelt among them. <chapter eID="gen6200" osisID="Josh.8"/>
+He left out nothing of those things which Moses had commanded, but he repeated all before all the people of Israel, with the women and children, and strangers, that dwelt among them. 
 
 ** Joshua 9
 
@@ -874,7 +874,7 @@ So Joshua did as he had said, and delivered them from the hand of the children o
 
 *** Joshua 9:27
 
-And he gave orders in that day, that they should be in the service of all the people, and of the altar of the Lord, hewing wood, and carrying water, until this present time, in the place which the Lord hath chosen. <chapter eID="gen6236" osisID="Josh.9"/>
+And he gave orders in that day, that they should be in the service of all the people, and of the altar of the Lord, hewing wood, and carrying water, until this present time, in the place which the Lord hath chosen. 
 
 ** Joshua 10
 
@@ -1048,7 +1048,7 @@ And all their kings, and their lands he took and wasted at one onset: for the Lo
 
 *** Joshua 10:43
 
-And he returned with all Israel to the place of the camp in Galgal. <chapter eID="gen6264" osisID="Josh.10"/>
+And he returned with all Israel to the place of the camp in Galgal. 
 
 ** Joshua 11
 
@@ -1142,7 +1142,7 @@ He left not any of the stock of the Enacims, in the land of the children of Isra
 
 *** Joshua 11:23
 
-So Joshua took all the land, as the Lord spoke to Moses, and delivered it in possession to the children of Israel, according to their divisions and tribes. And the land rested from wars. <chapter eID="gen6308" osisID="Josh.11"/>
+So Joshua took all the land, as the Lord spoke to Moses, and delivered it in possession to the children of Israel, according to their divisions and tribes. And the land rested from wars. 
 
 ** Joshua 12
 
@@ -1240,7 +1240,7 @@ The king of Dor, and of the province of Dor one, the king of the nations of Galg
 
 *** Joshua 12:24
 
-The king of Thersa one: all the kings thirty and one. <chapter eID="gen6332" osisID="Josh.12"/>
+The king of Thersa one: all the kings thirty and one. 
 
 ** Joshua 13
 
@@ -1374,7 +1374,7 @@ This possession Moses divided in the plains of Moab, beyond the Jordan, over aga
 
 *** Joshua 13:33
 
-But to the tribe of Levi he gave no possession: because the Lord the God of Israel himself is their possession, as he spoke to them. <chapter eID="gen6357" osisID="Josh.13"/>
+But to the tribe of Levi he gave no possession: because the Lord the God of Israel himself is their possession, as he spoke to them. 
 
 ** Joshua 14
 
@@ -1436,7 +1436,7 @@ And from that time Hebron belonged to Caleb the son of Jephone the Cenezite, unt
 
 *** Joshua 14:15
 
-The name of Hebron before was called Cariath-Arbe: Adam the greatest among the Enacims was laid there and the land rested from wars. <chapter eID="gen6391" osisID="Josh.14"/>
+The name of Hebron before was called Cariath-Arbe: Adam the greatest among the Enacims was laid there and the land rested from wars. 
 
 ** Joshua 15
 
@@ -1690,7 +1690,7 @@ And Nebsan, and the city of salt, and Engaddi: six cities and their villages.
 
 *** Joshua 15:63
 
-But the children of Juda could not destroy the Jebusite that dwelt in Jerusalem: and the Jebusite dwelt with the children of Juda in Jerusalem until this present day. <chapter eID="gen6407" osisID="Josh.15"/>
+But the children of Juda could not destroy the Jebusite that dwelt in Jerusalem: and the Jebusite dwelt with the children of Juda in Jerusalem until this present day. 
 
 ** Joshua 16
 
@@ -1732,7 +1732,7 @@ And there were cities with their villages separated for the children of Ephraim 
 
 *** Joshua 16:10
 
-And the children of Ephraim slew not the Chanaanite, who dwelt in Gazer: and the Chanaanite dwelt in the midst of Ephraim until this day, paying tribute. <chapter eID="gen6471" osisID="Josh.16"/>
+And the children of Ephraim slew not the Chanaanite, who dwelt in Gazer: and the Chanaanite dwelt in the midst of Ephraim until this day, paying tribute. 
 
 ** Joshua 17
 
@@ -1806,7 +1806,7 @@ And Joshua said to the house of Joseph, to Ephraim and Manasses: Thou art a grea
 
 *** Joshua 17:18
 
-But thou shalt pass to the mountain, and shalt cut down the wood, and make thyself room to dwell in: and mayst proceed farther, when thou hast destroyed the Chanaanites, who as thou sayest have iron chariots, and are very strong. <chapter eID="gen6482" osisID="Josh.17"/>
+But thou shalt pass to the mountain, and shalt cut down the wood, and make thyself room to dwell in: and mayst proceed farther, when thou hast destroyed the Chanaanites, who as thou sayest have iron chariots, and are very strong. 
 
 ** Joshua 18
 
@@ -1920,7 +1920,7 @@ And Recem, Jarephel, and Tharela,
 
 *** Joshua 18:28
 
-And Sela, Eleph and Jebus, which is Jerusalem, Gabaath and Cariath: fourteen cities, and their villages. This is the possession of the children of Benjamin by their families. <chapter eID="gen6501" osisID="Josh.18"/>
+And Sela, Eleph and Jebus, which is Jerusalem, Gabaath and Cariath: fourteen cities, and their villages. This is the possession of the children of Benjamin by their families. 
 
 ** Joshua 19
 
@@ -2126,7 +2126,7 @@ According to the commandment of the Lord, the city which he asked for, Thamnath 
 
 *** Joshua 19:51
 
-These are the possessions which Eleazar the priest, and Joshua the son of Nun, and the princes of the families, and of the tribes of the children of Israel, distributed by lot in Silo, before the Lord at the door of the tabernacle of the testimony, and they divided the land. <chapter eID="gen6530" osisID="Josh.19"/>
+These are the possessions which Eleazar the priest, and Joshua the son of Nun, and the princes of the families, and of the tribes of the children of Israel, distributed by lot in Silo, before the Lord at the door of the tabernacle of the testimony, and they divided the land. 
 
 ** Joshua 20
 
@@ -2164,7 +2164,7 @@ And beyond the Jordan to the east of Jericho, they appointed Bosor, which is upo
 
 *** Joshua 20:9
 
-These cities were appointed for all the children of Israel, and for the strangers, that dwelt among them, that whosoever had killed a person unawares might flee to them, and not die by the hand of the kinsman, coveting to revenge the blood that was shed, until he should stand before the people to lay open his cause. <chapter eID="gen6582" osisID="Josh.20"/>
+These cities were appointed for all the children of Israel, and for the strangers, that dwelt among them, that whosoever had killed a person unawares might flee to them, and not die by the hand of the kinsman, coveting to revenge the blood that was shed, until he should stand before the people to lay open his cause. 
 
 ** Joshua 21
 
@@ -2338,7 +2338,7 @@ And he gave them peace from all nations round about: and none of their enemies d
 
 *** Joshua 21:43
 
-Not so much as one word, which he had promised to perform unto them, was made void, but all came to pass. <chapter eID="gen6592" osisID="Josh.21"/>
+Not so much as one word, which he had promised to perform unto them, was made void, but all came to pass. 
 
 ** Joshua 22
 
@@ -2476,7 +2476,7 @@ And the saying pleased all that heard it. And the children of Israel praised God
 
 *** Joshua 22:34
 
-And the children of Ruben, and the children of Gad called the altar which they had built, Our testimony, that the Lord is God, <chapter eID="gen6636" osisID="Josh.22"/>
+And the children of Ruben, and the children of Gad called the altar which they had built, Our testimony, that the Lord is God, 
 
 ** Joshua 23
 
@@ -2542,7 +2542,7 @@ Therefore as he hath fulfilled in deed, what he promised, and all things prosper
 
 *** Joshua 23:16
 
-When you shall have transgressed the covenant of the Lord your God, which he hath made with you, and shall have served strange gods, and adored them: then shall the indignation of the Lord rise up quickly and speedily against you, and you shall be taken away from this excellent land, which he hath delivered to you. <chapter eID="gen6671" osisID="Josh.23"/>
+When you shall have transgressed the covenant of the Lord your God, which he hath made with you, and shall have served strange gods, and adored them: then shall the indignation of the Lord rise up quickly and speedily against you, and you shall be taken away from this excellent land, which he hath delivered to you. 
 
 ** Joshua 24
 
@@ -2676,4 +2676,4 @@ And the bones of Joseph which the children of Israel had taken out of Egypt, the
 
 *** Joshua 24:33
 
-Eleazar also the son of Aaron died: and they buried him in Gabaath that belongeth to Phinees his son, which was given him in mount Ephraim. <chapter eID="gen6688" osisID="Josh.24"/> <div eID="gen6039" osisID="Josh" type="book"/>
+Eleazar also the son of Aaron died: and they buried him in Gabaath that belongeth to Phinees his son, which was given him in mount Ephraim.  

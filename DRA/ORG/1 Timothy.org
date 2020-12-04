@@ -78,7 +78,7 @@ Having faith and a good conscience, which some rejecting have made shipwreck con
 
 *** I Timothy 1:20
 
-Of whom is Hymeneus and Alexander, whom I have delivered up to Satan, that they may learn not to blaspheme. <chapter eID="gen35735" osisID="1Tim.1"/>
+Of whom is Hymeneus and Alexander, whom I have delivered up to Satan, that they may learn not to blaspheme. 
 
 ** I Timothy 2
 
@@ -140,7 +140,7 @@ And Adam was not seduced; but the woman, being seduced, was in the transgression
 
 *** I Timothy 2:15
 
-Yet she shall be saved through child bearing; if she continue in faith and love and sanctification with sobriety. <chapter eID="gen35756" osisID="1Tim.2"/>
+Yet she shall be saved through child bearing; if she continue in faith and love and sanctification with sobriety. 
 
 ** I Timothy 3
 
@@ -206,7 +206,7 @@ But if I tarry long, that thou mayest know how thou oughtest to behave thyself i
 
 *** I Timothy 3:16
 
-And evidently great is the mystery of godliness, which was manifested in the flesh, was justified in the spirit, appeared unto angels, hath been preached unto the Gentiles, is believed in the world, is taken up in glory. <chapter eID="gen35772" osisID="1Tim.3"/>
+And evidently great is the mystery of godliness, which was manifested in the flesh, was justified in the spirit, appeared unto angels, hath been preached unto the Gentiles, is believed in the world, is taken up in glory. 
 
 ** I Timothy 4
 
@@ -272,7 +272,7 @@ Meditate upon these things, be wholly in these things: that thy profiting may be
 
 *** I Timothy 4:16
 
-Take heed to thyself and to doctrine: be earnest in them. For in doing this thou shalt both save thyself and them that hear thee. <chapter eID="gen35789" osisID="1Tim.4"/>
+Take heed to thyself and to doctrine: be earnest in them. For in doing this thou shalt both save thyself and them that hear thee. 
 
 ** I Timothy 5
 
@@ -374,7 +374,7 @@ Some men's sins are manifest, going before to judgment: and some men they follow
 
 *** I Timothy 5:25
 
-In like manner also good deeds are manifest: and they that are otherwise cannot be hid. <chapter eID="gen35806" osisID="1Tim.5"/>
+In like manner also good deeds are manifest: and they that are otherwise cannot be hid. 
 
 ** I Timothy 6
 
@@ -460,4 +460,4 @@ O Timothy, keep that which is committed to thy trust, avoiding the profane novel
 
 *** I Timothy 6:21
 
-Which some promising, have erred concerning the faith. Grace be with thee. Amen. <chapter eID="gen35832" osisID="1Tim.6"/> <div eID="gen35734" osisID="1Tim" type="book"/>
+Which some promising, have erred concerning the faith. Grace be with thee. Amen.  

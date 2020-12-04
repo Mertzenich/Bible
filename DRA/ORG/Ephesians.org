@@ -90,7 +90,7 @@ And he hath subjected all things under his feet and hath made him head over all 
 
 *** Ephesians 1:23
 
-Which is his body and the fulness of him who is filled all in all. <chapter eID="gen35220" osisID="Eph.1"/>
+Which is his body and the fulness of him who is filled all in all. 
 
 ** Ephesians 2
 
@@ -180,7 +180,7 @@ In whom all the building, being framed together, groweth up into an holy temple 
 
 *** Ephesians 2:22
 
-In whom you also are built together into an habitation of God in the Spirit. <chapter eID="gen35244" osisID="Eph.2"/>
+In whom you also are built together into an habitation of God in the Spirit. 
 
 ** Ephesians 3
 
@@ -266,7 +266,7 @@ Now to him who is able to do all things more abundantly than we desire or unders
 
 *** Ephesians 3:21
 
-To him be glory in the church and in Christ Jesus, unto all generations, world without end. Amen. <chapter eID="gen35267" osisID="Eph.3"/>
+To him be glory in the church and in Christ Jesus, unto all generations, world without end. Amen. 
 
 ** Ephesians 4
 
@@ -396,7 +396,7 @@ Let all bitterness and anger and indignation and clamour and blasphemy be put aw
 
 *** Ephesians 4:32
 
-And be ye kind one to another: merciful, forgiving one another, even as God hath forgiven you in Christ. <chapter eID="gen35289" osisID="Eph.4"/>
+And be ye kind one to another: merciful, forgiving one another, even as God hath forgiven you in Christ. 
 
 ** Ephesians 5
 
@@ -530,7 +530,7 @@ This is a great sacrament: but I speak in Christ and in the church.
 
 *** Ephesians 5:33
 
-Nevertheless, let every one of you in particular love for his wife as himself: And let the wife fear her husband. <chapter eID="gen35322" osisID="Eph.5"/>
+Nevertheless, let every one of you in particular love for his wife as himself: And let the wife fear her husband. 
 
 ** Ephesians 6
 
@@ -628,4 +628,4 @@ Peace be to the brethren and charity with faith, from God the Father and the Lor
 
 *** Ephesians 6:24
 
-Grace be with all them that love our Lord Jesus Christ in incorruption. Amen. <chapter eID="gen35356" osisID="Eph.6"/> <div eID="gen35219" osisID="Eph" type="book"/>
+Grace be with all them that love our Lord Jesus Christ in incorruption. Amen.  

@@ -10,7 +10,7 @@ et Appiæ sorori carissimæ, et Archippo commilitoni nostro, et ecclesiæ, quæ 
 
 ** Philemon 1:3
 
-Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.  <div eID="gen33145" type="x-p"/>
+Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.  
 
 ** Philemon 1:4
 
@@ -26,7 +26,7 @@ ut communicatio fidei tuæ evidens fiat in agnitione omnis operis boni, quod est
 
 ** Philemon 1:7
 
-Gaudium enim magnum habui, et consolationem in caritate tua : quia viscera sanctorum requieverunt per te, frater.  <div eID="gen33146" type="x-p"/>
+Gaudium enim magnum habui, et consolationem in caritate tua : quia viscera sanctorum requieverunt per te, frater.  
 
 ** Philemon 1:8
 
@@ -82,7 +82,7 @@ ita, frater. Ego te fruar in Domino : refice viscera mea in Domino.
 
 ** Philemon 1:21
 
-Confidens in obedientia tua scripsi tibi : sciens quoniam et super id, quod dico, facies.  <div eID="gen33147" type="x-p"/>
+Confidens in obedientia tua scripsi tibi : sciens quoniam et super id, quod dico, facies.  
 
 ** Philemon 1:22
 
@@ -98,5 +98,5 @@ Marcus, Aristarchus, Demas, et Lucas, adjutores mei.
 
 ** Philemon 1:25
 
-Gratia Domini nostri Jesu Christi cum spiritu vestro. Amen.  <div eID="gen33148" type="x-p"/> <chapter eID="Phlm.1"/> <div eID="gen33144" osisID="Phlm" type="book"/>
+Gratia Domini nostri Jesu Christi cum spiritu vestro. Amen.    
 

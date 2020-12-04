@@ -14,7 +14,7 @@ Per quadrum vero earum latus utrumque vicenorum pedum spatio tendebatur, posuitq
 
 ** Judith 1:4
 
-et gloriabatur quasi potens in potentia exercitus sui, et in gloria quadrigarum suarum.  <div eID="gen2304" type="x-p"/>
+et gloriabatur quasi potens in potentia exercitus sui, et in gloria quadrigarum suarum.  
 
 ** Judith 1:5
 
@@ -46,7 +46,7 @@ qui omnes uno animo contradixerunt, et remiserunt eos vacuos, et sine honore abj
 
 ** Judith 1:12
 
-Tunc indignatus Nabuchodonosor rex adversus omnem terram illam, juravit per thronum et regnum suum quod defenderet se de omnibus regionibus his.  <chapter eID="Jdt.1"/> <div eID="gen2305" type="x-p"/>
+Tunc indignatus Nabuchodonosor rex adversus omnem terram illam, juravit per thronum et regnum suum quod defenderet se de omnibus regionibus his.   
 
 * Judith 2
 
@@ -120,7 +120,7 @@ Et post hæc descendit in campos Damasci in diebus messis, et succendit omnia sa
 
 ** Judith 2:18
 
-et cecidit timor illius super omnes inhabitantes terram.  <chapter eID="Jdt.2"/> <div eID="gen2306" type="x-p"/>
+et cecidit timor illius super omnes inhabitantes terram.   
 
 * Judith 3
 
@@ -182,7 +182,7 @@ Pertransiens autem Syriam Sobal, et omnem Apameam, omnemque Mesopotamiam, venit 
 
 ** Judith 3:15
 
-accepitque civitates eorum, et sedit ibi per triginta dies, in quibus diebus adunari præcepit universum exercitum virtutis suæ.  <chapter eID="Jdt.3"/> <div eID="gen2307" type="x-p"/>
+accepitque civitates eorum, et sedit ibi per triginta dies, in quibus diebus adunari præcepit universum exercitum virtutis suæ.   
 
 * Judith 4
 
@@ -252,7 +252,7 @@ ita ut etiam hi qui offerebant Domino holocausta, præcincti ciliciis offerrent 
 
 ** Judith 4:17
 
-Et ex toto corde suo omnes orabant Deum, ut visitaret populum suum Israël.  <chapter eID="Jdt.4"/> <div eID="gen2308" type="x-p"/>
+Et ex toto corde suo omnes orabant Deum, ut visitaret populum suum Israël.   
 
 * Judith 5
 
@@ -270,7 +270,7 @@ et dixit eis : Dicite mihi quis sit populus iste, qui montana obsidet : aut quæ
 
 ** Judith 5:4
 
-et quare præ omnibus qui habitant in oriente, isti contempserunt nos, et non exierunt obviam nobis ut susciperent nos cum pace ?  <div eID="gen2309" type="x-p"/>
+et quare præ omnibus qui habitant in oriente, isti contempserunt nos, et non exierunt obviam nobis ut susciperent nos cum pace ?  
 
 ** Judith 5:5
 
@@ -354,7 +354,7 @@ Nunc ergo mi domine, perquire si est aliqua iniquitas eorum in conspectu Dei eor
 
 ** Judith 5:25
 
-Si vero non est offensio populi hujus coram Deo suo, non poterimus resistere illis, quoniam Deus eorum defendet illos : et erimus in opprobrium universæ terræ.  <div eID="gen2310" type="x-p"/>
+Si vero non est offensio populi hujus coram Deo suo, non poterimus resistere illis, quoniam Deus eorum defendet illos : et erimus in opprobrium universæ terræ.  
 
 ** Judith 5:26
 
@@ -370,7 +370,7 @@ Ut ergo agnoscat Achior quoniam fallit nos, ascendamus in montana : et cum capti
 
 ** Judith 5:29
 
-ut sciat omnis gens quoniam Nabuchodonosor deus terræ est, et præter ipsum alius non est.  <chapter eID="Jdt.5"/> <div eID="gen2311" type="x-p"/>
+ut sciat omnis gens quoniam Nabuchodonosor deus terræ est, et præter ipsum alius non est.   
 
 * Judith 6
 
@@ -412,7 +412,7 @@ Illi autem divertentes a latere montis, ligaverunt Achior ad arborem manibus et 
 
 ** Judith 6:10
 
-Porro filii Israël descendentes de Bethulia, venerunt ad eum : quem solventes, duxerunt ad Bethuliam, atque in medium populi illum statuentes, percunctati sunt quid rerum esset quod illum vinctum Assyrii reliquissent.  <div eID="gen2312" type="x-p"/>
+Porro filii Israël descendentes de Bethulia, venerunt ad eum : quem solventes, duxerunt ad Bethuliam, atque in medium populi illum statuentes, percunctati sunt quid rerum esset quod illum vinctum Assyrii reliquissent.  
 
 ** Judith 6:11
 
@@ -456,7 +456,7 @@ Et vocatis omnibus presbyteris, simul expleto jejunio refecerunt.
 
 ** Judith 6:21
 
-Postea vero convocatus est omnis populus, et per totam noctem intra ecclesiam oraverunt, petentes auxilium a Deo Israël.  <chapter eID="Jdt.6"/> <div eID="gen2313" type="x-p"/>
+Postea vero convocatus est omnis populus, et per totam noctem intra ecclesiam oraverunt, petentes auxilium a Deo Israël.   
 
 * Judith 7
 
@@ -478,7 +478,7 @@ Filii autem Israël, ut viderunt multitudinem illorum, prostraverunt se super te
 
 ** Judith 7:5
 
-Et assumentes arma sua bellica, sederunt per loca quæ ad angusti itineris tramitem dirigunt inter montosa, et erant custodientes ea tota die et nocte.  <div eID="gen2314" type="x-p"/>
+Et assumentes arma sua bellica, sederunt per loca quæ ad angusti itineris tramitem dirigunt inter montosa, et erant custodientes ea tota die et nocte.  
 
 ** Judith 7:6
 
@@ -502,7 +502,7 @@ Et placuerunt verba hæc coram Holoferne et coram satellitibus ejus, et constitu
 
 ** Judith 7:11
 
-Cumque ista custodia per dies viginti fuisset expleta, defecerunt cisternæ et collectiones aquarum omnibus habitantibus Bethuliam, ita ut non esset intra civitatem unde satiarentur vel una die, quoniam ad mensuram dabatur populis aqua quotidie.  <div eID="gen2315" type="x-p"/>
+Cumque ista custodia per dies viginti fuisset expleta, defecerunt cisternæ et collectiones aquarum omnibus habitantibus Bethuliam, ita ut non esset intra civitatem unde satiarentur vel una die, quoniam ad mensuram dabatur populis aqua quotidie.  
 
 ** Judith 7:12
 
@@ -558,7 +558,7 @@ Forsitan enim indignationem suam abscindet, et dabit gloriam nomini suo.
 
 ** Judith 7:25
 
-Si autem transactis quinque diebus non venerit adjutorium, faciemus hæc verba quæ locuti estis.  <chapter eID="Jdt.7"/> <div eID="gen2316" type="x-p"/>
+Si autem transactis quinque diebus non venerit adjutorium, faciemus hæc verba quæ locuti estis.   
 
 * Judith 8
 
@@ -592,7 +592,7 @@ Erat autem eleganti aspectu nimis, cui vir suus reliquerat divitias multas, et f
 
 ** Judith 8:8
 
-Et erat hæc in omnibus famosissima, quoniam timebat Dominum valde, nec erat qui loqueretur de illa verbum malum.  <div eID="gen2317" type="x-p"/>
+Et erat hæc in omnibus famosissima, quoniam timebat Dominum valde, nec erat qui loqueretur de illa verbum malum.  
 
 ** Judith 8:9
 
@@ -668,7 +668,7 @@ Et nos ergo non ulciscamur nos pro his quæ patimur,
 
 ** Judith 8:27
 
-sed reputantes peccatis nostris hæc ipsa supplicia minora esse flagella Domini, quibus quasi servi corripimur ad emendationem, et non ad perditionem nostram evenisse credamus.  <div eID="gen2318" type="x-p"/>
+sed reputantes peccatis nostris hæc ipsa supplicia minora esse flagella Domini, quibus quasi servi corripimur ad emendationem, et non ad perditionem nostram evenisse credamus.  
 
 ** Judith 8:28
 
@@ -696,7 +696,7 @@ Vos autem nolo ut scrutemini actum meum, et usque dum renuntiem vobis, nihil ali
 
 ** Judith 8:34
 
-Et dixit ad eam Ozias princeps Juda : Vade in pace, et Dominus sit tecum in ultionem inimicorum nostrorum. Et revertentes abierunt.  <chapter eID="Jdt.8"/> <div eID="gen2319" type="x-p"/>
+Et dixit ad eam Ozias princeps Juda : Vade in pace, et Dominus sit tecum in ultionem inimicorum nostrorum. Et revertentes abierunt.   
 
 * Judith 9
 
@@ -774,7 +774,7 @@ Memento, Domine, testamenti tui, et da verbum in ore meo, et in corde meo consil
 
 ** Judith 9:19
 
-et omnes gentes agnoscant quia tu es Deus, et non est alius præter te.  <chapter eID="Jdt.9"/> <div eID="gen2320" type="x-p"/>
+et omnes gentes agnoscant quia tu es Deus, et non est alius præter te.   
 
 * Judith 10
 
@@ -816,7 +816,7 @@ Et dixerunt hi qui illic erant omnes una voce : Fiat, fiat.
 
 ** Judith 10:10
 
-Judith vero orans Dominum, transivit per portas, ipsa et abra ejus.  <div eID="gen2321" type="x-p"/>
+Judith vero orans Dominum, transivit per portas, ipsa et abra ejus.  
 
 ** Judith 10:11
 
@@ -848,7 +848,7 @@ Cumque intrasset ante faciem ejus, statim captus est in suis oculis Holofernes.
 
 ** Judith 10:18
 
-Dixeruntque ad eum satellites ejus : Quis contemnat populum Hebræorum, qui tam decoras mulieres habent, ut non pro his merito pugnare contra eos debeamus ?  <div eID="gen2322" type="x-p"/>
+Dixeruntque ad eum satellites ejus : Quis contemnat populum Hebræorum, qui tam decoras mulieres habent, ut non pro his merito pugnare contra eos debeamus ?  
 
 ** Judith 10:19
 
@@ -856,7 +856,7 @@ Videns itaque Judith Holofernem sedentem in conopeo, quod erat ex purpura, et au
 
 ** Judith 10:20
 
-et cum in faciem ejus intendisset, adoravit eum, prosternens se super terram. Et elevaverunt eam servi Holofernis, jubente domino suo.  <chapter eID="Jdt.10"/> <div eID="gen2323" type="x-p"/>
+et cum in faciem ejus intendisset, adoravit eum, prosternens se super terram. Et elevaverunt eam servi Holofernis, jubente domino suo.   
 
 * Judith 11
 
@@ -942,7 +942,7 @@ Et dixit ad illam Holofernes : Benefecit Deus, qui misit te ante populum, ut des
 
 ** Judith 11:21
 
-et quoniam bona est promissio tua, si fecerit mihi hoc Deus tuus, erit et Deus meus, et tu in domo Nabuchodonosor magna eris, et nomen tuum nominabitur in universa terra.  <chapter eID="Jdt.11"/> <div eID="gen2324" type="x-p"/>
+et quoniam bona est promissio tua, si fecerit mihi hoc Deus tuus, erit et Deus meus, et tu in domo Nabuchodonosor magna eris, et nomen tuum nominabitur in universa terra.   
 
 * Judith 12
 
@@ -988,7 +988,7 @@ Et factum est, in quarto die Holofernes fecit cœnam servis suis, et dixit ad Va
 
 ** Judith 12:11
 
-Fœdum est enim apud Assyrios, si femina irrideat virum agendo ut immunis ab eo transeat.  <div eID="gen2325" type="x-p"/>
+Fœdum est enim apud Assyrios, si femina irrideat virum agendo ut immunis ab eo transeat.  
 
 ** Judith 12:12
 
@@ -1024,7 +1024,7 @@ Et accepit, et manducavit et bibit coram ipso ea quæ paraverat illi ancilla eju
 
 ** Judith 12:20
 
-Et jucundus factus est Holofernes ad eam, bibitque vinum multum nimis, quantum numquam biberat in vita sua.  <chapter eID="Jdt.12"/> <div eID="gen2326" type="x-p"/>
+Et jucundus factus est Holofernes ad eam, bibitque vinum multum nimis, quantum numquam biberat in vita sua.   
 
 * Judith 13
 
@@ -1078,7 +1078,7 @@ Et exierunt duæ, secundum consuetudinem suam, quasi ad orationem, et transierun
 
 ** Judith 13:13
 
-Et dixit Judith a longe custodibus murorum : Aperite portas, quoniam nobiscum est Deus, qui fecit virtutem in Israël.  <div eID="gen2327" type="x-p"/>
+Et dixit Judith a longe custodibus murorum : Aperite portas, quoniam nobiscum est Deus, qui fecit virtutem in Israël.  
 
 ** Judith 13:14
 
@@ -1130,7 +1130,7 @@ quia hodie nomen tuum ita magnificavit, ut non recedat laus tua de ore hominum q
 
 ** Judith 13:26
 
-Et dixit omnis populus : Fiat, fiat.  <div eID="gen2328" type="x-p"/>
+Et dixit omnis populus : Fiat, fiat.  
 
 ** Judith 13:27
 
@@ -1150,7 +1150,7 @@ Postea vero quam resumpto spiritu recreatus est, procidit ad pedes ejus, et ador
 
 ** Judith 13:31
 
-Benedicta tu a Deo tuo in omni tabernaculo Jacob, quoniam in omni gente quæ audierit nomen tuum, magnificabitur super te Deus Israël.  <chapter eID="Jdt.13"/> <div eID="gen2329" type="x-p"/>
+Benedicta tu a Deo tuo in omni tabernaculo Jacob, quoniam in omni gente quæ audierit nomen tuum, magnificabitur super te Deus Israël.   
 
 * Judith 14
 
@@ -1176,7 +1176,7 @@ Cumque cognoveritis fugere eos, ite post illos securi, quoniam Dominus conteret 
 
 ** Judith 14:6
 
-Tunc Achior, videns virtutem quam fecit Deus Israël, relicto gentilitatis ritu, credidit Deo, et circumcidit carnem præputii sui, et appositus est ad populum Israël, et omnis successio generis ejus usque in hodiernum diem.  <div eID="gen2330" type="x-p"/>
+Tunc Achior, videns virtutem quam fecit Deus Israël, relicto gentilitatis ritu, credidit Deo, et circumcidit carnem præputii sui, et appositus est ad populum Israël, et omnis successio generis ejus usque in hodiernum diem.  
 
 ** Judith 14:7
 
@@ -1224,7 +1224,7 @@ Quod cum audissent principes virtutis Assyriorum, sciderunt omnes vestimenta sua
 
 ** Judith 14:18
 
-Et factus est clamor incomparabilis in medio castrorum eorum.  <chapter eID="Jdt.14"/> <div eID="gen2331" type="x-p"/>
+Et factus est clamor incomparabilis in medio castrorum eorum.   
 
 * Judith 15
 
@@ -1258,7 +1258,7 @@ Reliqui autem qui erant in Bethulia, ingressi sunt castra Assyriorum, et prædam
 
 ** Judith 15:8
 
-Hi vero qui victores reversi sunt ad Bethuliam, omnia quæ erant illorum attulerunt secum, ita ut non esset numerus in pecoribus et jumentis et universis mobilibus eorum, ut a minimo usque ad maximum omnes divites fierent de prædationibus eorum.  <div eID="gen2332" type="x-p"/>
+Hi vero qui victores reversi sunt ad Bethuliam, omnia quæ erant illorum attulerunt secum, ita ut non esset numerus in pecoribus et jumentis et universis mobilibus eorum, ut a minimo usque ad maximum omnes divites fierent de prædationibus eorum.  
 
 ** Judith 15:9
 
@@ -1286,93 +1286,93 @@ Porro autem universa quæ Holofernis peculiaria fuisse probata sunt, dederunt Ju
 
 ** Judith 15:15
 
-Et omnes populi gaudebant cum mulieribus, et virginibus, et juvenibus, in organis et citharis.  <chapter eID="Jdt.15"/> <div eID="gen2333" type="x-p"/>
+Et omnes populi gaudebant cum mulieribus, et virginibus, et juvenibus, in organis et citharis.   
 
 * Judith 16
 
 ** Judith 16:1
 
-Tunc cantavit canticum hoc Domino Judith, dicens :  <div eID="gen2334" type="x-p"/>
+Tunc cantavit canticum hoc Domino Judith, dicens :  
 
 ** Judith 16:2
 
-Incipite Domino in tympanis ; <l eID="gen2336" level="1"/> <l level="1" sID="gen2337"/>cantate Domino in cymbalis ; <l eID="gen2337" level="1"/> <l level="1" sID="gen2338"/>modulamini illi psalmum novum : <l eID="gen2338" level="1"/> <l level="1" sID="gen2339"/>exaltate, et invocate nomen ejus. <l eID="gen2339" level="1"/>
+Incipite Domino in tympanis ;  cantate Domino in cymbalis ;  modulamini illi psalmum novum :  exaltate, et invocate nomen ejus. 
 
 ** Judith 16:3
 
-Dominus conterens bella, <l eID="gen2340" level="1"/> <l level="1" sID="gen2341"/>Dominus nomen est illi. <l eID="gen2341" level="1"/>
+Dominus conterens bella,  Dominus nomen est illi. 
 
 ** Judith 16:4
 
-Qui posuit castra sua in medio populi sui, <l eID="gen2342" level="1"/> <l level="1" sID="gen2343"/>ut eriperet nos de manu omnium inimicorum nostrorum. <l eID="gen2343" level="1"/>
+Qui posuit castra sua in medio populi sui,  ut eriperet nos de manu omnium inimicorum nostrorum. 
 
 ** Judith 16:5
 
-Venit Assur ex montibus ab aquilone <l eID="gen2344" level="1"/> <l level="1" sID="gen2345"/>in multitudine fortitudinis suæ : <l eID="gen2345" level="1"/> <l level="1" sID="gen2346"/>cujus multitudo obturavit torrentes, <l eID="gen2346" level="1"/> <l level="1" sID="gen2347"/>et equi eorum cooperuerunt valles. <l eID="gen2347" level="1"/>
+Venit Assur ex montibus ab aquilone  in multitudine fortitudinis suæ :  cujus multitudo obturavit torrentes,  et equi eorum cooperuerunt valles. 
 
 ** Judith 16:6
 
-Dixit se incensurum fines meos, <l eID="gen2348" level="1"/> <l level="1" sID="gen2349"/>et juvenes meos occisurum gladio ; <l eID="gen2349" level="1"/> <l level="1" sID="gen2350"/>infantes meos dare in prædam, <l eID="gen2350" level="1"/> <l level="1" sID="gen2351"/>et virgines in captivitatem. <l eID="gen2351" level="1"/>
+Dixit se incensurum fines meos,  et juvenes meos occisurum gladio ;  infantes meos dare in prædam,  et virgines in captivitatem. 
 
 ** Judith 16:7
 
-Dominus autem omnipotens nocuit eum, <l eID="gen2352" level="1"/> <l level="1" sID="gen2353"/>et tradidit eum in manus feminæ, et confodit eum. <l eID="gen2353" level="1"/>
+Dominus autem omnipotens nocuit eum,  et tradidit eum in manus feminæ, et confodit eum. 
 
 ** Judith 16:8
 
-Non enim cecidit potens eorum a juvenibus, <l eID="gen2354" level="1"/> <l level="1" sID="gen2355"/>nec filii Titan percusserunt eum, <l eID="gen2355" level="1"/> <l level="1" sID="gen2356"/>nec excelsi gigantes opposuerunt se illi : <l eID="gen2356" level="1"/> <l level="1" sID="gen2357"/>sed Judith filia Merari in specie faciei suæ dissolvit eum. <l eID="gen2357" level="1"/>
+Non enim cecidit potens eorum a juvenibus,  nec filii Titan percusserunt eum,  nec excelsi gigantes opposuerunt se illi :  sed Judith filia Merari in specie faciei suæ dissolvit eum. 
 
 ** Judith 16:9
 
-Exuit enim se vestimento viduitatis, <l eID="gen2358" level="1"/> <l level="1" sID="gen2359"/>et induit se vestimento lætitiæ <l eID="gen2359" level="1"/> <l level="1" sID="gen2360"/>in exultatione filiorum Israël. <l eID="gen2360" level="1"/>
+Exuit enim se vestimento viduitatis,  et induit se vestimento lætitiæ  in exultatione filiorum Israël. 
 
 ** Judith 16:10
 
-Unxit faciem suam unguento, <l eID="gen2361" level="1"/> <l level="1" sID="gen2362"/>et colligavit cincinnos suos mitra ; <l eID="gen2362" level="1"/> <l level="1" sID="gen2363"/>accepit stolam novam ad decipiendum illum. <l eID="gen2363" level="1"/>
+Unxit faciem suam unguento,  et colligavit cincinnos suos mitra ;  accepit stolam novam ad decipiendum illum. 
 
 ** Judith 16:11
 
-Sandalia ejus rapuerunt oculos ejus ; <l eID="gen2364" level="1"/> <l level="1" sID="gen2365"/>pulchritudo ejus captivam fecit animam ejus : <l eID="gen2365" level="1"/> <l level="1" sID="gen2366"/>amputavit pugione cervicem ejus. <l eID="gen2366" level="1"/>
+Sandalia ejus rapuerunt oculos ejus ;  pulchritudo ejus captivam fecit animam ejus :  amputavit pugione cervicem ejus. 
 
 ** Judith 16:12
 
-Horruerunt Persæ constantiam ejus, <l eID="gen2367" level="1"/> <l level="1" sID="gen2368"/>et Medi audaciam ejus. <l eID="gen2368" level="1"/>
+Horruerunt Persæ constantiam ejus,  et Medi audaciam ejus. 
 
 ** Judith 16:13
 
-Tunc ululaverunt castra Assyriorum, <l eID="gen2369" level="1"/> <l level="1" sID="gen2370"/>quando apparuerunt humiles mei, arescentes in siti. <l eID="gen2370" level="1"/>
+Tunc ululaverunt castra Assyriorum,  quando apparuerunt humiles mei, arescentes in siti. 
 
 ** Judith 16:14
 
-Filii puellarum compunxerunt eos, <l eID="gen2371" level="1"/> <l level="1" sID="gen2372"/>et sicut pueros fugientes occiderunt eos : <l eID="gen2372" level="1"/> <l level="1" sID="gen2373"/>perierunt in prælio a facie Domini Dei mei. <l eID="gen2373" level="1"/>
+Filii puellarum compunxerunt eos,  et sicut pueros fugientes occiderunt eos :  perierunt in prælio a facie Domini Dei mei. 
 
 ** Judith 16:15
 
-Hymnum cantemus Domino ; <l eID="gen2374" level="1"/> <l level="1" sID="gen2375"/>hymnum novum cantemus Deo nostro. <l eID="gen2375" level="1"/>
+Hymnum cantemus Domino ;  hymnum novum cantemus Deo nostro. 
 
 ** Judith 16:16
 
-Adonai Domine, magnus es tu, <l eID="gen2376" level="1"/> <l level="1" sID="gen2377"/>et præclarus in virtute tua : <l eID="gen2377" level="1"/> <l level="1" sID="gen2378"/>et quem superare nemo potest. <l eID="gen2378" level="1"/>
+Adonai Domine, magnus es tu,  et præclarus in virtute tua :  et quem superare nemo potest. 
 
 ** Judith 16:17
 
-Tibi serviat omnis creatura tua, <l eID="gen2379" level="1"/> <l level="1" sID="gen2380"/>quia dixisti, et facta sunt ; <l eID="gen2380" level="1"/> <l level="1" sID="gen2381"/>misisti spiritum tuum, et creata sunt : <l eID="gen2381" level="1"/> <l level="1" sID="gen2382"/>et non est qui resistat voci tuæ. <l eID="gen2382" level="1"/>
+Tibi serviat omnis creatura tua,  quia dixisti, et facta sunt ;  misisti spiritum tuum, et creata sunt :  et non est qui resistat voci tuæ. 
 
 ** Judith 16:18
 
-Montes a fundamentis movebuntur cum aquis ; <l eID="gen2383" level="1"/> <l level="1" sID="gen2384"/>petræ, sicut cera, liquescent ante faciem tuam. <l eID="gen2384" level="1"/>
+Montes a fundamentis movebuntur cum aquis ;  petræ, sicut cera, liquescent ante faciem tuam. 
 
 ** Judith 16:19
 
-Qui autem timent te, <l eID="gen2385" level="1"/> <l level="1" sID="gen2386"/>magni erunt apud te per omnia. <l eID="gen2386" level="1"/>
+Qui autem timent te,  magni erunt apud te per omnia. 
 
 ** Judith 16:20
 
-Væ genti insurgenti super genus meum : <l eID="gen2387" level="1"/> <l level="1" sID="gen2388"/>Dominus enim omnipotens vindicabit in eis ; <l eID="gen2388" level="1"/> <l level="1" sID="gen2389"/>in die judicii visitabit illos. <l eID="gen2389" level="1"/>
+Væ genti insurgenti super genus meum :  Dominus enim omnipotens vindicabit in eis ;  in die judicii visitabit illos. 
 
 ** Judith 16:21
 
-Dabit enim ignem et vermes in carnes eorum, <l eID="gen2390" level="1"/> <l level="1" sID="gen2391"/>ut urantur et sentiant usque in sempiternum. <l eID="gen2391" level="1"/> <lg eID="gen2335"/>
+Dabit enim ignem et vermes in carnes eorum,  ut urantur et sentiant usque in sempiternum.  
 
 ** Judith 16:22
 
@@ -1412,5 +1412,5 @@ In omni autem spatio vitæ ejus non fuit qui perturbaret Israël, et post mortem
 
 ** Judith 16:31
 
-Dies autem victoriæ hujus festivitatis ab Hebræis in numero sanctorum dierum accipitur, et colitur a Judæis ex illo tempore usque in præsentem diem.  <div eID="gen2392" type="x-p"/> <chapter eID="Jdt.16"/> <div eID="gen2303" osisID="Jdt" type="book"/>
+Dies autem victoriæ hujus festivitatis ab Hebræis in numero sanctorum dierum accipitur, et colitur a Judæis ex illo tempore usque in præsentem diem.    
 

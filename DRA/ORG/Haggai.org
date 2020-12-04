@@ -54,7 +54,7 @@ And Haggai the messenger of the Lord, as one of the messengers of the Lord, spok
 
 *** Haggai 1:14
 
-And the Lord stirred up the spirit of Zorobabel the son of Salathiel governor of Juda, and the spirit of Jesus the son of Josedec the high priest, and the spirit of all the rest of the people: and they went in, and did the work in the house of the Lord of Hosts their God. <chapter eID="gen27141" osisID="Hag.1"/>
+And the Lord stirred up the spirit of Zorobabel the son of Salathiel governor of Juda, and the spirit of Jesus the son of Josedec the high priest, and the spirit of all the rest of the people: and they went in, and did the work in the house of the Lord of Hosts their God. 
 
 ** Haggai 2
 
@@ -152,4 +152,4 @@ And I will overthrow the throne of kingdoms, and will destroy the strength of th
 
 *** Haggai 2:24
 
-In that day, saith the Lord of hosts, I will take thee, O Zorobabel the son of Salathiel, my servant, saith the Lord, and will make thee as a signet, for I have chosen thee, saith the Lord of hosts. <chapter eID="gen27156" osisID="Hag.2"/> <div eID="gen27140" osisID="Hag" type="book"/>
+In that day, saith the Lord of hosts, I will take thee, O Zorobabel the son of Salathiel, my servant, saith the Lord, and will make thee as a signet, for I have chosen thee, saith the Lord of hosts.  

@@ -34,7 +34,7 @@ Portam succenderunt, et effuderunt sanguinem innocentem : et oravimus ad Dominum
 
 ** II Maccabees 1:9
 
-Et nunc frequentate dies scenopegiæ mensis Casleu.  <div eID="gen31965" type="x-p"/>
+Et nunc frequentate dies scenopegiæ mensis Casleu.  
 
 ** II Maccabees 1:10
 
@@ -142,7 +142,7 @@ et cum probasset, sacerdotibus donavit multa bona, et alia atque alia munera : e
 
 ** II Maccabees 1:36
 
-Appellavit autem Nehemias hunc locum Nephthar, quod interpretatur Purificatio : vocatur autem apud plures Nephi.  <chapter eID="2Macc.1"/> <div eID="gen31966" type="x-p"/>
+Appellavit autem Nehemias hunc locum Nephthar, quod interpretatur Purificatio : vocatur autem apud plures Nephi.   
 
 * II Maccabees 2
 
@@ -192,7 +192,7 @@ Et dixit Moyses : Eo quod non sit comestum quod erat pro peccato, consumptum est
 
 ** II Maccabees 2:12
 
-Similiter et Salomon octo diebus celebravit dedicationem.  <div eID="gen31967" type="x-p"/>
+Similiter et Salomon octo diebus celebravit dedicationem.  
 
 ** II Maccabees 2:13
 
@@ -220,7 +220,7 @@ sicut promisit in lege, speramus quod cito nostri miserebitur, et congregavit de
 
 ** II Maccabees 2:19
 
-Eripuit enim nos de magnis periculis, et locum purgavit.  <div eID="gen31968" type="x-p"/>
+Eripuit enim nos de magnis periculis, et locum purgavit.  
 
 ** II Maccabees 2:20
 
@@ -276,7 +276,7 @@ brevitatem vero dictionis sectari, et executiones rerum vitare, brevianti conced
 
 ** II Maccabees 2:33
 
-Hinc ergo narrationem incipiemus : de præfatione tantum dixisse sufficiat. Stultum etenim est ante historiam effluere, in ipsa autem historia succingi.  <chapter eID="2Macc.2"/> <div eID="gen31969" type="x-p"/>
+Hinc ergo narrationem incipiemus : de præfatione tantum dixisse sufficiat. Stultum etenim est ante historiam effluere, in ipsa autem historia succingi.   
 
 * II Maccabees 3
 
@@ -438,7 +438,7 @@ Nam ipse, qui habet in cælis habitationem, visitator et adjutor est loci illius
 
 ** II Maccabees 3:40
 
-Igitur de Heliodoro et ærarii custodia ita res se habet.  <chapter eID="2Macc.3"/> <div eID="gen31970" type="x-p"/>
+Igitur de Heliodoro et ærarii custodia ita res se habet.   
 
 * II Maccabees 4
 
@@ -464,7 +464,7 @@ non ut civium accusator, sed communem utilitatem apud semetipsum universæ multi
 
 ** II Maccabees 4:6
 
-Videbat enim sine regali providentia impossibile esse pacem rebus dari, nec Simonem posse cessare a stultitia sua.  <div eID="gen31971" type="x-p"/>
+Videbat enim sine regali providentia impossibile esse pacem rebus dari, nec Simonem posse cessare a stultitia sua.  
 
 ** II Maccabees 4:7
 
@@ -528,7 +528,7 @@ Misso autem in Ægyptum Apollonio Mnesthei filio propter primates Ptolemæi Phil
 
 ** II Maccabees 4:22
 
-Et magnifice ab Jasone et civitate susceptus, cum facularum luminibus et laudibus ingressus est : et inde in Phœnicen exercitum convertit.  <div eID="gen31972" type="x-p"/>
+Et magnifice ab Jasone et civitate susceptus, cum facularum luminibus et laudibus ingressus est : et inde in Phœnicen exercitum convertit.  
 
 ** II Maccabees 4:23
 
@@ -572,7 +572,7 @@ Ratus autem Menelaus accepisse se tempus opportunum, aurea quædam vasa e templo
 
 ** II Maccabees 4:33
 
-Quod cum certissime cognovisset Onias, arguebat eum, ipse in loco tuto se continens Antiochiæ secus Daphnem.  <div eID="gen31973" type="x-p"/>
+Quod cum certissime cognovisset Onias, arguebat eum, ipse in loco tuto se continens Antiochiæ secus Daphnem.  
 
 ** II Maccabees 4:34
 
@@ -592,7 +592,7 @@ Contristatus itaque animo Antiochus propter Oniam, et flexus ad misericordiam, l
 
 ** II Maccabees 4:38
 
-accensisque animis Andronicum purpura exutum, per totam civitatem jubet circumduci : et in eodem loco in quo in Oniam impietatem commiserat, sacrilegum vita privari, Domino illi condignam retribuente pœnam.  <div eID="gen31974" type="x-p"/>
+accensisque animis Andronicum purpura exutum, per totam civitatem jubet circumduci : et in eodem loco in quo in Oniam impietatem commiserat, sacrilegum vita privari, Domino illi condignam retribuente pœnam.  
 
 ** II Maccabees 4:39
 
@@ -640,7 +640,7 @@ Quam ob rem Tyrii quoque indignati, erga sepulturam eorum liberalissimi extiteru
 
 ** II Maccabees 4:50
 
-Menelaus autem, propter eorum qui in potentia erant avaritiam, permanebat in potestate, crescens in malitia ad insidias civium.  <chapter eID="2Macc.4"/> <div eID="gen31975" type="x-p"/>
+Menelaus autem, propter eorum qui in potentia erant avaritiam, permanebat in potestate, crescens in malitia ad insidias civium.   
 
 * II Maccabees 5
 
@@ -682,7 +682,7 @@ et qui multos de patria sua expulerat, peregre periit, Lacedæmonas profectus, q
 
 ** II Maccabees 5:10
 
-et qui insepultos multos abjecerat, ipse et illamentatus et insepultus abjicitur, sepultura neque peregrina usus, neque patrio sepulchro participans.  <div eID="gen31976" type="x-p"/>
+et qui insepultos multos abjecerat, ipse et illamentatus et insepultus abjicitur, sepultura neque peregrina usus, neque patrio sepulchro participans.  
 
 ** II Maccabees 5:11
 
@@ -750,7 +750,7 @@ Omnesque qui ad spectaculum processerant, trucidavit : et civitatem cum armatis 
 
 ** II Maccabees 5:27
 
-Judas autem Machabæus, qui decimus fuerat, secesserat in desertum locum, ibique inter feras vitam in montibus cum suis agebat : et fœni cibo vescentes, demorabantur, ne participes essent coinquinationis.  <chapter eID="2Macc.5"/> <div eID="gen31977" type="x-p"/>
+Judas autem Machabæus, qui decimus fuerat, secesserat in desertum locum, ibique inter feras vitam in montibus cum suis agebat : et fœni cibo vescentes, demorabantur, ne participes essent coinquinationis.   
 
 * II Maccabees 6
 
@@ -820,7 +820,7 @@ Propter quod numquam quidem a nobis misericordiam suam amovet : corripiens vero 
 
 ** II Maccabees 6:17
 
-Sed hæc nobis ad commonitionem legentium dicta sint paucis. Jam enim veniendum est ad narrationem.  <div eID="gen31978" type="x-p"/>
+Sed hæc nobis ad commonitionem legentium dicta sint paucis. Jam enim veniendum est ad narrationem.  
 
 ** II Maccabees 6:18
 
@@ -876,7 +876,7 @@ Sed cum plagis perimeretur, ingemuit, et dixit : Domine, qui habes sanctam scien
 
 ** II Maccabees 6:31
 
-Et iste quidem hoc modo vita decessit, non solum juvenibus, sed et universæ genti memoriam mortis suæ ad exemplum virtutis et fortitudinis derelinquens.  <chapter eID="2Macc.6"/> <div eID="gen31979" type="x-p"/>
+Et iste quidem hoc modo vita decessit, non solum juvenibus, sed et universæ genti memoriam mortis suæ ad exemplum virtutis et fortitudinis derelinquens.   
 
 * II Maccabees 7
 
@@ -902,7 +902,7 @@ Et cum jam per omnia inutilis factus esset, jussit ignem admoveri, et adhuc spir
 
 ** II Maccabees 7:6
 
-dicentes : Dominus Deus aspiciet veritatem, et consolabitur in nobis, quemadmodum in protestatione cantici declaravit Moyses : Et in servis suis consolabitur.  <div eID="gen31980" type="x-p"/>
+dicentes : Dominus Deus aspiciet veritatem, et consolabitur in nobis, quemadmodum in protestatione cantici declaravit Moyses : Et in servis suis consolabitur.  
 
 ** II Maccabees 7:7
 
@@ -914,7 +914,7 @@ At ille respondens patria voce, dixit : Non faciam. Propter quod et iste, sequen
 
 ** II Maccabees 7:9
 
-et in ultimo spiritu constitutus, sic ait : Tu quidem scelestissime in præsenti vita nos perdis : sed Rex mundi defunctos nos pro suis legibus in æternæ vitæ resurrectione suscitabit.  <div eID="gen31981" type="x-p"/>
+et in ultimo spiritu constitutus, sic ait : Tu quidem scelestissime in præsenti vita nos perdis : sed Rex mundi defunctos nos pro suis legibus in æternæ vitæ resurrectione suscitabit.  
 
 ** II Maccabees 7:10
 
@@ -954,7 +954,7 @@ Post hunc ducebant sextum, et is, mori incipiens, sic ait : Noli frustra errare 
 
 ** II Maccabees 7:19
 
-tu autem ne existimes tibi impune futurum, quod contra Deum pugnare tentaveris.  <div eID="gen31982" type="x-p"/>
+tu autem ne existimes tibi impune futurum, quod contra Deum pugnare tentaveris.  
 
 ** II Maccabees 7:20
 
@@ -970,7 +970,7 @@ dixit ad eos : Nescio qualiter in utero meo apparuistis, neque enim ego spiritum
 
 ** II Maccabees 7:23
 
-sed enim mundi Creator, qui formavit hominis nativitatem, quique omnium invenit originem, et spiritum vobis iterum cum misericordia reddet et vitam, sicut nunc vosmetipsos despicitis propter leges ejus.  <div eID="gen31983" type="x-p"/>
+sed enim mundi Creator, qui formavit hominis nativitatem, quique omnium invenit originem, et spiritum vobis iterum cum misericordia reddet et vitam, sicut nunc vosmetipsos despicitis propter leges ejus.  
 
 ** II Maccabees 7:24
 
@@ -1030,7 +1030,7 @@ Ego autem, sicut fratres mei, animam et corpus meum trado pro patriis legibus, i
 
 ** II Maccabees 7:38
 
-In me vero et in fratribus meis desinet Omnipotentis ira, quæ super omne genus nostrum juste superducta est.  <div eID="gen31984" type="x-p"/>
+In me vero et in fratribus meis desinet Omnipotentis ira, quæ super omne genus nostrum juste superducta est.  
 
 ** II Maccabees 7:39
 
@@ -1046,7 +1046,7 @@ Novissime autem post filios, et mater consumpta est.
 
 ** II Maccabees 7:42
 
-Igitur de sacrificiis et de nimiis crudelitatibus satis dictum est.  <chapter eID="2Macc.7"/> <div eID="gen31985" type="x-p"/>
+Igitur de sacrificiis et de nimiis crudelitatibus satis dictum est.   
 
 * II Maccabees 8
 
@@ -1080,7 +1080,7 @@ maxime autem noctibus ad hujuscemodi excursus ferebatur, et fama virtutis ejus u
 
 ** II Maccabees 8:8
 
-Videns autem Philippus paulatim virum ad profectum venire, ac frequentius res ei cedere propere, ad Ptolemæum ducem Cœlesyriæ et Phœnicis scripsit ut auxilium ferret regis negotiis.  <div eID="gen31986" type="x-p"/>
+Videns autem Philippus paulatim virum ad profectum venire, ac frequentius res ei cedere propere, ad Ptolemæum ducem Cœlesyriæ et Phœnicis scripsit ut auxilium ferret regis negotiis.  
 
 ** II Maccabees 8:9
 
@@ -1108,7 +1108,7 @@ alii vero si quid eis supererat vendebant, simulque Dominum deprecabantur ut eri
 
 ** II Maccabees 8:15
 
-etsi non propter eos, propter testamentum tamen quod erat ad patres eorum, et propter invocationem sancti et magnifici nominis ejus super ipsos.  <div eID="gen31987" type="x-p"/>
+etsi non propter eos, propter testamentum tamen quod erat ad patres eorum, et propter invocationem sancti et magnifici nominis ejus super ipsos.  
 
 ** II Maccabees 8:16
 
@@ -1192,7 +1192,7 @@ humiliatus auxilio Domini ab his quos nullos existimaverat, deposita veste glori
 
 ** II Maccabees 8:36
 
-Et qui promiserat Romanis se tributum restituere de captivitate Jerosolymorum, prædicabat nunc protectorem Deum habere Judæos, et ob ipsum invulnerabiles esse, eo quod sequerentur leges ab ipso constitutas.  <chapter eID="2Macc.8"/> <div eID="gen31988" type="x-p"/>
+Et qui promiserat Romanis se tributum restituere de captivitate Jerosolymorum, prædicabat nunc protectorem Deum habere Judæos, et ob ipsum invulnerabiles esse, eo quod sequerentur leges ab ipso constitutas.   
 
 * II Maccabees 9
 
@@ -1234,7 +1234,7 @@ ita ut de corpore impii vermes scaturirent, ac viventis in doloribus carnes ejus
 
 ** II Maccabees 9:10
 
-et qui paulo ante sidera cæli contingere se arbitrabatur, eum nemo poterat propter intolerantiam fœtoris portare.  <div eID="gen31989" type="x-p"/>
+et qui paulo ante sidera cæli contingere se arbitrabatur, eum nemo poterat propter intolerantiam fœtoris portare.  
 
 ** II Maccabees 9:11
 
@@ -1310,7 +1310,7 @@ Igitur homicida et blasphemus pessime percussus, et ut ipse alios tractaverat, p
 
 ** II Maccabees 9:29
 
-Transferebat autem corpus Philippus collactaneus ejus : qui, metuens filium Antiochi, ad Ptolemæum Philometorem in Ægyptum abiit.  <chapter eID="2Macc.9"/> <div eID="gen31990" type="x-p"/>
+Transferebat autem corpus Philippus collactaneus ejus : qui, metuens filium Antiochi, ad Ptolemæum Philometorem in Ægyptum abiit.   
 
 * II Maccabees 10
 
@@ -1348,7 +1348,7 @@ Et decreverunt communi præcepto et decreto universæ genti Judæorum omnibus an
 
 ** II Maccabees 10:9
 
-Et Antiochi quidem, qui appellatus est Nobilis, vitæ excessus ita se habuit.  <div eID="gen31991" type="x-p"/>
+Et Antiochi quidem, qui appellatus est Nobilis, vitæ excessus ita se habuit.  
 
 ** II Maccabees 10:10
 
@@ -1404,7 +1404,7 @@ Hos igitur proditores factos interfecit, et confestim duas turres occupavit.
 
 ** II Maccabees 10:23
 
-Armis autem ac manibus omnia prospere agendo in duabus munitionibus plus quam viginti millia peremit.  <div eID="gen31992" type="x-p"/>
+Armis autem ac manibus omnia prospere agendo in duabus munitionibus plus quam viginti millia peremit.  
 
 ** II Maccabees 10:24
 
@@ -1464,7 +1464,7 @@ Per continuum autem biduum præsidio vastato, Timotheum occultantem se in quodam
 
 ** II Maccabees 10:38
 
-Quibus gestis, in hymnis et confessionibus benedicebant Dominum, qui magna fecit in Israël, et victoriam dedit illis.  <chapter eID="2Macc.10"/> <div eID="gen31993" type="x-p"/>
+Quibus gestis, in hymnis et confessionibus benedicebant Dominum, qui magna fecit in Israël, et victoriam dedit illis.   
 
 * II Maccabees 11
 
@@ -1514,7 +1514,7 @@ Leonum autem more impetu irruentes in hostes, prostraverunt ex eis undecim milli
 
 ** II Maccabees 11:12
 
-universos autem in fugam verterunt, plures autem ex eis vulnerati nudi evaserunt. Sed et ipse Lysias turpiter fugiens evasit.  <div eID="gen31994" type="x-p"/>
+universos autem in fugam verterunt, plures autem ex eis vulnerati nudi evaserunt. Sed et ipse Lysias turpiter fugiens evasit.  
 
 ** II Maccabees 11:13
 
@@ -1550,7 +1550,7 @@ De ceteris autem per singula verbo mandavi et istis, et his, qui a me missi sunt
 
 ** II Maccabees 11:21
 
-Bene valete. Anno centesimo, quadragesimo octavo mensis Dioscori, die vigesima et quarta.  <div eID="gen31995" type="x-p"/>
+Bene valete. Anno centesimo, quadragesimo octavo mensis Dioscori, die vigesima et quarta.  
 
 ** II Maccabees 11:22
 
@@ -1570,7 +1570,7 @@ Volentes igitur hanc quoque gentem quietam esse, statuentes judicavimus templum 
 
 ** II Maccabees 11:26
 
-Bene igitur feceris, si miseris ad eos et dexteram dederis : ut cognita nostra voluntate, bono animo sint, et utilitatibus propriis deserviant.  <div eID="gen31996" type="x-p"/>
+Bene igitur feceris, si miseris ad eos et dexteram dederis : ut cognita nostra voluntate, bono animo sint, et utilitatibus propriis deserviant.  
 
 ** II Maccabees 11:27
 
@@ -1598,7 +1598,7 @@ Misimus autem et Menelaum, qui vos alloquatur.
 
 ** II Maccabees 11:33
 
-Valete. Anno centesimo quadragesimo octavo, Xanthici mensis quintadecima die.  <div eID="gen31997" type="x-p"/>
+Valete. Anno centesimo quadragesimo octavo, Xanthici mensis quintadecima die.  
 
 ** II Maccabees 11:34
 
@@ -1618,7 +1618,7 @@ Ideoque festinate rescribere, ut nos quoque sciamus cujus estis voluntatis.
 
 ** II Maccabees 11:38
 
-Bene valete. Anno centesimo quadragesimo octavo, quintadecima die mensis Xanthici.  <chapter eID="2Macc.11"/> <div eID="gen31998" type="x-p"/>
+Bene valete. Anno centesimo quadragesimo octavo, quintadecima die mensis Xanthici.   
 
 * II Maccabees 12
 
@@ -1668,7 +1668,7 @@ Cumque pugna valida fieret, et auxilio Dei prospere cessisset, residui Arabes vi
 
 ** II Maccabees 12:12
 
-Judas autem arbitratus vere in multis eos utiles, promisit pacem : dextrisque acceptis, discessere ad tabernacula sua.  <div eID="gen31999" type="x-p"/>
+Judas autem arbitratus vere in multis eos utiles, promisit pacem : dextrisque acceptis, discessere ad tabernacula sua.  
 
 ** II Maccabees 12:13
 
@@ -1724,7 +1724,7 @@ Et cum fidem dedisset restituturum se eos secundum constitutum, illæsum eum dim
 
 ** II Maccabees 12:26
 
-Judas autem egressus est ad Carnion, interfectis viginti quinque millibus.  <div eID="gen32000" type="x-p"/>
+Judas autem egressus est ad Carnion, interfectis viginti quinque millibus.  
 
 ** II Maccabees 12:27
 
@@ -1768,7 +1768,7 @@ At illis qui cum Esdrim erant diutius pugnantibus et fatigatis, invocavit Judas 
 
 ** II Maccabees 12:37
 
-incipiens voce patria, et cum hymnis clamorem extollens, fugam Gorgiæ militibus incussit.  <div eID="gen32001" type="x-p"/>
+incipiens voce patria, et cum hymnis clamorem extollens, fugam Gorgiæ militibus incussit.  
 
 ** II Maccabees 12:38
 
@@ -1804,7 +1804,7 @@ et quia considerabat quod hi qui cum pietate dormitionem acceperant, optimam hab
 
 ** II Maccabees 12:46
 
-Sancta ergo et salubris est cogitatio pro defunctis exorare, ut a peccatis solvantur.  <chapter eID="2Macc.12"/> <div eID="gen32002" type="x-p"/>
+Sancta ergo et salubris est cogitatio pro defunctis exorare, ut a peccatis solvantur.   
 
 * II Maccabees 13
 
@@ -1838,7 +1838,7 @@ Et tali lege prævaricatorem legis contigit mori, nec terræ dari Menelaum.
 
 ** II Maccabees 13:8
 
-Et quidem satis juste : nam quia multa erga aram Dei delicta commisit, cujus ignis et cinis erat sanctus : ipse in cineris morte damnatus est.  <div eID="gen32003" type="x-p"/>
+Et quidem satis juste : nam quia multa erga aram Dei delicta commisit, cujus ignis et cinis erat sanctus : ipse in cineris morte damnatus est.  
 
 ** II Maccabees 13:9
 
@@ -1898,7 +1898,7 @@ Iterum rex sermonem habuit ad eos qui erant in Bethsuris : dextram dedit, accepi
 
 ** II Maccabees 13:23
 
-commisit cum Juda, superatus est. <div eID="gen32004" type="x-p"/> <div sID="gen32005" type="x-p"/> Ut autem cognovit rebellasse Philippum Antiochiæ, qui relictus erat super negotia, mente consternatus, Judæos deprecans, subditusque eis, jurat de omnibus quibus justum visum est : et reconciliatus obtulit sacrificium, honoravit templum, et munera posuit.
+commisit cum Juda, superatus est.   Ut autem cognovit rebellasse Philippum Antiochiæ, qui relictus erat super negotia, mente consternatus, Judæos deprecans, subditusque eis, jurat de omnibus quibus justum visum est : et reconciliatus obtulit sacrificium, honoravit templum, et munera posuit.
 
 ** II Maccabees 13:24
 
@@ -1910,7 +1910,7 @@ Ut autem venit Ptolemaidam, graviter ferebant Ptolemenses amicitiæ conventionem
 
 ** II Maccabees 13:26
 
-Tunc ascendit Lysias tribunal, et exposuit rationem, et populum sedavit, regressusque est Antiochiam : et hoc modo regis profectio et reditus processit.  <chapter eID="2Macc.13"/> <div eID="gen32005" type="x-p"/>
+Tunc ascendit Lysias tribunal, et exposuit rationem, et populum sedavit, regressusque est Antiochiam : et hoc modo regis profectio et reditus processit.   
 
 * II Maccabees 14
 
@@ -1980,7 +1980,7 @@ Imperante autem duce, statim inde moverunt, conveneruntque ad castellum Dessau.
 
 ** II Maccabees 14:17
 
-Simon vero frater Judæ commiserat cum Nicanore : sed conterritus est repentino adventu adversariorum.  <div eID="gen32006" type="x-p"/>
+Simon vero frater Judæ commiserat cum Nicanore : sed conterritus est repentino adventu adversariorum.  
 
 ** II Maccabees 14:18
 
@@ -2012,7 +2012,7 @@ Habebat autem Judam semper carum ex animo, et erat viro inclinatus.
 
 ** II Maccabees 14:25
 
-Rogavitque eum ducere uxorem, filiosque procreare. Nuptias fecit : quiete egit, communiterque vivebant.  <div eID="gen32007" type="x-p"/>
+Rogavitque eum ducere uxorem, filiosque procreare. Nuptias fecit : quiete egit, communiterque vivebant.  
 
 ** II Maccabees 14:26
 
@@ -2056,7 +2056,7 @@ Tu, Domine universorum, qui nullius indiges, voluisti templum habitationis tuæ 
 
 ** II Maccabees 14:36
 
-Et nunc, Sancte sanctorum, omnium Domine, conserva in æternum impollutam domum istam, quæ nuper mundata est.  <div eID="gen32008" type="x-p"/>
+Et nunc, Sancte sanctorum, omnium Domine, conserva in æternum impollutam domum istam, quæ nuper mundata est.  
 
 ** II Maccabees 14:37
 
@@ -2096,7 +2096,7 @@ Et cum adhuc spiraret, accensus animo, surrexit, et cum sanguis ejus magno fluxu
 
 ** II Maccabees 14:46
 
-et stans supra quamdam petram præruptam, et jam exsanguis effectus, complexus intestina sua, utrisque manibus projecit super turbas, invocans dominatorem vitæ ac spiritus ut hæc illi iterum redderet : atque ita vita defunctus est.  <chapter eID="2Macc.14"/> <div eID="gen32009" type="x-p"/>
+et stans supra quamdam petram præruptam, et jam exsanguis effectus, complexus intestina sua, utrisque manibus projecit super turbas, invocans dominatorem vitæ ac spiritus ut hæc illi iterum redderet : atque ita vita defunctus est.   
 
 * II Maccabees 15
 
@@ -2122,7 +2122,7 @@ at ille ait : Et ego potens sum super terram qui impero sumi arma, et negotia re
 
 ** II Maccabees 15:6
 
-Et Nicanor quidem cum summa superbia erectus, cogitaverat commune trophæum statuere de Juda.  <div eID="gen32010" type="x-p"/>
+Et Nicanor quidem cum summa superbia erectus, cogitaverat commune trophæum statuere de Juda.  
 
 ** II Maccabees 15:7
 
@@ -2194,7 +2194,7 @@ et nunc, dominator cælorum, mitte angelum tuum bonum ante nos in timore et trem
 
 ** II Maccabees 15:24
 
-ut metuant qui cum blasphemia veniunt adversus sanctum populum tuum. Et hic quidem ita peroravit.  <div eID="gen32011" type="x-p"/>
+ut metuant qui cum blasphemia veniunt adversus sanctum populum tuum. Et hic quidem ita peroravit.  
 
 ** II Maccabees 15:25
 
@@ -2246,7 +2246,7 @@ Itaque omnes communi consilio decreverunt nullo modo diem istum absque celebrita
 
 ** II Maccabees 15:37
 
-habere autem celebritatem tertiadecima die mensis Adar, quod dicitur voce syriaca, pridie Mardochæi diei.  <div eID="gen32012" type="x-p"/>
+habere autem celebritatem tertiadecima die mensis Adar, quod dicitur voce syriaca, pridie Mardochæi diei.  
 
 ** II Maccabees 15:38
 
@@ -2258,5 +2258,5 @@ Et si quidem bene, et ut historiæ competit, hoc et ipse velim : sin autem minus
 
 ** II Maccabees 15:40
 
-Sicut enim vinum semper bibere, aut semper aquam, contrarium est ; alternis autem uti, delectabile : ita legentibus si semper exactus sit sermo, non erit gratus. Hic ergo erit consummatus.  <div eID="gen32013" type="x-p"/> <chapter eID="2Macc.15"/> <div eID="gen31964" osisID="2Macc" type="book"/>
+Sicut enim vinum semper bibere, aut semper aquam, contrarium est ; alternis autem uti, delectabile : ita legentibus si semper exactus sit sermo, non erit gratus. Hic ergo erit consummatus.    
 

@@ -10,7 +10,7 @@ Dixitque Dominus : Judas ascendet : ecce tradidi terram in manus ejus.
 
 ** Judges 1:3
 
-Et ait Judas Simeoni fratri suo : Ascende mecum in sortem meam, et pugna contra Chananæum, ut et ego pergam tecum in sortem tuam. Et abiit cum eo Simeon.  <div eID="gen1140" type="x-p"/>
+Et ait Judas Simeoni fratri suo : Ascende mecum in sortem meam, et pugna contra Chananæum, ut et ego pergam tecum in sortem tuam. Et abiit cum eo Simeon.  
 
 ** Judges 1:4
 
@@ -42,7 +42,7 @@ Pergensque Judas contra Chananæum, qui habitabat in Hebron (cujus nomen fuit an
 
 ** Judges 1:11
 
-atque inde profectus abiit ad habitatores Dabir, cujus nomen vetus erat Cariath Sepher, id est, civitas litterarum.  <div eID="gen1141" type="x-p"/>
+atque inde profectus abiit ad habitatores Dabir, cujus nomen vetus erat Cariath Sepher, id est, civitas litterarum.  
 
 ** Judges 1:12
 
@@ -82,7 +82,7 @@ Dederuntque Caleb Hebron, sicut dixerat Moyses, qui delevit ex ea tres filios En
 
 ** Judges 1:21
 
-Jebusæum autem habitatorem Jerusalem non deleverunt filii Benjamin : habitavitque Jebusæus cum filiis Benjamin in Jerusalem, usque in præsentem diem.  <div eID="gen1142" type="x-p"/>
+Jebusæum autem habitatorem Jerusalem non deleverunt filii Benjamin : habitavitque Jebusæus cum filiis Benjamin in Jerusalem, usque in præsentem diem.  
 
 ** Judges 1:22
 
@@ -142,7 +142,7 @@ habitavitque in monte Hares, quod interpretatur testaceo, in Ajalon et Salebim. 
 
 ** Judges 1:36
 
-Fuit autem terminus Amorrhæi ab ascensu Scorpionis, petra, et superiora loca.  <chapter eID="Judg.1"/> <div eID="gen1143" type="x-p"/>
+Fuit autem terminus Amorrhæi ab ascensu Scorpionis, petra, et superiora loca.   
 
 * Judges 2
 
@@ -164,7 +164,7 @@ Cumque loqueretur angelus Domini hæc verba ad omnes filios Israël, elevaverunt
 
 ** Judges 2:5
 
-Et vocatum est nomen loci illius, Locus flentium, sive lacrimarum : immolaveruntque ibi hostias Domini.  <div eID="gen1144" type="x-p"/>
+Et vocatum est nomen loci illius, Locus flentium, sive lacrimarum : immolaveruntque ibi hostias Domini.  
 
 ** Judges 2:6
 
@@ -184,7 +184,7 @@ et sepelierunt eum in finibus possessionis suæ in Thamnathsare in monte Ephraim
 
 ** Judges 2:10
 
-Omnisque illa generatio congregata est ad patres suos : et surrexerunt alii, qui non noverant Dominum, et opera quæ fecerat cum Israël.  <div eID="gen1145" type="x-p"/>
+Omnisque illa generatio congregata est ad patres suos : et surrexerunt alii, qui non noverant Dominum, et opera quæ fecerat cum Israël.  
 
 ** Judges 2:11
 
@@ -204,7 +204,7 @@ Iratusque Dominus contra Israël, tradidit eos in manus diripientium : qui ceper
 
 ** Judges 2:15
 
-sed quocumque pergere voluissent, manus Domini super eos erat, sicut locutus est, et juravit eis, et vehementer afflicti sunt.  <div eID="gen1146" type="x-p"/>
+sed quocumque pergere voluissent, manus Domini super eos erat, sicut locutus est, et juravit eis, et vehementer afflicti sunt.  
 
 ** Judges 2:16
 
@@ -236,7 +236,7 @@ ut in ipsis experiar Israël, utrum custodiant viam Domini, et ambulent in ea, s
 
 ** Judges 2:23
 
-Dimisit ergo Dominus omnes nationes has, et cito subvertere noluit, nec tradidit in manus Josue.  <chapter eID="Judg.2"/> <div eID="gen1147" type="x-p"/>
+Dimisit ergo Dominus omnes nationes has, et cito subvertere noluit, nec tradidit in manus Josue.   
 
 * Judges 3
 
@@ -262,7 +262,7 @@ Itaque filii Israël habitaverunt in medio Chananæi, et Hethæi, et Amorrhæi, 
 
 ** Judges 3:6
 
-et duxerunt uxores filias eorum, ipsique filias suas filiis eorum tradiderunt, et servierunt diis eorum.  <div eID="gen1148" type="x-p"/>
+et duxerunt uxores filias eorum, ipsique filias suas filiis eorum tradiderunt, et servierunt diis eorum.  
 
 ** Judges 3:7
 
@@ -282,7 +282,7 @@ fuitque in eo spiritus Domini, et judicavit Israël. Egressusque est ad pugnam, 
 
 ** Judges 3:11
 
-Quievitque terra quadraginta annis, et mortuus est Othoniel filius Cenez.  <div eID="gen1149" type="x-p"/>
+Quievitque terra quadraginta annis, et mortuus est Othoniel filius Cenez.  
 
 ** Judges 3:12
 
@@ -338,7 +338,7 @@ per posticum egressus est. Servique regis ingressi viderunt clausas fores cœnac
 
 ** Judges 3:25
 
-Expectantesque diu donec erubescerent, et videntes quod nullus aperiret, tulerunt clavem : et aperientes invenerunt dominum suum in terra jacentem mortuum.  <div eID="gen1150" type="x-p"/>
+Expectantesque diu donec erubescerent, et videntes quod nullus aperiret, tulerunt clavem : et aperientes invenerunt dominum suum in terra jacentem mortuum.  
 
 ** Judges 3:26
 
@@ -358,11 +358,11 @@ sed percusserunt Moabitas in tempore illo, circiter decem millia, omnes robustos
 
 ** Judges 3:30
 
-Humiliatusque est Moab in die illo sub manu Israël : et quievit terra octoginta annis.  <div eID="gen1151" type="x-p"/>
+Humiliatusque est Moab in die illo sub manu Israël : et quievit terra octoginta annis.  
 
 ** Judges 3:31
 
-Post hunc fuit Samgar filius Anath, qui percussit de Philisthiim sexcentos viros vomere : et ipse quoque defendit Israël.  <chapter eID="Judg.3"/> <div eID="gen1152" type="x-p"/>
+Post hunc fuit Samgar filius Anath, qui percussit de Philisthiim sexcentos viros vomere : et ipse quoque defendit Israël.   
 
 * Judges 4
 
@@ -428,7 +428,7 @@ Perterruitque Dominus Sisaram, et omnes currus ejus, universamque multitudinem i
 
 ** Judges 4:16
 
-et Barac persequeretur fugientes currus, et exercitum usque ad Haroseth gentium, et omnis hostium multitudo usque ad internecionem caderet.  <div eID="gen1153" type="x-p"/>
+et Barac persequeretur fugientes currus, et exercitum usque ad Haroseth gentium, et omnis hostium multitudo usque ad internecionem caderet.  
 
 ** Judges 4:17
 
@@ -460,137 +460,137 @@ Humiliavit ergo Deus in die illo Jabin regem Chanaan coram filiis Israël :
 
 ** Judges 4:24
 
-qui crescebant quotidie, et forti manu opprimebant Jabin regem Chanaan, donec delerent eum.  <chapter eID="Judg.4"/> <div eID="gen1154" type="x-p"/>
+qui crescebant quotidie, et forti manu opprimebant Jabin regem Chanaan, donec delerent eum.   
 
 * Judges 5
 
 ** Judges 5:1
 
-Cecineruntque Debbora et Barac filius Abinoëm in illo die, dicentes :  <div eID="gen1155" type="x-p"/>
+Cecineruntque Debbora et Barac filius Abinoëm in illo die, dicentes :  
 
 ** Judges 5:2
 
-Qui sponte obtulistis de Israël animas vestras ad periculum, <l eID="gen1157" level="1"/> <l level="1" sID="gen1158"/>benedicite Domino. <l eID="gen1158" level="1"/>
+Qui sponte obtulistis de Israël animas vestras ad periculum,  benedicite Domino. 
 
 ** Judges 5:3
 
-Audite, reges ; auribus percipite, principes : <l eID="gen1159" level="1"/> <l level="1" sID="gen1160"/>ego sum, ego sum, quæ Domino canam, <l eID="gen1160" level="1"/> <l level="1" sID="gen1161"/>psallam Domino Deo Israël. <l eID="gen1161" level="1"/>
+Audite, reges ; auribus percipite, principes :  ego sum, ego sum, quæ Domino canam,  psallam Domino Deo Israël. 
 
 ** Judges 5:4
 
-Domine, cum exires de Seir, <l eID="gen1162" level="1"/> <l level="1" sID="gen1163"/>et transires per regiones Edom, <l eID="gen1163" level="1"/> <l level="1" sID="gen1164"/>terra mota est, <l eID="gen1164" level="1"/> <l level="1" sID="gen1165"/>cælique ac nubes distillaverunt aquis. <l eID="gen1165" level="1"/>
+Domine, cum exires de Seir,  et transires per regiones Edom,  terra mota est,  cælique ac nubes distillaverunt aquis. 
 
 ** Judges 5:5
 
-Montes fluxerunt a facie Domini, <l eID="gen1166" level="1"/> <l level="1" sID="gen1167"/>et Sinai a facie Domini Dei Israël. <l eID="gen1167" level="1"/>
+Montes fluxerunt a facie Domini,  et Sinai a facie Domini Dei Israël. 
 
 ** Judges 5:6
 
-In diebus Samgar filii Anath, <l eID="gen1168" level="1"/> <l level="1" sID="gen1169"/>in diebus Jahel quieverunt semitæ : <l eID="gen1169" level="1"/> <l level="1" sID="gen1170"/>et qui ingrediebantur per eas, <l eID="gen1170" level="1"/> <l level="1" sID="gen1171"/>ambulaverunt per calles devios. <l eID="gen1171" level="1"/>
+In diebus Samgar filii Anath,  in diebus Jahel quieverunt semitæ :  et qui ingrediebantur per eas,  ambulaverunt per calles devios. 
 
 ** Judges 5:7
 
-Cessaverunt fortes in Israël, et quieverunt : <l eID="gen1172" level="1"/> <l level="1" sID="gen1173"/>donec surgeret Debbora, <l eID="gen1173" level="1"/> <l level="1" sID="gen1174"/>surgeret mater in Israël. <l eID="gen1174" level="1"/>
+Cessaverunt fortes in Israël, et quieverunt :  donec surgeret Debbora,  surgeret mater in Israël. 
 
 ** Judges 5:8
 
-Nova bella elegit Dominus, <l eID="gen1175" level="1"/> <l level="1" sID="gen1176"/>et portas hostium ipse subvertit : <l eID="gen1176" level="1"/> <l level="1" sID="gen1177"/>clypeus et hasta si apparuerint <l eID="gen1177" level="1"/> <l level="1" sID="gen1178"/>in quadraginta millibus Israël. <l eID="gen1178" level="1"/>
+Nova bella elegit Dominus,  et portas hostium ipse subvertit :  clypeus et hasta si apparuerint  in quadraginta millibus Israël. 
 
 ** Judges 5:9
 
-Cor meum diligit principes Israël : <l eID="gen1179" level="1"/> <l level="1" sID="gen1180"/>qui propria voluntate obtulistis vos discrimini, <l eID="gen1180" level="1"/> <l level="1" sID="gen1181"/>benedicite Domino. <l eID="gen1181" level="1"/>
+Cor meum diligit principes Israël :  qui propria voluntate obtulistis vos discrimini,  benedicite Domino. 
 
 ** Judges 5:10
 
-Qui ascenditis super nitentes asinos, <l eID="gen1182" level="1"/> <l level="1" sID="gen1183"/>et sedetis in judicio, <l eID="gen1183" level="1"/> <l level="1" sID="gen1184"/>et ambulatis in via, <l eID="gen1184" level="1"/> <l level="1" sID="gen1185"/>loquimini. <l eID="gen1185" level="1"/>
+Qui ascenditis super nitentes asinos,  et sedetis in judicio,  et ambulatis in via,  loquimini. 
 
 ** Judges 5:11
 
-Ubi collisi sunt currus, <l eID="gen1186" level="1"/> <l level="1" sID="gen1187"/>et hostium suffocatus est exercitus, <l eID="gen1187" level="1"/> <l level="1" sID="gen1188"/>ibi narrentur justitiæ Domini, <l eID="gen1188" level="1"/> <l level="1" sID="gen1189"/>et clementia in fortes Israël : <l eID="gen1189" level="1"/> <l level="1" sID="gen1190"/>tunc descendit populus Domini ad portas, <l eID="gen1190" level="1"/> <l level="1" sID="gen1191"/>et obtinuit principatum. <l eID="gen1191" level="1"/>
+Ubi collisi sunt currus,  et hostium suffocatus est exercitus,  ibi narrentur justitiæ Domini,  et clementia in fortes Israël :  tunc descendit populus Domini ad portas,  et obtinuit principatum. 
 
 ** Judges 5:12
 
-Surge, surge Debbora ; <l eID="gen1192" level="1"/> <l level="1" sID="gen1193"/>surge, surge, et loquere canticum : <l eID="gen1193" level="1"/> <l level="1" sID="gen1194"/>surge Barac, et apprehende captivos tuos, fili Abinoëm. <l eID="gen1194" level="1"/>
+Surge, surge Debbora ;  surge, surge, et loquere canticum :  surge Barac, et apprehende captivos tuos, fili Abinoëm. 
 
 ** Judges 5:13
 
-Salvatæ sunt reliquiæ populi : <l eID="gen1195" level="1"/> <l level="1" sID="gen1196"/>Dominus in fortibus dimicavit. <l eID="gen1196" level="1"/>
+Salvatæ sunt reliquiæ populi :  Dominus in fortibus dimicavit. 
 
 ** Judges 5:14
 
-Ex Ephraim delevit eos in Amalec, <l eID="gen1197" level="1"/> <l level="1" sID="gen1198"/>et post eum ex Benjamin in populos tuos, o Amalec : <l eID="gen1198" level="1"/> <l level="1" sID="gen1199"/>de Machir principes descenderunt, <l eID="gen1199" level="1"/> <l level="1" sID="gen1200"/>et de Zabulon qui exercitum ducerent ad bellandum. <l eID="gen1200" level="1"/>
+Ex Ephraim delevit eos in Amalec,  et post eum ex Benjamin in populos tuos, o Amalec :  de Machir principes descenderunt,  et de Zabulon qui exercitum ducerent ad bellandum. 
 
 ** Judges 5:15
 
-Duces Issachar fuere cum Debbora, <l eID="gen1201" level="1"/> <l level="1" sID="gen1202"/>et Barac vestigia sunt secuti, <l eID="gen1202" level="1"/> <l level="1" sID="gen1203"/>qui quasi in præceps ac barathrum se discrimini dedit : <l eID="gen1203" level="1"/> <l level="1" sID="gen1204"/>diviso contra se Ruben, <l eID="gen1204" level="1"/> <l level="1" sID="gen1205"/>magnanimorum reperta est contentio. <l eID="gen1205" level="1"/>
+Duces Issachar fuere cum Debbora,  et Barac vestigia sunt secuti,  qui quasi in præceps ac barathrum se discrimini dedit :  diviso contra se Ruben,  magnanimorum reperta est contentio. 
 
 ** Judges 5:16
 
-Quare habitas inter duos terminos, <l eID="gen1206" level="1"/> <l level="1" sID="gen1207"/>ut audias sibilos gregum ? <l eID="gen1207" level="1"/> <l level="1" sID="gen1208"/>diviso contra se Ruben, <l eID="gen1208" level="1"/> <l level="1" sID="gen1209"/>magnanimorum reperta est contentio. <l eID="gen1209" level="1"/>
+Quare habitas inter duos terminos,  ut audias sibilos gregum ?  diviso contra se Ruben,  magnanimorum reperta est contentio. 
 
 ** Judges 5:17
 
-Galaad trans Jordanem quiescebat, <l eID="gen1210" level="1"/> <l level="1" sID="gen1211"/>et Dan vacabat navibus : <l eID="gen1211" level="1"/> <l level="1" sID="gen1212"/>Aser habitabat in littore maris, <l eID="gen1212" level="1"/> <l level="1" sID="gen1213"/>et in portubus morabatur. <l eID="gen1213" level="1"/>
+Galaad trans Jordanem quiescebat,  et Dan vacabat navibus :  Aser habitabat in littore maris,  et in portubus morabatur. 
 
 ** Judges 5:18
 
-Zabulon vero et Nephthali obtulerunt animas suas morti <l eID="gen1214" level="1"/> <l level="1" sID="gen1215"/>in regione Merome. <l eID="gen1215" level="1"/>
+Zabulon vero et Nephthali obtulerunt animas suas morti  in regione Merome. 
 
 ** Judges 5:19
 
-Venerunt reges et pugnaverunt : <l eID="gen1216" level="1"/> <l level="1" sID="gen1217"/>pugnaverunt reges Chanaan <l eID="gen1217" level="1"/> <l level="1" sID="gen1218"/>in Thanach juxta aquas Mageddo, <l eID="gen1218" level="1"/> <l level="1" sID="gen1219"/>et tamen nihil tulere prædantes. <l eID="gen1219" level="1"/>
+Venerunt reges et pugnaverunt :  pugnaverunt reges Chanaan  in Thanach juxta aquas Mageddo,  et tamen nihil tulere prædantes. 
 
 ** Judges 5:20
 
-De cælo dimicatum est contra eos : <l eID="gen1220" level="1"/> <l level="1" sID="gen1221"/>stellæ manentes in ordine et cursu suo, <l eID="gen1221" level="1"/> <l level="1" sID="gen1222"/>adversus Sisaram pugnaverunt. <l eID="gen1222" level="1"/>
+De cælo dimicatum est contra eos :  stellæ manentes in ordine et cursu suo,  adversus Sisaram pugnaverunt. 
 
 ** Judges 5:21
 
-Torrens Cison traxit cadavera eorum, <l eID="gen1223" level="1"/> <l level="1" sID="gen1224"/>torrens Cadumim, torrens Cison : <l eID="gen1224" level="1"/> <l level="1" sID="gen1225"/>conculca, anima mea, robustos. <l eID="gen1225" level="1"/>
+Torrens Cison traxit cadavera eorum,  torrens Cadumim, torrens Cison :  conculca, anima mea, robustos. 
 
 ** Judges 5:22
 
-Ungulæ equorum ceciderunt, fugientibus impetu, <l eID="gen1226" level="1"/> <l level="1" sID="gen1227"/>et per præceps ruentibus fortissimis hostium. <l eID="gen1227" level="1"/>
+Ungulæ equorum ceciderunt, fugientibus impetu,  et per præceps ruentibus fortissimis hostium. 
 
 ** Judges 5:23
 
-Maledicite terræ Meroz, dixit angelus Domini : <l eID="gen1228" level="1"/> <l level="1" sID="gen1229"/>maledicite habitatoribus ejus, <l eID="gen1229" level="1"/> <l level="1" sID="gen1230"/>quia non venerunt ad auxilium Domini, <l eID="gen1230" level="1"/> <l level="1" sID="gen1231"/>in adjutorium fortissimorum ejus. <l eID="gen1231" level="1"/>
+Maledicite terræ Meroz, dixit angelus Domini :  maledicite habitatoribus ejus,  quia non venerunt ad auxilium Domini,  in adjutorium fortissimorum ejus. 
 
 ** Judges 5:24
 
-Benedicta inter mulieres Jahel uxor Haber Cinæi, <l eID="gen1232" level="1"/> <l level="1" sID="gen1233"/>et benedicatur in tabernaculo suo. <l eID="gen1233" level="1"/>
+Benedicta inter mulieres Jahel uxor Haber Cinæi,  et benedicatur in tabernaculo suo. 
 
 ** Judges 5:25
 
-Aquam petenti lac dedit, <l eID="gen1234" level="1"/> <l level="1" sID="gen1235"/>et in phiala principum obtulit butyrum. <l eID="gen1235" level="1"/>
+Aquam petenti lac dedit,  et in phiala principum obtulit butyrum. 
 
 ** Judges 5:26
 
-Sinistram manum misit ad clavum, <l eID="gen1236" level="1"/> <l level="1" sID="gen1237"/>et dexteram ad fabrorum malleos. <l eID="gen1237" level="1"/> <l level="1" sID="gen1238"/>Percussitque Sisaram quærens in capite vulneri locum, <l eID="gen1238" level="1"/> <l level="1" sID="gen1239"/>et tempus valide perforans : <l eID="gen1239" level="1"/>
+Sinistram manum misit ad clavum,  et dexteram ad fabrorum malleos.  Percussitque Sisaram quærens in capite vulneri locum,  et tempus valide perforans : 
 
 ** Judges 5:27
 
-inter pedes ejus ruit ; defecit, et mortuus est : <l eID="gen1240" level="1"/> <l level="1" sID="gen1241"/>volvebatur ante pedes ejus, <l eID="gen1241" level="1"/> <l level="1" sID="gen1242"/>et jacebat exanimis et miserabilis. <l eID="gen1242" level="1"/>
+inter pedes ejus ruit ; defecit, et mortuus est :  volvebatur ante pedes ejus,  et jacebat exanimis et miserabilis. 
 
 ** Judges 5:28
 
-Per fenestram respiciens, ululabat mater ejus : <l eID="gen1243" level="1"/> <l level="1" sID="gen1244"/>et de cœnaculo loquebatur : <l eID="gen1244" level="1"/> <l level="1" sID="gen1245"/>Cur moratur regredi currus ejus ? <l eID="gen1245" level="1"/> <l level="1" sID="gen1246"/>quare tardaverunt pedes quadrigarum illius ? <l eID="gen1246" level="1"/>
+Per fenestram respiciens, ululabat mater ejus :  et de cœnaculo loquebatur :  Cur moratur regredi currus ejus ?  quare tardaverunt pedes quadrigarum illius ? 
 
 ** Judges 5:29
 
-Una sapientior ceteris uxoribus ejus, <l eID="gen1247" level="1"/> <l level="1" sID="gen1248"/>hæc socrui verba respondit : <l eID="gen1248" level="1"/>
+Una sapientior ceteris uxoribus ejus,  hæc socrui verba respondit : 
 
 ** Judges 5:30
 
-Forsitan nunc dividit spolia, <l eID="gen1249" level="1"/> <l level="1" sID="gen1250"/>et pulcherrima feminarum eligitur ei : <l eID="gen1250" level="1"/> <l level="1" sID="gen1251"/>vestes diversorum colorum Sisaræ traduntur in prædam, <l eID="gen1251" level="1"/> <l level="1" sID="gen1252"/>et supellex varia ad ornanda colla congeritur. <l eID="gen1252" level="1"/>
+Forsitan nunc dividit spolia,  et pulcherrima feminarum eligitur ei :  vestes diversorum colorum Sisaræ traduntur in prædam,  et supellex varia ad ornanda colla congeritur. 
 
 ** Judges 5:31
 
-Sic pereant omnes inimici tui, Domine : <l eID="gen1253" level="1"/> <l level="1" sID="gen1254"/>qui autem diligunt te, sicut sol in ortu suo splendet, ita rutilent.
+Sic pereant omnes inimici tui, Domine :  qui autem diligunt te, sicut sol in ortu suo splendet, ita rutilent.
 
 ** Judges 5:32
 
-Quievitque terra per quadraginta annos. <l eID="gen1254" level="1"/><lg eID="gen1156"/> <chapter eID="Judg.5"/>
+Quievitque terra per quadraginta annos.  
 
 * Judges 6
 
@@ -632,7 +632,7 @@ et liberavi de manu Ægyptiorum, et omnium inimicorum qui affligebant vos : ejec
 
 ** Judges 6:10
 
-Et dixi : Ego Dominus Deus vester : ne timeatis deos Amorrhæorum, in quorum terra habitatis. Et noluistis audire vocem meam.  <div eID="gen1255" type="x-p"/>
+Et dixi : Ego Dominus Deus vester : ne timeatis deos Amorrhæorum, in quorum terra habitatis. Et noluistis audire vocem meam.  
 
 ** Judges 6:11
 
@@ -676,7 +676,7 @@ Cui dixit angelus Domini : Tolle carnes et azymos panes, et pone supra petram il
 
 ** Judges 6:21
 
-extendit angelus Domini summitatem virgæ, quam tenebat in manu, et tetigit carnes et panes azymos : ascenditque ignis de petra, et carnes azymosque panes consumpsit : angelus autem Domini evanuit ex oculis ejus.  <div eID="gen1256" type="x-p"/>
+extendit angelus Domini summitatem virgæ, quam tenebat in manu, et tetigit carnes et panes azymos : ascenditque ignis de petra, et carnes azymosque panes consumpsit : angelus autem Domini evanuit ex oculis ejus.  
 
 ** Judges 6:22
 
@@ -720,7 +720,7 @@ Quibus ille respondit : Numquid ultores estis Baal, ut pugnetis pro eo ? qui adv
 
 ** Judges 6:32
 
-Ex illo die vocatus est Gedeon Jerobaal, eo quod dixisset Joas : Ulciscatur se de eo Baal, qui suffodit aram ejus.  <div eID="gen1257" type="x-p"/>
+Ex illo die vocatus est Gedeon Jerobaal, eo quod dixisset Joas : Ulciscatur se de eo Baal, qui suffodit aram ejus.  
 
 ** Judges 6:33
 
@@ -752,7 +752,7 @@ Dixitque rursus ad Deum : Ne irascatur furor tuus contra me si adhuc semel tenta
 
 ** Judges 6:40
 
-Fecitque Deus nocte illa ut postulaverat : et fuit siccitas in solo vellere, et ros in omni terra.  <chapter eID="Judg.6"/> <div eID="gen1258" type="x-p"/>
+Fecitque Deus nocte illa ut postulaverat : et fuit siccitas in solo vellere, et ros in omni terra.   
 
 * Judges 7
 
@@ -786,7 +786,7 @@ Et ait Dominus ad Gedeon : In trecentis viris qui lambuerunt aquas, liberabo vos
 
 ** Judges 7:8
 
-Sumptis itaque pro numero cibariis et tubis, omnem reliquam multitudinem abire præcepit ad tabernacula sua : et ipse cum trecentis viris se certamini dedit. Castra autem Madian erant subter in valle.  <div eID="gen1259" type="x-p"/>
+Sumptis itaque pro numero cibariis et tubis, omnem reliquam multitudinem abire præcepit ad tabernacula sua : et ipse cum trecentis viris se certamini dedit. Castra autem Madian erant subter in valle.  
 
 ** Judges 7:9
 
@@ -826,7 +826,7 @@ Et dixit ad eos : Quod me facere videritis, hoc facite : ingrediar partem castro
 
 ** Judges 7:18
 
-Quando personuerit tuba in manu mea, vos quoque per castrorum circuitum clangite, et conclamate : Domino et Gedeoni.  <div eID="gen1260" type="x-p"/>
+Quando personuerit tuba in manu mea, vos quoque per castrorum circuitum clangite, et conclamate : Domino et Gedeoni.  
 
 ** Judges 7:19
 
@@ -854,7 +854,7 @@ Misitque Gedeon nuntios in omnem montem Ephraim, dicens : Descendite in occursum
 
 ** Judges 7:25
 
-Apprehensosque duos viros Madian, Oreb et Zeb, interfecit Oreb in petra Oreb, Zeb vero in torculari Zeb. Et persecuti sunt Madian, capita Oreb et Zeb portantes ad Gedeon trans fluenta Jordanis.  <chapter eID="Judg.7"/> <div eID="gen1261" type="x-p"/>
+Apprehensosque duos viros Madian, Oreb et Zeb, interfecit Oreb in petra Oreb, Zeb vero in torculari Zeb. Et persecuti sunt Madian, capita Oreb et Zeb portantes ad Gedeon trans fluenta Jordanis.   
 
 * Judges 8
 
@@ -868,7 +868,7 @@ Quibus ille respondit : Quod enim tale facere potui, quale vos fecistis ? nonne 
 
 ** Judges 8:3
 
-In manus vestras Dominus tradidit principes Madian, Oreb et Zeb : quid tale facere potui, quale vos fecistis ? Quod cum locutus esset, requievit spiritus eorum, quo tumebant contra eum.  <div eID="gen1262" type="x-p"/>
+In manus vestras Dominus tradidit principes Madian, Oreb et Zeb : quid tale facere potui, quale vos fecistis ? Quod cum locutus esset, requievit spiritus eorum, quo tumebant contra eum.  
 
 ** Judges 8:4
 
@@ -892,7 +892,7 @@ Et inde conscendens, venit in Phanuel : locutusque est ad viros loci illius simi
 
 ** Judges 8:9
 
-Dixit itaque et eis : Cum reversus fuero victor in pace, destruam turrim hanc.  <div eID="gen1263" type="x-p"/>
+Dixit itaque et eis : Cum reversus fuero victor in pace, destruam turrim hanc.  
 
 ** Judges 8:10
 
@@ -940,7 +940,7 @@ Dixitque Jether primogenito suo : Surge, et interfice eos. Qui non eduxit gladiu
 
 ** Judges 8:21
 
-Dixeruntque Zebee et Salmana : Tu surge, et irrue in nos : quia juxta ætatem robur est hominis. Surrexit Gedeon, et interfecit Zebee et Salmana : et tulit ornamenta ac bullas quibus colla regalium camelorum decorari solent.  <div eID="gen1264" type="x-p"/>
+Dixeruntque Zebee et Salmana : Tu surge, et irrue in nos : quia juxta ætatem robur est hominis. Surrexit Gedeon, et interfecit Zebee et Salmana : et tulit ornamenta ac bullas quibus colla regalium camelorum decorari solent.  
 
 ** Judges 8:22
 
@@ -968,7 +968,7 @@ Fecitque ex eo Gedeon ephod, et posuit illud in civitate sua Ephra. Fornicatusqu
 
 ** Judges 8:28
 
-Humiliatus est autem Madian coram filiis Israël, nec potuerunt ultra cervices elevare : sed quievit terra per quadraginta annos, quibus Gedeon præfuit.  <div eID="gen1265" type="x-p"/>
+Humiliatus est autem Madian coram filiis Israël, nec potuerunt ultra cervices elevare : sed quievit terra per quadraginta annos, quibus Gedeon præfuit.  
 
 ** Judges 8:29
 
@@ -996,7 +996,7 @@ nec recordati sunt Domini Dei sui, qui eruit eos de manibus inimicorum suorum om
 
 ** Judges 8:35
 
-nec fecerunt misericordiam cum domo Jerobaal Gedeon, juxta omnia bona quæ fecerat Israëli.  <chapter eID="Judg.8"/> <div eID="gen1266" type="x-p"/>
+nec fecerunt misericordiam cum domo Jerobaal Gedeon, juxta omnia bona quæ fecerat Israëli.   
 
 * Judges 9
 
@@ -1018,7 +1018,7 @@ Dederuntque illi septuaginta pondo argenti de fano Baalberit. Qui conduxit sibi 
 
 ** Judges 9:5
 
-Et venit in domum patris sui in Ephra, et occidit fratres suos filios Jerobaal, septuaginta viros super lapidem unum : remansitque Joatham filius Jerobaal minimus, et absconditus est.  <div eID="gen1267" type="x-p"/>
+Et venit in domum patris sui in Ephra, et occidit fratres suos filios Jerobaal, septuaginta viros super lapidem unum : remansitque Joatham filius Jerobaal minimus, et absconditus est.  
 
 ** Judges 9:6
 
@@ -1082,7 +1082,7 @@ Sin autem perverse : egrediatur ignis ex eo, et consumat habitatores Sichem, et 
 
 ** Judges 9:21
 
-Quæ cum dixisset, fugit, et abiit in Bera : habitavitque ibi ob metum Abimelech fratris sui.  <div eID="gen1268" type="x-p"/>
+Quæ cum dixisset, fugit, et abiit in Bera : habitavitque ibi ob metum Abimelech fratris sui.  
 
 ** Judges 9:22
 
@@ -1130,7 +1130,7 @@ Surge itaque nocte cum populo qui tecum est, et latita in agro :
 
 ** Judges 9:33
 
-et primo mane, oriente sole, irrue super civitatem. Illo autem egrediente adversum te cum populo suo, fac ei quod potueris.  <div eID="gen1269" type="x-p"/>
+et primo mane, oriente sole, irrue super civitatem. Illo autem egrediente adversum te cum populo suo, fac ei quod potueris.  
 
 ** Judges 9:34
 
@@ -1178,7 +1178,7 @@ cum cuneo suo, oppugnans et obsidens civitatem : duæ autem turmæ palantes per 
 
 ** Judges 9:45
 
-Porro Abimelech omni die illo oppugnabat urbem : quam cepit, interfectis habitatoribus ejus, ipsaque destructa, ita ut sal in ea dispergeret.  <div eID="gen1270" type="x-p"/>
+Porro Abimelech omni die illo oppugnabat urbem : quam cepit, interfectis habitatoribus ejus, ipsaque destructa, ita ut sal in ea dispergeret.  
 
 ** Judges 9:46
 
@@ -1194,7 +1194,7 @@ ascendit in montem Selmon cum omni populo suo : et arrepta securi, præcidit arb
 
 ** Judges 9:49
 
-Igitur certatim ramos de arboribus præcidentes, sequebantur ducem. Qui circumdantes præsidium, succenderunt : atque ita factum est, ut fumo et igne mille homines necarentur, viri pariter et mulieres, habitatorum turris Sichem.  <div eID="gen1271" type="x-p"/>
+Igitur certatim ramos de arboribus præcidentes, sequebantur ducem. Qui circumdantes præsidium, succenderunt : atque ita factum est, ut fumo et igne mille homines necarentur, viri pariter et mulieres, habitatorum turris Sichem.  
 
 ** Judges 9:50
 
@@ -1226,7 +1226,7 @@ et reddidit Deus malum quod fecerat Abimelech contra patrem suum, interfectis se
 
 ** Judges 9:57
 
-Sichimitis quoque quod operati erant, retributum est, et venit super eos maledictio Joatham filii Jerobaal.  <chapter eID="Judg.9"/> <div eID="gen1272" type="x-p"/>
+Sichimitis quoque quod operati erant, retributum est, et venit super eos maledictio Joatham filii Jerobaal.   
 
 * Judges 10
 
@@ -1248,7 +1248,7 @@ habens triginta filios sedentes super triginta pullos asinarum, et principes tri
 
 ** Judges 10:5
 
-Mortuusque est Jair, ac sepultus in loco cui est vocabulum Camon.  <div eID="gen1273" type="x-p"/>
+Mortuusque est Jair, ac sepultus in loco cui est vocabulum Camon.  
 
 ** Judges 10:6
 
@@ -1300,7 +1300,7 @@ Itaque filii Ammon conclamantes in Galaad fixere tentoria, contra quos congregat
 
 ** Judges 10:18
 
-Dixeruntque principes Galaad singuli ad proximos suos : Qui primus ex nobis contra filios Ammon cœperit dimicare, erit dux populi Galaad.  <chapter eID="Judg.10"/> <div eID="gen1274" type="x-p"/>
+Dixeruntque principes Galaad singuli ad proximos suos : Qui primus ex nobis contra filios Ammon cœperit dimicare, erit dux populi Galaad.   
 
 * Judges 11
 
@@ -1346,7 +1346,7 @@ Qui responderunt ei : Dominus, qui hæc audit, ipse mediator ac testis est quod 
 
 ** Judges 11:11
 
-Abiit itaque Jephte cum principibus Galaad, fecitque eum omnis populus principem sui. Locutusque est Jephte omnes sermones suos coram Domino in Maspha.  <div eID="gen1275" type="x-p"/>
+Abiit itaque Jephte cum principibus Galaad, fecitque eum omnis populus principem sui. Locutusque est Jephte omnes sermones suos coram Domino in Maspha.  
 
 ** Judges 11:12
 
@@ -1414,7 +1414,7 @@ Igitur non ego pecco in te, sed tu contra me male agis, indicens mihi bella non 
 
 ** Judges 11:28
 
-Noluitque acquiescere rex filiorum Ammon verbis Jephte, quæ per nuntios mandaverat.  <div eID="gen1276" type="x-p"/>
+Noluitque acquiescere rex filiorum Ammon verbis Jephte, quæ per nuntios mandaverat.  
 
 ** Judges 11:29
 
@@ -1434,7 +1434,7 @@ Transivitque Jephte ad filios Ammon, ut pugnaret contra eos : quos tradidit Domi
 
 ** Judges 11:33
 
-Percussitque ab Aroër usque dum venias in Mennith, viginti civitates, et usque ad Abel, quæ est vineis consita, plaga magna nimis : humiliatique sunt filii Ammon a filiis Israël.  <div eID="gen1277" type="x-p"/>
+Percussitque ab Aroër usque dum venias in Mennith, viginti civitates, et usque ad Abel, quæ est vineis consita, plaga magna nimis : humiliatique sunt filii Ammon a filiis Israël.  
 
 ** Judges 11:34
 
@@ -1462,7 +1462,7 @@ Expletisque duobus mensibus, reversa est ad patrem suum, et fecit ei sicut vover
 
 ** Judges 11:40
 
-ut post anni circulum conveniant in unum filiæ Israël, et plangant filiam Jephte Galaaditæ diebus quatuor.  <chapter eID="Judg.11"/> <div eID="gen1278" type="x-p"/>
+ut post anni circulum conveniant in unum filiæ Israël, et plangant filiam Jephte Galaaditæ diebus quatuor.   
 
 * Judges 12
 
@@ -1488,11 +1488,11 @@ Occupaveruntque Galaaditæ vada Jordanis, per quæ Ephraim reversurus erat. Cumq
 
 ** Judges 12:6
 
-interrogabant eum : Dic ergo Scibboleth, quod interpretatur Spica. Qui respondebat : Sibboleth : eadem littera spicam exprimere non valens. Statimque apprehensum jugulabant in ipso Jordanis transitu. Et ceciderunt in illo tempore de Ephraim quadraginta duo millia.  <div eID="gen1279" type="x-p"/>
+interrogabant eum : Dic ergo Scibboleth, quod interpretatur Spica. Qui respondebat : Sibboleth : eadem littera spicam exprimere non valens. Statimque apprehensum jugulabant in ipso Jordanis transitu. Et ceciderunt in illo tempore de Ephraim quadraginta duo millia.  
 
 ** Judges 12:7
 
-Judicavit itaque Jephte Galaadites Israël sex annis : et mortuus est, ac sepultus in civitate sua Galaad.  <div eID="gen1280" type="x-p"/>
+Judicavit itaque Jephte Galaadites Israël sex annis : et mortuus est, ac sepultus in civitate sua Galaad.  
 
 ** Judges 12:8
 
@@ -1524,7 +1524,7 @@ qui habuit quadraginta filios, et triginta ex eis nepotes, ascendentes super sep
 
 ** Judges 12:15
 
-mortuusque est, ac sepultus in Pharathon terræ Ephraim, in monte Amalec.  <chapter eID="Judg.12"/> <div eID="gen1281" type="x-p"/>
+mortuusque est, ac sepultus in Pharathon terræ Ephraim, in monte Amalec.   
 
 * Judges 13
 
@@ -1574,7 +1574,7 @@ Qui surrexit, et secutus est uxorem suam : veniensque ad virum, dixit ei : Tu es
 
 ** Judges 13:12
 
-Cui Manue : Quando, inquit, sermo tuus fuerit expletus, quid vis ut faciat puer ? aut a quo se observare debebit ?  <div eID="gen1282" type="x-p"/>
+Cui Manue : Quando, inquit, sermo tuus fuerit expletus, quid vis ut faciat puer ? aut a quo se observare debebit ?  
 
 ** Judges 13:13
 
@@ -1618,7 +1618,7 @@ et dixit ad uxorem suam : Morte moriemur, quia vidimus Deum.
 
 ** Judges 13:23
 
-Cui respondit mulier : Si Dominus nos vellet occidere, de manibus nostris holocaustum et libamenta non suscepisset, nec ostendisset nobis hæc omnia, neque ea quæ sunt ventura dixisset.  <div eID="gen1283" type="x-p"/>
+Cui respondit mulier : Si Dominus nos vellet occidere, de manibus nostris holocaustum et libamenta non suscepisset, nec ostendisset nobis hæc omnia, neque ea quæ sunt ventura dixisset.  
 
 ** Judges 13:24
 
@@ -1626,7 +1626,7 @@ Peperit itaque filium, et vocavit nomen ejus Samson. Crevitque puer, et benedixi
 
 ** Judges 13:25
 
-Cœpitque spiritus Domini esse cum eo in castris Dan inter Saraa et Esthaol.  <chapter eID="Judg.13"/> <div eID="gen1284" type="x-p"/>
+Cœpitque spiritus Domini esse cum eo in castris Dan inter Saraa et Esthaol.   
 
 * Judges 14
 
@@ -1664,7 +1664,7 @@ Et post aliquot dies revertens ut acciperet eam, declinavit ut videret cadaver l
 
 ** Judges 14:9
 
-Quem cum sumpsisset in manibus comedebat in via : veniensque ad patrem suum et matrem, dedit eis partem, qui et ipsi comederunt : nec tamen eis voluit indicare quod mel de corpore leonis assumpserat.  <div eID="gen1285" type="x-p"/>
+Quem cum sumpsisset in manibus comedebat in via : veniensque ad patrem suum et matrem, dedit eis partem, qui et ipsi comederunt : nec tamen eis voluit indicare quod mel de corpore leonis assumpserat.  
 
 ** Judges 14:10
 
@@ -1684,7 +1684,7 @@ sin autem non potueritis solvere, vos dabitis mihi triginta sindones, et ejusdem
 
 ** Judges 14:14
 
-Dixitque eis : <div eID="gen1286" type="x-p"/> <lg sID="gen1287"/> <l level="1" sID="gen1288"/>De comedente exivit cibus, <l eID="gen1288" level="1"/> <l level="1" sID="gen1289"/>et de forti egressa est dulcedo. Nec potuerunt per tres dies propositionem solvere.
+Dixitque eis :   De comedente exivit cibus,  et de forti egressa est dulcedo. Nec potuerunt per tres dies propositionem solvere.
 
 ** Judges 14:15
 
@@ -1700,7 +1700,7 @@ Septem igitur diebus convivii flebat ante eum : tandemque die septimo cum ei ess
 
 ** Judges 14:18
 
-Et illi dixerunt ei die septimo ante solis occubitum : <l eID="gen1289" level="1"/> <l level="1" sID="gen1290"/>Quid dulcius melle, <l eID="gen1290" level="1"/> <l level="1" sID="gen1291"/>et quid fortius leone ? Qui ait ad eos : <l eID="gen1291" level="1"/> <l level="1" sID="gen1292"/>Si non arassetis in vitula mea, <l eID="gen1292" level="1"/> <l level="1" sID="gen1293"/>non invenissetis propositionem meam. <l eID="gen1293" level="1"/> <lg eID="gen1287"/>
+Et illi dixerunt ei die septimo ante solis occubitum :  Quid dulcius melle,  et quid fortius leone ? Qui ait ad eos :  Si non arassetis in vitula mea,  non invenissetis propositionem meam.  
 
 ** Judges 14:19
 
@@ -1708,7 +1708,7 @@ Irruit itaque in eum spiritus Domini, descenditque Ascalonem, et percussit ibi t
 
 ** Judges 14:20
 
-uxor autem ejus accepit maritum unum de amicis ejus et pronubis.  <chapter eID="Judg.14"/> <div eID="gen1294" type="x-p"/>
+uxor autem ejus accepit maritum unum de amicis ejus et pronubis.   
 
 * Judges 15
 
@@ -1750,7 +1750,7 @@ Igitur ascendentes Philisthiim in terram Juda, castrametati sunt in loco, qui po
 
 ** Judges 15:10
 
-Dixeruntque ad eos de tribu Juda : Cur ascendistis adversum nos ? Qui responderunt : Ut ligemus Samson venimus, et reddamus ei quæ in nos operatus est.  <div eID="gen1295" type="x-p"/>
+Dixeruntque ad eos de tribu Juda : Cur ascendistis adversum nos ? Qui responderunt : Ut ligemus Samson venimus, et reddamus ei quæ in nos operatus est.  
 
 ** Judges 15:11
 
@@ -1774,7 +1774,7 @@ Inventamque maxillam, id est, mandibulam asini, quæ jacebat, arripiens interfec
 
 ** Judges 15:16
 
-et ait : <div eID="gen1296" type="x-p"/> <lg sID="gen1297"/> <l level="1" sID="gen1298"/>In maxilla asini, <l eID="gen1298" level="1"/> <l level="1" sID="gen1299"/>in mandibula pulli asinarum, <l eID="gen1299" level="1"/> <l level="1" sID="gen1300"/>delevi eos, <l eID="gen1300" level="1"/> <l level="1" sID="gen1301"/>et percussi mille viros.
+et ait :   In maxilla asini,  in mandibula pulli asinarum,  delevi eos,  et percussi mille viros.
 
 ** Judges 15:17
 
@@ -1790,7 +1790,7 @@ Aperuit itaque Dominus molarem dentem in maxilla asini, et egressæ sunt ex eo a
 
 ** Judges 15:20
 
-Judicavitque Israël in diebus Philisthiim viginti annis. <l eID="gen1301" level="1"/><lg eID="gen1297"/> <chapter eID="Judg.15"/>
+Judicavitque Israël in diebus Philisthiim viginti annis.  
 
 * Judges 16
 
@@ -1804,7 +1804,7 @@ Quod cum audissent Philisthiim, et percrebruisset apud eos intrasse urbem Samson
 
 ** Judges 16:3
 
-Dormivit autem Samson usque ad medium noctem : et inde consurgens, apprehendit ambas portæ fores cum postibus suis et sera, impositasque humeris suis portavit ad verticem montis, qui respicit Hebron.  <div eID="gen1302" type="x-p"/>
+Dormivit autem Samson usque ad medium noctem : et inde consurgens, apprehendit ambas portæ fores cum postibus suis et sera, impositasque humeris suis portavit ad verticem montis, qui respicit Hebron.  
 
 ** Judges 16:4
 
@@ -1848,7 +1848,7 @@ Dixitque Dalila rursum ad eum : Usquequo decipis me, et falsum loqueris ? ostend
 
 ** Judges 16:14
 
-Quod cum fecisset Dalila, dixit ad eum : Philisthiim super te, Samson. Qui consurgens de somno extraxit clavum cum crinibus et licio.  <div eID="gen1303" type="x-p"/>
+Quod cum fecisset Dalila, dixit ad eum : Philisthiim super te, Samson. Qui consurgens de somno extraxit clavum cum crinibus et licio.  
 
 ** Judges 16:15
 
@@ -1876,7 +1876,7 @@ Dixitque : Philisthiim super te, Samson. Qui de somno consurgens, dixit in animo
 
 ** Judges 16:21
 
-Quem cum apprehendissent Philisthiim, statim eruerunt oculos ejus, et duxerunt Gazam vinctum catenis, et clausum in carcere molere fecerunt.  <div eID="gen1304" type="x-p"/>
+Quem cum apprehendissent Philisthiim, statim eruerunt oculos ejus, et duxerunt Gazam vinctum catenis, et clausum in carcere molere fecerunt.  
 
 ** Judges 16:22
 
@@ -1916,7 +1916,7 @@ ait : Moriatur anima mea cum Philisthiim. Concussisque fortiter columnis, cecidi
 
 ** Judges 16:31
 
-Descendentes autem fratres ejus et universa cognatio, tulerunt corpus ejus, et sepelierunt inter Saraa et Esthaol in sepulchro patris sui Manue : judicavitque Israël viginti annis.  <chapter eID="Judg.16"/> <div eID="gen1305" type="x-p"/>
+Descendentes autem fratres ejus et universa cognatio, tulerunt corpus ejus, et sepelierunt inter Saraa et Esthaol in sepulchro patris sui Manue : judicavitque Israël viginti annis.   
 
 * Judges 17
 
@@ -1942,7 +1942,7 @@ Qui ædiculam quoque in ea deo separavit, et fecit ephod, et theraphim, id est, 
 
 ** Judges 17:6
 
-In diebus illis non erat rex in Israël, sed unusquisque quod sibi rectum videbatur, hoc faciebat.  <div eID="gen1306" type="x-p"/>
+In diebus illis non erat rex in Israël, sed unusquisque quod sibi rectum videbatur, hoc faciebat.  
 
 ** Judges 17:7
 
@@ -1970,7 +1970,7 @@ Implevitque Michas manum ejus, et habuit puerum sacerdotem apud se :
 
 ** Judges 17:13
 
-Nunc scio, dicens, quod benefaciet mihi Deus habenti Levitici generis sacerdotem.  <chapter eID="Judg.17"/> <div eID="gen1307" type="x-p"/>
+Nunc scio, dicens, quod benefaciet mihi Deus habenti Levitici generis sacerdotem.   
 
 * Judges 18
 
@@ -2000,7 +2000,7 @@ Qui respondit eis : Ite in pace : Dominus respicit viam vestram, et iter quo per
 
 ** Judges 18:7
 
-Euntes igitur quinque viri venerunt Lais : videruntque populum habitantem in ea absque ullo timore, juxta consuetudinem Sidoniorum, securum et quietum, nullo ei penitus resistente, magnarumque opum, et procul a Sidone atque a cunctis hominibus separatum.  <div eID="gen1308" type="x-p"/>
+Euntes igitur quinque viri venerunt Lais : videruntque populum habitantem in ea absque ullo timore, juxta consuetudinem Sidoniorum, securum et quietum, nullo ei penitus resistente, magnarumque opum, et procul a Sidone atque a cunctis hominibus separatum.  
 
 ** Judges 18:8
 
@@ -2028,7 +2028,7 @@ Inde transierunt in montem Ephraim. Cumque venissent ad domum Michæ,
 
 ** Judges 18:14
 
-dixerunt quinque viri, qui prius missi fuerant ad considerandam terram Lais, ceteris fratribus suis : Nostis quod in domibus istis sit ephod, et theraphim, et sculptile, atque conflatile : videte quid vobis placeat.  <div eID="gen1309" type="x-p"/>
+dixerunt quinque viri, qui prius missi fuerant ad considerandam terram Lais, ceteris fratribus suis : Nostis quod in domibus istis sit ephod, et theraphim, et sculptile, atque conflatile : videte quid vobis placeat.  
 
 ** Judges 18:15
 
@@ -2076,7 +2076,7 @@ Dixeruntque ei filii Dan : Cave ne ultra loquaris ad nos, et veniant ad te viri 
 
 ** Judges 18:26
 
-Et sic cœpto itinere perrexerunt. Videns autem Michas quod fortiores se essent, reversus est in domum suam.  <div eID="gen1310" type="x-p"/>
+Et sic cœpto itinere perrexerunt. Videns autem Michas quod fortiores se essent, reversus est in domum suam.  
 
 ** Judges 18:27
 
@@ -2096,7 +2096,7 @@ Posueruntque sibi sculptile, et Jonathan filium Gersam filii Moysi ac filios eju
 
 ** Judges 18:31
 
-Mansitque apud eos idolum Michæ omni tempore quo fuit domus Dei in Silo. In diebus illis non erat rex in Israël.  <chapter eID="Judg.18"/> <div eID="gen1311" type="x-p"/>
+Mansitque apud eos idolum Michæ omni tempore quo fuit domus Dei in Silo. In diebus illis non erat rex in Israël.   
 
 * Judges 19
 
@@ -2138,7 +2138,7 @@ Surrexitque adolescens, ut pergeret cum uxore sua et puero. Cui rursum locutus e
 
 ** Judges 19:10
 
-Noluit gener acquiescere sermonibus ejus : sed statim perrexit, et venit contra Jebus, quæ altero nomine vocatur Jerusalem, ducens secum duos asinos onustos, et concubinam.  <div eID="gen1312" type="x-p"/>
+Noluit gener acquiescere sermonibus ejus : sed statim perrexit, et venit contra Jebus, quæ altero nomine vocatur Jerusalem, ducens secum duos asinos onustos, et concubinam.  
 
 ** Judges 19:11
 
@@ -2182,7 +2182,7 @@ Cui respondit senex : Pax tecum sit, ego præbebo omnia quæ necessaria sunt : t
 
 ** Judges 19:21
 
-Introduxitque eum in domum suam, et pabulum asinis præbuit : ac postquam laverunt pedes suos, recepit eos in convivium.  <div eID="gen1313" type="x-p"/>
+Introduxitque eum in domum suam, et pabulum asinis præbuit : ac postquam laverunt pedes suos, recepit eos in convivium.  
 
 ** Judges 19:22
 
@@ -2218,7 +2218,7 @@ Quam cum esset ingressus, arripuit gladium, et cadaver uxoris cum ossibus suis i
 
 ** Judges 19:30
 
-Quod cum vidissent singuli, conclamabant : Numquam res talis facta est in Israël, ex eo die quo ascenderunt patres nostri de Ægypto usque in præsens tempus : ferte sententiam, et in commune decernite quid facto opus sit.  <chapter eID="Judg.19"/> <div eID="gen1314" type="x-p"/>
+Quod cum vidissent singuli, conclamabant : Numquam res talis facta est in Israël, ex eo die quo ascenderunt patres nostri de Ægypto usque in præsens tempus : ferte sententiam, et in commune decernite quid facto opus sit.   
 
 * Judges 20
 
@@ -2264,7 +2264,7 @@ Decem viri eligantur e centum ex omnibus tribubus Israël, et centum de mille, e
 
 ** Judges 20:11
 
-Convenitque universus Israël ad civitatem, quasi homo unus eadem mente, unoque consilio.  <div eID="gen1315" type="x-p"/>
+Convenitque universus Israël ad civitatem, quasi homo unus eadem mente, unoque consilio.  
 
 ** Judges 20:12
 
@@ -2288,7 +2288,7 @@ qui septingenti erant viri fortissimi, ita sinistra ut dextra præliantes : et s
 
 ** Judges 20:17
 
-Virorum quoque Israël, absque filiis Benjamin, inventa sunt quadringenta millia educentium gladium, et paratorum ad pugnam.  <div eID="gen1316" type="x-p"/>
+Virorum quoque Israël, absque filiis Benjamin, inventa sunt quadringenta millia educentium gladium, et paratorum ad pugnam.  
 
 ** Judges 20:18
 
@@ -2320,7 +2320,7 @@ Cumque filii Israël altera die contra filios Benjamin ad prælium processissent
 
 ** Judges 20:25
 
-eruperunt filii Benjamin de portis Gabaa : et occurrentes eis tanta in illos cæde bacchati sunt, ut decem et octo millia virorum educentium gladium prosternerent.  <div eID="gen1317" type="x-p"/>
+eruperunt filii Benjamin de portis Gabaa : et occurrentes eis tanta in illos cæde bacchati sunt, ut decem et octo millia virorum educentium gladium prosternerent.  
 
 ** Judges 20:26
 
@@ -2360,7 +2360,7 @@ et ab occidentali urbis parte procedere. Sed et alia decem millia virorum de uni
 
 ** Judges 20:35
 
-Percussitque eos Dominus in conspectu filiorum Israël, et interfecerunt ex eis in illo die viginti quinque millia, et centum viros, omnes bellatores et educentes gladium.  <div eID="gen1318" type="x-p"/>
+Percussitque eos Dominus in conspectu filiorum Israël, et interfecerunt ex eis in illo die viginti quinque millia, et centum viros, omnes bellatores et educentes gladium.  
 
 ** Judges 20:36
 
@@ -2396,7 +2396,7 @@ Atque ita factum est, ut ex utraque parte ab hostibus cæderentur, nec erat ulla
 
 ** Judges 20:44
 
-Fuerunt autem qui in eodem loco interfecti sunt, decem et octo millia virorum, omnes robustissimi pugnatores.  <div eID="gen1319" type="x-p"/>
+Fuerunt autem qui in eodem loco interfecti sunt, decem et octo millia virorum, omnes robustissimi pugnatores.  
 
 ** Judges 20:45
 
@@ -2412,7 +2412,7 @@ Remanserunt itaque de omni numero Benjamin, qui evadere et fugere in solitudinem
 
 ** Judges 20:48
 
-Regressi autem filii Israël, omnes reliquias civitatis a viris usque ad jumenta gladio percusserunt, cunctasque urbes et viculos Benjamin vorax flamma consumpsit.  <chapter eID="Judg.20"/> <div eID="gen1320" type="x-p"/>
+Regressi autem filii Israël, omnes reliquias civitatis a viris usque ad jumenta gladio percusserunt, cunctasque urbes et viculos Benjamin vorax flamma consumpsit.   
 
 * Judges 21
 
@@ -2450,7 +2450,7 @@ Idcirco dixerunt : Quis est de universis tribubus Israël, qui non ascendit ad D
 
 ** Judges 21:9
 
-(Eo quoque tempore cum essent in Silo, nullus ex eis ibi repertus est.)  <div eID="gen1321" type="x-p"/>
+(Eo quoque tempore cum essent in Silo, nullus ex eis ibi repertus est.)  
 
 ** Judges 21:10
 
@@ -2474,7 +2474,7 @@ Veneruntque filii Benjamin in illo tempore, et datæ sunt eis uxores de filiabus
 
 ** Judges 21:15
 
-Universusque Israël valde doluit, et egit pœnitentiam super interfectione unius tribus ex Israël.  <div eID="gen1322" type="x-p"/>
+Universusque Israël valde doluit, et egit pœnitentiam super interfectione unius tribus ex Israël.  
 
 ** Judges 21:16
 
@@ -2510,5 +2510,5 @@ Feceruntque filii Benjamin ut sibi fuerat imperatum : et juxta numerum suum, rap
 
 ** Judges 21:24
 
-Filii quoque Israël reversi sunt per tribus et familias in tabernacula sua. In diebus illis non erat rex in Israël : sed unusquisque quod sibi rectum videbatur, hoc faciebat.  <div eID="gen1323" type="x-p"/> <chapter eID="Judg.21"/> <div eID="gen1139" osisID="Judg" type="book"/>
+Filii quoque Israël reversi sunt per tribus et familias in tabernacula sua. In diebus illis non erat rex in Israël : sed unusquisque quod sibi rectum videbatur, hoc faciebat.    
 

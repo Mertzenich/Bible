@@ -266,7 +266,7 @@ And they would not break the holy law of God and they were put to death:
 
 *** I Maccabees 1:67
 
-And there was very great wrath upon the people. <chapter eID="gen27468" osisID="1Macc.1"/>
+And there was very great wrath upon the people. 
 
 ** I Maccabees 2
 
@@ -548,7 +548,7 @@ And he blessed them, and was joined to his fathers.
 
 *** I Maccabees 2:70
 
-And he died in the hundred and forty-sixth year: and he was buried by his sons in the sepulchres of his fathers, in Modin, and all Israel mourned for him with great mourning. <chapter eID="gen27536" osisID="1Macc.2"/>
+And he died in the hundred and forty-sixth year: and he was buried by his sons in the sepulchres of his fathers, in Modin, and all Israel mourned for him with great mourning. 
 
 ** I Maccabees 3
 
@@ -790,7 +790,7 @@ For it is better for us to die in battle, than to see the evils of our nation, a
 
 *** I Maccabees 3:60
 
-Nevertheless, as it shall be the will of God in heaven, so be it done. <chapter eID="gen27607" osisID="1Macc.3"/>
+Nevertheless, as it shall be the will of God in heaven, so be it done. 
 
 ** I Maccabees 4
 
@@ -1036,7 +1036,7 @@ They built up also at that time Mount Sion, with high walls, and strong towers r
 
 *** I Maccabees 4:61
 
-And he placed a garrison there, to keep it, and he fortified it, to secure Bethsura, that the people might have a defence against Idumea. <chapter eID="gen27668" osisID="1Macc.4"/>
+And he placed a garrison there, to keep it, and he fortified it, to secure Bethsura, that the people might have a defence against Idumea. 
 
 ** I Maccabees 5
 
@@ -1310,7 +1310,7 @@ In that day some priests fell in battle, while desiring to do manfully they went
 
 *** I Maccabees 5:68
 
-And Judas turned to Azotus, into the land of the strangers, and he threw down their altars, and he burnt the statues of their gods with fire: and he took the spoils of the cities, and returned into the land of Juda. <chapter eID="gen27730" osisID="1Macc.5"/>
+And Judas turned to Azotus, into the land of the strangers, and he threw down their altars, and he burnt the statues of their gods with fire: and he took the spoils of the cities, and returned into the land of Juda. 
 
 ** I Maccabees 6
 
@@ -1564,7 +1564,7 @@ Then the king entered into Mount Sion, and saw the strength of the place: and he
 
 *** I Maccabees 6:63
 
-And he departed in haste and returned to Antioch, where he found Philip master of the city: and he fought against him, and took the city. <chapter eID="gen27799" osisID="1Macc.6"/>
+And he departed in haste and returned to Antioch, where he found Philip master of the city: and he fought against him, and took the city. 
 
 ** I Maccabees 7
 
@@ -1766,7 +1766,7 @@ And he ordained that this day should be kept every year, being the thirteenth of
 
 *** I Maccabees 7:50
 
-And the land of Juda was quiet for a short time. <chapter eID="gen27863" osisID="1Macc.7"/>
+And the land of Juda was quiet for a short time. 
 
 ** I Maccabees 8
 
@@ -1896,7 +1896,7 @@ Moreover, concerning the evils that Demetrius, the king, hath done against them,
 
 *** I Maccabees 8:32
 
-If, therefore, they come again to us complaining of thee, we will do them justice, and will make war against thee by sea and land. <chapter eID="gen27914" osisID="1Macc.8"/>
+If, therefore, they come again to us complaining of thee, we will do them justice, and will make war against thee by sea and land. 
 
 ** I Maccabees 9
 
@@ -2190,7 +2190,7 @@ And he restored to him the prisoners which he before had taken out of the land o
 
 *** I Maccabees 9:73
 
-So the sword ceased from Israel: and Jonathan dwelt in Machmas, and Jonathan began there to judge the people, and he destroyed the wicked out of Israel. <chapter eID="gen27947" osisID="1Macc.9"/>
+So the sword ceased from Israel: and Jonathan dwelt in Machmas, and Jonathan began there to judge the people, and he destroyed the wicked out of Israel. 
 
 ** I Maccabees 10
 
@@ -2548,7 +2548,7 @@ And it came to pass, when Alexander, the king heard these words, that he honoure
 
 *** I Maccabees 10:89
 
-And he sent him a buckle of gold, as the custom is, to be given to such as are of the royal blood. And he gave him Accaron, and all the borders thereof, in possession. <chapter eID="gen28021" osisID="1Macc.10"/>
+And he sent him a buckle of gold, as the custom is, to be given to such as are of the royal blood. And he gave him Accaron, and all the borders thereof, in possession. 
 
 ** I Maccabees 11
 
@@ -2846,7 +2846,7 @@ And they of his part that fled saw this, and they turned again to him, and they 
 
 *** I Maccabees 11:74
 
-And there fell of the aliens in that day three thousand men: and Jonathan returned to Jerusalem. <chapter eID="gen28111" osisID="1Macc.11"/>
+And there fell of the aliens in that day three thousand men: and Jonathan returned to Jerusalem. 
 
 ** I Maccabees 12
 
@@ -3064,7 +3064,7 @@ Then all the heathens that were round about them, sought to destroy them. For th
 
 *** I Maccabees 12:54
 
-They have no prince, nor any to help them: now therefore, let us make war upon them, and take away the memory of them from amongst men. <chapter eID="gen28186" osisID="1Macc.12"/>
+They have no prince, nor any to help them: now therefore, let us make war upon them, and take away the memory of them from amongst men. 
 
 ** I Maccabees 13
 
@@ -3282,7 +3282,7 @@ And he fortified the mountain of the temple that was near the castle, and he dwe
 
 *** I Maccabees 13:54
 
-And Simon saw that John, his son, was a valiant man for war: and he made him captain of all the forces: and he dwelt in Gazara. <chapter eID="gen28241" osisID="1Macc.13"/>
+And Simon saw that John, his son, was a valiant man for war: and he made him captain of all the forces: and he dwelt in Gazara. 
 
 ** I Maccabees 14
 
@@ -3480,7 +3480,7 @@ And they commanded that this writing should be put in tables of brass, and that 
 
 *** I Maccabees 14:49
 
-And that a copy thereof should be put in the treasury, that Simon, and his sons, may have it. <chapter eID="gen28296" osisID="1Macc.14"/>
+And that a copy thereof should be put in the treasury, that Simon, and his sons, may have it. 
 
 ** I Maccabees 15
 
@@ -3646,7 +3646,7 @@ And Cendebeus came to Jamnia, and began to provoke the people, and to ravage Jud
 
 *** I Maccabees 15:41
 
-And he placed there horsemen, and an army: that they might issue forth, and make incursions upon the ways of Judea, as the king had commanded him. <chapter eID="gen28346" osisID="1Macc.15"/>
+And he placed there horsemen, and an army: that they might issue forth, and make incursions upon the ways of Judea, as the king had commanded him. 
 
 ** I Maccabees 16
 
@@ -3744,4 +3744,4 @@ And as concerning the rest of the acts of John, and his wars, and the worthy dee
 
 *** I Maccabees 16:24
 
-Behold, these are written in the book of the days of his priesthood, from the time that he was made high priest after his father. <chapter eID="gen28388" osisID="1Macc.16"/> <div eID="gen27467" osisID="1Macc" type="book"/>
+Behold, these are written in the book of the days of his priesthood, from the time that he was made high priest after his father.  

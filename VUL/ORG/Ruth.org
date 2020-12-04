@@ -22,7 +22,7 @@ et ambo mortui sunt, Mahalon videlicet et Chelion : remansitque mulier orbata du
 
 ** Ruth 1:6
 
-Et surrexit ut in patriam pergeret cum utraque nuru sua de regione Moabitide : audierat enim quod respexisset Dominus populum suum, et dedisset eis escas.  <div eID="gen1325" type="x-p"/>
+Et surrexit ut in patriam pergeret cum utraque nuru sua de regione Moabitide : audierat enim quod respexisset Dominus populum suum, et dedisset eis escas.  
 
 ** Ruth 1:7
 
@@ -66,7 +66,7 @@ Quæ respondit : Ne adverseris mihi ut relinquam te et abeam : quocumque enim pe
 
 ** Ruth 1:17
 
-Quæ te terra morientem susceperit, in ea moriar : ibique locum accipiam sepulturæ. Hæc mihi faciat Dominus, et hæc addat, si non sola mors me et te separaverit.  <div eID="gen1326" type="x-p"/>
+Quæ te terra morientem susceperit, in ea moriar : ibique locum accipiam sepulturæ. Hæc mihi faciat Dominus, et hæc addat, si non sola mors me et te separaverit.  
 
 ** Ruth 1:18
 
@@ -86,7 +86,7 @@ Egressa sum plena, et vacuam reduxit me Dominus. Cur ergo vocatis me Noëmi, qua
 
 ** Ruth 1:22
 
-Venit ergo Noëmi cum Ruth Moabitide nuru sua, de terra peregrinationis suæ : ac reversa est in Bethlehem, quando primum hordea metebantur.  <chapter eID="Ruth.1"/> <div eID="gen1327" type="x-p"/>
+Venit ergo Noëmi cum Ruth Moabitide nuru sua, de terra peregrinationis suæ : ac reversa est in Bethlehem, quando primum hordea metebantur.   
 
 * Ruth 2
 
@@ -180,7 +180,7 @@ Cui dixit socrus : Melius est, filia mea, ut cum puellis ejus exeas ad metendum,
 
 ** Ruth 2:23
 
-Juncta est itaque puellis Booz : et tamdiu cum eis messuit, donec hordea et triticum in horreis conderentur.  <chapter eID="Ruth.2"/> <div eID="gen1328" type="x-p"/>
+Juncta est itaque puellis Booz : et tamdiu cum eis messuit, donec hordea et triticum in horreis conderentur.   
 
 * Ruth 3
 
@@ -206,7 +206,7 @@ Quæ respondit : Quidquid præceperis, faciam.
 
 ** Ruth 3:6
 
-Descenditque in aream, et fecit omnia quæ sibi imperaverat socrus.  <div eID="gen1329" type="x-p"/>
+Descenditque in aream, et fecit omnia quæ sibi imperaverat socrus.  
 
 ** Ruth 3:7
 
@@ -254,7 +254,7 @@ Et ait : Ecce sex modios hordei dedit mihi, et ait : Nolo vacuam te reverti ad s
 
 ** Ruth 3:18
 
-Dixitque Noëmi : Expecta, filia, donec videamus quem res exitum habeat : neque enim cessabit homo, nisi compleverit quod locutus est.  <chapter eID="Ruth.3"/> <div eID="gen1330" type="x-p"/>
+Dixitque Noëmi : Expecta, filia, donec videamus quem res exitum habeat : neque enim cessabit homo, nisi compleverit quod locutus est.   
 
 * Ruth 4
 
@@ -304,7 +304,7 @@ Respondit omnis populus, qui erat in porta, et majores natu : Nos testes sumus :
 
 ** Ruth 4:12
 
-fiatque domus tua sicut domus Phares, quem Thamar peperit Judæ, de semine quod tibi dederit Dominus ex hac puella.  <div eID="gen1331" type="x-p"/>
+fiatque domus tua sicut domus Phares, quem Thamar peperit Judæ, de semine quod tibi dederit Dominus ex hac puella.  
 
 ** Ruth 4:13
 
@@ -344,5 +344,5 @@ Salmon genuit Booz, Booz genuit Obed,
 
 ** Ruth 4:22
 
-Obed genuit Isai, Isai genuit David.  <div eID="gen1332" type="x-p"/> <chapter eID="Ruth.4"/> <div eID="gen1324" osisID="Ruth" type="book"/>
+Obed genuit Isai, Isai genuit David.    
 

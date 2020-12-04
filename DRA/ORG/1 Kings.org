@@ -210,7 +210,7 @@ And Solomon said: If he be a good man, there shall not so much as one hair of hi
 
 *** I Kings 1:53
 
-Then king Solomon sent, and brought him out from the altar: and going in, he worshipped king Solomon: and Solomon said to him: Go to thy house. <chapter eID="gen9015" osisID="1Kgs.1"/>
+Then king Solomon sent, and brought him out from the altar: and going in, he worshipped king Solomon: and Solomon said to him: Go to thy house. 
 
 ** I Kings 2
 
@@ -396,7 +396,7 @@ And king Solomon shall be blessed, and the throne of David shall be established 
 
 *** I Kings 2:46
 
-So the king commanded Banaias, the son of Joiada: and he went out and struck him; and he died. <chapter eID="gen9069" osisID="1Kgs.2"/>
+So the king commanded Banaias, the son of Joiada: and he went out and struck him; and he died. 
 
 ** I Kings 3
 
@@ -510,7 +510,7 @@ The king answered, and said: Give the living child to this woman, and let it not
 
 *** I Kings 3:28
 
-And all Israel heard the judgment which the king had judged, and they feared the king, seeing that the wisdom of God was in him to do judgment. <chapter eID="gen9116" osisID="1Kgs.3"/>
+And all Israel heard the judgment which the king had judged, and they feared the king, seeing that the wisdom of God was in him to do judgment. 
 
 ** I Kings 4
 
@@ -648,7 +648,7 @@ And he treated about trees, from the cedar that is in Libanus, unto the hyssop t
 
 *** I Kings 4:34
 
-And they came from all nations to hear the wisdom of Solomon, and from all the kings of the earth, who heard of his wisdom. <chapter eID="gen9145" osisID="1Kgs.4"/>
+And they came from all nations to hear the wisdom of Solomon, and from all the kings of the earth, who heard of his wisdom. 
 
 ** I Kings 5
 
@@ -722,7 +722,7 @@ And the king commanded that they should bring great stones, costly stones, for t
 
 *** I Kings 5:18
 
-And the masons of Solomon, and the masons of Hiram, hewed them: and the Giblians prepared timber and stones to build the house. <chapter eID="gen9180" osisID="1Kgs.5"/>
+And the masons of Solomon, and the masons of Hiram, hewed them: and the Giblians prepared timber and stones to build the house. 
 
 ** I Kings 6
 
@@ -876,7 +876,7 @@ In the fourth year was the house of the Lord founded, in the month Zio:
 
 *** I Kings 6:38
 
-And in the eleventh year, in the month Bul. (which is the eighth month) the house was finished in all the works thereof, and in all the appurtenances thereof: and he was seven years in building it. <chapter eID="gen9199" osisID="1Kgs.6"/>
+And in the eleventh year, in the month Bul. (which is the eighth month) the house was finished in all the works thereof, and in all the appurtenances thereof: and he was seven years in building it. 
 
 ** I Kings 7
 
@@ -1082,7 +1082,7 @@ And pots, and fleshhooks, and bowls, and mortars, and censers, of most pure gold
 
 *** I Kings 7:51
 
-And Solomon finished all the work that he made in the house of the Lord, and brought in the things that David, his father, had dedicated, the silver and the gold, and the vessels, and laid them up in the treasures of the house of the Lord. <chapter eID="gen9238" osisID="1Kgs.7"/>
+And Solomon finished all the work that he made in the house of the Lord, and brought in the things that David, his father, had dedicated, the silver and the gold, and the vessels, and laid them up in the treasures of the house of the Lord. 
 
 ** I Kings 8
 
@@ -1348,7 +1348,7 @@ And Solomon made at the same time a solemn feast, and all Israel with him, a gre
 
 *** I Kings 8:66
 
-And on the eighth day, he sent away the people: and they blessed the king, and went to their dwellings, rejoicing, and glad in heart, for all the good things that the Lord had done for David, his servant, and for Israel, his people. <chapter eID="gen9290" osisID="1Kgs.8"/>
+And on the eighth day, he sent away the people: and they blessed the king, and went to their dwellings, rejoicing, and glad in heart, for all the good things that the Lord had done for David, his servant, and for Israel, his people. 
 
 ** I Kings 9
 
@@ -1462,7 +1462,7 @@ And Hiram sent his servants in the fleet, sailors that had knowledge of the sea,
 
 *** I Kings 9:28
 
-And they came to Ophir; and they brought from thence to king Solomon four hundred and twenty talents of gold. <chapter eID="gen9357" osisID="1Kgs.9"/>
+And they came to Ophir; and they brought from thence to king Solomon four hundred and twenty talents of gold. 
 
 ** I Kings 10
 
@@ -1580,7 +1580,7 @@ And horses were brought for Solomon out of Egypt, and Coa: for the king's mercha
 
 *** I Kings 10:29
 
-And a chariot of four horses came out of Egypt, for six hundred sicles of silver, and a horse for a hundred and fifty. And after this manner did all the kings of the Hethites, and of Syria, sell horses. <chapter eID="gen9386" osisID="1Kgs.10"/>
+And a chariot of four horses came out of Egypt, for six hundred sicles of silver, and a horse for a hundred and fifty. And after this manner did all the kings of the Hethites, and of Syria, sell horses. 
 
 ** I Kings 11
 
@@ -1754,7 +1754,7 @@ And the days that Solomon reigned in Jerusalem, over all Israel, were forty year
 
 *** I Kings 11:43
 
-And Solomon slept with his fathers, and was buried in the city of David, his father; and Roboam, his son, reigned in his stead. <chapter eID="gen9416" osisID="1Kgs.11"/>
+And Solomon slept with his fathers, and was buried in the city of David, his father; and Roboam, his son, reigned in his stead. 
 
 ** I Kings 12
 
@@ -1888,7 +1888,7 @@ And he appointed a feast in the eighth month, on the fifteenth day of the month,
 
 *** I Kings 12:33
 
-And he went up to the altar, which he had built in Bethel, on the fifteenth day of the eighth month, which he had devised of his own heart: and he ordained a feast to the children of Israel, and went up on the altar to burn incense. <chapter eID="gen9460" osisID="1Kgs.12"/>
+And he went up to the altar, which he had built in Bethel, on the fifteenth day of the eighth month, which he had devised of his own heart: and he ordained a feast to the children of Israel, and went up on the altar to burn incense. 
 
 ** I Kings 13
 
@@ -2026,7 +2026,7 @@ After these words, Jeroboam came not back from his wicked way: but on the contra
 
 *** I Kings 13:34
 
-And for this cause did the house of Jeroboam sin, and was cut off, and destroyed from the face of the earth. <chapter eID="gen9494" osisID="1Kgs.13"/>
+And for this cause did the house of Jeroboam sin, and was cut off, and destroyed from the face of the earth. 
 
 ** I Kings 14
 
@@ -2152,7 +2152,7 @@ And there was war between Roboam and Jeroboam always.
 
 *** I Kings 14:31
 
-And Roboam slept with his fathers, and was buried with them, in the city of David: and his mother's name was Naama, an Ammonitess: and Abiam, his son, reigned in his stead. <chapter eID="gen9529" osisID="1Kgs.14"/>
+And Roboam slept with his fathers, and was buried with them, in the city of David: and his mother's name was Naama, an Ammonitess: and Abiam, his son, reigned in his stead. 
 
 ** I Kings 15
 
@@ -2290,7 +2290,7 @@ In the third year of Asa, king of Juda, Baasa, the son of Ahias, reigned over al
 
 *** I Kings 15:34
 
-And he did evil before the Lord, and walked in the ways of Jeroboam, and in his sins, wherewith he made Israel to sin. <chapter eID="gen9561" osisID="1Kgs.15"/>
+And he did evil before the Lord, and walked in the ways of Jeroboam, and in his sins, wherewith he made Israel to sin. 
 
 ** I Kings 16
 
@@ -2428,7 +2428,7 @@ And he planted a grove: and Achab did more to provoke the Lord, the God of Israe
 
 *** I Kings 16:34
 
-In his days Hiel, of Bethel, built Jericho: in Abiram, his firstborn, he laid its foundations: and in his youngest son, Segub, he set up the gates thereof: according to the word of the Lord, which he spoke in the hand of Josue, the son of Nun. <chapter eID="gen9596" osisID="1Kgs.16"/>
+In his days Hiel, of Bethel, built Jericho: in Abiram, his firstborn, he laid its foundations: and in his youngest son, Segub, he set up the gates thereof: according to the word of the Lord, which he spoke in the hand of Josue, the son of Nun. 
 
 ** I Kings 17
 
@@ -2526,7 +2526,7 @@ And Elias took the child, and brought him down from the upper chamber to the hou
 
 *** I Kings 17:24
 
-And the woman said to Elias: Now by this I know that thou art a man of God, and the word of the Lord in thy mouth is true. <chapter eID="gen9631" osisID="1Kgs.17"/>
+And the woman said to Elias: Now by this I know that thou art a man of God, and the word of the Lord in thy mouth is true. 
 
 ** I Kings 18
 
@@ -2712,7 +2712,7 @@ And while he turned himself this way and that way, behold the heavens grew dark,
 
 *** I Kings 18:46
 
-And the hand of the Lord was upon Elias, and he girded up his loins, and ran before Achab, till he came to Jezrahel. <chapter eID="gen9656" osisID="1Kgs.18"/>
+And the hand of the Lord was upon Elias, and he girded up his loins, and ran before Achab, till he came to Jezrahel. 
 
 ** I Kings 19
 
@@ -2798,7 +2798,7 @@ And he forthwith left the oxen, and run after Elias, and said: Let me, I pray th
 
 *** I Kings 19:21
 
-And returning back from him, he took a yoke of oxen, and killed them, and boiled the flesh with the plough of the oxen, and gave to the people, and they ate: and rising up, he went away, and followed Elias, and ministered to him. <chapter eID="gen9703" osisID="1Kgs.19"/>
+And returning back from him, he took a yoke of oxen, and killed them, and boiled the flesh with the plough of the oxen, and gave to the people, and they ate: and rising up, he went away, and followed Elias, and ministered to him. 
 
 ** I Kings 20
 
@@ -2972,7 +2972,7 @@ And he said to him: Thus saith the Lord. Because thou hast let go out of thy han
 
 *** I Kings 20:43
 
-And the king of Israel returned to his house, slighting to hear, and raging came into Samaria. <chapter eID="gen9725" osisID="1Kgs.20"/>
+And the king of Israel returned to his house, slighting to hear, and raging came into Samaria. 
 
 ** I Kings 21
 
@@ -3090,7 +3090,7 @@ And the word of the Lord came to Elias, the Thesbite, saying:
 
 *** I Kings 21:29
 
-Hast thou not seen Achab humbled before me? therefore, because he hath humbled himself, for my sake, I will not bring the evil in his days, but in his son's days will I bring the evil upon his house. <chapter eID="gen9769" osisID="1Kgs.21"/>
+Hast thou not seen Achab humbled before me? therefore, because he hath humbled himself, for my sake, I will not bring the evil in his days, but in his son's days will I bring the evil upon his house. 
 
 ** I Kings 22
 
@@ -3308,4 +3308,4 @@ And he did evil in the sight of the Lord, and walked in the way of his father an
 
 *** I Kings 22:54
 
-He served also Baal, and worshipped him, and provoked the Lord, the God of Israel, according to all that his father had done. <chapter eID="gen9799" osisID="1Kgs.22"/> <div eID="gen9014" osisID="1Kgs" type="book"/>
+He served also Baal, and worshipped him, and provoked the Lord, the God of Israel, according to all that his father had done.  

@@ -18,7 +18,7 @@ postquam percussit Sehon regem Amorrhæorum, qui habitabat in Hesebon, et Og reg
 
 ** Deuteronomy 1:5
 
-trans Jordanem in terra Moab. Cœpitque Moyses explanare legem, et dicere :  <div eID="gen712" type="x-p"/>
+trans Jordanem in terra Moab. Cœpitque Moyses explanare legem, et dicere :  
 
 ** Deuteronomy 1:6
 
@@ -30,7 +30,7 @@ revertimini, et venite ad montem Amorrhæorum, et ad cetera quæ ei proxima sunt
 
 ** Deuteronomy 1:8
 
-En, inquit, tradidi vobis : ingredimini et possidete eam, super qua juravit Dominus patribus vestris Abraham, Isaac, et Jacob, ut daret illam eis, et semini eorum post eos.  <div eID="gen713" type="x-p"/>
+En, inquit, tradidi vobis : ingredimini et possidete eam, super qua juravit Dominus patribus vestris Abraham, Isaac, et Jacob, ut daret illam eis, et semini eorum post eos.  
 
 ** Deuteronomy 1:9
 
@@ -70,7 +70,7 @@ Nulla erit distantia personarum : ita parvum audietis ut magnum, nec accipietis 
 
 ** Deuteronomy 1:18
 
-Præcepique omnia quæ facere deberetis.  <div eID="gen714" type="x-p"/>
+Præcepique omnia quæ facere deberetis.  
 
 ** Deuteronomy 1:19
 
@@ -98,7 +98,7 @@ Qui cum perrexissent, et ascendissent in montana, venerunt usque ad Vallem botri
 
 ** Deuteronomy 1:25
 
-sumentes de fructibus ejus, ut ostenderent ubertatem, attulerunt ad nos, atque dixerunt : Bona est terra, quam Dominus Deus noster daturus est nobis.  <div eID="gen715" type="x-p"/>
+sumentes de fructibus ejus, ut ostenderent ubertatem, attulerunt ad nos, atque dixerunt : Bona est terra, quam Dominus Deus noster daturus est nobis.  
 
 ** Deuteronomy 1:26
 
@@ -130,7 +130,7 @@ Et nec sic quidem credidistis Domino Deo vestro,
 
 ** Deuteronomy 1:33
 
-qui præcessit vos in via, et metatus est locum in quo tentoria figere deberetis, nocte ostendens vobis iter per ignem, et die per columnam nubis.  <div eID="gen716" type="x-p"/>
+qui præcessit vos in via, et metatus est locum in quo tentoria figere deberetis, nocte ostendens vobis iter per ignem, et die per columnam nubis.  
 
 ** Deuteronomy 1:34
 
@@ -158,7 +158,7 @@ Parvuli vestri, de quibus dixistis quod captivi ducerentur, et filii qui hodie b
 
 ** Deuteronomy 1:40
 
-Vos autem revertimini, et abite in solitudinem per viam maris Rubri.  <div eID="gen717" type="x-p"/>
+Vos autem revertimini, et abite in solitudinem per viam maris Rubri.  
 
 ** Deuteronomy 1:41
 
@@ -182,7 +182,7 @@ Cumque reversi ploraretis coram Domino, non audivit vos, nec voci vestræ voluit
 
 ** Deuteronomy 1:46
 
-Sedistis ergo in Cadesbarne multo tempore.  <chapter eID="Deut.1"/> <div eID="gen718" type="x-p"/>
+Sedistis ergo in Cadesbarne multo tempore.   
 
 * Deuteronomy 2
 
@@ -216,7 +216,7 @@ Dominus Deus tuus benedixit tibi in omni opere manuum tuarum : novit iter tuum, 
 
 ** Deuteronomy 2:8
 
-Cumque transissemus fratres nostros filios Esau, qui habitabant in Seir, per viam campestrem de Elath, et de Asiongaber, venimus ad iter quod ducit in desertum Moab.  <div eID="gen719" type="x-p"/>
+Cumque transissemus fratres nostros filios Esau, qui habitabant in Seir, per viam campestrem de Elath, et de Asiongaber, venimus ad iter quod ducit in desertum Moab.  
 
 ** Deuteronomy 2:9
 
@@ -244,7 +244,7 @@ Tempus autem, quo ambulavimus de Cadesbarne usque ad transitum torrentis Zared, 
 
 ** Deuteronomy 2:15
 
-cujus manus fuit adversum eos, ut interirent de castrorum medio.  <div eID="gen720" type="x-p"/>
+cujus manus fuit adversum eos, ut interirent de castrorum medio.  
 
 ** Deuteronomy 2:16
 
@@ -284,7 +284,7 @@ Surgite, et transite torrentem Arnon : ecce tradidi in manu tua Sehon regem Hese
 
 ** Deuteronomy 2:25
 
-Hodie incipiam mittere terrorem atque formidinem tuam in populos, qui habitant sub omni cælo : ut audito nomine tuo paveant, et in morem parturientium contremiscant, et dolore teneantur.  <div eID="gen721" type="x-p"/>
+Hodie incipiam mittere terrorem atque formidinem tuam in populos, qui habitant sub omni cælo : ut audito nomine tuo paveant, et in morem parturientium contremiscant, et dolore teneantur.  
 
 ** Deuteronomy 2:26
 
@@ -332,7 +332,7 @@ ab Aroër, quæ est super ripam torrentis Arnon, oppido quod in valle situm est,
 
 ** Deuteronomy 2:37
 
-absque terra filiorum Ammon, ad quam non accessimus : et cunctis quæ adjacent torrenti Jeboc, et urbibus montanis, universisque locis, a quibus nos prohibuit Dominus Deus noster.  <chapter eID="Deut.2"/> <div eID="gen722" type="x-p"/>
+absque terra filiorum Ammon, ad quam non accessimus : et cunctis quæ adjacent torrenti Jeboc, et urbibus montanis, universisque locis, a quibus nos prohibuit Dominus Deus noster.   
 
 * Deuteronomy 3
 
@@ -378,7 +378,7 @@ omnes civitates, quæ sitæ sunt in planitie, et universam terram Galaad et Basa
 
 ** Deuteronomy 3:11
 
-Solus quippe Og rex Basan restiterat de stirpe gigantum. Monstratur lectus ejus ferreus, qui est in Rabbath filiorum Ammon, novem cubitos habens longitudinis, et quatuor latitudinis ad mensuram cubiti virilis manus.  <div eID="gen723" type="x-p"/>
+Solus quippe Og rex Basan restiterat de stirpe gigantum. Monstratur lectus ejus ferreus, qui est in Rabbath filiorum Ammon, novem cubitos habens longitudinis, et quatuor latitudinis ad mensuram cubiti virilis manus.  
 
 ** Deuteronomy 3:12
 
@@ -414,7 +414,7 @@ absque uxoribus, et parvulis, atque jumentis. Novi enim quod plura habeatis peco
 
 ** Deuteronomy 3:20
 
-donec requiem tribuat Dominus fratribus vestris, sicut vobis tribuit : et possideant ipsi etiam terram, quam daturus est eis trans Jordanem : tunc revertetur unusquisque in possessionem suam, quam dedi vobis.  <div eID="gen724" type="x-p"/>
+donec requiem tribuat Dominus fratribus vestris, sicut vobis tribuit : et possideant ipsi etiam terram, quam daturus est eis trans Jordanem : tunc revertetur unusquisque in possessionem suam, quam dedi vobis.  
 
 ** Deuteronomy 3:21
 
@@ -450,7 +450,7 @@ Præcipe Josue, et corrobora eum atque conforta : quia ipse præcedet populum is
 
 ** Deuteronomy 3:29
 
-Mansimusque in valle contra fanum Phogor.  <chapter eID="Deut.3"/> <div eID="gen725" type="x-p"/>
+Mansimusque in valle contra fanum Phogor.   
 
 * Deuteronomy 4
 
@@ -484,7 +484,7 @@ Nec est alia natio tam grandis, quæ habeat deos appropinquantes sibi, sicut Deu
 
 ** Deuteronomy 4:8
 
-Quæ est enim alia gens sic inclyta, ut habeat cæremonias, justaque judicia, et universam legem, quam ego proponam hodie ante oculos vestros ?  <div eID="gen726" type="x-p"/>
+Quæ est enim alia gens sic inclyta, ut habeat cæremonias, justaque judicia, et universam legem, quam ego proponam hodie ante oculos vestros ?  
 
 ** Deuteronomy 4:9
 
@@ -532,7 +532,7 @@ ne forte elevatis oculis ad cælum, videas solem et lunam, et omnia astra cæli,
 
 ** Deuteronomy 4:20
 
-Vos autem tulit Dominus, et eduxit de fornace ferrea Ægypti, ut haberet populum hæreditarium, sicut est in præsenti die.  <div eID="gen727" type="x-p"/>
+Vos autem tulit Dominus, et eduxit de fornace ferrea Ægypti, ut haberet populum hæreditarium, sicut est in præsenti die.  
 
 ** Deuteronomy 4:21
 
@@ -576,7 +576,7 @@ Postquam te invenerint omnia quæ prædicta sunt, novissimo tempore reverteris a
 
 ** Deuteronomy 4:31
 
-Quia Deus misericors Dominus Deus tuus est : non dimittet te, nec omnino delebit, neque obliviscetur pacti, in quo juravit patribus tuis.  <div eID="gen728" type="x-p"/>
+Quia Deus misericors Dominus Deus tuus est : non dimittet te, nec omnino delebit, neque obliviscetur pacti, in quo juravit patribus tuis.  
 
 ** Deuteronomy 4:32
 
@@ -612,7 +612,7 @@ Scito ergo hodie, et cogitato in corde tuo quod Dominus ipse sit Deus in cælo s
 
 ** Deuteronomy 4:40
 
-Custodi præcepta ejus atque mandata, quæ ego præcipio tibi : ut bene sit tibi, et filiis tuis post te, et permaneas multo tempore super terram, quam Dominus Deus tuus daturus est tibi.  <div eID="gen729" type="x-p"/>
+Custodi præcepta ejus atque mandata, quæ ego præcipio tibi : ut bene sit tibi, et filiis tuis post te, et permaneas multo tempore super terram, quam Dominus Deus tuus daturus est tibi.  
 
 ** Deuteronomy 4:41
 
@@ -624,7 +624,7 @@ ut confugiat ad eas qui occiderit nolens proximum suum, nec sibi fuerit inimicus
 
 ** Deuteronomy 4:43
 
-Bosor in solitudine, quæ sita est in terra campestri de tribu Ruben : et Ramoth in Galaad, quæ est in tribu Gad : et Golan in Basan, quæ est in tribu Manasse.  <div eID="gen730" type="x-p"/>
+Bosor in solitudine, quæ sita est in terra campestri de tribu Ruben : et Ramoth in Galaad, quæ est in tribu Gad : et Golan in Basan, quæ est in tribu Manasse.  
 
 ** Deuteronomy 4:44
 
@@ -648,7 +648,7 @@ ab Aroër, quæ sita est super ripam torrentis Arnon, usque ad montem Sion, qui 
 
 ** Deuteronomy 4:49
 
-omnem planitiem trans Jordanem ad orientalem plagam, usque ad mare solitudinis, et usque ad radices montis Phasga.  <chapter eID="Deut.4"/> <div eID="gen731" type="x-p"/>
+omnem planitiem trans Jordanem ad orientalem plagam, usque ad mare solitudinis, et usque ad radices montis Phasga.   
 
 * Deuteronomy 5
 
@@ -738,7 +738,7 @@ Non concupisces uxorem proximi tui : non domum, non agrum, non servum, non ancil
 
 ** Deuteronomy 5:22
 
-Hæc verba locutus est Dominus ad omnem multitudinem vestram in monte de medio ignis et nubis, et caliginis, voce magna, nihil addens amplius : et scripsit ea in duabus tabulis lapideis, quas tradidit mihi.  <div eID="gen732" type="x-p"/>
+Hæc verba locutus est Dominus ad omnem multitudinem vestram in monte de medio ignis et nubis, et caliginis, voce magna, nihil addens amplius : et scripsit ea in duabus tabulis lapideis, quas tradidit mihi.  
 
 ** Deuteronomy 5:23
 
@@ -758,7 +758,7 @@ Quid est omnis caro, ut audiat vocem Dei viventis, qui de medio ignis loquitur s
 
 ** Deuteronomy 5:27
 
-Tu magis accede : et audi cuncta quæ dixerit Dominus Deus noster tibi : loquerisque ad nos, et nos audientes faciemus ea.  <div eID="gen733" type="x-p"/>
+Tu magis accede : et audi cuncta quæ dixerit Dominus Deus noster tibi : loquerisque ad nos, et nos audientes faciemus ea.  
 
 ** Deuteronomy 5:28
 
@@ -782,7 +782,7 @@ Custodite igitur et facite quæ præcepit Dominus Deus vobis : non declinabitis 
 
 ** Deuteronomy 5:33
 
-sed per viam, quam præcepit Dominus Deus vester, ambulabitis, ut vivatis, et bene sit vobis, et protelentur dies in terra possessionis vestræ.  <chapter eID="Deut.5"/> <div eID="gen734" type="x-p"/>
+sed per viam, quam præcepit Dominus Deus vester, ambulabitis, ut vivatis, et bene sit vobis, et protelentur dies in terra possessionis vestræ.   
 
 * Deuteronomy 6
 
@@ -820,7 +820,7 @@ Et ligabis ea quasi signum in manu tua, eruntque et movebuntur inter oculos tuos
 
 ** Deuteronomy 6:9
 
-scribesque ea in limine, et ostiis domus tuæ.  <div eID="gen735" type="x-p"/>
+scribesque ea in limine, et ostiis domus tuæ.  
 
 ** Deuteronomy 6:10
 
@@ -860,7 +860,7 @@ et fac quod placitum est et bonum in conspectu Domini, ut bene sit tibi : et ing
 
 ** Deuteronomy 6:19
 
-ut deleret omnes inimicos tuos coram te, sicut locutus est.  <div eID="gen736" type="x-p"/>
+ut deleret omnes inimicos tuos coram te, sicut locutus est.  
 
 ** Deuteronomy 6:20
 
@@ -884,7 +884,7 @@ Præcepitque nobis Dominus ut faciamus omnia legitima hæc, et timeamus Dominum 
 
 ** Deuteronomy 6:25
 
-Eritque nostri misericors, si custodierimus et fecerimus omnia præcepta ejus coram Domino Deo nostro, sicut mandavit nobis.  <chapter eID="Deut.6"/> <div eID="gen737" type="x-p"/>
+Eritque nostri misericors, si custodierimus et fecerimus omnia præcepta ejus coram Domino Deo nostro, sicut mandavit nobis.   
 
 * Deuteronomy 7
 
@@ -910,7 +910,7 @@ Quin potius hæc facietis eis : aras eorum subvertite, et confringite statuas, l
 
 ** Deuteronomy 7:6
 
-quia populus sanctus es Domino Deo tuo. <div eID="gen738" type="x-p"/> <div sID="gen739" type="x-p"/> Te elegit Dominus Deus tuus, ut sis ei populus peculiaris de cunctis populis, qui sunt super terram.
+quia populus sanctus es Domino Deo tuo.   Te elegit Dominus Deus tuus, ut sis ei populus peculiaris de cunctis populis, qui sunt super terram.
 
 ** Deuteronomy 7:7
 
@@ -930,7 +930,7 @@ et reddens odientibus se statim, ita ut disperdat eos, et ultra non differat, pr
 
 ** Deuteronomy 7:11
 
-Custodi ergo præcepta et cæremonias atque judicia, quæ ego mando tibi hodie ut facias.  <div eID="gen739" type="x-p"/>
+Custodi ergo præcepta et cæremonias atque judicia, quæ ego mando tibi hodie ut facias.  
 
 ** Deuteronomy 7:12
 
@@ -950,7 +950,7 @@ Auferet Dominus a te omnem languorem : et infirmitates Ægypti pessimas, quas no
 
 ** Deuteronomy 7:16
 
-Devorabis omnes populos, quos Dominus Deus tuus daturus est tibi. Non parcet eis oculus tuus, nec servies diis eorum, ne sint in ruinam tui.  <div eID="gen740" type="x-p"/>
+Devorabis omnes populos, quos Dominus Deus tuus daturus est tibi. Non parcet eis oculus tuus, nec servies diis eorum, ne sint in ruinam tui.  
 
 ** Deuteronomy 7:17
 
@@ -990,7 +990,7 @@ Sculptilia eorum igne combures : non concupisces argentum et aurum, de quibus fa
 
 ** Deuteronomy 7:26
 
-nec inferes quippiam ex idolo in domum tuam, ne fias anathema, sicut et illud est. Quasi spurcitiam detestaberis, et velut inquinamentum ac sordes abominationi habebis, quia anathema est.  <chapter eID="Deut.7"/> <div eID="gen741" type="x-p"/>
+nec inferes quippiam ex idolo in domum tuam, ne fias anathema, sicut et illud est. Quasi spurcitiam detestaberis, et velut inquinamentum ac sordes abominationi habebis, quia anathema est.   
 
 * Deuteronomy 8
 
@@ -1032,7 +1032,7 @@ ubi absque ulla penuria comedes panem tuum, et rerum omnium abundantia perfrueri
 
 ** Deuteronomy 8:10
 
-ut cum comederis, et satiatus fueris, benedicas Domino Deo tuo pro terra optima, quam dedit tibi.  <div eID="gen742" type="x-p"/>
+ut cum comederis, et satiatus fueris, benedicas Domino Deo tuo pro terra optima, quam dedit tibi.  
 
 ** Deuteronomy 8:11
 
@@ -1072,7 +1072,7 @@ Sin autem oblitus Domini Dei tui, secutus fueris deos alienos, coluerisque illos
 
 ** Deuteronomy 8:20
 
-Sicut gentes, quas delevit Dominus in introitu tuo, ita et vos peribitis, si inobedientes fueritis voci Domini Dei vestri.  <chapter eID="Deut.8"/> <div eID="gen743" type="x-p"/>
+Sicut gentes, quas delevit Dominus in introitu tuo, ita et vos peribitis, si inobedientes fueritis voci Domini Dei vestri.   
 
 * Deuteronomy 9
 
@@ -1098,7 +1098,7 @@ Neque enim propter justitias tuas, et æquitatem cordis tui ingredieris, ut poss
 
 ** Deuteronomy 9:6
 
-Scito ergo quod non propter justitias tuas Dominus Deus tuus dederit tibi terram hanc optimam in possessionem, cum durissimæ cervicis sis populus.  <div eID="gen744" type="x-p"/>
+Scito ergo quod non propter justitias tuas Dominus Deus tuus dederit tibi terram hanc optimam in possessionem, cum durissimæ cervicis sis populus.  
 
 ** Deuteronomy 9:7
 
@@ -1130,7 +1130,7 @@ Rursumque ait Dominus ad me : Cerno quod populus iste duræ cervicis sit :
 
 ** Deuteronomy 9:14
 
-dimitte me ut conteram eum, et deleam nomen ejus de sub cælo, et constituam te super gentem, quæ hac major et fortior sit.  <div eID="gen745" type="x-p"/>
+dimitte me ut conteram eum, et deleam nomen ejus de sub cælo, et constituam te super gentem, quæ hac major et fortior sit.  
 
 ** Deuteronomy 9:15
 
@@ -1190,7 +1190,7 @@ ne forte dicant habitatores terræ, de qua eduxisti nos : Non poterat Dominus in
 
 ** Deuteronomy 9:29
 
-qui sunt populus tuus et hæreditas tua, quos eduxisti in fortitudine tua magna, et in brachio tuo extento.  <chapter eID="Deut.9"/> <div eID="gen746" type="x-p"/>
+qui sunt populus tuus et hæreditas tua, quos eduxisti in fortitudine tua magna, et in brachio tuo extento.   
 
 * Deuteronomy 10
 
@@ -1220,7 +1220,7 @@ Filii autem Israël moverunt castra ex Beroth filiorum Jacan in Mosera, ubi Aaro
 
 ** Deuteronomy 10:7
 
-Inde venerunt in Gadgad : de quo loco profecti, castrametati sunt in Jetebatha, in terra aquarum atque torrentium.  <div eID="gen747" type="x-p"/>
+Inde venerunt in Gadgad : de quo loco profecti, castrametati sunt in Jetebatha, in terra aquarum atque torrentium.  
 
 ** Deuteronomy 10:8
 
@@ -1236,7 +1236,7 @@ Ego autem steti in monte, sicut prius, quadraginta diebus ac noctibus : exaudivi
 
 ** Deuteronomy 10:11
 
-Dixitque mihi : Vade, et præcede populum, ut ingrediatur, et possideat terram, quam juravi patribus eorum ut traderem eis.  <div eID="gen748" type="x-p"/>
+Dixitque mihi : Vade, et præcede populum, ut ingrediatur, et possideat terram, quam juravi patribus eorum ut traderem eis.  
 
 ** Deuteronomy 10:12
 
@@ -1280,7 +1280,7 @@ Ipse est laus tua, et Deus tuus, qui fecit tibi hæc magnalia et terribilia, qu�
 
 ** Deuteronomy 10:22
 
-In septuaginta animabus descenderunt patres tui in Ægyptum, et ecce nunc multiplicavit te Dominus Deus tuus sicut astra cæli.  <chapter eID="Deut.10"/> <div eID="gen749" type="x-p"/>
+In septuaginta animabus descenderunt patres tui in Ægyptum, et ecce nunc multiplicavit te Dominus Deus tuus sicut astra cæli.   
 
 * Deuteronomy 11
 
@@ -1306,7 +1306,7 @@ vobisque quæ fecerit in solitudine donec veniretis ad hunc locum :
 
 ** Deuteronomy 11:6
 
-et Dathan atque Abiron filiis Eliab, qui fuit filius Ruben : quos aperto ore suo terra absorbuit, cum domibus et tabernaculis, et universa substantia eorum, quam habebant in medio Israël.  <div eID="gen750" type="x-p"/>
+et Dathan atque Abiron filiis Eliab, qui fuit filius Ruben : quos aperto ore suo terra absorbuit, cum domibus et tabernaculis, et universa substantia eorum, quam habebant in medio Israël.  
 
 ** Deuteronomy 11:7
 
@@ -1366,7 +1366,7 @@ Scribes ea super postes et januas domus tuæ,
 
 ** Deuteronomy 11:21
 
-ut multiplicentur dies tui, et filiorum tuorum in terra, quam juravit Dominus patribus tuis, ut daret eis quamdiu cælum imminet terræ.  <div eID="gen751" type="x-p"/>
+ut multiplicentur dies tui, et filiorum tuorum in terra, quam juravit Dominus patribus tuis, ut daret eis quamdiu cælum imminet terræ.  
 
 ** Deuteronomy 11:22
 
@@ -1410,7 +1410,7 @@ Vos enim transibitis Jordanem, ut possideatis terram quam Dominus Deus vester da
 
 ** Deuteronomy 11:32
 
-Videte ergo ut impleatis cæremonias atque judicia, quæ ego hodie ponam in conspectu vestro.  <chapter eID="Deut.11"/> <div eID="gen752" type="x-p"/>
+Videte ergo ut impleatis cæremonias atque judicia, quæ ego hodie ponam in conspectu vestro.   
 
 * Deuteronomy 12
 
@@ -1468,7 +1468,7 @@ Cave ne offeras holocausta tua in omni loco, quem videris :
 
 ** Deuteronomy 12:14
 
-sed in eo, quem elegerit Dominus, in una tribuum tuarum offeres hostias, et facies quæcumque præcipio tibi.  <div eID="gen753" type="x-p"/>
+sed in eo, quem elegerit Dominus, in una tribuum tuarum offeres hostias, et facies quæcumque præcipio tibi.  
 
 ** Deuteronomy 12:15
 
@@ -1540,7 +1540,7 @@ Non facies similiter Domino Deo tuo. Omnes enim abominationes, quas aversatur Do
 
 ** Deuteronomy 12:32
 
-Quod præcipio tibi, hoc tantum facito Domino : nec addas quidquam, nec minuas.  <chapter eID="Deut.12"/> <div eID="gen754" type="x-p"/>
+Quod præcipio tibi, hoc tantum facito Domino : nec addas quidquam, nec minuas.   
 
 * Deuteronomy 13
 
@@ -1586,7 +1586,7 @@ Lapidibus obrutus necabitur : quia voluit te abstrahere a Domino Deo tuo, qui ed
 
 ** Deuteronomy 13:11
 
-ut omnis Israël audiens timeat, et nequaquam ultra faciat quippiam hujus rei simile.  <div eID="gen755" type="x-p"/>
+ut omnis Israël audiens timeat, et nequaquam ultra faciat quippiam hujus rei simile.  
 
 ** Deuteronomy 13:12
 
@@ -1614,7 +1614,7 @@ et non adhærebit de illo anathemate quidquam in manu tua : ut avertatur Dominus
 
 ** Deuteronomy 13:18
 
-quando audieris vocem Domini Dei tui custodiens omnia præcepta ejus, quæ ego præcipio tibi hodie, ut facias quod placitum est in conspectu Domini Dei tui.  <chapter eID="Deut.13"/> <div eID="gen756" type="x-p"/>
+quando audieris vocem Domini Dei tui custodiens omnia præcepta ejus, quæ ego præcipio tibi hodie, ut facias quod placitum est in conspectu Domini Dei tui.   
 
 * Deuteronomy 14
 
@@ -1700,7 +1700,7 @@ Omne quod mundum est, comedite.
 
 ** Deuteronomy 14:21
 
-Quidquid autem morticinum est, ne vescamini ex eo. Peregrino, qui intra portas tuas est, da ut comedat, aut vende ei : quia tu populus sanctus Domini Dei tui es. Non coques hædum in lacte matris suæ.  <div eID="gen757" type="x-p"/>
+Quidquid autem morticinum est, ne vescamini ex eo. Peregrino, qui intra portas tuas est, da ut comedat, aut vende ei : quia tu populus sanctus Domini Dei tui es. Non coques hædum in lacte matris suæ.  
 
 ** Deuteronomy 14:22
 
@@ -1732,7 +1732,7 @@ Anno tertio separabis aliam decimam ex omnibus quæ nascuntur tibi eo tempore, e
 
 ** Deuteronomy 14:29
 
-Venietque Levites qui aliam non habet partem nec possessionem tecum, et peregrinus ac pupillus et vidua, qui intra portas tuas sunt, et comedent et saturabuntur : ut benedicat tibi Dominus Deus tuus in cunctis operibus manuum tuarum quæ feceris.  <chapter eID="Deut.14"/> <div eID="gen758" type="x-p"/>
+Venietque Levites qui aliam non habet partem nec possessionem tecum, et peregrinus ac pupillus et vidua, qui intra portas tuas sunt, et comedent et saturabuntur : ut benedicat tibi Dominus Deus tuus in cunctis operibus manuum tuarum quæ feceris.   
 
 * Deuteronomy 15
 
@@ -1758,7 +1758,7 @@ Si tamen audieris vocem Domini Dei tui, et custodieris universa quæ jussit, et 
 
 ** Deuteronomy 15:6
 
-Fœnerabis gentibus multis, et ipse a nullo accipies mutuum. Dominaberis nationibus plurimis, et tui nemo dominabitur.  <div eID="gen759" type="x-p"/>
+Fœnerabis gentibus multis, et ipse a nullo accipies mutuum. Dominaberis nationibus plurimis, et tui nemo dominabitur.  
 
 ** Deuteronomy 15:7
 
@@ -1778,7 +1778,7 @@ Sed dabis ei : nec ages quippiam callide in ejus necessitatibus sublevandis, ut 
 
 ** Deuteronomy 15:11
 
-Non deerunt pauperes in terra habitationis tuæ : idcirco ego præcipio tibi, ut aperias manum fratri tuo egeno et pauperi, qui tecum versatur in terra.  <div eID="gen760" type="x-p"/>
+Non deerunt pauperes in terra habitationis tuæ : idcirco ego præcipio tibi, ut aperias manum fratri tuo egeno et pauperi, qui tecum versatur in terra.  
 
 ** Deuteronomy 15:12
 
@@ -1806,7 +1806,7 @@ assumes subulam, et perforabis aurem ejus in janua domus tuæ, et serviet tibi u
 
 ** Deuteronomy 15:18
 
-Non avertas ab eis oculos tuos, quando dimiseris eos liberos, quoniam juxta mercedem mercenarii per sex annos servivit tibi : ut benedicat tibi Dominus Deus tuus in cunctis operibus quæ agis.  <div eID="gen761" type="x-p"/>
+Non avertas ab eis oculos tuos, quando dimiseris eos liberos, quoniam juxta mercedem mercenarii per sex annos servivit tibi : ut benedicat tibi Dominus Deus tuus in cunctis operibus quæ agis.  
 
 ** Deuteronomy 15:19
 
@@ -1826,7 +1826,7 @@ sed intra portas urbis tuæ comedes illud : tam mundus quam immundus similiter v
 
 ** Deuteronomy 15:23
 
-Hoc solum observabis, ut sanguinem eorum non comedas, sed effundes in terram quasi aquam.  <chapter eID="Deut.15"/> <div eID="gen762" type="x-p"/>
+Hoc solum observabis, ut sanguinem eorum non comedas, sed effundes in terram quasi aquam.   
 
 * Deuteronomy 16
 
@@ -1860,7 +1860,7 @@ Et coques, et comedes in loco quem elegerit Dominus Deus tuus, maneque consurgen
 
 ** Deuteronomy 16:8
 
-Sex diebus comedes azyma : et in die septima, quia collecta est Domini Dei tui, non facies opus.  <div eID="gen763" type="x-p"/>
+Sex diebus comedes azyma : et in die septima, quia collecta est Domini Dei tui, non facies opus.  
 
 ** Deuteronomy 16:9
 
@@ -1876,7 +1876,7 @@ et epulaberis coram Domino Deo tuo, tu, filius tuus et filia tua, servus tuus et
 
 ** Deuteronomy 16:12
 
-Et recordaberis quoniam servus fueris in Ægypto : custodiesque ac facies quæ præcepta sunt.  <div eID="gen764" type="x-p"/>
+Et recordaberis quoniam servus fueris in Ægypto : custodiesque ac facies quæ præcepta sunt.  
 
 ** Deuteronomy 16:13
 
@@ -1896,7 +1896,7 @@ Tribus vicibus per annum apparebit omne masculinum tuum in conspectu Domini Dei 
 
 ** Deuteronomy 16:17
 
-sed offeret unusquisque secundum quod habuerit juxta benedictionem Domini Dei sui, quam dederit ei.  <div eID="gen765" type="x-p"/>
+sed offeret unusquisque secundum quod habuerit juxta benedictionem Domini Dei sui, quam dederit ei.  
 
 ** Deuteronomy 16:18
 
@@ -1908,7 +1908,7 @@ nec in alteram partem declinent. Non accipies personam, nec munera : quia munera
 
 ** Deuteronomy 16:20
 
-Juste quod justum est persequeris : ut vivas, et possideas terram, quam Dominus Deus tuus dederit tibi.  <div eID="gen766" type="x-p"/>
+Juste quod justum est persequeris : ut vivas, et possideas terram, quam Dominus Deus tuus dederit tibi.  
 
 ** Deuteronomy 16:21
 
@@ -1916,7 +1916,7 @@ Non plantabis lucum, et omnem arborem juxta altare Domini Dei tui.
 
 ** Deuteronomy 16:22
 
-Nec facies tibi, neque constitues statuam : quæ odit Dominus Deus tuus.  <chapter eID="Deut.16"/> <div eID="gen767" type="x-p"/>
+Nec facies tibi, neque constitues statuam : quæ odit Dominus Deus tuus.   
 
 * Deuteronomy 17
 
@@ -1946,7 +1946,7 @@ In ore duorum aut trium testium peribit qui interficietur. Nemo occidatur, uno c
 
 ** Deuteronomy 17:7
 
-Manus testium prima interficiet eum, et manus reliqui populi extrema mittetur : ut auferas malum de medio tui.  <div eID="gen768" type="x-p"/>
+Manus testium prima interficiet eum, et manus reliqui populi extrema mittetur : ut auferas malum de medio tui.  
 
 ** Deuteronomy 17:8
 
@@ -1970,7 +1970,7 @@ Qui autem superbierit, nolens obedire sacerdotis imperio, qui eo tempore ministr
 
 ** Deuteronomy 17:13
 
-cunctusque populus audiens timebit, ut nullus deinceps intumescat superbia.  <div eID="gen769" type="x-p"/>
+cunctusque populus audiens timebit, ut nullus deinceps intumescat superbia.  
 
 ** Deuteronomy 17:14
 
@@ -1998,7 +1998,7 @@ et habebit secum, legetque illud omnibus diebus vitæ suæ, ut discat timere Dom
 
 ** Deuteronomy 17:20
 
-Nec elevetur cor ejus in superbiam super fratres suos, neque declinet in partem dexteram vel sinistram, ut longo tempore regnet ipse et filii ejus super Israël.  <chapter eID="Deut.17"/> <div eID="gen770" type="x-p"/>
+Nec elevetur cor ejus in superbiam super fratres suos, neque declinet in partem dexteram vel sinistram, ut longo tempore regnet ipse et filii ejus super Israël.   
 
 * Deuteronomy 18
 
@@ -2032,7 +2032,7 @@ ministrabit in nomine Domini Dei sui, sicut omnes fratres ejus Levitæ, qui stab
 
 ** Deuteronomy 18:8
 
-Partem ciborum eamdem accipiet, quam et ceteri : excepto eo, quod in urbe sua ex paterna ei successione debetur.  <div eID="gen771" type="x-p"/>
+Partem ciborum eamdem accipiet, quam et ceteri : excepto eo, quod in urbe sua ex paterna ei successione debetur.  
 
 ** Deuteronomy 18:9
 
@@ -2088,7 +2088,7 @@ Quod si tacita cogitatione responderis : Quomodo possum intelligere verbum, quod
 
 ** Deuteronomy 18:22
 
-hoc habebis signum : quod in nomine Domini propheta ille prædixerit, et non evenerit : hoc Dominus non est locutus, sed per tumorem animi sui propheta confinxit : et idcirco non timebis eum.  <chapter eID="Deut.18"/> <div eID="gen772" type="x-p"/>
+hoc habebis signum : quod in nomine Domini propheta ille prædixerit, et non evenerit : hoc Dominus non est locutus, sed per tumorem animi sui propheta confinxit : et idcirco non timebis eum.   
 
 * Deuteronomy 19
 
@@ -2146,7 +2146,7 @@ Non miseraberis ejus, et auferes innoxium sanguinem de Israël, ut bene sit tibi
 
 ** Deuteronomy 19:14
 
-Non assumes, et transferes terminos proximi tui, quos fixerunt priores in possessione tua, quam Dominus Deus tuus dabit tibi in terra quam acceperis possidendam.  <div eID="gen773" type="x-p"/>
+Non assumes, et transferes terminos proximi tui, quos fixerunt priores in possessione tua, quam Dominus Deus tuus dabit tibi in terra quam acceperis possidendam.  
 
 ** Deuteronomy 19:15
 
@@ -2174,7 +2174,7 @@ ut audientes ceteri timorem habeant, et nequaquam talia audeant facere.
 
 ** Deuteronomy 19:21
 
-Non misereberis ejus, sed animam pro anima, oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede exiges.  <chapter eID="Deut.19"/> <div eID="gen774" type="x-p"/>
+Non misereberis ejus, sed animam pro anima, oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede exiges.   
 
 * Deuteronomy 20
 
@@ -2212,7 +2212,7 @@ His dictis addent reliqua, et loquentur ad populum : Quis est homo formidolosus,
 
 ** Deuteronomy 20:9
 
-Cumque siluerint duces exercitus, et finem loquendi fecerint, unusquisque suos ad bellandum cuneos præparabit.  <div eID="gen775" type="x-p"/>
+Cumque siluerint duces exercitus, et finem loquendi fecerint, unusquisque suos ad bellandum cuneos præparabit.  
 
 ** Deuteronomy 20:10
 
@@ -2256,7 +2256,7 @@ Quando obsederis civitatem multo tempore, et munitionibus circumdederis ut expug
 
 ** Deuteronomy 20:20
 
-Si qua autem ligna non sunt pomifera, sed agrestia, et in ceteros apta usus, succide, et instrue machinas, donec capias civitatem, quæ contra te dimicat.  <chapter eID="Deut.20"/> <div eID="gen776" type="x-p"/>
+Si qua autem ligna non sunt pomifera, sed agrestia, et in ceteros apta usus, succide, et instrue machinas, donec capias civitatem, quæ contra te dimicat.   
 
 * Deuteronomy 21
 
@@ -2294,7 +2294,7 @@ propitius esto populo tuo Israël, quem redemisti, Domine, et ne reputes sanguin
 
 ** Deuteronomy 21:9
 
-tu autem alienus eris ab innocentis cruore, qui fusus est, cum feceris quod præcepit Dominus.  <div eID="gen777" type="x-p"/>
+tu autem alienus eris ab innocentis cruore, qui fusus est, cum feceris quod præcepit Dominus.  
 
 ** Deuteronomy 21:10
 
@@ -2314,7 +2314,7 @@ et deponet vestem, in qua capta est : sedensque in domo tua, flebit patrem et ma
 
 ** Deuteronomy 21:14
 
-Si autem postea non sederit animo tuo, dimittes eam liberam, nec vendere poteris pecunia, nec opprimere per potentiam : quia humiliasti eam.  <div eID="gen778" type="x-p"/>
+Si autem postea non sederit animo tuo, dimittes eam liberam, nec vendere poteris pecunia, nec opprimere per potentiam : quia humiliasti eam.  
 
 ** Deuteronomy 21:15
 
@@ -2326,7 +2326,7 @@ volueritque substantiam inter filios suos dividere, non poterit filium dilectæ 
 
 ** Deuteronomy 21:17
 
-sed filium odiosæ agnoscet primogenitum, dabitque ei de his quæ habuerit cuncta duplicia : iste est enim principium liberorum ejus, et huic debentur primogenita.  <div eID="gen779" type="x-p"/>
+sed filium odiosæ agnoscet primogenitum, dabitque ei de his quæ habuerit cuncta duplicia : iste est enim principium liberorum ejus, et huic debentur primogenita.  
 
 ** Deuteronomy 21:18
 
@@ -2342,7 +2342,7 @@ dicentque ad eos : Filius noster iste protervus et contumax est : monita nostra 
 
 ** Deuteronomy 21:21
 
-lapidibus eum obruet populus civitatis, et morietur, ut auferatis malum de medio vestri, et universus Israël audiens pertimescat.  <div eID="gen780" type="x-p"/>
+lapidibus eum obruet populus civitatis, et morietur, ut auferatis malum de medio vestri, et universus Israël audiens pertimescat.  
 
 ** Deuteronomy 21:22
 
@@ -2350,7 +2350,7 @@ Quando peccaverit homo quod morte plectendum est, et adjudicatus morti appensus 
 
 ** Deuteronomy 21:23
 
-non permanebit cadaver ejus in ligno, sed in eadem die sepelietur : quia maledictus a Deo est qui pendet in ligno : et nequaquam contaminabis terram tuam, quam Dominus Deus tuus dederit tibi in possessionem.  <chapter eID="Deut.21"/> <div eID="gen781" type="x-p"/>
+non permanebit cadaver ejus in ligno, sed in eadem die sepelietur : quia maledictus a Deo est qui pendet in ligno : et nequaquam contaminabis terram tuam, quam Dominus Deus tuus dederit tibi in possessionem.   
 
 * Deuteronomy 22
 
@@ -2368,7 +2368,7 @@ Similiter facies de asino, et de vestimento, et de omni re fratris tui, quæ per
 
 ** Deuteronomy 22:4
 
-Si videris asinum fratris tui aut bovem cecidisse in via, non despicies, sed sublevabis cum eo.  <div eID="gen782" type="x-p"/>
+Si videris asinum fratris tui aut bovem cecidisse in via, non despicies, sed sublevabis cum eo.  
 
 ** Deuteronomy 22:5
 
@@ -2400,7 +2400,7 @@ Non indueris vestimento, quod ex lana linoque contextum est.
 
 ** Deuteronomy 22:12
 
-Funiculos in fimbriis facies per quatuor angulos pallii tui, quo operieris.  <div eID="gen783" type="x-p"/>
+Funiculos in fimbriis facies per quatuor angulos pallii tui, quo operieris.  
 
 ** Deuteronomy 22:13
 
@@ -2440,7 +2440,7 @@ ejicient eam extra fores domus patris sui, et lapidibus obruent viri civitatis i
 
 ** Deuteronomy 22:22
 
-Si dormierit vir cum uxore alterius, uterque morietur, id est, adulter et adultera : et auferes malum de Israël.  <div eID="gen784" type="x-p"/>
+Si dormierit vir cum uxore alterius, uterque morietur, id est, adulter et adultera : et auferes malum de Israël.  
 
 ** Deuteronomy 22:23
 
@@ -2472,7 +2472,7 @@ dabit qui dormivit cum ea, patri puellæ quinquaginta siclos argenti, et habebit
 
 ** Deuteronomy 22:30
 
-Non accipiet homo uxorem patris sui, nec revelabit operimentum ejus.  <chapter eID="Deut.22"/> <div eID="gen785" type="x-p"/>
+Non accipiet homo uxorem patris sui, nec revelabit operimentum ejus.   
 
 * Deuteronomy 23
 
@@ -2506,7 +2506,7 @@ Non abominaberis Idumæum, quia frater tuus est : nec Ægyptium, quia advena fui
 
 ** Deuteronomy 23:8
 
-Qui nati fuerint ex eis, tertia generatione intrabunt in ecclesiam Domini.  <div eID="gen786" type="x-p"/>
+Qui nati fuerint ex eis, tertia generatione intrabunt in ecclesiam Domini.  
 
 ** Deuteronomy 23:9
 
@@ -2530,7 +2530,7 @@ gerens paxillum in balteo : cumque sederis, fodies per circuitum, et egesta humo
 
 ** Deuteronomy 23:14
 
-quo revelatus es : Dominus enim Deus tuus ambulat in medio castrorum, ut eruat te, et tradat tibi inimicos tuos : et sint castra tua sancta, et nihil in eis appareat fœditatis, ne derelinquat te.  <div eID="gen787" type="x-p"/>
+quo revelatus es : Dominus enim Deus tuus ambulat in medio castrorum, ut eruat te, et tradat tibi inimicos tuos : et sint castra tua sancta, et nihil in eis appareat fœditatis, ne derelinquat te.  
 
 ** Deuteronomy 23:15
 
@@ -2574,7 +2574,7 @@ Ingressus vineam proximi tui, comede uvas, quantum tibi placuerit : foras autem 
 
 ** Deuteronomy 23:25
 
-Si intraveris in segetem amici tui, franges spicas, et manu conteres : falce autem non metes.  <chapter eID="Deut.23"/> <div eID="gen788" type="x-p"/>
+Si intraveris in segetem amici tui, franges spicas, et manu conteres : falce autem non metes.   
 
 * Deuteronomy 24
 
@@ -2592,7 +2592,7 @@ et ille quoque oderit eam, dederitque ei libellum repudii, et dimiserit de domo 
 
 ** Deuteronomy 24:4
 
-non poterit prior maritus recipere eam in uxorem : quia polluta est, et abominabilis facta est coram Domino : ne peccare facias terram tuam, quam Dominus Deus tuus tradiderit tibi possidendam.  <div eID="gen789" type="x-p"/>
+non poterit prior maritus recipere eam in uxorem : quia polluta est, et abominabilis facta est coram Domino : ne peccare facias terram tuam, quam Dominus Deus tuus tradiderit tibi possidendam.  
 
 ** Deuteronomy 24:5
 
@@ -2640,7 +2640,7 @@ sed eadem die reddes ei pretium laboris sui ante solis occasum, quia pauper est,
 
 ** Deuteronomy 24:16
 
-Non occidentur patres pro filiis, nec filii pro patribus, sed unusquisque pro peccato suo morietur.  <div eID="gen790" type="x-p"/>
+Non occidentur patres pro filiis, nec filii pro patribus, sed unusquisque pro peccato suo morietur.  
 
 ** Deuteronomy 24:17
 
@@ -2664,7 +2664,7 @@ Si vindemiaveris vineam tuam, non colliges remanentes racemos : sed cedent in us
 
 ** Deuteronomy 24:22
 
-Memento quod et tu servieris in Ægypto, et idcirco præcipio tibi ut facias hanc rem.  <chapter eID="Deut.24"/> <div eID="gen791" type="x-p"/>
+Memento quod et tu servieris in Ægypto, et idcirco præcipio tibi ut facias hanc rem.   
 
 * Deuteronomy 25
 
@@ -2682,7 +2682,7 @@ ita dumtaxat, ut quadragenarium numerum non excedant : ne fœde laceratus ante o
 
 ** Deuteronomy 25:4
 
-Non ligabis os bovis terentis in area fruges tuas.  <div eID="gen792" type="x-p"/>
+Non ligabis os bovis terentis in area fruges tuas.  
 
 ** Deuteronomy 25:5
 
@@ -2706,7 +2706,7 @@ accedet mulier ad eum coram senioribus, et tollet calceamentum de pede ejus, spu
 
 ** Deuteronomy 25:10
 
-Et vocabitur nomen illius in Israël, Domus discalceati.  <div eID="gen793" type="x-p"/>
+Et vocabitur nomen illius in Israël, Domus discalceati.  
 
 ** Deuteronomy 25:11
 
@@ -2714,7 +2714,7 @@ Si habuerint inter se jurgium viri duo, et unus contra alterum rixari cœperit, 
 
 ** Deuteronomy 25:12
 
-abscides manum illius, nec flecteris super eam ulla misericordia.  <div eID="gen794" type="x-p"/>
+abscides manum illius, nec flecteris super eam ulla misericordia.  
 
 ** Deuteronomy 25:13
 
@@ -2730,7 +2730,7 @@ Pondus habebis justum et verum, et modius æqualis et verus erit tibi : ut multo
 
 ** Deuteronomy 25:16
 
-Abominatur enim Dominus tuus eum qui facit hæc, et aversatur omnem injustitiam.  <div eID="gen795" type="x-p"/>
+Abominatur enim Dominus tuus eum qui facit hæc, et aversatur omnem injustitiam.  
 
 ** Deuteronomy 25:17
 
@@ -2742,7 +2742,7 @@ quomodo occurrerit tibi, et extremos agminis tui, qui lassi residebant, cecideri
 
 ** Deuteronomy 25:19
 
-Cum ergo Dominus Deus tuus dederit tibi requiem, et subjecerit cunctas per circuitum nationes in terra, quam tibi pollicitus est : delebis nomen ejus sub cælo. Cave ne obliviscaris.  <chapter eID="Deut.25"/> <div eID="gen796" type="x-p"/>
+Cum ergo Dominus Deus tuus dederit tibi requiem, et subjecerit cunctas per circuitum nationes in terra, quam tibi pollicitus est : delebis nomen ejus sub cælo. Cave ne obliviscaris.   
 
 * Deuteronomy 26
 
@@ -2788,7 +2788,7 @@ Et idcirco nunc offero primitias frugum terræ, quam Dominus dedit mihi. Et dimi
 
 ** Deuteronomy 26:11
 
-Et epulaberis in omnibus bonis, quæ Dominus Deus tuus dederit tibi et domui tuæ, tu et Levites, et advena qui tecum est.  <div eID="gen797" type="x-p"/>
+Et epulaberis in omnibus bonis, quæ Dominus Deus tuus dederit tibi et domui tuæ, tu et Levites, et advena qui tecum est.  
 
 ** Deuteronomy 26:12
 
@@ -2804,7 +2804,7 @@ Non comedi ex eis in luctu meo, nec separavi ea in qualibet immunditia, nec expe
 
 ** Deuteronomy 26:15
 
-Respice de sanctuario tuo, et de excelso cælorum habitaculo, et benedic populo tuo Israël, et terræ, quam dedisti nobis, sicut jurasti patribus nostris, terræ lacte et melle mananti.  <div eID="gen798" type="x-p"/>
+Respice de sanctuario tuo, et de excelso cælorum habitaculo, et benedic populo tuo Israël, et terræ, quam dedisti nobis, sicut jurasti patribus nostris, terræ lacte et melle mananti.  
 
 ** Deuteronomy 26:16
 
@@ -2820,7 +2820,7 @@ Et Dominus elegit te hodie ut sis ei populus peculiaris, sicut locutus est tibi,
 
 ** Deuteronomy 26:19
 
-et faciat te excelsiorem cunctis gentibus quas creavit, in laudem, et nomen, et gloriam suam : ut sis populus sanctus Domini Dei tui, sicut locutus est.  <chapter eID="Deut.26"/> <div eID="gen799" type="x-p"/>
+et faciat te excelsiorem cunctis gentibus quas creavit, in laudem, et nomen, et gloriam suam : ut sis populus sanctus Domini Dei tui, sicut locutus est.   
 
 * Deuteronomy 27
 
@@ -2862,7 +2862,7 @@ Dixeruntque Moyses et sacerdotes Levitici generis ad omnem Israëlem : Attende, 
 
 ** Deuteronomy 27:10
 
-audies vocem ejus, et facies mandata atque justitias, quas ego præcipio tibi.  <div eID="gen800" type="x-p"/>
+audies vocem ejus, et facies mandata atque justitias, quas ego præcipio tibi.  
 
 ** Deuteronomy 27:11
 
@@ -2926,7 +2926,7 @@ Maledictus qui accipit munera, ut percutiat animam sanguinis innocentis : et dic
 
 ** Deuteronomy 27:26
 
-Maledictus qui non permanet in sermonibus legis hujus, nec eos opere perficit : et dicet omnis populus : Amen.  <chapter eID="Deut.27"/> <div eID="gen801" type="x-p"/>
+Maledictus qui non permanet in sermonibus legis hujus, nec eos opere perficit : et dicet omnis populus : Amen.   
 
 * Deuteronomy 28
 
@@ -2984,7 +2984,7 @@ Constituet te Dominus in caput, et non in caudam : et eris semper supra, et non 
 
 ** Deuteronomy 28:14
 
-ac non declinaveris ab eis nec ad dexteram, nec ad sinistram, nec secutus fueris deos alienos, neque colueris eos.  <div eID="gen802" type="x-p"/>
+ac non declinaveris ab eis nec ad dexteram, nec ad sinistram, nec secutus fueris deos alienos, neque colueris eos.  
 
 ** Deuteronomy 28:15
 
@@ -3012,7 +3012,7 @@ Mittet Dominus super te famem et esuriem, et increpationem in omnia opera tua, q
 
 ** Deuteronomy 28:21
 
-Adjungat tibi Dominus pestilentiam, donec consumat te de terra ad quam ingredieris possidendam.  <div eID="gen803" type="x-p"/>
+Adjungat tibi Dominus pestilentiam, donec consumat te de terra ad quam ingredieris possidendam.  
 
 ** Deuteronomy 28:22
 
@@ -3120,7 +3120,7 @@ eo quod non servieris Domino Deo tuo in gaudio, cordisque lætitia, propter reru
 
 ** Deuteronomy 28:48
 
-Servies inimico tuo, quem immittet tibi Dominus, in fame, et siti, et nuditate, et omni penuria : et ponet jugum ferreum super cervicem tuam, donec te conterat.  <div eID="gen804" type="x-p"/>
+Servies inimico tuo, quem immittet tibi Dominus, in fame, et siti, et nuditate, et omni penuria : et ponet jugum ferreum super cervicem tuam, donec te conterat.  
 
 ** Deuteronomy 28:49
 
@@ -3180,7 +3180,7 @@ et remanebitis pauci numero, qui prius eratis sicut astra cæli præ multitudine
 
 ** Deuteronomy 28:63
 
-Et sicut ante lætatus est Dominus super vos, bene vobis faciens, vosque multiplicans : sic lætabitur disperdens vos atque subvertens, ut auferamini de terra, ad quam ingredieris possidendam.  <div eID="gen805" type="x-p"/>
+Et sicut ante lætatus est Dominus super vos, bene vobis faciens, vosque multiplicans : sic lætabitur disperdens vos atque subvertens, ut auferamini de terra, ad quam ingredieris possidendam.  
 
 ** Deuteronomy 28:64
 
@@ -3200,13 +3200,13 @@ Mane dices : Quis mihi det vesperum ? et vespere : Quis mihi det mane ? propter 
 
 ** Deuteronomy 28:68
 
-Reducet te Dominus classibus in Ægyptum per viam de qua dixit tibi ut eam amplius non videres. Ibi venderis inimicis tuis in servos et ancillas, et non erit qui emat.  <chapter eID="Deut.28"/> <div eID="gen806" type="x-p"/>
+Reducet te Dominus classibus in Ægyptum per viam de qua dixit tibi ut eam amplius non videres. Ibi venderis inimicis tuis in servos et ancillas, et non erit qui emat.   
 
 * Deuteronomy 29
 
 ** Deuteronomy 29:1
 
-Hæc sunt verba fœderis quod præcepit Dominus Moysi ut feriret cum filiis Israël in terra Moab : præter illud fœdus, quod cum eis pepigit in Horeb.  <div eID="gen807" type="x-p"/>
+Hæc sunt verba fœderis quod præcepit Dominus Moysi ut feriret cum filiis Israël in terra Moab : præter illud fœdus, quod cum eis pepigit in Horeb.  
 
 ** Deuteronomy 29:2
 
@@ -3238,7 +3238,7 @@ et tulimus terram eorum, ac tradidimus possidendam Ruben et Gad, et dimidiæ tri
 
 ** Deuteronomy 29:9
 
-Custodite ergo verba pacti hujus, et implete ea : ut intelligatis universa quæ facitis.  <div eID="gen808" type="x-p"/>
+Custodite ergo verba pacti hujus, et implete ea : ut intelligatis universa quæ facitis.  
 
 ** Deuteronomy 29:10
 
@@ -3270,7 +3270,7 @@ Vos enim nostis quomodo habitaverimus in terra Ægypti, et quomodo transierimus 
 
 ** Deuteronomy 29:17
 
-vidistis abominationes et sordes, id est, idola eorum, lignum et lapidem, argentum et aurum, quæ colebant.  <div eID="gen809" type="x-p"/>
+vidistis abominationes et sordes, id est, idola eorum, lignum et lapidem, argentum et aurum, quæ colebant.  
 
 ** Deuteronomy 29:18
 
@@ -3286,7 +3286,7 @@ et Dominus non ignoscat ei : sed tunc quam maxime furor ejus fumet, et zelus con
 
 ** Deuteronomy 29:21
 
-et consumat eum in perditionem ex omnibus tribubus Israël, juxta maledictiones, quæ in libro legis hujus ac fœderis continentur.  <div eID="gen810" type="x-p"/>
+et consumat eum in perditionem ex omnibus tribubus Israël, juxta maledictiones, quæ in libro legis hujus ac fœderis continentur.  
 
 ** Deuteronomy 29:22
 
@@ -3318,7 +3318,7 @@ et ejecit eos de terra sua in ira et in furore, et in indignatione maxima, proje
 
 ** Deuteronomy 29:29
 
-Abscondita, Domino Deo nostro ; quæ manifesta sunt, nobis et filiis nostris usque in sempiternum, ut faciamus universa verba legis hujus.  <chapter eID="Deut.29"/> <div eID="gen811" type="x-p"/>
+Abscondita, Domino Deo nostro ; quæ manifesta sunt, nobis et filiis nostris usque in sempiternum, ut faciamus universa verba legis hujus.   
 
 * Deuteronomy 30
 
@@ -3360,7 +3360,7 @@ et abundare te faciet Dominus Deus tuus in cunctis operibus manuum tuarum, in so
 
 ** Deuteronomy 30:10
 
-si tamen audieris vocem Domini Dei tui, et custodieris præcepta ejus et cæremonias, quæ in hac lege conscripta sunt : et revertaris ad Dominum Deum tuum in toto corde tuo, et in tota anima tua.  <div eID="gen812" type="x-p"/>
+si tamen audieris vocem Domini Dei tui, et custodieris præcepta ejus et cæremonias, quæ in hac lege conscripta sunt : et revertaris ad Dominum Deum tuum in toto corde tuo, et in tota anima tua.  
 
 ** Deuteronomy 30:11
 
@@ -3400,7 +3400,7 @@ Testes invoco hodie cælum et terram, quod proposuerim vobis vitam et mortem, be
 
 ** Deuteronomy 30:20
 
-et diligas Dominum Deum tuum, atque obedias voci ejus, et illi adhæreas (ipse est enim vita tua, et longitudo dierum tuorum), ut habites in terra, pro qua juravit Dominus patribus tuis, Abraham, Isaac, et Jacob, ut daret eam illis.  <chapter eID="Deut.30"/> <div eID="gen813" type="x-p"/>
+et diligas Dominum Deum tuum, atque obedias voci ejus, et illi adhæreas (ipse est enim vita tua, et longitudo dierum tuorum), ut habites in terra, pro qua juravit Dominus patribus tuis, Abraham, Isaac, et Jacob, ut daret eam illis.   
 
 * Deuteronomy 31
 
@@ -3426,7 +3426,7 @@ Cum ergo et hos tradiderit vobis, similiter facietis eis, sicut præcepi vobis.
 
 ** Deuteronomy 31:6
 
-Viriliter agite, et confortamini : nolite timere, nec paveatis ad conspectum eorum : quia Dominus Deus tuus ipse est ductor tuus, et non dimittet, nec derelinquet te.  <div eID="gen814" type="x-p"/>
+Viriliter agite, et confortamini : nolite timere, nec paveatis ad conspectum eorum : quia Dominus Deus tuus ipse est ductor tuus, et non dimittet, nec derelinquet te.  
 
 ** Deuteronomy 31:7
 
@@ -3434,7 +3434,7 @@ Vocavitque Moyses Josue, et dixit ei coram omni Israël : Confortare, et esto ro
 
 ** Deuteronomy 31:8
 
-Et Dominus qui ductor est vester, ipse erit tecum : non dimittet, nec derelinquet te : noli timere, nec paveas.  <div eID="gen815" type="x-p"/>
+Et Dominus qui ductor est vester, ipse erit tecum : non dimittet, nec derelinquet te : noli timere, nec paveas.  
 
 ** Deuteronomy 31:9
 
@@ -3454,7 +3454,7 @@ et in unum omni populo congregato, tam viris quam mulieribus, parvulis, et adven
 
 ** Deuteronomy 31:13
 
-Filii quoque eorum qui nunc ignorant, ut audire possint, et timeant Dominum Deum suum cunctis diebus quibus versantur in terra, ad quam vos, Jordane transmisso, pergitis obtinendam.  <div eID="gen816" type="x-p"/>
+Filii quoque eorum qui nunc ignorant, ut audire possint, et timeant Dominum Deum suum cunctis diebus quibus versantur in terra, ad quam vos, Jordane transmisso, pergitis obtinendam.  
 
 ** Deuteronomy 31:14
 
@@ -3474,7 +3474,7 @@ Et irascetur furor meus contra eum in die illo : et derelinquam eum, et absconda
 
 ** Deuteronomy 31:18
 
-Ego autem abscondam, et celabo faciem meam in die illo propter omnia mala, quæ fecit, quia secutus est deos alienos.  <div eID="gen817" type="x-p"/>
+Ego autem abscondam, et celabo faciem meam in die illo propter omnia mala, quæ fecit, quia secutus est deos alienos.  
 
 ** Deuteronomy 31:19
 
@@ -3494,7 +3494,7 @@ Scripsit ergo Moyses canticum, et docuit filios Israël.
 
 ** Deuteronomy 31:23
 
-Præcepitque Dominus Josue filio Nun, et ait : Confortare, et esto robustus : tu enim introduces filios Israël in terram, quam pollicitus sum, et ego ero tecum.  <div eID="gen818" type="x-p"/>
+Præcepitque Dominus Josue filio Nun, et ait : Confortare, et esto robustus : tu enim introduces filios Israël in terram, quam pollicitus sum, et ego ero tecum.  
 
 ** Deuteronomy 31:24
 
@@ -3518,185 +3518,185 @@ Congregate ad me omnes majores natu per tribus vestras, atque doctores, et loqua
 
 ** Deuteronomy 31:29
 
-Novi enim quod post mortem meam inique agetis, et declinabitis cito de via, quam præcepi vobis : et occurrent vobis mala in extremo tempore, quando feceritis malum in conspectu Domini, ut irritetis eum per opera manuum vestrarum.  <div eID="gen819" type="x-p"/>
+Novi enim quod post mortem meam inique agetis, et declinabitis cito de via, quam præcepi vobis : et occurrent vobis mala in extremo tempore, quando feceritis malum in conspectu Domini, ut irritetis eum per opera manuum vestrarum.  
 
 ** Deuteronomy 31:30
 
-Locutus est ergo Moyses, audiente universo cœtu Israël, verba carminis hujus, et ad finem usque complevit.  <chapter eID="Deut.31"/>
+Locutus est ergo Moyses, audiente universo cœtu Israël, verba carminis hujus, et ad finem usque complevit.  
 
 * Deuteronomy 32
 
 ** Deuteronomy 32:1
 
-Audite, cæli, quæ loquor : <l eID="gen822" level="1"/> <l level="1" sID="gen823"/>audiat terra verba oris mei. <l eID="gen823" level="1"/>
+Audite, cæli, quæ loquor :  audiat terra verba oris mei. 
 
 ** Deuteronomy 32:2
 
-Concrescat ut pluvia doctrina mea, <l eID="gen824" level="1"/> <l level="1" sID="gen825"/>fluat ut ros eloquium meum, <l eID="gen825" level="1"/> <l level="1" sID="gen826"/>quasi imber super herbam, <l eID="gen826" level="1"/> <l level="1" sID="gen827"/>et quasi stillæ super gramina. <l eID="gen827" level="1"/>
+Concrescat ut pluvia doctrina mea,  fluat ut ros eloquium meum,  quasi imber super herbam,  et quasi stillæ super gramina. 
 
 ** Deuteronomy 32:3
 
-Quia nomen Domini invocabo : <l eID="gen828" level="1"/> <l level="1" sID="gen829"/>date magnificentiam Deo nostro. <l eID="gen829" level="1"/>
+Quia nomen Domini invocabo :  date magnificentiam Deo nostro. 
 
 ** Deuteronomy 32:4
 
-Dei perfecta sunt opera, <l eID="gen830" level="1"/> <l level="1" sID="gen831"/>et omnes viæ ejus judicia : <l eID="gen831" level="1"/> <l level="1" sID="gen832"/>Deus fidelis, et absque ulla iniquitate, <l eID="gen832" level="1"/> <l level="1" sID="gen833"/>justus et rectus. <l eID="gen833" level="1"/>
+Dei perfecta sunt opera,  et omnes viæ ejus judicia :  Deus fidelis, et absque ulla iniquitate,  justus et rectus. 
 
 ** Deuteronomy 32:5
 
-Peccaverunt ei, et non filii ejus in sordibus : <l eID="gen834" level="1"/> <l level="1" sID="gen835"/>generatio prava atque perversa. <l eID="gen835" level="1"/>
+Peccaverunt ei, et non filii ejus in sordibus :  generatio prava atque perversa. 
 
 ** Deuteronomy 32:6
 
-Hæccine reddis Domino, <l eID="gen836" level="1"/> <l level="1" sID="gen837"/>popule stulte et insipiens ? <l eID="gen837" level="1"/> <l level="1" sID="gen838"/>numquid non ipse est pater tuus, <l eID="gen838" level="1"/> <l level="1" sID="gen839"/>qui possedit te, et fecit, et creavit te ? <l eID="gen839" level="1"/>
+Hæccine reddis Domino,  popule stulte et insipiens ?  numquid non ipse est pater tuus,  qui possedit te, et fecit, et creavit te ? 
 
 ** Deuteronomy 32:7
 
-Memento dierum antiquorum, cogita generationes singulas : <l eID="gen840" level="1"/> <l level="1" sID="gen841"/>interroga patrem tuum, <l eID="gen841" level="1"/> <l level="1" sID="gen842"/>et annuntiabit tibi : <l eID="gen842" level="1"/> <l level="1" sID="gen843"/>majores tuos, et dicent tibi. <l eID="gen843" level="1"/>
+Memento dierum antiquorum, cogita generationes singulas :  interroga patrem tuum,  et annuntiabit tibi :  majores tuos, et dicent tibi. 
 
 ** Deuteronomy 32:8
 
-Quando dividebat Altissimus gentes, <l eID="gen844" level="1"/> <l level="1" sID="gen845"/>quando separabat filios Adam, <l eID="gen845" level="1"/> <l level="1" sID="gen846"/>constituit terminos populorum <l eID="gen846" level="1"/> <l level="1" sID="gen847"/>juxta numerum filiorum Israël. <l eID="gen847" level="1"/>
+Quando dividebat Altissimus gentes,  quando separabat filios Adam,  constituit terminos populorum  juxta numerum filiorum Israël. 
 
 ** Deuteronomy 32:9
 
-Pars autem Domini, populus ejus : <l eID="gen848" level="1"/> <l level="1" sID="gen849"/>Jacob funiculus hæreditatis ejus. <l eID="gen849" level="1"/>
+Pars autem Domini, populus ejus :  Jacob funiculus hæreditatis ejus. 
 
 ** Deuteronomy 32:10
 
-Invenit eum in terra deserta, <l eID="gen850" level="1"/> <l level="1" sID="gen851"/>in loco horroris, et vastæ solitudinis : <l eID="gen851" level="1"/> <l level="1" sID="gen852"/>circumduxit eum, et docuit : <l eID="gen852" level="1"/> <l level="1" sID="gen853"/>et custodivit quasi pupillam oculi sui. <l eID="gen853" level="1"/>
+Invenit eum in terra deserta,  in loco horroris, et vastæ solitudinis :  circumduxit eum, et docuit :  et custodivit quasi pupillam oculi sui. 
 
 ** Deuteronomy 32:11
 
-Sicut aquila provocans ad volandum pullos suos, <l eID="gen854" level="1"/> <l level="1" sID="gen855"/>et super eos volitans, <l eID="gen855" level="1"/> <l level="1" sID="gen856"/>expandit alas suas, et assumpsit eum, <l eID="gen856" level="1"/> <l level="1" sID="gen857"/>atque portavit in humeris suis. <l eID="gen857" level="1"/>
+Sicut aquila provocans ad volandum pullos suos,  et super eos volitans,  expandit alas suas, et assumpsit eum,  atque portavit in humeris suis. 
 
 ** Deuteronomy 32:12
 
-Dominus solus dux ejus fuit, <l eID="gen858" level="1"/> <l level="1" sID="gen859"/>et non erat cum eo deus alienus : <l eID="gen859" level="1"/>
+Dominus solus dux ejus fuit,  et non erat cum eo deus alienus : 
 
 ** Deuteronomy 32:13
 
-constituit eum super excelsam terram, <l eID="gen860" level="1"/> <l level="1" sID="gen861"/>ut comederet fructus agrorum : <l eID="gen861" level="1"/> <l level="1" sID="gen862"/>ut sugeret mel de petra, <l eID="gen862" level="1"/> <l level="1" sID="gen863"/>oleumque de saxo durissimo ; <l eID="gen863" level="1"/>
+constituit eum super excelsam terram,  ut comederet fructus agrorum :  ut sugeret mel de petra,  oleumque de saxo durissimo ; 
 
 ** Deuteronomy 32:14
 
-butyrum de armento, et lac de ovibus <l eID="gen864" level="1"/> <l level="1" sID="gen865"/>cum adipe agnorum, <l eID="gen865" level="1"/> <l level="1" sID="gen866"/>et arietum filiorum Basan : et hircos <l eID="gen866" level="1"/> <l level="1" sID="gen867"/>cum medulla tritici, <l eID="gen867" level="1"/> <l level="1" sID="gen868"/>et sanguinem uvæ biberet meracissimum. <l eID="gen868" level="1"/>
+butyrum de armento, et lac de ovibus  cum adipe agnorum,  et arietum filiorum Basan : et hircos  cum medulla tritici,  et sanguinem uvæ biberet meracissimum. 
 
 ** Deuteronomy 32:15
 
-Incrassatus est dilectus, et recalcitravit : <l eID="gen869" level="1"/> <l level="1" sID="gen870"/>incrassatus, impinguatus, dilatatus, <l eID="gen870" level="1"/> <l level="1" sID="gen871"/>dereliquit Deum factorem suum, <l eID="gen871" level="1"/> <l level="1" sID="gen872"/>et recessit a Deo salutari suo. <l eID="gen872" level="1"/>
+Incrassatus est dilectus, et recalcitravit :  incrassatus, impinguatus, dilatatus,  dereliquit Deum factorem suum,  et recessit a Deo salutari suo. 
 
 ** Deuteronomy 32:16
 
-Provocaverunt eum in diis alienis, <l eID="gen873" level="1"/> <l level="1" sID="gen874"/>et in abominationibus ad iracundiam concitaverunt. <l eID="gen874" level="1"/>
+Provocaverunt eum in diis alienis,  et in abominationibus ad iracundiam concitaverunt. 
 
 ** Deuteronomy 32:17
 
-Immolaverunt dæmoniis et non Deo, <l eID="gen875" level="1"/> <l level="1" sID="gen876"/>diis quos ignorabant : <l eID="gen876" level="1"/> <l level="1" sID="gen877"/>novi recentesque venerunt, <l eID="gen877" level="1"/> <l level="1" sID="gen878"/>quos non coluerunt patres eorum : <l eID="gen878" level="1"/>
+Immolaverunt dæmoniis et non Deo,  diis quos ignorabant :  novi recentesque venerunt,  quos non coluerunt patres eorum : 
 
 ** Deuteronomy 32:18
 
-Deum qui te genuit dereliquisti, <l eID="gen879" level="1"/> <l level="1" sID="gen880"/>et oblitus es Domini creatoris tui. <l eID="gen880" level="1"/>
+Deum qui te genuit dereliquisti,  et oblitus es Domini creatoris tui. 
 
 ** Deuteronomy 32:19
 
-Vidit Dominus, et ad iracundiam concitatus est : <l eID="gen881" level="1"/> <l level="1" sID="gen882"/>quia provocaverunt eum filii sui et filiæ. <l eID="gen882" level="1"/>
+Vidit Dominus, et ad iracundiam concitatus est :  quia provocaverunt eum filii sui et filiæ. 
 
 ** Deuteronomy 32:20
 
-Et ait : Abscondam faciem meam ab eis, <l eID="gen883" level="1"/> <l level="1" sID="gen884"/>et considerabo novissima eorum : <l eID="gen884" level="1"/> <l level="1" sID="gen885"/>generatio enim perversa est, <l eID="gen885" level="1"/> <l level="1" sID="gen886"/>et infideles filii. <l eID="gen886" level="1"/>
+Et ait : Abscondam faciem meam ab eis,  et considerabo novissima eorum :  generatio enim perversa est,  et infideles filii. 
 
 ** Deuteronomy 32:21
 
-Ipsi me provocaverunt in eo qui non erat Deus, <l eID="gen887" level="1"/> <l level="1" sID="gen888"/>et irritaverunt in vanitatibus suis : <l eID="gen888" level="1"/> <l level="1" sID="gen889"/>et ego provocabo eos in eo qui non est populus, <l eID="gen889" level="1"/> <l level="1" sID="gen890"/>et in gente stulta irritabo illos. <l eID="gen890" level="1"/>
+Ipsi me provocaverunt in eo qui non erat Deus,  et irritaverunt in vanitatibus suis :  et ego provocabo eos in eo qui non est populus,  et in gente stulta irritabo illos. 
 
 ** Deuteronomy 32:22
 
-Ignis succensus est in furore meo, <l eID="gen891" level="1"/> <l level="1" sID="gen892"/>et ardebit usque ad inferni novissima : <l eID="gen892" level="1"/> <l level="1" sID="gen893"/>devorabitque terram cum germine suo, <l eID="gen893" level="1"/> <l level="1" sID="gen894"/>et montium fundamenta comburet. <l eID="gen894" level="1"/>
+Ignis succensus est in furore meo,  et ardebit usque ad inferni novissima :  devorabitque terram cum germine suo,  et montium fundamenta comburet. 
 
 ** Deuteronomy 32:23
 
-Congregabo super eos mala, <l eID="gen895" level="1"/> <l level="1" sID="gen896"/>et sagittas meas complebo in eis. <l eID="gen896" level="1"/>
+Congregabo super eos mala,  et sagittas meas complebo in eis. 
 
 ** Deuteronomy 32:24
 
-Consumentur fame, <l eID="gen897" level="1"/> <l level="1" sID="gen898"/>et devorabunt eos aves morsu amarissimo : <l eID="gen898" level="1"/> <l level="1" sID="gen899"/>dentes bestiarum immittam in eos, <l eID="gen899" level="1"/> <l level="1" sID="gen900"/>cum furore trahentium super terram, atque serpentium. <l eID="gen900" level="1"/>
+Consumentur fame,  et devorabunt eos aves morsu amarissimo :  dentes bestiarum immittam in eos,  cum furore trahentium super terram, atque serpentium. 
 
 ** Deuteronomy 32:25
 
-Foris vastabit eos gladius, <l eID="gen901" level="1"/> <l level="1" sID="gen902"/>et intus pavor, <l eID="gen902" level="1"/> <l level="1" sID="gen903"/>juvenem simul ac virginem, <l eID="gen903" level="1"/> <l level="1" sID="gen904"/>lactentem cum homine sene. <l eID="gen904" level="1"/>
+Foris vastabit eos gladius,  et intus pavor,  juvenem simul ac virginem,  lactentem cum homine sene. 
 
 ** Deuteronomy 32:26
 
-Dixi : Ubinam sunt ? <l eID="gen905" level="1"/> <l level="1" sID="gen906"/>cessare faciam ex hominibus memoriam eorum. <l eID="gen906" level="1"/>
+Dixi : Ubinam sunt ?  cessare faciam ex hominibus memoriam eorum. 
 
 ** Deuteronomy 32:27
 
-Sed propter iram inimicorum distuli : <l eID="gen907" level="1"/> <l level="1" sID="gen908"/>ne forte superbirent hostes eorum, <l eID="gen908" level="1"/> <l level="1" sID="gen909"/>et dicerent : Manus nostra excelsa, <l eID="gen909" level="1"/> <l level="1" sID="gen910"/>et non Dominus, fecit hæc omnia. <l eID="gen910" level="1"/>
+Sed propter iram inimicorum distuli :  ne forte superbirent hostes eorum,  et dicerent : Manus nostra excelsa,  et non Dominus, fecit hæc omnia. 
 
 ** Deuteronomy 32:28
 
-Gens absque consilio est, <l eID="gen911" level="1"/> <l level="1" sID="gen912"/>et sine prudentia. <l eID="gen912" level="1"/>
+Gens absque consilio est,  et sine prudentia. 
 
 ** Deuteronomy 32:29
 
-Utinam saperent, et intelligerent, <l eID="gen913" level="1"/> <l level="1" sID="gen914"/>ac novissima providerent. <l eID="gen914" level="1"/>
+Utinam saperent, et intelligerent,  ac novissima providerent. 
 
 ** Deuteronomy 32:30
 
-Quomodo persequatur unus mille, <l eID="gen915" level="1"/> <l level="1" sID="gen916"/>et duo fugent decem millia ? <l eID="gen916" level="1"/> <l level="1" sID="gen917"/>nonne ideo, quia Deus suus vendidit eos, <l eID="gen917" level="1"/> <l level="1" sID="gen918"/>et Dominus conclusit illos ? <l eID="gen918" level="1"/>
+Quomodo persequatur unus mille,  et duo fugent decem millia ?  nonne ideo, quia Deus suus vendidit eos,  et Dominus conclusit illos ? 
 
 ** Deuteronomy 32:31
 
-Non enim est Deus noster ut dii eorum : <l eID="gen919" level="1"/> <l level="1" sID="gen920"/>et inimici nostri sunt judices. <l eID="gen920" level="1"/>
+Non enim est Deus noster ut dii eorum :  et inimici nostri sunt judices. 
 
 ** Deuteronomy 32:32
 
-De vinea Sodomorum, vinea eorum, <l eID="gen921" level="1"/> <l level="1" sID="gen922"/>et de suburbanis Gomorrhæ : <l eID="gen922" level="1"/> <l level="1" sID="gen923"/>uva eorum, uva fellis, <l eID="gen923" level="1"/> <l level="1" sID="gen924"/>et botri amarissimi. <l eID="gen924" level="1"/>
+De vinea Sodomorum, vinea eorum,  et de suburbanis Gomorrhæ :  uva eorum, uva fellis,  et botri amarissimi. 
 
 ** Deuteronomy 32:33
 
-Fel draconum vinum eorum, <l eID="gen925" level="1"/> <l level="1" sID="gen926"/>et venenum aspidum insanabile. <l eID="gen926" level="1"/>
+Fel draconum vinum eorum,  et venenum aspidum insanabile. 
 
 ** Deuteronomy 32:34
 
-Nonne hæc condita sunt apud me, <l eID="gen927" level="1"/> <l level="1" sID="gen928"/>et signata in thesauris meis ? <l eID="gen928" level="1"/>
+Nonne hæc condita sunt apud me,  et signata in thesauris meis ? 
 
 ** Deuteronomy 32:35
 
-Mea est ultio, et ego retribuam in tempore, <l eID="gen929" level="1"/> <l level="1" sID="gen930"/>ut labatur pes eorum : <l eID="gen930" level="1"/> <l level="1" sID="gen931"/>juxta est dies perditionis, <l eID="gen931" level="1"/> <l level="1" sID="gen932"/>et adesse festinant tempora. <l eID="gen932" level="1"/>
+Mea est ultio, et ego retribuam in tempore,  ut labatur pes eorum :  juxta est dies perditionis,  et adesse festinant tempora. 
 
 ** Deuteronomy 32:36
 
-Judicabit Dominus populum suum, <l eID="gen933" level="1"/> <l level="1" sID="gen934"/>et in servis suis miserebitur : <l eID="gen934" level="1"/> <l level="1" sID="gen935"/>videbit quod infirmata sit manus, <l eID="gen935" level="1"/> <l level="1" sID="gen936"/>et clausi quoque defecerunt, <l eID="gen936" level="1"/> <l level="1" sID="gen937"/>residuique consumpti sunt. <l eID="gen937" level="1"/>
+Judicabit Dominus populum suum,  et in servis suis miserebitur :  videbit quod infirmata sit manus,  et clausi quoque defecerunt,  residuique consumpti sunt. 
 
 ** Deuteronomy 32:37
 
-Et dicet : Ubi sunt dii eorum, <l eID="gen938" level="1"/> <l level="1" sID="gen939"/>in quibus habebant fiduciam ? <l eID="gen939" level="1"/>
+Et dicet : Ubi sunt dii eorum,  in quibus habebant fiduciam ? 
 
 ** Deuteronomy 32:38
 
-de quorum victimis comedebant adipes, <l eID="gen940" level="1"/> <l level="1" sID="gen941"/>et bibebant vinum libaminum : <l eID="gen941" level="1"/> <l level="1" sID="gen942"/>surgant, et opitulentur vobis, <l eID="gen942" level="1"/> <l level="1" sID="gen943"/>et in necessitate vos protegant. <l eID="gen943" level="1"/>
+de quorum victimis comedebant adipes,  et bibebant vinum libaminum :  surgant, et opitulentur vobis,  et in necessitate vos protegant. 
 
 ** Deuteronomy 32:39
 
-Videte quod ego sim solus, <l eID="gen944" level="1"/> <l level="1" sID="gen945"/>et non sit alius deus præter me : <l eID="gen945" level="1"/> <l level="1" sID="gen946"/>ego occidam, et ego vivere faciam : <l eID="gen946" level="1"/> <l level="1" sID="gen947"/>percutiam, et ego sanabo, <l eID="gen947" level="1"/> <l level="1" sID="gen948"/>et non est qui de manu mea possit eruere. <l eID="gen948" level="1"/>
+Videte quod ego sim solus,  et non sit alius deus præter me :  ego occidam, et ego vivere faciam :  percutiam, et ego sanabo,  et non est qui de manu mea possit eruere. 
 
 ** Deuteronomy 32:40
 
-Levabo ad cælum manum meam, <l eID="gen949" level="1"/> <l level="1" sID="gen950"/>et dicam : Vivo ego in æternum. <l eID="gen950" level="1"/>
+Levabo ad cælum manum meam,  et dicam : Vivo ego in æternum. 
 
 ** Deuteronomy 32:41
 
-Si acuero ut fulgur gladium meum, <l eID="gen951" level="1"/> <l level="1" sID="gen952"/>et arripuerit judicium manus mea : <l eID="gen952" level="1"/> <l level="1" sID="gen953"/>reddam ultionem hostibus meis, <l eID="gen953" level="1"/> <l level="1" sID="gen954"/>et his qui oderunt me retribuam. <l eID="gen954" level="1"/>
+Si acuero ut fulgur gladium meum,  et arripuerit judicium manus mea :  reddam ultionem hostibus meis,  et his qui oderunt me retribuam. 
 
 ** Deuteronomy 32:42
 
-Inebriabo sagittas meas sanguine, <l eID="gen955" level="1"/> <l level="1" sID="gen956"/>et gladius meus devorabit carnes ; <l eID="gen956" level="1"/> <l level="1" sID="gen957"/>de cruore occisorum et de captivitate, <l eID="gen957" level="1"/> <l level="1" sID="gen958"/>nudati inimicorum capitis. <l eID="gen958" level="1"/>
+Inebriabo sagittas meas sanguine,  et gladius meus devorabit carnes ;  de cruore occisorum et de captivitate,  nudati inimicorum capitis. 
 
 ** Deuteronomy 32:43
 
-Laudate, gentes, populum ejus, <l eID="gen959" level="1"/> <l level="1" sID="gen960"/>quia sanguinem servorum suorum ulciscetur : <l eID="gen960" level="1"/> <l level="1" sID="gen961"/>et vindictam retribuet in hostes eorum, <l eID="gen961" level="1"/> <l level="1" sID="gen962"/>et propitius erit terræ populi sui. <l eID="gen962" level="1"/> <lg eID="gen821"/>
+Laudate, gentes, populum ejus,  quia sanguinem servorum suorum ulciscetur :  et vindictam retribuet in hostes eorum,  et propitius erit terræ populi sui.  
 
 ** Deuteronomy 32:44
 
@@ -3732,7 +3732,7 @@ quia prævaricati estis contra me in medio filiorum Israël ad aquas contradicti
 
 ** Deuteronomy 32:52
 
-E contra videbis terram, et non ingredieris in eam, quam ego dabo filiis Israël.  <chapter eID="Deut.32"/> <div eID="gen963" type="x-p"/>
+E contra videbis terram, et non ingredieris in eam, quam ego dabo filiis Israël.   
 
 * Deuteronomy 33
 
@@ -3742,115 +3742,115 @@ Hæc est benedictio, qua benedixit Moyses, homo Dei, filiis Israël ante mortem 
 
 ** Deuteronomy 33:2
 
-Et ait : <div eID="gen964" type="x-p"/> <lg sID="gen965"/> <l level="1" sID="gen966"/>Dominus de Sinai venit, <l eID="gen966" level="1"/> <l level="1" sID="gen967"/>et de Seir ortus est nobis : <l eID="gen967" level="1"/> <l level="1" sID="gen968"/>apparuit de monte Pharan, <l eID="gen968" level="1"/> <l level="1" sID="gen969"/>et cum eo sanctorum millia. <l eID="gen969" level="1"/> <l level="1" sID="gen970"/>In dextera ejus ignea lex. <l eID="gen970" level="1"/>
+Et ait :   Dominus de Sinai venit,  et de Seir ortus est nobis :  apparuit de monte Pharan,  et cum eo sanctorum millia.  In dextera ejus ignea lex. 
 
 ** Deuteronomy 33:3
 
-Dilexit populos, <l eID="gen971" level="1"/> <l level="1" sID="gen972"/>omnes sancti in manu illius sunt : <l eID="gen972" level="1"/> <l level="1" sID="gen973"/>et qui appropinquant pedibus ejus, <l eID="gen973" level="1"/> <l level="1" sID="gen974"/>accipient de doctrina illius. <l eID="gen974" level="1"/>
+Dilexit populos,  omnes sancti in manu illius sunt :  et qui appropinquant pedibus ejus,  accipient de doctrina illius. 
 
 ** Deuteronomy 33:4
 
-Legem præcepit nobis Moyses, <l eID="gen975" level="1"/> <l level="1" sID="gen976"/>hæreditatem multitudinis Jacob. <l eID="gen976" level="1"/>
+Legem præcepit nobis Moyses,  hæreditatem multitudinis Jacob. 
 
 ** Deuteronomy 33:5
 
-Erit apud rectissimum rex, <l eID="gen977" level="1"/> <l level="1" sID="gen978"/>congregatis principibus populi cum tribubus Israël. <l eID="gen978" level="1"/>
+Erit apud rectissimum rex,  congregatis principibus populi cum tribubus Israël. 
 
 ** Deuteronomy 33:6
 
-Vivat Ruben, et non moriatur, <l eID="gen979" level="1"/> <l level="1" sID="gen980"/>et sit parvus in numero.
+Vivat Ruben, et non moriatur,  et sit parvus in numero.
 
 ** Deuteronomy 33:7
 
-Hæc est Judæ benedictio : <l eID="gen980" level="1"/> <l level="1" sID="gen981"/>Audi, Domine, vocem Judæ, <l eID="gen981" level="1"/> <l level="1" sID="gen982"/>et ad populum suum introduc eum : <l eID="gen982" level="1"/> <l level="1" sID="gen983"/>manus ejus pugnabunt pro eo, <l eID="gen983" level="1"/> <l level="1" sID="gen984"/>et adjutor illius contra adversarios ejus erit.
+Hæc est Judæ benedictio :  Audi, Domine, vocem Judæ,  et ad populum suum introduc eum :  manus ejus pugnabunt pro eo,  et adjutor illius contra adversarios ejus erit.
 
 ** Deuteronomy 33:8
 
-Levi quoque ait : <l eID="gen984" level="1"/> <l level="1" sID="gen985"/>Perfectio tua, et doctrina tua viro sancto tuo, <l eID="gen985" level="1"/> <l level="1" sID="gen986"/>quem probasti in tentatione, <l eID="gen986" level="1"/> <l level="1" sID="gen987"/>et judicasti ad aquas contradictionis. <l eID="gen987" level="1"/>
+Levi quoque ait :  Perfectio tua, et doctrina tua viro sancto tuo,  quem probasti in tentatione,  et judicasti ad aquas contradictionis. 
 
 ** Deuteronomy 33:9
 
-Qui dixit patri suo et matri suæ : Nescio vos : <l eID="gen988" level="1"/> <l level="1" sID="gen989"/>et fratribus suis : Ignoro vos : <l eID="gen989" level="1"/> <l level="1" sID="gen990"/>et nescierunt filios suos. <l eID="gen990" level="1"/> <l level="1" sID="gen991"/>Hi custodierunt eloquium tuum, <l eID="gen991" level="1"/> <l level="1" sID="gen992"/>et pactum tuum servaverunt. <l eID="gen992" level="1"/>
+Qui dixit patri suo et matri suæ : Nescio vos :  et fratribus suis : Ignoro vos :  et nescierunt filios suos.  Hi custodierunt eloquium tuum,  et pactum tuum servaverunt. 
 
 ** Deuteronomy 33:10
 
-Judicia tua, o Jacob, <l eID="gen993" level="1"/> <l level="1" sID="gen994"/>et legem tuam, o Israël : <l eID="gen994" level="1"/> <l level="1" sID="gen995"/>ponent thymiama in furore tuo, <l eID="gen995" level="1"/> <l level="1" sID="gen996"/>et holocaustum super altare tuum. <l eID="gen996" level="1"/>
+Judicia tua, o Jacob,  et legem tuam, o Israël :  ponent thymiama in furore tuo,  et holocaustum super altare tuum. 
 
 ** Deuteronomy 33:11
 
-Benedic, Domine, fortitudini ejus : <l eID="gen997" level="1"/> <l level="1" sID="gen998"/>et opera manuum illius suscipe. <l eID="gen998" level="1"/> <l level="1" sID="gen999"/>Percute dorsa inimicorum ejus : <l eID="gen999" level="1"/> <l level="1" sID="gen1000"/>et qui oderunt eum, non consurgant.
+Benedic, Domine, fortitudini ejus :  et opera manuum illius suscipe.  Percute dorsa inimicorum ejus :  et qui oderunt eum, non consurgant.
 
 ** Deuteronomy 33:12
 
-Et Benjamin ait : <l eID="gen1000" level="1"/> <l level="1" sID="gen1001"/>Amantissimus Domini habitabit confidenter in eo : <l eID="gen1001" level="1"/> <l level="1" sID="gen1002"/>quasi in thalamo tota die morabitur, <l eID="gen1002" level="1"/> <l level="1" sID="gen1003"/>et inter humeros illius requiescet.
+Et Benjamin ait :  Amantissimus Domini habitabit confidenter in eo :  quasi in thalamo tota die morabitur,  et inter humeros illius requiescet.
 
 ** Deuteronomy 33:13
 
-Joseph quoque ait : <l eID="gen1003" level="1"/> <l level="1" sID="gen1004"/>De benedictione Domini terra ejus, <l eID="gen1004" level="1"/> <l level="1" sID="gen1005"/>de pomis cæli, et rore, atque abysso subjacente. <l eID="gen1005" level="1"/>
+Joseph quoque ait :  De benedictione Domini terra ejus,  de pomis cæli, et rore, atque abysso subjacente. 
 
 ** Deuteronomy 33:14
 
-De pomis fructuum solis ac lunæ, <l eID="gen1006" level="1"/>
+De pomis fructuum solis ac lunæ, 
 
 ** Deuteronomy 33:15
 
-de vertice antiquorum montium, <l eID="gen1007" level="1"/> <l level="1" sID="gen1008"/>de pomis collium æternorum : <l eID="gen1008" level="1"/>
+de vertice antiquorum montium,  de pomis collium æternorum : 
 
 ** Deuteronomy 33:16
 
-et de frugibus terræ, et de plenitudine ejus. <l eID="gen1009" level="1"/> <l level="1" sID="gen1010"/>Benedictio illius qui apparuit in rubo, <l eID="gen1010" level="1"/> <l level="1" sID="gen1011"/>veniat super caput Joseph, <l eID="gen1011" level="1"/> <l level="1" sID="gen1012"/>et super verticem nazaræi inter fratres suos. <l eID="gen1012" level="1"/>
+et de frugibus terræ, et de plenitudine ejus.  Benedictio illius qui apparuit in rubo,  veniat super caput Joseph,  et super verticem nazaræi inter fratres suos. 
 
 ** Deuteronomy 33:17
 
-Quasi primogeniti tauri pulchritudo ejus, <l eID="gen1013" level="1"/> <l level="1" sID="gen1014"/>cornua rhinocerotis cornua illius : <l eID="gen1014" level="1"/> <l level="1" sID="gen1015"/>in ipsis ventilabit gentes usque ad terminos terræ. <l eID="gen1015" level="1"/> <l level="1" sID="gen1016"/>Hæ sunt multitudines Ephraim : <l eID="gen1016" level="1"/> <l level="1" sID="gen1017"/>et hæc millia Manasse.
+Quasi primogeniti tauri pulchritudo ejus,  cornua rhinocerotis cornua illius :  in ipsis ventilabit gentes usque ad terminos terræ.  Hæ sunt multitudines Ephraim :  et hæc millia Manasse.
 
 ** Deuteronomy 33:18
 
-Et Zabulon ait : <l eID="gen1017" level="1"/> <l level="1" sID="gen1018"/>Lætare, Zabulon, in exitu tuo, <l eID="gen1018" level="1"/> <l level="1" sID="gen1019"/>et Issachar in tabernaculis tuis. <l eID="gen1019" level="1"/>
+Et Zabulon ait :  Lætare, Zabulon, in exitu tuo,  et Issachar in tabernaculis tuis. 
 
 ** Deuteronomy 33:19
 
-Populos vocabunt ad montem : <l eID="gen1020" level="1"/> <l level="1" sID="gen1021"/>ibi immolabunt victimas justitiæ. <l eID="gen1021" level="1"/> <l level="1" sID="gen1022"/>Qui inundationem maris quasi lac sugent, <l eID="gen1022" level="1"/> <l level="1" sID="gen1023"/>et thesauros absconditos arenarum.
+Populos vocabunt ad montem :  ibi immolabunt victimas justitiæ.  Qui inundationem maris quasi lac sugent,  et thesauros absconditos arenarum.
 
 ** Deuteronomy 33:20
 
-Et Gad ait : <l eID="gen1023" level="1"/> <l level="1" sID="gen1024"/>Benedictus in latitudine Gad : <l eID="gen1024" level="1"/> <l level="1" sID="gen1025"/>quasi leo requievit, <l eID="gen1025" level="1"/> <l level="1" sID="gen1026"/>cepitque brachium et verticem. <l eID="gen1026" level="1"/>
+Et Gad ait :  Benedictus in latitudine Gad :  quasi leo requievit,  cepitque brachium et verticem. 
 
 ** Deuteronomy 33:21
 
-Et vidit principatum suum, <l eID="gen1027" level="1"/> <l level="1" sID="gen1028"/>quod in parte sua doctor esset repositus : <l eID="gen1028" level="1"/> <l level="1" sID="gen1029"/>qui fuit cum principibus populi, <l eID="gen1029" level="1"/> <l level="1" sID="gen1030"/>et fecit justitias Domini, <l eID="gen1030" level="1"/> <l level="1" sID="gen1031"/>et judicium suum cum Israël.
+Et vidit principatum suum,  quod in parte sua doctor esset repositus :  qui fuit cum principibus populi,  et fecit justitias Domini,  et judicium suum cum Israël.
 
 ** Deuteronomy 33:22
 
-Dan quoque ait : <l eID="gen1031" level="1"/> <l level="1" sID="gen1032"/>Dan catulus leonis, fluet largiter de Basan.
+Dan quoque ait :  Dan catulus leonis, fluet largiter de Basan.
 
 ** Deuteronomy 33:23
 
-Et Nephthali dixit : <l eID="gen1032" level="1"/> <l level="1" sID="gen1033"/>Nephthali abundantia perfruetur, <l eID="gen1033" level="1"/> <l level="1" sID="gen1034"/>et plenus erit benedictionibus Domini : <l eID="gen1034" level="1"/> <l level="1" sID="gen1035"/>mare et meridiem possidebit.
+Et Nephthali dixit :  Nephthali abundantia perfruetur,  et plenus erit benedictionibus Domini :  mare et meridiem possidebit.
 
 ** Deuteronomy 33:24
 
-Aser quoque ait : <l eID="gen1035" level="1"/> <l level="1" sID="gen1036"/>Benedictus in filiis Aser, <l eID="gen1036" level="1"/> <l level="1" sID="gen1037"/>sit placens fratribus suis, <l eID="gen1037" level="1"/> <l level="1" sID="gen1038"/>et tingat in oleo pedem suum : <l eID="gen1038" level="1"/>
+Aser quoque ait :  Benedictus in filiis Aser,  sit placens fratribus suis,  et tingat in oleo pedem suum : 
 
 ** Deuteronomy 33:25
 
-ferrum et æs calceamentum ejus. <l eID="gen1039" level="1"/> <l level="1" sID="gen1040"/>Sicut dies juventutis tuæ, ita et senectus tua. <l eID="gen1040" level="1"/>
+ferrum et æs calceamentum ejus.  Sicut dies juventutis tuæ, ita et senectus tua. 
 
 ** Deuteronomy 33:26
 
-Non est deus alius ut Deus rectissimi, <l eID="gen1041" level="1"/> <l level="1" sID="gen1042"/>ascensor cæli, auxiliator tuus. <l eID="gen1042" level="1"/> <l level="1" sID="gen1043"/>Magnificentia ejus discurrunt nubes, <l eID="gen1043" level="1"/>
+Non est deus alius ut Deus rectissimi,  ascensor cæli, auxiliator tuus.  Magnificentia ejus discurrunt nubes, 
 
 ** Deuteronomy 33:27
 
-habitaculum ejus sursum, <l eID="gen1044" level="1"/> <l level="1" sID="gen1045"/>et subter brachia sempiterna <l eID="gen1045" level="1"/> <l level="1" sID="gen1046"/>ejiciet a facie tua inimicum, <l eID="gen1046" level="1"/> <l level="1" sID="gen1047"/>dicetque : Conterere. <l eID="gen1047" level="1"/>
+habitaculum ejus sursum,  et subter brachia sempiterna  ejiciet a facie tua inimicum,  dicetque : Conterere. 
 
 ** Deuteronomy 33:28
 
-Habitabit Israël confidenter, et solus. <l eID="gen1048" level="1"/> <l level="1" sID="gen1049"/>Oculus Jacob in terra frumenti et vini, <l eID="gen1049" level="1"/> <l level="1" sID="gen1050"/>cælique caligabunt rore. <l eID="gen1050" level="1"/>
+Habitabit Israël confidenter, et solus.  Oculus Jacob in terra frumenti et vini,  cælique caligabunt rore. 
 
 ** Deuteronomy 33:29
 
-Beatus es tu, Israël : <l eID="gen1051" level="1"/> <l level="1" sID="gen1052"/>quis similis tui, popule, qui salvaris in Domino ? <l eID="gen1052" level="1"/> <l level="1" sID="gen1053"/>Scutum auxilii tui, <l eID="gen1053" level="1"/> <l level="1" sID="gen1054"/>et gladius gloriæ tuæ : <l eID="gen1054" level="1"/> <l level="1" sID="gen1055"/>negabunt te inimici tui, <l eID="gen1055" level="1"/> <l level="1" sID="gen1056"/>et tu eorum colla calcabis. <l eID="gen1056" level="1"/><lg eID="gen965"/> <chapter eID="Deut.33"/>
+Beatus es tu, Israël :  quis similis tui, popule, qui salvaris in Domino ?  Scutum auxilii tui,  et gladius gloriæ tuæ :  negabunt te inimici tui,  et tu eorum colla calcabis.  
 
 * Deuteronomy 34
 
@@ -3900,5 +3900,5 @@ in omnibus signis atque portentis, quæ misit per eum, ut faceret in terra Ægyp
 
 ** Deuteronomy 34:12
 
-et cunctam manum robustam, magnaque mirabilia, quæ fecit Moyses coram universo Israël.  <div eID="gen1057" type="x-p"/> <chapter eID="Deut.34"/> <div eID="gen711" osisID="Deut" type="book"/>
+et cunctam manum robustam, magnaque mirabilia, quæ fecit Moyses coram universo Israël.    
 

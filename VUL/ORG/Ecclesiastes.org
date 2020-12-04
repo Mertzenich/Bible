@@ -2,911 +2,911 @@
 
 ** Ecclesiastes 1:1
 
-Verba Ecclesiastæ, filii David, regis Jerusalem.  <div eID="gen12240" type="x-p"/>
+Verba Ecclesiastæ, filii David, regis Jerusalem.  
 
 ** Ecclesiastes 1:2
 
-Vanitas vanitatum, dixit Ecclesiastes ; <l eID="gen12242" level="1"/> <l level="1" sID="gen12243"/>vanitas vanitatum, et omnia vanitas. <l eID="gen12243" level="1"/>
+Vanitas vanitatum, dixit Ecclesiastes ;  vanitas vanitatum, et omnia vanitas. 
 
 ** Ecclesiastes 1:3
 
-Quid habet amplius homo <l eID="gen12244" level="1"/> <l level="1" sID="gen12245"/>de universo labore suo quo laborat sub sole ? <l eID="gen12245" level="1"/>
+Quid habet amplius homo  de universo labore suo quo laborat sub sole ? 
 
 ** Ecclesiastes 1:4
 
-Generatio præterit, et generatio advenit ; <l eID="gen12246" level="1"/> <l level="1" sID="gen12247"/>terra autem in æternum stat. <l eID="gen12247" level="1"/>
+Generatio præterit, et generatio advenit ;  terra autem in æternum stat. 
 
 ** Ecclesiastes 1:5
 
-Oritur sol et occidit, <l eID="gen12248" level="1"/> <l level="1" sID="gen12249"/>et ad locum suum revertitur ; <l eID="gen12249" level="1"/> <l level="1" sID="gen12250"/>ibique renascens,
+Oritur sol et occidit,  et ad locum suum revertitur ;  ibique renascens,
 
 ** Ecclesiastes 1:6
 
-gyrat per meridiem, et flectitur ad aquilonem. <l eID="gen12250" level="1"/> <l level="1" sID="gen12251"/>Lustrans universa in circuitu pergit spiritus, <l eID="gen12251" level="1"/> <l level="1" sID="gen12252"/>et in circulos suos revertitur. <l eID="gen12252" level="1"/>
+gyrat per meridiem, et flectitur ad aquilonem.  Lustrans universa in circuitu pergit spiritus,  et in circulos suos revertitur. 
 
 ** Ecclesiastes 1:7
 
-Omnia flumina intrant in mare, <l eID="gen12253" level="1"/> <l level="1" sID="gen12254"/>et mare non redundat ; <l eID="gen12254" level="1"/> <l level="1" sID="gen12255"/>ad locum unde exeunt flumina <l eID="gen12255" level="1"/> <l level="1" sID="gen12256"/>revertuntur ut iterum fluant. <l eID="gen12256" level="1"/>
+Omnia flumina intrant in mare,  et mare non redundat ;  ad locum unde exeunt flumina  revertuntur ut iterum fluant. 
 
 ** Ecclesiastes 1:8
 
-Cunctæ res difficiles ; <l eID="gen12257" level="1"/> <l level="1" sID="gen12258"/>non potest eas homo explicare sermone. <l eID="gen12258" level="1"/> <l level="1" sID="gen12259"/>Non saturatur oculus visu, <l eID="gen12259" level="1"/> <l level="1" sID="gen12260"/>nec auris auditu impletur. <l eID="gen12260" level="1"/>
+Cunctæ res difficiles ;  non potest eas homo explicare sermone.  Non saturatur oculus visu,  nec auris auditu impletur. 
 
 ** Ecclesiastes 1:9
 
-Quid est quod fuit ? Ipsum quod futurum est. <l eID="gen12261" level="1"/> <l level="1" sID="gen12262"/>Quid est quod factum est ? Ipsum quod faciendum est. <l eID="gen12262" level="1"/>
+Quid est quod fuit ? Ipsum quod futurum est.  Quid est quod factum est ? Ipsum quod faciendum est. 
 
 ** Ecclesiastes 1:10
 
-Nihil sub sole novum, <l eID="gen12263" level="1"/> <l level="1" sID="gen12264"/>nec valet quisquam dicere : Ecce hoc recens est : <l eID="gen12264" level="1"/> <l level="1" sID="gen12265"/>jam enim præcessit in sæculis quæ fuerunt ante nos. <l eID="gen12265" level="1"/>
+Nihil sub sole novum,  nec valet quisquam dicere : Ecce hoc recens est :  jam enim præcessit in sæculis quæ fuerunt ante nos. 
 
 ** Ecclesiastes 1:11
 
-Non est priorum memoria ; <l eID="gen12266" level="1"/> <l level="1" sID="gen12267"/>sed nec eorum quidem quæ postea futura sunt <l eID="gen12267" level="1"/> <l level="1" sID="gen12268"/>erit recordatio apud eos qui futuri sunt in novissimo. <l eID="gen12268" level="1"/>
+Non est priorum memoria ;  sed nec eorum quidem quæ postea futura sunt  erit recordatio apud eos qui futuri sunt in novissimo. 
 
 ** Ecclesiastes 1:12
 
-Ego Ecclesiastes fui rex Israël in Jerusalem ; <l eID="gen12269" level="1"/>
+Ego Ecclesiastes fui rex Israël in Jerusalem ; 
 
 ** Ecclesiastes 1:13
 
-et proposui in animo meo quærere et investigare sapienter <l eID="gen12270" level="1"/> <l level="1" sID="gen12271"/>de omnibus quæ fiunt sub sole. <l eID="gen12271" level="1"/> <l level="1" sID="gen12272"/>Hanc occupationem pessimam <l eID="gen12272" level="1"/> <l level="1" sID="gen12273"/>dedit Deus filiis hominum, ut occuparentur in ea. <l eID="gen12273" level="1"/>
+et proposui in animo meo quærere et investigare sapienter  de omnibus quæ fiunt sub sole.  Hanc occupationem pessimam  dedit Deus filiis hominum, ut occuparentur in ea. 
 
 ** Ecclesiastes 1:14
 
-Vidi cuncta quæ fiunt sub sole, <l eID="gen12274" level="1"/> <l level="1" sID="gen12275"/>et ecce universa vanitas et afflictio spiritus. <l eID="gen12275" level="1"/>
+Vidi cuncta quæ fiunt sub sole,  et ecce universa vanitas et afflictio spiritus. 
 
 ** Ecclesiastes 1:15
 
-Perversi difficile corriguntur, <l eID="gen12276" level="1"/> <l level="1" sID="gen12277"/>et stultorum infinitus est numerus. <l eID="gen12277" level="1"/>
+Perversi difficile corriguntur,  et stultorum infinitus est numerus. 
 
 ** Ecclesiastes 1:16
 
-Locutus sum in corde meo, dicens : <l eID="gen12278" level="1"/> <l level="1" sID="gen12279"/>Ecce magnus effectus sum, et præcessi omnes sapientia <l eID="gen12279" level="1"/> <l level="1" sID="gen12280"/>qui fuerunt ante me in Jerusalem ; <l eID="gen12280" level="1"/> <l level="1" sID="gen12281"/>et mens mea contemplata est multa sapienter, et didici. <l eID="gen12281" level="1"/>
+Locutus sum in corde meo, dicens :  Ecce magnus effectus sum, et præcessi omnes sapientia  qui fuerunt ante me in Jerusalem ;  et mens mea contemplata est multa sapienter, et didici. 
 
 ** Ecclesiastes 1:17
 
-Dedique cor meum ut scirem prudentiam atque doctrinam, <l eID="gen12282" level="1"/> <l level="1" sID="gen12283"/>erroresque et stultitiam ; <l eID="gen12283" level="1"/> <l level="1" sID="gen12284"/>et agnovi quod in his quoque esset labor et afflictio spiritus : <l eID="gen12284" level="1"/>
+Dedique cor meum ut scirem prudentiam atque doctrinam,  erroresque et stultitiam ;  et agnovi quod in his quoque esset labor et afflictio spiritus : 
 
 ** Ecclesiastes 1:18
 
-eo quod in multa sapientia multa sit indignatio ; <l eID="gen12285" level="1"/> <l level="1" sID="gen12286"/>et qui addit scientiam, addit et laborem.  <chapter eID="Eccl.1"/>
+eo quod in multa sapientia multa sit indignatio ;  et qui addit scientiam, addit et laborem.  
 
 * Ecclesiastes 2
 
 ** Ecclesiastes 2:1
 
-Dixi ego in corde meo : Vadam, <l eID="gen12287" level="1"/> <l level="1" sID="gen12288"/>et affluam deliciis, et fruar bonis ; <l eID="gen12288" level="1"/> <l level="1" sID="gen12289"/>et vidi quod hoc quoque esset vanitas. <l eID="gen12289" level="1"/>
+Dixi ego in corde meo : Vadam,  et affluam deliciis, et fruar bonis ;  et vidi quod hoc quoque esset vanitas. 
 
 ** Ecclesiastes 2:2
 
-Risum reputavi errorem, <l eID="gen12290" level="1"/> <l level="1" sID="gen12291"/>et gaudio dixi : Quid frustra deciperis ? <l eID="gen12291" level="1"/>
+Risum reputavi errorem,  et gaudio dixi : Quid frustra deciperis ? 
 
 ** Ecclesiastes 2:3
 
-Cogitavi in corde meo abstrahere a vino carnem meam, <l eID="gen12292" level="1"/> <l level="1" sID="gen12293"/>ut animam meam transferrem ad sapientiam, <l eID="gen12293" level="1"/> <l level="1" sID="gen12294"/>devitaremque stultitiam, <l eID="gen12294" level="1"/> <l level="1" sID="gen12295"/>donec viderem quid esset utile filiis hominum, <l eID="gen12295" level="1"/> <l level="1" sID="gen12296"/>quo facto opus est sub sole numero dierum vitæ suæ. <l eID="gen12296" level="1"/>
+Cogitavi in corde meo abstrahere a vino carnem meam,  ut animam meam transferrem ad sapientiam,  devitaremque stultitiam,  donec viderem quid esset utile filiis hominum,  quo facto opus est sub sole numero dierum vitæ suæ. 
 
 ** Ecclesiastes 2:4
 
-Magnificavi opera mea, <l eID="gen12297" level="1"/> <l level="1" sID="gen12298"/>ædificavi mihi domos, <l eID="gen12298" level="1"/> <l level="1" sID="gen12299"/>et plantavi vineas ; <l eID="gen12299" level="1"/>
+Magnificavi opera mea,  ædificavi mihi domos,  et plantavi vineas ; 
 
 ** Ecclesiastes 2:5
 
-feci hortos et pomaria, <l eID="gen12300" level="1"/> <l level="1" sID="gen12301"/>et consevi ea cuncti generis arboribus ; <l eID="gen12301" level="1"/>
+feci hortos et pomaria,  et consevi ea cuncti generis arboribus ; 
 
 ** Ecclesiastes 2:6
 
-et exstruxi mihi piscinas aquarum, <l eID="gen12302" level="1"/> <l level="1" sID="gen12303"/>ut irrigarem silvam lignorum germinantium. <l eID="gen12303" level="1"/>
+et exstruxi mihi piscinas aquarum,  ut irrigarem silvam lignorum germinantium. 
 
 ** Ecclesiastes 2:7
 
-Possedi servos et ancillas, <l eID="gen12304" level="1"/> <l level="1" sID="gen12305"/>multamque familiam habui : <l eID="gen12305" level="1"/> <l level="1" sID="gen12306"/>armenta quoque, et magnos ovium greges, <l eID="gen12306" level="1"/> <l level="1" sID="gen12307"/>ultra omnes qui fuerunt ante me in Jerusalem ; <l eID="gen12307" level="1"/>
+Possedi servos et ancillas,  multamque familiam habui :  armenta quoque, et magnos ovium greges,  ultra omnes qui fuerunt ante me in Jerusalem ; 
 
 ** Ecclesiastes 2:8
 
-coacervavi mihi argentum et aurum, <l eID="gen12308" level="1"/> <l level="1" sID="gen12309"/>et substantias regum ac provinciarum ; <l eID="gen12309" level="1"/> <l level="1" sID="gen12310"/>feci mihi cantores et cantatrices, <l eID="gen12310" level="1"/> <l level="1" sID="gen12311"/>et delicias filiorum hominum, <l eID="gen12311" level="1"/> <l level="1" sID="gen12312"/>scyphos, et urceos in ministerio ad vina fundenda ; <l eID="gen12312" level="1"/>
+coacervavi mihi argentum et aurum,  et substantias regum ac provinciarum ;  feci mihi cantores et cantatrices,  et delicias filiorum hominum,  scyphos, et urceos in ministerio ad vina fundenda ; 
 
 ** Ecclesiastes 2:9
 
-et supergressus sum opibus <l eID="gen12313" level="1"/> <l level="1" sID="gen12314"/>omnes qui ante me fuerunt in Jerusalem : <l eID="gen12314" level="1"/> <l level="1" sID="gen12315"/>sapientia quoque perseveravit mecum. <l eID="gen12315" level="1"/>
+et supergressus sum opibus  omnes qui ante me fuerunt in Jerusalem :  sapientia quoque perseveravit mecum. 
 
 ** Ecclesiastes 2:10
 
-Et omnia quæ desideraverunt oculi mei <l eID="gen12316" level="1"/> <l level="1" sID="gen12317"/>non negavi eis, <l eID="gen12317" level="1"/> <l level="1" sID="gen12318"/>nec prohibui cor meum quin omni voluptate frueretur, <l eID="gen12318" level="1"/> <l level="1" sID="gen12319"/>et oblectaret se in his quæ præparaveram ; <l eID="gen12319" level="1"/> <l level="1" sID="gen12320"/>et hanc ratus sum partem meam si uterer labore meo. <l eID="gen12320" level="1"/>
+Et omnia quæ desideraverunt oculi mei  non negavi eis,  nec prohibui cor meum quin omni voluptate frueretur,  et oblectaret se in his quæ præparaveram ;  et hanc ratus sum partem meam si uterer labore meo. 
 
 ** Ecclesiastes 2:11
 
-Cumque me convertissem ad universa opera quæ fecerant manus meæ, <l eID="gen12321" level="1"/> <l level="1" sID="gen12322"/>et ad labores in quibus frustra sudaveram, <l eID="gen12322" level="1"/> <l level="1" sID="gen12323"/>vidi in omnibus vanitatem et afflictionem animi, <l eID="gen12323" level="1"/> <l level="1" sID="gen12324"/>et nihil permanere sub sole. <l eID="gen12324" level="1"/>
+Cumque me convertissem ad universa opera quæ fecerant manus meæ,  et ad labores in quibus frustra sudaveram,  vidi in omnibus vanitatem et afflictionem animi,  et nihil permanere sub sole. 
 
 ** Ecclesiastes 2:12
 
-Transivi ad contemplandam sapientiam, <l eID="gen12325" level="1"/> <l level="1" sID="gen12326"/>erroresque, et stultitiam. <l eID="gen12326" level="1"/> <l level="1" sID="gen12327"/>(Quid est, inquam, homo, <l eID="gen12327" level="1"/> <l level="1" sID="gen12328"/>ut sequi possit regem, factorem suum ?) <l eID="gen12328" level="1"/>
+Transivi ad contemplandam sapientiam,  erroresque, et stultitiam.  (Quid est, inquam, homo,  ut sequi possit regem, factorem suum ?) 
 
 ** Ecclesiastes 2:13
 
-Et vidi quod tantum præcederet sapientia stultitiam, <l eID="gen12329" level="1"/> <l level="1" sID="gen12330"/>quantum differt lux a tenebris. <l eID="gen12330" level="1"/>
+Et vidi quod tantum præcederet sapientia stultitiam,  quantum differt lux a tenebris. 
 
 ** Ecclesiastes 2:14
 
-Sapientis oculi in capite ejus ; <l eID="gen12331" level="1"/> <l level="1" sID="gen12332"/>stultus in tenebris ambulat : <l eID="gen12332" level="1"/> <l level="1" sID="gen12333"/>et didici quod unus utriusque esset interitus. <l eID="gen12333" level="1"/>
+Sapientis oculi in capite ejus ;  stultus in tenebris ambulat :  et didici quod unus utriusque esset interitus. 
 
 ** Ecclesiastes 2:15
 
-Et dixi in corde meo : <l eID="gen12334" level="1"/> <l level="1" sID="gen12335"/>Si unus et stulti et meus occasus erit, <l eID="gen12335" level="1"/> <l level="1" sID="gen12336"/>quid mihi prodest quod majorem sapientiæ dedi operam ? <l eID="gen12336" level="1"/> <l level="1" sID="gen12337"/>Locutusque cum mente mea, <l eID="gen12337" level="1"/> <l level="1" sID="gen12338"/>animadverti quod hoc quoque esset vanitas. <l eID="gen12338" level="1"/>
+Et dixi in corde meo :  Si unus et stulti et meus occasus erit,  quid mihi prodest quod majorem sapientiæ dedi operam ?  Locutusque cum mente mea,  animadverti quod hoc quoque esset vanitas. 
 
 ** Ecclesiastes 2:16
 
-Non enim erit memoria sapientis similiter ut stulti in perpetuum, <l eID="gen12339" level="1"/> <l level="1" sID="gen12340"/>et futura tempora oblivione cuncta pariter operient : <l eID="gen12340" level="1"/> <l level="1" sID="gen12341"/>moritur doctus similiter ut indoctus. <l eID="gen12341" level="1"/>
+Non enim erit memoria sapientis similiter ut stulti in perpetuum,  et futura tempora oblivione cuncta pariter operient :  moritur doctus similiter ut indoctus. 
 
 ** Ecclesiastes 2:17
 
-Et idcirco tæduit me vitæ meæ, <l eID="gen12342" level="1"/> <l level="1" sID="gen12343"/>videntem mala universa esse sub sole, <l eID="gen12343" level="1"/> <l level="1" sID="gen12344"/>et cuncta vanitatem et afflictionem spiritus. <l eID="gen12344" level="1"/>
+Et idcirco tæduit me vitæ meæ,  videntem mala universa esse sub sole,  et cuncta vanitatem et afflictionem spiritus. 
 
 ** Ecclesiastes 2:18
 
-Rursus detestatus sum omnem industriam meam, <l eID="gen12345" level="1"/> <l level="1" sID="gen12346"/>qua sub sole studiosissime laboravi, <l eID="gen12346" level="1"/> <l level="1" sID="gen12347"/>habiturus hæredem post me, <l eID="gen12347" level="1"/>
+Rursus detestatus sum omnem industriam meam,  qua sub sole studiosissime laboravi,  habiturus hæredem post me, 
 
 ** Ecclesiastes 2:19
 
-quem ignoro utrum sapiens an stultus futurus sit, <l eID="gen12348" level="1"/> <l level="1" sID="gen12349"/>et dominabitur in laboribus meis, <l eID="gen12349" level="1"/> <l level="1" sID="gen12350"/>quibus desudavi et sollicitus fui : <l eID="gen12350" level="1"/> <l level="1" sID="gen12351"/>et est quidquam tam vanum ? <l eID="gen12351" level="1"/>
+quem ignoro utrum sapiens an stultus futurus sit,  et dominabitur in laboribus meis,  quibus desudavi et sollicitus fui :  et est quidquam tam vanum ? 
 
 ** Ecclesiastes 2:20
 
-Unde cessavi, <l eID="gen12352" level="1"/> <l level="1" sID="gen12353"/>renuntiavitque cor meum ultra laborare sub sole. <l eID="gen12353" level="1"/>
+Unde cessavi,  renuntiavitque cor meum ultra laborare sub sole. 
 
 ** Ecclesiastes 2:21
 
-Nam cum alius laboret in sapientia, <l eID="gen12354" level="1"/> <l level="1" sID="gen12355"/>et doctrina, et sollicitudine, <l eID="gen12355" level="1"/> <l level="1" sID="gen12356"/>homini otioso quæsita dimittit ; <l eID="gen12356" level="1"/> <l level="1" sID="gen12357"/>et hoc ergo vanitas et magnum malum. <l eID="gen12357" level="1"/>
+Nam cum alius laboret in sapientia,  et doctrina, et sollicitudine,  homini otioso quæsita dimittit ;  et hoc ergo vanitas et magnum malum. 
 
 ** Ecclesiastes 2:22
 
-Quid enim proderit homini de universo labore suo, <l eID="gen12358" level="1"/> <l level="1" sID="gen12359"/>et afflictione spiritus, <l eID="gen12359" level="1"/> <l level="1" sID="gen12360"/>qua sub sole cruciatus est ? <l eID="gen12360" level="1"/>
+Quid enim proderit homini de universo labore suo,  et afflictione spiritus,  qua sub sole cruciatus est ? 
 
 ** Ecclesiastes 2:23
 
-Cuncti dies ejus doloribus et ærumnis pleni sunt, <l eID="gen12361" level="1"/> <l level="1" sID="gen12362"/>nec per noctem mente requiescit. <l eID="gen12362" level="1"/> <l level="1" sID="gen12363"/>Et hoc nonne vanitas est ? <l eID="gen12363" level="1"/>
+Cuncti dies ejus doloribus et ærumnis pleni sunt,  nec per noctem mente requiescit.  Et hoc nonne vanitas est ? 
 
 ** Ecclesiastes 2:24
 
-Nonne melius est comedere et bibere, <l eID="gen12364" level="1"/> <l level="1" sID="gen12365"/>et ostendere animæ suæ bona de laboribus suis ? <l eID="gen12365" level="1"/> <l level="1" sID="gen12366"/>et hoc de manu Dei est. <l eID="gen12366" level="1"/>
+Nonne melius est comedere et bibere,  et ostendere animæ suæ bona de laboribus suis ?  et hoc de manu Dei est. 
 
 ** Ecclesiastes 2:25
 
-Quis ita devorabit et deliciis affluet ut ego ? <l eID="gen12367" level="1"/>
+Quis ita devorabit et deliciis affluet ut ego ? 
 
 ** Ecclesiastes 2:26
 
-Homini bono in conspectu suo <l eID="gen12368" level="1"/> <l level="1" sID="gen12369"/>dedit Deus sapientiam, et scientiam, et lætitiam ; <l eID="gen12369" level="1"/> <l level="1" sID="gen12370"/>peccatori autem dedit afflictionem et curam superfluam, <l eID="gen12370" level="1"/> <l level="1" sID="gen12371"/>ut addat, et congreget, <l eID="gen12371" level="1"/> <l level="1" sID="gen12372"/>et tradat ei qui placuit Deo ; <l eID="gen12372" level="1"/> <l level="1" sID="gen12373"/>sed et hoc vanitas est, et cassa sollicitudo mentis.  <chapter eID="Eccl.2"/>
+Homini bono in conspectu suo  dedit Deus sapientiam, et scientiam, et lætitiam ;  peccatori autem dedit afflictionem et curam superfluam,  ut addat, et congreget,  et tradat ei qui placuit Deo ;  sed et hoc vanitas est, et cassa sollicitudo mentis.  
 
 * Ecclesiastes 3
 
 ** Ecclesiastes 3:1
 
-Omnia tempus habent, <l eID="gen12374" level="1"/> <l level="1" sID="gen12375"/>et suis spatiis transeunt universa sub cælo. <l eID="gen12375" level="1"/>
+Omnia tempus habent,  et suis spatiis transeunt universa sub cælo. 
 
 ** Ecclesiastes 3:2
 
-Tempus nascendi, et tempus moriendi ; <l eID="gen12376" level="1"/> <l level="1" sID="gen12377"/>tempus plantandi, et tempus evellendi quod plantatum est. <l eID="gen12377" level="1"/>
+Tempus nascendi, et tempus moriendi ;  tempus plantandi, et tempus evellendi quod plantatum est. 
 
 ** Ecclesiastes 3:3
 
-Tempus occidendi, et tempus sanandi ; <l eID="gen12378" level="1"/> <l level="1" sID="gen12379"/>tempus destruendi, et tempus ædificandi. <l eID="gen12379" level="1"/>
+Tempus occidendi, et tempus sanandi ;  tempus destruendi, et tempus ædificandi. 
 
 ** Ecclesiastes 3:4
 
-Tempus flendi, et tempus ridendi ; <l eID="gen12380" level="1"/> <l level="1" sID="gen12381"/>tempus plangendi, et tempus saltandi. <l eID="gen12381" level="1"/>
+Tempus flendi, et tempus ridendi ;  tempus plangendi, et tempus saltandi. 
 
 ** Ecclesiastes 3:5
 
-Tempus spargendi lapides, et tempus colligendi, <l eID="gen12382" level="1"/> <l level="1" sID="gen12383"/>tempus amplexandi, et tempus longe fieri ab amplexibus. <l eID="gen12383" level="1"/>
+Tempus spargendi lapides, et tempus colligendi,  tempus amplexandi, et tempus longe fieri ab amplexibus. 
 
 ** Ecclesiastes 3:6
 
-Tempus acquirendi, et tempus perdendi ; <l eID="gen12384" level="1"/> <l level="1" sID="gen12385"/>tempus custodiendi, et tempus abjiciendi. <l eID="gen12385" level="1"/>
+Tempus acquirendi, et tempus perdendi ;  tempus custodiendi, et tempus abjiciendi. 
 
 ** Ecclesiastes 3:7
 
-Tempus scindendi, et tempus consuendi ; <l eID="gen12386" level="1"/> <l level="1" sID="gen12387"/>tempus tacendi, et tempus loquendi. <l eID="gen12387" level="1"/>
+Tempus scindendi, et tempus consuendi ;  tempus tacendi, et tempus loquendi. 
 
 ** Ecclesiastes 3:8
 
-Tempus dilectionis, et tempus odii ; <l eID="gen12388" level="1"/> <l level="1" sID="gen12389"/>tempus belli, et tempus pacis. <l eID="gen12389" level="1"/>
+Tempus dilectionis, et tempus odii ;  tempus belli, et tempus pacis. 
 
 ** Ecclesiastes 3:9
 
-Quid habet amplius homo de labore suo ? <l eID="gen12390" level="1"/>
+Quid habet amplius homo de labore suo ? 
 
 ** Ecclesiastes 3:10
 
-Vidi afflictionem quam dedit Deus filiis hominum, <l eID="gen12391" level="1"/> <l level="1" sID="gen12392"/>ut distendantur in ea. <l eID="gen12392" level="1"/>
+Vidi afflictionem quam dedit Deus filiis hominum,  ut distendantur in ea. 
 
 ** Ecclesiastes 3:11
 
-Cuncta fecit bona in tempore suo, <l eID="gen12393" level="1"/> <l level="1" sID="gen12394"/>et mundum tradidit disputationi eorum, <l eID="gen12394" level="1"/> <l level="1" sID="gen12395"/>ut non inveniat homo opus <l eID="gen12395" level="1"/> <l level="1" sID="gen12396"/>quod operatus est Deus ab initio usque ad finem. <l eID="gen12396" level="1"/>
+Cuncta fecit bona in tempore suo,  et mundum tradidit disputationi eorum,  ut non inveniat homo opus  quod operatus est Deus ab initio usque ad finem. 
 
 ** Ecclesiastes 3:12
 
-Et cognovi quod non esset melius nisi lætari, <l eID="gen12397" level="1"/> <l level="1" sID="gen12398"/>et facere bene in vita sua ; <l eID="gen12398" level="1"/>
+Et cognovi quod non esset melius nisi lætari,  et facere bene in vita sua ; 
 
 ** Ecclesiastes 3:13
 
-omnis enim homo qui comedit et bibit, <l eID="gen12399" level="1"/> <l level="1" sID="gen12400"/>et videt bonum de labore suo, <l eID="gen12400" level="1"/> <l level="1" sID="gen12401"/>hoc donum Dei est. <l eID="gen12401" level="1"/>
+omnis enim homo qui comedit et bibit,  et videt bonum de labore suo,  hoc donum Dei est. 
 
 ** Ecclesiastes 3:14
 
-Didici quod omnia opera quæ fecit Deus perseverent in perpetuum ; <l eID="gen12402" level="1"/> <l level="1" sID="gen12403"/>non possumus eis quidquam addere, nec auferre, <l eID="gen12403" level="1"/> <l level="1" sID="gen12404"/>quæ fecit Deus ut timeatur. <l eID="gen12404" level="1"/>
+Didici quod omnia opera quæ fecit Deus perseverent in perpetuum ;  non possumus eis quidquam addere, nec auferre,  quæ fecit Deus ut timeatur. 
 
 ** Ecclesiastes 3:15
 
-Quod factum est, ipsum permanet ; <l eID="gen12405" level="1"/> <l level="1" sID="gen12406"/>quæ futura sunt jam fuerunt, <l eID="gen12406" level="1"/> <l level="1" sID="gen12407"/>et Deus instaurat quod abiit. <l eID="gen12407" level="1"/>
+Quod factum est, ipsum permanet ;  quæ futura sunt jam fuerunt,  et Deus instaurat quod abiit. 
 
 ** Ecclesiastes 3:16
 
-Vidi sub sole in loco judicii impietatem, <l eID="gen12408" level="1"/> <l level="1" sID="gen12409"/>et in loco justitiæ iniquitatem : <l eID="gen12409" level="1"/>
+Vidi sub sole in loco judicii impietatem,  et in loco justitiæ iniquitatem : 
 
 ** Ecclesiastes 3:17
 
-et dixi in corde meo : <l eID="gen12410" level="1"/> <l level="1" sID="gen12411"/>Justum et impium judicabit Deus, <l eID="gen12411" level="1"/> <l level="1" sID="gen12412"/>et tempus omnis rei tunc erit. <l eID="gen12412" level="1"/>
+et dixi in corde meo :  Justum et impium judicabit Deus,  et tempus omnis rei tunc erit. 
 
 ** Ecclesiastes 3:18
 
-Dixi in corde meo de filiis hominum, <l eID="gen12413" level="1"/> <l level="1" sID="gen12414"/>ut probaret eos Deus, <l eID="gen12414" level="1"/> <l level="1" sID="gen12415"/>et ostenderet similes esse bestiis. <l eID="gen12415" level="1"/>
+Dixi in corde meo de filiis hominum,  ut probaret eos Deus,  et ostenderet similes esse bestiis. 
 
 ** Ecclesiastes 3:19
 
-Idcirco unus interitus est hominis et jumentorum, <l eID="gen12416" level="1"/> <l level="1" sID="gen12417"/>et æqua utriusque conditio. <l eID="gen12417" level="1"/> <l level="1" sID="gen12418"/>Sicut moritur homo, <l eID="gen12418" level="1"/> <l level="1" sID="gen12419"/>sic et illa moriuntur. <l eID="gen12419" level="1"/> <l level="1" sID="gen12420"/>Similiter spirant omnia, <l eID="gen12420" level="1"/> <l level="1" sID="gen12421"/>et nihil habet homo jumento amplius : <l eID="gen12421" level="1"/> <l level="1" sID="gen12422"/>cuncta subjacent vanitati, <l eID="gen12422" level="1"/>
+Idcirco unus interitus est hominis et jumentorum,  et æqua utriusque conditio.  Sicut moritur homo,  sic et illa moriuntur.  Similiter spirant omnia,  et nihil habet homo jumento amplius :  cuncta subjacent vanitati, 
 
 ** Ecclesiastes 3:20
 
-et omnia pergunt ad unum locum. <l eID="gen12423" level="1"/> <l level="1" sID="gen12424"/>De terra facta sunt, <l eID="gen12424" level="1"/> <l level="1" sID="gen12425"/>et in terram pariter revertuntur. <l eID="gen12425" level="1"/>
+et omnia pergunt ad unum locum.  De terra facta sunt,  et in terram pariter revertuntur. 
 
 ** Ecclesiastes 3:21
 
-Quis novit si spiritus filiorum Adam ascendat sursum, <l eID="gen12426" level="1"/> <l level="1" sID="gen12427"/>et si spiritus jumentorum descendat deorsum ? <l eID="gen12427" level="1"/>
+Quis novit si spiritus filiorum Adam ascendat sursum,  et si spiritus jumentorum descendat deorsum ? 
 
 ** Ecclesiastes 3:22
 
-Et deprehendi nihil esse melius <l eID="gen12428" level="1"/> <l level="1" sID="gen12429"/>quam lætari hominem in opere suo, <l eID="gen12429" level="1"/> <l level="1" sID="gen12430"/>et hanc esse partem illius. <l eID="gen12430" level="1"/> <l level="1" sID="gen12431"/>Quis enim eum adducet ut post se futura cognoscat ?  <chapter eID="Eccl.3"/>
+Et deprehendi nihil esse melius  quam lætari hominem in opere suo,  et hanc esse partem illius.  Quis enim eum adducet ut post se futura cognoscat ?  
 
 * Ecclesiastes 4
 
 ** Ecclesiastes 4:1
 
-Verti me ad alia, et vidi calumnias <l eID="gen12432" level="1"/> <l level="1" sID="gen12433"/>quæ sub sole geruntur, <l eID="gen12433" level="1"/> <l level="1" sID="gen12434"/>et lacrimas innocentium, <l eID="gen12434" level="1"/> <l level="1" sID="gen12435"/>et neminem consolatorem, <l eID="gen12435" level="1"/> <l level="1" sID="gen12436"/>nec posse resistere eorum violentiæ, <l eID="gen12436" level="1"/> <l level="1" sID="gen12437"/>cunctorum auxilio destitutos, <l eID="gen12437" level="1"/>
+Verti me ad alia, et vidi calumnias  quæ sub sole geruntur,  et lacrimas innocentium,  et neminem consolatorem,  nec posse resistere eorum violentiæ,  cunctorum auxilio destitutos, 
 
 ** Ecclesiastes 4:2
 
-et laudavi magis mortuos quam viventes ; <l eID="gen12438" level="1"/>
+et laudavi magis mortuos quam viventes ; 
 
 ** Ecclesiastes 4:3
 
-et feliciorem utroque judicavi <l eID="gen12439" level="1"/> <l level="1" sID="gen12440"/>qui necdum natus est, <l eID="gen12440" level="1"/> <l level="1" sID="gen12441"/>nec vidit mala quæ sub sole fiunt. <l eID="gen12441" level="1"/>
+et feliciorem utroque judicavi  qui necdum natus est,  nec vidit mala quæ sub sole fiunt. 
 
 ** Ecclesiastes 4:4
 
-Rursum contemplatus sum omnes labores hominum, <l eID="gen12442" level="1"/> <l level="1" sID="gen12443"/>et industrias animadverti patere invidiæ proximi ; <l eID="gen12443" level="1"/> <l level="1" sID="gen12444"/>et in hoc ergo vanitas et cura superflua est. <l eID="gen12444" level="1"/>
+Rursum contemplatus sum omnes labores hominum,  et industrias animadverti patere invidiæ proximi ;  et in hoc ergo vanitas et cura superflua est. 
 
 ** Ecclesiastes 4:5
 
-Stultus complicat manus suas, <l eID="gen12445" level="1"/> <l level="1" sID="gen12446"/>et comedit carnes suas, dicens : <l eID="gen12446" level="1"/>
+Stultus complicat manus suas,  et comedit carnes suas, dicens : 
 
 ** Ecclesiastes 4:6
 
-Melior est pugillus cum requie, <l eID="gen12447" level="1"/> <l level="1" sID="gen12448"/>quam plena utraque manus cum labore et afflictione animi. <l eID="gen12448" level="1"/>
+Melior est pugillus cum requie,  quam plena utraque manus cum labore et afflictione animi. 
 
 ** Ecclesiastes 4:7
 
-Considerans, reperi et aliam vanitatem sub sole. <l eID="gen12449" level="1"/>
+Considerans, reperi et aliam vanitatem sub sole. 
 
 ** Ecclesiastes 4:8
 
-Unus est, et secundum non habet, <l eID="gen12450" level="1"/> <l level="1" sID="gen12451"/>non filium, non fratrem, <l eID="gen12451" level="1"/> <l level="1" sID="gen12452"/>et tamen laborare non cessat, <l eID="gen12452" level="1"/> <l level="1" sID="gen12453"/>nec satiantur oculi ejus divitiis ; <l eID="gen12453" level="1"/> <l level="1" sID="gen12454"/>nec recogitat, dicens : <l eID="gen12454" level="1"/> <l level="1" sID="gen12455"/>Cui laboro, et fraudo animam meam bonis ? <l eID="gen12455" level="1"/> <l level="1" sID="gen12456"/>In hoc quoque vanitas est et afflictio pessima. <l eID="gen12456" level="1"/>
+Unus est, et secundum non habet,  non filium, non fratrem,  et tamen laborare non cessat,  nec satiantur oculi ejus divitiis ;  nec recogitat, dicens :  Cui laboro, et fraudo animam meam bonis ?  In hoc quoque vanitas est et afflictio pessima. 
 
 ** Ecclesiastes 4:9
 
-Melius est ergo duos esse simul quam unum ; <l eID="gen12457" level="1"/> <l level="1" sID="gen12458"/>habent enim emolumentum societatis suæ. <l eID="gen12458" level="1"/>
+Melius est ergo duos esse simul quam unum ;  habent enim emolumentum societatis suæ. 
 
 ** Ecclesiastes 4:10
 
-Si unus ceciderit, ab altero fulcietur. <l eID="gen12459" level="1"/> <l level="1" sID="gen12460"/>Væ soli, quia cum ceciderit, non habet sublevantem se. <l eID="gen12460" level="1"/>
+Si unus ceciderit, ab altero fulcietur.  Væ soli, quia cum ceciderit, non habet sublevantem se. 
 
 ** Ecclesiastes 4:11
 
-Et si dormierint duo, fovebuntur mutuo ; <l eID="gen12461" level="1"/> <l level="1" sID="gen12462"/>unus quomodo calefiet ? <l eID="gen12462" level="1"/>
+Et si dormierint duo, fovebuntur mutuo ;  unus quomodo calefiet ? 
 
 ** Ecclesiastes 4:12
 
-Et si quispiam prævaluerit contra unum, <l eID="gen12463" level="1"/> <l level="1" sID="gen12464"/>duo resistunt ei ; <l eID="gen12464" level="1"/> <l level="1" sID="gen12465"/>funiculus triplex difficile rumpitur. <l eID="gen12465" level="1"/>
+Et si quispiam prævaluerit contra unum,  duo resistunt ei ;  funiculus triplex difficile rumpitur. 
 
 ** Ecclesiastes 4:13
 
-Melior est puer pauper et sapiens, <l eID="gen12466" level="1"/> <l level="1" sID="gen12467"/>rege sene et stulto, <l eID="gen12467" level="1"/> <l level="1" sID="gen12468"/>qui nescit prævidere in posterum. <l eID="gen12468" level="1"/>
+Melior est puer pauper et sapiens,  rege sene et stulto,  qui nescit prævidere in posterum. 
 
 ** Ecclesiastes 4:14
 
-Quod de carcere catenisque interdum quis egrediatur ad regnum ; <l eID="gen12469" level="1"/> <l level="1" sID="gen12470"/>et alius, natus in regno, inopia consumatur. <l eID="gen12470" level="1"/>
+Quod de carcere catenisque interdum quis egrediatur ad regnum ;  et alius, natus in regno, inopia consumatur. 
 
 ** Ecclesiastes 4:15
 
-Vidi cunctos viventes qui ambulant sub sole <l eID="gen12471" level="1"/> <l level="1" sID="gen12472"/>cum adolescente secundo, qui consurget pro eo. <l eID="gen12472" level="1"/>
+Vidi cunctos viventes qui ambulant sub sole  cum adolescente secundo, qui consurget pro eo. 
 
 ** Ecclesiastes 4:16
 
-Infinitus numerus est populi <l eID="gen12473" level="1"/> <l level="1" sID="gen12474"/>omnium qui fuerunt ante eum, <l eID="gen12474" level="1"/> <l level="1" sID="gen12475"/>et qui postea futuri sunt non lætabuntur in eo ; <l eID="gen12475" level="1"/> <l level="1" sID="gen12476"/>sed et hoc vanitas et afflictio spiritus. <l eID="gen12476" level="1"/>
+Infinitus numerus est populi  omnium qui fuerunt ante eum,  et qui postea futuri sunt non lætabuntur in eo ;  sed et hoc vanitas et afflictio spiritus. 
 
 ** Ecclesiastes 4:17
 
-Custodi pedem tuum ingrediens domum Dei, <l eID="gen12477" level="1"/> <l level="1" sID="gen12478"/>et appropinqua ut audias. <l eID="gen12478" level="1"/> <l level="1" sID="gen12479"/>Multo enim melior est obedientia quam stultorum victimæ, <l eID="gen12479" level="1"/> <l level="1" sID="gen12480"/>qui nesciunt quid faciunt mali.  <chapter eID="Eccl.4"/>
+Custodi pedem tuum ingrediens domum Dei,  et appropinqua ut audias.  Multo enim melior est obedientia quam stultorum victimæ,  qui nesciunt quid faciunt mali.  
 
 * Ecclesiastes 5
 
 ** Ecclesiastes 5:1
 
-Ne temere quid loquaris, <l eID="gen12481" level="1"/> <l level="1" sID="gen12482"/>neque cor tuum sit velox ad proferendum sermonem coram Deo. <l eID="gen12482" level="1"/> <l level="1" sID="gen12483"/>Deus enim in cælo, et tu super terram ; <l eID="gen12483" level="1"/> <l level="1" sID="gen12484"/>idcirco sint pauci sermones tui. <l eID="gen12484" level="1"/>
+Ne temere quid loquaris,  neque cor tuum sit velox ad proferendum sermonem coram Deo.  Deus enim in cælo, et tu super terram ;  idcirco sint pauci sermones tui. 
 
 ** Ecclesiastes 5:2
 
-Multas curas sequuntur somnia, <l eID="gen12485" level="1"/> <l level="1" sID="gen12486"/>et in multis sermonibus invenietur stultitia. <l eID="gen12486" level="1"/>
+Multas curas sequuntur somnia,  et in multis sermonibus invenietur stultitia. 
 
 ** Ecclesiastes 5:3
 
-Si quid vovisti Deo, <l eID="gen12487" level="1"/> <l level="1" sID="gen12488"/>ne moreris reddere : <l eID="gen12488" level="1"/> <l level="1" sID="gen12489"/>displicet enim ei infidelis et stulta promissio, <l eID="gen12489" level="1"/> <l level="1" sID="gen12490"/>sed quodcumque voveris redde : <l eID="gen12490" level="1"/>
+Si quid vovisti Deo,  ne moreris reddere :  displicet enim ei infidelis et stulta promissio,  sed quodcumque voveris redde : 
 
 ** Ecclesiastes 5:4
 
-multoque melius est non vovere, <l eID="gen12491" level="1"/> <l level="1" sID="gen12492"/>quam post votum promissa non reddere. <l eID="gen12492" level="1"/>
+multoque melius est non vovere,  quam post votum promissa non reddere. 
 
 ** Ecclesiastes 5:5
 
-Ne dederis os tuum ut peccare facias carnem tuam, <l eID="gen12493" level="1"/> <l level="1" sID="gen12494"/>neque dicas coram angelo : <l eID="gen12494" level="1"/> <l level="1" sID="gen12495"/>Non est providentia : <l eID="gen12495" level="1"/> <l level="1" sID="gen12496"/>ne forte iratus Deus contra sermones tuos <l eID="gen12496" level="1"/> <l level="1" sID="gen12497"/>dissipet cuncta opera manuum tuarum. <l eID="gen12497" level="1"/>
+Ne dederis os tuum ut peccare facias carnem tuam,  neque dicas coram angelo :  Non est providentia :  ne forte iratus Deus contra sermones tuos  dissipet cuncta opera manuum tuarum. 
 
 ** Ecclesiastes 5:6
 
-Ubi multa sunt somnia, <l eID="gen12498" level="1"/> <l level="1" sID="gen12499"/>plurimæ sunt vanitates, et sermones innumeri ; <l eID="gen12499" level="1"/> <l level="1" sID="gen12500"/>tu vero Deum time. <l eID="gen12500" level="1"/>
+Ubi multa sunt somnia,  plurimæ sunt vanitates, et sermones innumeri ;  tu vero Deum time. 
 
 ** Ecclesiastes 5:7
 
-Si videris calumnias egenorum, et violenta judicia, <l eID="gen12501" level="1"/> <l level="1" sID="gen12502"/>et subverti justitiam in provincia, <l eID="gen12502" level="1"/> <l level="1" sID="gen12503"/>non mireris super hoc negotio : <l eID="gen12503" level="1"/> <l level="1" sID="gen12504"/>quia excelso excelsior est alius, <l eID="gen12504" level="1"/> <l level="1" sID="gen12505"/>et super hos quoque eminentiores sunt alii ; <l eID="gen12505" level="1"/>
+Si videris calumnias egenorum, et violenta judicia,  et subverti justitiam in provincia,  non mireris super hoc negotio :  quia excelso excelsior est alius,  et super hos quoque eminentiores sunt alii ; 
 
 ** Ecclesiastes 5:8
 
-et insuper universæ terræ rex imperat servienti. <l eID="gen12506" level="1"/>
+et insuper universæ terræ rex imperat servienti. 
 
 ** Ecclesiastes 5:9
 
-Avarus non implebitur pecunia, <l eID="gen12507" level="1"/> <l level="1" sID="gen12508"/>et qui amat divitias fructum non capiet ex eis ; <l eID="gen12508" level="1"/> <l level="1" sID="gen12509"/>et hoc ergo vanitas. <l eID="gen12509" level="1"/>
+Avarus non implebitur pecunia,  et qui amat divitias fructum non capiet ex eis ;  et hoc ergo vanitas. 
 
 ** Ecclesiastes 5:10
 
-Ubi multæ sunt opes, <l eID="gen12510" level="1"/> <l level="1" sID="gen12511"/>multi et qui comedunt eas. <l eID="gen12511" level="1"/> <l level="1" sID="gen12512"/>Et quid prodest possessori, <l eID="gen12512" level="1"/> <l level="1" sID="gen12513"/>nisi quod cernit divitias oculis suis ? <l eID="gen12513" level="1"/>
+Ubi multæ sunt opes,  multi et qui comedunt eas.  Et quid prodest possessori,  nisi quod cernit divitias oculis suis ? 
 
 ** Ecclesiastes 5:11
 
-Dulcis est somnus operanti, <l eID="gen12514" level="1"/> <l level="1" sID="gen12515"/>sive parum sive multum comedat ; <l eID="gen12515" level="1"/> <l level="1" sID="gen12516"/>saturitas autem divitis non sinit eum dormire. <l eID="gen12516" level="1"/>
+Dulcis est somnus operanti,  sive parum sive multum comedat ;  saturitas autem divitis non sinit eum dormire. 
 
 ** Ecclesiastes 5:12
 
-Est et alia infirmitas pessima quam vidi sub sole : <l eID="gen12517" level="1"/> <l level="1" sID="gen12518"/>divitiæ conservatæ in malum domini sui. <l eID="gen12518" level="1"/>
+Est et alia infirmitas pessima quam vidi sub sole :  divitiæ conservatæ in malum domini sui. 
 
 ** Ecclesiastes 5:13
 
-Pereunt enim in afflictione pessima : <l eID="gen12519" level="1"/> <l level="1" sID="gen12520"/>generavit filium qui in summa egestate erit. <l eID="gen12520" level="1"/>
+Pereunt enim in afflictione pessima :  generavit filium qui in summa egestate erit. 
 
 ** Ecclesiastes 5:14
 
-Sicut egressus est nudus de utero matris suæ, sic revertetur, <l eID="gen12521" level="1"/> <l level="1" sID="gen12522"/>et nihil auferet secum de labore suo. <l eID="gen12522" level="1"/>
+Sicut egressus est nudus de utero matris suæ, sic revertetur,  et nihil auferet secum de labore suo. 
 
 ** Ecclesiastes 5:15
 
-Miserabilis prorsus infirmitas : <l eID="gen12523" level="1"/> <l level="1" sID="gen12524"/>quomodo venit, sic revertetur. <l eID="gen12524" level="1"/> <l level="1" sID="gen12525"/>Quid ergo prodest ei quod laboravit in ventum ? <l eID="gen12525" level="1"/>
+Miserabilis prorsus infirmitas :  quomodo venit, sic revertetur.  Quid ergo prodest ei quod laboravit in ventum ? 
 
 ** Ecclesiastes 5:16
 
-cunctis diebus vitæ suæ comedit in tenebris, <l eID="gen12526" level="1"/> <l level="1" sID="gen12527"/>et in curis multis, et in ærumna atque tristitia. <l eID="gen12527" level="1"/>
+cunctis diebus vitæ suæ comedit in tenebris,  et in curis multis, et in ærumna atque tristitia. 
 
 ** Ecclesiastes 5:17
 
-Hoc itaque visum est mihi bonum, <l eID="gen12528" level="1"/> <l level="1" sID="gen12529"/>ut comedat quis et bibat, <l eID="gen12529" level="1"/> <l level="1" sID="gen12530"/>et fruatur lætitia ex labore suo <l eID="gen12530" level="1"/> <l level="1" sID="gen12531"/>quo laboravit ipse sub sole, <l eID="gen12531" level="1"/> <l level="1" sID="gen12532"/>numero dierum vitæ suæ <l eID="gen12532" level="1"/> <l level="1" sID="gen12533"/>quos dedit ei Deus ; <l eID="gen12533" level="1"/> <l level="1" sID="gen12534"/>et hæc est pars illius. <l eID="gen12534" level="1"/>
+Hoc itaque visum est mihi bonum,  ut comedat quis et bibat,  et fruatur lætitia ex labore suo  quo laboravit ipse sub sole,  numero dierum vitæ suæ  quos dedit ei Deus ;  et hæc est pars illius. 
 
 ** Ecclesiastes 5:18
 
-Et omni homini cui dedit Deus divitias atque substantiam, <l eID="gen12535" level="1"/> <l level="1" sID="gen12536"/>potestatemque ei tribuit ut comedat ex eis, <l eID="gen12536" level="1"/> <l level="1" sID="gen12537"/>et fruatur parte sua, et lætetur de labore suo : <l eID="gen12537" level="1"/> <l level="1" sID="gen12538"/>hoc est donum Dei. <l eID="gen12538" level="1"/>
+Et omni homini cui dedit Deus divitias atque substantiam,  potestatemque ei tribuit ut comedat ex eis,  et fruatur parte sua, et lætetur de labore suo :  hoc est donum Dei. 
 
 ** Ecclesiastes 5:19
 
-Non enim satis recordabitur dierum vitæ suæ, <l eID="gen12539" level="1"/> <l level="1" sID="gen12540"/>eo quod Deus occupet deliciis cor ejus.  <chapter eID="Eccl.5"/>
+Non enim satis recordabitur dierum vitæ suæ,  eo quod Deus occupet deliciis cor ejus.  
 
 * Ecclesiastes 6
 
 ** Ecclesiastes 6:1
 
-Est et aliud malum quod vidi sub sole, <l eID="gen12541" level="1"/> <l level="1" sID="gen12542"/>et quidem frequens apud homines : <l eID="gen12542" level="1"/>
+Est et aliud malum quod vidi sub sole,  et quidem frequens apud homines : 
 
 ** Ecclesiastes 6:2
 
-vir cui dedit Deus divitias, <l eID="gen12543" level="1"/> <l level="1" sID="gen12544"/>et substantiam, et honorem, <l eID="gen12544" level="1"/> <l level="1" sID="gen12545"/>et nihil deest animæ suæ ex omnibus quæ desiderat ; <l eID="gen12545" level="1"/> <l level="1" sID="gen12546"/>nec tribuit ei potestatem Deus ut comedat ex eo, <l eID="gen12546" level="1"/> <l level="1" sID="gen12547"/>sed homo extraneus vorabit illud : <l eID="gen12547" level="1"/> <l level="1" sID="gen12548"/>hoc vanitas et miseria magna est. <l eID="gen12548" level="1"/>
+vir cui dedit Deus divitias,  et substantiam, et honorem,  et nihil deest animæ suæ ex omnibus quæ desiderat ;  nec tribuit ei potestatem Deus ut comedat ex eo,  sed homo extraneus vorabit illud :  hoc vanitas et miseria magna est. 
 
 ** Ecclesiastes 6:3
 
-Si genuerit quispiam centum liberos, <l eID="gen12549" level="1"/> <l level="1" sID="gen12550"/>et vixerit multos annos, <l eID="gen12550" level="1"/> <l level="1" sID="gen12551"/>et plures dies ætatis habuerit, <l eID="gen12551" level="1"/> <l level="1" sID="gen12552"/>et anima illius non utatur bonis substantiæ suæ, <l eID="gen12552" level="1"/> <l level="1" sID="gen12553"/>sepulturaque careat : <l eID="gen12553" level="1"/> <l level="1" sID="gen12554"/>de hoc ergo pronuntio quod melior illo sit abortivus. <l eID="gen12554" level="1"/>
+Si genuerit quispiam centum liberos,  et vixerit multos annos,  et plures dies ætatis habuerit,  et anima illius non utatur bonis substantiæ suæ,  sepulturaque careat :  de hoc ergo pronuntio quod melior illo sit abortivus. 
 
 ** Ecclesiastes 6:4
 
-Frustra enim venit, <l eID="gen12555" level="1"/> <l level="1" sID="gen12556"/>et pergit ad tenebras, <l eID="gen12556" level="1"/> <l level="1" sID="gen12557"/>et oblivione delebitur nomen ejus. <l eID="gen12557" level="1"/>
+Frustra enim venit,  et pergit ad tenebras,  et oblivione delebitur nomen ejus. 
 
 ** Ecclesiastes 6:5
 
-Non vidit solem, <l eID="gen12558" level="1"/> <l level="1" sID="gen12559"/>neque cognovit distantiam boni et mali. <l eID="gen12559" level="1"/>
+Non vidit solem,  neque cognovit distantiam boni et mali. 
 
 ** Ecclesiastes 6:6
 
-Etiam si duobus millibus annis vixerit, <l eID="gen12560" level="1"/> <l level="1" sID="gen12561"/>et non fuerit perfruitus bonis, <l eID="gen12561" level="1"/> <l level="1" sID="gen12562"/>nonne ad unum locum properant omnia ? <l eID="gen12562" level="1"/>
+Etiam si duobus millibus annis vixerit,  et non fuerit perfruitus bonis,  nonne ad unum locum properant omnia ? 
 
 ** Ecclesiastes 6:7
 
-Omnis labor hominis in ore ejus ; <l eID="gen12563" level="1"/> <l level="1" sID="gen12564"/>sed anima ejus non implebitur. <l eID="gen12564" level="1"/>
+Omnis labor hominis in ore ejus ;  sed anima ejus non implebitur. 
 
 ** Ecclesiastes 6:8
 
-Quid habet amplius sapiens a stulto ? <l eID="gen12565" level="1"/> <l level="1" sID="gen12566"/>et quid pauper, nisi ut pergat illuc ubi est vita ? <l eID="gen12566" level="1"/>
+Quid habet amplius sapiens a stulto ?  et quid pauper, nisi ut pergat illuc ubi est vita ? 
 
 ** Ecclesiastes 6:9
 
-Melius est videre quod cupias, <l eID="gen12567" level="1"/> <l level="1" sID="gen12568"/>quam desiderare quod nescias. <l eID="gen12568" level="1"/> <l level="1" sID="gen12569"/>Sed et hoc vanitas est, et præsumptio spiritus. <l eID="gen12569" level="1"/>
+Melius est videre quod cupias,  quam desiderare quod nescias.  Sed et hoc vanitas est, et præsumptio spiritus. 
 
 ** Ecclesiastes 6:10
 
-Qui futurus est, jam vocatum est nomen ejus ; <l eID="gen12570" level="1"/> <l level="1" sID="gen12571"/>et scitur quod homo sit, <l eID="gen12571" level="1"/> <l level="1" sID="gen12572"/>et non possit contra fortiorem se in judicio contendere. <l eID="gen12572" level="1"/>
+Qui futurus est, jam vocatum est nomen ejus ;  et scitur quod homo sit,  et non possit contra fortiorem se in judicio contendere. 
 
 ** Ecclesiastes 6:11
 
-Verba sunt plurima, <l eID="gen12573" level="1"/> <l level="1" sID="gen12574"/>multamque in disputando habentia vanitatem.  <chapter eID="Eccl.6"/>
+Verba sunt plurima,  multamque in disputando habentia vanitatem.  
 
 * Ecclesiastes 7
 
 ** Ecclesiastes 7:1
 
-Quid necesse est homini majora se quærere, <l eID="gen12575" level="1"/> <l level="1" sID="gen12576"/>cum ignoret quid conducat sibi in vita sua, <l eID="gen12576" level="1"/> <l level="1" sID="gen12577"/>numero dierum peregrinationis suæ, <l eID="gen12577" level="1"/> <l level="1" sID="gen12578"/>et tempore quod velut umbra præterit ? <l eID="gen12578" level="1"/> <l level="1" sID="gen12579"/>aut quis ei poterit indicare <l eID="gen12579" level="1"/> <l level="1" sID="gen12580"/>quod post eum futurum sub sole sit ? <l eID="gen12580" level="1"/>
+Quid necesse est homini majora se quærere,  cum ignoret quid conducat sibi in vita sua,  numero dierum peregrinationis suæ,  et tempore quod velut umbra præterit ?  aut quis ei poterit indicare  quod post eum futurum sub sole sit ? 
 
 ** Ecclesiastes 7:2
 
-Melius est nomen bonum quam unguenta pretiosa, <l eID="gen12581" level="1"/> <l level="1" sID="gen12582"/>et dies mortis die nativitatis. <l eID="gen12582" level="1"/>
+Melius est nomen bonum quam unguenta pretiosa,  et dies mortis die nativitatis. 
 
 ** Ecclesiastes 7:3
 
-Melius est ire ad domum luctus <l eID="gen12583" level="1"/> <l level="1" sID="gen12584"/>quam ad domum convivii ; <l eID="gen12584" level="1"/> <l level="1" sID="gen12585"/>in illa enim finis cunctorum admonetur hominum, <l eID="gen12585" level="1"/> <l level="1" sID="gen12586"/>et vivens cogitat quid futurum sit. <l eID="gen12586" level="1"/>
+Melius est ire ad domum luctus  quam ad domum convivii ;  in illa enim finis cunctorum admonetur hominum,  et vivens cogitat quid futurum sit. 
 
 ** Ecclesiastes 7:4
 
-Melior est ira risu, <l eID="gen12587" level="1"/> <l level="1" sID="gen12588"/>quia per tristitiam vultus corrigitur animus delinquentis. <l eID="gen12588" level="1"/>
+Melior est ira risu,  quia per tristitiam vultus corrigitur animus delinquentis. 
 
 ** Ecclesiastes 7:5
 
-Cor sapientium ubi tristitia est, <l eID="gen12589" level="1"/> <l level="1" sID="gen12590"/>et cor stultorum ubi lætitia. <l eID="gen12590" level="1"/>
+Cor sapientium ubi tristitia est,  et cor stultorum ubi lætitia. 
 
 ** Ecclesiastes 7:6
 
-Melius est a sapiente corripi, <l eID="gen12591" level="1"/> <l level="1" sID="gen12592"/>quam stultorum adulatione decipi ; <l eID="gen12592" level="1"/>
+Melius est a sapiente corripi,  quam stultorum adulatione decipi ; 
 
 ** Ecclesiastes 7:7
 
-quia sicut sonitus spinarum ardentium sub olla, <l eID="gen12593" level="1"/> <l level="1" sID="gen12594"/>sic risus stulti. <l eID="gen12594" level="1"/> <l level="1" sID="gen12595"/>Sed et hoc vanitas. <l eID="gen12595" level="1"/>
+quia sicut sonitus spinarum ardentium sub olla,  sic risus stulti.  Sed et hoc vanitas. 
 
 ** Ecclesiastes 7:8
 
-Calumnia conturbat sapientem, <l eID="gen12596" level="1"/> <l level="1" sID="gen12597"/>et perdet robur cordis illius. <l eID="gen12597" level="1"/>
+Calumnia conturbat sapientem,  et perdet robur cordis illius. 
 
 ** Ecclesiastes 7:9
 
-Melior est finis orationis quam principium. <l eID="gen12598" level="1"/> <l level="1" sID="gen12599"/>Melior est patiens arrogante. <l eID="gen12599" level="1"/>
+Melior est finis orationis quam principium.  Melior est patiens arrogante. 
 
 ** Ecclesiastes 7:10
 
-Ne sis velox ad irascendum, <l eID="gen12600" level="1"/> <l level="1" sID="gen12601"/>quia ira in sinu stulti requiescit. <l eID="gen12601" level="1"/>
+Ne sis velox ad irascendum,  quia ira in sinu stulti requiescit. 
 
 ** Ecclesiastes 7:11
 
-Ne dicas : Quid putas causæ est <l eID="gen12602" level="1"/> <l level="1" sID="gen12603"/>quod priora tempora meliora fuere quam nunc sunt ? <l eID="gen12603" level="1"/> <l level="1" sID="gen12604"/>stulta enim est hujuscemodi interrogatio. <l eID="gen12604" level="1"/>
+Ne dicas : Quid putas causæ est  quod priora tempora meliora fuere quam nunc sunt ?  stulta enim est hujuscemodi interrogatio. 
 
 ** Ecclesiastes 7:12
 
-Utilior est sapientia cum divitiis, <l eID="gen12605" level="1"/> <l level="1" sID="gen12606"/>et magis prodest videntibus solem. <l eID="gen12606" level="1"/>
+Utilior est sapientia cum divitiis,  et magis prodest videntibus solem. 
 
 ** Ecclesiastes 7:13
 
-Sicut enim protegit sapientia, sic protegit pecunia ; <l eID="gen12607" level="1"/> <l level="1" sID="gen12608"/>hoc autem plus habet eruditio et sapientia, <l eID="gen12608" level="1"/> <l level="1" sID="gen12609"/>quod vitam tribuunt possessori suo. <l eID="gen12609" level="1"/>
+Sicut enim protegit sapientia, sic protegit pecunia ;  hoc autem plus habet eruditio et sapientia,  quod vitam tribuunt possessori suo. 
 
 ** Ecclesiastes 7:14
 
-Considera opera Dei, <l eID="gen12610" level="1"/> <l level="1" sID="gen12611"/>quod nemo possit corrigere quem ille despexerit. <l eID="gen12611" level="1"/>
+Considera opera Dei,  quod nemo possit corrigere quem ille despexerit. 
 
 ** Ecclesiastes 7:15
 
-In die bona fruere bonis, <l eID="gen12612" level="1"/> <l level="1" sID="gen12613"/>et malam diem præcave ; <l eID="gen12613" level="1"/> <l level="1" sID="gen12614"/>sicut enim hanc, sic et illam fecit Deus, <l eID="gen12614" level="1"/> <l level="1" sID="gen12615"/>ut non inveniat homo contra eum justas querimonias. <l eID="gen12615" level="1"/>
+In die bona fruere bonis,  et malam diem præcave ;  sicut enim hanc, sic et illam fecit Deus,  ut non inveniat homo contra eum justas querimonias. 
 
 ** Ecclesiastes 7:16
 
-Hæc quoque vidi in diebus vanitatis meæ : <l eID="gen12616" level="1"/> <l level="1" sID="gen12617"/>justus perit in justitia sua, <l eID="gen12617" level="1"/> <l level="1" sID="gen12618"/>et impius multo vivit tempore in malitia sua. <l eID="gen12618" level="1"/>
+Hæc quoque vidi in diebus vanitatis meæ :  justus perit in justitia sua,  et impius multo vivit tempore in malitia sua. 
 
 ** Ecclesiastes 7:17
 
-Noli esse justus multum, <l eID="gen12619" level="1"/> <l level="1" sID="gen12620"/>neque plus sapias quam necesse est, <l eID="gen12620" level="1"/> <l level="1" sID="gen12621"/>ne obstupescas. <l eID="gen12621" level="1"/>
+Noli esse justus multum,  neque plus sapias quam necesse est,  ne obstupescas. 
 
 ** Ecclesiastes 7:18
 
-Ne impie agas multum, <l eID="gen12622" level="1"/> <l level="1" sID="gen12623"/>et noli esse stultus, <l eID="gen12623" level="1"/> <l level="1" sID="gen12624"/>ne moriaris in tempore non tuo. <l eID="gen12624" level="1"/>
+Ne impie agas multum,  et noli esse stultus,  ne moriaris in tempore non tuo. 
 
 ** Ecclesiastes 7:19
 
-Bonum est te sustentare justum : <l eID="gen12625" level="1"/> <l level="1" sID="gen12626"/>sed et ab illo ne subtrahas manum tuam ; <l eID="gen12626" level="1"/> <l level="1" sID="gen12627"/>quia qui timet Deum nihil negligit. <l eID="gen12627" level="1"/>
+Bonum est te sustentare justum :  sed et ab illo ne subtrahas manum tuam ;  quia qui timet Deum nihil negligit. 
 
 ** Ecclesiastes 7:20
 
-Sapientia confortavit sapientem <l eID="gen12628" level="1"/> <l level="1" sID="gen12629"/>super decem principes civitatis ; <l eID="gen12629" level="1"/>
+Sapientia confortavit sapientem  super decem principes civitatis ; 
 
 ** Ecclesiastes 7:21
 
-non est enim homo justus in terra <l eID="gen12630" level="1"/> <l level="1" sID="gen12631"/>qui faciat bonum et non peccet. <l eID="gen12631" level="1"/>
+non est enim homo justus in terra  qui faciat bonum et non peccet. 
 
 ** Ecclesiastes 7:22
 
-Sed et cunctis sermonibus qui dicuntur <l eID="gen12632" level="1"/> <l level="1" sID="gen12633"/>ne accomodes cor tuum, <l eID="gen12633" level="1"/> <l level="1" sID="gen12634"/>ne forte audias servum tuum maledicentem tibi ; <l eID="gen12634" level="1"/>
+Sed et cunctis sermonibus qui dicuntur  ne accomodes cor tuum,  ne forte audias servum tuum maledicentem tibi ; 
 
 ** Ecclesiastes 7:23
 
-scit enim conscientia tua <l eID="gen12635" level="1"/> <l level="1" sID="gen12636"/>quia et tu crebro maledixisti aliis. <l eID="gen12636" level="1"/>
+scit enim conscientia tua  quia et tu crebro maledixisti aliis. 
 
 ** Ecclesiastes 7:24
 
-Cuncta tentavi in sapientia. <l eID="gen12637" level="1"/> <l level="1" sID="gen12638"/>Dixi : Sapiens efficiar : <l eID="gen12638" level="1"/> <l level="1" sID="gen12639"/>et ipsa longius recessit a me, <l eID="gen12639" level="1"/>
+Cuncta tentavi in sapientia.  Dixi : Sapiens efficiar :  et ipsa longius recessit a me, 
 
 ** Ecclesiastes 7:25
 
-multo magis quam erat. <l eID="gen12640" level="1"/> <l level="1" sID="gen12641"/>Et alta profunditas, quis inveniet eam ? <l eID="gen12641" level="1"/>
+multo magis quam erat.  Et alta profunditas, quis inveniet eam ? 
 
 ** Ecclesiastes 7:26
 
-Lustravi universa animo meo, <l eID="gen12642" level="1"/> <l level="1" sID="gen12643"/>ut scirem et considerarem, <l eID="gen12643" level="1"/> <l level="1" sID="gen12644"/>et quærerem sapientiam, et rationem, <l eID="gen12644" level="1"/> <l level="1" sID="gen12645"/>et ut cognoscerem impietatem stulti, <l eID="gen12645" level="1"/> <l level="1" sID="gen12646"/>et errorem imprudentium : <l eID="gen12646" level="1"/>
+Lustravi universa animo meo,  ut scirem et considerarem,  et quærerem sapientiam, et rationem,  et ut cognoscerem impietatem stulti,  et errorem imprudentium : 
 
 ** Ecclesiastes 7:27
 
-et inveni amariorem morte mulierem, <l eID="gen12647" level="1"/> <l level="1" sID="gen12648"/>quæ laqueus venatorum est, <l eID="gen12648" level="1"/> <l level="1" sID="gen12649"/>et sagena cor ejus ; <l eID="gen12649" level="1"/> <l level="1" sID="gen12650"/>vincula sunt manus illius. <l eID="gen12650" level="1"/> <l level="1" sID="gen12651"/>Qui placet Deo effugiet illam ; <l eID="gen12651" level="1"/> <l level="1" sID="gen12652"/>qui autem peccator est capietur ab illa. <l eID="gen12652" level="1"/>
+et inveni amariorem morte mulierem,  quæ laqueus venatorum est,  et sagena cor ejus ;  vincula sunt manus illius.  Qui placet Deo effugiet illam ;  qui autem peccator est capietur ab illa. 
 
 ** Ecclesiastes 7:28
 
-Ecce hoc inveni, dixit Ecclesiastes, <l eID="gen12653" level="1"/> <l level="1" sID="gen12654"/>unum et alterum ut invenirem rationem, <l eID="gen12654" level="1"/>
+Ecce hoc inveni, dixit Ecclesiastes,  unum et alterum ut invenirem rationem, 
 
 ** Ecclesiastes 7:29
 
-quam adhuc quærit anima mea, <l eID="gen12655" level="1"/> <l level="1" sID="gen12656"/>et non inveni. <l eID="gen12656" level="1"/> <l level="1" sID="gen12657"/>Virum de mille unum reperi ; <l eID="gen12657" level="1"/> <l level="1" sID="gen12658"/>mulierem ex omnibus non inveni. <l eID="gen12658" level="1"/>
+quam adhuc quærit anima mea,  et non inveni.  Virum de mille unum reperi ;  mulierem ex omnibus non inveni. 
 
 ** Ecclesiastes 7:30
 
-Solummodo hoc inveni, <l eID="gen12659" level="1"/> <l level="1" sID="gen12660"/>quod fecerit Deus hominem rectum, <l eID="gen12660" level="1"/> <l level="1" sID="gen12661"/>et ipse se infinitis miscuerit quæstionibus. <l eID="gen12661" level="1"/> <l level="1" sID="gen12662"/>Quis talis ut sapiens est ? <l eID="gen12662" level="1"/> <l level="1" sID="gen12663"/>et quis cognovit solutionem verbi ?  <chapter eID="Eccl.7"/>
+Solummodo hoc inveni,  quod fecerit Deus hominem rectum,  et ipse se infinitis miscuerit quæstionibus.  Quis talis ut sapiens est ?  et quis cognovit solutionem verbi ?  
 
 * Ecclesiastes 8
 
 ** Ecclesiastes 8:1
 
-Sapientia hominis lucet in vultu ejus, <l eID="gen12664" level="1"/> <l level="1" sID="gen12665"/>et potentissimus faciem illius commutabit. <l eID="gen12665" level="1"/>
+Sapientia hominis lucet in vultu ejus,  et potentissimus faciem illius commutabit. 
 
 ** Ecclesiastes 8:2
 
-Ego os regis observo, <l eID="gen12666" level="1"/> <l level="1" sID="gen12667"/>et præcepta juramenti Dei. <l eID="gen12667" level="1"/>
+Ego os regis observo,  et præcepta juramenti Dei. 
 
 ** Ecclesiastes 8:3
 
-Ne festines recedere a facie ejus, <l eID="gen12668" level="1"/> <l level="1" sID="gen12669"/>neque permaneas in opere malo : <l eID="gen12669" level="1"/> <l level="1" sID="gen12670"/>quia omne quod voluerit faciet. <l eID="gen12670" level="1"/>
+Ne festines recedere a facie ejus,  neque permaneas in opere malo :  quia omne quod voluerit faciet. 
 
 ** Ecclesiastes 8:4
 
-Et sermo illius potestate plenus est, <l eID="gen12671" level="1"/> <l level="1" sID="gen12672"/>nec dicere ei quisquam potest : Quare ita facis ? <l eID="gen12672" level="1"/>
+Et sermo illius potestate plenus est,  nec dicere ei quisquam potest : Quare ita facis ? 
 
 ** Ecclesiastes 8:5
 
-Qui custodit præceptum non experietur quidquam mali. <l eID="gen12673" level="1"/> <l level="1" sID="gen12674"/>Tempus et responsionem cor sapientis intelligit. <l eID="gen12674" level="1"/>
+Qui custodit præceptum non experietur quidquam mali.  Tempus et responsionem cor sapientis intelligit. 
 
 ** Ecclesiastes 8:6
 
-Omni negotio tempus est, et opportunitas : <l eID="gen12675" level="1"/> <l level="1" sID="gen12676"/>et multa hominis afflictio, <l eID="gen12676" level="1"/>
+Omni negotio tempus est, et opportunitas :  et multa hominis afflictio, 
 
 ** Ecclesiastes 8:7
 
-quia ignorat præterita, <l eID="gen12677" level="1"/> <l level="1" sID="gen12678"/>et futura nullo scire potest nuntio. <l eID="gen12678" level="1"/>
+quia ignorat præterita,  et futura nullo scire potest nuntio. 
 
 ** Ecclesiastes 8:8
 
-Non est in hominis potestate prohibere spiritum, <l eID="gen12679" level="1"/> <l level="1" sID="gen12680"/>nec habet potestatem in die mortis : <l eID="gen12680" level="1"/> <l level="1" sID="gen12681"/>nec sinitur quiescere ingruente bello, <l eID="gen12681" level="1"/> <l level="1" sID="gen12682"/>neque salvabit impietas impium. <l eID="gen12682" level="1"/>
+Non est in hominis potestate prohibere spiritum,  nec habet potestatem in die mortis :  nec sinitur quiescere ingruente bello,  neque salvabit impietas impium. 
 
 ** Ecclesiastes 8:9
 
-Omnia hæc consideravi, <l eID="gen12683" level="1"/> <l level="1" sID="gen12684"/>et dedi cor meum in cunctis operibus quæ fiunt sub sole. <l eID="gen12684" level="1"/> <l level="1" sID="gen12685"/>Interdum dominatur homo homini in malum suum. <l eID="gen12685" level="1"/>
+Omnia hæc consideravi,  et dedi cor meum in cunctis operibus quæ fiunt sub sole.  Interdum dominatur homo homini in malum suum. 
 
 ** Ecclesiastes 8:10
 
-Vidi impios sepultos, <l eID="gen12686" level="1"/> <l level="1" sID="gen12687"/>qui etiam cum adhuc viverent <l eID="gen12687" level="1"/> <l level="1" sID="gen12688"/>in loco sancto erant, <l eID="gen12688" level="1"/> <l level="1" sID="gen12689"/>et laudabantur in civitate <l eID="gen12689" level="1"/> <l level="1" sID="gen12690"/>quasi justorum operum. <l eID="gen12690" level="1"/> <l level="1" sID="gen12691"/>Sed et hoc vanitas est. <l eID="gen12691" level="1"/>
+Vidi impios sepultos,  qui etiam cum adhuc viverent  in loco sancto erant,  et laudabantur in civitate  quasi justorum operum.  Sed et hoc vanitas est. 
 
 ** Ecclesiastes 8:11
 
-Etenim quia non profertur cito contra malos sententia, <l eID="gen12692" level="1"/> <l level="1" sID="gen12693"/>absque timore ullo <l eID="gen12693" level="1"/> <l level="1" sID="gen12694"/>filii hominum perpetrant mala. <l eID="gen12694" level="1"/>
+Etenim quia non profertur cito contra malos sententia,  absque timore ullo  filii hominum perpetrant mala. 
 
 ** Ecclesiastes 8:12
 
-Attamen peccator ex eo quod centies facit malum, <l eID="gen12695" level="1"/> <l level="1" sID="gen12696"/>et per patientiam sustentatur ; <l eID="gen12696" level="1"/> <l level="1" sID="gen12697"/>ego cognovi quod erit bonum timentibus Deum, <l eID="gen12697" level="1"/> <l level="1" sID="gen12698"/>qui verentur faciem ejus. <l eID="gen12698" level="1"/>
+Attamen peccator ex eo quod centies facit malum,  et per patientiam sustentatur ;  ego cognovi quod erit bonum timentibus Deum,  qui verentur faciem ejus. 
 
 ** Ecclesiastes 8:13
 
-Non sit bonum impio, <l eID="gen12699" level="1"/> <l level="1" sID="gen12700"/>nec prolongentur dies ejus, <l eID="gen12700" level="1"/> <l level="1" sID="gen12701"/>sed quasi umbra transeant qui non timent faciem Domini. <l eID="gen12701" level="1"/>
+Non sit bonum impio,  nec prolongentur dies ejus,  sed quasi umbra transeant qui non timent faciem Domini. 
 
 ** Ecclesiastes 8:14
 
-Est et alia vanitas quæ fit super terram : <l eID="gen12702" level="1"/> <l level="1" sID="gen12703"/>sunt justi quibus mala proveniunt <l eID="gen12703" level="1"/> <l level="1" sID="gen12704"/>quasi opera egerint impiorum : <l eID="gen12704" level="1"/> <l level="1" sID="gen12705"/>et sunt impii qui ita securi sunt <l eID="gen12705" level="1"/> <l level="1" sID="gen12706"/>quasi justorum facta habeant. <l eID="gen12706" level="1"/> <l level="1" sID="gen12707"/>Sed et hoc vanissimum judico. <l eID="gen12707" level="1"/>
+Est et alia vanitas quæ fit super terram :  sunt justi quibus mala proveniunt  quasi opera egerint impiorum :  et sunt impii qui ita securi sunt  quasi justorum facta habeant.  Sed et hoc vanissimum judico. 
 
 ** Ecclesiastes 8:15
 
-Laudavi igitur lætitiam ; <l eID="gen12708" level="1"/> <l level="1" sID="gen12709"/>quod non esset homini bonum sub sole, <l eID="gen12709" level="1"/> <l level="1" sID="gen12710"/>nisi quod comederet, et biberet, atque gauderet, <l eID="gen12710" level="1"/> <l level="1" sID="gen12711"/>et hoc solum secum auferret de labore suo, <l eID="gen12711" level="1"/> <l level="1" sID="gen12712"/>in diebus vitæ suæ quos dedit ei Deus sub sole. <l eID="gen12712" level="1"/>
+Laudavi igitur lætitiam ;  quod non esset homini bonum sub sole,  nisi quod comederet, et biberet, atque gauderet,  et hoc solum secum auferret de labore suo,  in diebus vitæ suæ quos dedit ei Deus sub sole. 
 
 ** Ecclesiastes 8:16
 
-Et apposui cor meum ut scirem sapientiam, <l eID="gen12713" level="1"/> <l level="1" sID="gen12714"/>et intelligerem distentionem quæ versatur in terra. <l eID="gen12714" level="1"/> <l level="1" sID="gen12715"/>Est homo qui diebus et noctibus somnum non capit oculis. <l eID="gen12715" level="1"/>
+Et apposui cor meum ut scirem sapientiam,  et intelligerem distentionem quæ versatur in terra.  Est homo qui diebus et noctibus somnum non capit oculis. 
 
 ** Ecclesiastes 8:17
 
-Et intellexi quod omnium operum Dei <l eID="gen12716" level="1"/> <l level="1" sID="gen12717"/>nullam possit homo invenire rationem <l eID="gen12717" level="1"/> <l level="1" sID="gen12718"/>eorum quæ fiunt sub sole ; <l eID="gen12718" level="1"/> <l level="1" sID="gen12719"/>et quanto plus laboraverit ad quærendum, <l eID="gen12719" level="1"/> <l level="1" sID="gen12720"/>tanto minus inveniat : <l eID="gen12720" level="1"/> <l level="1" sID="gen12721"/>etiam si dixerit sapiens se nosse, non poterit reperire.  <chapter eID="Eccl.8"/>
+Et intellexi quod omnium operum Dei  nullam possit homo invenire rationem  eorum quæ fiunt sub sole ;  et quanto plus laboraverit ad quærendum,  tanto minus inveniat :  etiam si dixerit sapiens se nosse, non poterit reperire.  
 
 * Ecclesiastes 9
 
 ** Ecclesiastes 9:1
 
-Omnia hæc tractavi in corde meo, <l eID="gen12722" level="1"/> <l level="1" sID="gen12723"/>ut curiose intelligerem. <l eID="gen12723" level="1"/> <l level="1" sID="gen12724"/>Sunt justi atque sapientes, <l eID="gen12724" level="1"/> <l level="1" sID="gen12725"/>et opera eorum in manu Dei ; <l eID="gen12725" level="1"/> <l level="1" sID="gen12726"/>et tamen nescit homo utrum amore an odio dignus sit. <l eID="gen12726" level="1"/>
+Omnia hæc tractavi in corde meo,  ut curiose intelligerem.  Sunt justi atque sapientes,  et opera eorum in manu Dei ;  et tamen nescit homo utrum amore an odio dignus sit. 
 
 ** Ecclesiastes 9:2
 
-Sed omnia in futurum servantur incerta, <l eID="gen12727" level="1"/> <l level="1" sID="gen12728"/>eo quod universa æque eveniant justo et impio, <l eID="gen12728" level="1"/> <l level="1" sID="gen12729"/>bono et malo, mundo et immundo, <l eID="gen12729" level="1"/> <l level="1" sID="gen12730"/>immolanti victimas et sacrificia contemnenti. <l eID="gen12730" level="1"/> <l level="1" sID="gen12731"/>Sicut bonus, sic et peccator ; <l eID="gen12731" level="1"/> <l level="1" sID="gen12732"/>ut perjurus, ita et ille qui verum dejerat. <l eID="gen12732" level="1"/>
+Sed omnia in futurum servantur incerta,  eo quod universa æque eveniant justo et impio,  bono et malo, mundo et immundo,  immolanti victimas et sacrificia contemnenti.  Sicut bonus, sic et peccator ;  ut perjurus, ita et ille qui verum dejerat. 
 
 ** Ecclesiastes 9:3
 
-Hoc est pessimum inter omnia quæ sub sole fiunt : <l eID="gen12733" level="1"/> <l level="1" sID="gen12734"/>quia eadem cunctis eveniunt. <l eID="gen12734" level="1"/> <l level="1" sID="gen12735"/>Unde et corda filiorum hominum implentur malitia <l eID="gen12735" level="1"/> <l level="1" sID="gen12736"/>et contemptu in vita sua, <l eID="gen12736" level="1"/> <l level="1" sID="gen12737"/>et post hæc ad inferos deducentur. <l eID="gen12737" level="1"/>
+Hoc est pessimum inter omnia quæ sub sole fiunt :  quia eadem cunctis eveniunt.  Unde et corda filiorum hominum implentur malitia  et contemptu in vita sua,  et post hæc ad inferos deducentur. 
 
 ** Ecclesiastes 9:4
 
-Nemo est qui semper vivat, et qui hujus rei habeat fiduciam ; <l eID="gen12738" level="1"/> <l level="1" sID="gen12739"/>melior est canis vivus leone mortuo. <l eID="gen12739" level="1"/>
+Nemo est qui semper vivat, et qui hujus rei habeat fiduciam ;  melior est canis vivus leone mortuo. 
 
 ** Ecclesiastes 9:5
 
-Viventes enim sciunt se esse morituros ; <l eID="gen12740" level="1"/> <l level="1" sID="gen12741"/>mortui vero nihil noverunt amplius, <l eID="gen12741" level="1"/> <l level="1" sID="gen12742"/>nec habent ultra mercedem, <l eID="gen12742" level="1"/> <l level="1" sID="gen12743"/>quia oblivioni tradita est memoria eorum. <l eID="gen12743" level="1"/>
+Viventes enim sciunt se esse morituros ;  mortui vero nihil noverunt amplius,  nec habent ultra mercedem,  quia oblivioni tradita est memoria eorum. 
 
 ** Ecclesiastes 9:6
 
-Amor quoque, et odium, et invidiæ simul perierunt ; <l eID="gen12744" level="1"/> <l level="1" sID="gen12745"/>nec habent partem in hoc sæculo, <l eID="gen12745" level="1"/> <l level="1" sID="gen12746"/>et in opere quod sub sole geritur. <l eID="gen12746" level="1"/>
+Amor quoque, et odium, et invidiæ simul perierunt ;  nec habent partem in hoc sæculo,  et in opere quod sub sole geritur. 
 
 ** Ecclesiastes 9:7
 
-Vade ergo, et comede in lætitia panem tuum, <l eID="gen12747" level="1"/> <l level="1" sID="gen12748"/>et bibe cum gaudio vinum tuum, <l eID="gen12748" level="1"/> <l level="1" sID="gen12749"/>quia Deo placent opera tua. <l eID="gen12749" level="1"/>
+Vade ergo, et comede in lætitia panem tuum,  et bibe cum gaudio vinum tuum,  quia Deo placent opera tua. 
 
 ** Ecclesiastes 9:8
 
-Omni tempore sint vestimenta tua candida, <l eID="gen12750" level="1"/> <l level="1" sID="gen12751"/>et oleum de capite tuo non deficiat. <l eID="gen12751" level="1"/>
+Omni tempore sint vestimenta tua candida,  et oleum de capite tuo non deficiat. 
 
 ** Ecclesiastes 9:9
 
-Perfruere vita cum uxore quam diligis, <l eID="gen12752" level="1"/> <l level="1" sID="gen12753"/>cunctis diebus vitæ instabilitatis tuæ, <l eID="gen12753" level="1"/> <l level="1" sID="gen12754"/>qui dati sunt tibi sub sole omni tempore vanitatis tuæ : <l eID="gen12754" level="1"/> <l level="1" sID="gen12755"/>hæc est enim pars in vita <l eID="gen12755" level="1"/> <l level="1" sID="gen12756"/>et in labore tuo quo laboras sub sole. <l eID="gen12756" level="1"/>
+Perfruere vita cum uxore quam diligis,  cunctis diebus vitæ instabilitatis tuæ,  qui dati sunt tibi sub sole omni tempore vanitatis tuæ :  hæc est enim pars in vita  et in labore tuo quo laboras sub sole. 
 
 ** Ecclesiastes 9:10
 
-Quodcumque facere potest manus tua, <l eID="gen12757" level="1"/> <l level="1" sID="gen12758"/>instanter operare, <l eID="gen12758" level="1"/> <l level="1" sID="gen12759"/>quia nec opus, nec ratio, nec sapientia, nec scientia <l eID="gen12759" level="1"/> <l level="1" sID="gen12760"/>erunt apud inferos, quo tu properas. <l eID="gen12760" level="1"/>
+Quodcumque facere potest manus tua,  instanter operare,  quia nec opus, nec ratio, nec sapientia, nec scientia  erunt apud inferos, quo tu properas. 
 
 ** Ecclesiastes 9:11
 
-Verti me ad aliud, et vidi sub sole <l eID="gen12761" level="1"/> <l level="1" sID="gen12762"/>nec velocium esse cursum, <l eID="gen12762" level="1"/> <l level="1" sID="gen12763"/>nec fortium bellum, <l eID="gen12763" level="1"/> <l level="1" sID="gen12764"/>nec sapientium panem, <l eID="gen12764" level="1"/> <l level="1" sID="gen12765"/>nec doctorum divitias, <l eID="gen12765" level="1"/> <l level="1" sID="gen12766"/>nec artificum gratiam ; <l eID="gen12766" level="1"/> <l level="1" sID="gen12767"/>sed tempus casumque in omnibus. <l eID="gen12767" level="1"/>
+Verti me ad aliud, et vidi sub sole  nec velocium esse cursum,  nec fortium bellum,  nec sapientium panem,  nec doctorum divitias,  nec artificum gratiam ;  sed tempus casumque in omnibus. 
 
 ** Ecclesiastes 9:12
 
-Nescit homo finem suum ; <l eID="gen12768" level="1"/> <l level="1" sID="gen12769"/>sed sicut pisces capiuntur hamo, <l eID="gen12769" level="1"/> <l level="1" sID="gen12770"/>et sicut aves laqueo comprehenduntur, <l eID="gen12770" level="1"/> <l level="1" sID="gen12771"/>sic capiuntur homines in tempore malo, <l eID="gen12771" level="1"/> <l level="1" sID="gen12772"/>cum eis extemplo supervenerit. <l eID="gen12772" level="1"/>
+Nescit homo finem suum ;  sed sicut pisces capiuntur hamo,  et sicut aves laqueo comprehenduntur,  sic capiuntur homines in tempore malo,  cum eis extemplo supervenerit. 
 
 ** Ecclesiastes 9:13
 
-Hanc quoque sub sole vidi sapientiam, <l eID="gen12773" level="1"/> <l level="1" sID="gen12774"/>et probavi maximam : <l eID="gen12774" level="1"/>
+Hanc quoque sub sole vidi sapientiam,  et probavi maximam : 
 
 ** Ecclesiastes 9:14
 
-civitas parva, et pauci in ea viri ; <l eID="gen12775" level="1"/> <l level="1" sID="gen12776"/>venit contra eam rex magnus, et vallavit eam, <l eID="gen12776" level="1"/> <l level="1" sID="gen12777"/>exstruxitque munitiones per gyrum, et perfecta est obsidio. <l eID="gen12777" level="1"/>
+civitas parva, et pauci in ea viri ;  venit contra eam rex magnus, et vallavit eam,  exstruxitque munitiones per gyrum, et perfecta est obsidio. 
 
 ** Ecclesiastes 9:15
 
-Inventusque est in ea vir pauper et sapiens, <l eID="gen12778" level="1"/> <l level="1" sID="gen12779"/>et liberavit urbem per sapientiam suam ; <l eID="gen12779" level="1"/> <l level="1" sID="gen12780"/>et nullus deinceps recordatus est hominis illius pauperis. <l eID="gen12780" level="1"/>
+Inventusque est in ea vir pauper et sapiens,  et liberavit urbem per sapientiam suam ;  et nullus deinceps recordatus est hominis illius pauperis. 
 
 ** Ecclesiastes 9:16
 
-Et dicebam ego meliorem esse sapientiam fortitudine. <l eID="gen12781" level="1"/> <l level="1" sID="gen12782"/>Quomodo ergo sapientia pauperis contempta est, <l eID="gen12782" level="1"/> <l level="1" sID="gen12783"/>et verba ejus non sunt audita ? <l eID="gen12783" level="1"/>
+Et dicebam ego meliorem esse sapientiam fortitudine.  Quomodo ergo sapientia pauperis contempta est,  et verba ejus non sunt audita ? 
 
 ** Ecclesiastes 9:17
 
-Verba sapientium audiuntur in silentio, <l eID="gen12784" level="1"/> <l level="1" sID="gen12785"/>plus quam clamor principis inter stultos. <l eID="gen12785" level="1"/>
+Verba sapientium audiuntur in silentio,  plus quam clamor principis inter stultos. 
 
 ** Ecclesiastes 9:18
 
-Melior est sapientia quam arma bellica ; <l eID="gen12786" level="1"/> <l level="1" sID="gen12787"/>et qui in uno peccaverit, multa bona perdet.  <chapter eID="Eccl.9"/>
+Melior est sapientia quam arma bellica ;  et qui in uno peccaverit, multa bona perdet.  
 
 * Ecclesiastes 10
 
 ** Ecclesiastes 10:1
 
-Muscæ morientes perdunt suavitatem unguenti. <l eID="gen12788" level="1"/> <l level="1" sID="gen12789"/>Pretiosior est sapientia et gloria, <l eID="gen12789" level="1"/> <l level="1" sID="gen12790"/>parva et ad tempus stultitia. <l eID="gen12790" level="1"/>
+Muscæ morientes perdunt suavitatem unguenti.  Pretiosior est sapientia et gloria,  parva et ad tempus stultitia. 
 
 ** Ecclesiastes 10:2
 
-Cor sapientis in dextera ejus, <l eID="gen12791" level="1"/> <l level="1" sID="gen12792"/>et cor stulti in sinistra illius. <l eID="gen12792" level="1"/>
+Cor sapientis in dextera ejus,  et cor stulti in sinistra illius. 
 
 ** Ecclesiastes 10:3
 
-Sed et in via stultus ambulans, <l eID="gen12793" level="1"/> <l level="1" sID="gen12794"/>cum ipse insipiens sit, <l eID="gen12794" level="1"/> <l level="1" sID="gen12795"/>omnes stultos æstimat. <l eID="gen12795" level="1"/>
+Sed et in via stultus ambulans,  cum ipse insipiens sit,  omnes stultos æstimat. 
 
 ** Ecclesiastes 10:4
 
-Si spiritus potestatem habentis ascenderit super te, <l eID="gen12796" level="1"/> <l level="1" sID="gen12797"/>locum tuum ne demiseris, <l eID="gen12797" level="1"/> <l level="1" sID="gen12798"/>quia curatio faciet cessare peccata maxima. <l eID="gen12798" level="1"/>
+Si spiritus potestatem habentis ascenderit super te,  locum tuum ne demiseris,  quia curatio faciet cessare peccata maxima. 
 
 ** Ecclesiastes 10:5
 
-Est malum quod vidi sub sole, <l eID="gen12799" level="1"/> <l level="1" sID="gen12800"/>quasi per errorem egrediens a facie principis : <l eID="gen12800" level="1"/>
+Est malum quod vidi sub sole,  quasi per errorem egrediens a facie principis : 
 
 ** Ecclesiastes 10:6
 
-positum stultum in dignitate sublimi, <l eID="gen12801" level="1"/> <l level="1" sID="gen12802"/>et divites sedere deorsum. <l eID="gen12802" level="1"/>
+positum stultum in dignitate sublimi,  et divites sedere deorsum. 
 
 ** Ecclesiastes 10:7
 
-Vidi servos in equis, <l eID="gen12803" level="1"/> <l level="1" sID="gen12804"/>et principes ambulantes super terram quasi servos. <l eID="gen12804" level="1"/>
+Vidi servos in equis,  et principes ambulantes super terram quasi servos. 
 
 ** Ecclesiastes 10:8
 
-Qui fodit foveam incidet in eam, <l eID="gen12805" level="1"/> <l level="1" sID="gen12806"/>et qui dissipat sepem mordebit eum coluber. <l eID="gen12806" level="1"/>
+Qui fodit foveam incidet in eam,  et qui dissipat sepem mordebit eum coluber. 
 
 ** Ecclesiastes 10:9
 
-Qui transfert lapides affligetur in eis, <l eID="gen12807" level="1"/> <l level="1" sID="gen12808"/>et qui scindit ligna vulnerabitur ab eis. <l eID="gen12808" level="1"/>
+Qui transfert lapides affligetur in eis,  et qui scindit ligna vulnerabitur ab eis. 
 
 ** Ecclesiastes 10:10
 
-Si retusum fuerit ferrum, <l eID="gen12809" level="1"/> <l level="1" sID="gen12810"/>et hoc non ut prius, sed hebetatum fuerit, <l eID="gen12810" level="1"/> <l level="1" sID="gen12811"/>multo labore exacuetur, <l eID="gen12811" level="1"/> <l level="1" sID="gen12812"/>et post industriam sequetur sapientia. <l eID="gen12812" level="1"/>
+Si retusum fuerit ferrum,  et hoc non ut prius, sed hebetatum fuerit,  multo labore exacuetur,  et post industriam sequetur sapientia. 
 
 ** Ecclesiastes 10:11
 
-Si mordeat serpens in silentio, <l eID="gen12813" level="1"/> <l level="1" sID="gen12814"/>nihil eo minus habet qui occulte detrahit. <l eID="gen12814" level="1"/>
+Si mordeat serpens in silentio,  nihil eo minus habet qui occulte detrahit. 
 
 ** Ecclesiastes 10:12
 
-Verba oris sapientis gratia, <l eID="gen12815" level="1"/> <l level="1" sID="gen12816"/>et labia insipientis præcipitabunt eum ; <l eID="gen12816" level="1"/>
+Verba oris sapientis gratia,  et labia insipientis præcipitabunt eum ; 
 
 ** Ecclesiastes 10:13
 
-initium verborum ejus stultitia, <l eID="gen12817" level="1"/> <l level="1" sID="gen12818"/>et novissimum oris illius error pessimus. <l eID="gen12818" level="1"/>
+initium verborum ejus stultitia,  et novissimum oris illius error pessimus. 
 
 ** Ecclesiastes 10:14
 
-Stultus verba multiplicat. <l eID="gen12819" level="1"/> <l level="1" sID="gen12820"/>Ignorat homo quid ante se fuerit ; <l eID="gen12820" level="1"/> <l level="1" sID="gen12821"/>et quid post se futurum sit, quis ei poterit indicare ? <l eID="gen12821" level="1"/>
+Stultus verba multiplicat.  Ignorat homo quid ante se fuerit ;  et quid post se futurum sit, quis ei poterit indicare ? 
 
 ** Ecclesiastes 10:15
 
-Labor stultorum affliget eos, <l eID="gen12822" level="1"/> <l level="1" sID="gen12823"/>qui nesciunt in urbem pergere. <l eID="gen12823" level="1"/>
+Labor stultorum affliget eos,  qui nesciunt in urbem pergere. 
 
 ** Ecclesiastes 10:16
 
-Væ tibi, terra, cujus rex puer est, <l eID="gen12824" level="1"/> <l level="1" sID="gen12825"/>et cujus principes mane comedunt. <l eID="gen12825" level="1"/>
+Væ tibi, terra, cujus rex puer est,  et cujus principes mane comedunt. 
 
 ** Ecclesiastes 10:17
 
-Beata terra cujus rex nobilis est, <l eID="gen12826" level="1"/> <l level="1" sID="gen12827"/>et cujus principes vescuntur in tempore suo, <l eID="gen12827" level="1"/> <l level="1" sID="gen12828"/>ad reficiendum, et non ad luxuriam. <l eID="gen12828" level="1"/>
+Beata terra cujus rex nobilis est,  et cujus principes vescuntur in tempore suo,  ad reficiendum, et non ad luxuriam. 
 
 ** Ecclesiastes 10:18
 
-In pigritiis humiliabitur contignatio, <l eID="gen12829" level="1"/> <l level="1" sID="gen12830"/>et in infirmitate manuum perstillabit domus. <l eID="gen12830" level="1"/>
+In pigritiis humiliabitur contignatio,  et in infirmitate manuum perstillabit domus. 
 
 ** Ecclesiastes 10:19
 
-In risum faciunt panem et vinum <l eID="gen12831" level="1"/> <l level="1" sID="gen12832"/>ut epulentur viventes ; <l eID="gen12832" level="1"/> <l level="1" sID="gen12833"/>et pecuniæ obediunt omnia. <l eID="gen12833" level="1"/>
+In risum faciunt panem et vinum  ut epulentur viventes ;  et pecuniæ obediunt omnia. 
 
 ** Ecclesiastes 10:20
 
-In cogitatione tua regi ne detrahas, <l eID="gen12834" level="1"/> <l level="1" sID="gen12835"/>et in secreto cubiculi tui ne maledixeris diviti : <l eID="gen12835" level="1"/> <l level="1" sID="gen12836"/>quia et aves cæli portabunt vocem tuam, <l eID="gen12836" level="1"/> <l level="1" sID="gen12837"/>et qui habet pennas annuntiabit sententiam.  <chapter eID="Eccl.10"/>
+In cogitatione tua regi ne detrahas,  et in secreto cubiculi tui ne maledixeris diviti :  quia et aves cæli portabunt vocem tuam,  et qui habet pennas annuntiabit sententiam.  
 
 * Ecclesiastes 11
 
 ** Ecclesiastes 11:1
 
-Mitte panem tuum super transeuntes aquas, <l eID="gen12838" level="1"/> <l level="1" sID="gen12839"/>quia post tempora multa invenies illum. <l eID="gen12839" level="1"/>
+Mitte panem tuum super transeuntes aquas,  quia post tempora multa invenies illum. 
 
 ** Ecclesiastes 11:2
 
-Da partem septem necnon et octo, <l eID="gen12840" level="1"/> <l level="1" sID="gen12841"/>quia ignoras quid futurum sit mali super terram. <l eID="gen12841" level="1"/>
+Da partem septem necnon et octo,  quia ignoras quid futurum sit mali super terram. 
 
 ** Ecclesiastes 11:3
 
-Si repletæ fuerint nubes, <l eID="gen12842" level="1"/> <l level="1" sID="gen12843"/>imbrem super terram effundent. <l eID="gen12843" level="1"/> <l level="1" sID="gen12844"/>Si ceciderit lignum ad austrum aut ad aquilonem, <l eID="gen12844" level="1"/> <l level="1" sID="gen12845"/>in quocumque loco ceciderit, ibi erit. <l eID="gen12845" level="1"/>
+Si repletæ fuerint nubes,  imbrem super terram effundent.  Si ceciderit lignum ad austrum aut ad aquilonem,  in quocumque loco ceciderit, ibi erit. 
 
 ** Ecclesiastes 11:4
 
-Qui observat ventum non seminat ; <l eID="gen12846" level="1"/> <l level="1" sID="gen12847"/>et qui considerat nubes numquam metet. <l eID="gen12847" level="1"/>
+Qui observat ventum non seminat ;  et qui considerat nubes numquam metet. 
 
 ** Ecclesiastes 11:5
 
-Quomodo ignoras quæ sit via spiritus, <l eID="gen12848" level="1"/> <l level="1" sID="gen12849"/>et qua ratione compingantur ossa in ventre prægnantis, <l eID="gen12849" level="1"/> <l level="1" sID="gen12850"/>sic nescis opera Dei, <l eID="gen12850" level="1"/> <l level="1" sID="gen12851"/>qui fabricator est omnium. <l eID="gen12851" level="1"/>
+Quomodo ignoras quæ sit via spiritus,  et qua ratione compingantur ossa in ventre prægnantis,  sic nescis opera Dei,  qui fabricator est omnium. 
 
 ** Ecclesiastes 11:6
 
-Mane semina semen tuum, <l eID="gen12852" level="1"/> <l level="1" sID="gen12853"/>et vespere ne cesset manus tua : <l eID="gen12853" level="1"/> <l level="1" sID="gen12854"/>quia nescis quid magis oriatur, hoc aut illud ; <l eID="gen12854" level="1"/> <l level="1" sID="gen12855"/>et si utrumque simul, melius erit. <l eID="gen12855" level="1"/>
+Mane semina semen tuum,  et vespere ne cesset manus tua :  quia nescis quid magis oriatur, hoc aut illud ;  et si utrumque simul, melius erit. 
 
 ** Ecclesiastes 11:7
 
-Dulce lumen, <l eID="gen12856" level="1"/> <l level="1" sID="gen12857"/>et delectabile est oculis videre solem. <l eID="gen12857" level="1"/>
+Dulce lumen,  et delectabile est oculis videre solem. 
 
 ** Ecclesiastes 11:8
 
-Si annis multis vixerit homo, <l eID="gen12858" level="1"/> <l level="1" sID="gen12859"/>et in his omnibus lætatus fuerit, <l eID="gen12859" level="1"/> <l level="1" sID="gen12860"/>meminisse debet tenebrosi temporis, et dierum multorum, <l eID="gen12860" level="1"/> <l level="1" sID="gen12861"/>qui cum venerint, vanitatis arguentur præterita. <l eID="gen12861" level="1"/>
+Si annis multis vixerit homo,  et in his omnibus lætatus fuerit,  meminisse debet tenebrosi temporis, et dierum multorum,  qui cum venerint, vanitatis arguentur præterita. 
 
 ** Ecclesiastes 11:9
 
-Lætare ergo, juvenis, in adolescentia tua, <l eID="gen12862" level="1"/> <l level="1" sID="gen12863"/>et in bono sit cor tuum in diebus juventutis tuæ : <l eID="gen12863" level="1"/> <l level="1" sID="gen12864"/>et ambula in viis cordis tui, <l eID="gen12864" level="1"/> <l level="1" sID="gen12865"/>et in intuitu oculorum tuorum, <l eID="gen12865" level="1"/> <l level="1" sID="gen12866"/>et scito quod pro omnibus his adducet te Deus in judicium. <l eID="gen12866" level="1"/>
+Lætare ergo, juvenis, in adolescentia tua,  et in bono sit cor tuum in diebus juventutis tuæ :  et ambula in viis cordis tui,  et in intuitu oculorum tuorum,  et scito quod pro omnibus his adducet te Deus in judicium. 
 
 ** Ecclesiastes 11:10
 
-Aufer iram a corde tuo, <l eID="gen12867" level="1"/> <l level="1" sID="gen12868"/>et amove malitiam a carne tua : <l eID="gen12868" level="1"/> <l level="1" sID="gen12869"/>adolescentia enim et voluptas vana sunt.  <chapter eID="Eccl.11"/>
+Aufer iram a corde tuo,  et amove malitiam a carne tua :  adolescentia enim et voluptas vana sunt.  
 
 * Ecclesiastes 12
 
 ** Ecclesiastes 12:1
 
-Memento Creatoris tui in diebus juventutis tuæ, <l eID="gen12870" level="1"/> <l level="1" sID="gen12871"/>antequam veniat tempus afflictionis, <l eID="gen12871" level="1"/> <l level="1" sID="gen12872"/>et appropinquent anni de quibus dicas : <l eID="gen12872" level="1"/> <l level="1" sID="gen12873"/>Non mihi placent ; <l eID="gen12873" level="1"/>
+Memento Creatoris tui in diebus juventutis tuæ,  antequam veniat tempus afflictionis,  et appropinquent anni de quibus dicas :  Non mihi placent ; 
 
 ** Ecclesiastes 12:2
 
-antequam tenebrescat sol, et lumen, et luna, et stellæ, <l eID="gen12874" level="1"/> <l level="1" sID="gen12875"/>et revertantur nubes post pluviam ; <l eID="gen12875" level="1"/>
+antequam tenebrescat sol, et lumen, et luna, et stellæ,  et revertantur nubes post pluviam ; 
 
 ** Ecclesiastes 12:3
 
-quando commovebuntur custodes domus, <l eID="gen12876" level="1"/> <l level="1" sID="gen12877"/>et nutabunt viri fortissimi, <l eID="gen12877" level="1"/> <l level="1" sID="gen12878"/>et otiosæ erunt molentes in minuto numero, <l eID="gen12878" level="1"/> <l level="1" sID="gen12879"/>et tenebrescent videntes per foramina ; <l eID="gen12879" level="1"/>
+quando commovebuntur custodes domus,  et nutabunt viri fortissimi,  et otiosæ erunt molentes in minuto numero,  et tenebrescent videntes per foramina ; 
 
 ** Ecclesiastes 12:4
 
-et claudent ostia in platea, <l eID="gen12880" level="1"/> <l level="1" sID="gen12881"/>in humilitate vocis molentis, <l eID="gen12881" level="1"/> <l level="1" sID="gen12882"/>et consurgent ad vocem volucris, <l eID="gen12882" level="1"/> <l level="1" sID="gen12883"/>et obsurdescent omnes filiæ carminis : <l eID="gen12883" level="1"/>
+et claudent ostia in platea,  in humilitate vocis molentis,  et consurgent ad vocem volucris,  et obsurdescent omnes filiæ carminis : 
 
 ** Ecclesiastes 12:5
 
-excelsa quoque timebunt, et formidabunt in via. <l eID="gen12884" level="1"/> <l level="1" sID="gen12885"/>Florebit amygdalus, impinguabitur locusta, <l eID="gen12885" level="1"/> <l level="1" sID="gen12886"/>et dissipabitur capparis, <l eID="gen12886" level="1"/> <l level="1" sID="gen12887"/>quoniam ibit homo in domum æternitatis suæ, <l eID="gen12887" level="1"/> <l level="1" sID="gen12888"/>et circuibunt in platea plangentes. <l eID="gen12888" level="1"/>
+excelsa quoque timebunt, et formidabunt in via.  Florebit amygdalus, impinguabitur locusta,  et dissipabitur capparis,  quoniam ibit homo in domum æternitatis suæ,  et circuibunt in platea plangentes. 
 
 ** Ecclesiastes 12:6
 
-Antequam rumpatur funiculus argenteus, <l eID="gen12889" level="1"/> <l level="1" sID="gen12890"/>et recurrat vitta aurea, <l eID="gen12890" level="1"/> <l level="1" sID="gen12891"/>et conteratur hydria super fontem, <l eID="gen12891" level="1"/> <l level="1" sID="gen12892"/>et confringatur rota super cisternam, <l eID="gen12892" level="1"/>
+Antequam rumpatur funiculus argenteus,  et recurrat vitta aurea,  et conteratur hydria super fontem,  et confringatur rota super cisternam, 
 
 ** Ecclesiastes 12:7
 
-et revertatur pulvis in terram suam unde erat, <l eID="gen12893" level="1"/> <l level="1" sID="gen12894"/>et spiritus redeat ad Deum, qui dedit illum. <l eID="gen12894" level="1"/>
+et revertatur pulvis in terram suam unde erat,  et spiritus redeat ad Deum, qui dedit illum. 
 
 ** Ecclesiastes 12:8
 
-Vanitas vanitatum, dixit Ecclesiastes, <l eID="gen12895" level="1"/> <l level="1" sID="gen12896"/>et omnia vanitas. <l eID="gen12896" level="1"/>
+Vanitas vanitatum, dixit Ecclesiastes,  et omnia vanitas. 
 
 ** Ecclesiastes 12:9
 
-Cumque esset sapientissimus Ecclesiastes, <l eID="gen12897" level="1"/> <l level="1" sID="gen12898"/>docuit populum, et enarravit quæ fecerat ; <l eID="gen12898" level="1"/> <l level="1" sID="gen12899"/>et investigans composuit parabolas multas. <l eID="gen12899" level="1"/>
+Cumque esset sapientissimus Ecclesiastes,  docuit populum, et enarravit quæ fecerat ;  et investigans composuit parabolas multas. 
 
 ** Ecclesiastes 12:10
 
-Quæsivit verba utilia, <l eID="gen12900" level="1"/> <l level="1" sID="gen12901"/>et conscripsit sermones rectissimos ac veritate plenos. <l eID="gen12901" level="1"/>
+Quæsivit verba utilia,  et conscripsit sermones rectissimos ac veritate plenos. 
 
 ** Ecclesiastes 12:11
 
-Verba sapientium sicut stimuli, <l eID="gen12902" level="1"/> <l level="1" sID="gen12903"/>et quasi clavi in altum defixi, <l eID="gen12903" level="1"/> <l level="1" sID="gen12904"/>quæ per magistrorum consilium data sunt a pastore uno. <l eID="gen12904" level="1"/>
+Verba sapientium sicut stimuli,  et quasi clavi in altum defixi,  quæ per magistrorum consilium data sunt a pastore uno. 
 
 ** Ecclesiastes 12:12
 
-His amplius, fili mi, ne requiras. <l eID="gen12905" level="1"/> <l level="1" sID="gen12906"/>Faciendi plures libros nullus est finis ; <l eID="gen12906" level="1"/> <l level="1" sID="gen12907"/>frequensque meditatio, carnis afflictio est. <l eID="gen12907" level="1"/>
+His amplius, fili mi, ne requiras.  Faciendi plures libros nullus est finis ;  frequensque meditatio, carnis afflictio est. 
 
 ** Ecclesiastes 12:13
 
-Finem loquendi pariter omnes audiamus. <l eID="gen12908" level="1"/> <l level="1" sID="gen12909"/>Deum time, et mandata ejus observa : <l eID="gen12909" level="1"/> <l level="1" sID="gen12910"/>hoc est enim omnis homo, <l eID="gen12910" level="1"/>
+Finem loquendi pariter omnes audiamus.  Deum time, et mandata ejus observa :  hoc est enim omnis homo, 
 
 ** Ecclesiastes 12:14
 
-et cuncta quæ fiunt adducet Deus in judicium <l eID="gen12911" level="1"/> <l level="1" sID="gen12912"/>pro omni errato, sive bonum, sive malum illud sit. <l eID="gen12912" level="1"/> <lg eID="gen12241"/> <chapter eID="Eccl.12"/> <div eID="gen12239" osisID="Eccl" type="book"/>
+et cuncta quæ fiunt adducet Deus in judicium  pro omni errato, sive bonum, sive malum illud sit.    
 

@@ -98,7 +98,7 @@ Post dies vero quadraginta quinque occiderunt regem filii ipsius,
 
 ** Tobit 1:25
 
-et reversus est Tobias in domum suam, omnisque facultas ejus restituta est ei.  <chapter eID="Tob.1"/> <div eID="gen2208" type="x-p"/>
+et reversus est Tobias in domum suam, omnisque facultas ejus restituta est ei.   
 
 * Tobit 2
 
@@ -136,7 +136,7 @@ Arguebant autem eum omnes proximi ejus, dicentes : Jam hujus rei causa interfici
 
 ** Tobit 2:9
 
-Sed Tobias plus timens Deum quam regem, rapiebat corpora occisorum, et occultabat in domo sua, et mediis noctibus sepeliebat ea.  <div eID="gen2209" type="x-p"/>
+Sed Tobias plus timens Deum quam regem, rapiebat corpora occisorum, et occultabat in domo sua, et mediis noctibus sepeliebat ea.  
 
 ** Tobit 2:10
 
@@ -192,7 +192,7 @@ Ad hæc uxor ejus irata respondit : Manifeste vana facta est spes tua, et eleemo
 
 ** Tobit 2:23
 
-Atque his et aliis hujuscemodi verbis exprobrabat ei.  <chapter eID="Tob.2"/> <div eID="gen2210" type="x-p"/>
+Atque his et aliis hujuscemodi verbis exprobrabat ei.   
 
 * Tobit 3
 
@@ -202,23 +202,23 @@ Tunc Tobias ingemuit, et cœpit orare cum lacrimis,
 
 ** Tobit 3:2
 
-dicens : <div eID="gen2211" type="x-p"/> <lg sID="gen2212"/> <l level="1" sID="gen2213"/>Justus es, Domine, et omnia judicia tua justa sunt, <l eID="gen2213" level="1"/> <l level="1" sID="gen2214"/>et omnes viæ tuæ, misericordia, et veritas, et judicium. <l eID="gen2214" level="1"/>
+dicens :   Justus es, Domine, et omnia judicia tua justa sunt,  et omnes viæ tuæ, misericordia, et veritas, et judicium. 
 
 ** Tobit 3:3
 
-Et nunc Domine, memor esto mei, <l eID="gen2215" level="1"/> <l level="1" sID="gen2216"/>et ne vindictam sumas de peccatis meis, <l eID="gen2216" level="1"/> <l level="1" sID="gen2217"/>neque reminiscaris delicta mea, vel parentum meorum. <l eID="gen2217" level="1"/>
+Et nunc Domine, memor esto mei,  et ne vindictam sumas de peccatis meis,  neque reminiscaris delicta mea, vel parentum meorum. 
 
 ** Tobit 3:4
 
-Quoniam non obedivimus præceptis tuis, <l eID="gen2218" level="1"/> <l level="1" sID="gen2219"/>ideo traditi sumus in direptionem, <l eID="gen2219" level="1"/> <l level="1" sID="gen2220"/>et captivitatem, et mortem, <l eID="gen2220" level="1"/> <l level="1" sID="gen2221"/>et in fabulam, et in improperium omnibus nationibus <l eID="gen2221" level="1"/> <l level="1" sID="gen2222"/>in quibus dispersisti nos. <l eID="gen2222" level="1"/>
+Quoniam non obedivimus præceptis tuis,  ideo traditi sumus in direptionem,  et captivitatem, et mortem,  et in fabulam, et in improperium omnibus nationibus  in quibus dispersisti nos. 
 
 ** Tobit 3:5
 
-Et nunc Domine, magna judicia tua, <l eID="gen2223" level="1"/> <l level="1" sID="gen2224"/>quia non egimus secundum præcepta tua, <l eID="gen2224" level="1"/> <l level="1" sID="gen2225"/>et non ambulavimus sinceriter coram te. <l eID="gen2225" level="1"/>
+Et nunc Domine, magna judicia tua,  quia non egimus secundum præcepta tua,  et non ambulavimus sinceriter coram te. 
 
 ** Tobit 3:6
 
-Et nunc Domine, secundum voluntatem tuam fac mecum, <l eID="gen2226" level="1"/> <l level="1" sID="gen2227"/>et præcipe in pace recipi spiritum meum : <l eID="gen2227" level="1"/> <l level="1" sID="gen2228"/>expedit enim mihi mori magis quam vivere. <l eID="gen2228" level="1"/> <lg eID="gen2212"/>
+Et nunc Domine, secundum voluntatem tuam fac mecum,  et præcipe in pace recipi spiritum meum :  expedit enim mihi mori magis quam vivere.  
 
 ** Tobit 3:7
 
@@ -294,7 +294,7 @@ In illo tempore exauditæ sunt preces amborum in conspectu gloriæ summi Dei :
 
 ** Tobit 3:25
 
-et missus est angelus Domini sanctus Raphaël ut curaret eos ambos, quorum uno tempore sunt orationes in conspectu Domini recitatæ.  <chapter eID="Tob.3"/> <div eID="gen2229" type="x-p"/>
+et missus est angelus Domini sanctus Raphaël ut curaret eos ambos, quorum uno tempore sunt orationes in conspectu Domini recitatæ.   
 
 * Tobit 4
 
@@ -388,7 +388,7 @@ et ideo perquire quomodo ad eum pervenias, et recipias ab eo supra memoratum pon
 
 ** Tobit 4:23
 
-Noli timere, fili mi : pauperem quidem vitam gerimus, sed multa bona habebimus si timuerimus Deum, et recesserimus ab omni peccato, et fecerimus bene.  <chapter eID="Tob.4"/> <div eID="gen2230" type="x-p"/>
+Noli timere, fili mi : pauperem quidem vitam gerimus, sed multa bona habebimus si timuerimus Deum, et recesserimus ab omni peccato, et fecerimus bene.   
 
 * Tobit 5
 
@@ -474,7 +474,7 @@ Dixit autem illi angelus : Ego sanum ducam, et sanum tibi reducam filium tuum.
 
 ** Tobit 5:21
 
-Respondens autem Tobias, ait : Bene ambuletis, et sit Deus in itinere vestro, et angelus ejus comitetur vobiscum.  <div eID="gen2231" type="x-p"/>
+Respondens autem Tobias, ait : Bene ambuletis, et sit Deus in itinere vestro, et angelus ejus comitetur vobiscum.  
 
 ** Tobit 5:22
 
@@ -502,7 +502,7 @@ Credo enim quod angelus Dei bonus comitetur ei, et bene disponat omnia quæ circ
 
 ** Tobit 5:28
 
-Ad hanc vocem cessavit mater ejus flere, et tacuit.  <chapter eID="Tob.5"/> <div eID="gen2232" type="x-p"/>
+Ad hanc vocem cessavit mater ejus flere, et tacuit.   
 
 * Tobit 6
 
@@ -540,7 +540,7 @@ Et respondens angelus, dixit ei : Cordis ejus particulam si super carbones ponas
 
 ** Tobit 6:9
 
-Et fel valet ad ungendos oculos in quibus fuerit albugo, et sanabuntur.  <div eID="gen2233" type="x-p"/>
+Et fel valet ad ungendos oculos in quibus fuerit albugo, et sanabuntur.  
 
 ** Tobit 6:10
 
@@ -592,7 +592,7 @@ Tertia autem nocte, benedictionem consequeris, ut filii ex vobis procreentur inc
 
 ** Tobit 6:22
 
-Transacta autem tertia nocte, accipies virginem cum timore Domini, amore filiorum magis quam libidine ductus, ut in semine Abrahæ benedictionem in filiis consequaris.  <chapter eID="Tob.6"/> <div eID="gen2234" type="x-p"/>
+Transacta autem tertia nocte, accipies virginem cum timore Domini, amore filiorum magis quam libidine ductus, ut in semine Abrahæ benedictionem in filiis consequaris.   
 
 * Tobit 7
 
@@ -674,7 +674,7 @@ Et introduxit illuc Saram filiam suam, et lacrimata est.
 
 ** Tobit 7:20
 
-Dixitque ei : Forti animo esto, filia mea : Dominus cæli det tibi gaudium pro tædio quod perpessa es.  <chapter eID="Tob.7"/> <div eID="gen2235" type="x-p"/>
+Dixitque ei : Forti animo esto, filia mea : Dominus cæli det tibi gaudium pro tædio quod perpessa es.   
 
 * Tobit 8
 
@@ -772,7 +772,7 @@ Et adjuravit Raguel Tobiam ut duas hebdomadas moraretur apud se.
 
 ** Tobit 8:24
 
-De omnibus autem quæ possidebat Raguel, dimidiam partem dedit Tobiæ, et fecit scripturam, ut pars dimidia quæ supererat, post obitum eorum Tobiæ dominio deveniret.  <chapter eID="Tob.8"/> <div eID="gen2236" type="x-p"/>
+De omnibus autem quæ possidebat Raguel, dimidiam partem dedit Tobiæ, et fecit scripturam, ut pars dimidia quæ supererat, post obitum eorum Tobiæ dominio deveniret.   
 
 * Tobit 9
 
@@ -822,7 +822,7 @@ et videatis filios vestros, et filios filiorum vestrorum, usque in tertiam et qu
 
 ** Tobit 9:12
 
-Cumque omnes dixissent : Amen : accesserunt ad convivium : sed et cum timore Domini nuptiarum convivium exercebant.  <chapter eID="Tob.9"/> <div eID="gen2237" type="x-p"/>
+Cumque omnes dixissent : Amen : accesserunt ad convivium : sed et cum timore Domini nuptiarum convivium exercebant.   
 
 * Tobit 10
 
@@ -876,7 +876,7 @@ Et apprehendentes parentes filiam suam, osculati sunt eam : et dimiserunt ire,
 
 ** Tobit 10:13
 
-monentes eam honorare soceros, diligere maritum, regere familiam, gubernare domum, et seipsam irreprehensibilem exhibere.  <chapter eID="Tob.10"/> <div eID="gen2238" type="x-p"/>
+monentes eam honorare soceros, diligere maritum, regere familiam, gubernare domum, et seipsam irreprehensibilem exhibere.   
 
 * Tobit 11
 
@@ -926,7 +926,7 @@ Et suscipiens osculatus est eum cum uxore sua, et cœperunt ambo flere præ gaud
 
 ** Tobit 11:12
 
-Cumque adorassent Deum, et gratias egissent, consederunt.  <div eID="gen2239" type="x-p"/>
+Cumque adorassent Deum, et gratias egissent, consederunt.  
 
 ** Tobit 11:13
 
@@ -962,7 +962,7 @@ Veneruntque Achior et Nabath consobrini Tobiæ gaudentes ad Tobiam, et congratul
 
 ** Tobit 11:21
 
-Et per septem dies epulantes, omnes cum gaudio magno gavisi sunt.  <chapter eID="Tob.11"/> <div eID="gen2240" type="x-p"/>
+Et per septem dies epulantes, omnes cum gaudio magno gavisi sunt.   
 
 * Tobit 12
 
@@ -984,7 +984,7 @@ Sed peto te, pater mi, ut roges eum, si forte dignabitur medietatem de omnibus q
 
 ** Tobit 12:5
 
-Et vocantes eum, pater scilicet et filius, tulerunt eum in partem : et rogare cœperunt ut dignaretur dimidiam partem omnium quæ attulerant acceptam habere.  <div eID="gen2241" type="x-p"/>
+Et vocantes eum, pater scilicet et filius, tulerunt eum in partem : et rogare cœperunt ut dignaretur dimidiam partem omnium quæ attulerant acceptam habere.  
 
 ** Tobit 12:6
 
@@ -1052,101 +1052,101 @@ Et cum hæc dixisset, ab aspectu eorum ablatus est, et ultra eum videre non potu
 
 ** Tobit 12:22
 
-Tunc prostrati per horas tres in faciem, benedixerunt Deum : et exsurgentes narraverunt omnia mirabilia ejus.  <chapter eID="Tob.12"/> <div eID="gen2242" type="x-p"/>
+Tunc prostrati per horas tres in faciem, benedixerunt Deum : et exsurgentes narraverunt omnia mirabilia ejus.   
 
 * Tobit 13
 
 ** Tobit 13:1
 
-Aperiens autem Tobias senior os suum, benedixit Dominum, et dixit : <div eID="gen2243" type="x-p"/> <lg sID="gen2244"/> <l level="1" sID="gen2245"/>Magnus es, Domine, in æternum, <l eID="gen2245" level="1"/> <l level="1" sID="gen2246"/>et in omnia sæcula regnum tuum : <l eID="gen2246" level="1"/>
+Aperiens autem Tobias senior os suum, benedixit Dominum, et dixit :   Magnus es, Domine, in æternum,  et in omnia sæcula regnum tuum : 
 
 ** Tobit 13:2
 
-quoniam tu flagellas, et salvas ; <l eID="gen2247" level="1"/> <l level="1" sID="gen2248"/>deducis ad inferos, et reducis : <l eID="gen2248" level="1"/> <l level="1" sID="gen2249"/>et non est qui effugiat manum tuam. <l eID="gen2249" level="1"/>
+quoniam tu flagellas, et salvas ;  deducis ad inferos, et reducis :  et non est qui effugiat manum tuam. 
 
 ** Tobit 13:3
 
-Confitemini Domino, filii Israël, <l eID="gen2250" level="1"/> <l level="1" sID="gen2251"/>et in conspectu gentium laudate eum : <l eID="gen2251" level="1"/>
+Confitemini Domino, filii Israël,  et in conspectu gentium laudate eum : 
 
 ** Tobit 13:4
 
-quoniam ideo dispersit vos inter gentes quæ ignorant eum, <l eID="gen2252" level="1"/> <l level="1" sID="gen2253"/>ut vos enarretis mirabilia ejus, <l eID="gen2253" level="1"/> <l level="1" sID="gen2254"/>et faciatis scire eos <l eID="gen2254" level="1"/> <l level="1" sID="gen2255"/>quia non est alius deus omnipotens præter eum. <l eID="gen2255" level="1"/>
+quoniam ideo dispersit vos inter gentes quæ ignorant eum,  ut vos enarretis mirabilia ejus,  et faciatis scire eos  quia non est alius deus omnipotens præter eum. 
 
 ** Tobit 13:5
 
-Ipse castigavit nos propter iniquitates nostras, <l eID="gen2256" level="1"/> <l level="1" sID="gen2257"/>et ipse salvabit nos propter misericordiam suam. <l eID="gen2257" level="1"/>
+Ipse castigavit nos propter iniquitates nostras,  et ipse salvabit nos propter misericordiam suam. 
 
 ** Tobit 13:6
 
-Aspicite ergo quæ fecit nobiscum, <l eID="gen2258" level="1"/> <l level="1" sID="gen2259"/>et cum timore et tremore confitemini illi : <l eID="gen2259" level="1"/> <l level="1" sID="gen2260"/>regemque sæculorum exaltate in operibus vestris. <l eID="gen2260" level="1"/>
+Aspicite ergo quæ fecit nobiscum,  et cum timore et tremore confitemini illi :  regemque sæculorum exaltate in operibus vestris. 
 
 ** Tobit 13:7
 
-Ego autem in terra captivitatis meæ confitebor illi : <l eID="gen2261" level="1"/> <l level="1" sID="gen2262"/>quoniam ostendit majestatem suam in gentem peccatricem. <l eID="gen2262" level="1"/>
+Ego autem in terra captivitatis meæ confitebor illi :  quoniam ostendit majestatem suam in gentem peccatricem. 
 
 ** Tobit 13:8
 
-Convertimini itaque peccatores, <l eID="gen2263" level="1"/> <l level="1" sID="gen2264"/>et facite justitiam coram Deo, <l eID="gen2264" level="1"/> <l level="1" sID="gen2265"/>credentes quod faciat vobiscum misericordiam suam. <l eID="gen2265" level="1"/>
+Convertimini itaque peccatores,  et facite justitiam coram Deo,  credentes quod faciat vobiscum misericordiam suam. 
 
 ** Tobit 13:9
 
-Ego autem et anima mea in eo lætabimur. <l eID="gen2266" level="1"/>
+Ego autem et anima mea in eo lætabimur. 
 
 ** Tobit 13:10
 
-Benedicite Dominum omnes electi ejus : <l eID="gen2267" level="1"/> <l level="1" sID="gen2268"/>agite dies lætitiæ, et confitemini illi. <l eID="gen2268" level="1"/>
+Benedicite Dominum omnes electi ejus :  agite dies lætitiæ, et confitemini illi. 
 
 ** Tobit 13:11
 
-Jerusalem civitas Dei, <l eID="gen2269" level="1"/> <l level="1" sID="gen2270"/>castigavit te Dominus in operibus manuum tuarum. <l eID="gen2270" level="1"/>
+Jerusalem civitas Dei,  castigavit te Dominus in operibus manuum tuarum. 
 
 ** Tobit 13:12
 
-Confitere Domino in bonis tuis, <l eID="gen2271" level="1"/> <l level="1" sID="gen2272"/>et benedic Deum sæculorum : <l eID="gen2272" level="1"/> <l level="1" sID="gen2273"/>ut reædificet in te tabernaculum suum, <l eID="gen2273" level="1"/> <l level="1" sID="gen2274"/>et revocet ad te omnes captivos, <l eID="gen2274" level="1"/> <l level="1" sID="gen2275"/>et gaudeas in omnia sæcula sæculorum. <l eID="gen2275" level="1"/>
+Confitere Domino in bonis tuis,  et benedic Deum sæculorum :  ut reædificet in te tabernaculum suum,  et revocet ad te omnes captivos,  et gaudeas in omnia sæcula sæculorum. 
 
 ** Tobit 13:13
 
-Luce splendida fulgebis, <l eID="gen2276" level="1"/> <l level="1" sID="gen2277"/>et omnes fines terræ adorabunt te. <l eID="gen2277" level="1"/>
+Luce splendida fulgebis,  et omnes fines terræ adorabunt te. 
 
 ** Tobit 13:14
 
-Nationes ex longinquo ad te venient, <l eID="gen2278" level="1"/> <l level="1" sID="gen2279"/>et munera deferentes adorabunt in te Dominum, <l eID="gen2279" level="1"/> <l level="1" sID="gen2280"/>et terram tuam in sanctificationem habebunt : <l eID="gen2280" level="1"/>
+Nationes ex longinquo ad te venient,  et munera deferentes adorabunt in te Dominum,  et terram tuam in sanctificationem habebunt : 
 
 ** Tobit 13:15
 
-nomen enim magnum invocabunt in te. <l eID="gen2281" level="1"/>
+nomen enim magnum invocabunt in te. 
 
 ** Tobit 13:16
 
-Maledicti erunt qui contempserint te, <l eID="gen2282" level="1"/> <l level="1" sID="gen2283"/>et condemnati erunt omnes qui blasphemaverint te : <l eID="gen2283" level="1"/> <l level="1" sID="gen2284"/>benedictique erunt qui ædificaverint te. <l eID="gen2284" level="1"/>
+Maledicti erunt qui contempserint te,  et condemnati erunt omnes qui blasphemaverint te :  benedictique erunt qui ædificaverint te. 
 
 ** Tobit 13:17
 
-Tu autem lætaberis in filiis tuis, <l eID="gen2285" level="1"/> <l level="1" sID="gen2286"/>quoniam omnes benedicentur, <l eID="gen2286" level="1"/> <l level="1" sID="gen2287"/>et congregabuntur ad Dominum. <l eID="gen2287" level="1"/>
+Tu autem lætaberis in filiis tuis,  quoniam omnes benedicentur,  et congregabuntur ad Dominum. 
 
 ** Tobit 13:18
 
-Beati omnes qui diligunt te, <l eID="gen2288" level="1"/> <l level="1" sID="gen2289"/>et qui gaudent super pace tua. <l eID="gen2289" level="1"/>
+Beati omnes qui diligunt te,  et qui gaudent super pace tua. 
 
 ** Tobit 13:19
 
-Anima mea, benedic Dominum, <l eID="gen2290" level="1"/> <l level="1" sID="gen2291"/>quoniam liberavit Jerusalem civitatem suam <l eID="gen2291" level="1"/> <l level="1" sID="gen2292"/>a cunctis tribulationibus ejus <l eID="gen2292" level="1"/> <l level="1" sID="gen2293"/>Dominus Deus noster. <l eID="gen2293" level="1"/>
+Anima mea, benedic Dominum,  quoniam liberavit Jerusalem civitatem suam  a cunctis tribulationibus ejus  Dominus Deus noster. 
 
 ** Tobit 13:20
 
-Beatus ero si fuerint reliquiæ seminis mei <l eID="gen2294" level="1"/> <l level="1" sID="gen2295"/>ad videndam claritatem Jerusalem. <l eID="gen2295" level="1"/>
+Beatus ero si fuerint reliquiæ seminis mei  ad videndam claritatem Jerusalem. 
 
 ** Tobit 13:21
 
-Portæ Jerusalem ex sapphiro et smaragdo ædificabuntur, <l eID="gen2296" level="1"/> <l level="1" sID="gen2297"/>et ex lapide pretioso omnis circuitus murorum ejus. <l eID="gen2297" level="1"/>
+Portæ Jerusalem ex sapphiro et smaragdo ædificabuntur,  et ex lapide pretioso omnis circuitus murorum ejus. 
 
 ** Tobit 13:22
 
-Ex lapide candido et mundo omnes plateæ ejus sternentur, <l eID="gen2298" level="1"/> <l level="1" sID="gen2299"/>et per vicos ejus alleluja cantabitur. <l eID="gen2299" level="1"/>
+Ex lapide candido et mundo omnes plateæ ejus sternentur,  et per vicos ejus alleluja cantabitur. 
 
 ** Tobit 13:23
 
-Benedictus Dominus, qui exaltavit eam, <l eID="gen2300" level="1"/> <l level="1" sID="gen2301"/>et sit regnum ejus in sæcula sæculorum super eam. Amen. <l eID="gen2301" level="1"/><lg eID="gen2244"/> <chapter eID="Tob.13"/>
+Benedictus Dominus, qui exaltavit eam,  et sit regnum ejus in sæcula sæculorum super eam. Amen.  
 
 * Tobit 14
 
@@ -1216,5 +1216,5 @@ Et completis annis nonaginta novem in timore Domini, cum gaudio sepelierunt eum.
 
 ** Tobit 14:17
 
-Omnis autem cognatio ejus et omnis generatio ejus in bona vita et in sancta conversatione permansit, ita ut accepti essent tam Deo quam hominibus, et cunctis habitantibus in terra.  <div eID="gen2302" type="x-p"/> <chapter eID="Tob.14"/> <div eID="gen2207" osisID="Tob" type="book"/>
+Omnis autem cognatio ejus et omnis generatio ejus in bona vita et in sancta conversatione permansit, ita ut accepti essent tam Deo quam hominibus, et cunctis habitantibus in terra.    
 

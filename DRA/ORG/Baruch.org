@@ -86,7 +86,7 @@ And we have not hearkened to the voice of the Lord our God according to all the 
 
 *** Baruch 1:22
 
-And we have gone away every man after the inclinations of his own wicked heart, to serve strange gods, and to do evil in the sight of the Lord our God. <chapter eID="gen24251" osisID="Bar.1"/>
+And we have gone away every man after the inclinations of his own wicked heart, to serve strange gods, and to do evil in the sight of the Lord our God. 
 
 ** Baruch 2
 
@@ -228,7 +228,7 @@ And I will bring them back again into the land which I promised with an oath to 
 
 *** Baruch 2:35
 
-And I will make with them another covenant that shall be everlasting, to be their God, and they shall be my people: and I will no more remove my people, the children of Israel, out of the land that I have given them. <chapter eID="gen24274" osisID="Bar.2"/>
+And I will make with them another covenant that shall be everlasting, to be their God, and they shall be my people: and I will no more remove my people, the children of Israel, out of the land that I have given them. 
 
 ** Baruch 3
 
@@ -382,7 +382,7 @@ He found out all the way of knowledge, and gave it to Jacob his servant, and to 
 
 *** Baruch 3:38
 
-Afterwards he was seen upon earth, and conversed with men. <chapter eID="gen24310" osisID="Bar.3"/>
+Afterwards he was seen upon earth, and conversed with men. 
 
 ** Baruch 4
 
@@ -532,7 +532,7 @@ Look about thee, O Jerusalem, towards the east, and behold the joy that cometh t
 
 *** Baruch 4:37
 
-For behold thy children come, whom thou sentest away scattered, they come gathered together from the east even to the west, at the word of the Holy One rejoicing for the honour of God. <chapter eID="gen24349" osisID="Bar.4"/>
+For behold thy children come, whom thou sentest away scattered, they come gathered together from the east even to the west, at the word of the Holy One rejoicing for the honour of God. 
 
 ** Baruch 5
 
@@ -570,7 +570,7 @@ Moreover the woods, and every sweetsmelling tree have overshadowed Israel by the
 
 *** Baruch 5:9
 
-For God will bring Israel with joy in the light of his majesty, with mercy, and justice, that cometh from him. <chapter eID="gen24387" osisID="Bar.5"/>
+For God will bring Israel with joy in the light of his majesty, with mercy, and justice, that cometh from him. 
 
 ** Baruch 6
 
@@ -860,4 +860,4 @@ By the purple also and the scarlet which are motheaten upon them, you shall know
 
 *** Baruch 6:72
 
-Better, therefore, is the just man that hath no idols: for he shall be far from reproach. <chapter eID="gen24397" osisID="Bar.6"/> <div eID="gen24250" osisID="Bar" type="book"/>
+Better, therefore, is the just man that hath no idols: for he shall be far from reproach.  

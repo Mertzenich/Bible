@@ -42,7 +42,7 @@ And these are thy servants, and thy people: whom thou hast redeemed by thy great
 
 *** Nehemiah 1:11
 
-I beseech thee, O Lord, let thy ear be attentive to the prayer of thy servant, and to the prayer of thy servants who desire to fear thy name: and direct thy servant this day, and give him mercy before this man. For I was the king's cupbearer. <chapter eID="gen12720" osisID="Neh.1"/>
+I beseech thee, O Lord, let thy ear be attentive to the prayer of thy servant, and to the prayer of thy servants who desire to fear thy name: and direct thy servant this day, and give him mercy before this man. For I was the king's cupbearer. 
 
 ** Nehemiah 2
 
@@ -124,7 +124,7 @@ But Sanaballat the Horonite, and Tobias the servant, the Ammonite, and Gossem th
 
 *** Nehemiah 2:20
 
-And I answered them, and said to them: The God of heaven he helpeth us, and we are his servants: let us rise up and build: but you have no part, nor justice, nor remembrance in Jerusalem. <chapter eID="gen12732" osisID="Neh.2"/>
+And I answered them, and said to them: The God of heaven he helpeth us, and we are his servants: let us rise up and build: but you have no part, nor justice, nor remembrance in Jerusalem. 
 
 ** Nehemiah 3
 
@@ -250,7 +250,7 @@ After him built Hanania the son of Selemia, and Hanun the sixth son of Seleph, a
 
 *** Nehemiah 3:31
 
-And within the chamber of the corner of the flock gate, the goldsmiths and the merchants built. <chapter eID="gen12753" osisID="Neh.3"/>
+And within the chamber of the corner of the flock gate, the goldsmiths and the merchants built. 
 
 ** Nehemiah 4
 
@@ -344,7 +344,7 @@ At that time also I said to the people: Let every one with his servant stay in t
 
 *** Nehemiah 4:23
 
-Now I and my brethren, and my servants, and the watchmen that followed me, did not put off our clothes: only every man stripped himself when he was to be washed. <chapter eID="gen12785" osisID="Neh.4"/>
+Now I and my brethren, and my servants, and the watchmen that followed me, did not put off our clothes: only every man stripped himself when he was to be washed. 
 
 ** Nehemiah 5
 
@@ -422,7 +422,7 @@ And there was prepared for me day be day one ox, and six choice rams, besides fo
 
 *** Nehemiah 5:19
 
-Remember me, O my God, for good according to all that I have done for this people. <chapter eID="gen12809" osisID="Neh.5"/>
+Remember me, O my God, for good according to all that I have done for this people. 
 
 ** Nehemiah 6
 
@@ -500,7 +500,7 @@ For there were many in Judea sworn to him, because he was the son in law of Sech
 
 *** Nehemiah 6:19
 
-And they praised him also before me, and they related my words to him: And Tobias sent letters to put me in fear. <chapter eID="gen12829" osisID="Neh.6"/>
+And they praised him also before me, and they related my words to him: And Tobias sent letters to put me in fear. 
 
 ** Nehemiah 7
 
@@ -794,7 +794,7 @@ And that which the rest of the people gave, was twenty thousand drams of gold, a
 
 *** Nehemiah 7:73
 
-And the priests, and the Levites, and the porters, and the singing men, and the rest of the common people, and the Nathinites, and all Israel dwelt in their cities. <chapter eID="gen12849" osisID="Neh.7"/>
+And the priests, and the Levites, and the porters, and the singing men, and the rest of the common people, and the Nathinites, and all Israel dwelt in their cities. 
 
 ** Nehemiah 8
 
@@ -868,7 +868,7 @@ And all the assembly of them that were returned from the captivity, made taberna
 
 *** Nehemiah 8:18
 
-And he read in the book of the law of God day by day, from the first day till the last, and they kept the solemnity seven days, and in the eighth day a solemn assembly according to the manner. <chapter eID="gen12923" osisID="Neh.8"/>
+And he read in the book of the law of God day by day, from the first day till the last, and they kept the solemnity seven days, and in the eighth day a solemn assembly according to the manner. 
 
 ** Nehemiah 9
 
@@ -1022,7 +1022,7 @@ And the fruits thereof grow up for the kings, whom thou hast set over us for our
 
 *** Nehemiah 9:38
 
-And because of all this we ourselves make a covenant, and write it, and our princes, our Levites, and our priests sign it. <chapter eID="gen12942" osisID="Neh.9"/>
+And because of all this we ourselves make a covenant, and write it, and our princes, our Levites, and our priests sign it. 
 
 ** Nehemiah 10
 
@@ -1180,7 +1180,7 @@ And the priest the son of Aaron shall be with the Levites in the tithes of the L
 
 *** Nehemiah 10:39
 
-For the children of Israel and the children of Levi shall carry to the treasury the firstfruits of corn, of wine, and of oil: and the sanctified vessels shall be there, and the priests, and the singing men, and the porters, and ministers, and we will not forsake the house of our God. <chapter eID="gen12981" osisID="Neh.10"/>
+For the children of Israel and the children of Levi shall carry to the treasury the firstfruits of corn, of wine, and of oil: and the sanctified vessels shall be there, and the priests, and the singing men, and the porters, and ministers, and we will not forsake the house of our God. 
 
 ** Nehemiah 11
 
@@ -1326,7 +1326,7 @@ And Ono the valley of craftsmen.
 
 *** Nehemiah 11:36
 
-And of the Levites were portions of Juda and Benjamin. <chapter eID="gen13021" osisID="Neh.11"/>
+And of the Levites were portions of Juda and Benjamin. 
 
 ** Nehemiah 12
 
@@ -1512,7 +1512,7 @@ For in the days of David and Asaph from the beginning there were chief singers a
 
 *** Nehemiah 12:46
 
-And all Israel, in the days of Zorobabel, and in the days of Nehemiah gave portions to the singing men, and to the porters, day by day, and they sanctified the Levites, and the Levites sanctified the sons of Aaron. <chapter eID="gen13058" osisID="Neh.12"/>
+And all Israel, in the days of Zorobabel, and in the days of Nehemiah gave portions to the singing men, and to the porters, day by day, and they sanctified the Levites, and the Levites sanctified the sons of Aaron. 
 
 ** Nehemiah 13
 
@@ -1638,4 +1638,4 @@ So I separated from them all strangers, and I appointed the courses of the pries
 
 *** Nehemiah 13:31
 
-And for the offering of wood at times appointed, and for the firstfruits: remember me, O my God, unto good. Amen. <chapter eID="gen13105" osisID="Neh.13"/> <div eID="gen12719" osisID="Neh" type="book"/>
+And for the offering of wood at times appointed, and for the firstfruits: remember me, O my God, unto good. Amen.  

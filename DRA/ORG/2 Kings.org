@@ -70,7 +70,7 @@ So he died, according to the word of the Lord, which Elias spoke; and Joram, his
 
 *** II Kings 1:18
 
-But the rest of the acts of Ochozias, which he did, are they not written in the book of the words of the days of the kings of Israel? <chapter eID="gen9855" osisID="2Kgs.1"/>
+But the rest of the acts of Ochozias, which he did, are they not written in the book of the words of the days of the kings of Israel? 
 
 ** II Kings 2
 
@@ -172,7 +172,7 @@ And looking back, he saw them, and cursed them in the name of the Lord: and ther
 
 *** II Kings 2:25
 
-And from thence he went to mount Carmel, and from thence he returned to Samaria. <chapter eID="gen9874" osisID="2Kgs.2"/>
+And from thence he went to mount Carmel, and from thence he returned to Samaria. 
 
 ** II Kings 3
 
@@ -282,7 +282,7 @@ And when the king of Moab saw this, to wit, that the enemies had prevailed, he t
 
 *** II Kings 3:27
 
-Then he took his eldest son, that should have reigned in his stead, and offered him for a burnt offering upon the wall: and there was great indignation in Israel, and presently they departed from him, and returned into their own country. <chapter eID="gen9900" osisID="2Kgs.3"/>
+Then he took his eldest son, that should have reigned in his stead, and offered him for a burnt offering upon the wall: and there was great indignation in Israel, and presently they departed from him, and returned into their own country. 
 
 ** II Kings 4
 
@@ -460,7 +460,7 @@ And his servant answered him: How much is this, that I should set it before a hu
 
 *** II Kings 4:44
 
-So he set it before them: and they ate, and there was left, according to the word of the Lord. <chapter eID="gen9928" osisID="2Kgs.4"/>
+So he set it before them: and they ate, and there was left, according to the word of the Lord. 
 
 ** II Kings 5
 
@@ -570,7 +570,7 @@ But he said: Was not my heart present, when the man turned back, from his chario
 
 *** II Kings 5:27
 
-But the leprosy of Naaman, shall also stick to thee, and to thy seed for ever. And he went out from him a leper, as white as snow. <chapter eID="gen9973" osisID="2Kgs.5"/>
+But the leprosy of Naaman, shall also stick to thee, and to thy seed for ever. And he went out from him a leper, as white as snow. 
 
 ** II Kings 6
 
@@ -704,7 +704,7 @@ But Eliseus sat in his house, and the ancients sat with him. So he sent a man be
 
 *** II Kings 6:33
 
-While he was yet speaking to them, the messenger appeared, who was coming to him. And he said: Behold, so great an evil is from the Lord: what shall I look for more from the Lord? <chapter eID="gen10001" osisID="2Kgs.6"/>
+While he was yet speaking to them, the messenger appeared, who was coming to him. And he said: Behold, so great an evil is from the Lord: what shall I look for more from the Lord? 
 
 ** II Kings 7
 
@@ -786,7 +786,7 @@ When that lord answered the man of God, and said: Although the Lord should make 
 
 *** II Kings 7:20
 
-And so it fell out to him, as it was foretold, and the people trod upon him in the gate, and he died. <chapter eID="gen10035" osisID="2Kgs.7"/>
+And so it fell out to him, as it was foretold, and the people trod upon him in the gate, and he died. 
 
 ** II Kings 8
 
@@ -904,7 +904,7 @@ He went also with Joram, son of Achab, to fight against Hazael, king of Syria, i
 
 *** II Kings 8:29
 
-And he went back to be healed, in Jezrahel: because the Syrians had wounded him in Ramoth, when he fought against Hazael, king of Syria And Ochozias, the son of Joram, king of Juda, went down to visit Joram, the son of Achab, in Jezrahel, because he was sick there. <chapter eID="gen10056" osisID="2Kgs.8"/>
+And he went back to be healed, in Jezrahel: because the Syrians had wounded him in Ramoth, when he fought against Hazael, king of Syria And Ochozias, the son of Joram, king of Juda, went down to visit Joram, the son of Achab, in Jezrahel, because he was sick there. 
 
 ** II Kings 9
 
@@ -1054,7 +1054,7 @@ And coming back they told him. And Jehu said: It is the word of the Lord, which 
 
 *** II Kings 9:37
 
-And the flesh of Jezabel shall be as dung upon the face of the earth in the field of Jezrahel; so that they who pass by shall say: Is this that same Jezabel? <chapter eID="gen10086" osisID="2Kgs.9"/>
+And the flesh of Jezabel shall be as dung upon the face of the earth in the field of Jezrahel; so that they who pass by shall say: Is this that same Jezabel? 
 
 ** II Kings 10
 
@@ -1200,7 +1200,7 @@ And Jehu slept with his fathers, and they buried him in Samaria: and Joachaz, hi
 
 *** II Kings 10:36
 
-And the time that Jehu reigned over Israel, in Samaria, was eight and twenty years. <chapter eID="gen10124" osisID="2Kgs.10"/>
+And the time that Jehu reigned over Israel, in Samaria, was eight and twenty years. 
 
 ** II Kings 11
 
@@ -1286,7 +1286,7 @@ And all the people of the land rejoiced, and the city was quiet: but Athalia was
 
 *** II Kings 11:21
 
-Now Joas was seven years old when he began to reign. <chapter eID="gen10161" osisID="2Kgs.11"/>
+Now Joas was seven years old when he began to reign. 
 
 ** II Kings 12
 
@@ -1372,7 +1372,7 @@ And his servants arose, and conspired among themselves, and slew Joas, in the ho
 
 *** II Kings 12:21
 
-For Josachar the son of Semaath, and Jozabad the son of Somer his servant, struck him, and he died: and they buried him with his fathers in the city of David; and Amasias, his son, reigned in his stead. <chapter eID="gen10183" osisID="2Kgs.12"/>
+For Josachar the son of Semaath, and Jozabad the son of Somer his servant, struck him, and he died: and they buried him with his fathers in the city of David; and Amasias, his son, reigned in his stead. 
 
 ** II Kings 13
 
@@ -1474,7 +1474,7 @@ And Hazael, king of Syria, died; and Benadad, his son, reigned in his stead.
 
 *** II Kings 13:25
 
-Now Joas the son of Joachaz, took the cities out of the hand of Benadad, the son of Hazael, which he had taken out of the hand of Joachaz, his father, by war; three times did Joas beat him, and he restored the cities to Israel. <chapter eID="gen10205" osisID="2Kgs.13"/>
+Now Joas the son of Joachaz, took the cities out of the hand of Benadad, the son of Hazael, which he had taken out of the hand of Joachaz, his father, by war; three times did Joas beat him, and he restored the cities to Israel. 
 
 ** II Kings 14
 
@@ -1592,7 +1592,7 @@ But the rest of the acts of Jeroboam, and all that he did, and his valour, where
 
 *** II Kings 14:29
 
-And Jeroboam slept with his fathers, the kings of Israel; and Zacharias, his son, reigned in his stead. <chapter eID="gen10231" osisID="2Kgs.14"/>
+And Jeroboam slept with his fathers, the kings of Israel; and Zacharias, his son, reigned in his stead. 
 
 ** II Kings 15
 
@@ -1746,7 +1746,7 @@ In those days the Lord began to send into Juda, Rasin king of Syria, and Phacee 
 
 *** II Kings 15:38
 
-And Joatham slept with his fathers, and was buried with them in the city of David, his father; and Achaz, his son, reigned in his stead. <chapter eID="gen10261" osisID="2Kgs.15"/>
+And Joatham slept with his fathers, and was buried with them in the city of David, his father; and Achaz, his son, reigned in his stead. 
 
 ** II Kings 16
 
@@ -1828,7 +1828,7 @@ Now the rest of the acts of Achaz which he did, are they not written in the book
 
 *** II Kings 16:20
 
-And Achaz slept with his fathers, and was buried with them in the city of David, and Ezechias, his son, reigned in his stead. <chapter eID="gen10300" osisID="2Kgs.16"/>
+And Achaz slept with his fathers, and was buried with them in the city of David, and Ezechias, his son, reigned in his stead. 
 
 ** II Kings 17
 
@@ -1994,7 +1994,7 @@ But they did not hearken to them, but did according to their old custom.
 
 *** II Kings 17:41
 
-So these nations feared the Lord, but nevertheless served also their idols: their children also, and grandchildren, as their fathers did, so do they unto this day. <chapter eID="gen10321" osisID="2Kgs.17"/>
+So these nations feared the Lord, but nevertheless served also their idols: their children also, and grandchildren, as their fathers did, so do they unto this day. 
 
 ** II Kings 18
 
@@ -2144,7 +2144,7 @@ But the people held their peace, and answered him not a word: for they had recei
 
 *** II Kings 18:37
 
-And Eliacim, the son of Helcias, who was over the house, and Sobna, the scribe, and Joahe, the son of Asaph, the recorder, came to Ezechias, with their garments rent, and told him the words of Rabsaces. <chapter eID="gen10363" osisID="2Kgs.18"/>
+And Eliacim, the son of Helcias, who was over the house, and Sobna, the scribe, and Joahe, the son of Asaph, the recorder, came to Ezechias, with their garments rent, and told him the words of Rabsaces. 
 
 ** II Kings 19
 
@@ -2294,7 +2294,7 @@ And Sennacherib, king of the Assyrians, departing, went away, and he returned an
 
 *** II Kings 19:37
 
-And as he was worshipping in the temple of Nesroch, his god, Adramelech and Sarasar, his sons, slew him with the sword, and they fled into the land of the Armenians, and Asarhaddon, his son, reigned in his stead. <chapter eID="gen10401" osisID="2Kgs.19"/>
+And as he was worshipping in the temple of Nesroch, his god, Adramelech and Sarasar, his sons, slew him with the sword, and they fled into the land of the Armenians, and Asarhaddon, his son, reigned in his stead. 
 
 ** II Kings 20
 
@@ -2380,7 +2380,7 @@ And the rest of the acts of Ezechias, and all his might, and how he made a pool,
 
 *** II Kings 20:21
 
-And Ezechias slept with his fathers, and Manasses, his son reigned in his stead. <chapter eID="gen10439" osisID="2Kgs.20"/>
+And Ezechias slept with his fathers, and Manasses, his son reigned in his stead. 
 
 ** II Kings 21
 
@@ -2486,7 +2486,7 @@ But the rest of the acts of Amon, which he did, are they not written in the book
 
 *** II Kings 21:26
 
-And they buried him in his sepulchre, in the garden of Oza: and his son, Josias, reigned in his stead. <chapter eID="gen10461" osisID="2Kgs.21"/>
+And they buried him in his sepulchre, in the garden of Oza: and his son, Josias, reigned in his stead. 
 
 ** II Kings 22
 
@@ -2568,7 +2568,7 @@ And thy heart hath been moved to fear, and thou hast humbled thyself before the 
 
 *** II Kings 22:20
 
-Therefore I will gather thee to thy fathers, and thou shalt be gathered to thy sepulchre in peace; that thy eyes may not see all the evils which I will bring upon this place. <chapter eID="gen10488" osisID="2Kgs.22"/>
+Therefore I will gather thee to thy fathers, and thou shalt be gathered to thy sepulchre in peace; that thy eyes may not see all the evils which I will bring upon this place. 
 
 ** II Kings 23
 
@@ -2718,7 +2718,7 @@ Joakim was five and twenty years old when he began to reign: and he reigned elev
 
 *** II Kings 23:37
 
-And he did evil before the Lord according to all that his fathers had done. <chapter eID="gen10509" osisID="2Kgs.23"/>
+And he did evil before the Lord according to all that his fathers had done. 
 
 ** II Kings 24
 
@@ -2800,7 +2800,7 @@ And he did evil before the Lord, according to all that Joakim had done.
 
 *** II Kings 24:20
 
-For the Lord was angry against Jerusalem and against Juda, till he cast them out from his face: and Sedecias revolted from the king of Babylon. <chapter eID="gen10547" osisID="2Kgs.24"/>
+For the Lord was angry against Jerusalem and against Juda, till he cast them out from his face: and Sedecias revolted from the king of Babylon. 
 
 ** II Kings 25
 
@@ -2922,4 +2922,4 @@ And he changed his garments which he had in prison, and he ate bread always befo
 
 *** II Kings 25:30
 
-And he appointed him a continual allowance, which was also given him by the king, day by day, all the days of his life. <chapter eID="gen10568" osisID="2Kgs.25"/> <div eID="gen9854" osisID="2Kgs" type="book"/>
+And he appointed him a continual allowance, which was also given him by the king, day by day, all the days of his life.  

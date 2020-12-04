@@ -54,7 +54,7 @@ But to which of the angels said he at any time: Sit on my right hand, until I ma
 
 *** Hebrews 1:14
 
-Are they not all ministering spirits, sent to minister for them who shall receive the inheritance of salvation? <chapter eID="gen36020" osisID="Heb.1"/>
+Are they not all ministering spirits, sent to minister for them who shall receive the inheritance of salvation? 
 
 ** Hebrews 2
 
@@ -128,7 +128,7 @@ Wherefore, it behoved him in all things to be made like unto his brethren, that 
 
 *** Hebrews 2:18
 
-For in that wherein he himself hath suffered and been tempted he is able to succour them also that are tempted. <chapter eID="gen36035" osisID="Heb.2"/>
+For in that wherein he himself hath suffered and been tempted he is able to succour them also that are tempted. 
 
 ** Hebrews 3
 
@@ -206,7 +206,7 @@ And to whom did he swear, that they should not enter into his rest: but to them 
 
 *** Hebrews 3:19
 
-And we see that they could not enter in, because of unbelief. <chapter eID="gen36054" osisID="Heb.3"/>
+And we see that they could not enter in, because of unbelief. 
 
 ** Hebrews 4
 
@@ -272,7 +272,7 @@ For we have not a high priest who cannot have compassion on our infirmities: but
 
 *** Hebrews 4:16
 
-Let us go therefore with confidence to the throne of grace: that we may obtain mercy and find grace in seasonable aid. <chapter eID="gen36074" osisID="Heb.4"/>
+Let us go therefore with confidence to the throne of grace: that we may obtain mercy and find grace in seasonable aid. 
 
 ** Hebrews 5
 
@@ -330,7 +330,7 @@ For every one that is a partaker of milk is unskilful in the word of justice: fo
 
 *** Hebrews 5:14
 
-But strong meat is for the perfect: for them who by custom have their senses exercised to the discerning of good and evil. <chapter eID="gen36091" osisID="Heb.5"/>
+But strong meat is for the perfect: for them who by custom have their senses exercised to the discerning of good and evil. 
 
 ** Hebrews 6
 
@@ -412,7 +412,7 @@ Which we have as an anchor of the soul, sure and firm, and which entereth in eve
 
 *** Hebrews 6:20
 
-Where the forerunner Jesus is entered for us, made a high priest for ever according to the order of Melchisedech. <chapter eID="gen36106" osisID="Heb.6"/>
+Where the forerunner Jesus is entered for us, made a high priest for ever according to the order of Melchisedech. 
 
 ** Hebrews 7
 
@@ -526,7 +526,7 @@ Who needeth not daily (as the other priests) to offer sacrifices, first for his 
 
 *** Hebrews 7:28
 
-For the law maketh men priests, who have infirmity: but the word of the oath (which was since the law) the Son who is perfected for evermore. <chapter eID="gen36127" osisID="Heb.7"/>
+For the law maketh men priests, who have infirmity: but the word of the oath (which was since the law) the Son who is perfected for evermore. 
 
 ** Hebrews 8
 
@@ -580,7 +580,7 @@ Because I will be merciful to their iniquities: and their sins I will remember n
 
 *** Hebrews 8:13
 
-Now in saying a new, he hath made the former old. And that which decayeth and groweth old is near its end. <chapter eID="gen36156" osisID="Heb.8"/>
+Now in saying a new, he hath made the former old. And that which decayeth and groweth old is near its end. 
 
 ** Hebrews 9
 
@@ -694,7 +694,7 @@ And as it is appointed unto men once to die, and after this the judgment:
 
 *** Hebrews 9:28
 
-So also Christ was offered once to exhaust the sins of many. The second time he shall appear without sin to them that expect him unto salvation. <chapter eID="gen36170" osisID="Heb.9"/>
+So also Christ was offered once to exhaust the sins of many. The second time he shall appear without sin to them that expect him unto salvation. 
 
 ** Hebrews 10
 
@@ -852,7 +852,7 @@ But my just man liveth by faith: but if he withdraw himself, he shall not please
 
 *** Hebrews 10:39
 
-But we are not the children of withdrawing unto perdition, but of faith to the saving of the soul. <chapter eID="gen36199" osisID="Heb.10"/>
+But we are not the children of withdrawing unto perdition, but of faith to the saving of the soul. 
 
 ** Hebrews 11
 
@@ -1014,7 +1014,7 @@ And all these, being approved by the testimony of faith, received not the promis
 
 *** Hebrews 11:40
 
-God providing some better thing for us, that they should not be perfected without us. <chapter eID="gen36239" osisID="Heb.11"/>
+God providing some better thing for us, that they should not be perfected without us. 
 
 ** Hebrews 12
 
@@ -1132,7 +1132,7 @@ Therefore, receiving an immoveable kingdom, we have grace: whereby let us serve,
 
 *** Hebrews 12:29
 
-For our God is a consuming fire. <chapter eID="gen36280" osisID="Heb.12"/>
+For our God is a consuming fire. 
 
 ** Hebrews 13
 
@@ -1234,4 +1234,4 @@ Salute all your prelates and all the saints. The brethren from Italy salute you.
 
 *** Hebrews 13:25
 
-Grace be with you all. Amen. <chapter eID="gen36310" osisID="Heb.13"/> <div eID="gen36019" osisID="Heb" type="book"/>
+Grace be with you all. Amen.  

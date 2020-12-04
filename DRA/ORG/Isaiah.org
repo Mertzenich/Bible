@@ -122,7 +122,7 @@ When you shall be as an oak with the leaves falling off, and as a garden without
 
 *** Isaiah 1:31
 
-And your strength shall be as the ashes of tow, and your work as a spark: and both shall burn together, and there shall be none to quench it. <chapter eID="gen21316" osisID="Isa.1"/>
+And your strength shall be as the ashes of tow, and your work as a spark: and both shall burn together, and there shall be none to quench it. 
 
 ** Isaiah 2
 
@@ -212,7 +212,7 @@ And he shall go into the clefts of rocks, and into the holes of stones from the 
 
 *** Isaiah 2:22
 
-Cease ye therefore from the man, whose breath is in his nostrils, for he is reputed high. <chapter eID="gen21348" osisID="Isa.2"/>
+Cease ye therefore from the man, whose breath is in his nostrils, for he is reputed high. 
 
 ** Isaiah 3
 
@@ -318,7 +318,7 @@ Thy fairest men also shall fall by the sword, and thy valiant ones in battle.
 
 *** Isaiah 3:26
 
-And her gates shall lament and mourn, and she shall sit desolate on the ground. <chapter eID="gen21371" osisID="Isa.3"/>
+And her gates shall lament and mourn, and she shall sit desolate on the ground. 
 
 ** Isaiah 4
 
@@ -344,7 +344,7 @@ And the Lord will create upon every place of mount Sion, and where he is called 
 
 *** Isaiah 4:6
 
-And there shall be a tabernacle for a shade in the daytime from the heat, and for a security and covert from the whirlwind, and from rain. <chapter eID="gen21398" osisID="Isa.4"/>
+And there shall be a tabernacle for a shade in the daytime from the heat, and for a security and covert from the whirlwind, and from rain. 
 
 ** Isaiah 5
 
@@ -466,7 +466,7 @@ Their roaring like that of a lion, they shall roar like young lions: yea they sh
 
 *** Isaiah 5:30
 
-And they shall make a noise against them that day, like the roaring of the sea; we shall look towards the land, and behold darkness of tribulation, and the light is darkened with the mist thereof. <chapter eID="gen21405" osisID="Isa.5"/>
+And they shall make a noise against them that day, like the roaring of the sea; we shall look towards the land, and behold darkness of tribulation, and the light is darkened with the mist thereof. 
 
 ** Isaiah 6
 
@@ -520,7 +520,7 @@ And the Lord shall remove men far away, and she shall be multiplied that was lef
 
 *** Isaiah 6:13
 
-And there shall be still a tithing therein, and she shall turn, and shall be made a show as a turpentine tree, and as an oak that spreadeth its branches: that which shall stand therein, shall be a holy seed. <chapter eID="gen21436" osisID="Isa.6"/>
+And there shall be still a tithing therein, and she shall turn, and shall be made a show as a turpentine tree, and as an oak that spreadeth its branches: that which shall stand therein, shall be a holy seed. 
 
 ** Isaiah 7
 
@@ -622,7 +622,7 @@ With arrows and with bows they shall go in thither: for briers and thorns shall 
 
 *** Isaiah 7:25
 
-And as for the hills that shall be raked with a rake, the fear of thorns and briers shall not come thither, but they shall be for the ox to feed on, and the lesser cattle to tread upon. <chapter eID="gen21450" osisID="Isa.7"/>
+And as for the hills that shall be raked with a rake, the fear of thorns and briers shall not come thither, but they shall be for the ox to feed on, and the lesser cattle to tread upon. 
 
 ** Isaiah 8
 
@@ -712,7 +712,7 @@ And they shall pass by it, they shall fall, and be hungry: and when they shall b
 
 *** Isaiah 8:22
 
-And they shall look to the earth, and behold trouble and darkness, weakness and distress, and a mist following them, and they cannot fly away from their distress. <chapter eID="gen21476" osisID="Isa.8"/>
+And they shall look to the earth, and behold trouble and darkness, weakness and distress, and a mist following them, and they cannot fly away from their distress. 
 
 ** Isaiah 9
 
@@ -798,7 +798,7 @@ And he shall turn to the right hand, and shall be hungry: and shall eat on the l
 
 *** Isaiah 9:21
 
-After all these things his indignation is not turned away, but his hand is stretched out still. <chapter eID="gen21499" osisID="Isa.9"/>
+After all these things his indignation is not turned away, but his hand is stretched out still. 
 
 ** Isaiah 10
 
@@ -936,7 +936,7 @@ Behold the sovereign Lord of hosts shall break the earthen vessel with terror, a
 
 *** Isaiah 10:34
 
-And the thickets of the forest shall be cut down with iron, and Libanus with its high ones shall fall. <chapter eID="gen21521" osisID="Isa.10"/>
+And the thickets of the forest shall be cut down with iron, and Libanus with its high ones shall fall. 
 
 ** Isaiah 11
 
@@ -1002,7 +1002,7 @@ And the Lord shall lay waste the tongue of the sea of Egypt, and shall lift up h
 
 *** Isaiah 11:16
 
-And there shall be a highway for the remnant of my people, which shall be left from the Assyrians: as there was for Israel in the day that he came up out of the land of Egypt. <chapter eID="gen21556" osisID="Isa.11"/>
+And there shall be a highway for the remnant of my people, which shall be left from the Assyrians: as there was for Israel in the day that he came up out of the land of Egypt. 
 
 ** Isaiah 12
 
@@ -1028,7 +1028,7 @@ Sing ye to the Lord, for he hath done great things: shew this forth in all the e
 
 *** Isaiah 12:6
 
-Rejoice, and praise, O thou habitation of Sion: for great is he that is in the midst of thee, the Holy One of Israel. <chapter eID="gen21573" osisID="Isa.12"/>
+Rejoice, and praise, O thou habitation of Sion: for great is he that is in the midst of thee, the Holy One of Israel. 
 
 ** Isaiah 13
 
@@ -1118,7 +1118,7 @@ But wild beasts shall rest there, and their houses shall be filled with serpents
 
 *** Isaiah 13:22
 
-And owls shall answer one another there, in the houses thereof, and sirens in the temples of pleasure. <chapter eID="gen21580" osisID="Isa.13"/>
+And owls shall answer one another there, in the houses thereof, and sirens in the temples of pleasure. 
 
 ** Isaiah 14
 
@@ -1248,7 +1248,7 @@ Howl, O gate; cry, O city: all Philistia is thrown down: for a smoke shall come 
 
 *** Isaiah 14:32
 
-And what shall be answered to the messengers of the nations? That the Lord hath founded Sion, and the poor of his people shall hope in him. <chapter eID="gen21603" osisID="Isa.14"/>
+And what shall be answered to the messengers of the nations? That the Lord hath founded Sion, and the poor of his people shall hope in him. 
 
 ** Isaiah 15
 
@@ -1286,7 +1286,7 @@ For the cry is gone round about the border of Moab: the howling thereof unto Gal
 
 *** Isaiah 15:9
 
-For the waters of Dibon are filled with blood: for I will bring more upon Dibon: the lion upon them that shall flee of Moab, and upon the remnant of the land. <chapter eID="gen21636" osisID="Isa.15"/>
+For the waters of Dibon are filled with blood: for I will bring more upon Dibon: the lion upon them that shall flee of Moab, and upon the remnant of the land. 
 
 ** Isaiah 16
 
@@ -1344,7 +1344,7 @@ This is the word, that the Lord spoke to Moab from that time:
 
 *** Isaiah 16:14
 
-And now the Lord hath spoken, saying: In three years, as the years of a hireling, the glory of Moab shall be taken away for all the multitude of the people, and it shall be left small and feeble, not many. <chapter eID="gen21646" osisID="Isa.16"/>
+And now the Lord hath spoken, saying: In three years, as the years of a hireling, the glory of Moab shall be taken away for all the multitude of the people, and it shall be left small and feeble, not many. 
 
 ** Isaiah 17
 
@@ -1402,7 +1402,7 @@ Nations shall make a noise like the noise of waters overflowing, but he shall re
 
 *** Isaiah 17:14
 
-In the time of the evening, behold there shall be trouble: the morning shall come, and he shall not be: this is the portion of them that have wasted us, and the lot of them that spoiled us. <chapter eID="gen21661" osisID="Isa.17"/>
+In the time of the evening, behold there shall be trouble: the morning shall come, and he shall not be: this is the portion of them that have wasted us, and the lot of them that spoiled us. 
 
 ** Isaiah 18
 
@@ -1432,7 +1432,7 @@ And they shall be left together to the birds of the mountains, and the beasts of
 
 *** Isaiah 18:7
 
-At that time shall a present be brought to the Lord of hosts, from a people rent and torn in pieces: from a terrible people, after which there hath been no other: from a nation expecting, expecting and trodden under foot, whose land the rivers have spoiled, to the place of the name of the Lord of hosts, to mount Sion. <chapter eID="gen21676" osisID="Isa.18"/>
+At that time shall a present be brought to the Lord of hosts, from a people rent and torn in pieces: from a terrible people, after which there hath been no other: from a nation expecting, expecting and trodden under foot, whose land the rivers have spoiled, to the place of the name of the Lord of hosts, to mount Sion. 
 
 ** Isaiah 19
 
@@ -1534,7 +1534,7 @@ In that day shall Israel be the third to the Egyptian and the Assyrian: a blessi
 
 *** Isaiah 19:25
 
-Which the Lord of hosts hath blessed, saying: Blessed be my people of Egypt, and the work of my hands to the Assyrian: but Israel is my inheritance. <chapter eID="gen21684" osisID="Isa.19"/>
+Which the Lord of hosts hath blessed, saying: Blessed be my people of Egypt, and the work of my hands to the Assyrian: but Israel is my inheritance. 
 
 ** Isaiah 20
 
@@ -1560,7 +1560,7 @@ And they shall be afraid, and ashamed of Ethiopia their hope, and of Egypt their
 
 *** Isaiah 20:6
 
-And the inhabitants of this isle shall say in that day: Lo this was our hope, to whom we fled for help, to deliver us from the face of the king of the Assyrians: and how shall we be able to escape? <chapter eID="gen21710" osisID="Isa.20"/>
+And the inhabitants of this isle shall say in that day: Lo this was our hope, to whom we fled for help, to deliver us from the face of the king of the Assyrians: and how shall we be able to escape? 
 
 ** Isaiah 21
 
@@ -1630,7 +1630,7 @@ For thus saith the Lord to me: Within a year, according to the years of a hireli
 
 *** Isaiah 21:17
 
-And the residue of the number of strong archers of the children of Cedar shall be diminished: for the Lord the God of Israel hath spoken it. <chapter eID="gen21717" osisID="Isa.21"/>
+And the residue of the number of strong archers of the children of Cedar shall be diminished: for the Lord the God of Israel hath spoken it. 
 
 ** Isaiah 22
 
@@ -1732,7 +1732,7 @@ And they shall hang upon him all the glory of his father's house, divers kinds o
 
 *** Isaiah 22:25
 
-In that day, saith the Lord of hosts, shall the peg be removed, that was fastened in the sure place: and it shall be broken and shall fall: and that which hung thereon, shall perish, because the Lord hath spoken it. <chapter eID="gen21735" osisID="Isa.22"/>
+In that day, saith the Lord of hosts, shall the peg be removed, that was fastened in the sure place: and it shall be broken and shall fall: and that which hung thereon, shall perish, because the Lord hath spoken it. 
 
 ** Isaiah 23
 
@@ -1806,7 +1806,7 @@ And it shall come to pass after seventy years, that the Lord will visit Tyre, an
 
 *** Isaiah 23:18
 
-And her merchandise and her hire shall be sanctified to the Lord: they shall not be kept in store, nor laid up: for her merchandise shall be for them that shall dwell before the Lord, that they may eat unto fulness, and be clothed for a continuance. <chapter eID="gen21761" osisID="Isa.23"/>
+And her merchandise and her hire shall be sanctified to the Lord: they shall not be kept in store, nor laid up: for her merchandise shall be for them that shall dwell before the Lord, that they may eat unto fulness, and be clothed for a continuance. 
 
 ** Isaiah 24
 
@@ -1900,7 +1900,7 @@ And they shall be gathered together as in the gathering of one bundle into the p
 
 *** Isaiah 24:23
 
-And the moon shall blush, and the sun shall be ashamed, when the Lord of hosts shall reign in mount Sion, and in Jerusalem, and shall be glorified in the sight of his ancients. <chapter eID="gen21780" osisID="Isa.24"/>
+And the moon shall blush, and the sun shall be ashamed, when the Lord of hosts shall reign in mount Sion, and in Jerusalem, and shall be glorified in the sight of his ancients. 
 
 ** Isaiah 25
 
@@ -1950,7 +1950,7 @@ And he shall stretch forth his hands under him, as he that swimmeth stretcheth f
 
 *** Isaiah 25:12
 
-And the bulwarks of thy high walls shall fall, and be brought low, and shall be pulled down to the ground, even to the dust. <chapter eID="gen21804" osisID="Isa.25"/>
+And the bulwarks of thy high walls shall fall, and be brought low, and shall be pulled down to the ground, even to the dust. 
 
 ** Isaiah 26
 
@@ -2036,7 +2036,7 @@ Go, my people, enter into thy chambers, shut thy doors upon thee, hide thyself a
 
 *** Isaiah 26:21
 
-For behold the Lord will come out of his place, to visit the iniquity of the inhabitant of the earth against him: and the earth shall disclose her blood, and shall cover her slain no more. <chapter eID="gen21817" osisID="Isa.26"/>
+For behold the Lord will come out of his place, to visit the iniquity of the inhabitant of the earth against him: and the earth shall disclose her blood, and shall cover her slain no more. 
 
 ** Isaiah 27
 
@@ -2090,7 +2090,7 @@ And it shall come to pass, that in that day the Lord will strike from the channe
 
 *** Isaiah 27:13
 
-And it shall come to pass, that in that day a noise shall be made with a great trumpet, and they that were lost, shall come from the land of the Assyrians, and they that were outcasts in the land of Egypt, and they shall adore the Lord in the holy mount in Jerusalem. <chapter eID="gen21839" osisID="Isa.27"/>
+And it shall come to pass, that in that day a noise shall be made with a great trumpet, and they that were lost, shall come from the land of the Assyrians, and they that were outcasts in the land of Egypt, and they shall adore the Lord in the holy mount in Jerusalem. 
 
 ** Isaiah 28
 
@@ -2208,7 +2208,7 @@ But breadcorn shall be broken small: but the thrasher shall not thrash it for ev
 
 *** Isaiah 28:29
 
-This also is come forth from the Lord God of hosts, to make his counsel wonderful, and magnify justice. <chapter eID="gen21853" osisID="Isa.28"/>
+This also is come forth from the Lord God of hosts, to make his counsel wonderful, and magnify justice. 
 
 ** Isaiah 29
 
@@ -2306,7 +2306,7 @@ But when he shall see his children, the work of my hands in the midst of him san
 
 *** Isaiah 29:24
 
-And they that erred in spirit, shall know understanding, and they that murmured, shall learn the law. <chapter eID="gen21883" osisID="Isa.29"/>
+And they that erred in spirit, shall know understanding, and they that murmured, shall learn the law. 
 
 ** Isaiah 30
 
@@ -2440,7 +2440,7 @@ And the passage of the rod shall be strongly grounded, which the Lord shall make
 
 *** Isaiah 30:33
 
-For Topheth is prepared from yesterday, prepared by the king, deep, and wide. The nourishment thereof is fire and much wood: the breath of the Lord as a torrent of brimstone kindling it. <chapter eID="gen21908" osisID="Isa.30"/>
+For Topheth is prepared from yesterday, prepared by the king, deep, and wide. The nourishment thereof is fire and much wood: the breath of the Lord as a torrent of brimstone kindling it. 
 
 ** Isaiah 31
 
@@ -2478,7 +2478,7 @@ And the Assyrian shall fall by the sword not of a man, and the sword not of a ma
 
 *** Isaiah 31:9
 
-And his strength shall pass away with dread, and his princes fleeing shall be afraid: the Lord hath said it, whose fire is in Sion, and his furnace in Jerusalem. <chapter eID="gen21942" osisID="Isa.31"/>
+And his strength shall pass away with dread, and his princes fleeing shall be afraid: the Lord hath said it, whose fire is in Sion, and his furnace in Jerusalem. 
 
 ** Isaiah 32
 
@@ -2560,7 +2560,7 @@ But hail shall be in the descent of the forest, and the city shall be made very 
 
 *** Isaiah 32:20
 
-Blessed are ye that sow upon all waters, sending thither the foot of the ox and the ass. <chapter eID="gen21952" osisID="Isa.32"/>
+Blessed are ye that sow upon all waters, sending thither the foot of the ox and the ass. 
 
 ** Isaiah 33
 
@@ -2658,7 +2658,7 @@ Thy tacklings are loosed, and they shall be of no strength: thy mast shall be in
 
 *** Isaiah 33:24
 
-Neither shall he that is near, say: I am feeble. The people that dwell therein, shall have their iniquity taken away from them. <chapter eID="gen21973" osisID="Isa.33"/>
+Neither shall he that is near, say: I am feeble. The people that dwell therein, shall have their iniquity taken away from them. 
 
 ** Isaiah 34
 
@@ -2728,7 +2728,7 @@ Search ye diligently in the book of the Lord, and read: not one of them was want
 
 *** Isaiah 34:17
 
-And he hath cast the lot for them, and his hand hath divided it to them by line: they shall possess it for ever, from generation to generation they shall dwell therein. <chapter eID="gen21998" osisID="Isa.34"/>
+And he hath cast the lot for them, and his hand hath divided it to them by line: they shall possess it for ever, from generation to generation they shall dwell therein. 
 
 ** Isaiah 35
 
@@ -2770,7 +2770,7 @@ No lion shall be there, nor shall any mischievous beast go up by it, nor be foun
 
 *** Isaiah 35:10
 
-And the redeemed of the Lord shall return, and shall come into Sion with praise, and everlasting joy shall be upon their heads: they shall obtain joy and gladness, and sorrow and mourning shall flee away. <chapter eID="gen22016" osisID="Isa.35"/>
+And the redeemed of the Lord shall return, and shall come into Sion with praise, and everlasting joy shall be upon their heads: they shall obtain joy and gladness, and sorrow and mourning shall flee away. 
 
 ** Isaiah 36
 
@@ -2860,7 +2860,7 @@ And they held their peace, and answered him not a word. For the king had command
 
 *** Isaiah 36:22
 
-And Eliacim the son of Helcias, that was over the house, and Sobna the scribe, and Joahe the son of Asaph the recorder, went in to Ezechias with their garments rent, and told him the words of Rabsaces. <chapter eID="gen22027" osisID="Isa.36"/>
+And Eliacim the son of Helcias, that was over the house, and Sobna the scribe, and Joahe the son of Asaph the recorder, went in to Ezechias with their garments rent, and told him the words of Rabsaces. 
 
 ** Isaiah 37
 
@@ -3014,7 +3014,7 @@ And Sennacherib the king of the Assyrians went out and departed, and returned, a
 
 *** Isaiah 37:38
 
-And it came to pass, as he was worshipping in the temple of Nesroch his god, that Adramelech and Sarasar his sons slew him with the sword: and they fled into the land of Ararat, and Asarhaddon his son reigned in his stead. <chapter eID="gen22050" osisID="Isa.37"/>
+And it came to pass, as he was worshipping in the temple of Nesroch his god, that Adramelech and Sarasar his sons slew him with the sword: and they fled into the land of Ararat, and Asarhaddon his son reigned in his stead. 
 
 ** Isaiah 38
 
@@ -3104,7 +3104,7 @@ Now Isaiah had ordered that they should take a lump of figs, and lay it as a pla
 
 *** Isaiah 38:22
 
-And Ezechias had said: What shall be the sign that I shall go up to the house of the Lord? <chapter eID="gen22089" osisID="Isa.38"/>
+And Ezechias had said: What shall be the sign that I shall go up to the house of the Lord? 
 
 ** Isaiah 39
 
@@ -3138,7 +3138,7 @@ And of thy children, that shall issue from thee, whom thou shalt beget, they sha
 
 *** Isaiah 39:8
 
-And Ezechias said to Isaiah: The word of the Lord, which he hath spoken, is good. And he said: Only let peace and truth be in my days. <chapter eID="gen22112" osisID="Isa.39"/>
+And Ezechias said to Isaiah: The word of the Lord, which he hath spoken, is good. And he said: Only let peace and truth be in my days. 
 
 ** Isaiah 40
 
@@ -3264,7 +3264,7 @@ You shall faint, and labour, and young men shall fall by infirmity.
 
 *** Isaiah 40:31
 
-But they that hope in the Lord shall renew their strength, they shall take wings as eagles, they shall run and not be weary, they shall walk and not faint. <chapter eID="gen22121" osisID="Isa.40"/>
+But they that hope in the Lord shall renew their strength, they shall take wings as eagles, they shall run and not be weary, they shall walk and not faint. 
 
 ** Isaiah 41
 
@@ -3382,7 +3382,7 @@ And I saw, and there was no one even among them to consult, or who, when I asked
 
 *** Isaiah 41:29
 
-Behold they are all in the wrong, and their works are vain: their idols are wind and vanity. <chapter eID="gen22153" osisID="Isa.41"/>
+Behold they are all in the wrong, and their works are vain: their idols are wind and vanity. 
 
 ** Isaiah 42
 
@@ -3484,7 +3484,7 @@ Who hath given Jacob for a spoil, and Israel to robbers? hath not the Lord himse
 
 *** Isaiah 42:25
 
-And he hath poured out upon him the indignation of his fury, and a strong battle, and hath burnt him round about, and he knew not: and set him on fire, and he understood not. <chapter eID="gen22183" osisID="Isa.42"/>
+And he hath poured out upon him the indignation of his fury, and a strong battle, and hath burnt him round about, and he knew not: and set him on fire, and he understood not. 
 
 ** Isaiah 43
 
@@ -3598,7 +3598,7 @@ Thy first father sinned, and thy teachers have transgressed against me.
 
 *** Isaiah 43:28
 
-And I have profaned the holy princes, I have given Jacob to slaughter, and Israel to reproach. <chapter eID="gen22209" osisID="Isa.43"/>
+And I have profaned the holy princes, I have given Jacob to slaughter, and Israel to reproach. 
 
 ** Isaiah 44
 
@@ -3712,7 +3712,7 @@ Who say to the deep: Be thou desolate, and I will dry up thy rivers.
 
 *** Isaiah 44:28
 
-Who say to Cyrus: Thou art my shepherd, and thou shalt perform all my pleasure. Who say to Jerusalem: Thou shalt be built: and to the temple: Thy foundations shall be laid. <chapter eID="gen22238" osisID="Isa.44"/>
+Who say to Cyrus: Thou art my shepherd, and thou shalt perform all my pleasure. Who say to Jerusalem: Thou shalt be built: and to the temple: Thy foundations shall be laid. 
 
 ** Isaiah 45
 
@@ -3818,7 +3818,7 @@ Therefore shall he say: In the Lord are my justices and empire: they shall come 
 
 *** Isaiah 45:26
 
-In the Lord shall all the seed of Israel be justified and praised. <chapter eID="gen22267" osisID="Isa.45"/>
+In the Lord shall all the seed of Israel be justified and praised. 
 
 ** Isaiah 46
 
@@ -3868,7 +3868,7 @@ Who call a bird from the east, and from a far country the man of my own will, an
 
 *** Isaiah 46:12
 
-I have brought my justice near, it shall not be afar off: and my salvation shall not tarry. I will give salvation in Sion, and my glory in Israel. <chapter eID="gen22294" osisID="Isa.46"/>
+I have brought my justice near, it shall not be afar off: and my salvation shall not tarry. I will give salvation in Sion, and my glory in Israel. 
 
 *** Isaiah 46:13
 
@@ -3934,7 +3934,7 @@ Behold they are as stubble, fire hath burnt them, they shall not deliver themsel
 
 *** Isaiah 47:15
 
-Such are all the things become to thee, in which thou hast laboured: thy merchants from thy youth, every one hath erred in his own way, there is none that can save thee. <chapter eID="gen22307" osisID="Isa.47"/>
+Such are all the things become to thee, in which thou hast laboured: thy merchants from thy youth, every one hath erred in his own way, there is none that can save thee. 
 
 ** Isaiah 48
 
@@ -4024,7 +4024,7 @@ They thirsted not in the desert, when he led them out: he brought forth water ou
 
 *** Isaiah 48:22
 
-There is no peace to the wicked, saith the Lord. <chapter eID="gen22323" osisID="Isa.48"/>
+There is no peace to the wicked, saith the Lord. 
 
 ** Isaiah 49
 
@@ -4130,7 +4130,7 @@ For thus saith the Lord: Yea verily, even the captivity shall be taken away from
 
 *** Isaiah 49:26
 
-And I will feed thy enemies with their own flesh: and they shall be made drunk with their own blood, as with new wine: and all flesh shall know, that I am the Lord that save thee, and thy Redeemer the Mighty One of Jacob. <chapter eID="gen22346" osisID="Isa.49"/>
+And I will feed thy enemies with their own flesh: and they shall be made drunk with their own blood, as with new wine: and all flesh shall know, that I am the Lord that save thee, and thy Redeemer the Mighty One of Jacob. 
 
 ** Isaiah 50
 
@@ -4176,7 +4176,7 @@ Who is there among you that feareth the Lord, that heareth the voice of his serv
 
 *** Isaiah 50:11
 
-Behold all you that kindle a fire, encompassed with flames, walk in the light of your fire, and in the flames which you have kindled: this is done to you by my hand, you shall sleep in sorrows. <chapter eID="gen22373" osisID="Isa.50"/>
+Behold all you that kindle a fire, encompassed with flames, walk in the light of your fire, and in the flames which you have kindled: this is done to you by my hand, you shall sleep in sorrows. 
 
 ** Isaiah 51
 
@@ -4270,7 +4270,7 @@ Thus saith thy Sovereign the Lord, and thy God, who will fight for his people: B
 
 *** Isaiah 51:23
 
-And I will put it in the hand of them that have oppressed thee, and have said to thy soul: Bow down, that we may go over: and thou hast laid thy body as the ground, and as a way to them that went over. <chapter eID="gen22385" osisID="Isa.51"/>
+And I will put it in the hand of them that have oppressed thee, and have said to thy soul: Bow down, that we may go over: and thou hast laid thy body as the ground, and as a way to them that went over. 
 
 ** Isaiah 52
 
@@ -4332,7 +4332,7 @@ As many have been astonished at thee, so shall his visage be inglorious among me
 
 *** Isaiah 52:15
 
-He shall sprinkle many nations, kings shall shut their mouth at him: for they to whom it was not told of him, have seen: and they that heard not, have beheld. <chapter eID="gen22409" osisID="Isa.52"/>
+He shall sprinkle many nations, kings shall shut their mouth at him: for they to whom it was not told of him, have seen: and they that heard not, have beheld. 
 
 ** Isaiah 53
 
@@ -4382,7 +4382,7 @@ Because his soul hath laboured, he shall see and be filled: by his knowledge sha
 
 *** Isaiah 53:12
 
-Therefore will I distribute to him very many, and he shall divide the spoils of the strong, because he hath delivered his soul unto death, and was reputed with the wicked: and he hath borne the sins of many, and hath prayed for the transgressors. <chapter eID="gen22425" osisID="Isa.53"/>
+Therefore will I distribute to him very many, and he shall divide the spoils of the strong, because he hath delivered his soul unto death, and was reputed with the wicked: and he hath borne the sins of many, and hath prayed for the transgressors. 
 
 ** Isaiah 54
 
@@ -4452,7 +4452,7 @@ Behold, I have created the smith that bloweth the coals in the fire, and bringet
 
 *** Isaiah 54:17
 
-No weapon that is formed against thee shall prosper: and every tongue that resisteth thee in judgment, thou shalt condemn. This is the inheritance of the servants of the Lord, and their justice with me, saith the Lord. <chapter eID="gen22438" osisID="Isa.54"/>
+No weapon that is formed against thee shall prosper: and every tongue that resisteth thee in judgment, thou shalt condemn. This is the inheritance of the servants of the Lord, and their justice with me, saith the Lord. 
 
 ** Isaiah 55
 
@@ -4506,7 +4506,7 @@ For you shall go out with joy, and be led forth with peace: the mountains and th
 
 *** Isaiah 55:13
 
-Instead of the shrub, shall come up the fir tree, and instead of the nettle, shall come up the myrtle tree: and the Lord shall be named for an everlasting sign, that shall not be taken away. <chapter eID="gen22456" osisID="Isa.55"/>
+Instead of the shrub, shall come up the fir tree, and instead of the nettle, shall come up the myrtle tree: and the Lord shall be named for an everlasting sign, that shall not be taken away. 
 
 ** Isaiah 56
 
@@ -4556,7 +4556,7 @@ And most impudent dogs, they never had enough: the shepherds themselves knew no 
 
 *** Isaiah 56:12
 
-Come, let us take wine, and be filled with drunkenness: and it shall be as to day, so also to morrow, and much more. <chapter eID="gen22470" osisID="Isa.56"/>
+Come, let us take wine, and be filled with drunkenness: and it shall be as to day, so also to morrow, and much more. 
 
 ** Isaiah 57
 
@@ -4642,7 +4642,7 @@ But the wicked are like the raging sea, which cannot rest, and the waves thereof
 
 *** Isaiah 57:21
 
-There is no peace to the wicked, saith the Lord God. <chapter eID="gen22483" osisID="Isa.57"/>
+There is no peace to the wicked, saith the Lord God. 
 
 ** Isaiah 58
 
@@ -4700,7 +4700,7 @@ If thou turn away thy foot from the sabbath, from doing thy own will in my holy 
 
 *** Isaiah 58:14
 
-Then shalt thou be delighted in the Lord, and I will lift thee up above the high places of the earth, and will feed thee with the inheritance of Jacob thy father. For the mouth of the Lord hath spoken it. <chapter eID="gen22505" osisID="Isa.58"/>
+Then shalt thou be delighted in the Lord, and I will lift thee up above the high places of the earth, and will feed thee with the inheritance of Jacob thy father. For the mouth of the Lord hath spoken it. 
 
 ** Isaiah 59
 
@@ -4786,7 +4786,7 @@ And there shall come a redeemer to Sion, and to them that return from iniquity i
 
 *** Isaiah 59:21
 
-This is my covenant with them, saith the Lord: My spirit that is in thee, and my words that I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed's seed, saith the Lord, from henceforth and for ever. <chapter eID="gen22520" osisID="Isa.59"/>
+This is my covenant with them, saith the Lord: My spirit that is in thee, and my words that I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed's seed, saith the Lord, from henceforth and for ever. 
 
 ** Isaiah 60
 
@@ -4876,7 +4876,7 @@ And thy people shall be all just, they shall inherit the land for ever, the bran
 
 *** Isaiah 60:22
 
-The least shall become a thousand, and a little one a most strong nation: I the Lord will suddenly do this thing in its time. <chapter eID="gen22542" osisID="Isa.60"/>
+The least shall become a thousand, and a little one a most strong nation: I the Lord will suddenly do this thing in its time. 
 
 ** Isaiah 61
 
@@ -4922,7 +4922,7 @@ I will greatly rejoice in the Lord, and my soul shall be joyful in my God: for h
 
 *** Isaiah 61:11
 
-For as the earth bringeth forth her bud, and as the garden causeth her seed to shoot forth: so shall the Lord God make justice to spring forth, and praise before all the nations. <chapter eID="gen22565" osisID="Isa.61"/>
+For as the earth bringeth forth her bud, and as the garden causeth her seed to shoot forth: so shall the Lord God make justice to spring forth, and praise before all the nations. 
 
 ** Isaiah 62
 
@@ -4972,7 +4972,7 @@ Behold the Lord hath made it to be heard in the ends of the earth, tell the daug
 
 *** Isaiah 62:12
 
-And they shall call them, The holy people, the redeemed of the Lord. But thou shalt be called: A city sought after, and not forsaken. <chapter eID="gen22577" osisID="Isa.62"/>
+And they shall call them, The holy people, the redeemed of the Lord. But thou shalt be called: A city sought after, and not forsaken. 
 
 ** Isaiah 63
 
@@ -5050,7 +5050,7 @@ They have possessed thy holy people as nothing: our enemies have trodden down th
 
 *** Isaiah 63:19
 
-We are become as in the beginning, when thou didst not rule over us, and when we were not called by thy name. <chapter eID="gen22590" osisID="Isa.63"/>
+We are become as in the beginning, when thou didst not rule over us, and when we were not called by thy name. 
 
 ** Isaiah 64
 
@@ -5100,7 +5100,7 @@ The house of our holiness, and of our glory, where our fathers praised thee, is 
 
 *** Isaiah 64:12
 
-Wilt thou refrain thyself, O Lord, upon these things, wilt thou hold thy peace, and afflict us vehemently? <chapter eID="gen22610" osisID="Isa.64"/>
+Wilt thou refrain thyself, O Lord, upon these things, wilt thou hold thy peace, and afflict us vehemently? 
 
 ** Isaiah 65
 
@@ -5202,7 +5202,7 @@ And it shall come to pass, that before they call, I will hear; as they are yet s
 
 *** Isaiah 65:25
 
-The wolf and the lamb shall feed together; the lion and the ox shall eat straw; and dust shall be the serpent's food: they shall not hurt nor kill in all my holy mountain, saith the Lord. <chapter eID="gen22623" osisID="Isa.65"/>
+The wolf and the lamb shall feed together; the lion and the ox shall eat straw; and dust shall be the serpent's food: they shall not hurt nor kill in all my holy mountain, saith the Lord. 
 
 ** Isaiah 66
 
@@ -5300,4 +5300,4 @@ And there shall be month after month, and sabbath after sabbath: and all flesh s
 
 *** Isaiah 66:24
 
-And they shall go out, and see the carcasses of the men that have transgressed against me: their worm shall not die, and their fire shall not be quenched: and they shall be a loathsome sight to all flesh. <chapter eID="gen22649" osisID="Isa.66"/> <div eID="gen21315" osisID="Isa" type="book"/>
+And they shall go out, and see the carcasses of the men that have transgressed against me: their worm shall not die, and their fire shall not be quenched: and they shall be a loathsome sight to all flesh.  

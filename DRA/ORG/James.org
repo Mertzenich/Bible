@@ -106,7 +106,7 @@ And if any man think himself to be religious, not bridling his tongue but deceiv
 
 *** James 1:27
 
-Religion clean and undefiled before God and the Father is this: to visit the fatherless and widows in their tribulation and to keep one's self unspotted from this world. <chapter eID="gen36337" osisID="Jas.1"/>
+Religion clean and undefiled before God and the Father is this: to visit the fatherless and widows in their tribulation and to keep one's self unspotted from this world. 
 
 ** James 2
 
@@ -212,7 +212,7 @@ And in like manner also Rahab the harlot, was not she justified by works, receiv
 
 *** James 2:26
 
-For even as the body without the spirit is dead: so also faith without works is dead. <chapter eID="gen36365" osisID="Jas.2"/>
+For even as the body without the spirit is dead: so also faith without works is dead. 
 
 ** James 3
 
@@ -286,7 +286,7 @@ But the wisdom that is from above, first indeed is chaste, then peaceable, modes
 
 *** James 3:18
 
-And the fruit of justice is sown in peace, to them that make peace. <chapter eID="gen36392" osisID="Jas.3"/>
+And the fruit of justice is sown in peace, to them that make peace. 
 
 ** James 4
 
@@ -356,7 +356,7 @@ But now you rejoice in your arrogancies. All such rejoicing is wicked.
 
 *** James 4:17
 
-To him therefore who knoweth to do good and doth it not, to him it is sin. <chapter eID="gen36411" osisID="Jas.4"/>
+To him therefore who knoweth to do good and doth it not, to him it is sin. 
 
 ** James 5
 
@@ -438,4 +438,4 @@ My brethren, if any of you err from the truth and one convert him:
 
 *** James 5:20
 
-He must know that he who causeth a sinner to be converted from the error of his way shall save his soul from death and shall cover a multitude of sins. <chapter eID="gen36429" osisID="Jas.5"/> <div eID="gen36336" osisID="Jas" type="book"/>
+He must know that he who causeth a sinner to be converted from the error of his way shall save his soul from death and shall cover a multitude of sins.  

@@ -66,7 +66,7 @@ vesiculam vero gutturis, et plumas projiciet prope altare ad orientalem plagam, 
 
 ** Leviticus 1:17
 
-confringetque ascellas ejus, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino.  <chapter eID="Lev.1"/> <div eID="gen410" type="x-p"/>
+confringetque ascellas ejus, et non secabit, neque ferro dividet eam, et adolebit super altare, lignis igne supposito. Holocaustum est et oblatio suavissimi odoris Domino.   
 
 * Leviticus 2
 
@@ -132,7 +132,7 @@ fundens supra oleum, et thus imponens, quia oblatio Domini est :
 
 ** Leviticus 2:16
 
-de qua adolebit sacerdos in memoriam muneris partem farris fracti, et olei, ac totum thus.  <chapter eID="Lev.2"/> <div eID="gen411" type="x-p"/>
+de qua adolebit sacerdos in memoriam muneris partem farris fracti, et olei, ac totum thus.   
 
 * Leviticus 3
 
@@ -202,7 +202,7 @@ adolebitque ea super altare sacerdos in alimoniam ignis, et suavissimi odoris. O
 
 ** Leviticus 3:17
 
-jure perpetuo in generationibus, et cunctis habitaculis vestris : nec sanguinem nec adipem omnino comedetis.  <chapter eID="Lev.3"/> <div eID="gen412" type="x-p"/>
+jure perpetuo in generationibus, et cunctis habitaculis vestris : nec sanguinem nec adipem omnino comedetis.   
 
 * Leviticus 4
 
@@ -252,7 +252,7 @@ Pellem vero et omnes carnes, cum capite et pedibus et intestinis et fimo,
 
 ** Leviticus 4:12
 
-et reliquo corpore, efferet extra castra in locum mundum, ubi cineres effundi solent : incendetque ea super lignorum struem, quæ in loco effusorum cinerum cremabuntur.  <div eID="gen413" type="x-p"/>
+et reliquo corpore, efferet extra castra in locum mundum, ubi cineres effundi solent : incendetque ea super lignorum struem, quæ in loco effusorum cinerum cremabuntur.  
 
 ** Leviticus 4:13
 
@@ -288,7 +288,7 @@ sic faciens et de hoc vitulo quomodo fecit et prius : et rogante pro eis sacerdo
 
 ** Leviticus 4:21
 
-Ipsum autem vitulum efferet extra castra, atque comburet sicut et priorem vitulum : quia est pro peccato multitudinis.  <div eID="gen414" type="x-p"/>
+Ipsum autem vitulum efferet extra castra, atque comburet sicut et priorem vitulum : quia est pro peccato multitudinis.  
 
 ** Leviticus 4:22
 
@@ -308,7 +308,7 @@ tinget sacerdos digitum in sanguine hostiæ pro peccato, tangens cornua altaris 
 
 ** Leviticus 4:26
 
-Adipem vero adolebit supra, sicut in victimis pacificorum fieri solet : rogabitque pro eo sacerdos, et pro peccato ejus, et dimittetur ei.  <div eID="gen415" type="x-p"/>
+Adipem vero adolebit supra, sicut in victimis pacificorum fieri solet : rogabitque pro eo sacerdos, et pro peccato ejus, et dimittetur ei.  
 
 ** Leviticus 4:27
 
@@ -344,7 +344,7 @@ Sumetque sacerdos de sanguine ejus digito suo, et tangens cornua altaris holocau
 
 ** Leviticus 4:35
 
-Omnem quoque adipem auferens, sicut auferri solet adeps arietis, qui immolatur pro pacificis, cremabit super altare in incensum Domini : rogabitque pro eo, et pro peccato ejus, et dimittetur ei.  <chapter eID="Lev.4"/> <div eID="gen416" type="x-p"/>
+Omnem quoque adipem auferens, sicut auferri solet adeps arietis, qui immolatur pro pacificis, cremabit super altare in incensum Domini : rogabitque pro eo, et pro peccato ejus, et dimittetur ei.   
 
 * Leviticus 5
 
@@ -358,7 +358,7 @@ Anima quæ tetigerit aliquid immundum, sive quod occisum a bestia est, aut per s
 
 ** Leviticus 5:3
 
-et si tetigerit quidquam de immunditia hominis juxta omnem impuritatem, qua pollui solet, oblitaque cognoverit postea, subjacebit delicto.  <div eID="gen417" type="x-p"/>
+et si tetigerit quidquam de immunditia hominis juxta omnem impuritatem, qua pollui solet, oblitaque cognoverit postea, subjacebit delicto.  
 
 ** Leviticus 5:4
 
@@ -398,7 +398,7 @@ Tradetque eam sacerdoti : qui plenum ex ea pugillum hauriens, cremabit super alt
 
 ** Leviticus 5:13
 
-rogans pro illo et expians : reliquam vero partem ipse habebit in munere.  <div eID="gen418" type="x-p"/>
+rogans pro illo et expians : reliquam vero partem ipse habebit in munere.  
 
 ** Leviticus 5:14
 
@@ -422,7 +422,7 @@ offeret arietem immaculatum de gregibus sacerdoti, juxta mensuram æstimationemq
 
 ** Leviticus 5:19
 
-quia per errorem deliquit in Dominum.  <chapter eID="Lev.5"/> <div eID="gen419" type="x-p"/>
+quia per errorem deliquit in Dominum.   
 
 * Leviticus 6
 
@@ -452,7 +452,7 @@ Pro peccato autem suo offeret arietem immaculatum de grege, et dabit eum sacerdo
 
 ** Leviticus 6:7
 
-qui rogabit pro eo coram Domino, et dimittetur illi pro singulis quæ faciendo peccavit.  <div eID="gen420" type="x-p"/>
+qui rogabit pro eo coram Domino, et dimittetur illi pro singulis quæ faciendo peccavit.  
 
 ** Leviticus 6:8
 
@@ -516,7 +516,7 @@ sacerdos, qui jure patri successerit, et tota cremabitur in altari.
 
 ** Leviticus 6:23
 
-Omne enim sacrificium sacerdotum igne consumetur, nec quisquam comedet ex eo.  <div eID="gen421" type="x-p"/>
+Omne enim sacrificium sacerdotum igne consumetur, nec quisquam comedet ex eo.  
 
 ** Leviticus 6:24
 
@@ -544,7 +544,7 @@ Omnis masculus de genere sacerdotali vescetur de carnibus ejus, quia Sanctum san
 
 ** Leviticus 6:30
 
-Hostia enim quæ cæditur pro peccato, cujus sanguis infertur in tabernaculum testimonii ad expiandum in sanctuario, non comedetur, sed comburetur igni.  <chapter eID="Lev.6"/> <div eID="gen422" type="x-p"/>
+Hostia enim quæ cæditur pro peccato, cujus sanguis infertur in tabernaculum testimonii ad expiandum in sanctuario, non comedetur, sed comburetur igni.   
 
 * Leviticus 7
 
@@ -586,7 +586,7 @@ Et omne sacrificium similæ, quod coquitur in clibano, et quidquid in craticula,
 
 ** Leviticus 7:10
 
-sive oleo conspersa, sive arida fuerint, cunctis filiis Aaron mensura æqua per singulos dividetur.  <div eID="gen423" type="x-p"/>
+sive oleo conspersa, sive arida fuerint, cunctis filiis Aaron mensura æqua per singulos dividetur.  
 
 ** Leviticus 7:11
 
@@ -630,7 +630,7 @@ Anima polluta quæ ederit de carnibus hostiæ pacificorum, quæ oblata est Domin
 
 ** Leviticus 7:21
 
-Et quæ tetigerit immunditiam hominis, vel jumenti, sive omnis rei quæ polluere potest, et comederit de hujuscemodi carnibus, interibit de populis suis.  <div eID="gen424" type="x-p"/>
+Et quæ tetigerit immunditiam hominis, vel jumenti, sive omnis rei quæ polluere potest, et comederit de hujuscemodi carnibus, interibit de populis suis.  
 
 ** Leviticus 7:22
 
@@ -654,7 +654,7 @@ Sanguinem quoque omnis animalis non sumetis in cibo, tam de avibus quam de pecor
 
 ** Leviticus 7:27
 
-Omnis anima, quæ ederit sanguinem, peribit de populis suis.  <div eID="gen425" type="x-p"/>
+Omnis anima, quæ ederit sanguinem, peribit de populis suis.  
 
 ** Leviticus 7:28
 
@@ -698,7 +698,7 @@ Ista est lex holocausti, et sacrificii pro peccato atque delicto, et pro consecr
 
 ** Leviticus 7:38
 
-quam constituit Dominus Moysi in monte Sinai, quando mandabit filiis Israël ut offerrent oblationes suas Domino in deserto Sinai.  <chapter eID="Lev.7"/> <div eID="gen426" type="x-p"/>
+quam constituit Dominus Moysi in monte Sinai, quando mandabit filiis Israël ut offerrent oblationes suas Domino in deserto Sinai.   
 
 * Leviticus 8
 
@@ -752,7 +752,7 @@ Quod fundens super caput Aaron, unxit eum, et consecravit :
 
 ** Leviticus 8:13
 
-filios quoque ejus oblatos vestivit tunicis lineis, et cinxit balteis, imposuitque mitras, ut jusserat Dominus.  <div eID="gen427" type="x-p"/>
+filios quoque ejus oblatos vestivit tunicis lineis, et cinxit balteis, imposuitque mitras, ut jusserat Dominus.  
 
 ** Leviticus 8:14
 
@@ -800,7 +800,7 @@ Obtulit et filios Aaron : cumque de sanguine arietis immolati tetigisset extremu
 
 ** Leviticus 8:25
 
-adipem vero, et caudam, omnemque pinguedinem quæ operit intestina, reticulumque jecoris, et duos renes cum adipibus suis et armo dextro separavit.  <div eID="gen428" type="x-p"/>
+adipem vero, et caudam, omnemque pinguedinem quæ operit intestina, reticulumque jecoris, et duos renes cum adipibus suis et armo dextro separavit.  
 
 ** Leviticus 8:26
 
@@ -816,7 +816,7 @@ rursum suscepta de manibus eorum, adolevit super altare holocausti, eo quod cons
 
 ** Leviticus 8:29
 
-Tulitque pectusculum, elevans illud coram Domino, de ariete consecrationis in partem suam, sicut præceperat ei Dominus.  <div eID="gen429" type="x-p"/>
+Tulitque pectusculum, elevans illud coram Domino, de ariete consecrationis in partem suam, sicut præceperat ei Dominus.  
 
 ** Leviticus 8:30
 
@@ -844,7 +844,7 @@ Die ac nocte manebitis in tabernaculo observantes custodias Domini, ne moriamini
 
 ** Leviticus 8:36
 
-Feceruntque Aaron et filii ejus cuncta quæ locutus est Dominus per manum Moysi.  <chapter eID="Lev.8"/> <div eID="gen430" type="x-p"/>
+Feceruntque Aaron et filii ejus cuncta quæ locutus est Dominus per manum Moysi.   
 
 * Leviticus 9
 
@@ -874,7 +874,7 @@ ait Moyses : Iste est sermo, quem præcepit Dominus : facite, et apparebit vobis
 
 ** Leviticus 9:7
 
-Et dixit ad Aaron : Accede ad altare, et immola pro peccato tuo : offer holocaustum, et deprecare pro te et pro populo : cumque mactaveris hostiam populi, ora pro eo, sicut præcepit Dominus.  <div eID="gen431" type="x-p"/>
+Et dixit ad Aaron : Accede ad altare, et immola pro peccato tuo : offer holocaustum, et deprecare pro te et pro populo : cumque mactaveris hostiam populi, ora pro eo, sicut præcepit Dominus.  
 
 ** Leviticus 9:8
 
@@ -902,7 +902,7 @@ Ipsam etiam hostiam in frusta concisam, cum capite et membris singulis obtulerun
 
 ** Leviticus 9:14
 
-lotis aqua prius intestinis et pedibus.  <div eID="gen432" type="x-p"/>
+lotis aqua prius intestinis et pedibus.  
 
 ** Leviticus 9:15
 
@@ -930,7 +930,7 @@ posuerunt super pectora : cumque cremati essent adipes super altare,
 
 ** Leviticus 9:21
 
-pectora eorum, et armos dextros separavit Aaron, elevans coram Domino, sicut præceperat Moyses.  <div eID="gen433" type="x-p"/>
+pectora eorum, et armos dextros separavit Aaron, elevans coram Domino, sicut præceperat Moyses.  
 
 ** Leviticus 9:22
 
@@ -942,7 +942,7 @@ Ingressi autem Moyses et Aaron in tabernaculum testimonii, et deinceps egressi, 
 
 ** Leviticus 9:24
 
-et ecce egressus ignis a Domino, devoravit holocaustum, et adipes qui erant super altare. Quod cum vidissent turbæ, laudaverunt Dominum, ruentes in facies suas.  <chapter eID="Lev.9"/> <div eID="gen434" type="x-p"/>
+et ecce egressus ignis a Domino, devoravit holocaustum, et adipes qui erant super altare. Quod cum vidissent turbæ, laudaverunt Dominum, ruentes in facies suas.   
 
 * Leviticus 10
 
@@ -988,7 +988,7 @@ et ut habeatis scientiam discernendi inter sanctum et profanum, inter pollutum e
 
 ** Leviticus 10:11
 
-doceatisque filios Israël omnia legitima mea quæ locutus est Dominus ad eos per manum Moysi.  <div eID="gen435" type="x-p"/>
+doceatisque filios Israël omnia legitima mea quæ locutus est Dominus ad eos per manum Moysi.  
 
 ** Leviticus 10:12
 
@@ -1024,7 +1024,7 @@ Respondit Aaron : Oblata est hodie victima pro peccato, et holocaustum coram Dom
 
 ** Leviticus 10:20
 
-Quod cum audisset Moyses, recepit satisfactionem.  <chapter eID="Lev.10"/> <div eID="gen436" type="x-p"/>
+Quod cum audisset Moyses, recepit satisfactionem.   
 
 * Leviticus 11
 
@@ -1058,7 +1058,7 @@ Et sus : qui cum ungulam dividat, non ruminat.
 
 ** Leviticus 11:8
 
-Horum carnibus non vescemini, nec cadavera contingetis, quia immunda sunt vobis.  <div eID="gen437" type="x-p"/>
+Horum carnibus non vescemini, nec cadavera contingetis, quia immunda sunt vobis.  
 
 ** Leviticus 11:9
 
@@ -1074,7 +1074,7 @@ execrandumque erit : carnes eorum non comedetis, et morticina vitabitis.
 
 ** Leviticus 11:12
 
-Cuncta quæ non habent pinnulas et squamas in aquis, polluta erunt.  <div eID="gen438" type="x-p"/>
+Cuncta quæ non habent pinnulas et squamas in aquis, polluta erunt.  
 
 ** Leviticus 11:13
 
@@ -1102,7 +1102,7 @@ et cygnum, et onocrotalum, et porphyrionem,
 
 ** Leviticus 11:19
 
-herodionem, et charadrion juxta genus suum, upupam quoque, et vespertilionem.  <div eID="gen439" type="x-p"/>
+herodionem, et charadrion juxta genus suum, upupam quoque, et vespertilionem.  
 
 ** Leviticus 11:20
 
@@ -1146,7 +1146,7 @@ Hæc quoque inter polluta reputabuntur de his quæ moventur in terra, mustela et
 
 ** Leviticus 11:30
 
-mygale, et chamæleon, et stellio, et lacerta, et talpa.  <div eID="gen440" type="x-p"/>
+mygale, et chamæleon, et stellio, et lacerta, et talpa.  
 
 ** Leviticus 11:31
 
@@ -1214,7 +1214,7 @@ Ista est lex animantium ac volucrum, et omnis animæ viventis, quæ movetur in a
 
 ** Leviticus 11:47
 
-ut differentias noveritis mundi et immundi, et sciatis quid comedere et quid respuere debeatis.  <chapter eID="Lev.11"/> <div eID="gen441" type="x-p"/>
+ut differentias noveritis mundi et immundi, et sciatis quid comedere et quid respuere debeatis.   
 
 * Leviticus 12
 
@@ -1248,7 +1248,7 @@ qui offeret illa coram Domino, et orabit pro ea, et sic mundabitur a profluvio s
 
 ** Leviticus 12:8
 
-Quod si non invenerit manus ejus, nec potuerit offerre agnum, sumet duos turtures vel duos pullos columbarum, unum in holocaustum, et alterum pro peccato : orabitque pro ea sacerdos, et sic mundabitur.  <chapter eID="Lev.12"/> <div eID="gen442" type="x-p"/>
+Quod si non invenerit manus ejus, nec potuerit offerre agnum, sumet duos turtures vel duos pullos columbarum, unum in holocaustum, et alterum pro peccato : orabitque pro ea sacerdos, et sic mundabitur.   
 
 * Leviticus 13
 
@@ -1262,7 +1262,7 @@ Homo, in cujus cute et carne ortus fuerit diversus color, sive pustula, aut quas
 
 ** Leviticus 13:3
 
-Qui cum viderit lepram in cute, et pilos in album mutatos colorem, ipsamque speciem lepræ humiliorem cute et carne reliqua : plaga lepræ est, et ad arbitrium ejus separabitur.  <div eID="gen443" type="x-p"/>
+Qui cum viderit lepram in cute, et pilos in album mutatos colorem, ipsamque speciem lepræ humiliorem cute et carne reliqua : plaga lepræ est, et ad arbitrium ejus separabitur.  
 
 ** Leviticus 13:4
 
@@ -1282,7 +1282,7 @@ Quod si postquam a sacerdote visus est, et redditus munditiæ, iterum lepra crev
 
 ** Leviticus 13:8
 
-et immunditiæ condemnabitur.  <div eID="gen444" type="x-p"/>
+et immunditiæ condemnabitur.  
 
 ** Leviticus 13:9
 
@@ -1318,7 +1318,7 @@ Quod si rursum versa fuerit in alborem, et totum hominem operuerit,
 
 ** Leviticus 13:17
 
-considerabit eum sacerdos, et mundum esse decernet.  <div eID="gen445" type="x-p"/>
+considerabit eum sacerdos, et mundum esse decernet.  
 
 ** Leviticus 13:18
 
@@ -1342,7 +1342,7 @@ et si quidem creverit, adjudicabit eum lepræ ;
 
 ** Leviticus 13:23
 
-sin autem steterit in loco suo, ulceris est cicatrix, et homo mundus erit.  <div eID="gen446" type="x-p"/>
+sin autem steterit in loco suo, ulceris est cicatrix, et homo mundus erit.  
 
 ** Leviticus 13:24
 
@@ -1362,7 +1362,7 @@ et die septimo contemplabitur : si creverit in cute lepra, contaminabit eum.
 
 ** Leviticus 13:28
 
-Sin autem in loco suo candor steterit non satis clarus, plaga combustionis est, et idcirco mundabitur, quia cicatrix est combusturæ.  <div eID="gen447" type="x-p"/>
+Sin autem in loco suo candor steterit non satis clarus, plaga combustionis est, et idcirco mundabitur, quia cicatrix est combusturæ.  
 
 ** Leviticus 13:29
 
@@ -1398,7 +1398,7 @@ non quæret amplius utrum capillus in flavum colorem sit immutatus, quia aperte 
 
 ** Leviticus 13:37
 
-Porro si steterit macula, et capilli nigri fuerint, noverit hominem sanatum esse, et confidenter eum pronuntiet mundum.  <div eID="gen448" type="x-p"/>
+Porro si steterit macula, et capilli nigri fuerint, noverit hominem sanatum esse, et confidenter eum pronuntiet mundum.  
 
 ** Leviticus 13:38
 
@@ -1406,7 +1406,7 @@ Vir, sive mulier, in cujus cute candor apparuerit,
 
 ** Leviticus 13:39
 
-intuebitur eos sacerdos. Si deprehenderit subobscurum alborem lucere in cute, sciat non esse lepram, sed maculam coloris candidi, et hominem mundum.  <div eID="gen449" type="x-p"/>
+intuebitur eos sacerdos. Si deprehenderit subobscurum alborem lucere in cute, sciat non esse lepram, sed maculam coloris candidi, et hominem mundum.  
 
 ** Leviticus 13:40
 
@@ -1434,7 +1434,7 @@ habebit vestimenta dissuta, caput nudum, os veste contectum, contaminatum ac sor
 
 ** Leviticus 13:46
 
-Omni tempore quo leprosus est et immundus, solus habitabit extra castra.  <div eID="gen450" type="x-p"/>
+Omni tempore quo leprosus est et immundus, solus habitabit extra castra.  
 
 ** Leviticus 13:47
 
@@ -1486,7 +1486,7 @@ Si cessaverit, lavabit aqua ea, quæ pura sunt, secundo, et munda erunt.
 
 ** Leviticus 13:59
 
-Ista est lex lepræ vestimenti lanei et linei, staminis, atque subtegminis, omnisque supellectilis pelliceæ, quomodo mundari debeat, vel contaminari.  <chapter eID="Lev.13"/> <div eID="gen451" type="x-p"/>
+Ista est lex lepræ vestimenti lanei et linei, staminis, atque subtegminis, omnisque supellectilis pelliceæ, quomodo mundari debeat, vel contaminari.   
 
 * Leviticus 14
 
@@ -1568,7 +1568,7 @@ Rogabitque pro eo coram Domino, et faciet sacrificium pro peccato : tunc immolab
 
 ** Leviticus 14:20
 
-et ponet illud in altari cum libamentis suis, et homo rite mundabitur.  <div eID="gen452" type="x-p"/>
+et ponet illud in altari cum libamentis suis, et homo rite mundabitur.  
 
 ** Leviticus 14:21
 
@@ -1616,7 +1616,7 @@ unum pro delicto, et alterum in holocaustum cum libamentis suis.
 
 ** Leviticus 14:32
 
-Hoc est sacrificium leprosi, qui habere non potest omnia in emundationem sui.  <div eID="gen453" type="x-p"/>
+Hoc est sacrificium leprosi, qui habere non potest omnia in emundationem sui.  
 
 ** Leviticus 14:33
 
@@ -1676,7 +1676,7 @@ Qui intraverit domum quando clausa est, immundus erit usque ad vesperum :
 
 ** Leviticus 14:47
 
-et qui dormierit in ea, et comederit quippiam, lavabit vestimenta sua.  <div eID="gen454" type="x-p"/>
+et qui dormierit in ea, et comederit quippiam, lavabit vestimenta sua.  
 
 ** Leviticus 14:48
 
@@ -1716,7 +1716,7 @@ cicatricis et erumpentium papularum, lucentis maculæ, et in varias species, col
 
 ** Leviticus 14:57
 
-ut possit sciri quo tempore mundum quid, vel immundum sit.  <chapter eID="Lev.14"/> <div eID="gen455" type="x-p"/>
+ut possit sciri quo tempore mundum quid, vel immundum sit.   
 
 * Leviticus 15
 
@@ -1766,7 +1766,7 @@ Omnis, quem tetigerit qui talis est, non lotis ante manibus, lavabit vestimenta 
 
 ** Leviticus 15:12
 
-Vas fictile quod tetigerit confringetur : vas autem ligneum lavabitur aqua.  <div eID="gen456" type="x-p"/>
+Vas fictile quod tetigerit confringetur : vas autem ligneum lavabitur aqua.  
 
 ** Leviticus 15:13
 
@@ -1790,7 +1790,7 @@ Vestem et pellem, quam habuerit, lavabit aqua, et immunda erit usque ad vesperum
 
 ** Leviticus 15:18
 
-Mulier, cum qua coierit, lavabitur aqua, et immunda erit usque ad vesperum.  <div eID="gen457" type="x-p"/>
+Mulier, cum qua coierit, lavabitur aqua, et immunda erit usque ad vesperum.  
 
 ** Leviticus 15:19
 
@@ -1850,7 +1850,7 @@ Ista est lex ejus, qui patitur fluxum seminis, et qui polluitur coitu,
 
 ** Leviticus 15:33
 
-et quæ menstruis temporibus separatur, vel quæ jugi fluit sanguine, et hominis qui dormierit cum ea.  <chapter eID="Lev.15"/> <div eID="gen458" type="x-p"/>
+et quæ menstruis temporibus separatur, vel quæ jugi fluit sanguine, et hominis qui dormierit cum ea.   
 
 * Leviticus 16
 
@@ -1892,7 +1892,7 @@ cujus exierit sors Domino, offeret illum pro peccato :
 
 ** Leviticus 16:10
 
-cujus autem in caprum emissarium, statuet eum vivum coram Domino, ut fundat preces super eo, et emittat eum in solitudinem.  <div eID="gen459" type="x-p"/>
+cujus autem in caprum emissarium, statuet eum vivum coram Domino, ut fundat preces super eo, et emittat eum in solitudinem.  
 
 ** Leviticus 16:11
 
@@ -1908,7 +1908,7 @@ ut, positis super ignem aromatibus, nebula eorum et vapor operiat oraculum quod 
 
 ** Leviticus 16:14
 
-Tollet quoque de sanguine vituli, et asperget digito septies contra propitiatorium ad orientem.  <div eID="gen460" type="x-p"/>
+Tollet quoque de sanguine vituli, et asperget digito septies contra propitiatorium ad orientem.  
 
 ** Leviticus 16:15
 
@@ -1928,7 +1928,7 @@ Cum autem exierit ad altare quod coram Domino est, oret pro se, et sumptum sangu
 
 ** Leviticus 16:19
 
-aspergensque digito septies, expiet, et sanctificet illud ab immunditiis filiorum Israël.  <div eID="gen461" type="x-p"/>
+aspergensque digito septies, expiet, et sanctificet illud ab immunditiis filiorum Israël.  
 
 ** Leviticus 16:20
 
@@ -1964,7 +1964,7 @@ Vitulum autem, et hircum, qui pro peccato fuerant immolati, et quorum sanguis il
 
 ** Leviticus 16:28
 
-et quicumque combusserit ea, lavabit vestimenta sua et carnem aqua, et sic ingredietur in castra.  <div eID="gen462" type="x-p"/>
+et quicumque combusserit ea, lavabit vestimenta sua et carnem aqua, et sic ingredietur in castra.  
 
 ** Leviticus 16:29
 
@@ -1988,7 +1988,7 @@ et expiabit sanctuarium et tabernaculum testimonii atque altare, sacerdotes quoq
 
 ** Leviticus 16:34
 
-Eritque vobis hoc legitimum sempiternum, ut oretis pro filiis Israël, et pro cunctis peccatis eorum semel in anno. Fecit igitur sicut præceperat Dominus Moysi.  <chapter eID="Lev.16"/> <div eID="gen463" type="x-p"/>
+Eritque vobis hoc legitimum sempiternum, ut oretis pro filiis Israël, et pro cunctis peccatis eorum semel in anno. Fecit igitur sicut præceperat Dominus Moysi.   
 
 * Leviticus 17
 
@@ -2026,7 +2026,7 @@ Et ad ipsos dices : Homo de domo Israël, et de advenis qui peregrinantur apud v
 
 ** Leviticus 17:9
 
-et ad ostium tabernaculi testimonii non adduxerit eam, ut offeratur Domino, interibit de populo suo.  <div eID="gen464" type="x-p"/>
+et ad ostium tabernaculi testimonii non adduxerit eam, ut offeratur Domino, interibit de populo suo.  
 
 ** Leviticus 17:10
 
@@ -2054,7 +2054,7 @@ Anima, quæ comederit morticinum, vel captum a bestia, tam de indigenis, quam de
 
 ** Leviticus 17:16
 
-Quod si non laverit vestimenta sua et corpus, portabit iniquitatem suam.  <chapter eID="Lev.17"/> <div eID="gen465" type="x-p"/>
+Quod si non laverit vestimenta sua et corpus, portabit iniquitatem suam.   
 
 * Leviticus 18
 
@@ -2128,7 +2128,7 @@ Turpitudinem uxoris tuæ et filiæ ejus non revelabis. Filiam filii ejus, et fil
 
 ** Leviticus 18:18
 
-Sororem uxoris tuæ in pellicatum illius non accipies, nec revelabis turpitudinem ejus adhuc illa vivente.  <div eID="gen466" type="x-p"/>
+Sororem uxoris tuæ in pellicatum illius non accipies, nec revelabis turpitudinem ejus adhuc illa vivente.  
 
 ** Leviticus 18:19
 
@@ -2176,7 +2176,7 @@ Omnis anima, quæ fecerit de abominationibus his quippiam, peribit de medio popu
 
 ** Leviticus 18:30
 
-Custodite mandata mea. Nolite facere quæ fecerunt hi qui fuerunt ante vos, et ne polluamini in eis. Ego Dominus Deus vester.  <chapter eID="Lev.18"/> <div eID="gen467" type="x-p"/>
+Custodite mandata mea. Nolite facere quæ fecerunt hi qui fuerunt ante vos, et ne polluamini in eis. Ego Dominus Deus vester.   
 
 * Leviticus 19
 
@@ -2210,7 +2210,7 @@ Si quis post biduum comederit ex ea, profanus erit, et impietatis reus :
 
 ** Leviticus 19:8
 
-portabitque iniquitatem suam, quia sanctum Domini polluit, et peribit anima illa de populo suo.  <div eID="gen468" type="x-p"/>
+portabitque iniquitatem suam, quia sanctum Domini polluit, et peribit anima illa de populo suo.  
 
 ** Leviticus 19:9
 
@@ -2250,7 +2250,7 @@ Non oderis fratrem tuum in corde tuo, sed publice argue eum, ne habeas super ill
 
 ** Leviticus 19:18
 
-Non quæras ultionem, nec memor eris injuriæ civium tuorum. Diliges amicum tuum sicut teipsum. Ego Dominus.  <div eID="gen469" type="x-p"/>
+Non quæras ultionem, nec memor eris injuriæ civium tuorum. Diliges amicum tuum sicut teipsum. Ego Dominus.  
 
 ** Leviticus 19:19
 
@@ -2306,7 +2306,7 @@ Non declinetis ad magos, nec ab ariolis aliquid sciscitemini, ut polluamini per 
 
 ** Leviticus 19:32
 
-Coram cano capite consurge, et honora personam senis : et time Dominum Deum tuum. Ego sum Dominus.  <div eID="gen470" type="x-p"/>
+Coram cano capite consurge, et honora personam senis : et time Dominum Deum tuum. Ego sum Dominus.  
 
 ** Leviticus 19:33
 
@@ -2314,7 +2314,7 @@ Si habitaverit advena in terra vestra, et moratus fuerit inter vos, non exprobre
 
 ** Leviticus 19:34
 
-sed sit inter vos quasi indigena, et diligetis eum quasi vosmetipsos : fuistis enim et vos advenæ in terra Ægypti. Ego Dominus Deus vester.  <div eID="gen471" type="x-p"/>
+sed sit inter vos quasi indigena, et diligetis eum quasi vosmetipsos : fuistis enim et vos advenæ in terra Ægypti. Ego Dominus Deus vester.  
 
 ** Leviticus 19:35
 
@@ -2326,7 +2326,7 @@ Statera justa, et æqua sint pondera, justus modius, æquusque sextarius. Ego Do
 
 ** Leviticus 19:37
 
-Custodite omnia præcepta mea, et universa judicia, et facite ea. Ego Dominus.  <chapter eID="Lev.19"/> <div eID="gen472" type="x-p"/>
+Custodite omnia præcepta mea, et universa judicia, et facite ea. Ego Dominus.   
 
 * Leviticus 20
 
@@ -2364,7 +2364,7 @@ Custodite præcepta mea, et facite ea : ego Dominus qui sanctifico vos.
 
 ** Leviticus 20:9
 
-Qui maledixerit patri suo, aut matri, morte moriatur : patri matrique maledixit : sanguis ejus sit super eum.  <div eID="gen473" type="x-p"/>
+Qui maledixerit patri suo, aut matri, morte moriatur : patri matrique maledixit : sanguis ejus sit super eum.  
 
 ** Leviticus 20:10
 
@@ -2412,7 +2412,7 @@ Qui coierit cum uxore patrui vel avunculi sui, et revelaverit ignominiam cognati
 
 ** Leviticus 20:21
 
-Qui duxerit uxorem fratris sui, rem facit illicitam : turpitudinem fratris sui revelavit : absque liberis erunt.  <div eID="gen474" type="x-p"/>
+Qui duxerit uxorem fratris sui, rem facit illicitam : turpitudinem fratris sui revelavit : absque liberis erunt.  
 
 ** Leviticus 20:22
 
@@ -2436,7 +2436,7 @@ Eritis mihi sancti, quia sanctus sum ego Dominus, et separavi vos a ceteris popu
 
 ** Leviticus 20:27
 
-Vir, sive mulier, in quibus pythonicus, vel divinationis fuerit spiritus, morte moriantur : lapidibus obruent eos : sanguis eorum sit super illos.  <chapter eID="Lev.20"/> <div eID="gen475" type="x-p"/>
+Vir, sive mulier, in quibus pythonicus, vel divinationis fuerit spiritus, morte moriantur : lapidibus obruent eos : sanguis eorum sit super illos.   
 
 * Leviticus 21
 
@@ -2474,7 +2474,7 @@ et panes propositionis offerunt. Sint ergo sancti, quia et ego sanctus sum, Domi
 
 ** Leviticus 21:9
 
-Sacerdotis filia si deprehensa fuerit in stupro, et violaverit nomen patris sui, flammis exuretur.  <div eID="gen476" type="x-p"/>
+Sacerdotis filia si deprehensa fuerit in stupro, et violaverit nomen patris sui, flammis exuretur.  
 
 ** Leviticus 21:10
 
@@ -2534,7 +2534,7 @@ ita dumtaxat, ut intra velum non ingrediatur, nec accedat ad altare, quia macula
 
 ** Leviticus 21:24
 
-Locutus est ergo Moyses ad Aaron, et ad filios ejus, et ad omnem Israël cuncta quæ fuerant sibi imperata.  <chapter eID="Lev.21"/> <div eID="gen477" type="x-p"/>
+Locutus est ergo Moyses ad Aaron, et ad filios ejus, et ad omnem Israël cuncta quæ fuerant sibi imperata.   
 
 * Leviticus 22
 
@@ -2600,7 +2600,7 @@ Nec contaminabunt sanctificata filiorum Israël, quæ offerunt Domino :
 
 ** Leviticus 22:16
 
-ne forte sustineant iniquitatem delicti sui, cum sanctificata comederint. Ego Dominus qui sanctifico eos.  <div eID="gen478" type="x-p"/>
+ne forte sustineant iniquitatem delicti sui, cum sanctificata comederint. Ego Dominus qui sanctifico eos.  
 
 ** Leviticus 22:17
 
@@ -2668,7 +2668,7 @@ Ne polluatis nomen meum sanctum, ut sanctificer in medio filiorum Israël. Ego D
 
 ** Leviticus 22:33
 
-et eduxi de terra Ægypti, ut essem vobis in Deum. Ego Dominus.  <chapter eID="Lev.22"/> <div eID="gen479" type="x-p"/>
+et eduxi de terra Ægypti, ut essem vobis in Deum. Ego Dominus.   
 
 * Leviticus 23
 
@@ -2686,7 +2686,7 @@ Sex diebus facietis opus : dies septimus, quia sabbati requies est, vocabitur sa
 
 ** Leviticus 23:4
 
-Hæ sunt ergo feriæ Domini sanctæ, quas celebrare debetis temporibus suis.  <div eID="gen480" type="x-p"/>
+Hæ sunt ergo feriæ Domini sanctæ, quas celebrare debetis temporibus suis.  
 
 ** Leviticus 23:5
 
@@ -2726,7 +2726,7 @@ Et libamenta offerentur cum eo, duæ decimæ similæ conspersæ oleo in incensum
 
 ** Leviticus 23:14
 
-Panem, et polentam, et pultes non comedetis ex segete, usque ad diem qua offeretis ex ea Deo vestro. Præceptum est sempiternum in generationibus, cunctisque habitaculis vestris.  <div eID="gen481" type="x-p"/>
+Panem, et polentam, et pultes non comedetis ex segete, usque ad diem qua offeretis ex ea Deo vestro. Præceptum est sempiternum in generationibus, cunctisque habitaculis vestris.  
 
 ** Leviticus 23:15
 
@@ -2758,7 +2758,7 @@ Et vocabitis hunc diem celeberrimum, atque sanctissimum : omne opus servile non 
 
 ** Leviticus 23:22
 
-Postquam autem messueritis segetem terræ vestræ, nec secabitis eam usque ad solum, nec remanentes spicas colligetis : sed pauperibus et peregrinis dimittetis eas. Ego sum Dominus Deus vester.  <div eID="gen482" type="x-p"/>
+Postquam autem messueritis segetem terræ vestræ, nec secabitis eam usque ad solum, nec remanentes spicas colligetis : sed pauperibus et peregrinis dimittetis eas. Ego sum Dominus Deus vester.  
 
 ** Leviticus 23:23
 
@@ -2770,7 +2770,7 @@ Loquere filiis Israël : Mense septimo, prima die mensis, erit vobis sabbatum, m
 
 ** Leviticus 23:25
 
-omne opus servile non facietis in eo, et offeretis holocaustum Domino.  <div eID="gen483" type="x-p"/>
+omne opus servile non facietis in eo, et offeretis holocaustum Domino.  
 
 ** Leviticus 23:26
 
@@ -2798,7 +2798,7 @@ Nihil ergo operis facietis in eo : legitimum sempiternum erit vobis in cunctis g
 
 ** Leviticus 23:32
 
-Sabbatum requietionis est, et affligetis animas vestras die nono mensis : a vespera usque ad vesperam celebrabitis sabbata vestra.  <div eID="gen484" type="x-p"/>
+Sabbatum requietionis est, et affligetis animas vestras die nono mensis : a vespera usque ad vesperam celebrabitis sabbata vestra.  
 
 ** Leviticus 23:33
 
@@ -2846,7 +2846,7 @@ ut discant posteri vestri quod in tabernaculis habitare fecerim filios Israël, 
 
 ** Leviticus 23:44
 
-Locutusque est Moyses super solemnitatibus Domini ad filios Israël.  <chapter eID="Lev.23"/> <div eID="gen485" type="x-p"/>
+Locutusque est Moyses super solemnitatibus Domini ad filios Israël.   
 
 * Leviticus 24
 
@@ -2884,7 +2884,7 @@ Per singula sabbata mutabuntur coram Domino suscepti a filiis Israël fœdere se
 
 ** Leviticus 24:9
 
-eruntque Aaron et filiorum ejus, ut comedant eos in loco sancto : quia Sanctum sanctorum est de sacrificiis Domini jure perpetuo.  <div eID="gen486" type="x-p"/>
+eruntque Aaron et filiorum ejus, ut comedant eos in loco sancto : quia Sanctum sanctorum est de sacrificiis Domini jure perpetuo.  
 
 ** Leviticus 24:10
 
@@ -2912,7 +2912,7 @@ Et ad filios Israël loqueris : Homo, qui maledixerit Deo suo, portabit peccatum
 
 ** Leviticus 24:16
 
-et qui blasphemaverit nomen Domini, morte moriatur : lapidibus opprimet eum omnis multitudo, sive ille civis, sive peregrinus fuerit. Qui blasphemaverit nomen Domini, morte moriatur.  <div eID="gen487" type="x-p"/>
+et qui blasphemaverit nomen Domini, morte moriatur : lapidibus opprimet eum omnis multitudo, sive ille civis, sive peregrinus fuerit. Qui blasphemaverit nomen Domini, morte moriatur.  
 
 ** Leviticus 24:17
 
@@ -2940,7 +2940,7 @@ Qui percusserit jumentum, reddet aliud. Qui percusserit hominem, punietur.
 
 ** Leviticus 24:23
 
-Locutusque est Moyses ad filios Israël : et eduxerunt eum, qui blasphemaverat, extra castra, ac lapidibus oppresserunt. Feceruntque filii Israël sicut præceperat Dominus Moysi.  <chapter eID="Lev.24"/> <div eID="gen488" type="x-p"/>
+Locutusque est Moyses ad filios Israël : et eduxerunt eum, qui blasphemaverat, extra castra, ac lapidibus oppresserunt. Feceruntque filii Israël sicut præceperat Dominus Moysi.   
 
 * Leviticus 25
 
@@ -2970,7 +2970,7 @@ sed erunt vobis in cibum, tibi et servo tuo, ancillæ et mercenario tuo, et adve
 
 ** Leviticus 25:7
 
-jumentis tuis et pecoribus, omnia quæ nascuntur præbebunt cibum.  <div eID="gen489" type="x-p"/>
+jumentis tuis et pecoribus, omnia quæ nascuntur præbebunt cibum.  
 
 ** Leviticus 25:8
 
@@ -2990,7 +2990,7 @@ quia jubilæus est, et quinquagesimus annus. Non seretis neque metetis sponte in
 
 ** Leviticus 25:12
 
-ob sanctificationem jubilæi : sed statim oblata comedetis.  <div eID="gen490" type="x-p"/>
+ob sanctificationem jubilæi : sed statim oblata comedetis.  
 
 ** Leviticus 25:13
 
@@ -3078,7 +3078,7 @@ si redemptæ non fuerint, in jubilæo revertentur ad dominos, quia domus urbium 
 
 ** Leviticus 25:34
 
-Suburbana autem eorum non veneant, quia possessio sempiterna est.  <div eID="gen491" type="x-p"/>
+Suburbana autem eorum non veneant, quia possessio sempiterna est.  
 
 ** Leviticus 25:35
 
@@ -3094,7 +3094,7 @@ Pecuniam tuam non dabis ei ad usuram, et frugum superabundantiam non exiges.
 
 ** Leviticus 25:38
 
-Ego Dominus Deus vester, qui eduxi vos de terra Ægypti, ut darem vobis terram Chanaan, et essem vester Deus.  <div eID="gen492" type="x-p"/>
+Ego Dominus Deus vester, qui eduxi vos de terra Ægypti, ut darem vobis terram Chanaan, et essem vester Deus.  
 
 ** Leviticus 25:39
 
@@ -3162,7 +3162,7 @@ Quod si per hæc redimi non potuerit, anno jubilæo egredietur cum liberis suis.
 
 ** Leviticus 25:55
 
-Mei enim sunt servi filii Israël, quos eduxi de terra Ægypti.  <chapter eID="Lev.25"/> <div eID="gen493" type="x-p"/>
+Mei enim sunt servi filii Israël, quos eduxi de terra Ægypti.   
 
 * Leviticus 26
 
@@ -3216,7 +3216,7 @@ Ambulabo inter vos, et ero Deus vester, vosque eritis populus meus.
 
 ** Leviticus 26:13
 
-Ego Dominus Deus vester, qui eduxi vos de terra Ægyptiorum, ne serviretis eis : et qui confregi catenas cervicum vestrarum, ut incederetis erecti.  <div eID="gen494" type="x-p"/>
+Ego Dominus Deus vester, qui eduxi vos de terra Ægyptiorum, ne serviretis eis : et qui confregi catenas cervicum vestrarum, ut incederetis erecti.  
 
 ** Leviticus 26:14
 
@@ -3268,7 +3268,7 @@ inducamque super vos gladium ultorem fœderis mei. Cumque confugeritis in urbes,
 
 ** Leviticus 26:26
 
-postquam confregero baculum panis vestri : ita ut decem mulieres in uno clibano coquant panes, et reddant eos ad pondus : et comedetis, et non saturabimini.  <div eID="gen495" type="x-p"/>
+postquam confregero baculum panis vestri : ita ut decem mulieres in uno clibano coquant panes, et reddant eos ad pondus : et comedetis, et non saturabimini.  
 
 ** Leviticus 26:27
 
@@ -3328,7 +3328,7 @@ donec confiteantur iniquitates suas, et majorum suorum, quibus prævaricati sunt
 
 ** Leviticus 26:41
 
-Ambulabo igitur et ego contra eos, et inducam illos in terram hostilem, donec erubescat incircumcisa mens eorum : tunc orabunt pro impietatibus suis.  <div eID="gen496" type="x-p"/>
+Ambulabo igitur et ego contra eos, et inducam illos in terram hostilem, donec erubescat incircumcisa mens eorum : tunc orabunt pro impietatibus suis.  
 
 ** Leviticus 26:42
 
@@ -3344,7 +3344,7 @@ Et tamen etiam cum essent in terra hostili, non penitus abjeci eos, neque sic de
 
 ** Leviticus 26:45
 
-et recordabor fœderis mei pristini, quando eduxi eos de terra Ægypti in conspectu gentium, ut essem Deus eorum. Ego Dominus. <div eID="gen497" type="x-p"/> <div sID="gen498" type="x-p"/> Hæc sunt judicia atque præcepta et leges quas dedit Dominus inter se et filios Israël in monte Sinai per manum Moysi.  <chapter eID="Lev.26"/> <div eID="gen498" type="x-p"/>
+et recordabor fœderis mei pristini, quando eduxi eos de terra Ægypti in conspectu gentium, ut essem Deus eorum. Ego Dominus.   Hæc sunt judicia atque præcepta et leges quas dedit Dominus inter se et filios Israël in monte Sinai per manum Moysi.   
 
 * Leviticus 27
 
@@ -3378,7 +3378,7 @@ Sexagenarius et ultra masculus dabit quindecim siclos : femina, decem.
 
 ** Leviticus 27:8
 
-Si pauper fuerit, et æstimationem reddere non valebit, stabit coram sacerdote : et quantum ille æstimaverit, et viderit eum posse reddere, tantum dabit.  <div eID="gen499" type="x-p"/>
+Si pauper fuerit, et æstimationem reddere non valebit, stabit coram sacerdote : et quantum ille æstimaverit, et viderit eum posse reddere, tantum dabit.  
 
 ** Leviticus 27:9
 
@@ -3398,7 +3398,7 @@ qui judicans utrum bonum an malum sit, statuet pretium.
 
 ** Leviticus 27:13
 
-Quod si dare voluerit is qui offert, addet supra æstimationem quintam partem.  <div eID="gen500" type="x-p"/>
+Quod si dare voluerit is qui offert, addet supra æstimationem quintam partem.  
 
 ** Leviticus 27:14
 
@@ -3446,7 +3446,7 @@ In jubilæo autem revertetur ad priorem dominum, qui vendiderat eum, et habuerat
 
 ** Leviticus 27:25
 
-Omnis æstimatio siclo sanctuarii ponderabitur. Siclus viginti obolos habet.  <div eID="gen501" type="x-p"/>
+Omnis æstimatio siclo sanctuarii ponderabitur. Siclus viginti obolos habet.  
 
 ** Leviticus 27:26
 
@@ -3462,7 +3462,7 @@ Omne quod Domino consecratur, sive homo fuerit, sive animal, sive ager, non vend
 
 ** Leviticus 27:29
 
-et omnis consecratio, quæ offertur ab homine, non redimetur, sed morte morietur.  <div eID="gen502" type="x-p"/>
+et omnis consecratio, quæ offertur ab homine, non redimetur, sed morte morietur.  
 
 ** Leviticus 27:30
 
@@ -3478,9 +3478,9 @@ Omnium decimarum bovis et ovis et capræ, quæ sub pastoris virga transeunt, qui
 
 ** Leviticus 27:33
 
-Non eligetur nec bonum nec malum, nec altero commutabitur, si quis mutaverit : et quod mutatum est, et pro quo mutatum est, sanctificabitur Domino, et non redimetur.  <div eID="gen503" type="x-p"/>
+Non eligetur nec bonum nec malum, nec altero commutabitur, si quis mutaverit : et quod mutatum est, et pro quo mutatum est, sanctificabitur Domino, et non redimetur.  
 
 ** Leviticus 27:34
 
-Hæc sunt præcepta, quæ mandavit Dominus Moysi ad filios Israël in monte Sinai.  <div eID="gen504" type="x-p"/> <chapter eID="Lev.27"/> <div eID="gen409" osisID="Lev" type="book"/>
+Hæc sunt præcepta, quæ mandavit Dominus Moysi ad filios Israël in monte Sinai.    
 

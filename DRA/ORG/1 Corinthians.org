@@ -122,7 +122,7 @@ But of him are you in Christ Jesus, who of God is made unto us wisdom and justic
 
 *** I Corinthians 1:31
 
-That, as it is written: He that glorieth may glory in the Lord. <chapter eID="gen34341" osisID="1Cor.1"/>
+That, as it is written: He that glorieth may glory in the Lord. 
 
 ** I Corinthians 2
 
@@ -188,7 +188,7 @@ But the spiritual man judgeth all things: and he himself is judged of no man.
 
 *** I Corinthians 2:16
 
-For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ. <chapter eID="gen34373" osisID="1Cor.2"/>
+For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ. 
 
 ** I Corinthians 3
 
@@ -282,7 +282,7 @@ For all things are yours, whether it be Paul or Apollo or Cephas, or the world, 
 
 *** I Corinthians 3:23
 
-And you are Christ's. And Christ is God's. <chapter eID="gen34390" osisID="1Cor.3"/>
+And you are Christ's. And Christ is God's. 
 
 ** I Corinthians 4
 
@@ -368,7 +368,7 @@ For the kingdom of God is not in speech, but in power.
 
 *** I Corinthians 4:21
 
-What will you? Shall I come to you with a rod? Or in charity and in the spirit of meekness? <chapter eID="gen34414" osisID="1Cor.4"/>
+What will you? Shall I come to you with a rod? Or in charity and in the spirit of meekness? 
 
 ** I Corinthians 5
 
@@ -422,7 +422,7 @@ For what have I to do to judge them that are without? Do not you judge them that
 
 *** I Corinthians 5:13
 
-For them that are without, God will judge. Put away the evil one from among yourselves. <chapter eID="gen34436" osisID="1Cor.5"/>
+For them that are without, God will judge. Put away the evil one from among yourselves. 
 
 ** I Corinthians 6
 
@@ -504,7 +504,7 @@ Or know you not that your members are the temple of the Holy Ghost, who is in yo
 
 *** I Corinthians 6:20
 
-For you are bought with a great price. Glorify and bear God in your body. <chapter eID="gen34450" osisID="1Cor.6"/>
+For you are bought with a great price. Glorify and bear God in your body. 
 
 ** I Corinthians 7
 
@@ -666,7 +666,7 @@ A woman is bound by the law as long as her husband liveth: but if her husband di
 
 *** I Corinthians 7:40
 
-But more blessed shall she be, if she so remain, according to my counsel. And I think that I also have the spirit of God. <chapter eID="gen34471" osisID="1Cor.7"/>
+But more blessed shall she be, if she so remain, according to my counsel. And I think that I also have the spirit of God. 
 
 ** I Corinthians 8
 
@@ -720,7 +720,7 @@ Now when you sin thus against the brethren and wound their weak conscience, you 
 
 *** I Corinthians 8:13
 
-Wherefore, if meat scandalize my brother, I will never eat flesh, lest I should scandalize my brother. <chapter eID="gen34512" osisID="1Cor.8"/>
+Wherefore, if meat scandalize my brother, I will never eat flesh, lest I should scandalize my brother. 
 
 ** I Corinthians 9
 
@@ -830,7 +830,7 @@ I therefore so run, not as at an uncertainty: I so fight, not as one beating the
 
 *** I Corinthians 9:27
 
-But I chastise my body and bring it into subjection: lest perhaps, when I have preached to others, I myself should become a castaway. <chapter eID="gen34526" osisID="1Cor.9"/>
+But I chastise my body and bring it into subjection: lest perhaps, when I have preached to others, I myself should become a castaway. 
 
 ** I Corinthians 10
 
@@ -964,7 +964,7 @@ Be without offence to the Jew, and to the Gentiles and to the church of God:
 
 *** I Corinthians 10:33
 
-As I also in all things please all men, not seeking that which is profitable to myself but to many: that they may be saved. <chapter eID="gen34554" osisID="1Cor.10"/>
+As I also in all things please all men, not seeking that which is profitable to myself but to many: that they may be saved. 
 
 ** I Corinthians 11
 
@@ -1102,7 +1102,7 @@ Wherefore, my brethren, when you come together to eat, wait for one another.
 
 *** I Corinthians 11:34
 
-If any man be hungry, let him eat at home; that you come not together unto judgment. And the rest I will set in order, when I come. <chapter eID="gen34588" osisID="1Cor.11"/>
+If any man be hungry, let him eat at home; that you come not together unto judgment. And the rest I will set in order, when I come. 
 
 ** I Corinthians 12
 
@@ -1228,7 +1228,7 @@ Are all workers of miracles? Have all the grace of healing? Do all speak with to
 
 *** I Corinthians 12:31
 
-But be zealous for the better gifts. And I shew unto you yet a more excellent way. <chapter eID="gen34623" osisID="1Cor.12"/>
+But be zealous for the better gifts. And I shew unto you yet a more excellent way. 
 
 ** I Corinthians 13
 
@@ -1282,7 +1282,7 @@ We see now through a glass in a dark manner: but then face to face. Now I know i
 
 *** I Corinthians 13:13
 
-And now there remain faith, hope, and charity, these three: but the greatest of these is charity. <chapter eID="gen34655" osisID="1Cor.13"/>
+And now there remain faith, hope, and charity, these three: but the greatest of these is charity. 
 
 ** I Corinthians 14
 
@@ -1444,7 +1444,7 @@ Wherefore, brethren, be zealous to prophesy: and forbid not to speak with tongue
 
 *** I Corinthians 14:40
 
-But let all things be done decently and according to order. <chapter eID="gen34669" osisID="1Cor.14"/>
+But let all things be done decently and according to order. 
 
 ** I Corinthians 15
 
@@ -1678,7 +1678,7 @@ But thanks be to God, who hath given us the victory through our Lord Jesus Chris
 
 *** I Corinthians 15:58
 
-Therefore, my beloved brethren, be ye steadfast and unmoveable: always abounding in the work of the Lord, knowing that your labour is not in vain in the Lord. <chapter eID="gen34710" osisID="1Cor.15"/>
+Therefore, my beloved brethren, be ye steadfast and unmoveable: always abounding in the work of the Lord, knowing that your labour is not in vain in the Lord. 
 
 ** I Corinthians 16
 
@@ -1776,4 +1776,4 @@ The grace of our Lord Jesus Christ be with you.
 
 *** I Corinthians 16:24
 
-My charity be with you all in Christ Jesus. Amen. <chapter eID="gen34769" osisID="1Cor.16"/> <div eID="gen34340" osisID="1Cor" type="book"/>
+My charity be with you all in Christ Jesus. Amen.  

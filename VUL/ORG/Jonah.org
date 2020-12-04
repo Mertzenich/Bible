@@ -62,7 +62,7 @@ Et tulerunt Jonam, et miserunt in mare : et stetit mare a fervore suo.
 
 ** Jonah 1:16
 
-Et timuerunt viri timore magno Dominum : et immolaverunt hostias Domino, et voverunt vota.  <chapter eID="Jonah.1"/> <div eID="gen30547" type="x-p"/>
+Et timuerunt viri timore magno Dominum : et immolaverunt hostias Domino, et voverunt vota.   
 
 * Jonah 2
 
@@ -76,39 +76,39 @@ Et oravit Jonas ad Dominum Deum suum de ventre piscis,
 
 ** Jonah 2:3
 
-et dixit : <div eID="gen30548" type="x-p"/> <lg sID="gen30549"/> <l level="1" sID="gen30550"/>Clamavi de tribulatione mea ad Dominum, <l eID="gen30550" level="1"/> <l level="1" sID="gen30551"/>et exaudivit me ; <l eID="gen30551" level="1"/> <l level="1" sID="gen30552"/>de ventre inferi clamavi, <l eID="gen30552" level="1"/> <l level="1" sID="gen30553"/>et exaudisti vocem meam. <l eID="gen30553" level="1"/>
+et dixit :   Clamavi de tribulatione mea ad Dominum,  et exaudivit me ;  de ventre inferi clamavi,  et exaudisti vocem meam. 
 
 ** Jonah 2:4
 
-Et projecisti me in profundum in corde maris, <l eID="gen30554" level="1"/> <l level="1" sID="gen30555"/>et flumen circumdedit me : <l eID="gen30555" level="1"/> <l level="1" sID="gen30556"/>omnes gurgites tui, et fluctus tui super me transierunt. <l eID="gen30556" level="1"/>
+Et projecisti me in profundum in corde maris,  et flumen circumdedit me :  omnes gurgites tui, et fluctus tui super me transierunt. 
 
 ** Jonah 2:5
 
-Et ego dixi : <l eID="gen30557" level="1"/> <l level="1" sID="gen30558"/>Abjectus sum a conspectu oculorum tuorum ; <l eID="gen30558" level="1"/> <l level="1" sID="gen30559"/>verumtamen rursus videbo templum sanctum tuum. <l eID="gen30559" level="1"/>
+Et ego dixi :  Abjectus sum a conspectu oculorum tuorum ;  verumtamen rursus videbo templum sanctum tuum. 
 
 ** Jonah 2:6
 
-Circumdederunt me aquæ usque ad animam : <l eID="gen30560" level="1"/> <l level="1" sID="gen30561"/>abyssus vallavit me, <l eID="gen30561" level="1"/> <l level="1" sID="gen30562"/>pelagus operuit caput meum. <l eID="gen30562" level="1"/>
+Circumdederunt me aquæ usque ad animam :  abyssus vallavit me,  pelagus operuit caput meum. 
 
 ** Jonah 2:7
 
-Ad extrema montium descendi ; <l eID="gen30563" level="1"/> <l level="1" sID="gen30564"/>terræ vectes concluserunt me in æternum : <l eID="gen30564" level="1"/> <l level="1" sID="gen30565"/>et sublevabis de corruptione vitam meam, Domine Deus meus. <l eID="gen30565" level="1"/>
+Ad extrema montium descendi ;  terræ vectes concluserunt me in æternum :  et sublevabis de corruptione vitam meam, Domine Deus meus. 
 
 ** Jonah 2:8
 
-Cum angustiaretur in me anima mea, <l eID="gen30566" level="1"/> <l level="1" sID="gen30567"/>Domini recordatus sum : <l eID="gen30567" level="1"/> <l level="1" sID="gen30568"/>ut veniat ad te oratio mea, <l eID="gen30568" level="1"/> <l level="1" sID="gen30569"/>ad templum sanctum tuum. <l eID="gen30569" level="1"/>
+Cum angustiaretur in me anima mea,  Domini recordatus sum :  ut veniat ad te oratio mea,  ad templum sanctum tuum. 
 
 ** Jonah 2:9
 
-Qui custodiunt vanitates frustra, <l eID="gen30570" level="1"/> <l level="1" sID="gen30571"/>misericordiam suam derelinquunt. <l eID="gen30571" level="1"/>
+Qui custodiunt vanitates frustra,  misericordiam suam derelinquunt. 
 
 ** Jonah 2:10
 
-Ego autem in voce laudis immolabo tibi : <l eID="gen30572" level="1"/> <l level="1" sID="gen30573"/>quæcumque vovi, reddam pro salute Domino.
+Ego autem in voce laudis immolabo tibi :  quæcumque vovi, reddam pro salute Domino.
 
 ** Jonah 2:11
 
-Et dixit Dominus pisci, et evomuit Jonam in aridam. <l eID="gen30573" level="1"/><lg eID="gen30549"/> <chapter eID="Jonah.2"/>
+Et dixit Dominus pisci, et evomuit Jonam in aridam.  
 
 * Jonah 3
 
@@ -150,7 +150,7 @@ Quis scit si convertatur et ignoscat Deus, et revertatur a furore iræ suæ, et 
 
 ** Jonah 3:10
 
-Et vidit Deus opera eorum, quia conversi sunt de via sua mala : et misertus est Deus super malitiam quam locutus fuerat ut faceret eis, et non fecit.  <chapter eID="Jonah.3"/> <div eID="gen30574" type="x-p"/>
+Et vidit Deus opera eorum, quia conversi sunt de via sua mala : et misertus est Deus super malitiam quam locutus fuerat ut faceret eis, et non fecit.   
 
 * Jonah 4
 
@@ -196,5 +196,5 @@ Et dixit Dominus : Tu doles super hederam in qua non laborasti, neque fecisti ut
 
 ** Jonah 4:11
 
-et ego non parcam Ninive, civitati magnæ, in qua sunt plus quam centum viginti millia hominum qui nesciunt quid sit inter dexteram et sinistram suam, et jumenta multa ?  <div eID="gen30575" type="x-p"/> <chapter eID="Jonah.4"/> <div eID="gen30546" osisID="Jonah" type="book"/>
+et ego non parcam Ninive, civitati magnæ, in qua sunt plus quam centum viginti millia hominum qui nesciunt quid sit inter dexteram et sinistram suam, et jumenta multa ?    
 

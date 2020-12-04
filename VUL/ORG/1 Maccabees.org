@@ -38,7 +38,7 @@ Et obtinuerunt pueri ejus regnum, unusquisque in loco suo :
 
 ** I Maccabees 1:10
 
-et imposuerunt omnes sibi diademata post mortem ejus, et filii eorum post eos annis multis, et multiplicata sunt mala in terra.  <div eID="gen31871" type="x-p"/>
+et imposuerunt omnes sibi diademata post mortem ejus, et filii eorum post eos annis multis, et multiplicata sunt mala in terra.  
 
 ** I Maccabees 1:11
 
@@ -78,7 +78,7 @@ et constituit bellum adversus Ptolemæum regem Ægypti, et veritus est Ptolemæu
 
 ** I Maccabees 1:20
 
-Et comprehendit civitates munitas in terra Ægypti, et accepit spolia terræ Ægypti.  <div eID="gen31872" type="x-p"/>
+Et comprehendit civitates munitas in terra Ægypti, et accepit spolia terræ Ægypti.  
 
 ** I Maccabees 1:21
 
@@ -114,7 +114,7 @@ Omnis maritus sumpsit lamentum, et quæ sedebant in thoro maritali, lugebant :
 
 ** I Maccabees 1:29
 
-et commota est terra super habitantes in ea, et universa domus Jacob induit confusionem.  <div eID="gen31873" type="x-p"/>
+et commota est terra super habitantes in ea, et universa domus Jacob induit confusionem.  
 
 ** I Maccabees 1:30
 
@@ -166,7 +166,7 @@ Sanctificatio ejus desolata est sicut solitudo ; dies festi ejus conversi sunt i
 
 ** I Maccabees 1:42
 
-Secundum gloriam ejus multiplicata est ignominia ejus, et sublimitas ejus conversa est in luctum.  <div eID="gen31874" type="x-p"/>
+Secundum gloriam ejus multiplicata est ignominia ejus, et sublimitas ejus conversa est in luctum.  
 
 ** I Maccabees 1:43
 
@@ -222,7 +222,7 @@ Et congregati sunt multi de populo ad eos qui dereliquerant legem Domini, et fec
 
 ** I Maccabees 1:56
 
-et effugaverunt populum Israël in abditis, et in absconditis fugitivorum locis.  <div eID="gen31875" type="x-p"/>
+et effugaverunt populum Israël in abditis, et in absconditis fugitivorum locis.  
 
 ** I Maccabees 1:57
 
@@ -266,7 +266,7 @@ et noluerunt infringere legem Dei sanctam, et trucidati sunt :
 
 ** I Maccabees 1:67
 
-et facta est ira magna super populum valde.  <chapter eID="1Macc.1"/> <div eID="gen31876" type="x-p"/>
+et facta est ira magna super populum valde.   
 
 * I Maccabees 2
 
@@ -324,7 +324,7 @@ Quo ergo nobis adhuc vivere ?
 
 ** I Maccabees 2:14
 
-Et scidit vestimenta sua Mathathias, et filii ejus : et operuerunt se ciliciis, et planxerunt valde.  <div eID="gen31877" type="x-p"/>
+Et scidit vestimenta sua Mathathias, et filii ejus : et operuerunt se ciliciis, et planxerunt valde.  
 
 ** I Maccabees 2:15
 
@@ -380,7 +380,7 @@ Et exclamavit Mathathias voce magna in civitate, dicens : Omnis qui zelum habet 
 
 ** I Maccabees 2:28
 
-Et fugit ipse, et filii ejus in montes, et reliquerunt quæcumque habebant in civitate.  <div eID="gen31878" type="x-p"/>
+Et fugit ipse, et filii ejus in montes, et reliquerunt quæcumque habebant in civitate.  
 
 ** I Maccabees 2:29
 
@@ -432,7 +432,7 @@ Et dixit vir proximo suo : Si omnes fecerimus sicut fratres nostri fecerunt, et 
 
 ** I Maccabees 2:41
 
-Et cogitaverunt in die illa, dicentes : Omnis homo, quicumque venerit ad nos in bello die sabbatorum, pugnemus adversus eum : et non moriemur omnes, sicut mortui sunt fratres nostri in occultis.  <div eID="gen31879" type="x-p"/>
+Et cogitaverunt in die illa, dicentes : Omnis homo, quicumque venerit ad nos in bello die sabbatorum, pugnemus adversus eum : et non moriemur omnes, sicut mortui sunt fratres nostri in occultis.  
 
 ** I Maccabees 2:42
 
@@ -460,7 +460,7 @@ Et persecuti sunt filios superbiæ, et prosperatum est opus in manibus eorum :
 
 ** I Maccabees 2:48
 
-et obtinuerunt legem de manibus gentium, et de manibus regum, et non dederunt cornu peccatori.  <div eID="gen31880" type="x-p"/>
+et obtinuerunt legem de manibus gentium, et de manibus regum, et non dederunt cornu peccatori.  
 
 ** I Maccabees 2:49
 
@@ -540,7 +540,7 @@ Et adducetis ad vos omnes factores legis : et vindicate vindictam populi vestri.
 
 ** I Maccabees 2:68
 
-Retribuite retributionem gentibus, et intendite in præceptum legis.  <div eID="gen31881" type="x-p"/>
+Retribuite retributionem gentibus, et intendite in præceptum legis.  
 
 ** I Maccabees 2:69
 
@@ -548,7 +548,7 @@ Et benedixit eos, et appositus est ad patres suos.
 
 ** I Maccabees 2:70
 
-Et defunctus est anno centesimo et quadragesimo sexto : et sepultus est a filiis suis in sepulchris patrum suorum in Modin, et planxerunt eum omnis Israël planctu magno.  <chapter eID="1Macc.2"/> <div eID="gen31882" type="x-p"/>
+Et defunctus est anno centesimo et quadragesimo sexto : et sepultus est a filiis suis in sepulchris patrum suorum in Modin, et planxerunt eum omnis Israël planctu magno.   
 
 * I Maccabees 3
 
@@ -558,35 +558,35 @@ Et surrexit Judas, qui vocabatur Machabæus, filius ejus, pro eo :
 
 ** I Maccabees 3:2
 
-et adjuvabant eum omnes fratres ejus, et universi qui se conjunxerant patri ejus, et præliabantur prælium Israël cum lætitia.  <div eID="gen31883" type="x-p"/>
+et adjuvabant eum omnes fratres ejus, et universi qui se conjunxerant patri ejus, et præliabantur prælium Israël cum lætitia.  
 
 ** I Maccabees 3:3
 
-Et dilatavit gloriam populo suo, <l eID="gen31885" level="1"/> <l level="1" sID="gen31886"/>et induit se loricam sicut gigas, <l eID="gen31886" level="1"/> <l level="1" sID="gen31887"/>et succinxit se arma bellica sua in præliis, <l eID="gen31887" level="1"/> <l level="1" sID="gen31888"/>et protegebat castra gladio suo. <l eID="gen31888" level="1"/>
+Et dilatavit gloriam populo suo,  et induit se loricam sicut gigas,  et succinxit se arma bellica sua in præliis,  et protegebat castra gladio suo. 
 
 ** I Maccabees 3:4
 
-Similis factus est leoni in operibus suis, <l eID="gen31889" level="1"/> <l level="1" sID="gen31890"/>et sicut catulus leonis rugiens in venatione. <l eID="gen31890" level="1"/>
+Similis factus est leoni in operibus suis,  et sicut catulus leonis rugiens in venatione. 
 
 ** I Maccabees 3:5
 
-Et persecutus est iniquos perscrutans eos : <l eID="gen31891" level="1"/> <l level="1" sID="gen31892"/>et qui conturbabant populum suum, eos succendit flammis : <l eID="gen31892" level="1"/>
+Et persecutus est iniquos perscrutans eos :  et qui conturbabant populum suum, eos succendit flammis : 
 
 ** I Maccabees 3:6
 
-et repulsi sunt inimici ejus præ timore ejus, <l eID="gen31893" level="1"/> <l level="1" sID="gen31894"/>et omnes operarii iniquitatis conturbati sunt : <l eID="gen31894" level="1"/> <l level="1" sID="gen31895"/>et directa est salus in manu ejus. <l eID="gen31895" level="1"/>
+et repulsi sunt inimici ejus præ timore ejus,  et omnes operarii iniquitatis conturbati sunt :  et directa est salus in manu ejus. 
 
 ** I Maccabees 3:7
 
-Et exacerbabat reges multos, <l eID="gen31896" level="1"/> <l level="1" sID="gen31897"/>et lætificabat Jacob in operibus suis, <l eID="gen31897" level="1"/> <l level="1" sID="gen31898"/>et in sæculum memoria ejus in benedictione. <l eID="gen31898" level="1"/>
+Et exacerbabat reges multos,  et lætificabat Jacob in operibus suis,  et in sæculum memoria ejus in benedictione. 
 
 ** I Maccabees 3:8
 
-Et perambulavit civitates Juda, <l eID="gen31899" level="1"/> <l level="1" sID="gen31900"/>et perdidit impios ex eis, <l eID="gen31900" level="1"/> <l level="1" sID="gen31901"/>et avertit iram ab Israël. <l eID="gen31901" level="1"/>
+Et perambulavit civitates Juda,  et perdidit impios ex eis,  et avertit iram ab Israël. 
 
 ** I Maccabees 3:9
 
-Et nominatus est usque ad novissimum terræ, <l eID="gen31902" level="1"/> <l level="1" sID="gen31903"/>et congregavit pereuntes. <l eID="gen31903" level="1"/> <lg eID="gen31884"/>
+Et nominatus est usque ad novissimum terræ,  et congregavit pereuntes.  
 
 ** I Maccabees 3:10
 
@@ -654,7 +654,7 @@ Et cecidit timor Judæ ac fratrum ejus, et formido super omnes gentes in circuit
 
 ** I Maccabees 3:26
 
-et pervenit ad regem nomen ejus, et de præliis Judæ narrabant omnes gentes.  <div eID="gen31904" type="x-p"/>
+et pervenit ad regem nomen ejus, et de præliis Judæ narrabant omnes gentes.  
 
 ** I Maccabees 3:27
 
@@ -698,7 +698,7 @@ et ut constitueret habitatores filios alienigenas in omnibus finibus eorum, et s
 
 ** I Maccabees 3:37
 
-Et rex assumpsit partem exercitus residui, et exivit ab Antiochia civitate regni sui anno centesimo et quadragesimo septimo : et transfretavit Euphraten flumen, et perambulabat superiores regiones.  <div eID="gen31905" type="x-p"/>
+Et rex assumpsit partem exercitus residui, et exivit ab Antiochia civitate regni sui anno centesimo et quadragesimo septimo : et transfretavit Euphraten flumen, et perambulabat superiores regiones.  
 
 ** I Maccabees 3:38
 
@@ -730,7 +730,7 @@ Et congregatus est conventus ut essent parati in prælium, et ut orarent et pete
 
 ** I Maccabees 3:45
 
-Et Jerusalem non habitabatur, sed erat sicut desertum : non erat qui ingrederetur et egrederetur de natis ejus. Et sanctum conculcabatur : et filii alienigenarum erant in arce ; ibi erat habitatio gentium : et ablata est voluptas a Jacob, et defecit ibi tibia et cithara.  <div eID="gen31906" type="x-p"/>
+Et Jerusalem non habitabatur, sed erat sicut desertum : non erat qui ingrederetur et egrederetur de natis ejus. Et sanctum conculcabatur : et filii alienigenarum erant in arce ; ibi erat habitatio gentium : et ablata est voluptas a Jacob, et defecit ibi tibia et cithara.  
 
 ** I Maccabees 3:46
 
@@ -790,7 +790,7 @@ quoniam melius est nos mori in bello, quam videre mala gentis nostræ, et sancto
 
 ** I Maccabees 3:60
 
-Sicut autem fuerit voluntas in cælo, sic fiat.  <chapter eID="1Macc.3"/> <div eID="gen31907" type="x-p"/>
+Sicut autem fuerit voluntas in cælo, sic fiat.   
 
 * I Maccabees 4
 
@@ -900,7 +900,7 @@ Quicumque autem alienigenarum evaserunt, venerunt, et nuntiaverunt Lysiæ univer
 
 ** I Maccabees 4:27
 
-Quibus ille auditis, consternatus animo deficiebat : quod non qualia voluit, talia contigerunt in Israël, et qualia mandavit rex.  <div eID="gen31908" type="x-p"/>
+Quibus ille auditis, consternatus animo deficiebat : quod non qualia voluit, talia contigerunt in Israël, et qualia mandavit rex.  
 
 ** I Maccabees 4:28
 
@@ -932,7 +932,7 @@ Et commiserunt prælium : et ceciderunt de exercitu Lysiæ quinque millia viroru
 
 ** I Maccabees 4:35
 
-Videns autem Lysias fugam suorum, et Judæorum audaciam, et quod parati sunt aut vivere, aut mori fortiter, abiit Antiochiam, et elegit milites, ut multiplicati rursus venirent in Judæam.  <div eID="gen31909" type="x-p"/>
+Videns autem Lysias fugam suorum, et Judæorum audaciam, et quod parati sunt aut vivere, aut mori fortiter, abiit Antiochiam, et elegit milites, ut multiplicati rursus venirent in Judæam.  
 
 ** I Maccabees 4:36
 
@@ -1036,7 +1036,7 @@ Et ædificaverunt in tempore illo montem Sion, et per circuitum muros altos et t
 
 ** I Maccabees 4:61
 
-Et collocavit illic exercitum, ut servarent eum, et munivit eum ad custodiendum Bethsuram, ut haberet populus munitionem contra faciem Idumææ.  <chapter eID="1Macc.4"/> <div eID="gen31910" type="x-p"/>
+Et collocavit illic exercitum, ut servarent eum, et munivit eum ad custodiendum Bethsuram, ut haberet populus munitionem contra faciem Idumææ.   
 
 * I Maccabees 5
 
@@ -1102,7 +1102,7 @@ dicentes convenisse adversum se a Ptolemaida, et Tyro, et Sidone : et repleta es
 
 ** I Maccabees 5:16
 
-Ut audivit autem Judas et populus sermones istos, convenit ecclesia magna cogitare quid facerent fratribus suis, qui in tribulatione erant, et expugnabantur ab eis.  <div eID="gen31911" type="x-p"/>
+Ut audivit autem Judas et populus sermones istos, convenit ecclesia magna cogitare quid facerent fratribus suis, qui in tribulatione erant, et expugnabantur ab eis.  
 
 ** I Maccabees 5:17
 
@@ -1130,7 +1130,7 @@ Ptolemaidis : et ceciderunt de gentibus fere tria millia virorum. Et accepit spo
 
 ** I Maccabees 5:23
 
-et assumpsit eos qui erant in Galilæa et in Arbatis, cum uxoribus, et natis, et omnibus quæ erant illis, et adduxit in Judæam cum lætitia magna.  <div eID="gen31912" type="x-p"/>
+et assumpsit eos qui erant in Galilæa et in Arbatis, cum uxoribus, et natis, et omnibus quæ erant illis, et adduxit in Judæam cum lætitia magna.  
 
 ** I Maccabees 5:24
 
@@ -1214,7 +1214,7 @@ Et transfretavit ad illos prior, et omnis populus post eum, et contritæ sunt om
 
 ** I Maccabees 5:44
 
-Et occupavit ipsam civitatem, et fanum succendit igni cum omnibus qui erant in ipso : et oppressa est Carnaim, et non potuit sustinere contra faciem Judæ.  <div eID="gen31913" type="x-p"/>
+Et occupavit ipsam civitatem, et fanum succendit igni cum omnibus qui erant in ipso : et oppressa est Carnaim, et non potuit sustinere contra faciem Judæ.  
 
 ** I Maccabees 5:45
 
@@ -1254,7 +1254,7 @@ Et erat Judas congregans extremos, et exhortabatur populum per totam viam, donec
 
 ** I Maccabees 5:54
 
-et ascenderunt in montem Sion cum lætitia, et gaudio, et obtulerunt holocausta, quod nemo ex eis cecidisset donec reverterentur in pace.  <div eID="gen31914" type="x-p"/>
+et ascenderunt in montem Sion cum lætitia, et gaudio, et obtulerunt holocausta, quod nemo ex eis cecidisset donec reverterentur in pace.  
 
 ** I Maccabees 5:55
 
@@ -1294,7 +1294,7 @@ Et viri Juda magnificati sunt valde in conspectu omnis Israël, et gentium omniu
 
 ** I Maccabees 5:64
 
-Et convenerunt ad eos fausta acclamantes.  <div eID="gen31915" type="x-p"/>
+Et convenerunt ad eos fausta acclamantes.  
 
 ** I Maccabees 5:65
 
@@ -1310,7 +1310,7 @@ In die illa ceciderunt sacerdotes in bello, dum volunt fortiter facere, dum sine
 
 ** I Maccabees 5:68
 
-Et declinavit Judas in Azotum in terram alienigenarum, et diruit aras eorum, et sculptilia deorum ipsorum succendit igni : et cepit spolia civitatum, et reversus est in terram Juda.  <chapter eID="1Macc.5"/> <div eID="gen31916" type="x-p"/>
+Et declinavit Judas in Azotum in terram alienigenarum, et diruit aras eorum, et sculptilia deorum ipsorum succendit igni : et cepit spolia civitatum, et reversus est in terram Juda.   
 
 * I Maccabees 6
 
@@ -1380,7 +1380,7 @@ Et mortuus est illic Antiochus rex anno centesimo quadragesimo nono.
 
 ** I Maccabees 6:17
 
-Et cognovit Lysias quoniam mortuus est rex, et constituit regnare Antiochum filium ejus, quem nutrivit adolescentem : et vocavit nomen ejus Eupator.  <div eID="gen31917" type="x-p"/>
+Et cognovit Lysias quoniam mortuus est rex, et constituit regnare Antiochum filium ejus, quem nutrivit adolescentem : et vocavit nomen ejus Eupator.  
 
 ** I Maccabees 6:18
 
@@ -1436,7 +1436,7 @@ Et erat numerus exercitus ejus, centum millia peditum, et viginti millia equitum
 
 ** I Maccabees 6:31
 
-Et venerunt per Idumæam, et applicuerunt ad Bethsuram, et pugnaverunt dies multos : et fecerunt machinas, et exierunt, et succenderunt eas igni, et pugnaverunt viriliter.  <div eID="gen31918" type="x-p"/>
+Et venerunt per Idumæam, et applicuerunt ad Bethsuram, et pugnaverunt dies multos : et fecerunt machinas, et exierunt, et succenderunt eas igni, et pugnaverunt viriliter.  
 
 ** I Maccabees 6:32
 
@@ -1500,7 +1500,7 @@ Et ivit sub pedes elephantis, et supposuit se ei, et occidit eum : et cecidit in
 
 ** I Maccabees 6:47
 
-Et videntes virtutem regis, et impetum exercitus ejus, diverterunt se ab eis.  <div eID="gen31919" type="x-p"/>
+Et videntes virtutem regis, et impetum exercitus ejus, diverterunt se ab eis.  
 
 ** I Maccabees 6:48
 
@@ -1528,7 +1528,7 @@ Escæ autem non erant in civitate, eo quod septimus annus esset : et qui remanse
 
 ** I Maccabees 6:54
 
-Et remanserunt in sanctis viri pauci, quoniam obtinuerat eos fames : et dispersi sunt unusquisque in locum suum.  <div eID="gen31920" type="x-p"/>
+Et remanserunt in sanctis viri pauci, quoniam obtinuerat eos fames : et dispersi sunt unusquisque in locum suum.  
 
 ** I Maccabees 6:55
 
@@ -1564,7 +1564,7 @@ Et intravit rex montem Sion, et vidit munitionem loci : et rupit citius jurament
 
 ** I Maccabees 6:63
 
-Et discessit festinanter, et reversus est Antiochiam, et invenit Philippum dominantem civitati : et pugnavit adversus eum, et occupavit civitatem.  <chapter eID="1Macc.6"/> <div eID="gen31921" type="x-p"/>
+Et discessit festinanter, et reversus est Antiochiam, et invenit Philippum dominantem civitati : et pugnavit adversus eum, et occupavit civitatem.   
 
 * I Maccabees 7
 
@@ -1582,7 +1582,7 @@ Et res ei innotuit, et ait : Nolite mihi ostendere faciem eorum.
 
 ** I Maccabees 7:4
 
-Et occidit eos exercitus. Et sedit Demetrius super sedem regni sui.  <div eID="gen31922" type="x-p"/>
+Et occidit eos exercitus. Et sedit Demetrius super sedem regni sui.  
 
 ** I Maccabees 7:5
 
@@ -1642,7 +1642,7 @@ Et incubuit timor et tremor in omnem populum : quia dixerunt : Non est veritas, 
 
 ** I Maccabees 7:19
 
-Et movit Bacchides castra ab Jerusalem, et applicuit in Bethzecha : et misit, et comprehendit multos ex eis qui a se effugerant : et quosdam de populo mactavit, et in puteum magnum projecit.  <div eID="gen31923" type="x-p"/>
+Et movit Bacchides castra ab Jerusalem, et applicuit in Bethzecha : et misit, et comprehendit multos ex eis qui a se effugerant : et quosdam de populo mactavit, et in puteum magnum projecit.  
 
 ** I Maccabees 7:20
 
@@ -1662,7 +1662,7 @@ Et vidit Judas omnia mala quæ fecit Alcimus et qui cum eo erant filiis Israël,
 
 ** I Maccabees 7:24
 
-et exiit in omnes fines Judææ in circuitu, et fecit vindictam in viros desertores, et cessaverunt ultra exire in regionem.  <div eID="gen31924" type="x-p"/>
+et exiit in omnes fines Judææ in circuitu, et fecit vindictam in viros desertores, et cessaverunt ultra exire in regionem.  
 
 ** I Maccabees 7:25
 
@@ -1766,7 +1766,7 @@ Et constituit agi omnibus annis diem istam tertiadecima die mensis Adar.
 
 ** I Maccabees 7:50
 
-Et siluit terra Juda dies paucos.  <chapter eID="1Macc.7"/> <div eID="gen31925" type="x-p"/>
+Et siluit terra Juda dies paucos.   
 
 * I Maccabees 8
 
@@ -1832,7 +1832,7 @@ Et quia curiam fecerunt sibi, et quotidie consulebant trecentos viginti consiliu
 
 ** I Maccabees 8:16
 
-et committunt uni homini magistratum suum per singulos annos dominari universæ terræ suæ, et omnes obediunt uni, et non est invidia, neque zelus inter eos.  <div eID="gen31926" type="x-p"/>
+et committunt uni homini magistratum suum per singulos annos dominari universæ terræ suæ, et omnes obediunt uni, et non est invidia, neque zelus inter eos.  
 
 ** I Maccabees 8:17
 
@@ -1896,7 +1896,7 @@ Sed et de malis, quæ Demetrius rex fecit in eos, scripsimus ei, dicentes : Quar
 
 ** I Maccabees 8:32
 
-si ergo iterum adierint nos, adversum te faciemus illis judicium, et pugnabimus tecum mari terraque.  <chapter eID="1Macc.8"/> <div eID="gen31927" type="x-p"/>
+si ergo iterum adierint nos, adversum te faciemus illis judicium, et pugnabimus tecum mari terraque.   
 
 * I Maccabees 9
 
@@ -1950,7 +1950,7 @@ Bacchides autem erat in dextro cornu, et proximavit legio ex duabus partibus, et
 
 ** I Maccabees 9:13
 
-exclamaverunt autem et hi qui erant ex parte Judæ etiam ipsi, et commota est terra a voce exercituum : et commissum est prælium a mane usque ad vesperam.  <div eID="gen31928" type="x-p"/>
+exclamaverunt autem et hi qui erant ex parte Judæ etiam ipsi, et commota est terra a voce exercituum : et commissum est prælium a mane usque ad vesperam.  
 
 ** I Maccabees 9:14
 
@@ -1986,7 +1986,7 @@ et dixerunt : Quomodo cecidit potens, qui salvum faciebat populum Israël !
 
 ** I Maccabees 9:22
 
-Et cetera verba bellorum Judæ, et virtutum, quas fecit, et magnitudinis ejus, non sunt descripta : multa enim erant valde.  <div eID="gen31929" type="x-p"/>
+Et cetera verba bellorum Judæ, et virtutum, quas fecit, et magnitudinis ejus, non sunt descripta : multa enim erant valde.  
 
 ** I Maccabees 9:23
 
@@ -2006,7 +2006,7 @@ et exquirebant, et perscrutabantur amicos Judæ, et adducebant eos ad Bacchidem,
 
 ** I Maccabees 9:27
 
-Et facta est tribulatio magna in Israël, qualis non fuit ex die qua non est visus propheta in Israël.  <div eID="gen31930" type="x-p"/>
+Et facta est tribulatio magna in Israël, qualis non fuit ex die qua non est visus propheta in Israël.  
 
 ** I Maccabees 9:28
 
@@ -2066,7 +2066,7 @@ et conversæ sunt nuptiæ in luctum, et vox musicorum ipsorum in lamentum.
 
 ** I Maccabees 9:42
 
-Et vindicaverunt vindictam sanguinis fratris sui : et reversi sunt ad ripam Jordanis.  <div eID="gen31931" type="x-p"/>
+Et vindicaverunt vindictam sanguinis fratris sui : et reversi sunt ad ripam Jordanis.  
 
 ** I Maccabees 9:43
 
@@ -2126,7 +2126,7 @@ Et mortuus est Alcimus in tempore illo cum tormento magno.
 
 ** I Maccabees 9:57
 
-Et vidit Bacchides quoniam mortuus est Alcimus, et reversus est ad regem. Et siluit terra annis duobus.  <div eID="gen31932" type="x-p"/>
+Et vidit Bacchides quoniam mortuus est Alcimus, et reversus est ad regem. Et siluit terra annis duobus.  
 
 ** I Maccabees 9:58
 
@@ -2174,7 +2174,7 @@ et pugnaverunt contra Bacchidem, et contritus est ab eis : et afflixerunt eum va
 
 ** I Maccabees 9:69
 
-Et iratus contra viros iniquos, qui ei consilium dederant ut veniret in regionem ipsorum, multos ex eis occidit : ipse autem cogitavit cum reliquis abire in regionem suam.  <div eID="gen31933" type="x-p"/>
+Et iratus contra viros iniquos, qui ei consilium dederant ut veniret in regionem ipsorum, multos ex eis occidit : ipse autem cogitavit cum reliquis abire in regionem suam.  
 
 ** I Maccabees 9:70
 
@@ -2190,7 +2190,7 @@ Et reddidit ei captivitatem, quam prius erat prædatus de terra Juda : et conver
 
 ** I Maccabees 9:73
 
-Et cessavit gladius ex Israël : et habitavit Jonathas in Machmas, et cœpit Jonathas ibi judicare populum, et exterminavit impios ex Israël.  <chapter eID="1Macc.9"/> <div eID="gen31934" type="x-p"/>
+Et cessavit gladius ex Israël : et habitavit Jonathas in Machmas, et cœpit Jonathas ibi judicare populum, et exterminavit impios ex Israël.   
 
 * I Maccabees 10
 
@@ -2248,7 +2248,7 @@ et reliquit unusquisque locum suum, et abiit in terram suam :
 
 ** I Maccabees 10:14
 
-tantum in Bethsura remanserunt aliqui ex his qui reliquerant legem et præcepta Dei : erat enim hæc eis ad refugium.  <div eID="gen31935" type="x-p"/>
+tantum in Bethsura remanserunt aliqui ex his qui reliquerant legem et præcepta Dei : erat enim hæc eis ad refugium.  
 
 ** I Maccabees 10:15
 
@@ -2276,7 +2276,7 @@ et nunc constituimus te hodie summum sacerdotem gentis tuæ, et ut amicus voceri
 
 ** I Maccabees 10:21
 
-Et induit se Jonathas stola sancta septimo mense, anno centesimo sexagesimo, in die solemni scenopegiæ : et congregavit exercitum, et fecit arma copiosa.  <div eID="gen31936" type="x-p"/>
+Et induit se Jonathas stola sancta septimo mense, anno centesimo sexagesimo, in die solemni scenopegiæ : et congregavit exercitum, et fecit arma copiosa.  
 
 ** I Maccabees 10:22
 
@@ -2380,7 +2380,7 @@ Ut audivit autem Jonathas et populus sermones istos, non crediderunt eis, nec re
 
 ** I Maccabees 10:47
 
-Et complacuit eis in Alexandrum, quia ipse fuerat eis princeps sermonum pacis, et ipsi auxilium ferebant omnibus diebus.  <div eID="gen31937" type="x-p"/>
+Et complacuit eis in Alexandrum, quia ipse fuerat eis princeps sermonum pacis, et ipsi auxilium ferebant omnibus diebus.  
 
 ** I Maccabees 10:48
 
@@ -2456,7 +2456,7 @@ et magnificavit eum rex, et scripsit eum inter primos amicos, et posuit eum duce
 
 ** I Maccabees 10:66
 
-Et reversus est Jonathas in Jerusalem cum pace et lætitia.  <div eID="gen31938" type="x-p"/>
+Et reversus est Jonathas in Jerusalem cum pace et lætitia.  
 
 ** I Maccabees 10:67
 
@@ -2548,7 +2548,7 @@ Et factum est, ut audivit Alexander rex sermones istos, addidit adhuc glorificar
 
 ** I Maccabees 10:89
 
-Et misit ei fibulam auream, sicut consuetudo est dari cognatis regum. Et dedit ei Accaron, et omnes fines ejus, in possessionem.  <chapter eID="1Macc.10"/> <div eID="gen31939" type="x-p"/>
+Et misit ei fibulam auream, sicut consuetudo est dari cognatis regum. Et dedit ei Accaron, et omnes fines ejus, in possessionem.   
 
 * I Maccabees 11
 
@@ -2602,7 +2602,7 @@ Et abstulit filiam suam, et dedit eam Demetrio, et alienavit se ab Alexandro, et
 
 ** I Maccabees 11:13
 
-Et intravit Ptolemæus Antiochiam, et imposuit duo diademata capiti suo, Ægypti et Asiæ.  <div eID="gen31940" type="x-p"/>
+Et intravit Ptolemæus Antiochiam, et imposuit duo diademata capiti suo, Ægypti et Asiæ.  
 
 ** I Maccabees 11:14
 
@@ -2626,7 +2626,7 @@ Et rex Ptolemæus mortuus est in die tertia : et qui erant in munitionibus, peri
 
 ** I Maccabees 11:19
 
-Et regnavit Demetrius anno centesimo sexagesimo septimo.  <div eID="gen31941" type="x-p"/>
+Et regnavit Demetrius anno centesimo sexagesimo septimo.  
 
 ** I Maccabees 11:20
 
@@ -2698,7 +2698,7 @@ omnia ipsis concedimus : et nihil horum irritum erit, ex hoc, et in omne tempus.
 
 ** I Maccabees 11:37
 
-Nunc ergo curate facere horum exemplum, et detur Jonathæ, et ponatur in monte sancto, in loco celebri.  <div eID="gen31942" type="x-p"/>
+Nunc ergo curate facere horum exemplum, et detur Jonathæ, et ponatur in monte sancto, in loco celebri.  
 
 ** I Maccabees 11:38
 
@@ -2774,7 +2774,7 @@ Et congregati sunt ad eum omnes exercitus, quos disperserat Demetrius, et pugnav
 
 ** I Maccabees 11:56
 
-Et accepit Tryphon bestias, et obtinuit Antiochiam.  <div eID="gen31943" type="x-p"/>
+Et accepit Tryphon bestias, et obtinuit Antiochiam.  
 
 ** I Maccabees 11:57
 
@@ -2846,7 +2846,7 @@ Et viderunt qui fugiebant partis illius, et reversi sunt ad eum, et insequebantu
 
 ** I Maccabees 11:74
 
-et ceciderunt de alienigenis in die illa tria millia virorum : et reversus est Jonathas in Jerusalem.  <chapter eID="1Macc.11"/> <div eID="gen31944" type="x-p"/>
+et ceciderunt de alienigenis in die illa tria millia virorum : et reversus est Jonathas in Jerusalem.   
 
 * I Maccabees 12
 
@@ -2920,7 +2920,7 @@ Mandavimus itaque eis ut veniant etiam ad vos, et salutent vos, et reddant vobis
 
 ** I Maccabees 12:18
 
-Et nunc benefacietis respondentes nobis ad hæc.  <div eID="gen31945" type="x-p"/>
+Et nunc benefacietis respondentes nobis ad hæc.  
 
 ** I Maccabees 12:19
 
@@ -2940,7 +2940,7 @@ Et nunc ex quo hæc cognovimus, benefacitis scribentes nobis de pace vestra.
 
 ** I Maccabees 12:23
 
-Sed et nos rescripsimus vobis : Pecora nostra, et possessiones nostræ, vestræ sunt : et vestræ, nostræ : mandavimus itaque hæc nuntiari vobis.  <div eID="gen31946" type="x-p"/>
+Sed et nos rescripsimus vobis : Pecora nostra, et possessiones nostræ, vestræ sunt : et vestræ, nostræ : mandavimus itaque hæc nuntiari vobis.  
 
 ** I Maccabees 12:24
 
@@ -3000,7 +3000,7 @@ Et convenerunt ut ædificarent civitatem : et cecidit murus qui erat super torre
 
 ** I Maccabees 12:38
 
-et Simon ædificavit Adiada in Sephela, et munivit eam, et imposuit portas et seras.  <div eID="gen31947" type="x-p"/>
+et Simon ædificavit Adiada in Sephela, et munivit eam, et imposuit portas et seras.  
 
 ** I Maccabees 12:39
 
@@ -3064,7 +3064,7 @@ Et quæsierunt omnes gentes quæ erant in circuitu eorum conterere eos : dixerun
 
 ** I Maccabees 12:54
 
-Non habent principem et adjuvantem : nunc ergo expugnemus illos, et tollamus de hominibus memoriam eorum.  <chapter eID="1Macc.12"/> <div eID="gen31948" type="x-p"/>
+Non habent principem et adjuvantem : nunc ergo expugnemus illos, et tollamus de hominibus memoriam eorum.   
 
 * I Maccabees 13
 
@@ -3118,7 +3118,7 @@ Et movit Tryphon a Ptolemaida cum exercitu multo, ut veniret in terram Juda, et 
 
 ** I Maccabees 13:13
 
-Simon autem applicuit in Addus contra faciem campi.  <div eID="gen31949" type="x-p"/>
+Simon autem applicuit in Addus contra faciem campi.  
 
 ** I Maccabees 13:14
 
@@ -3142,7 +3142,7 @@ Quia non misit ei argentum, et pueros, propterea periit.
 
 ** I Maccabees 13:19
 
-Et misit pueros, et centum talenta : et mentitus est, et non dimisit Jonathan.  <div eID="gen31950" type="x-p"/>
+Et misit pueros, et centum talenta : et mentitus est, et non dimisit Jonathan.  
 
 ** I Maccabees 13:20
 
@@ -3194,7 +3194,7 @@ Tryphon autem cum iter faceret cum Antiocho rege adolescente, dolo occidit eum :
 
 ** I Maccabees 13:32
 
-et regnavit loco ejus, et imposuit sibi diadema Asiæ, et fecit plagam magnam in terra.  <div eID="gen31951" type="x-p"/>
+et regnavit loco ejus, et imposuit sibi diadema Asiæ, et fecit plagam magnam in terra.  
 
 ** I Maccabees 13:33
 
@@ -3226,7 +3226,7 @@ remittimus quoque ignorantias et peccata usque in hodiernum diem, et coronam qua
 
 ** I Maccabees 13:40
 
-Et si qui ex vobis apti sunt conscribi inter nostros, conscribantur, et sit inter nos pax.  <div eID="gen31952" type="x-p"/>
+Et si qui ex vobis apti sunt conscribi inter nostros, conscribantur, et sit inter nos pax.  
 
 ** I Maccabees 13:41
 
@@ -3282,7 +3282,7 @@ Et munivit montem templi, qui erat secus arcem, et habitavit ibi ipse, et qui cu
 
 ** I Maccabees 13:54
 
-Et vidit Simon Joannem filium suum, quod fortis prælii vir esset : et posuit eum ducem virtutum universarum : et habitavit in Gazaris.  <chapter eID="1Macc.13"/> <div eID="gen31953" type="x-p"/>
+Et vidit Simon Joannem filium suum, quod fortis prælii vir esset : et posuit eum ducem virtutum universarum : et habitavit in Gazaris.   
 
 * I Maccabees 14
 
@@ -3344,7 +3344,7 @@ Et confirmavit omnes humiles populi sui, et legem exquisivit, et abstulit omnem 
 
 ** I Maccabees 14:15
 
-sancta glorificavit, et multiplicavit vasa sanctorum.  <div eID="gen31954" type="x-p"/>
+sancta glorificavit, et multiplicavit vasa sanctorum.  
 
 ** I Maccabees 14:16
 
@@ -3380,7 +3380,7 @@ Et placuit populo excipere viros gloriose, et ponere exemplum sermonum eorum in 
 
 ** I Maccabees 14:24
 
-Post hæc autem misit Simon Numenium Romam, habentem clypeum aureum magnum, pondo mnarum mille, ad statuendam cum eis societatem. <div eID="gen31955" type="x-p"/> <div sID="gen31956" type="x-p"/> Cum autem audisset populus Romanus
+Post hæc autem misit Simon Numenium Romam, habentem clypeum aureum magnum, pondo mnarum mille, ad statuendam cum eis societatem.   Cum autem audisset populus Romanus
 
 ** I Maccabees 14:25
 
@@ -3480,7 +3480,7 @@ Et scripturam istam dixerunt ponere in tabulis æreis, et ponere eas in peribolo
 
 ** I Maccabees 14:49
 
-exemplum autem eorum ponere in ærario, ut habeat Simon, et filii ejus.  <chapter eID="1Macc.14"/> <div eID="gen31956" type="x-p"/>
+exemplum autem eorum ponere in ærario, ut habeat Simon, et filii ejus.   
 
 * I Maccabees 15
 
@@ -3538,7 +3538,7 @@ et applicuit Antiochus super Doram cum centum viginti millibus virorum belligera
 
 ** I Maccabees 15:14
 
-et circuivit civitatem, et naves a mari accesserunt : et vexabant civitatem a terra et mari, et neminem sinebant ingredi vel egredi.  <div eID="gen31957" type="x-p"/>
+et circuivit civitatem, et naves a mari accesserunt : et vexabant civitatem a terra et mari, et neminem sinebant ingredi vel egredi.  
 
 ** I Maccabees 15:15
 
@@ -3578,7 +3578,7 @@ et in omnes regiones : et Lampsaco, et Spartiatis, et in Delum, et in Myndum, et
 
 ** I Maccabees 15:24
 
-Exemplum autem eorum scripserunt Simoni principi sacerdotum, et populo Judæorum.  <div eID="gen31958" type="x-p"/>
+Exemplum autem eorum scripserunt Simoni principi sacerdotum, et populo Judæorum.  
 
 ** I Maccabees 15:25
 
@@ -3630,7 +3630,7 @@ Reversus autem cum ira ad regem, renuntiavit ei verba ista, et gloriam Simonis, 
 
 ** I Maccabees 15:37
 
-Tryphon autem fugit navi in Orthosiada.  <div eID="gen31959" type="x-p"/>
+Tryphon autem fugit navi in Orthosiada.  
 
 ** I Maccabees 15:38
 
@@ -3646,7 +3646,7 @@ Et pervenit Cendebæus Jamniam, et cœpit irritare plebem, et conculcare Judæam
 
 ** I Maccabees 15:41
 
-Et collocavit illic equites et exercitum, ut egressi perambularent viam Judææ, sicut constituit ei rex.  <chapter eID="1Macc.15"/> <div eID="gen31960" type="x-p"/>
+Et collocavit illic equites et exercitum, ut egressi perambularent viam Judææ, sicut constituit ei rex.   
 
 * I Maccabees 16
 
@@ -3688,7 +3688,7 @@ Tunc vulneratus est Judas frater Joannis : Joannes autem insecutus est eos, done
 
 ** I Maccabees 16:10
 
-et fugerunt usque ad turres, quæ erant in agris Azoti, et succendit eas igni. Et ceciderunt ex illis duo millia virorum, et reversus est in Judæam in pace.  <div eID="gen31961" type="x-p"/>
+et fugerunt usque ad turres, quæ erant in agris Azoti, et succendit eas igni. Et ceciderunt ex illis duo millia virorum, et reversus est in Judæam in pace.  
 
 ** I Maccabees 16:11
 
@@ -3736,7 +3736,7 @@ Et præcurrens quidam, nuntiavit Joanni in Gazara quia periit pater ejus et frat
 
 ** I Maccabees 16:22
 
-Ut audivit autem, vehementer expavit : et comprehendit viros, qui venerant perdere eum, et occidit eos : cognovit enim quia quærebant eum perdere.  <div eID="gen31962" type="x-p"/>
+Ut audivit autem, vehementer expavit : et comprehendit viros, qui venerant perdere eum, et occidit eos : cognovit enim quia quærebant eum perdere.  
 
 ** I Maccabees 16:23
 
@@ -3744,5 +3744,5 @@ Et cetera sermonum Joannis, et bellorum ejus, et bonarum virtutum, quibus fortit
 
 ** I Maccabees 16:24
 
-ecce hæc scripta sunt in libro dierum sacerdotii ejus, ex quo factus est princeps sacerdotum post patrem suum.  <div eID="gen31963" type="x-p"/> <chapter eID="1Macc.16"/> <div eID="gen31870" osisID="1Macc" type="book"/>
+ecce hæc scripta sunt in libro dierum sacerdotii ejus, ex quo factus est princeps sacerdotum post patrem suum.    
 

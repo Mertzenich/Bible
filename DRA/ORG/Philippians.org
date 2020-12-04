@@ -118,7 +118,7 @@ For unto you it is given for Christ, not only to believe in him, but also to suf
 
 *** Philippians 1:30
 
-Having the same conflict as that which you have seen in me and now have heard of me. <chapter eID="gen35382" osisID="Phil.1"/>
+Having the same conflict as that which you have seen in me and now have heard of me. 
 
 ** Philippians 2
 
@@ -240,7 +240,7 @@ Receive him therefore with all joy in the Lord: and treat with honour such as he
 
 *** Philippians 2:30
 
-Because for the work of Christ he came to the point of death: delivering his life, that he might fulfil that which on your part was wanting towards my service. <chapter eID="gen35413" osisID="Phil.2"/>
+Because for the work of Christ he came to the point of death: delivering his life, that he might fulfil that which on your part was wanting towards my service. 
 
 ** Philippians 3
 
@@ -326,7 +326,7 @@ But our conversation is in heaven: from whence also we look for the Saviour, our
 
 *** Philippians 3:21
 
-Who will reform the body of our lowness, made like to the body of his glory, according to the operation whereby also he is able to subdue all things unto himself. <chapter eID="gen35444" osisID="Phil.3"/>
+Who will reform the body of our lowness, made like to the body of his glory, according to the operation whereby also he is able to subdue all things unto himself. 
 
 ** Philippians 4
 
@@ -420,4 +420,4 @@ The brethren who are with me salute you. All the saints salute you: especially t
 
 *** Philippians 4:23
 
-The grace of our Lord Jesus Christ be with your spirit. Amen. <chapter eID="gen35466" osisID="Phil.4"/> <div eID="gen35381" osisID="Phil" type="book"/>
+The grace of our Lord Jesus Christ be with your spirit. Amen.  

@@ -2,75 +2,75 @@
 
 ** John 1:1
 
-In principio erat Verbum, <l eID="gen32535" level="1"/> <l level="1" sID="gen32536"/>et Verbum erat apud Deum, <l eID="gen32536" level="1"/> <l level="1" sID="gen32537"/>et Deus erat Verbum. <l eID="gen32537" level="1"/>
+In principio erat Verbum,  et Verbum erat apud Deum,  et Deus erat Verbum. 
 
 ** John 1:2
 
-Hoc erat in principio apud Deum. <l eID="gen32538" level="1"/>
+Hoc erat in principio apud Deum. 
 
 ** John 1:3
 
-Omnia per ipsum facta sunt : <l eID="gen32539" level="1"/> <l level="1" sID="gen32540"/>et sine ipso factum est nihil, quod factum est. <l eID="gen32540" level="1"/>
+Omnia per ipsum facta sunt :  et sine ipso factum est nihil, quod factum est. 
 
 ** John 1:4
 
-In ipso vita erat, <l eID="gen32541" level="1"/> <l level="1" sID="gen32542"/>et vita erat lux hominum : <l eID="gen32542" level="1"/>
+In ipso vita erat,  et vita erat lux hominum : 
 
 ** John 1:5
 
-et lux in tenebris lucet, <l eID="gen32543" level="1"/> <l level="1" sID="gen32544"/>et tenebræ eam non comprehenderunt. <l eID="gen32544" level="1"/>
+et lux in tenebris lucet,  et tenebræ eam non comprehenderunt. 
 
 ** John 1:6
 
-Fuit homo <l eID="gen32545" level="1"/> <l level="1" sID="gen32546"/>missus a Deo, <l eID="gen32546" level="1"/> <l level="1" sID="gen32547"/>cui nomen erat Joannes. <l eID="gen32547" level="1"/>
+Fuit homo  missus a Deo,  cui nomen erat Joannes. 
 
 ** John 1:7
 
-Hic venit in testimonium <l eID="gen32548" level="1"/> <l level="1" sID="gen32549"/>ut testimonium perhiberet de lumine, <l eID="gen32549" level="1"/> <l level="1" sID="gen32550"/>ut omnes crederent per illum. <l eID="gen32550" level="1"/>
+Hic venit in testimonium  ut testimonium perhiberet de lumine,  ut omnes crederent per illum. 
 
 ** John 1:8
 
-Non erat ille lux, <l eID="gen32551" level="1"/> <l level="1" sID="gen32552"/>sed ut testimonium perhiberet de lumine. <l eID="gen32552" level="1"/>
+Non erat ille lux,  sed ut testimonium perhiberet de lumine. 
 
 ** John 1:9
 
-Erat lux vera, <l eID="gen32553" level="1"/> <l level="1" sID="gen32554"/>quæ illuminat omnem hominem <l eID="gen32554" level="1"/> <l level="1" sID="gen32555"/>venientem in hunc mundum. <l eID="gen32555" level="1"/>
+Erat lux vera,  quæ illuminat omnem hominem  venientem in hunc mundum. 
 
 ** John 1:10
 
-In mundo erat, <l eID="gen32556" level="1"/> <l level="1" sID="gen32557"/>et mundus per ipsum factus est, <l eID="gen32557" level="1"/> <l level="1" sID="gen32558"/>et mundus eum non cognovit. <l eID="gen32558" level="1"/>
+In mundo erat,  et mundus per ipsum factus est,  et mundus eum non cognovit. 
 
 ** John 1:11
 
-In propria venit, <l eID="gen32559" level="1"/> <l level="1" sID="gen32560"/>et sui eum non receperunt. <l eID="gen32560" level="1"/>
+In propria venit,  et sui eum non receperunt. 
 
 ** John 1:12
 
-Quotquot autem receperunt eum, <l eID="gen32561" level="1"/> <l level="1" sID="gen32562"/>dedit eis potestatem filios Dei fieri, <l eID="gen32562" level="1"/> <l level="1" sID="gen32563"/>his qui credunt in nomine ejus : <l eID="gen32563" level="1"/>
+Quotquot autem receperunt eum,  dedit eis potestatem filios Dei fieri,  his qui credunt in nomine ejus : 
 
 ** John 1:13
 
-qui non ex sanguinibus, <l eID="gen32564" level="1"/> <l level="1" sID="gen32565"/>neque ex voluntate carnis, <l eID="gen32565" level="1"/> <l level="1" sID="gen32566"/>neque ex voluntate viri, <l eID="gen32566" level="1"/> <l level="1" sID="gen32567"/>sed ex Deo nati sunt. <l eID="gen32567" level="1"/>
+qui non ex sanguinibus,  neque ex voluntate carnis,  neque ex voluntate viri,  sed ex Deo nati sunt. 
 
 ** John 1:14
 
-Et Verbum caro factum est, <l eID="gen32568" level="1"/> <l level="1" sID="gen32569"/>et habitavit in nobis : <l eID="gen32569" level="1"/> <l level="1" sID="gen32570"/>et vidimus gloriam ejus, <l eID="gen32570" level="1"/> <l level="1" sID="gen32571"/>gloriam quasi unigeniti a Patre <l eID="gen32571" level="1"/> <l level="1" sID="gen32572"/>plenum gratiæ et veritatis. <l eID="gen32572" level="1"/>
+Et Verbum caro factum est,  et habitavit in nobis :  et vidimus gloriam ejus,  gloriam quasi unigeniti a Patre  plenum gratiæ et veritatis. 
 
 ** John 1:15
 
-Joannes testimonium perhibet de ipso, <l eID="gen32573" level="1"/> <l level="1" sID="gen32574"/>et clamat dicens : <l eID="gen32574" level="1"/> <l level="1" sID="gen32575"/>Hic erat quem dixi : <l eID="gen32575" level="1"/> <l level="1" sID="gen32576"/>Qui post me venturus est, <l eID="gen32576" level="1"/> <l level="1" sID="gen32577"/>ante me factus est : <l eID="gen32577" level="1"/> <l level="1" sID="gen32578"/>quia prior me erat. <l eID="gen32578" level="1"/>
+Joannes testimonium perhibet de ipso,  et clamat dicens :  Hic erat quem dixi :  Qui post me venturus est,  ante me factus est :  quia prior me erat. 
 
 ** John 1:16
 
-Et de plenitudine ejus <l eID="gen32579" level="1"/> <l level="1" sID="gen32580"/>nos omnes accepimus, et gratiam pro gratia : <l eID="gen32580" level="1"/>
+Et de plenitudine ejus  nos omnes accepimus, et gratiam pro gratia : 
 
 ** John 1:17
 
-quia lex per Moysen data est, <l eID="gen32581" level="1"/> <l level="1" sID="gen32582"/>gratia et veritas per Jesum Christum facta est. <l eID="gen32582" level="1"/>
+quia lex per Moysen data est,  gratia et veritas per Jesum Christum facta est. 
 
 ** John 1:18
 
-Deum nemo vidit umquam : <l eID="gen32583" level="1"/> <l level="1" sID="gen32584"/>unigenitus Filius, qui est in sinu Patris, <l eID="gen32584" level="1"/> <l level="1" sID="gen32585"/>ipse enarravit. <l eID="gen32585" level="1"/> <lg eID="gen32534"/>
+Deum nemo vidit umquam :  unigenitus Filius, qui est in sinu Patris,  ipse enarravit.  
 
 ** John 1:19
 
@@ -110,7 +110,7 @@ Ipse est qui post me venturus est, qui ante me factus est : cujus ego non sum di
 
 ** John 1:28
 
-Hæc in Bethania facta sunt trans Jordanem, ubi erat Joannes baptizans.  <div eID="gen32586" type="x-p"/>
+Hæc in Bethania facta sunt trans Jordanem, ubi erat Joannes baptizans.  
 
 ** John 1:29
 
@@ -134,7 +134,7 @@ Et ego nesciebam eum : sed qui misit me baptizare in aqua, ille mihi dixit : Sup
 
 ** John 1:34
 
-Et ego vidi : et testimonium perhibui quia hic est Filius Dei.  <div eID="gen32587" type="x-p"/>
+Et ego vidi : et testimonium perhibui quia hic est Filius Dei.  
 
 ** John 1:35
 
@@ -202,7 +202,7 @@ Respondit Jesus, et dixit ei : Quia dixi tibi : Vidi te sub ficu, credis ; majus
 
 ** John 1:51
 
-Et dicit ei : Amen, amen dico vobis, videbitis cælum apertum, et angelos Dei ascendentes, et descendentes supra Filium hominis.  <chapter eID="John.1"/> <div eID="gen32588" type="x-p"/>
+Et dicit ei : Amen, amen dico vobis, videbitis cælum apertum, et angelos Dei ascendentes, et descendentes supra Filium hominis.   
 
 * John 2
 
@@ -252,7 +252,7 @@ Hoc fecit initium signorum Jesus in Cana Galilææ ; et manifestavit gloriam sua
 
 ** John 2:12
 
-Post hoc descendit Capharnaum ipse, et mater ejus, et fratres ejus, et discipuli ejus : et ibi manserunt non multis diebus.  <div eID="gen32589" type="x-p"/>
+Post hoc descendit Capharnaum ipse, et mater ejus, et fratres ejus, et discipuli ejus : et ibi manserunt non multis diebus.  
 
 ** John 2:13
 
@@ -304,7 +304,7 @@ Ipse autem Jesus non credebat semetipsum eis, eo quod ipse nosset omnes,
 
 ** John 2:25
 
-et quia opus ei non erat ut quis testimonium perhiberet de homine : ipse enim sciebat quid esset in homine.  <chapter eID="John.2"/> <div eID="gen32590" type="x-p"/>
+et quia opus ei non erat ut quis testimonium perhiberet de homine : ipse enim sciebat quid esset in homine.   
 
 * John 3
 
@@ -390,7 +390,7 @@ Omnis enim qui male agit, odit lucem, et non venit ad lucem, ut non arguantur op
 
 ** John 3:21
 
-qui autem facit veritatem, venit ad lucem, ut manifestentur opera ejus, quia in Deo sunt facta.  <div eID="gen32591" type="x-p"/>
+qui autem facit veritatem, venit ad lucem, ut manifestentur opera ejus, quia in Deo sunt facta.  
 
 ** John 3:22
 
@@ -450,7 +450,7 @@ Pater diligit Filium et omnia dedit in manu ejus.
 
 ** John 3:36
 
-Qui credit in Filium, habet vitam æternam ; qui autem incredulus est Filio, non videbit vitam, sed ira Dei manet super eum.  <chapter eID="John.3"/> <div eID="gen32592" type="x-p"/>
+Qui credit in Filium, habet vitam æternam ; qui autem incredulus est Filio, non videbit vitam, sed ira Dei manet super eum.   
 
 * John 4
 
@@ -468,7 +468,7 @@ reliquit Judæam, et abiit iterum in Galilæam.
 
 ** John 4:4
 
-Oportebat autem eum transire per Samariam.  <div eID="gen32593" type="x-p"/>
+Oportebat autem eum transire per Samariam.  
 
 ** John 4:5
 
@@ -620,7 +620,7 @@ Et multo plures crediderunt in eum propter sermonem ejus.
 
 ** John 4:42
 
-Et mulieri dicebant : Quia jam non propter tuam loquelam credimus : ipsi enim audivimus, et scimus quia hic est vere Salvator mundi.  <div eID="gen32594" type="x-p"/>
+Et mulieri dicebant : Quia jam non propter tuam loquelam credimus : ipsi enim audivimus, et scimus quia hic est vere Salvator mundi.  
 
 ** John 4:43
 
@@ -668,7 +668,7 @@ Cognovit ergo pater, quia illa hora erat in qua dixit ei Jesus : Filius tuus viv
 
 ** John 4:54
 
-Hoc iterum secundum signum fecit Jesus, cum venisset a Judæa in Galilæam.  <chapter eID="John.4"/> <div eID="gen32595" type="x-p"/>
+Hoc iterum secundum signum fecit Jesus, cum venisset a Judæa in Galilæam.   
 
 * John 5
 
@@ -706,7 +706,7 @@ Dicit ei Jesus : Surge, tolle grabatum tuum et ambula.
 
 ** John 5:9
 
-Et statim sanus factus est homo ille : et sustulit grabatum suum, et ambulabat. Erat autem sabbatum in die illo.  <div eID="gen32596" type="x-p"/>
+Et statim sanus factus est homo ille : et sustulit grabatum suum, et ambulabat. Erat autem sabbatum in die illo.  
 
 ** John 5:10
 
@@ -742,7 +742,7 @@ Jesus autem respondit eis : Pater meus usque modo operatur, et ego operor.
 
 ** John 5:18
 
-Propterea ergo magis quærebant eum Judæi interficere : quia non solum solvebat sabbatum, sed et patrem suum dicebat Deum, æqualem se faciens Deo. <div eID="gen32597" type="x-p"/> <div sID="gen32598" type="x-p"/> Respondit itaque Jesus, et dixit eis :
+Propterea ergo magis quærebant eum Judæi interficere : quia non solum solvebat sabbatum, sed et patrem suum dicebat Deum, æqualem se faciens Deo.   Respondit itaque Jesus, et dixit eis :
 
 ** John 5:19
 
@@ -790,7 +790,7 @@ et procedent qui bona fecerunt, in resurrectionem vitæ ; qui vero mala egerunt,
 
 ** John 5:30
 
-Non possum ego a meipso facere quidquam. Sicut audio, judico : et judicium meum justum est, quia non quæro voluntatem meam, sed voluntatem ejus qui misit me.  <div eID="gen32598" type="x-p"/>
+Non possum ego a meipso facere quidquam. Sicut audio, judico : et judicium meum justum est, quia non quæro voluntatem meam, sed voluntatem ejus qui misit me.  
 
 ** John 5:31
 
@@ -858,7 +858,7 @@ Si enim crederetis Moysi, crederetis forsitan et mihi : de me enim ille scripsit
 
 ** John 5:47
 
-Si autem illius litteris non creditis, quomodo verbis meis credetis ?  <chapter eID="John.5"/> <div eID="gen32599" type="x-p"/>
+Si autem illius litteris non creditis, quomodo verbis meis credetis ?   
 
 * John 6
 
@@ -920,7 +920,7 @@ Illi ergo homines cum vidissent quod Jesus fecerat signum, dicebant : Quia hic e
 
 ** John 6:15
 
-Jesus ergo cum cognovisset quia venturi essent ut raperent eum, et facerent eum regem, fugit iterum in montem ipse solus.  <div eID="gen32600" type="x-p"/>
+Jesus ergo cum cognovisset quia venturi essent ut raperent eum, et facerent eum regem, fugit iterum in montem ipse solus.  
 
 ** John 6:16
 
@@ -956,7 +956,7 @@ aliæ vero supervenerunt naves a Tiberiade juxta locum ubi manducaverant panem, 
 
 ** John 6:24
 
-Cum ergo vidisset turba quia Jesus non esset ibi, neque discipuli ejus, ascenderunt in naviculas, et venerunt Capharnaum quærentes Jesum.  <div eID="gen32601" type="x-p"/>
+Cum ergo vidisset turba quia Jesus non esset ibi, neque discipuli ejus, ascenderunt in naviculas, et venerunt Capharnaum quærentes Jesum.  
 
 ** John 6:25
 
@@ -1048,7 +1048,7 @@ Non quia Patrem vidit quisquam, nisi is, qui est a Deo, hic vidit Patrem.
 
 ** John 6:47
 
-Amen, amen dico vobis : qui credit in me, habet vitam æternam.  <div eID="gen32602" type="x-p"/>
+Amen, amen dico vobis : qui credit in me, habet vitam æternam.  
 
 ** John 6:48
 
@@ -1096,7 +1096,7 @@ Sicut misit me vivens Pater, et ego vivo propter Patrem : et qui manducat me, et
 
 ** John 6:59
 
-Hic est panis qui de cælo descendit. Non sicut manducaverunt patres vestri manna, et mortui sunt. Qui manducat hunc panem, vivet in æternum.  <div eID="gen32603" type="x-p"/>
+Hic est panis qui de cælo descendit. Non sicut manducaverunt patres vestri manna, et mortui sunt. Qui manducat hunc panem, vivet in æternum.  
 
 ** John 6:60
 
@@ -1148,7 +1148,7 @@ Respondit eis Jesus : Nonne ego vos duodecim elegi : et ex vobis unus diabolus e
 
 ** John 6:72
 
-Dicebat autem Judam Simonis Iscariotem : hic enim erat traditurus eum, cum esset unus ex duodecim.  <chapter eID="John.6"/> <div eID="gen32604" type="x-p"/>
+Dicebat autem Judam Simonis Iscariotem : hic enim erat traditurus eum, cum esset unus ex duodecim.   
 
 * John 7
 
@@ -1186,7 +1186,7 @@ Vos ascendite ad diem festum hunc, ego autem non ascendo ad diem festum istum : 
 
 ** John 7:9
 
-Hæc cum dixisset, ipse mansit in Galilæa.  <div eID="gen32605" type="x-p"/>
+Hæc cum dixisset, ipse mansit in Galilæa.  
 
 ** John 7:10
 
@@ -1202,7 +1202,7 @@ Et murmur multum erat in turba de eo. Quidam enim dicebant : Quia bonus est. Ali
 
 ** John 7:13
 
-Nemo tamen palam loquebatur de illo propter metum Judæorum.  <div eID="gen32606" type="x-p"/>
+Nemo tamen palam loquebatur de illo propter metum Judæorum.  
 
 ** John 7:14
 
@@ -1246,7 +1246,7 @@ Si circumcisionem accipit homo in sabbato, ut non solvatur lex Moysi : mihi indi
 
 ** John 7:24
 
-Nolite judicare secundum faciem, sed justum judicium judicate.  <div eID="gen32607" type="x-p"/>
+Nolite judicare secundum faciem, sed justum judicium judicate.  
 
 ** John 7:25
 
@@ -1294,7 +1294,7 @@ Dixerunt ergo Judæi ad semetipsos : Quo hic iturus est, quia non inveniemus eum
 
 ** John 7:36
 
-quis est hic sermo, quem dixit : Quæretis me, et non invenietis : et ubi sum ego, vos non potestis venire ?  <div eID="gen32608" type="x-p"/>
+quis est hic sermo, quem dixit : Quæretis me, et non invenietis : et ubi sum ego, vos non potestis venire ?  
 
 ** John 7:37
 
@@ -1306,7 +1306,7 @@ Qui credit in me, sicut dicit Scriptura, flumina de ventre ejus fluent aquæ viv
 
 ** John 7:39
 
-Hoc autem dixit de Spiritu, quem accepturi erant credentes in eum : nondum enim erat Spiritus datus, quia Jesus nondum erat glorificatus.  <div eID="gen32609" type="x-p"/>
+Hoc autem dixit de Spiritu, quem accepturi erant credentes in eum : nondum enim erat Spiritus datus, quia Jesus nondum erat glorificatus.  
 
 ** John 7:40
 
@@ -1362,7 +1362,7 @@ Responderunt, et dixerunt ei : Numquid et tu Galilæus es ? scrutare Scripturas,
 
 ** John 7:53
 
-Et reversi sunt unusquisque in domum suam.  <chapter eID="John.7"/> <div eID="gen32610" type="x-p"/>
+Et reversi sunt unusquisque in domum suam.   
 
 * John 8
 
@@ -1408,7 +1408,7 @@ Erigens autem se Jesus, dixit ei : Mulier, ubi sunt qui te accusabant ? nemo te 
 
 ** John 8:11
 
-Quæ dixit : Nemo, Domine. Dixit autem Jesus : Nec ego te condemnabo : vade, et jam amplius noli peccare.  <div eID="gen32611" type="x-p"/>
+Quæ dixit : Nemo, Domine. Dixit autem Jesus : Nec ego te condemnabo : vade, et jam amplius noli peccare.  
 
 ** John 8:12
 
@@ -1444,7 +1444,7 @@ Dicebant ergo ei : Ubi est Pater tuus ? Respondit Jesus : Neque me scitis, neque
 
 ** John 8:20
 
-Hæc verba locutus est Jesus in gazophylacio, docens in templo : et nemo apprehendit eum, quia necdum venerat hora ejus.  <div eID="gen32612" type="x-p"/>
+Hæc verba locutus est Jesus in gazophylacio, docens in templo : et nemo apprehendit eum, quia necdum venerat hora ejus.  
 
 ** John 8:21
 
@@ -1552,7 +1552,7 @@ Quis ex vobis arguet me de peccato ? si veritatem dico vobis, quare non creditis
 
 ** John 8:47
 
-Qui ex Deo est, verba Dei audit. Propterea vos non auditis, quia ex Deo non estis.  <div eID="gen32613" type="x-p"/>
+Qui ex Deo est, verba Dei audit. Propterea vos non auditis, quia ex Deo non estis.  
 
 ** John 8:48
 
@@ -1600,7 +1600,7 @@ Dixit eis Jesus : Amen, amen dico vobis, antequam Abraham fieret, ego sum.
 
 ** John 8:59
 
-Tulerunt ergo lapides, ut jacerent in eum : Jesus autem abscondit se, et exivit de templo.  <chapter eID="John.8"/> <div eID="gen32614" type="x-p"/>
+Tulerunt ergo lapides, ut jacerent in eum : Jesus autem abscondit se, et exivit de templo.   
 
 * John 9
 
@@ -1650,7 +1650,7 @@ Respondit : Ille homo qui dicitur Jesus, lutum fecit : et unxit oculos meos, et 
 
 ** John 9:12
 
-Et dixerunt ei : Ubi est ille ? Ait : Nescio.  <div eID="gen32615" type="x-p"/>
+Et dixerunt ei : Ubi est ille ? Ait : Nescio.  
 
 ** John 9:13
 
@@ -1738,7 +1738,7 @@ Nisi esset hic a Deo, non poterat facere quidquam.
 
 ** John 9:34
 
-Responderunt, et dixerunt ei : In peccatis natus es totus, et tu doces nos ? Et ejecerunt eum foras.  <div eID="gen32616" type="x-p"/>
+Responderunt, et dixerunt ei : In peccatis natus es totus, et tu doces nos ? Et ejecerunt eum foras.  
 
 ** John 9:35
 
@@ -1766,7 +1766,7 @@ Et audierunt quidam ex pharisæis qui cum ipso erant, et dixerunt ei : Numquid e
 
 ** John 9:41
 
-Dixit eis Jesus : Si cæci essetis, non haberetis peccatum. Nunc vero dicitis, Quia videmus : peccatum vestrum manet.  <chapter eID="John.9"/> <div eID="gen32617" type="x-p"/>
+Dixit eis Jesus : Si cæci essetis, non haberetis peccatum. Nunc vero dicitis, Quia videmus : peccatum vestrum manet.   
 
 * John 10
 
@@ -1840,7 +1840,7 @@ Propterea me diligit Pater : quia ego pono animam meam, ut iterum sumam eam.
 
 ** John 10:18
 
-Nemo tollit eam a me : sed ego pono eam a meipso, et potestatem habeo ponendi eam, et potestatem habeo iterum sumendi eam. Hoc mandatum accepi a Patre meo.  <div eID="gen32618" type="x-p"/>
+Nemo tollit eam a me : sed ego pono eam a meipso, et potestatem habeo ponendi eam, et potestatem habeo iterum sumendi eam. Hoc mandatum accepi a Patre meo.  
 
 ** John 10:19
 
@@ -1852,7 +1852,7 @@ Dicebant autem multi ex ipsis : Dæmonium habet, et insanit : quid eum auditis ?
 
 ** John 10:21
 
-Alii dicebant : Hæc verba non sunt dæmonium habentis : numquid dæmonium potest cæcorum oculos aperire ?  <div eID="gen32619" type="x-p"/>
+Alii dicebant : Hæc verba non sunt dæmonium habentis : numquid dæmonium potest cæcorum oculos aperire ?  
 
 ** John 10:22
 
@@ -1888,7 +1888,7 @@ Pater meus quod dedit mihi, majus omnibus est : et nemo potest rapere de manu Pa
 
 ** John 10:30
 
-Ego et Pater unum sumus.  <div eID="gen32620" type="x-p"/>
+Ego et Pater unum sumus.  
 
 ** John 10:31
 
@@ -1936,7 +1936,7 @@ et multi venerunt ad eum, et dicebant : Quia Joannes quidem signum fecit nullum.
 
 ** John 10:42
 
-Omnia autem quæcumque dixit Joannes de hoc, vera erant. Et multi crediderunt in eum.  <chapter eID="John.10"/> <div eID="gen32621" type="x-p"/>
+Omnia autem quæcumque dixit Joannes de hoc, vera erant. Et multi crediderunt in eum.   
 
 * John 11
 
@@ -2122,7 +2122,7 @@ Multi ergo ex Judæis, qui venerant ad Mariam, et Martham, et viderant quæ feci
 
 ** John 11:46
 
-Quidam autem ex ipsis abierunt ad pharisæos, et dixerunt eis quæ fecit Jesus.  <div eID="gen32622" type="x-p"/>
+Quidam autem ex ipsis abierunt ad pharisæos, et dixerunt eis quæ fecit Jesus.  
 
 ** John 11:47
 
@@ -2150,7 +2150,7 @@ et non tantum pro gente, sed ut filios Dei, qui erant dispersi, congregaret in u
 
 ** John 11:53
 
-Ab illo ergo die cogitaverunt ut interficerent eum.  <div eID="gen32623" type="x-p"/>
+Ab illo ergo die cogitaverunt ut interficerent eum.  
 
 ** John 11:54
 
@@ -2162,7 +2162,7 @@ Proximum autem erat Pascha Judæorum, et ascenderunt multi Jerosolymam de region
 
 ** John 11:56
 
-Quærebant ergo Jesum, et colloquebantur ad invicem, in templo stantes : Quid putatis, quia non venit ad diem festum ? Dederant autem pontifices et pharisæi mandatum ut si quis cognoverit ubi sit, indicet, ut apprehendant eum.  <chapter eID="John.11"/> <div eID="gen32624" type="x-p"/>
+Quærebant ergo Jesum, et colloquebantur ad invicem, in templo stantes : Quid putatis, quia non venit ad diem festum ? Dederant autem pontifices et pharisæi mandatum ut si quis cognoverit ubi sit, indicet, ut apprehendant eum.   
 
 ** John 11:57
 
@@ -2204,7 +2204,7 @@ Pauperes enim semper habetis vobiscum : me autem non semper habetis.
 
 ** John 12:9
 
-Cognovit ergo turba multa ex Judæis quia illic est, et venerunt, non propter Jesum tantum, sed ut Lazarum viderent, quem suscitavit a mortuis.  <div eID="gen32625" type="x-p"/>
+Cognovit ergo turba multa ex Judæis quia illic est, et venerunt, non propter Jesum tantum, sed ut Lazarum viderent, quem suscitavit a mortuis.  
 
 ** John 12:10
 
@@ -2244,7 +2244,7 @@ Propterea et obviam venit ei turba : quia audierunt fecisse hoc signum.
 
 ** John 12:19
 
-Pharisæi ergo dixerunt ad semetipsos : Videtis quia nihil proficimus ? ecce mundus totus post eum abiit.  <div eID="gen32626" type="x-p"/>
+Pharisæi ergo dixerunt ad semetipsos : Videtis quia nihil proficimus ? ecce mundus totus post eum abiit.  
 
 ** John 12:20
 
@@ -2300,7 +2300,7 @@ Et ego, si exaltatus fuero a terra, omnia traham ad meipsum.
 
 ** John 12:33
 
-(Hoc autem dicebat, significans qua morte esset moriturus.)  <div eID="gen32627" type="x-p"/>
+(Hoc autem dicebat, significans qua morte esset moriturus.)  
 
 ** John 12:34
 
@@ -2312,7 +2312,7 @@ Dixit ergo eis Jesus : Adhuc modicum, lumen in vobis est. Ambulate dum lucem hab
 
 ** John 12:36
 
-Dum lucem habetis, credite in lucem, ut filii lucis sitis. Hæc locutus est Jesus, et abiit et abscondit se ab eis.  <div eID="gen32628" type="x-p"/>
+Dum lucem habetis, credite in lucem, ut filii lucis sitis. Hæc locutus est Jesus, et abiit et abscondit se ab eis.  
 
 ** John 12:37
 
@@ -2320,19 +2320,19 @@ Cum autem tanta signa fecisset coram eis, non credebant in eum ;
 
 ** John 12:38
 
-ut sermo Isaiæ prophetæ impleretur, quem dixit : <div eID="gen32629" type="x-p"/> <lg sID="gen32630"/> <l level="1" sID="gen32631"/>Domine, quis credidit auditui nostro ? <l eID="gen32631" level="1"/> <l level="1" sID="gen32632"/>et brachium Domini cui revelatum est ?
+ut sermo Isaiæ prophetæ impleretur, quem dixit :   Domine, quis credidit auditui nostro ?  et brachium Domini cui revelatum est ?
 
 ** John 12:39
 
-Propterea non poterant credere, quia iterum dixit Isaias : <l eID="gen32632" level="1"/>
+Propterea non poterant credere, quia iterum dixit Isaias : 
 
 ** John 12:40
 
-Excæcavit oculos eorum, et induravit cor eorum <l eID="gen32633" level="1"/> <l level="1" sID="gen32634"/>ut non videant oculis, et non intelligant corde, <l eID="gen32634" level="1"/> <l level="1" sID="gen32635"/>et convertantur, et sanem eos.
+Excæcavit oculos eorum, et induravit cor eorum  ut non videant oculis, et non intelligant corde,  et convertantur, et sanem eos.
 
 ** John 12:41
 
-Hæc dixit Isaias, quando vidit gloriam ejus, et locutus est de eo. <l eID="gen32635" level="1"/> <lg eID="gen32630"/>
+Hæc dixit Isaias, quando vidit gloriam ejus, et locutus est de eo.  
 
 ** John 12:42
 
@@ -2368,7 +2368,7 @@ Quia ego ex meipso non sum locutus, sed qui misit me, Pater, ipse mihi mandatum 
 
 ** John 12:50
 
-Et scio quia mandatum ejus vita æterna est : quæ ergo ego loquor, sicut dixit mihi Pater, sic loquor.  <chapter eID="John.12"/> <div eID="gen32636" type="x-p"/>
+Et scio quia mandatum ejus vita æterna est : quæ ergo ego loquor, sicut dixit mihi Pater, sic loquor.   
 
 * John 13
 
@@ -2450,7 +2450,7 @@ Amodo dico vobis, priusquam fiat : ut cum factum fuerit, credatis quia ego sum.
 
 ** John 13:20
 
-Amen, amen dico vobis : qui accipit si quem misero, me accipit ; qui autem me accipit, accipit eum qui me misit.  <div eID="gen32637" type="x-p"/>
+Amen, amen dico vobis : qui accipit si quem misero, me accipit ; qui autem me accipit, accipit eum qui me misit.  
 
 ** John 13:21
 
@@ -2490,7 +2490,7 @@ Quidam enim putabant, quia loculos habebat Judas, quod dixisset ei Jesus : Eme e
 
 ** John 13:30
 
-Cum ergo accepisset ille buccellam, exivit continuo. Erat autem nox.  <div eID="gen32638" type="x-p"/>
+Cum ergo accepisset ille buccellam, exivit continuo. Erat autem nox.  
 
 ** John 13:31
 
@@ -2510,7 +2510,7 @@ Mandatum novum do vobis : ut diligatis invicem : sicut dilexi vos, ut et vos dil
 
 ** John 13:35
 
-In hoc cognoscent omnes quia discipuli mei estis, si dilectionem habueritis ad invicem.  <div eID="gen32639" type="x-p"/>
+In hoc cognoscent omnes quia discipuli mei estis, si dilectionem habueritis ad invicem.  
 
 ** John 13:36
 
@@ -2522,7 +2522,7 @@ Dicit ei Petrus : Quare non possum te sequi modo ? animam meam pro te ponam.
 
 ** John 13:38
 
-Respondit ei Jesus : Animam tuam pro me pones ? amen, amen dico tibi : non cantabit gallus, donec ter me neges.  <chapter eID="John.13"/> <div eID="gen32640" type="x-p"/>
+Respondit ei Jesus : Animam tuam pro me pones ? amen, amen dico tibi : non cantabit gallus, donec ter me neges.   
 
 * John 14
 
@@ -2580,7 +2580,7 @@ Et quodcumque petieritis Patrem in nomine meo, hoc faciam : ut glorificetur Pate
 
 ** John 14:14
 
-Si quid petieritis me in nomine meo, hoc faciam.  <div eID="gen32641" type="x-p"/>
+Si quid petieritis me in nomine meo, hoc faciam.  
 
 ** John 14:15
 
@@ -2628,7 +2628,7 @@ Hæc locutus sum vobis apud vos manens.
 
 ** John 14:26
 
-Paraclitus autem Spiritus Sanctus, quem mittet Pater in nomine meo, ille vos docebit omnia, et suggeret vobis omnia quæcumque dixero vobis.  <div eID="gen32642" type="x-p"/>
+Paraclitus autem Spiritus Sanctus, quem mittet Pater in nomine meo, ille vos docebit omnia, et suggeret vobis omnia quæcumque dixero vobis.  
 
 ** John 14:27
 
@@ -2648,7 +2648,7 @@ Jam non multa loquar vobiscum : venit enim princeps mundi hujus, et in me non ha
 
 ** John 14:31
 
-Sed ut cognoscat mundus quia diligo Patrem, et sicut mandatum dedit mihi Pater, sic facio. Surgite, eamus hinc.  <chapter eID="John.14"/> <div eID="gen32643" type="x-p"/>
+Sed ut cognoscat mundus quia diligo Patrem, et sicut mandatum dedit mihi Pater, sic facio. Surgite, eamus hinc.   
 
 * John 15
 
@@ -2682,7 +2682,7 @@ Si manseritis in me, et verba mea in vobis manserint, quodcumque volueritis pete
 
 ** John 15:8
 
-In hoc clarificatus est Pater meus, ut fructum plurimum afferatis, et efficiamini mei discipuli.  <div eID="gen32644" type="x-p"/>
+In hoc clarificatus est Pater meus, ut fructum plurimum afferatis, et efficiamini mei discipuli.  
 
 ** John 15:9
 
@@ -2718,7 +2718,7 @@ Non vos me elegistis, sed ego elegi vos, et posui vos ut eatis, et fructum affer
 
 ** John 15:17
 
-Hæc mando vobis : ut diligatis invicem.  <div eID="gen32645" type="x-p"/>
+Hæc mando vobis : ut diligatis invicem.  
 
 ** John 15:18
 
@@ -2758,7 +2758,7 @@ Cum autem venerit Paraclitus, quem ego mittam vobis a Patre, Spiritum veritatis,
 
 ** John 15:27
 
-et vos testimonium perhibebitis, quia ab initio mecum estis.  <chapter eID="John.15"/> <div eID="gen32646" type="x-p"/>
+et vos testimonium perhibebitis, quia ab initio mecum estis.   
 
 * John 16
 
@@ -2776,7 +2776,7 @@ Et hæc facient vobis, quia non noverunt Patrem, neque me.
 
 ** John 16:4
 
-Sed hæc locutus sum vobis, ut cum venerit hora eorum, reminiscamini quia ego dixi vobis.  <div eID="gen32647" type="x-p"/>
+Sed hæc locutus sum vobis, ut cum venerit hora eorum, reminiscamini quia ego dixi vobis.  
 
 ** John 16:5
 
@@ -2820,7 +2820,7 @@ Ille me clarificabit, quia de meo accipiet, et annuntiabit vobis.
 
 ** John 16:15
 
-Omnia quæcumque habet Pater, mea sunt. Propterea dixi : quia de meo accipiet, et annuntiabit vobis.  <div eID="gen32648" type="x-p"/>
+Omnia quæcumque habet Pater, mea sunt. Propterea dixi : quia de meo accipiet, et annuntiabit vobis.  
 
 ** John 16:16
 
@@ -2856,7 +2856,7 @@ Et in illo die me non rogabitis quidquam. Amen, amen dico vobis : si quid petier
 
 ** John 16:24
 
-Usque modo non petistis quidquam in nomine meo : petite, et accipietis, ut gaudium vestrum sit plenum.  <div eID="gen32649" type="x-p"/>
+Usque modo non petistis quidquam in nomine meo : petite, et accipietis, ut gaudium vestrum sit plenum.  
 
 ** John 16:25
 
@@ -2892,7 +2892,7 @@ ecce venit hora, et jam venit, ut dispergamini unusquisque in propria, et me sol
 
 ** John 16:33
 
-Hæc locutus sum vobis, ut in me pacem habeatis. In mundo pressuram habebitis : sed confidite, ego vici mundum.  <chapter eID="John.16"/> <div eID="gen32650" type="x-p"/>
+Hæc locutus sum vobis, ut in me pacem habeatis. In mundo pressuram habebitis : sed confidite, ego vici mundum.   
 
 * John 17
 
@@ -2914,7 +2914,7 @@ Ego te clarificavi super terram : opus consummavi, quod dedisti mihi ut faciam :
 
 ** John 17:5
 
-et nunc clarifica me tu, Pater, apud temetipsum, claritate quam habui, priusquam mundus esset, apud te.  <div eID="gen32651" type="x-p"/>
+et nunc clarifica me tu, Pater, apud temetipsum, claritate quam habui, priusquam mundus esset, apud te.  
 
 ** John 17:6
 
@@ -2970,7 +2970,7 @@ Sicut tu me misisti in mundum, et ego misi eos in mundum :
 
 ** John 17:19
 
-et pro eis ego sanctifico meipsum : ut sint et ipsi sanctificati in veritate.  <div eID="gen32652" type="x-p"/>
+et pro eis ego sanctifico meipsum : ut sint et ipsi sanctificati in veritate.  
 
 ** John 17:20
 
@@ -2998,7 +2998,7 @@ Pater juste, mundus te non cognovit, ego autem te cognovi : et hi cognoverunt, q
 
 ** John 17:26
 
-Et notum feci eis nomen tuum, et notum faciam : ut dilectio, qua dilexisti me, in ipsis sit, et ego in ipsis.  <chapter eID="John.17"/> <div eID="gen32653" type="x-p"/>
+Et notum feci eis nomen tuum, et notum faciam : ut dilectio, qua dilexisti me, in ipsis sit, et ego in ipsis.   
 
 * John 18
 
@@ -3048,7 +3048,7 @@ Dixit ergo Jesus Petro : Mitte gladium tuum in vaginam. Calicem, quem dedit mihi
 
 ** John 18:12
 
-Cohors ergo, et tribunus, et ministri Judæorum comprehenderunt Jesum, et ligaverunt eum.  <div eID="gen32654" type="x-p"/>
+Cohors ergo, et tribunus, et ministri Judæorum comprehenderunt Jesum, et ligaverunt eum.  
 
 ** John 18:13
 
@@ -3056,7 +3056,7 @@ Et adduxerunt eum ad Annam primum : erat enim socer Caiphæ, qui erat pontifex a
 
 ** John 18:14
 
-Erat autem Caiphas, qui consilium dederat Judæis : Quia expedit unum hominem mori pro populo.  <div eID="gen32655" type="x-p"/>
+Erat autem Caiphas, qui consilium dederat Judæis : Quia expedit unum hominem mori pro populo.  
 
 ** John 18:15
 
@@ -3072,7 +3072,7 @@ Dicit ergo Petro ancilla ostiaria : Numquid et tu ex discipulis es hominis istiu
 
 ** John 18:18
 
-Stabant autem servi et ministri ad prunas, quia frigus erat, et calefaciebant se : erat autem cum eis et Petrus stans, et calefaciens se.  <div eID="gen32656" type="x-p"/>
+Stabant autem servi et ministri ad prunas, quia frigus erat, et calefaciebant se : erat autem cum eis et Petrus stans, et calefaciens se.  
 
 ** John 18:19
 
@@ -3096,7 +3096,7 @@ Respondit ei Jesus : Si male locutus sum, testimonium perhibe de malo : si autem
 
 ** John 18:24
 
-Et misit eum Annas ligatum ad Caipham pontificem.  <div eID="gen32657" type="x-p"/>
+Et misit eum Annas ligatum ad Caipham pontificem.  
 
 ** John 18:25
 
@@ -3108,7 +3108,7 @@ Dicit ei unus ex servis pontificis, cognatus ejus, cujus abscidit Petrus auricul
 
 ** John 18:27
 
-Iterum ergo negavit Petrus : et statim gallus cantavit.  <div eID="gen32658" type="x-p"/>
+Iterum ergo negavit Petrus : et statim gallus cantavit.  
 
 ** John 18:28
 
@@ -3160,7 +3160,7 @@ Est autem consuetudo vobis ut unum dimittam vobis in Pascha : vultis ergo dimitt
 
 ** John 18:40
 
-Clamaverunt ergo rursum omnes, dicentes : Non hunc, sed Barabbam. Erat autem Barabbas latro.  <chapter eID="John.18"/> <div eID="gen32659" type="x-p"/>
+Clamaverunt ergo rursum omnes, dicentes : Non hunc, sed Barabbam. Erat autem Barabbas latro.   
 
 * John 19
 
@@ -3186,7 +3186,7 @@ Exivit ergo iterum Pilatus foras, et dicit eis : Ecce adduco vobis eum foras, ut
 
 ** John 19:6
 
-Cum ergo vidissent eum pontifices et ministri, clamabant, dicentes : Crucifige, crucifige eum. Dicit eis Pilatus : Accipite eum vos, et crucifigite : ego enim non invenio in eo causam.  <div eID="gen32660" type="x-p"/>
+Cum ergo vidissent eum pontifices et ministri, clamabant, dicentes : Crucifige, crucifige eum. Dicit eis Pilatus : Accipite eum vos, et crucifigite : ego enim non invenio in eo causam.  
 
 ** John 19:7
 
@@ -3210,7 +3210,7 @@ Respondit Jesus : Non haberes potestatem adversum me ullam, nisi tibi datum esse
 
 ** John 19:12
 
-Et exinde quærebat Pilatus dimittere eum. Judæi autem clamabant dicentes : Si hunc dimittis, non es amicus Cæsaris. Omnis enim qui se regem facit, contradicit Cæsari.  <div eID="gen32661" type="x-p"/>
+Et exinde quærebat Pilatus dimittere eum. Judæi autem clamabant dicentes : Si hunc dimittis, non es amicus Cæsaris. Omnis enim qui se regem facit, contradicit Cæsari.  
 
 ** John 19:13
 
@@ -3226,7 +3226,7 @@ Illi autem clamabant : Tolle, tolle, crucifige eum. Dicit eis Pilatus : Regem ve
 
 ** John 19:16
 
-Tunc ergo tradidit eis illum ut crucifigeretur. Susceperunt autem Jesum, et eduxerunt.  <div eID="gen32662" type="x-p"/>
+Tunc ergo tradidit eis illum ut crucifigeretur. Susceperunt autem Jesum, et eduxerunt.  
 
 ** John 19:17
 
@@ -3258,7 +3258,7 @@ Milites ergo cum crucifixissent eum, acceperunt vestimenta ejus (et fecerunt qua
 
 ** John 19:24
 
-Dixerunt ergo ad invicem : Non scindamus eam, sed sortiamur de illa cujus sit. Ut Scriptura impleretur, dicens : Partiti sunt vestimenta mea sibi : et in vestem meam miserunt sortem. Et milites quidem hæc fecerunt.  <div eID="gen32663" type="x-p"/>
+Dixerunt ergo ad invicem : Non scindamus eam, sed sortiamur de illa cujus sit. Ut Scriptura impleretur, dicens : Partiti sunt vestimenta mea sibi : et in vestem meam miserunt sortem. Et milites quidem hæc fecerunt.  
 
 ** John 19:25
 
@@ -3282,7 +3282,7 @@ Vas ergo erat positum aceto plenum. Illi autem spongiam plenam aceto, hyssopo ci
 
 ** John 19:30
 
-Cum ergo accepisset Jesus acetum, dixit : Consummatum est. Et inclinato capite tradidit spiritum.  <div eID="gen32664" type="x-p"/>
+Cum ergo accepisset Jesus acetum, dixit : Consummatum est. Et inclinato capite tradidit spiritum.  
 
 ** John 19:31
 
@@ -3310,7 +3310,7 @@ Facta sunt enim hæc ut Scriptura impleretur : Os non comminuetis ex eo.
 
 ** John 19:37
 
-Et iterum alia Scriptura dicit : Videbunt in quem transfixerunt.  <div eID="gen32665" type="x-p"/>
+Et iterum alia Scriptura dicit : Videbunt in quem transfixerunt.  
 
 ** John 19:38
 
@@ -3330,7 +3330,7 @@ Erat autem in loco, ubi crucifixus est, hortus : et in horto monumentum novum, i
 
 ** John 19:42
 
-Ibi ergo propter parasceven Judæorum, quia juxta erat monumentum, posuerunt Jesum.  <chapter eID="John.19"/> <div eID="gen32666" type="x-p"/>
+Ibi ergo propter parasceven Judæorum, quia juxta erat monumentum, posuerunt Jesum.   
 
 * John 20
 
@@ -3340,7 +3340,7 @@ Una autem sabbati, Maria Magdalene venit mane, cum adhuc tenebræ essent, ad mon
 
 ** John 20:2
 
-Cucurrit ergo, et venit ad Simonem Petrum, et ad alium discipulum, quem amabat Jesus, et dicit illis : Tulerunt Dominum de monumento, et nescimus ubi posuerunt eum.  <div eID="gen32667" type="x-p"/>
+Cucurrit ergo, et venit ad Simonem Petrum, et ad alium discipulum, quem amabat Jesus, et dicit illis : Tulerunt Dominum de monumento, et nescimus ubi posuerunt eum.  
 
 ** John 20:3
 
@@ -3372,7 +3372,7 @@ nondum enim sciebant Scripturam, quia oportebat eum a mortuis resurgere.
 
 ** John 20:10
 
-Abierunt ergo iterum discipuli ad semetipsos.  <div eID="gen32668" type="x-p"/>
+Abierunt ergo iterum discipuli ad semetipsos.  
 
 ** John 20:11
 
@@ -3404,7 +3404,7 @@ Dicit ei Jesus : Noli me tangere, nondum enim ascendi ad Patrem meum : vade aute
 
 ** John 20:18
 
-Venit Maria Magdalene annuntians discipulis : Quia vidi Dominum, et hæc dixit mihi.  <div eID="gen32669" type="x-p"/>
+Venit Maria Magdalene annuntians discipulis : Quia vidi Dominum, et hæc dixit mihi.  
 
 ** John 20:19
 
@@ -3432,7 +3432,7 @@ Thomas autem unus ex duodecim, qui dicitur Didymus, non erat cum eis quando veni
 
 ** John 20:25
 
-Dixerunt ergo ei alii discipuli : Vidimus Dominum. Ille autem dixit eis : Nisi videro in manibus ejus fixuram clavorum, et mittam digitum meum in locum clavorum, et mittam manum meam in latus ejus, non credam.  <div eID="gen32670" type="x-p"/>
+Dixerunt ergo ei alii discipuli : Vidimus Dominum. Ille autem dixit eis : Nisi videro in manibus ejus fixuram clavorum, et mittam digitum meum in locum clavorum, et mittam manum meam in latus ejus, non credam.  
 
 ** John 20:26
 
@@ -3456,7 +3456,7 @@ Multa quidem et alia signa fecit Jesus in conspectu discipulorum suorum, quæ no
 
 ** John 20:31
 
-Hæc autem scripta sunt ut credatis, quia Jesus est Christus Filius Dei : et ut credentes, vitam habeatis in nomine ejus.  <chapter eID="John.20"/> <div eID="gen32671" type="x-p"/>
+Hæc autem scripta sunt ut credatis, quia Jesus est Christus Filius Dei : et ut credentes, vitam habeatis in nomine ejus.   
 
 * John 21
 
@@ -3514,7 +3514,7 @@ Et venit Jesus, et accipit panem, et dat eis, et piscem similiter.
 
 ** John 21:14
 
-Hoc jam tertio manifestatus est Jesus discipulis suis cum resurrexisset a mortuis.  <div eID="gen32672" type="x-p"/>
+Hoc jam tertio manifestatus est Jesus discipulis suis cum resurrexisset a mortuis.  
 
 ** John 21:15
 
@@ -3534,7 +3534,7 @@ Amen, amen dico tibi : cum esses junior, cingebas te, et ambulabas ubi volebas :
 
 ** John 21:19
 
-Hoc autem dixit significans qua morte clarificaturus esset Deum. Et cum hoc dixisset, dicit ei : Sequere me.  <div eID="gen32673" type="x-p"/>
+Hoc autem dixit significans qua morte clarificaturus esset Deum. Et cum hoc dixisset, dicit ei : Sequere me.  
 
 ** John 21:20
 
@@ -3558,5 +3558,5 @@ Hic est discipulus ille qui testimonium perhibet de his, et scripsit hæc : et s
 
 ** John 21:25
 
-Sunt autem et alia multa quæ fecit Jesus : quæ si scribantur per singula, nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros.  <div eID="gen32674" type="x-p"/> <chapter eID="John.21"/> <div eID="gen32533" osisID="John" type="book"/>
+Sunt autem et alia multa quæ fecit Jesus : quæ si scribantur per singula, nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros.    
 

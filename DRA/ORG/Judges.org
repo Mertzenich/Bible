@@ -142,7 +142,7 @@ And he dwelt in the mountain Hares, that is, of potsherds, in Aialon and Salebim
 
 *** Judges 1:36
 
-And the border of the Amorrhite was from the ascent of the scorpion, the rock, and the higher places. <chapter eID="gen6723" osisID="Judg.1"/>
+And the border of the Amorrhite was from the ascent of the scorpion, the rock, and the higher places. 
 
 ** Judges 2
 
@@ -236,7 +236,7 @@ That through them I may try Israel, whether they will keep the way of the Lord, 
 
 *** Judges 2:23
 
-The Lord therefore left all these nations, and would not quickly destroy them, neither did he deliver them into the hands of Josue. <chapter eID="gen6760" osisID="Judg.2"/>
+The Lord therefore left all these nations, and would not quickly destroy them, neither did he deliver them into the hands of Josue. 
 
 ** Judges 3
 
@@ -362,7 +362,7 @@ And Moab was humbled that day under the hand of Israel: and the land rested eigh
 
 *** Judges 3:31
 
-After him was Samgar, the son of Anath, who slew of the Philistines six hundred men with a ploughshare: and he also defended Israel. <chapter eID="gen6784" osisID="Judg.3"/>
+After him was Samgar, the son of Anath, who slew of the Philistines six hundred men with a ploughshare: and he also defended Israel. 
 
 ** Judges 4
 
@@ -460,7 +460,7 @@ So God that day humbled Jabin, the king of Chanaan, before the children of Israe
 
 *** Judges 4:24
 
-Who grew daily stronger, and with a mighty hand overpowered Jabin, king of Chanaan, till they quite destroyed him. <chapter eID="gen6816" osisID="Judg.4"/>
+Who grew daily stronger, and with a mighty hand overpowered Jabin, king of Chanaan, till they quite destroyed him. 
 
 ** Judges 5
 
@@ -590,7 +590,7 @@ So let all thy enemies perish, O Lord: but let them that love thee shine, as the
 
 *** Judges 5:32
 
-And the land rested for forty years. <chapter eID="gen6841" osisID="Judg.5"/>
+And the land rested for forty years. 
 
 ** Judges 6
 
@@ -752,7 +752,7 @@ And he said again to God: Let not thy wrath be kindled against me, if I try once
 
 *** Judges 6:40
 
-And God did that night as he had requested: and it was dry on the fleece only, and there was dew on all the ground. <chapter eID="gen6874" osisID="Judg.6"/>
+And God did that night as he had requested: and it was dry on the fleece only, and there was dew on all the ground. 
 
 ** Judges 7
 
@@ -854,7 +854,7 @@ And Gedeon sent messengers into all Mount Ephraim, saying: Come down to meet Mad
 
 *** Judges 7:25
 
-And having taken two men of Madian, Oreb and Zeb: Oreb they slew in the rock of Oreb, and Zeb in the winepress of Zeb. And they pursued Madian, carrying the heads of Oreb and Zeb to Gedeon, beyond the waters of the Jordan. <chapter eID="gen6915" osisID="Judg.7"/>
+And having taken two men of Madian, Oreb and Zeb: Oreb they slew in the rock of Oreb, and Zeb in the winepress of Zeb. And they pursued Madian, carrying the heads of Oreb and Zeb to Gedeon, beyond the waters of the Jordan. 
 
 ** Judges 8
 
@@ -996,7 +996,7 @@ And they remembered not the Lord their God, who delivered them out of the hands 
 
 *** Judges 8:35
 
-Neither did they shew mercy to the house of Jerobaal Gedeon, according to all the good things he had done to Israel. <chapter eID="gen6941" osisID="Judg.8"/>
+Neither did they shew mercy to the house of Jerobaal Gedeon, according to all the good things he had done to Israel. 
 
 ** Judges 9
 
@@ -1226,7 +1226,7 @@ And God repaid the evil that Abimelech had done against his father, killing his 
 
 *** Judges 9:57
 
-The Sichemites also were rewarded for what they had done, and the curse of Joatham, the son of Jerobaal, came upon them. <chapter eID="gen6977" osisID="Judg.9"/>
+The Sichemites also were rewarded for what they had done, and the curse of Joatham, the son of Jerobaal, came upon them. 
 
 ** Judges 10
 
@@ -1300,7 +1300,7 @@ And the children of Ammon shouting together, pitched their tents in Galaad: agai
 
 *** Judges 10:18
 
-And the princes of Galaad said one to another: Whosoever of us shall first begin to fight against the children of Ammon, he shall be the leader of the people of Galaad. <chapter eID="gen7035" osisID="Judg.10"/>
+And the princes of Galaad said one to another: Whosoever of us shall first begin to fight against the children of Ammon, he shall be the leader of the people of Galaad. 
 
 ** Judges 11
 
@@ -1462,7 +1462,7 @@ And the two months being expired, she returned to her father, and he did to her 
 
 *** Judges 11:40
 
-That, from year to year, the daughters of Israel assemble together, and lament the daughter of Jephte the Galaadite, for four days. <chapter eID="gen7054" osisID="Judg.11"/>
+That, from year to year, the daughters of Israel assemble together, and lament the daughter of Jephte the Galaadite, for four days. 
 
 ** Judges 12
 
@@ -1524,7 +1524,7 @@ And he had forty sons, and of them thirty grandsons, mounted upon seventy ass co
 
 *** Judges 12:15
 
-And he died, and was buried in Pharathon, in the land of Ephraim, in the mount of Amalech. <chapter eID="gen7095" osisID="Judg.12"/>
+And he died, and was buried in Pharathon, in the land of Ephraim, in the mount of Amalech. 
 
 ** Judges 13
 
@@ -1626,7 +1626,7 @@ And she bore a son, and called his name Samson. And the child grew, and the Lord
 
 *** Judges 13:25
 
-And the Spirit of the Lord began to be with him in the camp of Dan, between Saraa and Esthaol. <chapter eID="gen7111" osisID="Judg.13"/>
+And the Spirit of the Lord began to be with him in the camp of Dan, between Saraa and Esthaol. 
 
 ** Judges 14
 
@@ -1708,7 +1708,7 @@ And the Spirit of the Lord came upon him, and he went down to Ascalon, and slew 
 
 *** Judges 14:20
 
-But his wife took one of his friends and bridal companions for her husband. <chapter eID="gen7137" osisID="Judg.14"/>
+But his wife took one of his friends and bridal companions for her husband. 
 
 ** Judges 15
 
@@ -1790,7 +1790,7 @@ Then the Lord opened a great tooth in the jaw of the ass and waters issued out o
 
 *** Judges 15:20
 
-And he judged Israel, in the days of the Philistines, twenty years. <chapter eID="gen7158" osisID="Judg.15"/>
+And he judged Israel, in the days of the Philistines, twenty years. 
 
 ** Judges 16
 
@@ -1916,7 +1916,7 @@ He said: Let me die with the Philistines. And when he had strongly shook the pil
 
 *** Judges 16:31
 
-And his brethren and all his kindred, going down took his body, and buried it between Saraa and Esthaol, in the buryingplace of his father Manue: and he judged Israel twenty years. <chapter eID="gen7179" osisID="Judg.16"/>
+And his brethren and all his kindred, going down took his body, and buried it between Saraa and Esthaol, in the buryingplace of his father Manue: and he judged Israel twenty years. 
 
 ** Judges 17
 
@@ -1970,7 +1970,7 @@ And Michas filled his hand, and had the young man with him for his priest, sayin
 
 *** Judges 17:13
 
-Now I know God will do me good, since I have a priest of the race of the Levites. <chapter eID="gen7211" osisID="Judg.17"/>
+Now I know God will do me good, since I have a priest of the race of the Levites. 
 
 ** Judges 18
 
@@ -2096,7 +2096,7 @@ And they set up to themselves the graven idol, and Jonathan the son of Gersam, t
 
 *** Judges 18:31
 
-And the idol of Michas remained with them all the time that the house of God was in Silo. In those days there was no king in Israel. <chapter eID="gen7225" osisID="Judg.18"/>
+And the idol of Michas remained with them all the time that the house of God was in Silo. In those days there was no king in Israel. 
 
 ** Judges 19
 
@@ -2218,7 +2218,7 @@ And when he was come home, he took a sword, and divided the dead body of his wif
 
 *** Judges 19:30
 
-And when every one had seen this, they all cried out: There was never such a thing done in Israel, from the day that our fathers came up out of Egypt, until this day: give sentence, and decree in common what ought to be done. <chapter eID="gen7257" osisID="Judg.19"/>
+And when every one had seen this, they all cried out: There was never such a thing done in Israel, from the day that our fathers came up out of Egypt, until this day: give sentence, and decree in common what ought to be done. 
 
 ** Judges 20
 
@@ -2412,7 +2412,7 @@ And there remained of all the number of Benjamin only six hundred men that were 
 
 *** Judges 20:48
 
-But the children of Israel returning, put all the remains of the city to the sword, both men and beasts, and all the cities and villages of Benjamin were consumed with devouring flames. <chapter eID="gen7288" osisID="Judg.20"/>
+But the children of Israel returning, put all the remains of the city to the sword, both men and beasts, and all the cities and villages of Benjamin were consumed with devouring flames. 
 
 ** Judges 21
 
@@ -2510,4 +2510,4 @@ And the children of Benjamin did as they had been commanded: and, according to t
 
 *** Judges 21:24
 
-The children of Israel also returned by their tribes, and families, to their dwellings. In those days there was no king in Israel: but every one did that which seemed right to himself. <chapter eID="gen7337" osisID="Judg.21"/> <div eID="gen6722" osisID="Judg" type="book"/>
+The children of Israel also returned by their tribes, and families, to their dwellings. In those days there was no king in Israel: but every one did that which seemed right to himself.  

@@ -86,7 +86,7 @@ And said: Naked came I out of my mother's womb, and naked shall I return thither
 
 *** Job 1:22
 
-In all these things Job sinned not by his lips, nor spoke he any foolish thing against God. <chapter eID="gen14106" osisID="Job.1"/>
+In all these things Job sinned not by his lips, nor spoke he any foolish thing against God. 
 
 ** Job 2
 
@@ -140,7 +140,7 @@ And when they had lifted up their eyes afar off, they knew him not, and crying o
 
 *** Job 2:13
 
-And they sat with him on the ground seven day and seven nights and no man spoke to him a word: for they saw that his grief was very great. <chapter eID="gen14129" osisID="Job.2"/>
+And they sat with him on the ground seven day and seven nights and no man spoke to him a word: for they saw that his grief was very great. 
 
 ** Job 3
 
@@ -246,7 +246,7 @@ For the fear which I feared, hath come upon me: and that which I was afraid of, 
 
 *** Job 3:26
 
-Have I not dissembled? have I not kept silence? have I not been quiet? and indignation is come upon me. <chapter eID="gen14143" osisID="Job.3"/>
+Have I not dissembled? have I not kept silence? have I not been quiet? and indignation is come upon me. 
 
 ** Job 4
 
@@ -332,7 +332,7 @@ From morning till evening they shall be cut down: and because no one understande
 
 *** Job 4:21
 
-And they that shall be left, shall be taken away from them: they shall die, and not in wisdom. <chapter eID="gen14170" osisID="Job.4"/>
+And they that shall be left, shall be taken away from them: they shall die, and not in wisdom. 
 
 ** Job 5
 
@@ -442,7 +442,7 @@ Thou shalt enter into the grave in abundance, as a heap of wheat is brought in i
 
 *** Job 5:27
 
-Behold, this is even so, as we have searched out: which thou having heard, consider it thoroughly in thy mind. <chapter eID="gen14192" osisID="Job.5"/>
+Behold, this is even so, as we have searched out: which thou having heard, consider it thoroughly in thy mind. 
 
 ** Job 6
 
@@ -564,7 +564,7 @@ Answer, I beseech you, without contention: and speaking that which is just, judg
 
 *** Job 6:30
 
-And you shall not find iniquity in my tongue, neither shall folly sound in my mouth. <chapter eID="gen14220" osisID="Job.6"/>
+And you shall not find iniquity in my tongue, neither shall folly sound in my mouth. 
 
 ** Job 7
 
@@ -650,7 +650,7 @@ I have sinned: what shall I do to thee, O keeper of men? why hast thou set me op
 
 *** Job 7:21
 
-Why dost thou not remove my sin, and why dost thou not take away my iniquity? Behold now I shall sleep in the dust: and if thou seek me in the morning, I shall not be. <chapter eID="gen14251" osisID="Job.7"/>
+Why dost thou not remove my sin, and why dost thou not take away my iniquity? Behold now I shall sleep in the dust: and if thou seek me in the morning, I shall not be. 
 
 ** Job 8
 
@@ -740,7 +740,7 @@ Until thy mouth be filled with laughter, and thy lips with rejoicing.
 
 *** Job 8:22
 
-They that hate thee, shall be clothed with confusion: and the dwelling of the wicked shall not stand. <chapter eID="gen14273" osisID="Job.8"/>
+They that hate thee, shall be clothed with confusion: and the dwelling of the wicked shall not stand. 
 
 ** Job 9
 
@@ -882,7 +882,7 @@ Let him take his rod away from me, and let not his fear terrify me.
 
 *** Job 9:35
 
-I will speak, and will not fear him: for I cannot answer while I am in fear. <chapter eID="gen14296" osisID="Job.9"/>
+I will speak, and will not fear him: for I cannot answer while I am in fear. 
 
 ** Job 10
 
@@ -972,7 +972,7 @@ Before I go and return no more, to a land that is dark and covered with the mist
 
 *** Job 10:22
 
-A land of misery and darkness, where the shadow of death, and no order, but everlasting horror dwelleth. <chapter eID="gen14332" osisID="Job.10"/>
+A land of misery and darkness, where the shadow of death, and no order, but everlasting horror dwelleth. 
 
 ** Job 11
 
@@ -1054,7 +1054,7 @@ Thou shalt rest, and there shall be none to make thee afraid: and many shall ent
 
 *** Job 11:20
 
-But the eyes of the wicked shall decay, and the way to escape shall fail them, and their hope the abomination of the soul. <chapter eID="gen14355" osisID="Job.11"/>
+But the eyes of the wicked shall decay, and the way to escape shall fail them, and their hope the abomination of the soul. 
 
 ** Job 12
 
@@ -1156,7 +1156,7 @@ He changeth the heart of the princes of the people of the earth, and deceiveth t
 
 *** Job 12:25
 
-They shall grope as in the dark, and not in the light, and he shall make them stagger like men that are drunk. <chapter eID="gen14376" osisID="Job.12"/>
+They shall grope as in the dark, and not in the light, and he shall make them stagger like men that are drunk. 
 
 ** Job 13
 
@@ -1270,7 +1270,7 @@ Thou hast put my feet in the stocks, and hast observed all my paths, and hast co
 
 *** Job 13:28
 
-Who am to be consumed as rottenness, and as a garment that is motheaten. <chapter eID="gen14402" osisID="Job.13"/>
+Who am to be consumed as rottenness, and as a garment that is motheaten. 
 
 ** Job 14
 
@@ -1360,7 +1360,7 @@ Whether his children come to honour or dishonour, he shall not understand.
 
 *** Job 14:22
 
-But yet his flesh, while he shall live, shall have pain, and his soul shall mourn over him. <chapter eID="gen14431" osisID="Job.14"/>
+But yet his flesh, while he shall live, shall have pain, and his soul shall mourn over him. 
 
 ** Job 15
 
@@ -1502,7 +1502,7 @@ For the congregation of the hypocrite is barren, and fire shall devour their tab
 
 *** Job 15:35
 
-He hath conceived sorrow, and hath brought forth iniquity, and his womb prepareth deceits. <chapter eID="gen14454" osisID="Job.15"/>
+He hath conceived sorrow, and hath brought forth iniquity, and his womb prepareth deceits. 
 
 ** Job 16
 
@@ -1596,7 +1596,7 @@ And O that a man might so be judged with God, as the son of man is judged with h
 
 *** Job 16:23
 
-For behold short years pass away, and I am walking in a path by which I shall not return. <chapter eID="gen14490" osisID="Job.16"/>
+For behold short years pass away, and I am walking in a path by which I shall not return. 
 
 ** Job 17
 
@@ -1662,7 +1662,7 @@ Where is now then my expectation, and who considereth my patience?
 
 *** Job 17:16
 
-All that I have shall go down into the deepest pit: thinkest thou that there at least I shall have rest? <chapter eID="gen14514" osisID="Job.17"/>
+All that I have shall go down into the deepest pit: thinkest thou that there at least I shall have rest? 
 
 ** Job 18
 
@@ -1748,7 +1748,7 @@ They that come after him shall be astonished at his day, and horror shall fall u
 
 *** Job 18:21
 
-These then are the tabernacles of the wicked, and this the place of him that knoweth not God. <chapter eID="gen14531" osisID="Job.18"/>
+These then are the tabernacles of the wicked, and this the place of him that knoweth not God. 
 
 ** Job 19
 
@@ -1866,7 +1866,7 @@ Why then do you say now: Let us persecute him, and let us find occasion of word 
 
 *** Job 19:29
 
-Flee then from the face of the sword, for the sword is the revenger of iniquities: and know ye that there is a judgment. <chapter eID="gen14553" osisID="Job.19"/>
+Flee then from the face of the sword, for the sword is the revenger of iniquities: and know ye that there is a judgment. 
 
 ** Job 20
 
@@ -1984,7 +1984,7 @@ The offspring of his house shall be exposed, he shall be pulled down in the day 
 
 *** Job 20:29
 
-This is the portion of a wicked man from God, and the inheritance of his doings from the Lord. <chapter eID="gen14583" osisID="Job.20"/>
+This is the portion of a wicked man from God, and the inheritance of his doings from the Lord. 
 
 ** Job 21
 
@@ -2122,7 +2122,7 @@ He hath been acceptable to the gravel of Cocytus, and he shall draw every man af
 
 *** Job 21:34
 
-How then do ye comfort me in vain, whereas your answer is shewn to be repugnant to truth? <chapter eID="gen14613" osisID="Job.21"/>
+How then do ye comfort me in vain, whereas your answer is shewn to be repugnant to truth? 
 
 ** Job 22
 
@@ -2244,7 +2244,7 @@ For he that hath been humbled, shall be in glory: and he that shall bow down his
 
 *** Job 22:30
 
-The innocent shall be saved, and he shall be saved by the cleanness of his hands. <chapter eID="gen14648" osisID="Job.22"/>
+The innocent shall be saved, and he shall be saved by the cleanness of his hands. 
 
 ** Job 23
 
@@ -2314,7 +2314,7 @@ God hath softened my heart, and the Almighty hath troubled me.
 
 *** Job 23:17
 
-For I have not perished because of the darkness that hangs over me, neither hath the mist covered my face. <chapter eID="gen14679" osisID="Job.23"/>
+For I have not perished because of the darkness that hangs over me, neither hath the mist covered my face. 
 
 ** Job 24
 
@@ -2416,7 +2416,7 @@ They are lifted up for a little while and shall not stand, and shall be brought 
 
 *** Job 24:25
 
-And if it be not so, who can convince me that I have lied, and set my words before God? <chapter eID="gen14697" osisID="Job.24"/>
+And if it be not so, who can convince me that I have lied, and set my words before God? 
 
 ** Job 25
 
@@ -2442,7 +2442,7 @@ Behold even the moon doth not shine, and the stars are not pure in his sight.
 
 *** Job 25:6
 
-How much more is man than rottenness and the son of man than a worm? <chapter eID="gen14723" osisID="Job.25"/>
+How much more is man than rottenness and the son of man than a worm? 
 
 ** Job 26
 
@@ -2500,7 +2500,7 @@ His spirit hath adorned the heavens, and his obstetric hand brought forth the wi
 
 *** Job 26:14
 
-Lo, these things are said in part of his ways: and seeing we have heard scarce a little drop of his word, who shall be able to behold the thunder of his greatness? <chapter eID="gen14730" osisID="Job.26"/>
+Lo, these things are said in part of his ways: and seeing we have heard scarce a little drop of his word, who shall be able to behold the thunder of his greatness? 
 
 ** Job 27
 
@@ -2594,7 +2594,7 @@ And he shall cast upon him, and shall not spare: out of his hand he would willin
 
 *** Job 27:23
 
-He shall clasp his hands upon him, and shall hiss at him, beholding his place. <chapter eID="gen14745" osisID="Job.27"/>
+He shall clasp his hands upon him, and shall hiss at him, beholding his place. 
 
 ** Job 28
 
@@ -2708,7 +2708,7 @@ Then he saw it, and declared, and prepared, and searched it.
 
 *** Job 28:28
 
-And he said to man: Behold the fear of the Lord, that is wisdom: and to depart from evil, is understanding. <chapter eID="gen14769" osisID="Job.28"/>
+And he said to man: Behold the fear of the Lord, that is wisdom: and to depart from evil, is understanding. 
 
 ** Job 29
 
@@ -2810,7 +2810,7 @@ If at any time I laughed on them, they believed not, and the light of my counten
 
 *** Job 29:25
 
-If I had a mind to go to them, I sat first, and when I sat as a king, with his army standing about him, yet I was a comforter of them that mourned. <chapter eID="gen14798" osisID="Job.29"/>
+If I had a mind to go to them, I sat first, and when I sat as a king, with his army standing about him, yet I was a comforter of them that mourned. 
 
 ** Job 30
 
@@ -2936,7 +2936,7 @@ My skin is become black upon me, and my bones are dried up with heat.
 
 *** Job 30:31
 
-My harp is turned to mourning, and my organ into the voice of those that weep. <chapter eID="gen14824" osisID="Job.30"/>
+My harp is turned to mourning, and my organ into the voice of those that weep. 
 
 ** Job 31
 
@@ -3098,7 +3098,7 @@ If I have eaten the fruits thereof without money, and have afflicted the son of 
 
 *** Job 31:40
 
-Let thistles grow up to me instead of wheat, and thorns instead of barley. <chapter eID="gen14856" osisID="Job.31"/>
+Let thistles grow up to me instead of wheat, and thorns instead of barley. 
 
 ** Job 32
 
@@ -3188,7 +3188,7 @@ I will not accept the person of man, and I will not level God with man.
 
 *** Job 32:22
 
-For I know not how long I shall continue, and whether after a while my Maker may take me away. <chapter eID="gen14897" osisID="Job.32"/>
+For I know not how long I shall continue, and whether after a while my Maker may take me away. 
 
 ** Job 33
 
@@ -3322,7 +3322,7 @@ But if thou hast any thing to say, answer me, speak: for I would have thee to ap
 
 *** Job 33:33
 
-And if thou have not, hear me: hold thy peace, and I will teach thee wisdom. <chapter eID="gen14920" osisID="Job.33"/>
+And if thou have not, hear me: hold thy peace, and I will teach thee wisdom. 
 
 ** Job 34
 
@@ -3472,7 +3472,7 @@ My father, let Job be tried even to the end: cease not from the man of iniquity.
 
 *** Job 34:37
 
-Because he addeth blasphemy upon his sins, let him be tied fast in the mean time amongst us: and then let him provoke God to judgment with his speeches. <chapter eID="gen14954" osisID="Job.34"/>
+Because he addeth blasphemy upon his sins, let him be tied fast in the mean time amongst us: and then let him provoke God to judgment with his speeches. 
 
 ** Job 35
 
@@ -3538,7 +3538,7 @@ For he doth not now bring on his fury, neither doth he revenge wickedness exceed
 
 *** Job 35:16
 
-Therefore Job openeth his mouth in vain, and multiplieth words without knowledge. <chapter eID="gen14992" osisID="Job.35"/>
+Therefore Job openeth his mouth in vain, and multiplieth words without knowledge. 
 
 ** Job 36
 
@@ -3672,7 +3672,7 @@ In his hands he hideth the light, and commandeth it to come again.
 
 *** Job 36:33
 
-He sheweth his friend concerning it, that it is his possession, and that he may come up to it. <chapter eID="gen15009" osisID="Job.36"/>
+He sheweth his friend concerning it, that it is his possession, and that he may come up to it. 
 
 ** Job 37
 
@@ -3770,7 +3770,7 @@ We cannot find him worthily: he is great in strength, and in judgment, and in ju
 
 *** Job 37:24
 
-Therefore men shall fear him, and all that seem to themselves to be wise, shall not dare to behold him. <chapter eID="gen15043" osisID="Job.37"/>
+Therefore men shall fear him, and all that seem to themselves to be wise, shall not dare to behold him. 
 
 ** Job 38
 
@@ -3936,7 +3936,7 @@ When they couch in the dens and lie in wait in holes?
 
 *** Job 38:41
 
-Who provideth food for the raven, when her young ones cry to God, wandering about, because they have no meat? <chapter eID="gen15068" osisID="Job.38"/>
+Who provideth food for the raven, when her young ones cry to God, wandering about, because they have no meat? 
 
 ** Job 39
 
@@ -4078,7 +4078,7 @@ What can I answer, who hath spoken inconsiderately? I will lay my hand upon my m
 
 *** Job 39:35
 
-One thing I have spoken, which I wish I had not said: and another, to which I will add no more. <chapter eID="gen15110" osisID="Job.39"/>
+One thing I have spoken, which I wish I had not said: and another, to which I will add no more. 
 
 ** Job 40
 
@@ -4192,7 +4192,7 @@ Lay thy hand upon him: remember the battle, and speak no more.
 
 *** Job 40:28
 
-Behold his hope shall fail him, and in the sight of all he shall be cast down. <chapter eID="gen15146" osisID="Job.40"/>
+Behold his hope shall fail him, and in the sight of all he shall be cast down. 
 
 ** Job 41
 
@@ -4294,7 +4294,7 @@ There is no power upon earth that can be compared with him who was made to fear 
 
 *** Job 41:25
 
-He beholdeth every high thing, he is king over all the children of pride. <chapter eID="gen15175" osisID="Job.41"/>
+He beholdeth every high thing, he is king over all the children of pride. 
 
 ** Job 42
 
@@ -4360,4 +4360,4 @@ And there were not found in all the earth women so beautiful as the daughters of
 
 *** Job 42:16
 
-And Job lived after these things, a hundred and forty years, and he saw his children, and his children's children, unto the fourth generation, and he died an old man, and full of days. <chapter eID="gen15201" osisID="Job.42"/> <div eID="gen14105" osisID="Job" type="book"/>
+And Job lived after these things, a hundred and forty years, and he saw his children, and his children's children, unto the fourth generation, and he died an old man, and full of days.  

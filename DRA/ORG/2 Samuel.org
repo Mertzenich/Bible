@@ -106,7 +106,7 @@ I grieve for thee, my brother Jonathan: exceeding beautiful, and amiable to me a
 
 *** II Samuel 1:27
 
-How are the valiant fallen, and the weapons of war perished? <chapter eID="gen8296" osisID="2Sam.1"/>
+How are the valiant fallen, and the weapons of war perished? 
 
 ** II Samuel 2
 
@@ -236,7 +236,7 @@ But the servants of David had killed of Benjamin, and of the men that were with 
 
 *** II Samuel 2:32
 
-And they took Asael, and buried him in the sepulchre of his father in Bethlehem and Joab, and the men that were with him, marched all the night, and they came to Hebron at break of day. <chapter eID="gen8324" osisID="2Sam.2"/>
+And they took Asael, and buried him in the sepulchre of his father in Bethlehem and Joab, and the men that were with him, marched all the night, and they came to Hebron at break of day. 
 
 ** II Samuel 3
 
@@ -394,7 +394,7 @@ The king also said to his servants: Do you not know that a prince and a great ma
 
 *** II Samuel 3:39
 
-But I as yet am tender, though anointed king. And these men the sons of Sarvia are too hard for me: the Lord reward him that doth evil according to his wickedness. <chapter eID="gen8357" osisID="2Sam.3"/>
+But I as yet am tender, though anointed king. And these men the sons of Sarvia are too hard for me: the Lord reward him that doth evil according to his wickedness. 
 
 ** II Samuel 4
 
@@ -444,7 +444,7 @@ How much more now when wicked men have slain an innocent man in his own house, u
 
 *** II Samuel 4:12
 
-And David commanded his servants and they slew them: and cutting off their hands and feet, hanged them up over the pool in Hebron: but the head of Isboseth they took and buried in the sepulchre of Abner in Hebron. <chapter eID="gen8397" osisID="2Sam.4"/>
+And David commanded his servants and they slew them: and cutting off their hands and feet, hanged them up over the pool in Hebron: but the head of Isboseth they took and buried in the sepulchre of Abner in Hebron. 
 
 ** II Samuel 5
 
@@ -546,7 +546,7 @@ And when thou shalt hear the sound of one going in the tops of the pear trees, t
 
 *** II Samuel 5:25
 
-And David did as the Lord had commanded him, and he smote the Philistines from Gabaa until thou come to Gezer. <chapter eID="gen8410" osisID="2Sam.5"/>
+And David did as the Lord had commanded him, and he smote the Philistines from Gabaa until thou come to Gezer. 
 
 ** II Samuel 6
 
@@ -640,7 +640,7 @@ I will both play and make myself meaner than I have done: and I will be little i
 
 *** II Samuel 6:23
 
-Therefore Michol the daughter of Saul had no child to the day of her death. <chapter eID="gen8436" osisID="2Sam.6"/>
+Therefore Michol the daughter of Saul had no child to the day of her death. 
 
 ** II Samuel 7
 
@@ -758,7 +758,7 @@ And now, O Lord God, thou art God, and thy words shall be true: for thou hast sp
 
 *** II Samuel 7:29
 
-And now begin, and bless the house of thy servant, that it may endure for ever before thee: because thou, O Lord God, hast spoken it, and with thy blessing let the house of thy servant be blessed for ever. <chapter eID="gen8460" osisID="2Sam.7"/>
+And now begin, and bless the house of thy servant, that it may endure for ever before thee: because thou, O Lord God, hast spoken it, and with thy blessing let the house of thy servant be blessed for ever. 
 
 ** II Samuel 8
 
@@ -832,7 +832,7 @@ And Sadoc the son of Achitob, and Achimelech the son of Abiathar, were the pries
 
 *** II Samuel 8:18
 
-And Banaias the son of Joiada was over the Cerethi and Phelethi: and the sons of David were the princes. <chapter eID="gen8490" osisID="2Sam.8"/>
+And Banaias the son of Joiada was over the Cerethi and Phelethi: and the sons of David were the princes. 
 
 ** II Samuel 9
 
@@ -886,7 +886,7 @@ And Miphiboseth had a young son whose name was Micha: and all that kindred of th
 
 *** II Samuel 9:13
 
-But Miphiboseth dwelt in Jerusalem: because he ate always of the king's table: and he was lame of both feet. <chapter eID="gen8509" osisID="2Sam.9"/>
+But Miphiboseth dwelt in Jerusalem: because he ate always of the king's table: and he was lame of both feet. 
 
 ** II Samuel 10
 
@@ -964,7 +964,7 @@ And the Syrians fled before Israel, and David slew of the Syrians the men of sev
 
 *** II Samuel 10:19
 
-And all the kings that were auxiliaries of Adarezer, seeing themselves overcome by Israel, were afraid and fled away, eight and fifty thousand men before Israel. And they made peace with Israel: and served them, and all the Syrians were afraid to help the children of Ammon any more. <chapter eID="gen8523" osisID="2Sam.10"/>
+And all the kings that were auxiliaries of Adarezer, seeing themselves overcome by Israel, were afraid and fled away, eight and fifty thousand men before Israel. And they made peace with Israel: and served them, and all the Syrians were afraid to help the children of Ammon any more. 
 
 ** II Samuel 11
 
@@ -1074,7 +1074,7 @@ And the wife of Urias heard that Urias her husband was dead, and she mourned for
 
 *** II Samuel 11:27
 
-And the mourning being over, David sent and brought her into his house, and she became his wife, and she bore him a son: and this thing which David had done, was displeasing to the Lord. <chapter eID="gen8543" osisID="2Sam.11"/>
+And the mourning being over, David sent and brought her into his house, and she became his wife, and she bore him a son: and this thing which David had done, was displeasing to the Lord. 
 
 ** II Samuel 12
 
@@ -1200,7 +1200,7 @@ And he took the crown of their king from his head, the weight of which was a tal
 
 *** II Samuel 12:31
 
-And bringing forth the people thereof he sawed them, and drove over them chariots armed with iron: and divided them with knives, and made them pass through brickkilns: so did he to all the cities of the children of Ammon: and David returned, with all the army to Jerusalem. <chapter eID="gen8571" osisID="2Sam.12"/>
+And bringing forth the people thereof he sawed them, and drove over them chariots armed with iron: and divided them with knives, and made them pass through brickkilns: so did he to all the cities of the children of Ammon: and David returned, with all the army to Jerusalem. 
 
 ** II Samuel 13
 
@@ -1354,7 +1354,7 @@ But Absalom fled, and went to Tholomai the son of Ammiud the king of Gessur. And
 
 *** II Samuel 13:38
 
-And Absalom after he was fled, and come into Gessur, was there three years. And king David ceased to pursue after Absalom, because he was comforted concerning the death of Ammon. <chapter eID="gen8603" osisID="2Sam.13"/>
+And Absalom after he was fled, and come into Gessur, was there three years. And king David ceased to pursue after Absalom, because he was comforted concerning the death of Ammon. 
 
 *** II Samuel 13:39
 
@@ -1492,7 +1492,7 @@ And Absalom answered Joab: I sent to thee beseeching thee to come to me, that I 
 
 *** II Samuel 14:33
 
-So Joab going in to the king, told him all: and Absalom was called for, and, he went in to the king: and prostrated himself on the ground before him: and the king kissed Absalom. <chapter eID="gen8642" osisID="2Sam.14"/>
+So Joab going in to the king, told him all: and Absalom was called for, and, he went in to the king: and prostrated himself on the ground before him: and the king kissed Absalom. 
 
 ** II Samuel 15
 
@@ -1642,7 +1642,7 @@ And there are with them their two sons Achimaas; the son of Sadoc, and Jonathan 
 
 *** II Samuel 15:37
 
-Then Chusai the friend of David went into the city, and Absalom came into Jerusalem. <chapter eID="gen8676" osisID="2Sam.15"/>
+Then Chusai the friend of David went into the city, and Absalom came into Jerusalem. 
 
 ** II Samuel 16
 
@@ -1736,7 +1736,7 @@ So they spread a tent for Absalom on the top of the house, and he went in to his
 
 *** II Samuel 16:23
 
-Now the counsel of Achitophel, which he gave in those days, was as if a man should consult God: so was all the counsel of Achitophel, both when he was with David, and when he was with Absalom. <chapter eID="gen8714" osisID="2Sam.16"/>
+Now the counsel of Achitophel, which he gave in those days, was as if a man should consult God: so was all the counsel of Achitophel, both when he was with David, and when he was with Absalom. 
 
 ** II Samuel 17
 
@@ -1854,7 +1854,7 @@ Brought him beds, and tapestry, and earthen vessels, and wheat, and barley, and 
 
 *** II Samuel 17:29
 
-And honey, and butter, and sheep, and fat calves, and they gave to David and the people that were with him, to eat: for they suspected that the people were faint with hunger and thirst in the wilderness. <chapter eID="gen8738" osisID="2Sam.17"/>
+And honey, and butter, and sheep, and fat calves, and they gave to David and the people that were with him, to eat: for they suspected that the people were faint with hunger and thirst in the wilderness. 
 
 ** II Samuel 18
 
@@ -1988,7 +1988,7 @@ And the king said to Chusai: Is the young man Absalom safe? And Chusai answering
 
 *** II Samuel 18:33
 
-The king therefore being much moved, went up to the high chamber over the gate, and wept. And as he went he spoke in this manner: My son Absalom, Absalom my son: would to God that I might die for thee, Absalom my son, my son Absalom. <chapter eID="gen8768" osisID="2Sam.18"/>
+The king therefore being much moved, went up to the high chamber over the gate, and wept. And as he went he spoke in this manner: My son Absalom, Absalom my son: would to God that I might die for thee, Absalom my son, my son Absalom. 
 
 ** II Samuel 19
 
@@ -2162,7 +2162,7 @@ And all the men of Juda answered the men of Israel: Because the king is nearer t
 
 *** II Samuel 19:43
 
-And the men of Israel answered the men of Juda, and said: I have ten parts in the king more than thou, and David belongeth to me more than to thee: why hast thou done me a wrong, and why was it not told me first, that I might bring back my king? And the men of Juda answered more harshly than the men of Israel. <chapter eID="gen8802" osisID="2Sam.19"/>
+And the men of Israel answered the men of Juda, and said: I have ten parts in the king more than thou, and David belongeth to me more than to thee: why hast thou done me a wrong, and why was it not told me first, that I might bring back my king? And the men of Juda answered more harshly than the men of Israel. 
 
 ** II Samuel 20
 
@@ -2268,7 +2268,7 @@ And Siva was scribe: and Sadoc and Abiathar, priests.
 
 *** II Samuel 20:26
 
-And Ira the Jairite was the priest of David. <chapter eID="gen8846" osisID="2Sam.20"/>
+And Ira the Jairite was the priest of David. 
 
 ** II Samuel 21
 
@@ -2358,7 +2358,7 @@ And he reproached Israel: and Jonathan the son of Samae the brother of David sle
 
 *** II Samuel 21:22
 
-These four were born of Arapha in Geth, and they fell by the hand of David, and of his servants. <chapter eID="gen8873" osisID="2Sam.21"/>
+These four were born of Arapha in Geth, and they fell by the hand of David, and of his servants. 
 
 ** II Samuel 22
 
@@ -2564,7 +2564,7 @@ Therefore will I give thanks to thee, O Lord, among the Gentiles, and will sing 
 
 *** II Samuel 22:51
 
-Giving great salvation to his king, and shewing mercy to David his anointed, and to his seed for ever. <chapter eID="gen8896" osisID="2Sam.22"/>
+Giving great salvation to his king, and shewing mercy to David his anointed, and to his seed for ever. 
 
 ** II Samuel 23
 
@@ -2722,7 +2722,7 @@ Ira the Jethrite, Gareb also a Jethrite;
 
 *** II Samuel 23:39
 
-Urias the Hethite, thirty and seven in all. <chapter eID="gen8948" osisID="2Sam.23"/>
+Urias the Hethite, thirty and seven in all. 
 
 ** II Samuel 24
 
@@ -2824,4 +2824,4 @@ And the king answered him, and said: Nay, but I will buy it of thee, at a price,
 
 *** II Samuel 24:25
 
-And David built there an altar to the Lord, and offered holocausts and peace offerings: and the Lord became merciful to the land, and the plague was stayed from Israel. <chapter eID="gen8988" osisID="2Sam.24"/> <div eID="gen8295" osisID="2Sam" type="book"/>
+And David built there an altar to the Lord, and offered holocausts and peace offerings: and the Lord became merciful to the land, and the plague was stayed from Israel.  

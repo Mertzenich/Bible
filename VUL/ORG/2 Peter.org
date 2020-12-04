@@ -14,7 +14,7 @@ Quomodo omnia nobis divinæ virtutis suæ, quæ ad vitam et pietatem donata sunt
 
 ** II Peter 1:4
 
-per quem maxima, et pretiosa nobis promissa donavit : ut per hæc efficiamini divinæ consortes naturæ : fugientes ejus, quæ in mundo est, concupiscentiæ corruptionem.  <div eID="gen33212" type="x-p"/>
+per quem maxima, et pretiosa nobis promissa donavit : ut per hæc efficiamini divinæ consortes naturæ : fugientes ejus, quæ in mundo est, concupiscentiæ corruptionem.  
 
 ** II Peter 1:5
 
@@ -42,7 +42,7 @@ Quapropter fratres, magis satagite ut per bona opera certam vestram vocationem, 
 
 ** II Peter 1:11
 
-Sic enim abundanter ministrabitur vobis introitus in æternum regnum Domini nostri et Salvatoris Jesu Christi.  <div eID="gen33213" type="x-p"/>
+Sic enim abundanter ministrabitur vobis introitus in æternum regnum Domini nostri et Salvatoris Jesu Christi.  
 
 ** II Peter 1:12
 
@@ -58,7 +58,7 @@ certus quod velox est depositio tabernaculi mei secundum quod et Dominus noster 
 
 ** II Peter 1:15
 
-Dabo autem operam et frequenter habere vos post obitum meum, ut horum memoriam faciatis.  <div eID="gen33214" type="x-p"/>
+Dabo autem operam et frequenter habere vos post obitum meum, ut horum memoriam faciatis.  
 
 ** II Peter 1:16
 
@@ -82,7 +82,7 @@ hoc primum intelligentes quod omnis prophetia Scripturæ propria interpretatione
 
 ** II Peter 1:21
 
-Non enim voluntate humana allata est aliquando prophetia : sed Spiritu Sancto inspirati, locuti sunt sancti Dei homines.  <chapter eID="2Pet.1"/> <div eID="gen33215" type="x-p"/>
+Non enim voluntate humana allata est aliquando prophetia : sed Spiritu Sancto inspirati, locuti sunt sancti Dei homines.   
 
 * II Peter 2
 
@@ -120,7 +120,7 @@ aspectu enim, et auditu justus erat : habitans apud eos, qui de die in diem anim
 
 ** II Peter 2:9
 
-Novit Dominus pios de tentatione eripere : iniquos vero in diem judicii reservare cruciandos.  <div eID="gen33216" type="x-p"/>
+Novit Dominus pios de tentatione eripere : iniquos vero in diem judicii reservare cruciandos.  
 
 ** II Peter 2:10
 
@@ -172,7 +172,7 @@ Melius enim erat illis non cognoscere viam justitiæ, quam post agnitionem, retr
 
 ** II Peter 2:22
 
-Contigit enim eis illud veri proverbii : Canis reversus ad suum vomitum : et, Sus lota in volutabro luti.  <chapter eID="2Pet.2"/> <div eID="gen33217" type="x-p"/>
+Contigit enim eis illud veri proverbii : Canis reversus ad suum vomitum : et, Sus lota in volutabro luti.   
 
 * II Peter 3
 
@@ -214,7 +214,7 @@ Non tardat Dominus promissionem suam, sicut quidam existimant : sed patienter ag
 
 ** II Peter 3:10
 
-Adveniet autem dies Domini ut fur : in quo cæli magno impetu transient, elementa vero calore solventur, terra autem et quæ in ipsa sunt opera, exurentur.  <div eID="gen33218" type="x-p"/>
+Adveniet autem dies Domini ut fur : in quo cæli magno impetu transient, elementa vero calore solventur, terra autem et quæ in ipsa sunt opera, exurentur.  
 
 ** II Peter 3:11
 
@@ -238,7 +238,7 @@ et Domini nostri longanimitatem, salutem arbitremini : sicut et carissimus frate
 
 ** II Peter 3:16
 
-sicut et omnibus epistolis, loquens in eis de his in quibus sunt quædam difficilia intellectu, quæ indocti et instabiles depravant, sicut et ceteras Scripturas, ad suam ipsorum perditionem.  <div eID="gen33219" type="x-p"/>
+sicut et omnibus epistolis, loquens in eis de his in quibus sunt quædam difficilia intellectu, quæ indocti et instabiles depravant, sicut et ceteras Scripturas, ad suam ipsorum perditionem.  
 
 ** II Peter 3:17
 
@@ -246,5 +246,5 @@ Vos igitur fratres, præscientes custodite, ne insipientium errore traducti exci
 
 ** II Peter 3:18
 
-crescite vero in gratia, et in cognitione Domini nostri, et Salvatoris Jesu Christi. Ipsi gloria et nunc, et in diem æternitatis. Amen.  <div eID="gen33220" type="x-p"/> <chapter eID="2Pet.3"/> <div eID="gen33211" osisID="2Pet" type="book"/>
+crescite vero in gratia, et in cognitione Domini nostri, et Salvatoris Jesu Christi. Ipsi gloria et nunc, et in diem æternitatis. Amen.    
 

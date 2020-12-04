@@ -126,7 +126,7 @@ Foolish, dissolute: without affection, without fidelity, without mercy.
 
 *** Romans 1:32
 
-Who, having known the justice of God, did not understand that they who do such things, are worthy of death: and not only they that do them, but they also that consent to them that do them. <chapter eID="gen33891" osisID="Rom.1"/>
+Who, having known the justice of God, did not understand that they who do such things, are worthy of death: and not only they that do them, but they also that consent to them that do them. 
 
 ** Romans 2
 
@@ -244,7 +244,7 @@ For it is not he is a Jew, who is so outwardly: nor is that circumcision which i
 
 *** Romans 2:29
 
-But he is a Jew that is one inwardly and the circumcision is that of the heart, in the spirit not in the letter: whose praise is not of men, but of God. <chapter eID="gen33924" osisID="Rom.2"/>
+But he is a Jew that is one inwardly and the circumcision is that of the heart, in the spirit not in the letter: whose praise is not of men, but of God. 
 
 ** Romans 3
 
@@ -370,7 +370,7 @@ For it is one God that justifieth circumcision by faith and uncircumcision throu
 
 *** Romans 3:31
 
-Do we then, destroy the law through faith? God forbid! But we establish the law. <chapter eID="gen33954" osisID="Rom.3"/>
+Do we then, destroy the law through faith? God forbid! But we establish the law. 
 
 ** Romans 4
 
@@ -472,7 +472,7 @@ But also for us, to whom it shall be reputed, if we believe in him that raised u
 
 *** Romans 4:25
 
-Who was delivered up for our sins and rose again for our justification. <chapter eID="gen33986" osisID="Rom.4"/>
+Who was delivered up for our sins and rose again for our justification. 
 
 ** Romans 5
 
@@ -558,7 +558,7 @@ Now the law entered in that sin might abound. And where sin abounded, grace did 
 
 *** Romans 5:21
 
-That as sin hath reigned to death: so also grace might reign by justice unto life everlasting, through Jesus Christ our Lord. <chapter eID="gen34012" osisID="Rom.5"/>
+That as sin hath reigned to death: so also grace might reign by justice unto life everlasting, through Jesus Christ our Lord. 
 
 ** Romans 6
 
@@ -652,7 +652,7 @@ But now being made free from sin and become servants to God, you have your fruit
 
 *** Romans 6:23
 
-For the wages of sin is death. But the grace of God, life everlasting in Christ Jesus our Lord. <chapter eID="gen34034" osisID="Rom.6"/>
+For the wages of sin is death. But the grace of God, life everlasting in Christ Jesus our Lord. 
 
 ** Romans 7
 
@@ -754,7 +754,7 @@ Unhappy man that I am, who shall deliver me from the body of this death?
 
 *** Romans 7:25
 
-The grace of God, by Jesus Christ our Lord. Therefore, I myself, with the mind serve the law of God: but with the flesh, the law of sin. <chapter eID="gen34058" osisID="Rom.7"/>
+The grace of God, by Jesus Christ our Lord. Therefore, I myself, with the mind serve the law of God: but with the flesh, the law of sin. 
 
 ** Romans 8
 
@@ -912,7 +912,7 @@ For I am sure that neither death, nor life, nor angels, nor principalities, nor 
 
 *** Romans 8:39
 
-Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God which is in Christ Jesus our Lord. <chapter eID="gen34084" osisID="Rom.8"/>
+Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God which is in Christ Jesus our Lord. 
 
 ** Romans 9
 
@@ -1046,7 +1046,7 @@ Why so? Because they sought it not by faith, but as it were of works. For they s
 
 *** Romans 9:33
 
-As it is written: Behold I lay in Sion a stumbling-stone and a rock of scandal. And whosoever believeth in him shall not be confounded. <chapter eID="gen34124" osisID="Rom.9"/>
+As it is written: Behold I lay in Sion a stumbling-stone and a rock of scandal. And whosoever believeth in him shall not be confounded. 
 
 ** Romans 10
 
@@ -1132,7 +1132,7 @@ But Isaias is bold, and saith: I was found by them that did not seek me. I appea
 
 *** Romans 10:21
 
-But to Israel he saith: All the day long have I spread my hands to a people that believeth not and contradicteth me. <chapter eID="gen34158" osisID="Rom.10"/>
+But to Israel he saith: All the day long have I spread my hands to a people that believeth not and contradicteth me. 
 
 ** Romans 11
 
@@ -1278,7 +1278,7 @@ Or who hath first given to him, and recompense shall be made him?
 
 *** Romans 11:36
 
-For of him, and by him, and in him, are all things: to him be glory for ever. Amen. <chapter eID="gen34180" osisID="Rom.11"/>
+For of him, and by him, and in him, are all things: to him be glory for ever. Amen. 
 
 ** Romans 12
 
@@ -1364,7 +1364,7 @@ But if the enemy be hungry, give him to eat; if he thirst, give him to drink. Fo
 
 *** Romans 12:21
 
-Be not overcome by evil: but overcome evil by good. <chapter eID="gen34217" osisID="Rom.12"/>
+Be not overcome by evil: but overcome evil by good. 
 
 ** Romans 13
 
@@ -1422,7 +1422,7 @@ Let us walk honestly, as in the day: not in rioting and drunkenness, not in cham
 
 *** Romans 13:14
 
-But put ye on the Lord Jesus Christ: and make not provision for the flesh in its concupiscences. <chapter eID="gen34239" osisID="Rom.13"/>
+But put ye on the Lord Jesus Christ: and make not provision for the flesh in its concupiscences. 
 
 ** Romans 14
 
@@ -1516,7 +1516,7 @@ Hast thou faith? Have it to thyself before God. Blessed is he that condemneth no
 
 *** Romans 14:23
 
-But he that discerneth, if he eat, is condemned; because not of faith. For all that is not of faith is sin. <chapter eID="gen34254" osisID="Rom.14"/>
+But he that discerneth, if he eat, is condemned; because not of faith. For all that is not of faith is sin. 
 
 ** Romans 15
 
@@ -1650,7 +1650,7 @@ That I may come to you with joy, by the will of God, and may be refreshed with y
 
 *** Romans 15:33
 
-Now the God of peace be with, you all. Amen. <chapter eID="gen34278" osisID="Rom.15"/>
+Now the God of peace be with, you all. Amen. 
 
 ** Romans 16
 
@@ -1760,4 +1760,4 @@ Now to him that is able to establish you, according to my gospel and the preachi
 
 *** Romans 16:27
 
-To God, the only wise, through Jesus Christ, to whom be honour and glory for ever and ever. Amen. <chapter eID="gen34312" osisID="Rom.16"/> <div eID="gen33890" osisID="Rom" type="book"/>
+To God, the only wise, through Jesus Christ, to whom be honour and glory for ever and ever. Amen.  

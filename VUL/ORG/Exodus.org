@@ -26,7 +26,7 @@ Quo mortuo, et universis fratribus ejus, omnique cognatione illa,
 
 ** Exodus 1:7
 
-filii Israël creverunt, et quasi germinantes multiplicati sunt : ac roborati nimis, impleverunt terram.  <div eID="gen236" type="x-p"/>
+filii Israël creverunt, et quasi germinantes multiplicati sunt : ac roborati nimis, impleverunt terram.  
 
 ** Exodus 1:8
 
@@ -86,7 +86,7 @@ Et quia timuerunt obstetrices Deum, ædificavit eis domos.
 
 ** Exodus 1:22
 
-Præcepit ergo Pharao omni populo suo, dicens : Quidquid masculini sexus natum fuerit, in flumen projicite : quidquid feminini, reservate.  <chapter eID="Exod.1"/> <div eID="gen237" type="x-p"/>
+Præcepit ergo Pharao omni populo suo, dicens : Quidquid masculini sexus natum fuerit, in flumen projicite : quidquid feminini, reservate.   
 
 * Exodus 2
 
@@ -128,7 +128,7 @@ Ad quam locuta filia Pharaonis : Accipe, ait, puerum istum, et nutri mihi : ego 
 
 ** Exodus 2:10
 
-Quem illa adoptavit in locum filii, vocavitque nomen ejus Moyses, dicens : Quia de aqua tuli eum.  <div eID="gen238" type="x-p"/>
+Quem illa adoptavit in locum filii, vocavitque nomen ejus Moyses, dicens : Quia de aqua tuli eum.  
 
 ** Exodus 2:11
 
@@ -144,7 +144,7 @@ Et egressus die altero conspexit duos Hebræos rixantes : dixitque ei qui facieb
 
 ** Exodus 2:14
 
-Qui respondit : Quis te constituit principem et judicem super nos ? num occidere me tu vis, sicut heri occidisti Ægyptium ? Timuit Moyses, et ait : Quomodo palam factum est verbum istud ?  <div eID="gen239" type="x-p"/>
+Qui respondit : Quis te constituit principem et judicem super nos ? num occidere me tu vis, sicut heri occidisti Ægyptium ? Timuit Moyses, et ait : Quomodo palam factum est verbum istud ?  
 
 ** Exodus 2:15
 
@@ -176,7 +176,7 @@ Juravit ergo Moyses quod habitaret cum eo. Accepitque Sephoram filiam ejus uxore
 
 ** Exodus 2:22
 
-quæ peperit ei filium, quem vocavit Gersam, dicens : Advena fui in terra aliena. Alterum vero peperit, quem vocavit Eliezer, dicens : Deus enim patris mei adjutor meus eripuit me de manu Pharaonis.  <div eID="gen240" type="x-p"/>
+quæ peperit ei filium, quem vocavit Gersam, dicens : Advena fui in terra aliena. Alterum vero peperit, quem vocavit Eliezer, dicens : Deus enim patris mei adjutor meus eripuit me de manu Pharaonis.  
 
 ** Exodus 2:23
 
@@ -188,7 +188,7 @@ Et audivit gemitum eorum, ac recordatus est fœderis quod pepigit cum Abraham, I
 
 ** Exodus 2:25
 
-Et respexit Dominus filios Israël et cognovit eos.  <chapter eID="Exod.2"/> <div eID="gen241" type="x-p"/>
+Et respexit Dominus filios Israël et cognovit eos.   
 
 * Exodus 3
 
@@ -230,7 +230,7 @@ Clamor ergo filiorum Israël venit ad me : vidique afflictionem eorum, qua ab Æ
 
 ** Exodus 3:10
 
-Sed veni, et mittam te ad Pharaonem, ut educas populum meum, filios Israël, de Ægypto.  <div eID="gen242" type="x-p"/>
+Sed veni, et mittam te ad Pharaonem, ut educas populum meum, filios Israël, de Ægypto.  
 
 ** Exodus 3:11
 
@@ -278,7 +278,7 @@ Daboque gratiam populo huic coram Ægyptiis : et cum egrediemini, non exibitis v
 
 ** Exodus 3:22
 
-sed postulabit mulier a vicina sua et ab hospita sua, vasa argentea et aurea, ac vestes : ponetisque eas super filios et filias vestras, et spoliabitis Ægyptum.  <chapter eID="Exod.3"/> <div eID="gen243" type="x-p"/>
+sed postulabit mulier a vicina sua et ab hospita sua, vasa argentea et aurea, ac vestes : ponetisque eas super filios et filias vestras, et spoliabitis Ægyptum.   
 
 * Exodus 4
 
@@ -316,7 +316,7 @@ Si non crediderint, inquit, tibi, neque audierint sermonem signi prioris, creden
 
 ** Exodus 4:9
 
-Quod si nec duobus quidem his signis crediderint, neque audierint vocem tuam : sume aquam fluminis, et effunde eam super aridam, et quidquid hauseris de fluvio, vertetur in sanguinem.  <div eID="gen244" type="x-p"/>
+Quod si nec duobus quidem his signis crediderint, neque audierint vocem tuam : sume aquam fluminis, et effunde eam super aridam, et quidquid hauseris de fluvio, vertetur in sanguinem.  
 
 ** Exodus 4:10
 
@@ -352,7 +352,7 @@ Virgam quoque hanc sume in manu tua, in qua facturus es signa.
 
 ** Exodus 4:18
 
-Abiit Moyses, et reversus est ad Jethro socerum suum, dixitque ei : Vadam et revertar ad fratres meos in Ægyptum, ut videam si adhuc vivant. Cui ait Jethro : Vade in pace.  <div eID="gen245" type="x-p"/>
+Abiit Moyses, et reversus est ad Jethro socerum suum, dixitque ei : Vadam et revertar ad fratres meos in Ægyptum, ut videam si adhuc vivant. Cui ait Jethro : Vade in pace.  
 
 ** Exodus 4:19
 
@@ -404,7 +404,7 @@ Locutusque est Aaron omnia verba quæ dixerat Dominus ad Moysen : et fecit signa
 
 ** Exodus 4:31
 
-et credidit populus. Audieruntque quod visitasset Dominus filios Israël, et respexisset afflictionem illorum : et proni adoraverunt.  <chapter eID="Exod.4"/> <div eID="gen246" type="x-p"/>
+et credidit populus. Audieruntque quod visitasset Dominus filios Israël, et respexisset afflictionem illorum : et proni adoraverunt.   
 
 * Exodus 5
 
@@ -422,7 +422,7 @@ Dixeruntque : Deus Hebræorum vocavit nos, ut eamus viam trium dierum in solitud
 
 ** Exodus 5:4
 
-Ait ad eos rex Ægypti : Quare Moyses et Aaron sollicitatis populum ab operibus suis ? ite ad onera vestra.  <div eID="gen247" type="x-p"/>
+Ait ad eos rex Ægypti : Quare Moyses et Aaron sollicitatis populum ab operibus suis ? ite ad onera vestra.  
 
 ** Exodus 5:5
 
@@ -498,7 +498,7 @@ Reversusque est Moyses ad Dominum, et ait : Domine, cur afflixisti populum istum
 
 ** Exodus 5:23
 
-ex eo enim quo ingressus sum ad Pharaonem ut loquerer in nomine tuo, afflixit populum tuum : et non liberasti eos.  <chapter eID="Exod.5"/> <div eID="gen248" type="x-p"/>
+ex eo enim quo ingressus sum ad Pharaonem ut loquerer in nomine tuo, afflixit populum tuum : et non liberasti eos.   
 
 * Exodus 6
 
@@ -532,7 +532,7 @@ Et assumam vos mihi in populum, et ero vester Deus : et scietis quod ego sum Dom
 
 ** Exodus 6:8
 
-et induxerim in terram, super quam levavi manum meam ut darem eam Abraham, Isaac et Jacob : daboque illam vobis possidendam. Ego Dominus.  <div eID="gen249" type="x-p"/>
+et induxerim in terram, super quam levavi manum meam ut darem eam Abraham, Isaac et Jacob : daboque illam vobis possidendam. Ego Dominus.  
 
 ** Exodus 6:9
 
@@ -552,7 +552,7 @@ Respondit Moyses coram Domino : Ecce filii Israël non audiunt me : et quomodo a
 
 ** Exodus 6:13
 
-Locutusque est Dominus ad Moysen et Aaron, et dedit mandatum ad filios Israël, et ad Pharaonem regem Ægypti ut educerent filios Israël de terra Ægypti.  <div eID="gen250" type="x-p"/>
+Locutusque est Dominus ad Moysen et Aaron, et dedit mandatum ad filios Israël, et ad Pharaonem regem Ægypti ut educerent filios Israël de terra Ægypti.  
 
 ** Exodus 6:14
 
@@ -612,7 +612,7 @@ Hi sunt, qui loquuntur ad Pharaonem regem Ægypti, ut educant filios Israël de 
 
 ** Exodus 6:28
 
-in die qua locutus est Dominus ad Moysen, in terra Ægypti.  <div eID="gen251" type="x-p"/>
+in die qua locutus est Dominus ad Moysen, in terra Ægypti.  
 
 ** Exodus 6:29
 
@@ -620,7 +620,7 @@ Et locutus est Dominus ad Moysen, dicens : Ego Dominus : loquere ad Pharaonem re
 
 ** Exodus 6:30
 
-Et ait Moyses coram Domino : En incircumcisus labiis sum, quomodo audiet me Pharao ?  <chapter eID="Exod.6"/> <div eID="gen252" type="x-p"/>
+Et ait Moyses coram Domino : En incircumcisus labiis sum, quomodo audiet me Pharao ?   
 
 * Exodus 7
 
@@ -650,7 +650,7 @@ Fecit itaque Moyses et Aaron sicut præceperat Dominus : ita egerunt.
 
 ** Exodus 7:7
 
-Erat autem Moyses octoginta annorum, et Aaron octoginta trium, quando locuti sunt ad Pharaonem.  <div eID="gen253" type="x-p"/>
+Erat autem Moyses octoginta annorum, et Aaron octoginta trium, quando locuti sunt ad Pharaonem.  
 
 ** Exodus 7:8
 
@@ -674,7 +674,7 @@ Projeceruntque singuli virgas suas, quæ versæ sunt in dracones : sed devoravit
 
 ** Exodus 7:13
 
-Induratumque est cor Pharaonis, et non audivit eos, sicut præceperat Dominus.  <div eID="gen254" type="x-p"/>
+Induratumque est cor Pharaonis, et non audivit eos, sicut præceperat Dominus.  
 
 ** Exodus 7:14
 
@@ -722,7 +722,7 @@ Foderunt autem omnes Ægyptii per circuitum fluminis aquam ut biberent : non eni
 
 ** Exodus 7:25
 
-Impletique sunt septem dies, postquam percussit Dominus fluvium.  <chapter eID="Exod.7"/> <div eID="gen255" type="x-p"/>
+Impletique sunt septem dies, postquam percussit Dominus fluvium.   
 
 * Exodus 8
 
@@ -784,7 +784,7 @@ Congregaveruntque eas in immensos aggeres, et computruit terra.
 
 ** Exodus 8:15
 
-Videns autem Pharao quod data esset requies, ingravavit cor suum, et non audivit eos, sicut præceperat Dominus.  <div eID="gen256" type="x-p"/>
+Videns autem Pharao quod data esset requies, ingravavit cor suum, et non audivit eos, sicut præceperat Dominus.  
 
 ** Exodus 8:16
 
@@ -800,7 +800,7 @@ Feceruntque similiter malefici incantationibus suis, ut educerent sciniphes, et 
 
 ** Exodus 8:19
 
-Et dixerunt malefici ad Pharaonem : Digitus Dei est hic ; induratumque est cor Pharaonis, et non audivit eos sicut præceperat Dominus.  <div eID="gen257" type="x-p"/>
+Et dixerunt malefici ad Pharaonem : Digitus Dei est hic ; induratumque est cor Pharaonis, et non audivit eos sicut præceperat Dominus.  
 
 ** Exodus 8:20
 
@@ -852,7 +852,7 @@ Qui fecit juxta verbum illius, et abstulit muscas a Pharaone, et a servis suis, 
 
 ** Exodus 8:32
 
-Et ingravatum est cor Pharaonis, ita ut nec hac quidem vice dimitteret populum.  <chapter eID="Exod.8"/> <div eID="gen258" type="x-p"/>
+Et ingravatum est cor Pharaonis, ita ut nec hac quidem vice dimitteret populum.   
 
 * Exodus 9
 
@@ -882,7 +882,7 @@ Fecit ergo Dominus verbum hoc altera die : mortuaque sunt omnia animantia Ægypt
 
 ** Exodus 9:7
 
-Et misit Pharao ad videndum : nec erat quidquam mortuum de his quæ possidebat Israël. Ingravatumque est cor Pharaonis, et non dimisit populum.  <div eID="gen259" type="x-p"/>
+Et misit Pharao ad videndum : nec erat quidquam mortuum de his quæ possidebat Israël. Ingravatumque est cor Pharaonis, et non dimisit populum.  
 
 ** Exodus 9:8
 
@@ -902,7 +902,7 @@ nec poterant malefici stare coram Moyse propter ulcera quæ in illis erant, et i
 
 ** Exodus 9:12
 
-Induravitque Dominus cor Pharaonis, et non audivit eos, sicut locutus est Dominus ad Moysen.  <div eID="gen260" type="x-p"/>
+Induravitque Dominus cor Pharaonis, et non audivit eos, sicut locutus est Dominus ad Moysen.  
 
 ** Exodus 9:13
 
@@ -994,7 +994,7 @@ Videns autem Pharao quod cessasset pluvia, et grando, et tonitrua, auxit peccatu
 
 ** Exodus 9:35
 
-et ingravatum est cor ejus, et servorum illius, et induratum nimis : nec dimisit filios Israël, sicut præceperat Dominus per manum Moysi.  <chapter eID="Exod.9"/> <div eID="gen261" type="x-p"/>
+et ingravatum est cor ejus, et servorum illius, et induratum nimis : nec dimisit filios Israël, sicut præceperat Dominus per manum Moysi.   
 
 * Exodus 10
 
@@ -1076,7 +1076,7 @@ Qui flare fecit ventum ab occidente vehementissimum, et arreptam locustam projec
 
 ** Exodus 10:20
 
-Et induravit Dominus cor Pharaonis, nec dimisit filios Israël.  <div eID="gen262" type="x-p"/>
+Et induravit Dominus cor Pharaonis, nec dimisit filios Israël.  
 
 ** Exodus 10:21
 
@@ -1112,7 +1112,7 @@ Dixitque Pharao ad Moysen : Recede a me, et cave ne ultra videas faciem meam : q
 
 ** Exodus 10:29
 
-Respondit Moyses : Ita fiet ut locutus es : non videbo ultra faciem tuam.  <chapter eID="Exod.10"/> <div eID="gen263" type="x-p"/>
+Respondit Moyses : Ita fiet ut locutus es : non videbo ultra faciem tuam.   
 
 * Exodus 11
 
@@ -1154,7 +1154,7 @@ Et exivit a Pharaone iratus nimis. Dixit autem Dominus ad Moysen : Non audiet vo
 
 ** Exodus 11:10
 
-Moyses autem et Aaron fecerunt omnia ostenta, quæ scripta sunt, coram Pharaone. Et induravit Dominus cor Pharaonis, nec dimisit filios Israël de terra sua.  <chapter eID="Exod.11"/> <div eID="gen264" type="x-p"/>
+Moyses autem et Aaron fecerunt omnia ostenta, quæ scripta sunt, coram Pharaone. Et induravit Dominus cor Pharaonis, nec dimisit filios Israël de terra sua.   
 
 * Exodus 12
 
@@ -1200,7 +1200,7 @@ Nec remanebit quidquam ex eo usque mane ; si quid residuum fuerit, igne comburet
 
 ** Exodus 12:11
 
-Sic autem comedetis illum : renes vestros accingetis, et calceamenta habebitis in pedibus, tenentes baculos in manibus, et comedetis festinanter : est enim Phase (id est, transitus) Domini.  <div eID="gen265" type="x-p"/>
+Sic autem comedetis illum : renes vestros accingetis, et calceamenta habebitis in pedibus, tenentes baculos in manibus, et comedetis festinanter : est enim Phase (id est, transitus) Domini.  
 
 ** Exodus 12:12
 
@@ -1268,7 +1268,7 @@ Dicetis eis : Victima transitus Domini est, quando transivit super domos filioru
 
 ** Exodus 12:28
 
-Et egressi filii Israël fecerunt sicut præceperat Dominus Moysi et Aaron.  <div eID="gen266" type="x-p"/>
+Et egressi filii Israël fecerunt sicut præceperat Dominus Moysi et Aaron.  
 
 ** Exodus 12:29
 
@@ -1276,7 +1276,7 @@ Factum est autem in noctis medio, percussit Dominus omne primogenitum in terra �
 
 ** Exodus 12:30
 
-Surrexitque Pharao nocte, et omnes servi ejus, cunctaque Ægyptus : et ortus est clamor magnus in Ægypto : neque enim erat domus in qua non jaceret mortuus.  <div eID="gen267" type="x-p"/>
+Surrexitque Pharao nocte, et omnes servi ejus, cunctaque Ægyptus : et ortus est clamor magnus in Ægypto : neque enim erat domus in qua non jaceret mortuus.  
 
 ** Exodus 12:31
 
@@ -1300,7 +1300,7 @@ Feceruntque filii Israël sicut præceperat Moyses : et petierunt ab Ægyptiis v
 
 ** Exodus 12:36
 
-Dominus autem dedit gratiam populo coram Ægyptiis ut commodarent eis : et spoliaverunt Ægyptios.  <div eID="gen268" type="x-p"/>
+Dominus autem dedit gratiam populo coram Ægyptiis ut commodarent eis : et spoliaverunt Ægyptios.  
 
 ** Exodus 12:37
 
@@ -1324,7 +1324,7 @@ Quibus expletis, eadem die egressus est omnis exercitus Domini de terra Ægypti.
 
 ** Exodus 12:42
 
-Nox ista est observabilis Domini, quando eduxit eos de terra Ægypti : hanc observare debent omnes filii Israël in generationibus suis.  <div eID="gen269" type="x-p"/>
+Nox ista est observabilis Domini, quando eduxit eos de terra Ægypti : hanc observare debent omnes filii Israël in generationibus suis.  
 
 ** Exodus 12:43
 
@@ -1360,7 +1360,7 @@ Feceruntque omnes filii Israël sicut præceperat Dominus Moysi et Aaron.
 
 ** Exodus 12:51
 
-Et eadem die eduxit Dominus filios Israël de terra Ægypti per turmas suas.  <chapter eID="Exod.12"/> <div eID="gen270" type="x-p"/>
+Et eadem die eduxit Dominus filios Israël de terra Ægypti per turmas suas.   
 
 * Exodus 13
 
@@ -1426,7 +1426,7 @@ Nam cum induratus esset Pharao, et nollet nos dimittere, occidit Dominus omne pr
 
 ** Exodus 13:16
 
-Erit igitur quasi signum in manu tua, et quasi appensum quid, ob recordationem, inter oculos tuos : eo quod in manu forti eduxit nos Dominus de Ægypto.  <div eID="gen271" type="x-p"/>
+Erit igitur quasi signum in manu tua, et quasi appensum quid, ob recordationem, inter oculos tuos : eo quod in manu forti eduxit nos Dominus de Ægypto.  
 
 ** Exodus 13:17
 
@@ -1450,7 +1450,7 @@ Dominus autem præcedebat eos ad ostendendam viam per diem in columna nubis, et 
 
 ** Exodus 13:22
 
-Numquam defuit columna nubis per diem, nec columna ignis per noctem, coram populo.  <chapter eID="Exod.13"/> <div eID="gen272" type="x-p"/>
+Numquam defuit columna nubis per diem, nec columna ignis per noctem, coram populo.   
 
 * Exodus 14
 
@@ -1468,7 +1468,7 @@ Dicturusque est Pharao super filiis Israël : Coarctati sunt in terra ; conclusi
 
 ** Exodus 14:4
 
-Et indurabo cor ejus, ac persequetur vos : et glorificabor in Pharaone, et in omni exercitu ejus ; scientque Ægyptii quia ego sum Dominus. Feceruntque ita.  <div eID="gen273" type="x-p"/>
+Et indurabo cor ejus, ac persequetur vos : et glorificabor in Pharaone, et in omni exercitu ejus ; scientque Ægyptii quia ego sum Dominus. Feceruntque ita.  
 
 ** Exodus 14:5
 
@@ -1576,85 +1576,85 @@ liberavitque Dominus in die illa Israël de manu Ægyptiorum.
 
 ** Exodus 14:31
 
-Et viderunt Ægyptios mortuos super littus maris, et manum magnam quam exercuerat Dominus contra eos : timuitque populus Dominum, et crediderunt Domino, et Moysi servo ejus.  <chapter eID="Exod.14"/> <div eID="gen274" type="x-p"/>
+Et viderunt Ægyptios mortuos super littus maris, et manum magnam quam exercuerat Dominus contra eos : timuitque populus Dominum, et crediderunt Domino, et Moysi servo ejus.   
 
 * Exodus 15
 
 ** Exodus 15:1
 
-Tunc cecinit Moyses et filii Israël carmen hoc Domino, et dixerunt : <div eID="gen275" type="x-p"/> <lg sID="gen276"/> <l level="1" sID="gen277"/>Cantemus Domino : gloriose enim magnificatus est, <l eID="gen277" level="1"/> <l level="1" sID="gen278"/>equum et ascensorem dejecit in mare. <l eID="gen278" level="1"/>
+Tunc cecinit Moyses et filii Israël carmen hoc Domino, et dixerunt :   Cantemus Domino : gloriose enim magnificatus est,  equum et ascensorem dejecit in mare. 
 
 ** Exodus 15:2
 
-Fortitudo mea, et laus mea Dominus, <l eID="gen279" level="1"/> <l level="1" sID="gen280"/>et factus est mihi in salutem : <l eID="gen280" level="1"/> <l level="1" sID="gen281"/>iste Deus meus, et glorificabo eum : <l eID="gen281" level="1"/> <l level="1" sID="gen282"/>Deus patris mei, et exaltabo eum. <l eID="gen282" level="1"/>
+Fortitudo mea, et laus mea Dominus,  et factus est mihi in salutem :  iste Deus meus, et glorificabo eum :  Deus patris mei, et exaltabo eum. 
 
 ** Exodus 15:3
 
-Dominus quasi vir pugnator, <l eID="gen283" level="1"/> <l level="1" sID="gen284"/>Omnipotens nomen ejus, <l eID="gen284" level="1"/>
+Dominus quasi vir pugnator,  Omnipotens nomen ejus, 
 
 ** Exodus 15:4
 
-currus Pharaonis et exercitum ejus projecit in mare : <l eID="gen285" level="1"/> <l level="1" sID="gen286"/>electi principes ejus submersi sunt in mari Rubro. <l eID="gen286" level="1"/>
+currus Pharaonis et exercitum ejus projecit in mare :  electi principes ejus submersi sunt in mari Rubro. 
 
 ** Exodus 15:5
 
-Abyssi operuerunt eos ; <l eID="gen287" level="1"/> <l level="1" sID="gen288"/>descenderunt in profundum quasi lapis. <l eID="gen288" level="1"/>
+Abyssi operuerunt eos ;  descenderunt in profundum quasi lapis. 
 
 ** Exodus 15:6
 
-Dextera tua, Domine, magnificata est in fortitudine : <l eID="gen289" level="1"/> <l level="1" sID="gen290"/>dextera tua, Domine, percussit inimicum. <l eID="gen290" level="1"/>
+Dextera tua, Domine, magnificata est in fortitudine :  dextera tua, Domine, percussit inimicum. 
 
 ** Exodus 15:7
 
-Et in multitudine gloriæ tuæ deposuisti adversarios tuos : <l eID="gen291" level="1"/> <l level="1" sID="gen292"/>misisti iram tuam, quæ devoravit eos sicut stipulam. <l eID="gen292" level="1"/>
+Et in multitudine gloriæ tuæ deposuisti adversarios tuos :  misisti iram tuam, quæ devoravit eos sicut stipulam. 
 
 ** Exodus 15:8
 
-Et in spiritu furoris tui congregatæ sunt aquæ : <l eID="gen293" level="1"/> <l level="1" sID="gen294"/>stetit unda fluens, congregata sunt abyssi in medio mari. <l eID="gen294" level="1"/>
+Et in spiritu furoris tui congregatæ sunt aquæ :  stetit unda fluens, congregata sunt abyssi in medio mari. 
 
 ** Exodus 15:9
 
-Dixit inimicus : Persequar et comprehendam, <l eID="gen295" level="1"/> <l level="1" sID="gen296"/>dividam spolia, implebitur anima mea : <l eID="gen296" level="1"/> <l level="1" sID="gen297"/>evaginabo gladium meum, interficiet eos manus mea. <l eID="gen297" level="1"/>
+Dixit inimicus : Persequar et comprehendam,  dividam spolia, implebitur anima mea :  evaginabo gladium meum, interficiet eos manus mea. 
 
 ** Exodus 15:10
 
-Flavit spiritus tuus, et operuit eos mare : <l eID="gen298" level="1"/> <l level="1" sID="gen299"/>submersi sunt quasi plumbum in aquis vehementibus. <l eID="gen299" level="1"/>
+Flavit spiritus tuus, et operuit eos mare :  submersi sunt quasi plumbum in aquis vehementibus. 
 
 ** Exodus 15:11
 
-Quis similis tui in fortibus, Domine ? <l eID="gen300" level="1"/> <l level="1" sID="gen301"/>quis similis tui, magnificus in sanctitate, <l eID="gen301" level="1"/> <l level="1" sID="gen302"/>terribilis atque laudabilis, faciens mirabilia ? <l eID="gen302" level="1"/>
+Quis similis tui in fortibus, Domine ?  quis similis tui, magnificus in sanctitate,  terribilis atque laudabilis, faciens mirabilia ? 
 
 ** Exodus 15:12
 
-Extendisti manum tuam, et devoravit eos terra. <l eID="gen303" level="1"/>
+Extendisti manum tuam, et devoravit eos terra. 
 
 ** Exodus 15:13
 
-Dux fuisti in misericordia tua populo quem redemisti : <l eID="gen304" level="1"/> <l level="1" sID="gen305"/>et portasti eum in fortitudine tua, ad habitaculum sanctum tuum. <l eID="gen305" level="1"/>
+Dux fuisti in misericordia tua populo quem redemisti :  et portasti eum in fortitudine tua, ad habitaculum sanctum tuum. 
 
 ** Exodus 15:14
 
-Ascenderunt populi, et irati sunt : <l eID="gen306" level="1"/> <l level="1" sID="gen307"/>dolores obtinuerunt habitatores Philisthiim. <l eID="gen307" level="1"/>
+Ascenderunt populi, et irati sunt :  dolores obtinuerunt habitatores Philisthiim. 
 
 ** Exodus 15:15
 
-Tunc conturbati sunt principes Edom, <l eID="gen308" level="1"/> <l level="1" sID="gen309"/>robustos Moab obtinuit tremor : <l eID="gen309" level="1"/> <l level="1" sID="gen310"/>obriguerunt omnes habitatores Chanaan. <l eID="gen310" level="1"/>
+Tunc conturbati sunt principes Edom,  robustos Moab obtinuit tremor :  obriguerunt omnes habitatores Chanaan. 
 
 ** Exodus 15:16
 
-Irruat super eos formido et pavor, in magnitudine brachii tui : <l eID="gen311" level="1"/> <l level="1" sID="gen312"/>fiant immobiles quasi lapis, <l eID="gen312" level="1"/> <l level="1" sID="gen313"/>donec pertranseat populus tuus, Domine, <l eID="gen313" level="1"/> <l level="1" sID="gen314"/>donec pertranseat populus tuus iste, quem possedisti. <l eID="gen314" level="1"/>
+Irruat super eos formido et pavor, in magnitudine brachii tui :  fiant immobiles quasi lapis,  donec pertranseat populus tuus, Domine,  donec pertranseat populus tuus iste, quem possedisti. 
 
 ** Exodus 15:17
 
-Introduces eos, et plantabis in monte hæreditatis tuæ, <l eID="gen315" level="1"/> <l level="1" sID="gen316"/>firmissimo habitaculo tuo quod operatus es, Domine : <l eID="gen316" level="1"/> <l level="1" sID="gen317"/>sanctuarium tuum, Domine, quod firmaverunt manus tuæ. <l eID="gen317" level="1"/>
+Introduces eos, et plantabis in monte hæreditatis tuæ,  firmissimo habitaculo tuo quod operatus es, Domine :  sanctuarium tuum, Domine, quod firmaverunt manus tuæ. 
 
 ** Exodus 15:18
 
-Dominus regnabit in æternum et ultra. <l eID="gen318" level="1"/>
+Dominus regnabit in æternum et ultra. 
 
 ** Exodus 15:19
 
-Ingressus est enim eques Pharao <l eID="gen319" level="1"/> <l level="1" sID="gen320"/>cum curribus et equitibus ejus in mare : <l eID="gen320" level="1"/> <l level="1" sID="gen321"/>et reduxit super eos Dominus <l eID="gen321" level="1"/> <l level="1" sID="gen322"/>aquas maris : <l eID="gen322" level="1"/> <l level="1" sID="gen323"/>filii autem Israël ambulaverunt per siccum in medio ejus.
+Ingressus est enim eques Pharao  cum curribus et equitibus ejus in mare :  et reduxit super eos Dominus  aquas maris :  filii autem Israël ambulaverunt per siccum in medio ejus.
 
 ** Exodus 15:20
 
@@ -1662,7 +1662,7 @@ Sumpsit ergo Maria prophetissa, soror Aaron, tympanum in manu sua : egressæque 
 
 ** Exodus 15:21
 
-quibus præcinebat, dicens : <l eID="gen323" level="1"/> <l level="1" sID="gen324"/>Cantemus Domino, gloriose enim magnificatus est : <l eID="gen324" level="1"/> <l level="1" sID="gen325"/>equum et ascensorem ejus dejecit in mare. <l eID="gen325" level="1"/> <lg eID="gen276"/>
+quibus præcinebat, dicens :  Cantemus Domino, gloriose enim magnificatus est :  equum et ascensorem ejus dejecit in mare.  
 
 ** Exodus 15:22
 
@@ -1686,7 +1686,7 @@ dicens : Si audieris vocem Domini Dei tui, et quod rectum est coram eo feceris, 
 
 ** Exodus 15:27
 
-Venerunt autem in Elim filii Israël, ubi erant duodecim fontes aquarum, et septuaginta palmæ : et castrametati sunt juxta aquas.  <chapter eID="Exod.15"/> <div eID="gen326" type="x-p"/>
+Venerunt autem in Elim filii Israël, ubi erant duodecim fontes aquarum, et septuaginta palmæ : et castrametati sunt juxta aquas.   
 
 * Exodus 16
 
@@ -1768,7 +1768,7 @@ Dixitque Moyses ad eos : Nullus relinquat ex eo in mane.
 
 ** Exodus 16:20
 
-Qui non audierunt eum, sed dimiserunt quidam ex eis usque mane, et scatere cœpit vermibus, atque computruit : et iratus est contra eos Moyses.  <div eID="gen327" type="x-p"/>
+Qui non audierunt eum, sed dimiserunt quidam ex eis usque mane, et scatere cœpit vermibus, atque computruit : et iratus est contra eos Moyses.  
 
 ** Exodus 16:21
 
@@ -1832,7 +1832,7 @@ Filii autem Israël comederunt man quadraginta annis, donec venirent in terram h
 
 ** Exodus 16:36
 
-Gomor autem decima pars est ephi.  <chapter eID="Exod.16"/> <div eID="gen328" type="x-p"/>
+Gomor autem decima pars est ephi.   
 
 * Exodus 17
 
@@ -1862,7 +1862,7 @@ En ego stabo ibi coram te, supra petram Horeb : percutiesque petram, et exibit e
 
 ** Exodus 17:7
 
-et vocavit nomen loci illius, Tentatio, propter jurgium filiorum Israël, et quia tentaverunt Dominum, dicentes : Estne Dominus in nobis, an non ?  <div eID="gen329" type="x-p"/>
+et vocavit nomen loci illius, Tentatio, propter jurgium filiorum Israël, et quia tentaverunt Dominum, dicentes : Estne Dominus in nobis, an non ?  
 
 ** Exodus 17:8
 
@@ -1898,7 +1898,7 @@ Dixit autem Dominus ad Moysen : Scribe hoc ob monimentum in libro, et trade auri
 
 ** Exodus 17:16
 
-Quia manus solii Domini, et bellum Domini erit contra Amalec, a generatione in generationem.  <chapter eID="Exod.17"/> <div eID="gen330" type="x-p"/>
+Quia manus solii Domini, et bellum Domini erit contra Amalec, a generatione in generationem.   
 
 * Exodus 18
 
@@ -1948,7 +1948,7 @@ Nunc cognovi, quia magnus Dominus super omnes deos : eo quod superbe egerint con
 
 ** Exodus 18:12
 
-Obtulit ergo Jethro cognatus Moysi holocausta et hostias Deo : veneruntque Aaron et omnes seniores Israël, ut comederent panem cum eo coram Deo.  <div eID="gen331" type="x-p"/>
+Obtulit ergo Jethro cognatus Moysi holocausta et hostias Deo : veneruntque Aaron et omnes seniores Israël, ut comederent panem cum eo coram Deo.  
 
 ** Exodus 18:13
 
@@ -2008,7 +2008,7 @@ Qui judicabant plebem omni tempore : quidquid autem gravius erat, referebant ad 
 
 ** Exodus 18:27
 
-Dimisitque cognatum suum : qui reversus abiit in terram suam.  <chapter eID="Exod.18"/> <div eID="gen332" type="x-p"/>
+Dimisitque cognatum suum : qui reversus abiit in terram suam.   
 
 * Exodus 19
 
@@ -2018,7 +2018,7 @@ Mense tertio egressionis Israël de terra Ægypti, in die hac venerunt in solitu
 
 ** Exodus 19:2
 
-Nam profecti de Raphidim, et pervenientes usque in desertum Sinai, castrametati sunt in eodem loco, ibique Israël fixit tentoria e regione montis.  <div eID="gen333" type="x-p"/>
+Nam profecti de Raphidim, et pervenientes usque in desertum Sinai, castrametati sunt in eodem loco, ibique Israël fixit tentoria e regione montis.  
 
 ** Exodus 19:3
 
@@ -2046,7 +2046,7 @@ Responditque omnis populus simul : Cuncta quæ locutus est Dominus, faciemus. Cu
 
 ** Exodus 19:9
 
-ait ei Dominus : Jam nunc veniam ad te in caligine nubis, ut audiat me populus loquentem ad te, et credat tibi in perpetuum. Nuntiavit ergo Moyses verba populi ad Dominum.  <div eID="gen334" type="x-p"/>
+ait ei Dominus : Jam nunc veniam ad te in caligine nubis, ut audiat me populus loquentem ad te, et credat tibi in perpetuum. Nuntiavit ergo Moyses verba populi ad Dominum.  
 
 ** Exodus 19:10
 
@@ -2070,7 +2070,7 @@ Descenditque Moyses de monte ad populum, et sanctificavit eum. Cumque lavissent 
 
 ** Exodus 19:15
 
-ait ad eos : Estote parati in diem tertium, et ne appropinquetis uxoribus vestris.  <div eID="gen335" type="x-p"/>
+ait ad eos : Estote parati in diem tertium, et ne appropinquetis uxoribus vestris.  
 
 ** Exodus 19:16
 
@@ -2110,7 +2110,7 @@ Cui ait Dominus : Vade, descende : ascendesque tu, et Aaron tecum : sacerdotes a
 
 ** Exodus 19:25
 
-Descenditque Moyses ad populum, et omnia narravit eis.  <chapter eID="Exod.19"/> <div eID="gen336" type="x-p"/>
+Descenditque Moyses ad populum, et omnia narravit eis.   
 
 * Exodus 20
 
@@ -2180,7 +2180,7 @@ Non loqueris contra proximum tuum falsum testimonium.
 
 ** Exodus 20:17
 
-Non concupisces domum proximi tui, nec desiderabis uxorem ejus, non servum, non ancillam, non bovem, non asinum, nec omnia quæ illius sunt.  <div eID="gen337" type="x-p"/>
+Non concupisces domum proximi tui, nec desiderabis uxorem ejus, non servum, non ancillam, non bovem, non asinum, nec omnia quæ illius sunt.  
 
 ** Exodus 20:18
 
@@ -2196,7 +2196,7 @@ Et ait Moyses ad populum : Nolite timere : ut enim probaret vos venit Deus, et u
 
 ** Exodus 20:21
 
-Stetitque populus de longe. Moyses autem accessit ad caliginem in qua erat Deus.  <div eID="gen338" type="x-p"/>
+Stetitque populus de longe. Moyses autem accessit ad caliginem in qua erat Deus.  
 
 ** Exodus 20:22
 
@@ -2216,7 +2216,7 @@ Quod si altare lapideum feceris mihi, non ædificabis illud de sectis lapidibus 
 
 ** Exodus 20:26
 
-Non ascendes per gradus ad altare meum, ne reveletur turpitudo tua.  <chapter eID="Exod.20"/> <div eID="gen339" type="x-p"/>
+Non ascendes per gradus ad altare meum, ne reveletur turpitudo tua.   
 
 * Exodus 21
 
@@ -2262,7 +2262,7 @@ Quod si alteram ei acceperit, providebit puellæ nuptias, et vestimenta, et pret
 
 ** Exodus 21:11
 
-Si tria ista non fecerit, egredietur gratis absque pecunia.  <div eID="gen340" type="x-p"/>
+Si tria ista non fecerit, egredietur gratis absque pecunia.  
 
 ** Exodus 21:12
 
@@ -2286,7 +2286,7 @@ Qui furatus fuerit hominem, et vendiderit eum, convictus noxæ, morte moriatur.
 
 ** Exodus 21:17
 
-Qui maledixerit patri suo, vel matri, morte moriatur.  <div eID="gen341" type="x-p"/>
+Qui maledixerit patri suo, vel matri, morte moriatur.  
 
 ** Exodus 21:18
 
@@ -2326,7 +2326,7 @@ Si percusserit quispiam oculum servi sui aut ancillæ, et luscos eos fecerit, di
 
 ** Exodus 21:27
 
-Dentem quoque si excusserit servo vel ancillæ suæ, similiter dimittet eos liberos.  <div eID="gen342" type="x-p"/>
+Dentem quoque si excusserit servo vel ancillæ suæ, similiter dimittet eos liberos.  
 
 ** Exodus 21:28
 
@@ -2362,7 +2362,7 @@ Si bos alienus bovem alterius vulneraverit, et ille mortuus fuerit : vendent bov
 
 ** Exodus 21:36
 
-Sin autem sciebat quod bos cornupeta esset ab heri et nudiustertius, et non custodivit eum dominus suus : reddet bovem pro bove, et cadaver integrum accipiet.  <chapter eID="Exod.21"/> <div eID="gen343" type="x-p"/>
+Sin autem sciebat quod bos cornupeta esset ab heri et nudiustertius, et non custodivit eum dominus suus : reddet bovem pro bove, et cadaver integrum accipiet.   
 
 * Exodus 22
 
@@ -2380,7 +2380,7 @@ Quod si orto sole hoc fecerit, homicidium perpetravit, et ipse morietur. Si non 
 
 ** Exodus 22:4
 
-Si inventum fuerit apud eum quod furatus est, vivens : sive bos, sive asinus, sive ovis, duplum restituet.  <div eID="gen344" type="x-p"/>
+Si inventum fuerit apud eum quod furatus est, vivens : sive bos, sive asinus, sive ovis, duplum restituet.  
 
 ** Exodus 22:5
 
@@ -2424,7 +2424,7 @@ Qui a proximo suo quidquam horum mutuo postulaverit, et debilitatum aut mortuum 
 
 ** Exodus 22:15
 
-Quod si impræsentiarum dominus fuerit, non restituet, maxime si conductum venerat pro mercede operis sui.  <div eID="gen345" type="x-p"/>
+Quod si impræsentiarum dominus fuerit, non restituet, maxime si conductum venerat pro mercede operis sui.  
 
 ** Exodus 22:16
 
@@ -2444,7 +2444,7 @@ Qui coierit cum jumento, morte moriatur.
 
 ** Exodus 22:20
 
-Qui immolat diis, occidetur, præterquam Domino soli.  <div eID="gen346" type="x-p"/>
+Qui immolat diis, occidetur, præterquam Domino soli.  
 
 ** Exodus 22:21
 
@@ -2476,7 +2476,7 @@ Ipsum enim est solum, quo operitur, indumentum carnis ejus, nec habet aliud in q
 
 ** Exodus 22:28
 
-Diis non detrahes, et principi populi tui non maledices.  <div eID="gen347" type="x-p"/>
+Diis non detrahes, et principi populi tui non maledices.  
 
 ** Exodus 22:29
 
@@ -2488,7 +2488,7 @@ De bobus quoque, et ovibus similiter facies : septem diebus sit cum matre sua, d
 
 ** Exodus 22:31
 
-Viri sancti eritis mihi : carnem, quæ a bestiis fuerit prægustata, non comedetis, sed projicietis canibus.  <chapter eID="Exod.22"/> <div eID="gen348" type="x-p"/>
+Viri sancti eritis mihi : carnem, quæ a bestiis fuerit prægustata, non comedetis, sed projicietis canibus.   
 
 * Exodus 23
 
@@ -2526,7 +2526,7 @@ Nec accipies munera, quæ etiam excæcant prudentes, et subvertunt verba justoru
 
 ** Exodus 23:9
 
-Peregrino molestus non eris. Scitis enim advenarum animas : quia et ipsi peregrini fuistis in terra Ægypti.  <div eID="gen349" type="x-p"/>
+Peregrino molestus non eris. Scitis enim advenarum animas : quia et ipsi peregrini fuistis in terra Ægypti.  
 
 ** Exodus 23:10
 
@@ -2542,7 +2542,7 @@ Sex diebus operaberis : septimo die cessabis, ut requiescat bos et asinus tuus, 
 
 ** Exodus 23:13
 
-Omnia quæ dixi vobis, custodite. Et per nomen externorum deorum non jurabitis, neque audietur ex ore vestro.  <div eID="gen350" type="x-p"/>
+Omnia quæ dixi vobis, custodite. Et per nomen externorum deorum non jurabitis, neque audietur ex ore vestro.  
 
 ** Exodus 23:14
 
@@ -2566,7 +2566,7 @@ Non immolabis super fermento sanguinem victimæ meæ, nec remanebit adeps solemn
 
 ** Exodus 23:19
 
-Primitias frugum terræ tuæ deferes in domum Domini Dei tui. Non coques hædum in lacte matris suæ.  <div eID="gen351" type="x-p"/>
+Primitias frugum terræ tuæ deferes in domum Domini Dei tui. Non coques hædum in lacte matris suæ.  
 
 ** Exodus 23:20
 
@@ -2578,7 +2578,7 @@ Observa eum, et audi vocem ejus, nec contemnendum putes : quia non dimittet cum 
 
 ** Exodus 23:22
 
-Quod si audieris vocem ejus, et feceris omnia quæ loquor, inimicus ero inimicis tuis, et affligam affligentes te.  <div eID="gen352" type="x-p"/>
+Quod si audieris vocem ejus, et feceris omnia quæ loquor, inimicus ero inimicis tuis, et affligam affligentes te.  
 
 ** Exodus 23:23
 
@@ -2622,7 +2622,7 @@ Non inibis cum eis fœdus, nec cum diis eorum.
 
 ** Exodus 23:33
 
-Non habitent in terra tua, ne forte peccare te faciant in me, si servieris diis eorum : quod tibi certe erit in scandalum.  <chapter eID="Exod.23"/> <div eID="gen353" type="x-p"/>
+Non habitent in terra tua, ne forte peccare te faciant in me, si servieris diis eorum : quod tibi certe erit in scandalum.   
 
 * Exodus 24
 
@@ -2656,7 +2656,7 @@ Assumensque volumen fœderis, legit audiente populo : qui dixerunt : Omnia quæ 
 
 ** Exodus 24:8
 
-Ille vero sumptum sanguinem respersit in populum, et ait : Hic est sanguis fœderis quod pepigit Dominus vobiscum super cunctis sermonibus his.  <div eID="gen354" type="x-p"/>
+Ille vero sumptum sanguinem respersit in populum, et ait : Hic est sanguis fœderis quod pepigit Dominus vobiscum super cunctis sermonibus his.  
 
 ** Exodus 24:9
 
@@ -2696,7 +2696,7 @@ Erat autem species gloriæ Domini quasi ignis ardens super verticem montis in co
 
 ** Exodus 24:18
 
-Ingressusque Moyses medium nebulæ, ascendit in montem : et fuit ibi quadraginta diebus, et quadraginta noctibus.  <chapter eID="Exod.24"/> <div eID="gen355" type="x-p"/>
+Ingressusque Moyses medium nebulæ, ascendit in montem : et fuit ibi quadraginta diebus, et quadraginta noctibus.   
 
 * Exodus 25
 
@@ -2734,7 +2734,7 @@ Facientque mihi sanctuarium, et habitabo in medio eorum :
 
 ** Exodus 25:9
 
-juxta omnem similitudinem tabernaculi quod ostendam tibi, et omnium vasorum in cultum ejus. <div eID="gen356" type="x-p"/> <div sID="gen357" type="x-p"/> Sicque facietis illud :
+juxta omnem similitudinem tabernaculi quod ostendam tibi, et omnium vasorum in cultum ejus.   Sicque facietis illud :
 
 ** Exodus 25:10
 
@@ -2786,7 +2786,7 @@ in qua pones testimonium quod dabo tibi.
 
 ** Exodus 25:22
 
-Inde præcipiam, et loquar ad te supra propitiatorium, ac de medio duorum cherubim, qui erunt super arcam testimonii, cuncta quæ mandabo per te filiis Israël.  <div eID="gen357" type="x-p"/>
+Inde præcipiam, et loquar ad te supra propitiatorium, ac de medio duorum cherubim, qui erunt super arcam testimonii, cuncta quæ mandabo per te filiis Israël.  
 
 ** Exodus 25:23
 
@@ -2818,7 +2818,7 @@ Parabis et acetabula, ac phialas, thuribula, et cyathos, in quibus offerenda sun
 
 ** Exodus 25:30
 
-Et pones super mensam panes propositionis in conspectu meo semper.  <div eID="gen358" type="x-p"/>
+Et pones super mensam panes propositionis in conspectu meo semper.  
 
 ** Exodus 25:31
 
@@ -2858,7 +2858,7 @@ Omne pondus candelabri cum universis vasis suis habebit talentum auri purissimi.
 
 ** Exodus 25:40
 
-Inspice, et fac secundum exemplar quod tibi in monte monstratum est.  <chapter eID="Exod.25"/> <div eID="gen359" type="x-p"/>
+Inspice, et fac secundum exemplar quod tibi in monte monstratum est.   
 
 * Exodus 26
 
@@ -2980,7 +2980,7 @@ Ipsas quoque tabulas deaurabis, et fundes in eis annulos aureos per quos vectes 
 
 ** Exodus 26:30
 
-Et eriges tabernaculum juxta exemplar quod tibi in monte monstratum est.  <div eID="gen360" type="x-p"/>
+Et eriges tabernaculum juxta exemplar quod tibi in monte monstratum est.  
 
 ** Exodus 26:31
 
@@ -3008,7 +3008,7 @@ Facies et tentorium in introitu tabernaculi de hyacintho, et purpura, coccoque b
 
 ** Exodus 26:37
 
-Et quinque columnas deaurabis lignorum setim, ante quas ducetur tentorium : quarum erunt capita aurea, et bases æneæ.  <chapter eID="Exod.26"/> <div eID="gen361" type="x-p"/>
+Et quinque columnas deaurabis lignorum setim, ante quas ducetur tentorium : quarum erunt capita aurea, et bases æneæ.   
 
 * Exodus 27
 
@@ -3042,7 +3042,7 @@ et induces per circulos, eruntque ex utroque latere altaris ad portandum.
 
 ** Exodus 27:8
 
-Non solidum, sed inane et cavum intrinsecus facies illud, sicut tibi in monte monstratum est.  <div eID="gen362" type="x-p"/>
+Non solidum, sed inane et cavum intrinsecus facies illud, sicut tibi in monte monstratum est.  
 
 ** Exodus 27:9
 
@@ -3094,7 +3094,7 @@ Præcipe filiis Israël ut afferant tibi oleum de arboribus olivarum purissimum,
 
 ** Exodus 27:21
 
-in tabernaculo testimonii, extra velum quod oppansum est testimonio. Et collocabunt eam Aaron et filii ejus, ut usque mane luceat coram Domino. Perpetuus erit cultus per successiones eorum a filiis Israël.  <chapter eID="Exod.27"/> <div eID="gen363" type="x-p"/>
+in tabernaculo testimonii, extra velum quod oppansum est testimonio. Et collocabunt eam Aaron et filii ejus, ut usque mane luceat coram Domino. Perpetuus erit cultus per successiones eorum a filiis Israël.   
 
 * Exodus 28
 
@@ -3116,7 +3116,7 @@ Hæc autem erunt vestimenta quæ faciet : rationale et superhumerale, tunicam et
 
 ** Exodus 28:5
 
-Accipientque aurum, et hyacinthum, et purpuram, coccumque bis tinctum, et byssum.  <div eID="gen364" type="x-p"/>
+Accipientque aurum, et hyacinthum, et purpuram, coccumque bis tinctum, et byssum.  
 
 ** Exodus 28:6
 
@@ -3152,7 +3152,7 @@ Facies et uncinos ex auro,
 
 ** Exodus 28:14
 
-et duas catenulas ex auro purissimo sibi invicem cohærentes, quas inseres uncinis.  <div eID="gen365" type="x-p"/>
+et duas catenulas ex auro purissimo sibi invicem cohærentes, quas inseres uncinis.  
 
 ** Exodus 28:15
 
@@ -3216,7 +3216,7 @@ Portabitque Aaron nomina filiorum Israël in rationali judicii super pectus suum
 
 ** Exodus 28:30
 
-Pones autem in rationali judicii Doctrinam et Veritatem, quæ erunt in pectore Aaron, quando ingredietur coram Domino : et gestabit judicium filiorum Israël in pectore suo, in conspectu Domini semper.  <div eID="gen366" type="x-p"/>
+Pones autem in rationali judicii Doctrinam et Veritatem, quæ erunt in pectore Aaron, quando ingredietur coram Domino : et gestabit judicium filiorum Israël in pectore suo, in conspectu Domini semper.  
 
 ** Exodus 28:31
 
@@ -3236,7 +3236,7 @@ ita ut tintinnabulum sit aureum et malum punicum : rursumque tintinnabulum aliud
 
 ** Exodus 28:35
 
-Et vestietur ea Aaron in officio ministerii, ut audiatur sonitus quando ingreditur et egreditur sanctuarium in conspectu Domini, et non moriatur.  <div eID="gen367" type="x-p"/>
+Et vestietur ea Aaron in officio ministerii, ut audiatur sonitus quando ingreditur et egreditur sanctuarium in conspectu Domini, et non moriatur.  
 
 ** Exodus 28:36
 
@@ -3252,7 +3252,7 @@ imminens fronti pontificis. Portabitque Aaron iniquitates eorum, quæ obtulerunt
 
 ** Exodus 28:39
 
-Stringesque tunicam bysso, et tiaram byssinam facies, et balteum opere plumarii.  <div eID="gen368" type="x-p"/>
+Stringesque tunicam bysso, et tiaram byssinam facies, et balteum opere plumarii.  
 
 ** Exodus 28:40
 
@@ -3268,7 +3268,7 @@ Facies et feminalia linea, ut operiant carnem turpitudinis suæ, a renibus usque
 
 ** Exodus 28:43
 
-et utentur eis Aaron et filii ejus quando ingredientur tabernaculum testimonii, vel quando appropinquant ad altare ut ministrent in sanctuario, ne iniquitatis rei moriantur. Legitimum sempiternum erit Aaron, et semini ejus post eum.  <chapter eID="Exod.28"/> <div eID="gen369" type="x-p"/>
+et utentur eis Aaron et filii ejus quando ingredientur tabernaculum testimonii, vel quando appropinquant ad altare ut ministrent in sanctuario, ne iniquitatis rei moriantur. Legitimum sempiternum erit Aaron, et semini ejus post eum.   
 
 * Exodus 29
 
@@ -3326,7 +3326,7 @@ Sumes et adipem totum qui operit intestina, et reticulum jecoris, ac duos renes,
 
 ** Exodus 29:14
 
-carnes vero vituli et corium et fimum combures foris extra castra, eo quod pro peccato sit.  <div eID="gen370" type="x-p"/>
+carnes vero vituli et corium et fimum combures foris extra castra, eo quod pro peccato sit.  
 
 ** Exodus 29:15
 
@@ -3342,7 +3342,7 @@ Ipsum autem arietem secabis in frustra : lotaque intestina ejus ac pedes, pones 
 
 ** Exodus 29:18
 
-Et offeres totum arietem in incensum super altare : oblatio est Domino, odor suavissimus victimæ Domini.  <div eID="gen371" type="x-p"/>
+Et offeres totum arietem in incensum super altare : oblatio est Domino, odor suavissimus victimæ Domini.  
 
 ** Exodus 29:19
 
@@ -3382,7 +3382,7 @@ Sanctificabisque et pectusculum consecratum, et armum quem de ariete separasti,
 
 ** Exodus 29:28
 
-quo initiatus est Aaron et filii ejus, cedentque in partem Aaron et filiorum ejus jure perpetuo a filiis Israël : quia primitiva sunt et initia de victimis eorum pacificis quæ offerunt Domino.  <div eID="gen372" type="x-p"/>
+quo initiatus est Aaron et filii ejus, cedentque in partem Aaron et filiorum ejus jure perpetuo a filiis Israël : quia primitiva sunt et initia de victimis eorum pacificis quæ offerunt Domino.  
 
 ** Exodus 29:29
 
@@ -3390,7 +3390,7 @@ Vestem autem sanctam, qua utetur Aaron, habebunt filii ejus post eum, ut ungantu
 
 ** Exodus 29:30
 
-Septem diebus utetur illa qui pontifex pro eo fuerit constitutus de filiis ejus, et qui ingredietur tabernaculum testimonii ut ministret in sanctuario.  <div eID="gen373" type="x-p"/>
+Septem diebus utetur illa qui pontifex pro eo fuerit constitutus de filiis ejus, et qui ingredietur tabernaculum testimonii ut ministret in sanctuario.  
 
 ** Exodus 29:31
 
@@ -3406,7 +3406,7 @@ ut sit placabile sacrificium, et sanctificentur offerentium manus. Alienigena no
 
 ** Exodus 29:34
 
-Quod si remanserit de carnibus consecratis, sive de panibus usque mane, combures reliquias igni : non comedentur, quia sanctificata sunt.  <div eID="gen374" type="x-p"/>
+Quod si remanserit de carnibus consecratis, sive de panibus usque mane, combures reliquias igni : non comedentur, quia sanctificata sunt.  
 
 ** Exodus 29:35
 
@@ -3418,7 +3418,7 @@ et vitulum pro peccato offeres per singulos dies ad expiandum. Mundabisque altar
 
 ** Exodus 29:37
 
-Septem diebus expiabis altare, et sanctificabis, et erit Sanctum sanctorum : omnis, qui tetigerit illud, sanctificabitur.  <div eID="gen375" type="x-p"/>
+Septem diebus expiabis altare, et sanctificabis, et erit Sanctum sanctorum : omnis, qui tetigerit illud, sanctificabitur.  
 
 ** Exodus 29:38
 
@@ -3454,7 +3454,7 @@ Et habitabo in medio filiorum Israël, eroque eis Deus,
 
 ** Exodus 29:46
 
-et scient quia ego Dominus Deus eorum, qui eduxi eos de terra Ægypti, ut manerem inter illos, ego Dominus Deus ipsorum.  <chapter eID="Exod.29"/> <div eID="gen376" type="x-p"/>
+et scient quia ego Dominus Deus eorum, qui eduxi eos de terra Ægypti, ut manerem inter illos, ego Dominus Deus ipsorum.   
 
 * Exodus 30
 
@@ -3496,7 +3496,7 @@ Non offeretis super eo thymiama compositionis alterius, nec oblationem, et victi
 
 ** Exodus 30:10
 
-Et deprecabitur Aaron super cornua ejus semel per annum, in sanguine quod oblatum est pro peccato, et placabit super eo in generationibus vestris. Sanctum sanctorum erit Domino.  <div eID="gen377" type="x-p"/>
+Et deprecabitur Aaron super cornua ejus semel per annum, in sanguine quod oblatum est pro peccato, et placabit super eo in generationibus vestris. Sanctum sanctorum erit Domino.  
 
 ** Exodus 30:11
 
@@ -3520,7 +3520,7 @@ Dives non addet ad medium sicli, et pauper nihil minuet.
 
 ** Exodus 30:16
 
-Susceptamque pecuniam, quæ collata est a filiis Israël, trades in usus tabernaculi testimonii, ut sit monimentum eorum coram Domino, et propitietur animabus eorum.  <div eID="gen378" type="x-p"/>
+Susceptamque pecuniam, quæ collata est a filiis Israël, trades in usus tabernaculi testimonii, ut sit monimentum eorum coram Domino, et propitietur animabus eorum.  
 
 ** Exodus 30:17
 
@@ -3540,7 +3540,7 @@ quando ingressuri sunt tabernaculum testimonii, et quando accessuri sunt ad alta
 
 ** Exodus 30:21
 
-ne forte moriantur ; legitimum sempiternum erit ipsi, et semini ejus per successiones.  <div eID="gen379" type="x-p"/>
+ne forte moriantur ; legitimum sempiternum erit ipsi, et semini ejus per successiones.  
 
 ** Exodus 30:22
 
@@ -3608,7 +3608,7 @@ Talem compositionem non facietis in usus vestros, quia sanctum est Domino.
 
 ** Exodus 30:38
 
-Homo quicumque fecerit simile, ut odore illius perfruatur, peribit de populis suis.  <chapter eID="Exod.30"/> <div eID="gen380" type="x-p"/>
+Homo quicumque fecerit simile, ut odore illius perfruatur, peribit de populis suis.   
 
 * Exodus 31
 
@@ -3654,7 +3654,7 @@ vestes sanctas in ministerio Aaron sacerdoti, et filiis ejus, ut fungantur offic
 
 ** Exodus 31:11
 
-oleum unctionis, et thymiama aromatum in sanctuario, omnia quæ præcepi tibi, facient.  <div eID="gen381" type="x-p"/>
+oleum unctionis, et thymiama aromatum in sanctuario, omnia quæ præcepi tibi, facient.  
 
 ** Exodus 31:12
 
@@ -3682,7 +3682,7 @@ inter me et filios Israël, signumque perpetuum ; sex enim diebus fecit Dominus 
 
 ** Exodus 31:18
 
-Deditque Dominus Moysi, completis hujuscemodi sermonibus in monte Sinai, duas tabulas testimonii lapideas, scriptas digito Dei.  <chapter eID="Exod.31"/> <div eID="gen382" type="x-p"/>
+Deditque Dominus Moysi, completis hujuscemodi sermonibus in monte Sinai, duas tabulas testimonii lapideas, scriptas digito Dei.   
 
 * Exodus 32
 
@@ -3708,7 +3708,7 @@ Quod cum vidisset Aaron, ædificavit altare coram eo, et præconis voce clamavit
 
 ** Exodus 32:6
 
-Surgentesque mane, obtulerunt holocausta, et hostias pacificas, et sedit populus manducare, et bibere, et surrexerunt ludere.  <div eID="gen383" type="x-p"/>
+Surgentesque mane, obtulerunt holocausta, et hostias pacificas, et sedit populus manducare, et bibere, et surrexerunt ludere.  
 
 ** Exodus 32:7
 
@@ -3740,7 +3740,7 @@ Recordare Abraham, Isaac, et Israël servorum tuorum, quibus jurasti per temetip
 
 ** Exodus 32:14
 
-Placatusque est Dominus ne faceret malum quod locutus fuerat adversus populum suum.  <div eID="gen384" type="x-p"/>
+Placatusque est Dominus ne faceret malum quod locutus fuerat adversus populum suum.  
 
 ** Exodus 32:15
 
@@ -3780,7 +3780,7 @@ dixerunt mihi : Fac nobis deos, qui nos præcedant : huic enim Moysi, qui nos ed
 
 ** Exodus 32:24
 
-Quibus ego dixi : Quis vestrum habet aurum ? Tulerunt, et dederunt mihi : et projeci illud in ignem, egressusque est hic vitulus.  <div eID="gen385" type="x-p"/>
+Quibus ego dixi : Quis vestrum habet aurum ? Tulerunt, et dederunt mihi : et projeci illud in ignem, egressusque est hic vitulus.  
 
 ** Exodus 32:25
 
@@ -3824,7 +3824,7 @@ tu autem vade, et duc populum istum quo locutus sum tibi : angelus meus præcede
 
 ** Exodus 32:35
 
-Percussit ergo Dominus populum pro reatu vituli, quem fecerat Aaron.  <chapter eID="Exod.32"/> <div eID="gen386" type="x-p"/>
+Percussit ergo Dominus populum pro reatu vituli, quem fecerat Aaron.   
 
 * Exodus 33
 
@@ -3850,7 +3850,7 @@ Dixitque Dominus ad Moysen : Loquere filiis Israël : Populus duræ cervicis es 
 
 ** Exodus 33:6
 
-Deposuerunt ergo filii Israël ornatum suum a monte Horeb.  <div eID="gen387" type="x-p"/>
+Deposuerunt ergo filii Israël ornatum suum a monte Horeb.  
 
 ** Exodus 33:7
 
@@ -3870,7 +3870,7 @@ cernentibus universis quod columna nubis staret ad ostium tabernaculi. Stabantqu
 
 ** Exodus 33:11
 
-Loquebatur autem Dominus ad Moysen facie ad faciem, sicut solet loqui homo ad amicum suum. Cumque ille reverteretur in castra, minister ejus Josue filius Nun, puer, non recedebat de tabernaculo.  <div eID="gen388" type="x-p"/>
+Loquebatur autem Dominus ad Moysen facie ad faciem, sicut solet loqui homo ad amicum suum. Cumque ille reverteretur in castra, minister ejus Josue filius Nun, puer, non recedebat de tabernaculo.  
 
 ** Exodus 33:12
 
@@ -3894,7 +3894,7 @@ In quo enim scire poterimus ego et populus tuus invenisse nos gratiam in conspec
 
 ** Exodus 33:17
 
-Dixit autem Dominus ad Moysen : Et verbum istud, quod locutus es, faciam : invenisti enim gratiam coram me, et teipsum novi ex nomine.  <div eID="gen389" type="x-p"/>
+Dixit autem Dominus ad Moysen : Et verbum istud, quod locutus es, faciam : invenisti enim gratiam coram me, et teipsum novi ex nomine.  
 
 ** Exodus 33:18
 
@@ -3918,7 +3918,7 @@ Cumque transibit gloria mea, ponam te in foramine petræ, et protegam dextera me
 
 ** Exodus 33:23
 
-tollamque manum meam, et videbis posteriora mea : faciem autem meam videre non poteris.  <chapter eID="Exod.33"/> <div eID="gen390" type="x-p"/>
+tollamque manum meam, et videbis posteriora mea : faciem autem meam videre non poteris.   
 
 * Exodus 34
 
@@ -3956,7 +3956,7 @@ Festinusque Moyses, curvatus est pronus in terram, et adorans
 
 ** Exodus 34:9
 
-ait : Si inveni gratiam in conspectu tuo, Domine, obsecro ut gradiaris nobiscum (populus enim duræ cervicis est) et auferas iniquitates nostras atque peccata, nosque possideas.  <div eID="gen391" type="x-p"/>
+ait : Si inveni gratiam in conspectu tuo, Domine, obsecro ut gradiaris nobiscum (populus enim duræ cervicis est) et auferas iniquitates nostras atque peccata, nosque possideas.  
 
 ** Exodus 34:10
 
@@ -4028,7 +4028,7 @@ Primitias frugum terræ tuæ offeres in domo Domini Dei tui. Non coques hædum i
 
 ** Exodus 34:27
 
-Dixitque Dominus ad Moysen : Scribe tibi verba hæc, quibus et tecum et cum Israël pepigi fœdus.  <div eID="gen392" type="x-p"/>
+Dixitque Dominus ad Moysen : Scribe tibi verba hæc, quibus et tecum et cum Israël pepigi fœdus.  
 
 ** Exodus 34:28
 
@@ -4060,7 +4060,7 @@ Quod ingressus ad Dominum, et loquens cum eo, auferebat donec exiret, et tunc lo
 
 ** Exodus 34:35
 
-Qui videbant faciem egredientis Moysi esse cornutam, sed operiebat ille rursus faciem suam, siquando loquebatur ad eos.  <chapter eID="Exod.34"/> <div eID="gen393" type="x-p"/>
+Qui videbant faciem egredientis Moysi esse cornutam, sed operiebat ille rursus faciem suam, siquando loquebatur ad eos.   
 
 * Exodus 35
 
@@ -4178,7 +4178,7 @@ aromataque et oleum ad luminaria concinnanda, et ad præparandum unguentum, ac t
 
 ** Exodus 35:29
 
-Omnes viri et mulieres mente devota obtulerunt donaria, ut fierent opera, quæ jusserat Dominus per manum Moysi. Cuncti filii Israël voluntaria Domino dedicaverunt.  <div eID="gen394" type="x-p"/>
+Omnes viri et mulieres mente devota obtulerunt donaria, ut fierent opera, quæ jusserat Dominus per manum Moysi. Cuncti filii Israël voluntaria Domino dedicaverunt.  
 
 ** Exodus 35:30
 
@@ -4202,7 +4202,7 @@ dedit in corde ejus : Ooliab quoque filium Achisamech de tribu Dan :
 
 ** Exodus 35:35
 
-ambos erudivit sapientia, ut faciant opera abietarii, polymitarii, ac plumarii, de hyacintho ac purpura, coccoque bis tincto, et bysso, et texant omnia, ac nova quæque reperiant.  <chapter eID="Exod.35"/> <div eID="gen395" type="x-p"/>
+ambos erudivit sapientia, ut faciant opera abietarii, polymitarii, ac plumarii, de hyacintho ac purpura, coccoque bis tincto, et bysso, et texant omnia, ac nova quæque reperiant.   
 
 * Exodus 36
 
@@ -4232,7 +4232,7 @@ Jussit ergo Moyses præconis voce cantari : Nec vir, nec mulier quidquam offerat
 
 ** Exodus 36:7
 
-eo quod oblata sufficerent et superabundarent.  <div eID="gen396" type="x-p"/>
+eo quod oblata sufficerent et superabundarent.  
 
 ** Exodus 36:8
 
@@ -4356,7 +4356,7 @@ Fecit et tentorium in introitu tabernaculi ex hyacintho, purpura, vermiculo, bys
 
 ** Exodus 36:38
 
-et columnas quinque cum capitibus suis, quas operuit auro, basesque earum fudit æneas.  <chapter eID="Exod.36"/> <div eID="gen397" type="x-p"/>
+et columnas quinque cum capitibus suis, quas operuit auro, basesque earum fudit æneas.   
 
 * Exodus 37
 
@@ -4394,7 +4394,7 @@ cherub unum in summitate unius partis, et cherub alterum in summitate partis alt
 
 ** Exodus 37:9
 
-extendentes alas, et tegentes propitiatorium, seque mutuo et illud respicientes.  <div eID="gen398" type="x-p"/>
+extendentes alas, et tegentes propitiatorium, seque mutuo et illud respicientes.  
 
 ** Exodus 37:10
 
@@ -4422,7 +4422,7 @@ Ipsos quoque vectes fecit de lignis setim, et circumdedit eos auro.
 
 ** Exodus 37:16
 
-Et vasa ad diversos usus mensæ, acetabula, phialas, et cyathos, et thuribula, ex auro puro, in quibus offerenda sunt libamina.  <div eID="gen399" type="x-p"/>
+Et vasa ad diversos usus mensæ, acetabula, phialas, et cyathos, et thuribula, ex auro puro, in quibus offerenda sunt libamina.  
 
 ** Exodus 37:17
 
@@ -4454,7 +4454,7 @@ Fecit et lucernas septem cum emunctoriis suis, et vasa ubi ea, quæ emuncta sunt
 
 ** Exodus 37:24
 
-Talentum auri appendebat candelabrum cum omnibus vasis suis.  <div eID="gen400" type="x-p"/>
+Talentum auri appendebat candelabrum cum omnibus vasis suis.  
 
 ** Exodus 37:25
 
@@ -4474,7 +4474,7 @@ Ipsos autem vectes fecit de lignis setim, et operuit laminis aureis.
 
 ** Exodus 37:29
 
-Composuit et oleum ad sanctificationis unguentum, et thymiama de aromatibus mundissimis opere pigmentarii.  <chapter eID="Exod.37"/> <div eID="gen401" type="x-p"/>
+Composuit et oleum ad sanctificationis unguentum, et thymiama de aromatibus mundissimis opere pigmentarii.   
 
 * Exodus 38
 
@@ -4504,7 +4504,7 @@ quos et ipsos fecit de lignis setim, et operuit laminis æneis :
 
 ** Exodus 38:7
 
-induxitque in circulos, qui in lateribus altaris eminebant. Ipsum autem altare non erat solidum, sed cavum ex tabulis, et intus vacuum.  <div eID="gen402" type="x-p"/>
+induxitque in circulos, qui in lateribus altaris eminebant. Ipsum autem altare non erat solidum, sed cavum ex tabulis, et intus vacuum.  
 
 ** Exodus 38:8
 
@@ -4556,7 +4556,7 @@ Columnæ autem in ingressu fuere quatuor cum basibus æneis, capitaque earum et 
 
 ** Exodus 38:20
 
-Paxillos quoque tabernaculi et atrii per gyrum fecit æneos.  <div eID="gen403" type="x-p"/>
+Paxillos quoque tabernaculi et atrii per gyrum fecit æneos.  
 
 ** Exodus 38:21
 
@@ -4600,7 +4600,7 @@ ex quibus fusæ sunt bases in introitu tabernaculi testimonii, et altare æneum 
 
 ** Exodus 38:31
 
-et bases atrii tam in circuitu quam in ingressu ejus, et paxilli tabernaculi atque atrii per gyrum.  <chapter eID="Exod.38"/> <div eID="gen404" type="x-p"/>
+et bases atrii tam in circuitu quam in ingressu ejus, et paxilli tabernaculi atque atrii per gyrum.   
 
 * Exodus 39
 
@@ -4722,7 +4722,7 @@ Fecerunt et laminam sacræ venerationis de auro purissimo, scripseruntque in ea 
 
 ** Exodus 39:30
 
-et strinxerunt eam cum mitra vitta hyacinthina, sicut præceperat Dominus Moysi.  <div eID="gen405" type="x-p"/>
+et strinxerunt eam cum mitra vitta hyacinthina, sicut præceperat Dominus Moysi.  
 
 ** Exodus 39:31
 
@@ -4774,7 +4774,7 @@ obtulerunt filii Israël, sicut præceperat Dominus.
 
 ** Exodus 39:43
 
-Quæ postquam Moyses cuncta vidit completa, benedixit eis.  <chapter eID="Exod.39"/> <div eID="gen406" type="x-p"/>
+Quæ postquam Moyses cuncta vidit completa, benedixit eis.   
 
 * Exodus 40
 
@@ -4900,7 +4900,7 @@ cum ingrederentur tectum fœderis, et accederent ad altare, sicut præceperat Do
 
 ** Exodus 40:31
 
-Erexit et atrium per gyrum tabernaculi et altaris, ducto in introitu ejus tentorio. <div eID="gen407" type="x-p"/> <div sID="gen408" type="x-p"/> Postquam omnia perfecta sunt,
+Erexit et atrium per gyrum tabernaculi et altaris, ducto in introitu ejus tentorio.   Postquam omnia perfecta sunt,
 
 ** Exodus 40:32
 
@@ -4920,5 +4920,5 @@ si pendebat desuper, manebant in eodem loco.
 
 ** Exodus 40:36
 
-Nubes quippe Domini incubabat per diem tabernaculo, et ignis in nocte, videntibus cunctis populis Israël per cunctas mansiones suas.  <div eID="gen408" type="x-p"/> <chapter eID="Exod.40"/> <div eID="gen235" osisID="Exod" type="book"/>
+Nubes quippe Domini incubabat per diem tabernaculo, et ignis in nocte, videntibus cunctis populis Israël per cunctas mansiones suas.    
 

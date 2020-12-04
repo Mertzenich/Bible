@@ -74,7 +74,7 @@ For behold I have made thee this day a fortified city, and a pillar of iron, and
 
 *** Jeremiah 1:19
 
-And they shall fight against them, and shall not prevail: for I am with thee, saith the Lord, to deliver thee. <chapter eID="gen22675" osisID="Jer.1"/>
+And they shall fight against them, and shall not prevail: for I am with thee, saith the Lord, to deliver thee. 
 
 ** Jeremiah 2
 
@@ -224,7 +224,7 @@ How exceeding base art thou become, going the same ways over again! and thou sha
 
 *** Jeremiah 2:37
 
-For from thence thou shalt go, and thy hand shall be upon thy head: for the Lord hath destroyed thy trust, and thou shalt have nothing prosperous therein. <chapter eID="gen22695" osisID="Jer.2"/>
+For from thence thou shalt go, and thy hand shall be upon thy head: for the Lord hath destroyed thy trust, and thou shalt have nothing prosperous therein. 
 
 ** Jeremiah 3
 
@@ -326,7 +326,7 @@ Confusion hath devoured the labour of our fathers from our youth, their flocks a
 
 *** Jeremiah 3:25
 
-We shall sleep in our confusion, and our shame shall cover us, because we have sinned against the Lord our God, we and our fathers from our youth even to this day, and we have not hearkened to the voice of the Lord our God. <chapter eID="gen22733" osisID="Jer.3"/>
+We shall sleep in our confusion, and our shame shall cover us, because we have sinned against the Lord our God, we and our fathers from our youth even to this day, and we have not hearkened to the voice of the Lord our God. 
 
 ** Jeremiah 4
 
@@ -452,7 +452,7 @@ But when thou art spoiled what wilt thou do? though thou clothest thyself with s
 
 *** Jeremiah 4:31
 
-For I have heard the voice as of a woman in travail, anguishes as of a woman in labour of a child. The voice of the daughter of Sion, dying away, spreading her hands: Woe is me, for my soul hath fainted because of them that are slain. <chapter eID="gen22759" osisID="Jer.4"/>
+For I have heard the voice as of a woman in travail, anguishes as of a woman in labour of a child. The voice of the daughter of Sion, dying away, spreading her hands: Woe is me, for my soul hath fainted because of them that are slain. 
 
 ** Jeremiah 5
 
@@ -578,7 +578,7 @@ Astonishing and wonderful things have been done in the land.
 
 *** Jeremiah 5:31
 
-The prophets prophesied falsehood, and the priests clapped their hands: and my people loved such things: what then shall be done in the end thereof? <chapter eID="gen22791" osisID="Jer.5"/>
+The prophets prophesied falsehood, and the priests clapped their hands: and my people loved such things: what then shall be done in the end thereof? 
 
 ** Jeremiah 6
 
@@ -700,7 +700,7 @@ The bellows have failed, the lead is consumed in the fire, the founder hath melt
 
 *** Jeremiah 6:30
 
-Call them reprobate silver, for the Lord hath rejected them. <chapter eID="gen22823" osisID="Jer.6"/>
+Call them reprobate silver, for the Lord hath rejected them. 
 
 ** Jeremiah 7
 
@@ -838,7 +838,7 @@ And the carcasses of this people shall be meat for the fowls of the air, and for
 
 *** Jeremiah 7:34
 
-And I will cause to cease out of the cities of Juda, and out of the streets of Jerusalem, the voice of joy, and the voice of gladness, the voice of the bridegroom and the voice of the bride: for the land shall be desolate. <chapter eID="gen22854" osisID="Jer.7"/>
+And I will cause to cease out of the cities of Juda, and out of the streets of Jerusalem, the voice of joy, and the voice of gladness, the voice of the bridegroom and the voice of the bride: for the land shall be desolate. 
 
 ** Jeremiah 8
 
@@ -928,7 +928,7 @@ For the affliction of the daughter of my people I am afflicted, and made sorrowf
 
 *** Jeremiah 8:22
 
-Is there no balm in Galaad? or is there no physician there? Why then is not the wound of the daughter of my people closed? <chapter eID="gen22889" osisID="Jer.8"/>
+Is there no balm in Galaad? or is there no physician there? Why then is not the wound of the daughter of my people closed? 
 
 ** Jeremiah 9
 
@@ -1034,7 +1034,7 @@ Behold, the days come, saith the Lord, and I will visit upon every one that hath
 
 *** Jeremiah 9:26
 
-Upon Egypt, and upon Juda, and upon Edom, and upon the children of Ammon, and upon Moab, and upon all that have their hair polled round, that dwell in the desert: for all the nations are uncircumcised in the flesh, but all the house of Israel are uncircumcised in the heart. <chapter eID="gen22912" osisID="Jer.9"/>
+Upon Egypt, and upon Juda, and upon Edom, and upon the children of Ammon, and upon Moab, and upon all that have their hair polled round, that dwell in the desert: for all the nations are uncircumcised in the flesh, but all the house of Israel are uncircumcised in the heart. 
 
 ** Jeremiah 10
 
@@ -1136,7 +1136,7 @@ Correct me, O Lord, but yet with judgment: and not in thy fury, lest thou bring 
 
 *** Jeremiah 10:25
 
-Pour out thy indignation upon the nations that have not known thee, and upon the provinces that have not called upon thy name: because they have eaten up Jacob, and devoured him, and consumed him, and have destroyed his glory. <chapter eID="gen22939" osisID="Jer.10"/>
+Pour out thy indignation upon the nations that have not known thee, and upon the provinces that have not called upon thy name: because they have eaten up Jacob, and devoured him, and consumed him, and have destroyed his glory. 
 
 ** Jeremiah 11
 
@@ -1230,7 +1230,7 @@ Therefore thus saith the Lord of hosts: Behold I will visit upon them: their you
 
 *** Jeremiah 11:23
 
-And there shall be no remains of them: for I will bring in evil upon the men of Anathoth, the year of their visitation. <chapter eID="gen22965" osisID="Jer.11"/>
+And there shall be no remains of them: for I will bring in evil upon the men of Anathoth, the year of their visitation. 
 
 ** Jeremiah 12
 
@@ -1300,7 +1300,7 @@ And it shall come to pass, if they will be taught, and will learn the ways of my
 
 *** Jeremiah 12:17
 
-But if they will not hear, I will utterly pluck out and destroy that nation, saith the Lord. <chapter eID="gen22989" osisID="Jer.12"/>
+But if they will not hear, I will utterly pluck out and destroy that nation, saith the Lord. 
 
 ** Jeremiah 13
 
@@ -1410,7 +1410,7 @@ Wherefore I have also bared thy thighs against thy face, and thy shame hath appe
 
 *** Jeremiah 13:27
 
-I have seen thy adulteries, and thy neighing, the wickedness of thy fornication: and thy abominations, upon the hills in the field. Woe to thee, Jerusalem, wilt thou not be made clean after me: how long yet? <chapter eID="gen23007" osisID="Jer.13"/>
+I have seen thy adulteries, and thy neighing, the wickedness of thy fornication: and thy abominations, upon the hills in the field. Woe to thee, Jerusalem, wilt thou not be made clean after me: how long yet? 
 
 ** Jeremiah 14
 
@@ -1500,7 +1500,7 @@ Give us not to be a reproach, for thy name's sake, and do not disgrace in us the
 
 *** Jeremiah 14:22
 
-Are there any among the graven things of the Gentiles that can send rain? or can the heavens give showers? art not thou the Lord our God, whom we have looked for? for thou hast made all these things. <chapter eID="gen23035" osisID="Jer.14"/>
+Are there any among the graven things of the Gentiles that can send rain? or can the heavens give showers? art not thou the Lord our God, whom we have looked for? for thou hast made all these things. 
 
 ** Jeremiah 15
 
@@ -1586,7 +1586,7 @@ And I will make thee to this people as a strong wall of brass: and they shall fi
 
 *** Jeremiah 15:21
 
-And I will deliver thee out of the hand of the wicked, and I will redeem thee out of the hand of the mighty. <chapter eID="gen23058" osisID="Jer.15"/>
+And I will deliver thee out of the hand of the wicked, and I will redeem thee out of the hand of the mighty. 
 
 ** Jeremiah 16
 
@@ -1672,7 +1672,7 @@ Shall a man make gods unto himself and they are no gods?
 
 *** Jeremiah 16:21
 
-Therefore behold I will this once cause them to know, I will shew them my hand and my power: and they shall know that my name is the Lord. <chapter eID="gen23080" osisID="Jer.16"/>
+Therefore behold I will this once cause them to know, I will shew them my hand and my power: and they shall know that my name is the Lord. 
 
 ** Jeremiah 17
 
@@ -1782,7 +1782,7 @@ And they shall come from the cities of Juda, and from the places round about Jer
 
 *** Jeremiah 17:27
 
-But if you will not hearken to me, to sanctify the sabbath day, and not to carry burdens, and not to bring them in by the gates of Jerusalem on the sabbath day: I will kindle a fire in the gates thereof, and it shall devour the houses of Jerusalem, and it shall not be quenched. <chapter eID="gen23102" osisID="Jer.17"/>
+But if you will not hearken to me, to sanctify the sabbath day, and not to carry burdens, and not to bring them in by the gates of Jerusalem on the sabbath day: I will kindle a fire in the gates thereof, and it shall devour the houses of Jerusalem, and it shall not be quenched. 
 
 ** Jeremiah 18
 
@@ -1876,7 +1876,7 @@ Let a cry be heard out of their houses: for thou shalt bring the robber upon the
 
 *** Jeremiah 18:23
 
-But thou, O Lord, knowest all their counsel against me unto death: not their iniquity, and let not their sin be blotted out from thy sight: let them be overthrown before thy eyes, in the time of thy wrath do thou destroy them. <chapter eID="gen23130" osisID="Jer.18"/>
+But thou, O Lord, knowest all their counsel against me unto death: not their iniquity, and let not their sin be blotted out from thy sight: let them be overthrown before thy eyes, in the time of thy wrath do thou destroy them. 
 
 ** Jeremiah 19
 
@@ -1938,7 +1938,7 @@ Then Jeremiah came from Topheth, whither the Lord had sent him to prophesy, and 
 
 *** Jeremiah 19:15
 
-Thus saith the Lord of hosts, the God of Israel: Behold I will bring in upon this city, and upon all the cities thereof all the evils that I have spoken against it: because they have hardened their necks, that they might not hear my words. <chapter eID="gen23154" osisID="Jer.19"/>
+Thus saith the Lord of hosts, the God of Israel: Behold I will bring in upon this city, and upon all the cities thereof all the evils that I have spoken against it: because they have hardened their necks, that they might not hear my words. 
 
 ** Jeremiah 20
 
@@ -2012,7 +2012,7 @@ Who slew me not from the womb, that my mother might have been my grave, and her 
 
 *** Jeremiah 20:18
 
-Why came I out of the womb, to see labour and sorrow, and that my days should be spent in confusion? <chapter eID="gen23170" osisID="Jer.20"/>
+Why came I out of the womb, to see labour and sorrow, and that my days should be spent in confusion? 
 
 ** Jeremiah 21
 
@@ -2070,7 +2070,7 @@ Behold I come to thee that dwellest in a valley upon a rock above a plain, saith
 
 *** Jeremiah 21:14
 
-But I will visit upon you according to the fruit of your doings, saith the Lord: and I will kindle a fire in the forest thereof: and it shall devour all things round about it. <chapter eID="gen23189" osisID="Jer.21"/>
+But I will visit upon you according to the fruit of your doings, saith the Lord: and I will kindle a fire in the forest thereof: and it shall devour all things round about it. 
 
 ** Jeremiah 22
 
@@ -2192,7 +2192,7 @@ O earth, earth, earth, hear the word of the Lord.
 
 *** Jeremiah 22:30
 
-Thus saith the Lord: Write this man barren, a man that shall not prosper in his days: for there shall not be a man of his seed that shall sit upon the throne of David, and have power any more in Juda. <chapter eID="gen23204" osisID="Jer.22"/>
+Thus saith the Lord: Write this man barren, a man that shall not prosper in his days: for there shall not be a man of his seed that shall sit upon the throne of David, and have power any more in Juda. 
 
 ** Jeremiah 23
 
@@ -2354,7 +2354,7 @@ Therefore behold I will take you away carrying you, and will forsake you, and th
 
 *** Jeremiah 23:40
 
-And I will bring an everlasting reproach upon you, and a perpetual shame which shall never be forgotten. <chapter eID="gen23235" osisID="Jer.23"/>
+And I will bring an everlasting reproach upon you, and a perpetual shame which shall never be forgotten. 
 
 ** Jeremiah 24
 
@@ -2396,7 +2396,7 @@ And I will deliver them up to vexation, and affliction, to all the kingdoms of t
 
 *** Jeremiah 24:10
 
-And I will send among them the sword, and the famine, and the pestilence: till they be consumed out of the land which I gave to them, and their fathers. <chapter eID="gen23276" osisID="Jer.24"/>
+And I will send among them the sword, and the famine, and the pestilence: till they be consumed out of the land which I gave to them, and their fathers. 
 
 ** Jeremiah 25
 
@@ -2550,7 +2550,7 @@ And the fields of peace have been silent because of the fierce anger of the Lord
 
 *** Jeremiah 25:38
 
-He hath forsaken his covert as the lion, for the land is laid waste because of the wrath of the dove, and because of the fierce anger of the Lord. <chapter eID="gen23287" osisID="Jer.25"/>
+He hath forsaken his covert as the lion, for the land is laid waste because of the wrath of the dove, and because of the fierce anger of the Lord. 
 
 ** Jeremiah 26
 
@@ -2648,7 +2648,7 @@ And they brought Urias out of Egypt: and brought him to king Joakim, and he slew
 
 *** Jeremiah 26:24
 
-So the hand of Ahicam the son of Saphan was with Jeremiah, that he should not be delivered into the hands of the people, to put him to death. <chapter eID="gen23326" osisID="Jer.26"/>
+So the hand of Ahicam the son of Saphan was with Jeremiah, that he should not be delivered into the hands of the people, to put him to death. 
 
 ** Jeremiah 27
 
@@ -2738,7 +2738,7 @@ For thus saith the Lord of hosts the God of Israel, to the vessels that are left
 
 *** Jeremiah 27:22
 
-They shall be carried to Babylon, and there they shall be until the day of their visitation, saith the Lord: and I will cause them to be brought, and to be restored in this place. <chapter eID="gen23351" osisID="Jer.27"/>
+They shall be carried to Babylon, and there they shall be until the day of their visitation, saith the Lord: and I will cause them to be brought, and to be restored in this place. 
 
 ** Jeremiah 28
 
@@ -2808,7 +2808,7 @@ Therefore thus saith the Lord: Behold I will send thee away from off the face of
 
 *** Jeremiah 28:17
 
-And Hananias the prophet died in that year, in the seventh month. <chapter eID="gen23374" osisID="Jer.28"/>
+And Hananias the prophet died in that year, in the seventh month. 
 
 ** Jeremiah 29
 
@@ -2938,7 +2938,7 @@ Send to all them of the captivity, saying: Thus saith the Lord to Semeias the Ne
 
 *** Jeremiah 29:32
 
-Therefore thus saith the Lord: behold I will visit upon Semeias the Nehelamite, and upon his seed: he shall not have a man to sit in the midst of this people, and he shall not see the good that I will do to my people, saith the Lord: because he hath spoken treason against the Lord. <chapter eID="gen23392" osisID="Jer.29"/>
+Therefore thus saith the Lord: behold I will visit upon Semeias the Nehelamite, and upon his seed: he shall not have a man to sit in the midst of this people, and he shall not see the good that I will do to my people, saith the Lord: because he hath spoken treason against the Lord. 
 
 ** Jeremiah 30
 
@@ -3036,7 +3036,7 @@ Behold the whirlwind of the Lord, his fury going forth, a violent storm, it shal
 
 *** Jeremiah 30:24
 
-The Lord will not turn away the wrath of his indignation, till he have executed and performed the thought of his heart: in the latter days you shall understand these things. <chapter eID="gen23425" osisID="Jer.30"/>
+The Lord will not turn away the wrath of his indignation, till he have executed and performed the thought of his heart: in the latter days you shall understand these things. 
 
 ** Jeremiah 31
 
@@ -3198,7 +3198,7 @@ And the measuring line shall go out farther in his sight upon the hill Gareb: an
 
 *** Jeremiah 31:40
 
-And the whole valley of dead bodies, and of ashes, and all the country of death, even to the torrent Cedron, and to the corner of the horse gate towards the east, the Holy of the Lord: it shall not be plucked up, and it shall not be destroyed any more for ever. <chapter eID="gen23450" osisID="Jer.31"/>
+And the whole valley of dead bodies, and of ashes, and all the country of death, even to the torrent Cedron, and to the corner of the horse gate towards the east, the Holy of the Lord: it shall not be plucked up, and it shall not be destroyed any more for ever. 
 
 ** Jeremiah 32
 
@@ -3376,7 +3376,7 @@ And fields shall be purchased in this land: whereof you say that it is desolate,
 
 *** Jeremiah 32:44
 
-Fields shall be bought for money, and deeds shall be written, and sealed, and witnesses shall be taken, in the land of Benjamin, and round about Jerusalem, in the cities of Juda, and in the cities on the mountains, and in the cities of the plains, and in the cities that are towards the south: for I will bring back their captivity, saith the Lord. <chapter eID="gen23491" osisID="Jer.32"/>
+Fields shall be bought for money, and deeds shall be written, and sealed, and witnesses shall be taken, in the land of Benjamin, and round about Jerusalem, in the cities of Juda, and in the cities on the mountains, and in the cities of the plains, and in the cities that are towards the south: for I will bring back their captivity, saith the Lord. 
 
 ** Jeremiah 33
 
@@ -3482,7 +3482,7 @@ Thus saith the Lord. If I have not set my covenant between day and night, and la
 
 *** Jeremiah 33:26
 
-Surely I will also cast off the seed of Jacob, and of David my servant, so as not to take any of his seed to be rulers of the seed of Abraham, Isaac, and Jacob: for I will bring back their captivity, and will have mercy on them. <chapter eID="gen23536" osisID="Jer.33"/>
+Surely I will also cast off the seed of Jacob, and of David my servant, so as not to take any of his seed to be rulers of the seed of Abraham, Isaac, and Jacob: for I will bring back their captivity, and will have mercy on them. 
 
 ** Jeremiah 34
 
@@ -3572,7 +3572,7 @@ And Sedecias the king of Juda, and his princes, I will give into the hands of th
 
 *** Jeremiah 34:22
 
-Behold I will command, saith the Lord, and I will bring them again to this city, and they shall fight against it, and take it, and burn it with fire: and I will make the cities of Juda a desolation, without an inhabitant. <chapter eID="gen23563" osisID="Jer.34"/>
+Behold I will command, saith the Lord, and I will bring them again to this city, and they shall fight against it, and take it, and burn it with fire: and I will make the cities of Juda a desolation, without an inhabitant. 
 
 ** Jeremiah 35
 
@@ -3650,7 +3650,7 @@ And Jeremiah said to the house of the Rechabites: Thus saith the Lord of hosts t
 
 *** Jeremiah 35:19
 
-Therefore thus saith the Lord of hosts the God of Israel: There shall not be wanting a man of the race of Jonadab the son of Rechab, standing before me for ever. <chapter eID="gen23586" osisID="Jer.35"/>
+Therefore thus saith the Lord of hosts the God of Israel: There shall not be wanting a man of the race of Jonadab the son of Rechab, standing before me for ever. 
 
 ** Jeremiah 36
 
@@ -3780,7 +3780,7 @@ And I will punish him, and his seed and his servants, for their iniquities, and 
 
 *** Jeremiah 36:32
 
-And Jeremiah took another volume, and gave it to Baruch the son of Nerias the scribe: who wrote in it from the mouth of Jeremiah all the words of the book which Joakim the king of Juda had burnt with fire: and there were added besides many more words than had been before. <chapter eID="gen23606" osisID="Jer.36"/>
+And Jeremiah took another volume, and gave it to Baruch the son of Nerias the scribe: who wrote in it from the mouth of Jeremiah all the words of the book which Joakim the king of Juda had burnt with fire: and there were added besides many more words than had been before. 
 
 ** Jeremiah 37
 
@@ -3862,7 +3862,7 @@ Now therefore hear, I beseech thee, my lord the king: let my petition be accepte
 
 *** Jeremiah 37:20
 
-Then king Sedecias commanded that Jeremiah should be committed into the entry of the prison: and that they should give him daily a piece of bread, beside broth, till all the bread in the city were spent: and Jeremiah remained in the entry of the prison. <chapter eID="gen23639" osisID="Jer.37"/>
+Then king Sedecias commanded that Jeremiah should be committed into the entry of the prison: and that they should give him daily a piece of bread, beside broth, till all the bread in the city were spent: and Jeremiah remained in the entry of the prison. 
 
 ** Jeremiah 38
 
@@ -3976,7 +3976,7 @@ So all the princes came to Jeremiah, and asked him: and he spoke to them accordi
 
 *** Jeremiah 38:28
 
-But Jeremiah remained in the entry of the prison, until the day that Jerusalem was taken: and it came to pass that Jerusalem was taken. <chapter eID="gen23660" osisID="Jer.38"/>
+But Jeremiah remained in the entry of the prison, until the day that Jerusalem was taken: and it came to pass that Jerusalem was taken. 
 
 ** Jeremiah 39
 
@@ -4050,7 +4050,7 @@ And I will deliver thee in that day, saith the Lord: and thou shalt not be given
 
 *** Jeremiah 39:18
 
-But delivering, I will deliver thee, and thou shalt not fall by the sword: but thy life shall be saved for thee, because thou hast put thy trust in me, saith the Lord. <chapter eID="gen23689" osisID="Jer.39"/>
+But delivering, I will deliver thee, and thou shalt not fall by the sword: but thy life shall be saved for thee, because thou hast put thy trust in me, saith the Lord. 
 
 ** Jeremiah 40
 
@@ -4116,7 +4116,7 @@ But Johanan the son of Caree, spoke to Godolias privately in Masphath, saying: I
 
 *** Jeremiah 40:16
 
-And Godolias the son of Ahicam said to Johanan the son of Caree: Do not this thing: for what thou sayst of Ismahel is false. <chapter eID="gen23708" osisID="Jer.40"/>
+And Godolias the son of Ahicam said to Johanan the son of Caree: Do not this thing: for what thou sayst of Ismahel is false. 
 
 ** Jeremiah 41
 
@@ -4190,7 +4190,7 @@ And they departed, and sat as sojourners in Chamaam, which is near Bethlehem: in
 
 *** Jeremiah 41:18
 
-From the face of the Chaldeans: for they were afraid of them, because Ismahel the son of Nathanias had slain Godolias the son of Ahicam, whom the king of Babylon had made governor in the land of Juda. <chapter eID="gen23725" osisID="Jer.41"/>
+From the face of the Chaldeans: for they were afraid of them, because Ismahel the son of Nathanias had slain Godolias the son of Ahicam, whom the king of Babylon had made governor in the land of Juda. 
 
 ** Jeremiah 42
 
@@ -4280,7 +4280,7 @@ And now I have declared it to you this day, and you have not obeyed the voice of
 
 *** Jeremiah 42:22
 
-Now therefore know certainly that you shall die by the sword, and by famine, and by pestilence in the place to which you desire to go to dwell there. <chapter eID="gen23744" osisID="Jer.42"/>
+Now therefore know certainly that you shall die by the sword, and by famine, and by pestilence in the place to which you desire to go to dwell there. 
 
 ** Jeremiah 43
 
@@ -4334,7 +4334,7 @@ And he shall kindle a fire in the temples of the gods of Egypt, and he shall bur
 
 *** Jeremiah 43:13
 
-And he shall break the statues of the house of the sun, that are in the land of Egypt; and the temples of the gods of Egypt he shall burn with fire. <chapter eID="gen23767" osisID="Jer.43"/>
+And he shall break the statues of the house of the sun, that are in the land of Egypt; and the temples of the gods of Egypt he shall burn with fire. 
 
 ** Jeremiah 44
 
@@ -4456,7 +4456,7 @@ And this shall be a sign to you, saith the Lord, that I will punish you in this 
 
 *** Jeremiah 44:30
 
-Thus saith the Lord: Behold I will deliver Pharao Nechao king of Egypt into the hand of his enemies, and into the hand of them that seek his life: as I delivered Sedecias king of Juda into the land of Nabuchodonosor the king of Babylon his enemy, and that sought his life. <chapter eID="gen23781" osisID="Jer.44"/>
+Thus saith the Lord: Behold I will deliver Pharao Nechao king of Egypt into the hand of his enemies, and into the hand of them that seek his life: as I delivered Sedecias king of Juda into the land of Nabuchodonosor the king of Babylon his enemy, and that sought his life. 
 
 ** Jeremiah 45
 
@@ -4478,7 +4478,7 @@ Thus saith the Lord: Thus shalt thou say to him: Behold, them whom I have built,
 
 *** Jeremiah 45:5
 
-And dost thou seek great things for thyself? Seek not: for behold I will bring evil upon all flesh, saith the Lord! but I will give thee thy life, and save thee in all places whithersoever thou shalt go. <chapter eID="gen23812" osisID="Jer.45"/>
+And dost thou seek great things for thyself? Seek not: for behold I will bring evil upon all flesh, saith the Lord! but I will give thee thy life, and save thee in all places whithersoever thou shalt go. 
 
 ** Jeremiah 46
 
@@ -4592,7 +4592,7 @@ And thou my servant Jacob, fear not and be not thou dismayed, O Israel: for beho
 
 *** Jeremiah 46:28
 
-And thou, my servant Jacob, fear not, saith the Lord: because I am with thee, for I will consume all the nations to which I have cast thee out: but thee I will not consume, but I will correct thee in judgment, neither will I spare thee as if thou wert innocent. <chapter eID="gen23818" osisID="Jer.46"/>
+And thou, my servant Jacob, fear not, saith the Lord: because I am with thee, for I will consume all the nations to which I have cast thee out: but thee I will not consume, but I will correct thee in judgment, neither will I spare thee as if thou wert innocent. 
 
 ** Jeremiah 47
 
@@ -4622,7 +4622,7 @@ O thou sword of the Lord, how long wilt thou not be quiet? Go into thy scabbard,
 
 *** Jeremiah 47:7
 
-How shall it be quiet, when the Lord hath given it a charge against Ascalon, and against the countries thereof by the sea side, and there hath made an appointment for it? <chapter eID="gen23847" osisID="Jer.47"/>
+How shall it be quiet, when the Lord hath given it a charge against Ascalon, and against the countries thereof by the sea side, and there hath made an appointment for it? 
 
 ** Jeremiah 48
 
@@ -4812,7 +4812,7 @@ Woe to thee, Moab, thou hast persisted, O people of Chamos: for thy sons, and th
 
 *** Jeremiah 48:47
 
-And I will bring back the captivity of Moab in the last days, saith the Lord. Hitherto the judgments of Moab. <chapter eID="gen23855" osisID="Jer.48"/>
+And I will bring back the captivity of Moab in the last days, saith the Lord. Hitherto the judgments of Moab. 
 
 ** Jeremiah 49
 
@@ -4970,7 +4970,7 @@ And I will set my throne in Elam, and destroy kings and princes from thence, sai
 
 *** Jeremiah 49:39
 
-But in the latter days I will cause the captives of Elam, to return, saith the Lord. <chapter eID="gen23903" osisID="Jer.49"/>
+But in the latter days I will cause the captives of Elam, to return, saith the Lord. 
 
 ** Jeremiah 50
 
@@ -5156,7 +5156,7 @@ Therefore hear ye the counsel of the Lord, which he hath taken against Babylon: 
 
 *** Jeremiah 50:46
 
-At the noise of the taking of Babylon the earth is moved, and the cry is heard amongst the nations. <chapter eID="gen23943" osisID="Jer.50"/>
+At the noise of the taking of Babylon the earth is moved, and the cry is heard amongst the nations. 
 
 ** Jeremiah 51
 
@@ -5414,7 +5414,7 @@ And when thou shalt have made an end of reading this book, thou shalt tie a ston
 
 *** Jeremiah 51:64
 
-And thou shalt say: Thus shall Babylon sink, and she shall not rise up from the affliction that I will bring upon her, and she shall be utterly destroyed. Thus far are the words of Jeremiah. <chapter eID="gen23990" osisID="Jer.51"/>
+And thou shalt say: Thus shall Babylon sink, and she shall not rise up from the affliction that I will bring upon her, and she shall be utterly destroyed. Thus far are the words of Jeremiah. 
 
 ** Jeremiah 52
 
@@ -5552,4 +5552,4 @@ And he changed his prison garments, and he ate bread before him always all the d
 
 *** Jeremiah 52:34
 
-And for his diet a continual provision was allowed him by the king of Babylon, every day a portion, until the day of his death, all the days of his life. <chapter eID="gen24055" osisID="Jer.52"/> <div eID="gen22674" osisID="Jer" type="book"/>
+And for his diet a continual provision was allowed him by the king of Babylon, every day a portion, until the day of his death, all the days of his life.  

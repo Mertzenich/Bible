@@ -1760,7 +1760,7 @@ Ipse vero ad armentum cucurrit, et tulit inde vitulum tenerrimum et optimum, ded
 
 ** Genesis 18:8
 
-Tulit quoque butyrum et lac, et vitulum quem coxerat, et posuit coram eis : ipse vero stabat juxta eos sub arbore.  <div eID="gen64" type="x-p"/>
+Tulit quoque butyrum et lac, et vitulum quem coxerat, et posuit coram eis : ipse vero stabat juxta eos sub arbore.  
 
 ** Genesis 18:9
 
@@ -1788,7 +1788,7 @@ Numquid Deo quidquam est difficile ? juxta condictum revertar ad te hoc eodem te
 
 ** Genesis 18:15
 
-Negavit Sara, dicens : Non risi, timore perterrita. Dominus autem : Non est, inquit, ita : sed risisti.  <div eID="gen65" type="x-p"/>
+Negavit Sara, dicens : Non risi, timore perterrita. Dominus autem : Non est, inquit, ita : sed risisti.  
 
 ** Genesis 18:16
 
@@ -1860,7 +1860,7 @@ Obsecro, inquit, ne irascaris, Domine, si loquar adhuc semel : quid si inventi f
 
 ** Genesis 18:33
 
-Abiitque Dominus, postquam cessavit loqui ad Abraham : et ille reversus est in locum suum.  <chapter eID="Gen.18"/> <div eID="gen66" type="x-p"/>
+Abiitque Dominus, postquam cessavit loqui ad Abraham : et ille reversus est in locum suum.   
 
 * Genesis 19
 
@@ -1918,7 +1918,7 @@ delebimus enim locum istum, eo quod increverit clamor eorum coram Domino, qui mi
 
 ** Genesis 19:14
 
-Egressus itaque Lot, locutus est ad generos suos qui accepturi erant filias ejus, et dixit : Surgite, egredimini de loco isto : quia delebit Dominus civitatem hanc. Et visus est eis quasi ludens loqui.  <div eID="gen67" type="x-p"/>
+Egressus itaque Lot, locutus est ad generos suos qui accepturi erant filias ejus, et dixit : Surgite, egredimini de loco isto : quia delebit Dominus civitatem hanc. Et visus est eis quasi ludens loqui.  
 
 ** Genesis 19:15
 
@@ -1978,7 +1978,7 @@ intuitus est Sodomam et Gomorrham, et universam terram regionis illius : viditqu
 
 ** Genesis 19:29
 
-Cum enim subverteret Deus civitates regionis illius, recordatus Abrahæ, liberavit Lot de subversione urbium in quibus habitaverat.  <div eID="gen68" type="x-p"/>
+Cum enim subverteret Deus civitates regionis illius, recordatus Abrahæ, liberavit Lot de subversione urbium in quibus habitaverat.  
 
 ** Genesis 19:30
 
@@ -2014,7 +2014,7 @@ Peperitque major filium, et vocavit nomen ejus Moab : ipse est pater Moabitarum 
 
 ** Genesis 19:38
 
-Minor quoque peperit filium, et vocavit nomen ejus Ammon, id est, Filius populi mei : ipse est pater Ammonitarum usque hodie.  <chapter eID="Gen.19"/> <div eID="gen69" type="x-p"/>
+Minor quoque peperit filium, et vocavit nomen ejus Ammon, id est, Filius populi mei : ipse est pater Ammonitarum usque hodie.   
 
 * Genesis 20
 
@@ -2088,7 +2088,7 @@ Orante autem Abraham, sanavit Deus Abimelech et uxorem, ancillasque ejus, et pep
 
 ** Genesis 20:18
 
-concluserat enim Dominus omnem vulvam domus Abimelech propter Saram uxorem Abrahæ.  <chapter eID="Gen.20"/> <div eID="gen70" type="x-p"/>
+concluserat enim Dominus omnem vulvam domus Abimelech propter Saram uxorem Abrahæ.   
 
 * Genesis 21
 
@@ -2122,7 +2122,7 @@ Rursumque ait : Quis auditurus crederet Abraham quod Sara lactaret filium, quem 
 
 ** Genesis 21:8
 
-Crevit igitur puer, et ablactatus est : fecitque Abraham grande convivium in die ablactationis ejus.  <div eID="gen71" type="x-p"/>
+Crevit igitur puer, et ablactatus est : fecitque Abraham grande convivium in die ablactationis ejus.  
 
 ** Genesis 21:9
 
@@ -2174,7 +2174,7 @@ Et fuit cum eo : qui crevit, et moratus est in solitudine, factusque est juvenis
 
 ** Genesis 21:21
 
-Habitavitque in deserto Pharan, et accepit illi mater sua uxorem de terra Ægypti.  <div eID="gen72" type="x-p"/>
+Habitavitque in deserto Pharan, et accepit illi mater sua uxorem de terra Ægypti.  
 
 ** Genesis 21:22
 
@@ -2226,7 +2226,7 @@ Surrexit autem Abimelech, et Phicol princeps exercitus ejus, reversique sunt in 
 
 ** Genesis 21:34
 
-Et fuit colonus terræ Palæstinorum diebus multis.  <chapter eID="Gen.21"/> <div eID="gen73" type="x-p"/>
+Et fuit colonus terræ Palæstinorum diebus multis.   
 
 * Genesis 22
 
@@ -2284,7 +2284,7 @@ Levavit Abraham oculos suos, viditque post tergum arietem inter vepres hærentem
 
 ** Genesis 22:14
 
-Appellavitque nomen loci illius, Dominus videt. Unde usque hodie dicitur : In monte Dominus videbit.  <div eID="gen74" type="x-p"/>
+Appellavitque nomen loci illius, Dominus videt. Unde usque hodie dicitur : In monte Dominus videbit.  
 
 ** Genesis 22:15
 
@@ -2304,7 +2304,7 @@ et benedicentur in semine tuo omnes gentes terræ, quia obedisti voci meæ.
 
 ** Genesis 22:19
 
-Reversus est Abraham ad pueros suos, abieruntque Bersabee simul, et habitavit ibi.  <div eID="gen75" type="x-p"/>
+Reversus est Abraham ad pueros suos, abieruntque Bersabee simul, et habitavit ibi.  
 
 ** Genesis 22:20
 
@@ -2324,7 +2324,7 @@ ac Bathuel, de quo nata est Rebecca : octo istos genuit Melcha, Nachor fratri Ab
 
 ** Genesis 22:24
 
-Concubina vero illius, nomine Roma, peperit Tabee, et Gaham, et Thahas, et Maacha.  <chapter eID="Gen.22"/> <div eID="gen76" type="x-p"/>
+Concubina vero illius, nomine Roma, peperit Tabee, et Gaham, et Thahas, et Maacha.   
 
 * Genesis 23
 
@@ -2406,7 +2406,7 @@ Atque ita sepelivit Abraham Saram uxorem suam in spelunca agri duplici, quæ res
 
 ** Genesis 23:20
 
-Et confirmatus est ager, et antrum quod erat in eo, Abrahæ in possessionem monumenti a filiis Heth.  <chapter eID="Gen.23"/> <div eID="gen77" type="x-p"/>
+Et confirmatus est ager, et antrum quod erat in eo, Abrahæ in possessionem monumenti a filiis Heth.   
 
 * Genesis 24
 
@@ -2516,7 +2516,7 @@ Inclinavit se homo, et adoravit Dominum,
 
 ** Genesis 24:27
 
-dicens : Benedictus Dominus Deus domini mei Abraham, qui non abstulit misericordiam et veritatem suam a domino meo, et recto itinere me perduxit in domum fratris domini mei.  <div eID="gen78" type="x-p"/>
+dicens : Benedictus Dominus Deus domini mei Abraham, qui non abstulit misericordiam et veritatem suam a domino meo, et recto itinere me perduxit in domum fratris domini mei.  
 
 ** Genesis 24:28
 
@@ -2604,7 +2604,7 @@ Pronusque adoravi Dominum, benedicens Domino Deo domini mei Abraham, qui perduxi
 
 ** Genesis 24:49
 
-Quam ob rem si facitis misericordiam et veritatem cum domino meo, indicate mihi : sin autem aliud placet, et hoc dicite mihi, ut vadam ad dextram, sive ad sinistram.  <div eID="gen79" type="x-p"/>
+Quam ob rem si facitis misericordiam et veritatem cum domino meo, indicate mihi : sin autem aliud placet, et hoc dicite mihi, ut vadam ad dextram, sive ad sinistram.  
 
 ** Genesis 24:50
 
@@ -2676,7 +2676,7 @@ Servus autem cuncta, quæ gesserat, narravit Isaac.
 
 ** Genesis 24:67
 
-Qui introduxit eam in tabernaculum Saræ matris suæ, et accepit eam uxorem : et in tantum dilexit eam, ut dolorem, qui ex morte matris ejus acciderat, temperaret.  <chapter eID="Gen.24"/> <div eID="gen80" type="x-p"/>
+Qui introduxit eam in tabernaculum Saræ matris suæ, et accepit eam uxorem : et in tantum dilexit eam, ut dolorem, qui ex morte matris ejus acciderat, temperaret.   
 
 * Genesis 25
 
@@ -2722,7 +2722,7 @@ quem emerat a filiis Heth : ibi sepultus est ipse, et Sara uxor ejus.
 
 ** Genesis 25:11
 
-Et post obitum illius benedixit Deus Isaac filio ejus, qui habitabat juxta puteum nomine Viventis et videntis.  <div eID="gen81" type="x-p"/>
+Et post obitum illius benedixit Deus Isaac filio ejus, qui habitabat juxta puteum nomine Viventis et videntis.  
 
 ** Genesis 25:12
 
@@ -2750,7 +2750,7 @@ Et facti sunt anni vitæ Ismaëlis centum triginta septem, deficiensque mortuus 
 
 ** Genesis 25:18
 
-Habitavit autem ab Hevila usque Sur, quæ respicit Ægyptum introëuntibus Assyrios ; coram cunctis fratribus suis obiit.  <div eID="gen82" type="x-p"/>
+Habitavit autem ab Hevila usque Sur, quæ respicit Ægyptum introëuntibus Assyrios ; coram cunctis fratribus suis obiit.  
 
 ** Genesis 25:19
 
@@ -2770,7 +2770,7 @@ Sed collidebantur in utero ejus parvuli ; quæ ait : Si sic mihi futurum erat, q
 
 ** Genesis 25:23
 
-Qui respondens ait : <div eID="gen83" type="x-p"/> <lg sID="gen84"/> <l level="1" sID="gen85"/>Duæ gentes sunt in utero tuo, <l eID="gen85" level="1"/> <l level="1" sID="gen86"/>et duo populi ex ventre tuo dividentur, <l eID="gen86" level="1"/> <l level="1" sID="gen87"/>populusque populum superabit, <l eID="gen87" level="1"/> <l level="1" sID="gen88"/>et major serviet minori.
+Qui respondens ait :   Duæ gentes sunt in utero tuo,  et duo populi ex ventre tuo dividentur,  populusque populum superabit,  et major serviet minori.
 
 ** Genesis 25:24
 
@@ -2814,7 +2814,7 @@ Ait Jacob : Jura ergo mihi. Juravit ei Esau et vendidit primogenita.
 
 ** Genesis 25:34
 
-Et sic, accepto pane et lentis edulio, comedit et bibit, et abiit, parvipendens quod primogenita vendidisset. <l eID="gen88" level="1"/><lg eID="gen84"/> <chapter eID="Gen.25"/>
+Et sic, accepto pane et lentis edulio, comedit et bibit, et abiit, parvipendens quod primogenita vendidisset.  
 
 * Genesis 26
 
@@ -2840,7 +2840,7 @@ eo quod obedierit Abraham voci meæ, et custodierit præcepta et mandata mea, et
 
 ** Genesis 26:6
 
-Mansit itaque Isaac in Geraris.  <div eID="gen89" type="x-p"/>
+Mansit itaque Isaac in Geraris.  
 
 ** Genesis 26:7
 
@@ -2860,7 +2860,7 @@ Dixitque Abimelech : Quare imposuisti nobis ? potuit coire quispiam de populo cu
 
 ** Genesis 26:11
 
-Qui tetigerit hominis hujus uxorem, morte morietur.  <div eID="gen90" type="x-p"/>
+Qui tetigerit hominis hujus uxorem, morte morietur.  
 
 ** Genesis 26:12
 
@@ -2904,7 +2904,7 @@ Foderunt autem et alium : et pro illo quoque rixati sunt, appellavitque eum Inim
 
 ** Genesis 26:22
 
-Profectus inde fodit alium puteum, pro quo non contenderunt : itaque vocavit nomen ejus Latitudo, dicens : Nunc dilatavit nos Dominus, et fecit crescere super terram.  <div eID="gen91" type="x-p"/>
+Profectus inde fodit alium puteum, pro quo non contenderunt : itaque vocavit nomen ejus Latitudo, dicens : Nunc dilatavit nos Dominus, et fecit crescere super terram.  
 
 ** Genesis 26:23
 
@@ -2956,7 +2956,7 @@ Esau vero quadragenarius duxit uxores, Judith filiam Beeri Hethæi, et Basemath 
 
 ** Genesis 26:35
 
-quæ ambæ offenderant animum Isaac et Rebeccæ.  <chapter eID="Gen.26"/> <div eID="gen92" type="x-p"/>
+quæ ambæ offenderant animum Isaac et Rebeccæ.   
 
 * Genesis 27
 
@@ -3066,15 +3066,15 @@ dixit ad eum : Accede ad me, et da mihi osculum, fili mi.
 
 ** Genesis 27:27
 
-Accessit, et osculatus est eum. Statimque ut sensit vestimentorum illius fragrantiam, benedicens illi, ait : <div eID="gen93" type="x-p"/> <lg sID="gen94"/> <l level="1" sID="gen95"/>Ecce odor filii mei <l eID="gen95" level="1"/> <l level="1" sID="gen96"/>sicut odor agri pleni, <l eID="gen96" level="1"/> <l level="1" sID="gen97"/>cui benedixit Dominus. <l eID="gen97" level="1"/>
+Accessit, et osculatus est eum. Statimque ut sensit vestimentorum illius fragrantiam, benedicens illi, ait :   Ecce odor filii mei  sicut odor agri pleni,  cui benedixit Dominus. 
 
 ** Genesis 27:28
 
-Det tibi Deus de rore cæli <l eID="gen98" level="1"/> <l level="1" sID="gen99"/>et de pinguedine terræ <l eID="gen99" level="1"/> <l level="1" sID="gen100"/>abundantiam frumenti et vini. <l eID="gen100" level="1"/>
+Det tibi Deus de rore cæli  et de pinguedine terræ  abundantiam frumenti et vini. 
 
 ** Genesis 27:29
 
-Et serviant tibi populi, <l eID="gen101" level="1"/> <l level="1" sID="gen102"/>et adorent te tribus : <l eID="gen102" level="1"/> <l level="1" sID="gen103"/>esto dominus fratrum tuorum, <l eID="gen103" level="1"/> <l level="1" sID="gen104"/>et incurventur ante te filii matris tuæ : <l eID="gen104" level="1"/> <l level="1" sID="gen105"/>qui maledixerit tibi, sit ille maledictus, <l eID="gen105" level="1"/> <l level="1" sID="gen106"/>et qui benedixerit tibi, benedictionibus repleatur. <l eID="gen106" level="1"/> <lg eID="gen94"/>
+Et serviant tibi populi,  et adorent te tribus :  esto dominus fratrum tuorum,  et incurventur ante te filii matris tuæ :  qui maledixerit tibi, sit ille maledictus,  et qui benedixerit tibi, benedictionibus repleatur.  
 
 ** Genesis 27:30
 
@@ -3114,11 +3114,11 @@ Cui Esau : Num unam, inquit, tantum benedictionem habes, pater ? mihi quoque obs
 
 ** Genesis 27:39
 
-motus Isaac, dixit ad eum : <div eID="gen107" type="x-p"/> <lg sID="gen108"/> <l level="1" sID="gen109"/>In pinguedine terræ, <l eID="gen109" level="1"/> <l level="1" sID="gen110"/>et in rore cæli desuper,
+motus Isaac, dixit ad eum :   In pinguedine terræ,  et in rore cæli desuper,
 
 ** Genesis 27:40
 
-erit benedictio tua. <l eID="gen110" level="1"/> <l level="1" sID="gen111"/>Vives in gladio, et fratri tuo servies : <l eID="gen111" level="1"/> <l level="1" sID="gen112"/>tempusque veniet, cum excutias et solvas jugum ejus de cervicibus tuis. <l eID="gen112" level="1"/> <lg eID="gen108"/>
+erit benedictio tua.  Vives in gladio, et fratri tuo servies :  tempusque veniet, cum excutias et solvas jugum ejus de cervicibus tuis.  
 
 ** Genesis 27:41
 
@@ -3142,7 +3142,7 @@ et cesset indignatio ejus, obliviscaturque eorum quæ fecisti in eum : postea mi
 
 ** Genesis 27:46
 
-Dixitque Rebecca ad Isaac : Tædet me vitæ meæ propter filias Heth : si acceperit Jacob uxorem de stirpe hujus terræ, nolo vivere.  <chapter eID="Gen.27"/> <div eID="gen113" type="x-p"/>
+Dixitque Rebecca ad Isaac : Tædet me vitæ meæ propter filias Heth : si acceperit Jacob uxorem de stirpe hujus terræ, nolo vivere.   
 
 * Genesis 28
 
@@ -3180,7 +3180,7 @@ probans quoque quod non libenter aspiceret filias Chanaan pater suus :
 
 ** Genesis 28:9
 
-ivit ad Ismaëlem, et duxit uxorem absque iis, quas prius habebat, Maheleth filiam Ismaël filii Abraham, sororem Nabaioth.  <div eID="gen114" type="x-p"/>
+ivit ad Ismaëlem, et duxit uxorem absque iis, quas prius habebat, Maheleth filiam Ismaël filii Abraham, sororem Nabaioth.  
 
 ** Genesis 28:10
 
@@ -3232,7 +3232,7 @@ reversusque fuero prospere ad domum patris mei : erit mihi Dominus in Deum,
 
 ** Genesis 28:22
 
-et lapis iste, quem erexi in titulum, vocabitur Domus Dei : cunctorumque quæ dederis mihi, decimas offeram tibi.  <chapter eID="Gen.28"/> <div eID="gen115" type="x-p"/>
+et lapis iste, quem erexi in titulum, vocabitur Domus Dei : cunctorumque quæ dederis mihi, decimas offeram tibi.   
 
 * Genesis 29
 
@@ -3294,7 +3294,7 @@ respondit : Os meum es, et caro mea. Et postquam impleti sunt dies mensis unius,
 
 ** Genesis 29:15
 
-dixit ei : Num quia frater meus es, gratis servies mihi ? dic quid mercedis accipias.  <div eID="gen116" type="x-p"/>
+dixit ei : Num quia frater meus es, gratis servies mihi ? dic quid mercedis accipias.  
 
 ** Genesis 29:16
 
@@ -3354,7 +3354,7 @@ cui pater servam Balam tradiderat.
 
 ** Genesis 29:30
 
-Tandemque potitus optatis nuptiis, amorem sequentis priori prætulit, serviens apud eum septem annis aliis.  <div eID="gen117" type="x-p"/>
+Tandemque potitus optatis nuptiis, amorem sequentis priori prætulit, serviens apud eum septem annis aliis.  
 
 ** Genesis 29:31
 
@@ -3374,7 +3374,7 @@ Concepitque tertio, et genuit alium filium : dixitque : Nunc quoque copulabitur 
 
 ** Genesis 29:35
 
-Quarto concepit, et peperit filium, et ait : Modo confitebor Domino, et ob hoc vocavit eum Judam : cessavitque parere.  <chapter eID="Gen.29"/> <div eID="gen118" type="x-p"/>
+Quarto concepit, et peperit filium, et ait : Modo confitebor Domino, et ob hoc vocavit eum Judam : cessavitque parere.   
 
 * Genesis 30
 
@@ -3480,7 +3480,7 @@ Nato autem Joseph, dixit Jacob socero suo : Dimitte me ut revertar in patriam, e
 
 ** Genesis 30:26
 
-Da mihi uxores, et liberos meos, pro quibus servivi tibi, ut abeam : tu nosti servitutem qua servivi tibi.  <div eID="gen119" type="x-p"/>
+Da mihi uxores, et liberos meos, pro quibus servivi tibi, ut abeam : tu nosti servitutem qua servivi tibi.  
 
 ** Genesis 30:27
 
@@ -3548,7 +3548,7 @@ quando vero serotina admissura erat, et conceptus extremus, non ponebat eas. Fac
 
 ** Genesis 30:43
 
-Ditatusque est homo ultra modum, et habuit greges multos, ancillas et servos, camelos et asinos.  <chapter eID="Gen.30"/> <div eID="gen120" type="x-p"/>
+Ditatusque est homo ultra modum, et habuit greges multos, ancillas et servos, camelos et asinos.   
 
 * Genesis 31
 
@@ -3622,7 +3622,7 @@ Surrexit itaque Jacob, et impositis liberis ac conjugibus suis super camelos, ab
 
 ** Genesis 31:18
 
-Tulitque omnem substantiam suam, et greges, et quidquid in Mesopotamia acquisierat, pergens ad Isaac patrem suum in terram Chanaan.  <div eID="gen121" type="x-p"/>
+Tulitque omnem substantiam suam, et greges, et quidquid in Mesopotamia acquisierat, pergens ad Isaac patrem suum in terram Chanaan.  
 
 ** Genesis 31:19
 
@@ -3718,7 +3718,7 @@ Sicque per viginti annos in domo tua servivi tibi, quatuordecim pro filiabus, et
 
 ** Genesis 31:42
 
-Nisi Deus patris mei Abraham, et timor Isaac affuisset mihi, forsitan modo nudum me dimisisses : afflictionem meam et laborem manuum mearum respexit Deus, et arguit te heri.  <div eID="gen122" type="x-p"/>
+Nisi Deus patris mei Abraham, et timor Isaac affuisset mihi, forsitan modo nudum me dimisisses : afflictionem meam et laborem manuum mearum respexit Deus, et arguit te heri.  
 
 ** Genesis 31:43
 
@@ -3770,7 +3770,7 @@ immolatisque victimis in monte, vocavit fratres suos ut ederent panem. Qui cum c
 
 ** Genesis 31:55
 
-Laban vero de nocte consurgens, osculatus est filios, et filias suas, et benedixit illis : reversusque est in locum suum.  <chapter eID="Gen.31"/> <div eID="gen123" type="x-p"/>
+Laban vero de nocte consurgens, osculatus est filios, et filias suas, et benedixit illis : reversusque est in locum suum.   
 
 * Genesis 32
 
@@ -3856,7 +3856,7 @@ Et addetis : Ipse quoque servus tuus Jacob iter nostrum insequitur. Dixit enim :
 
 ** Genesis 32:21
 
-Præcesserunt itaque munera ante eum, ipse vero mansit nocte illa in castris.  <div eID="gen124" type="x-p"/>
+Præcesserunt itaque munera ante eum, ipse vero mansit nocte illa in castris.  
 
 ** Genesis 32:22
 
@@ -3900,7 +3900,7 @@ Ortusque est ei statim sol, postquam transgressus est Phanuel : ipse vero claudi
 
 ** Genesis 32:32
 
-Quam ob causam non comedunt nervum filii Israël, qui emarcuit in femore Jacob, usque in præsentem diem : eo quod tetigerit nervum femoris ejus, et obstupuerit.  <chapter eID="Gen.32"/> <div eID="gen125" type="x-p"/>
+Quam ob causam non comedunt nervum filii Israël, qui emarcuit in femore Jacob, usque in præsentem diem : eo quod tetigerit nervum femoris ejus, et obstupuerit.   
 
 * Genesis 33
 
@@ -3982,7 +3982,7 @@ Emitque partem agri, in qua fixerat tabernacula, a filiis Hemor patris Sichem ce
 
 ** Genesis 33:20
 
-Et erecto ibi altari, invocavit super illud fortissimum Deum Israël.  <chapter eID="Gen.33"/> <div eID="gen126" type="x-p"/>
+Et erecto ibi altari, invocavit super illud fortissimum Deum Israël.   
 
 * Genesis 34
 
@@ -4004,7 +4004,7 @@ Et pergens ad Hemor patrem suum : Accipe, inquit, mihi puellam hanc conjugem.
 
 ** Genesis 34:5
 
-Quod cum audisset Jacob absentibus filiis, et in pastu pecorum occupatis, siluit donec redirent.  <div eID="gen127" type="x-p"/>
+Quod cum audisset Jacob absentibus filiis, et in pastu pecorum occupatis, siluit donec redirent.  
 
 ** Genesis 34:6
 
@@ -4080,7 +4080,7 @@ Et substantia eorum, et pecora, et cuncta quæ possident, nostra erunt : tantum 
 
 ** Genesis 34:24
 
-Assensique sunt omnes, circumcisis cunctis maribus.  <div eID="gen128" type="x-p"/>
+Assensique sunt omnes, circumcisis cunctis maribus.  
 
 ** Genesis 34:25
 
@@ -4108,7 +4108,7 @@ Quibus patratis audacter, Jacob dixit ad Simeon et Levi : Turbastis me, et odios
 
 ** Genesis 34:31
 
-Responderunt : Numquid ut scorto abuti debuere sorore nostra ?  <chapter eID="Gen.34"/> <div eID="gen129" type="x-p"/>
+Responderunt : Numquid ut scorto abuti debuere sorore nostra ?   
 
 * Genesis 35
 
@@ -4170,7 +4170,7 @@ Ille vero erexit titulum lapideum in loco quo locutus fuerat ei Deus : libans su
 
 ** Genesis 35:15
 
-vocansque nomen loci illius Bethel.  <div eID="gen130" type="x-p"/>
+vocansque nomen loci illius Bethel.  
 
 ** Genesis 35:16
 
@@ -4214,7 +4214,7 @@ Filii Balæ ancillæ Rachelis : Dan et Nephthali.
 
 ** Genesis 35:26
 
-Filii Zelphæ ancillæ Liæ : Gad et Aser : hi sunt filii Jacob, qui nati sunt ei in Mesopotamia Syriæ.  <div eID="gen131" type="x-p"/>
+Filii Zelphæ ancillæ Liæ : Gad et Aser : hi sunt filii Jacob, qui nati sunt ei in Mesopotamia Syriæ.  
 
 ** Genesis 35:27
 
@@ -4226,7 +4226,7 @@ Et completi sunt dies Isaac centum octoginta annorum.
 
 ** Genesis 35:29
 
-Consumptusque ætate mortuus est : et appositus est populo suo senex et plenus dierum : et sepelierunt eum Esau et Jacob filii sui.  <chapter eID="Gen.35"/> <div eID="gen132" type="x-p"/>
+Consumptusque ætate mortuus est : et appositus est populo suo senex et plenus dierum : et sepelierunt eum Esau et Jacob filii sui.   
 
 * Genesis 36
 
@@ -4400,7 +4400,7 @@ dux Cenez, dux Theman, dux Mabsar,
 
 ** Genesis 36:43
 
-dux Magdiel, dux Hiram : hi duces Edom habitantes in terra imperii sui, ipse est Esau pater Idumæorum.  <chapter eID="Gen.36"/> <div eID="gen133" type="x-p"/>
+dux Magdiel, dux Hiram : hi duces Edom habitantes in terra imperii sui, ipse est Esau pater Idumæorum.   
 
 * Genesis 37
 
@@ -4446,7 +4446,7 @@ Quod cum patri suo, et fratribus retulisset, increpavit eum pater suus, et dixit
 
 ** Genesis 37:11
 
-Invidebant ei igitur fratres sui : pater vero rem tacitus considerabat.  <div eID="gen134" type="x-p"/>
+Invidebant ei igitur fratres sui : pater vero rem tacitus considerabat.  
 
 ** Genesis 37:12
 
@@ -4546,7 +4546,7 @@ Congregatis autem cunctis liberis ejus ut lenirent dolorem patris, noluit consol
 
 ** Genesis 37:36
 
-Madianitæ vendiderunt Joseph in Ægypto Putiphari eunucho Pharaonis, magistro militum.  <chapter eID="Gen.37"/> <div eID="gen135" type="x-p"/>
+Madianitæ vendiderunt Joseph in Ægypto Putiphari eunucho Pharaonis, magistro militum.   
 
 * Genesis 38
 
@@ -4668,7 +4668,7 @@ Illo vero retrahente manum, egressus est alter : dixitque mulier : Quare divisa 
 
 ** Genesis 38:30
 
-Postea egressus est frater ejus, in cujus manu erat coccinum : quem appellavit Zara.  <chapter eID="Gen.38"/> <div eID="gen136" type="x-p"/>
+Postea egressus est frater ejus, in cujus manu erat coccinum : quem appellavit Zara.   
 
 * Genesis 39
 
@@ -4750,7 +4750,7 @@ His auditis dominus, et nimium credulus verbis conjugis, iratus est valde :
 
 ** Genesis 39:20
 
-tradiditque Joseph in carcerem, ubi vincti regis custodiebantur, et erat ibi clausus.  <div eID="gen137" type="x-p"/>
+tradiditque Joseph in carcerem, ubi vincti regis custodiebantur, et erat ibi clausus.  
 
 ** Genesis 39:21
 
@@ -4762,7 +4762,7 @@ Qui tradidit in manu illius universos vinctos qui in custodia tenebantur : et qu
 
 ** Genesis 39:23
 
-Nec noverat aliquid, cunctis ei creditis : Dominus enim erat cum illo, et omnia opera ejus dirigebat.  <chapter eID="Gen.39"/> <div eID="gen138" type="x-p"/>
+Nec noverat aliquid, cunctis ei creditis : Dominus enim erat cum illo, et omnia opera ejus dirigebat.   
 
 * Genesis 40
 
@@ -4856,7 +4856,7 @@ alterum suspendit in patibulo, ut conjectoris veritas probaretur.
 
 ** Genesis 40:23
 
-Et tamen succedentibus prosperis, præpositus pincernarum oblitus est interpretis sui.  <chapter eID="Gen.40"/> <div eID="gen139" type="x-p"/>
+Et tamen succedentibus prosperis, præpositus pincernarum oblitus est interpretis sui.   
 
 * Genesis 41
 
@@ -5014,7 +5014,7 @@ locutusque est ad eos : Num invenire poterimus talem virum, qui spiritu Dei plen
 
 ** Genesis 41:39
 
-Dixit ergo ad Joseph : Quia ostendit tibi Deus omnia quæ locutus es, numquid sapientiorem et consimilem tui invenire potero ?  <div eID="gen140" type="x-p"/>
+Dixit ergo ad Joseph : Quia ostendit tibi Deus omnia quæ locutus es, numquid sapientiorem et consimilem tui invenire potero ?  
 
 ** Genesis 41:40
 
@@ -5086,7 +5086,7 @@ Crescebat autem quotidie fames in omni terra : aperuitque Joseph universa horrea
 
 ** Genesis 41:57
 
-Omnesque provinciæ veniebant in Ægyptum, ut emerent escas, et malum inopiæ temperarent.  <chapter eID="Gen.41"/> <div eID="gen141" type="x-p"/>
+Omnesque provinciæ veniebant in Ægyptum, ut emerent escas, et malum inopiæ temperarent.   
 
 * Genesis 42
 
@@ -5184,7 +5184,7 @@ Nesciebant autem quod intelligeret Joseph, eo quod per interpretem loqueretur ad
 
 ** Genesis 42:24
 
-Avertitque se parumper, et flevit : et reversus locutus est ad eos.  <div eID="gen142" type="x-p"/>
+Avertitque se parumper, et flevit : et reversus locutus est ad eos.  
 
 ** Genesis 42:25
 
@@ -5240,7 +5240,7 @@ Cui respondit Ruben : Duos filios meos interfice, si non reduxero illum tibi : t
 
 ** Genesis 42:38
 
-At ille : Non descendet, inquit, filius meus vobiscum : frater ejus mortuus est, et ipse solus remansit : si quid ei adversi acciderit in terra ad quam pergitis, deducetis canos meos cum dolore ad inferos.  <chapter eID="Gen.42"/> <div eID="gen143" type="x-p"/>
+At ille : Non descendet, inquit, filius meus vobiscum : frater ejus mortuus est, et ipse solus remansit : si quid ei adversi acciderit in terra ad quam pergitis, deducetis canos meos cum dolore ad inferos.   
 
 * Genesis 43
 
@@ -5298,7 +5298,7 @@ sed et fratrem vestrum tollite, et ite ad virum.
 
 ** Genesis 43:14
 
-Deus autem meus omnipotens faciat vobis eum placabilem : et remittat vobiscum fratrem vestrum quem tenet, et hunc Benjamin : ego autem quasi orbatus absque liberis ero.  <div eID="gen144" type="x-p"/>
+Deus autem meus omnipotens faciat vobis eum placabilem : et remittat vobiscum fratrem vestrum quem tenet, et hunc Benjamin : ego autem quasi orbatus absque liberis ero.  
 
 ** Genesis 43:15
 
@@ -5378,7 +5378,7 @@ sederunt coram eo, primogenitus juxta primogenita sua, et minimus juxta ætatem 
 
 ** Genesis 43:34
 
-sumptis partibus quas ab eo acceperant : majorque pars venit Benjamin, ita ut quinque partibus excederet. Biberuntque et inebriati sunt cum eo.  <chapter eID="Gen.43"/> <div eID="gen145" type="x-p"/>
+sumptis partibus quas ab eo acceperant : majorque pars venit Benjamin, ita ut quinque partibus excederet. Biberuntque et inebriati sunt cum eo.   
 
 * Genesis 44
 
@@ -5516,7 +5516,7 @@ Manebo itaque servus tuus pro puero in ministerio domini mei, et puer ascendat c
 
 ** Genesis 44:34
 
-Non enim possum redire ad patrem meum, absente puero : ne calamitatis, quæ oppressura est patrem meum, testis assistam.  <chapter eID="Gen.44"/> <div eID="gen146" type="x-p"/>
+Non enim possum redire ad patrem meum, absente puero : ne calamitatis, quæ oppressura est patrem meum, testis assistam.   
 
 * Genesis 45
 
@@ -5598,7 +5598,7 @@ Præcipe etiam ut tollant plaustra de terra Ægypti, ad subvectionem parvulorum 
 
 ** Genesis 45:20
 
-Nec dimittatis quidquam de supellectili vestra : quia omnes opes Ægypti vestræ erunt.  <div eID="gen147" type="x-p"/>
+Nec dimittatis quidquam de supellectili vestra : quia omnes opes Ægypti vestræ erunt.  
 
 ** Genesis 45:21
 
@@ -5630,7 +5630,7 @@ Illi e contra referebant omnem ordinem rei. Cumque vidisset plaustra et universa
 
 ** Genesis 45:28
 
-et ait : Sufficit mihi si adhuc Joseph filius meus vivit : vadam, et videbo illum antequam moriar.  <chapter eID="Gen.45"/> <div eID="gen148" type="x-p"/>
+et ait : Sufficit mihi si adhuc Joseph filius meus vivit : vadam, et videbo illum antequam moriar.   
 
 * Genesis 46
 
@@ -5740,7 +5740,7 @@ Cunctæ animæ, quæ ingressæ sunt cum Jacob in Ægyptum, et egressæ sunt de f
 
 ** Genesis 46:27
 
-Filii autem Joseph, qui nati sunt ei in terra Ægypti, animæ duæ. Omnes animæ domus Jacob, quæ ingressæ sunt in Ægyptum, fuere septuaginta.  <div eID="gen149" type="x-p"/>
+Filii autem Joseph, qui nati sunt ei in terra Ægypti, animæ duæ. Omnes animæ domus Jacob, quæ ingressæ sunt in Ægyptum, fuere septuaginta.  
 
 ** Genesis 46:28
 
@@ -5768,7 +5768,7 @@ Cumque vocaverit vos, et dixerit : Quod est opus vestrum ?
 
 ** Genesis 46:34
 
-respondebitis : Viri pastores sumus servi tui, ab infantia nostra usque in præsens, et nos et patres nostri. Hæc autem dicetis, ut habitare possitis in terra Gessen : quia detestantur Ægyptii omnes pastores ovium.  <chapter eID="Gen.46"/> <div eID="gen150" type="x-p"/>
+respondebitis : Viri pastores sumus servi tui, ab infantia nostra usque in præsens, et nos et patres nostri. Hæc autem dicetis, ut habitare possitis in terra Gessen : quia detestantur Ægyptii omnes pastores ovium.   
 
 * Genesis 47
 
@@ -5818,7 +5818,7 @@ Joseph vero patri et fratribus suis dedit possessionem in Ægypto in optimo terr
 
 ** Genesis 47:12
 
-Et alebat eos, omnemque domum patris sui, præbens cibaria singulis.  <div eID="gen151" type="x-p"/>
+Et alebat eos, omnemque domum patris sui, præbens cibaria singulis.  
 
 ** Genesis 47:13
 
@@ -5874,7 +5874,7 @@ Qui responderunt : Salus nostra in manu tua est : respiciat nos tantum dominus n
 
 ** Genesis 47:26
 
-Ex eo tempore usque in præsentem diem, in universa terra Ægypti regibus quinta pars solvitur, et factum est quasi in legem, absque terra sacerdotali, quæ libera ab hac conditione fuit.  <div eID="gen152" type="x-p"/>
+Ex eo tempore usque in præsentem diem, in universa terra Ægypti regibus quinta pars solvitur, et factum est quasi in legem, absque terra sacerdotali, quæ libera ab hac conditione fuit.  
 
 ** Genesis 47:27
 
@@ -5894,7 +5894,7 @@ sed dormiam cum patribus meis, et auferas me de terra hac, condasque in sepulchr
 
 ** Genesis 47:31
 
-Et ille : Jura ergo, inquit, mihi. Quo jurante, adoravit Israël Deum, conversus ad lectuli caput.  <chapter eID="Gen.47"/> <div eID="gen153" type="x-p"/>
+Et ille : Jura ergo, inquit, mihi. Quo jurante, adoravit Israël Deum, conversus ad lectuli caput.   
 
 * Genesis 48
 
@@ -5984,121 +5984,121 @@ Et ait ad Joseph filium suum : En ego morior, et erit Deus vobiscum, reducetque 
 
 ** Genesis 48:22
 
-Do tibi partem unam extra fratres tuos, quam tuli de manu Amorrhæi in gladio et arcu meo.  <chapter eID="Gen.48"/> <div eID="gen154" type="x-p"/>
+Do tibi partem unam extra fratres tuos, quam tuli de manu Amorrhæi in gladio et arcu meo.   
 
 * Genesis 49
 
 ** Genesis 49:1
 
-Vocavit autem Jacob filios suos, et ait eis : Congregamini, ut annuntiem quæ ventura sunt vobis in diebus novissimis.  <div eID="gen155" type="x-p"/>
+Vocavit autem Jacob filios suos, et ait eis : Congregamini, ut annuntiem quæ ventura sunt vobis in diebus novissimis.  
 
 ** Genesis 49:2
 
-Congregamini, et audite, filii Jacob, <l eID="gen157" level="1"/> <l level="1" sID="gen158"/>audite Israël patrem vestrum : <l eID="gen158" level="1"/>
+Congregamini, et audite, filii Jacob,  audite Israël patrem vestrum : 
 
 ** Genesis 49:3
 
-Ruben, primogenitus meus, <l eID="gen159" level="1"/> <l level="1" sID="gen160"/>tu fortitudo mea, et principium doloris mei ; <l eID="gen160" level="1"/> <l level="1" sID="gen161"/>prior in donis, major in imperio. <l eID="gen161" level="1"/>
+Ruben, primogenitus meus,  tu fortitudo mea, et principium doloris mei ;  prior in donis, major in imperio. 
 
 ** Genesis 49:4
 
-Effusus es sicut aqua, non crescas : quia ascendisti cubile patris tui, <l eID="gen162" level="1"/> <l level="1" sID="gen163"/>et maculasti stratum ejus. <l eID="gen163" level="1"/>
+Effusus es sicut aqua, non crescas : quia ascendisti cubile patris tui,  et maculasti stratum ejus. 
 
 ** Genesis 49:5
 
-Simeon et Levi fratres <l eID="gen164" level="1"/> <l level="1" sID="gen165"/>vasa iniquitatis bellantia. <l eID="gen165" level="1"/>
+Simeon et Levi fratres  vasa iniquitatis bellantia. 
 
 ** Genesis 49:6
 
-In consilium eorum non veniat anima mea, <l eID="gen166" level="1"/> <l level="1" sID="gen167"/>et in cœtu illorum non sit gloria mea : <l eID="gen167" level="1"/> <l level="1" sID="gen168"/>quia in furore suo occiderunt virum, <l eID="gen168" level="1"/> <l level="1" sID="gen169"/>et in voluntate sua suffoderunt murum. <l eID="gen169" level="1"/>
+In consilium eorum non veniat anima mea,  et in cœtu illorum non sit gloria mea :  quia in furore suo occiderunt virum,  et in voluntate sua suffoderunt murum. 
 
 ** Genesis 49:7
 
-Maledictus furor eorum, quia pertinax : <l eID="gen170" level="1"/> <l level="1" sID="gen171"/>et indignatio eorum, quia dura : <l eID="gen171" level="1"/> <l level="1" sID="gen172"/>dividam eos in Jacob, <l eID="gen172" level="1"/> <l level="1" sID="gen173"/>et dispergam eos in Israël. <l eID="gen173" level="1"/>
+Maledictus furor eorum, quia pertinax :  et indignatio eorum, quia dura :  dividam eos in Jacob,  et dispergam eos in Israël. 
 
 ** Genesis 49:8
 
-Juda, te laudabunt fratres tui : <l eID="gen174" level="1"/> <l level="1" sID="gen175"/>manus tua in cervicibus inimicorum tuorum, <l eID="gen175" level="1"/> <l level="1" sID="gen176"/>adorabunt te filii patris tui. <l eID="gen176" level="1"/>
+Juda, te laudabunt fratres tui :  manus tua in cervicibus inimicorum tuorum,  adorabunt te filii patris tui. 
 
 ** Genesis 49:9
 
-Catulus leonis Juda : <l eID="gen177" level="1"/> <l level="1" sID="gen178"/>ad prædam, fili mi, ascendisti : <l eID="gen178" level="1"/> <l level="1" sID="gen179"/>requiescens accubuisti ut leo, <l eID="gen179" level="1"/> <l level="1" sID="gen180"/>et quasi leæna : quis suscitabit eum ? <l eID="gen180" level="1"/>
+Catulus leonis Juda :  ad prædam, fili mi, ascendisti :  requiescens accubuisti ut leo,  et quasi leæna : quis suscitabit eum ? 
 
 ** Genesis 49:10
 
-Non auferetur sceptrum de Juda, <l eID="gen181" level="1"/> <l level="1" sID="gen182"/>et dux de femore ejus, <l eID="gen182" level="1"/> <l level="1" sID="gen183"/>donec veniat qui mittendus est, <l eID="gen183" level="1"/> <l level="1" sID="gen184"/>et ipse erit expectatio gentium. <l eID="gen184" level="1"/>
+Non auferetur sceptrum de Juda,  et dux de femore ejus,  donec veniat qui mittendus est,  et ipse erit expectatio gentium. 
 
 ** Genesis 49:11
 
-Ligans ad vineam pullum suum, <l eID="gen185" level="1"/> <l level="1" sID="gen186"/>et ad vitem, o fili mi, asinam suam, <l eID="gen186" level="1"/> <l level="1" sID="gen187"/>lavabit in vino stolam suam <l eID="gen187" level="1"/> <l level="1" sID="gen188"/>et in sanguine uvæ pallium suum. <l eID="gen188" level="1"/>
+Ligans ad vineam pullum suum,  et ad vitem, o fili mi, asinam suam,  lavabit in vino stolam suam  et in sanguine uvæ pallium suum. 
 
 ** Genesis 49:12
 
-Pulchriores sunt oculi ejus vino, <l eID="gen189" level="1"/> <l level="1" sID="gen190"/>et dentes ejus lacte candidiores. <l eID="gen190" level="1"/>
+Pulchriores sunt oculi ejus vino,  et dentes ejus lacte candidiores. 
 
 ** Genesis 49:13
 
-Zabulon in littore maris habitabit, <l eID="gen191" level="1"/> <l level="1" sID="gen192"/>et in statione navium <l eID="gen192" level="1"/> <l level="1" sID="gen193"/>pertingens usque ad Sidonem. <l eID="gen193" level="1"/>
+Zabulon in littore maris habitabit,  et in statione navium  pertingens usque ad Sidonem. 
 
 ** Genesis 49:14
 
-Issachar asinus fortis <l eID="gen194" level="1"/> <l level="1" sID="gen195"/>accubans inter terminos. <l eID="gen195" level="1"/>
+Issachar asinus fortis  accubans inter terminos. 
 
 ** Genesis 49:15
 
-Vidit requiem, quod esset bona <l eID="gen196" level="1"/> <l level="1" sID="gen197"/>et terram, quod optima : <l eID="gen197" level="1"/> <l level="1" sID="gen198"/>et supposuit humerum suum ad portandum, <l eID="gen198" level="1"/> <l level="1" sID="gen199"/>factusque est tributis serviens. <l eID="gen199" level="1"/>
+Vidit requiem, quod esset bona  et terram, quod optima :  et supposuit humerum suum ad portandum,  factusque est tributis serviens. 
 
 ** Genesis 49:16
 
-Dan judicabit populum suum <l eID="gen200" level="1"/> <l level="1" sID="gen201"/>sicut et alia tribus in Israël. <l eID="gen201" level="1"/>
+Dan judicabit populum suum  sicut et alia tribus in Israël. 
 
 ** Genesis 49:17
 
-Fiat Dan coluber in via, <l eID="gen202" level="1"/> <l level="1" sID="gen203"/>cerastes in semita, <l eID="gen203" level="1"/> <l level="1" sID="gen204"/>mordens ungulas equi, <l eID="gen204" level="1"/> <l level="1" sID="gen205"/>ut cadat ascensor ejus retro. <l eID="gen205" level="1"/>
+Fiat Dan coluber in via,  cerastes in semita,  mordens ungulas equi,  ut cadat ascensor ejus retro. 
 
 ** Genesis 49:18
 
-Salutare tuum expectabo, Domine. <l eID="gen206" level="1"/>
+Salutare tuum expectabo, Domine. 
 
 ** Genesis 49:19
 
-Gad, accinctus præliabitur ante eum : <l eID="gen207" level="1"/> <l level="1" sID="gen208"/>et ipse accingetur retrorsum. <l eID="gen208" level="1"/>
+Gad, accinctus præliabitur ante eum :  et ipse accingetur retrorsum. 
 
 ** Genesis 49:20
 
-Aser, pinguis panis ejus, <l eID="gen209" level="1"/> <l level="1" sID="gen210"/>et præbebit delicias regibus. <l eID="gen210" level="1"/>
+Aser, pinguis panis ejus,  et præbebit delicias regibus. 
 
 ** Genesis 49:21
 
-Nephthali, cervus emissus, <l eID="gen211" level="1"/> <l level="1" sID="gen212"/>et dans eloquia pulchritudinis. <l eID="gen212" level="1"/>
+Nephthali, cervus emissus,  et dans eloquia pulchritudinis. 
 
 ** Genesis 49:22
 
-Filius accrescens Joseph, filius accrescens et decorus aspectu : <l eID="gen213" level="1"/> <l level="1" sID="gen214"/>filiæ discurrerunt super murum. <l eID="gen214" level="1"/>
+Filius accrescens Joseph, filius accrescens et decorus aspectu :  filiæ discurrerunt super murum. 
 
 ** Genesis 49:23
 
-Sed exasperaverunt eum et jurgati sunt, <l eID="gen215" level="1"/> <l level="1" sID="gen216"/>invideruntque illi habentes jacula. <l eID="gen216" level="1"/>
+Sed exasperaverunt eum et jurgati sunt,  invideruntque illi habentes jacula. 
 
 ** Genesis 49:24
 
-Sedit in forti arcus ejus, <l eID="gen217" level="1"/> <l level="1" sID="gen218"/>et dissoluta sunt vincula brachiorum et manuum illius <l eID="gen218" level="1"/> <l level="1" sID="gen219"/>per manus potentis Jacob : <l eID="gen219" level="1"/> <l level="1" sID="gen220"/>inde pastor egressus est, lapis Israël. <l eID="gen220" level="1"/>
+Sedit in forti arcus ejus,  et dissoluta sunt vincula brachiorum et manuum illius  per manus potentis Jacob :  inde pastor egressus est, lapis Israël. 
 
 ** Genesis 49:25
 
-Deus patris tui erit adjutor tuus, <l eID="gen221" level="1"/> <l level="1" sID="gen222"/>et omnipotens benedicet tibi <l eID="gen222" level="1"/> <l level="1" sID="gen223"/>benedictionibus cæli desuper, benedictionibus abyssi jacentis deorsum, <l eID="gen223" level="1"/> <l level="1" sID="gen224"/>benedictionibus uberum et vulvæ. <l eID="gen224" level="1"/>
+Deus patris tui erit adjutor tuus,  et omnipotens benedicet tibi  benedictionibus cæli desuper, benedictionibus abyssi jacentis deorsum,  benedictionibus uberum et vulvæ. 
 
 ** Genesis 49:26
 
-Benedictiones patris tui confortatæ sunt benedictionibus patrum ejus, <l eID="gen225" level="1"/> <l level="1" sID="gen226"/>donec veniret desiderium collium æternorum : <l eID="gen226" level="1"/> <l level="1" sID="gen227"/>fiant in capite Joseph, <l eID="gen227" level="1"/> <l level="1" sID="gen228"/>et in vertice Nazaræi inter fratres suos. <l eID="gen228" level="1"/>
+Benedictiones patris tui confortatæ sunt benedictionibus patrum ejus,  donec veniret desiderium collium æternorum :  fiant in capite Joseph,  et in vertice Nazaræi inter fratres suos. 
 
 ** Genesis 49:27
 
-Benjamin lupus rapax, <l eID="gen229" level="1"/> <l level="1" sID="gen230"/>mane comedat prædam, <l eID="gen230" level="1"/> <l level="1" sID="gen231"/>et vespere dividet spolia.
+Benjamin lupus rapax,  mane comedat prædam,  et vespere dividet spolia.
 
 ** Genesis 49:28
 
-Omnes hi in tribubus Israël duodecim : hæc locutus est eis pater suus, benedixitque singulis benedictionibus propriis. <l eID="gen231" level="1"/> <lg eID="gen156"/>
+Omnes hi in tribubus Israël duodecim : hæc locutus est eis pater suus, benedixitque singulis benedictionibus propriis.  
 
 ** Genesis 49:29
 
@@ -6114,7 +6114,7 @@ Ibi sepelierunt eum, et Saram uxorem ejus : ibi sepultus est Isaac cum Rebecca c
 
 ** Genesis 49:32
 
-Finitisque mandatis quibus filios instruebat, collegit pedes suos super lectulum, et obiit : appositusque est ad populum suum.  <chapter eID="Gen.49"/> <div eID="gen232" type="x-p"/>
+Finitisque mandatis quibus filios instruebat, collegit pedes suos super lectulum, et obiit : appositusque est ad populum suum.   
 
 * Genesis 50
 
@@ -6172,7 +6172,7 @@ et portantes eum in terram Chanaan, sepelierunt eum in spelunca duplici, quam em
 
 ** Genesis 50:14
 
-Reversusque est Joseph in Ægyptum cum fratribus suis, et omni comitatu, sepulto patre.  <div eID="gen233" type="x-p"/>
+Reversusque est Joseph in Ægyptum cum fratribus suis, et omni comitatu, sepulto patre.  
 
 ** Genesis 50:15
 
@@ -6216,5 +6216,5 @@ Cumque adjurasset eos atque dixisset : Deus visitabit vos, asportate ossa mea vo
 
 ** Genesis 50:25
 
-mortuus est, expletis centum decem vitæ suæ annis. Et conditus aromatibus, repositus est in loculo in Ægypto.  <div eID="gen234" type="x-p"/> <chapter eID="Gen.50"/> <div eID="gen1" osisID="Gen" type="book"/>
+mortuus est, expletis centum decem vitæ suæ annis. Et conditus aromatibus, repositus est in loculo in Ægypto.    
 

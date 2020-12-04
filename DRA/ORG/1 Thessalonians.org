@@ -38,7 +38,7 @@ For they themselves relate of us, what manner of entering in we had unto you: an
 
 *** I Thessalonians 1:10
 
-And to wait for his Son from heaven (whom he raised up from the dead), Jesus, who hath delivered us from the wrath to come. <chapter eID="gen35591" osisID="1Thess.1"/>
+And to wait for his Son from heaven (whom he raised up from the dead), Jesus, who hath delivered us from the wrath to come. 
 
 ** I Thessalonians 2
 
@@ -120,7 +120,7 @@ For what is our hope or joy or crown of glory? Are not you, in the presence of o
 
 *** I Thessalonians 2:20
 
-For you are our glory and joy. <chapter eID="gen35602" osisID="1Thess.2"/>
+For you are our glory and joy. 
 
 ** I Thessalonians 3
 
@@ -174,7 +174,7 @@ And may the Lord multiply you and make you abound in charity towards one another
 
 *** I Thessalonians 3:13
 
-To confirm your hearts without blame, in holiness, before God and our Father, at the coming of our Lord Jesus Christ, with all his saints. Amen. <chapter eID="gen35623" osisID="1Thess.3"/>
+To confirm your hearts without blame, in holiness, before God and our Father, at the coming of our Lord Jesus Christ, with all his saints. Amen. 
 
 ** I Thessalonians 4
 
@@ -244,7 +244,7 @@ Then we who are alive, who are left, shall be taken up together with them in the
 
 *** I Thessalonians 4:17
 
-Wherefore, comfort ye one another with these words. <chapter eID="gen35637" osisID="1Thess.4"/>
+Wherefore, comfort ye one another with these words. 
 
 *** I Thessalonians 4:18
 
@@ -362,4 +362,4 @@ I charge you by the Lord that this epistle be read to all the holy brethren.
 
 *** I Thessalonians 5:28
 
-The grace of our Lord Jesus Christ be with you. Amen. <chapter eID="gen35655" osisID="1Thess.5"/> <div eID="gen35590" osisID="1Thess" type="book"/>
+The grace of our Lord Jesus Christ be with you. Amen.  

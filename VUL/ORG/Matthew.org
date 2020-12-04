@@ -66,7 +66,7 @@ Jacob autem genuit Joseph virum Mariæ, de qua natus est Jesus, qui vocatur Chri
 
 ** Matthew 1:17
 
-Omnes itaque generationes ab Abraham usque ad David, generationes quatuordecim : et a David usque ad transmigrationem Babylonis, generationes quatuordecim : et a transmigratione Babylonis usque ad Christum, generationes quatuordecim.  <div eID="gen32015" type="x-p"/>
+Omnes itaque generationes ab Abraham usque ad David, generationes quatuordecim : et a David usque ad transmigrationem Babylonis, generationes quatuordecim : et a transmigratione Babylonis usque ad Christum, generationes quatuordecim.  
 
 ** Matthew 1:18
 
@@ -98,7 +98,7 @@ Exsurgens autem Joseph a somno, fecit sicut præcepit ei angelus Domini, et acce
 
 ** Matthew 1:25
 
-Et non cognoscebat eam donec peperit filium suum primogenitum : et vocavit nomen ejus Jesum.  <chapter eID="Matt.1"/> <div eID="gen32016" type="x-p"/>
+Et non cognoscebat eam donec peperit filium suum primogenitum : et vocavit nomen ejus Jesum.   
 
 * Matthew 2
 
@@ -120,11 +120,11 @@ Et congregans omnes principes sacerdotum, et scribas populi, sciscitabatur ab ei
 
 ** Matthew 2:5
 
-At illi dixerunt : In Bethlehem Judæ : sic enim scriptum est per prophetam :  <div eID="gen32017" type="x-p"/>
+At illi dixerunt : In Bethlehem Judæ : sic enim scriptum est per prophetam :  
 
 ** Matthew 2:6
 
-Et tu Bethlehem terra Juda, <l eID="gen32019" level="1"/> <l level="1" sID="gen32020"/>nequaquam minima es <l eID="gen32020" level="1"/> <l level="1" sID="gen32021"/>in principibus Juda : <l eID="gen32021" level="1"/> <l level="1" sID="gen32022"/>ex te enim exiet dux, qui regat populum meum Israël.
+Et tu Bethlehem terra Juda,  nequaquam minima es  in principibus Juda :  ex te enim exiet dux, qui regat populum meum Israël.
 
 ** Matthew 2:7
 
@@ -148,7 +148,7 @@ Et intrantes domum, invenerunt puerum cum Maria matre ejus, et procidentes adora
 
 ** Matthew 2:12
 
-Et responso accepto in somnis ne redirent ad Herodem, per aliam viam reversi sunt in regionem suam. <l eID="gen32022" level="1"/> <lg eID="gen32018"/>
+Et responso accepto in somnis ne redirent ad Herodem, per aliam viam reversi sunt in regionem suam.  
 
 ** Matthew 2:13
 
@@ -168,11 +168,11 @@ Tunc Herodes videns quoniam illusus esset a magis, iratus est valde, et mittens 
 
 ** Matthew 2:17
 
-Tunc adimpletum est quod dictum est per Jeremiam prophetam dicentem :  <div eID="gen32023" type="x-p"/>
+Tunc adimpletum est quod dictum est per Jeremiam prophetam dicentem :  
 
 ** Matthew 2:18
 
-Vox in Rama audita est <l eID="gen32025" level="1"/> <l level="1" sID="gen32026"/>ploratus, et ululatus multus : <l eID="gen32026" level="1"/> <l level="1" sID="gen32027"/>Rachel plorans filios suos, <l eID="gen32027" level="1"/> <l level="1" sID="gen32028"/>et noluit consolari, quia non sunt. <l eID="gen32028" level="1"/> <lg eID="gen32024"/>
+Vox in Rama audita est  ploratus, et ululatus multus :  Rachel plorans filios suos,  et noluit consolari, quia non sunt.  
 
 ** Matthew 2:19
 
@@ -192,7 +192,7 @@ Audiens autem quod Archelaus regnaret in Judæa pro Herode patre suo, timuit ill
 
 ** Matthew 2:23
 
-Et veniens habitavit in civitate quæ vocatur Nazareth : ut adimpleretur quod dictum est per prophetas : Quoniam Nazaræus vocabitur.  <chapter eID="Matt.2"/> <div eID="gen32029" type="x-p"/>
+Et veniens habitavit in civitate quæ vocatur Nazareth : ut adimpleretur quod dictum est per prophetas : Quoniam Nazaræus vocabitur.   
 
 * Matthew 3
 
@@ -206,7 +206,7 @@ et dicens : Pœnitentiam agite : appropinquavit enim regnum cælorum.
 
 ** Matthew 3:3
 
-Hic est enim, qui dictus est per Isaiam prophetam dicentem : <div eID="gen32030" type="x-p"/> <lg sID="gen32031"/> <l level="1" sID="gen32032"/>Vox clamantis in deserto : <l eID="gen32032" level="1"/> <l level="1" sID="gen32033"/>Parate viam Domini ; <l eID="gen32033" level="1"/> <l level="1" sID="gen32034"/>rectas facite semitas ejus.
+Hic est enim, qui dictus est per Isaiam prophetam dicentem :   Vox clamantis in deserto :  Parate viam Domini ;  rectas facite semitas ejus.
 
 ** Matthew 3:4
 
@@ -242,7 +242,7 @@ Ego quidem baptizo vos in aqua in pœnitentiam : qui autem post me venturus est,
 
 ** Matthew 3:12
 
-Cujus ventilabrum in manu sua : et permundabit aream suam : et congregabit triticum suum in horreum, paleas autem comburet igni inextinguibili. <l eID="gen32034" level="1"/> <lg eID="gen32031"/>
+Cujus ventilabrum in manu sua : et permundabit aream suam : et congregabit triticum suum in horreum, paleas autem comburet igni inextinguibili.  
 
 ** Matthew 3:13
 
@@ -262,7 +262,7 @@ Baptizatus autem Jesus, confestim ascendit de aqua, et ecce aperti sunt ei cæli
 
 ** Matthew 3:17
 
-Et ecce vox de cælis dicens : Hic est Filius meus dilectus, in quo mihi complacui.  <chapter eID="Matt.3"/> <div eID="gen32035" type="x-p"/>
+Et ecce vox de cælis dicens : Hic est Filius meus dilectus, in quo mihi complacui.   
 
 * Matthew 4
 
@@ -308,7 +308,7 @@ Tunc dicit ei Jesus : Vade Satana : Scriptum est enim : Dominum Deum tuum adorab
 
 ** Matthew 4:11
 
-Tunc reliquit eum diabolus : et ecce angeli accesserunt, et ministrabant ei.  <div eID="gen32036" type="x-p"/>
+Tunc reliquit eum diabolus : et ecce angeli accesserunt, et ministrabant ei.  
 
 ** Matthew 4:12
 
@@ -320,19 +320,19 @@ et, relicta civitate Nazareth, venit, et habitavit in Capharnaum maritima, in fi
 
 ** Matthew 4:14
 
-ut adimpleretur quod dictum est per Isaiam prophetam :  <div eID="gen32037" type="x-p"/>
+ut adimpleretur quod dictum est per Isaiam prophetam :  
 
 ** Matthew 4:15
 
-Terra Zabulon, et terra Nephthalim, <l eID="gen32039" level="1"/> <l level="1" sID="gen32040"/>via maris trans Jordanem, <l eID="gen32040" level="1"/> <l level="1" sID="gen32041"/>Galilæa gentium : <l eID="gen32041" level="1"/>
+Terra Zabulon, et terra Nephthalim,  via maris trans Jordanem,  Galilæa gentium : 
 
 ** Matthew 4:16
 
-populus, qui sedebat in tenebris, <l eID="gen32042" level="1"/> <l level="1" sID="gen32043"/>vidit lucem magnam : <l eID="gen32043" level="1"/> <l level="1" sID="gen32044"/>et sedentibus in regione umbræ mortis, <l eID="gen32044" level="1"/> <l level="1" sID="gen32045"/>lux orta est eis.
+populus, qui sedebat in tenebris,  vidit lucem magnam :  et sedentibus in regione umbræ mortis,  lux orta est eis.
 
 ** Matthew 4:17
 
-Exinde cœpit Jesus prædicare, et dicere : Pœnitentiam agite : appropinquavit enim regnum cælorum. <l eID="gen32045" level="1"/> <lg eID="gen32038"/>
+Exinde cœpit Jesus prædicare, et dicere : Pœnitentiam agite : appropinquavit enim regnum cælorum.  
 
 ** Matthew 4:18
 
@@ -364,7 +364,7 @@ Et abiit opinio ejus in totam Syriam, et obtulerunt ei omnes male habentes, vari
 
 ** Matthew 4:25
 
-et secutæ sunt eum turbæ multæ de Galilæa, et Decapoli, et de Jerosolymis, et de Judæa, et de trans Jordanem.  <chapter eID="Matt.4"/> <div eID="gen32046" type="x-p"/>
+et secutæ sunt eum turbæ multæ de Galilæa, et Decapoli, et de Jerosolymis, et de Judæa, et de trans Jordanem.   
 
 * Matthew 5
 
@@ -414,7 +414,7 @@ Beati estis cum maledixerint vobis, et persecuti vos fuerint, et dixerint omne m
 
 ** Matthew 5:12
 
-gaudete, et exsultate, quoniam merces vestra copiosa est in cælis. Sic enim persecuti sunt prophetas, qui fuerunt ante vos.  <div eID="gen32047" type="x-p"/>
+gaudete, et exsultate, quoniam merces vestra copiosa est in cælis. Sic enim persecuti sunt prophetas, qui fuerunt ante vos.  
 
 ** Matthew 5:13
 
@@ -430,7 +430,7 @@ neque accendunt lucernam, et ponunt eam sub modio, sed super candelabrum, ut luc
 
 ** Matthew 5:16
 
-Sic luceat lux vestra coram hominibus : ut videant opera vestra bona, et glorificent Patrem vestrum, qui in cælis est.  <div eID="gen32048" type="x-p"/>
+Sic luceat lux vestra coram hominibus : ut videant opera vestra bona, et glorificent Patrem vestrum, qui in cælis est.  
 
 ** Matthew 5:17
 
@@ -446,7 +446,7 @@ Qui ergo solverit unum de mandatis istis minimis, et docuerit sic homines, minim
 
 ** Matthew 5:20
 
-Dico enim vobis, quia nisi abundaverit justitia vestra plus quam scribarum et pharisæorum, non intrabitis in regnum cælorum.  <div eID="gen32049" type="x-p"/>
+Dico enim vobis, quia nisi abundaverit justitia vestra plus quam scribarum et pharisæorum, non intrabitis in regnum cælorum.  
 
 ** Matthew 5:21
 
@@ -470,7 +470,7 @@ Esto consentiens adversario tuo cito dum es in via cum eo : ne forte tradat te a
 
 ** Matthew 5:26
 
-Amen dico tibi, non exies inde, donec reddas novissimum quadrantem.  <div eID="gen32050" type="x-p"/>
+Amen dico tibi, non exies inde, donec reddas novissimum quadrantem.  
 
 ** Matthew 5:27
 
@@ -494,7 +494,7 @@ Dictum est autem : Quicumque dimiserit uxorem suam, det ei libellum repudii.
 
 ** Matthew 5:32
 
-Ego autem dico vobis : quia omnis qui dimiserit uxorem suam, excepta fornicationis causa, facit eam mœchari : et qui dimissam duxerit, adulterat.  <div eID="gen32051" type="x-p"/>
+Ego autem dico vobis : quia omnis qui dimiserit uxorem suam, excepta fornicationis causa, facit eam mœchari : et qui dimissam duxerit, adulterat.  
 
 ** Matthew 5:33
 
@@ -514,7 +514,7 @@ neque per caput tuum juraveris, quia non potes unum capillum album facere, aut n
 
 ** Matthew 5:37
 
-Sit autem sermo vester, est, est : non, non : quod autem his abundantius est, a malo est.  <div eID="gen32052" type="x-p"/>
+Sit autem sermo vester, est, est : non, non : quod autem his abundantius est, a malo est.  
 
 ** Matthew 5:38
 
@@ -534,7 +534,7 @@ et quicumque te angariaverit mille passus, vade cum illo et alia duo.
 
 ** Matthew 5:42
 
-Qui petit a te, da ei : et volenti mutuari a te, ne avertaris.  <div eID="gen32053" type="x-p"/>
+Qui petit a te, da ei : et volenti mutuari a te, ne avertaris.  
 
 ** Matthew 5:43
 
@@ -558,7 +558,7 @@ Et si salutaveritis fratres vestros tantum, quid amplius facitis ? nonne et ethn
 
 ** Matthew 5:48
 
-Estote ergo vos perfecti, sicut et Pater vester cælestis perfectus est.  <chapter eID="Matt.5"/> <div eID="gen32054" type="x-p"/>
+Estote ergo vos perfecti, sicut et Pater vester cælestis perfectus est.   
 
 * Matthew 6
 
@@ -576,7 +576,7 @@ Te autem faciente eleemosynam, nesciat sinistra tua quid faciat dextera tua :
 
 ** Matthew 6:4
 
-ut sit eleemosyna tua in abscondito, et Pater tuus, qui videt in abscondito, reddet tibi.  <div eID="gen32055" type="x-p"/>
+ut sit eleemosyna tua in abscondito, et Pater tuus, qui videt in abscondito, reddet tibi.  
 
 ** Matthew 6:5
 
@@ -596,23 +596,23 @@ Nolite ergo assimilari eis : scit enim Pater vester, quid opus sit vobis, antequ
 
 ** Matthew 6:9
 
-Sic ergo vos orabitis : <div eID="gen32056" type="x-p"/> <lg sID="gen32057"/> <l level="1" sID="gen32058"/>Pater noster, qui es in cælis, <l eID="gen32058" level="1"/> <l level="1" sID="gen32059"/>sanctificetur nomen tuum. <l eID="gen32059" level="1"/>
+Sic ergo vos orabitis :   Pater noster, qui es in cælis,  sanctificetur nomen tuum. 
 
 ** Matthew 6:10
 
-Adveniat regnum tuum ; <l eID="gen32060" level="1"/> <l level="1" sID="gen32061"/>fiat voluntas tua, sicut in cælo et in terra. <l eID="gen32061" level="1"/>
+Adveniat regnum tuum ;  fiat voluntas tua, sicut in cælo et in terra. 
 
 ** Matthew 6:11
 
-Panem nostrum supersubstantialem da nobis hodie, <l eID="gen32062" level="1"/>
+Panem nostrum supersubstantialem da nobis hodie, 
 
 ** Matthew 6:12
 
-et dimitte nobis debita nostra, <l eID="gen32063" level="1"/> <l level="1" sID="gen32064"/>sicut et nos dimittimus debitoribus nostris. <l eID="gen32064" level="1"/>
+et dimitte nobis debita nostra,  sicut et nos dimittimus debitoribus nostris. 
 
 ** Matthew 6:13
 
-Et ne nos inducas in tentationem, <l eID="gen32065" level="1"/> <l level="1" sID="gen32066"/>sed libera nos a malo. Amen.
+Et ne nos inducas in tentationem,  sed libera nos a malo. Amen.
 
 ** Matthew 6:14
 
@@ -620,7 +620,7 @@ Si enim dimiseritis hominibus peccata eorum : dimittet et vobis Pater vester cæ
 
 ** Matthew 6:15
 
-Si autem non dimiseritis hominibus : nec Pater vester dimittet vobis peccata vestra. <l eID="gen32066" level="1"/> <lg eID="gen32057"/>
+Si autem non dimiseritis hominibus : nec Pater vester dimittet vobis peccata vestra.  
 
 ** Matthew 6:16
 
@@ -632,7 +632,7 @@ Tu autem, cum jejunas, unge caput tuum, et faciem tuam lava,
 
 ** Matthew 6:18
 
-ne videaris hominibus jejunans, sed Patri tuo, qui est in abscondito : et Pater tuus, qui videt in abscondito, reddet tibi.  <div eID="gen32067" type="x-p"/>
+ne videaris hominibus jejunans, sed Patri tuo, qui est in abscondito : et Pater tuus, qui videt in abscondito, reddet tibi.  
 
 ** Matthew 6:19
 
@@ -696,7 +696,7 @@ Quærite ergo primum regnum Dei, et justitiam ejus : et hæc omnia adjicientur v
 
 ** Matthew 6:34
 
-Nolite ergo solliciti esse in crastinum. Crastinus enim dies sollicitus erit sibi ipsi : sufficit diei malitia sua.  <chapter eID="Matt.6"/> <div eID="gen32068" type="x-p"/>
+Nolite ergo solliciti esse in crastinum. Crastinus enim dies sollicitus erit sibi ipsi : sufficit diei malitia sua.   
 
 * Matthew 7
 
@@ -722,7 +722,7 @@ Hypocrita, ejice primum trabem de oculo tuo, et tunc videbis ejicere festucam de
 
 ** Matthew 7:6
 
-Nolite dare sanctum canibus : neque mittatis margaritas vestras ante porcos, ne forte conculcent eas pedibus suis, et conversi dirumpant vos.  <div eID="gen32069" type="x-p"/>
+Nolite dare sanctum canibus : neque mittatis margaritas vestras ante porcos, ne forte conculcent eas pedibus suis, et conversi dirumpant vos.  
 
 ** Matthew 7:7
 
@@ -742,7 +742,7 @@ aut si piscem petierit, numquid serpentem porriget ei ?
 
 ** Matthew 7:11
 
-Si ergo vos, cum sitis mali, nostis bona data dare filiis vestris : quanto magis Pater vester, qui in cælis est, dabit bona petentibus se ?  <div eID="gen32070" type="x-p"/>
+Si ergo vos, cum sitis mali, nostis bona data dare filiis vestris : quanto magis Pater vester, qui in cælis est, dabit bona petentibus se ?  
 
 ** Matthew 7:12
 
@@ -754,7 +754,7 @@ Intrate per angustam portam : quia lata porta, et spatiosa via est, quæ ducit a
 
 ** Matthew 7:14
 
-Quam angusta porta, et arcta via est, quæ ducit ad vitam : et pauci sunt qui inveniunt eam !  <div eID="gen32071" type="x-p"/>
+Quam angusta porta, et arcta via est, quæ ducit ad vitam : et pauci sunt qui inveniunt eam !  
 
 ** Matthew 7:15
 
@@ -778,7 +778,7 @@ Omnis arbor, quæ non facit fructum bonum, excidetur, et in ignem mittetur.
 
 ** Matthew 7:20
 
-Igitur ex fructibus eorum cognoscetis eos.  <div eID="gen32072" type="x-p"/>
+Igitur ex fructibus eorum cognoscetis eos.  
 
 ** Matthew 7:21
 
@@ -814,7 +814,7 @@ Et factum est : cum consummasset Jesus verba hæc, admirabantur turbæ super doc
 
 ** Matthew 7:29
 
-Erat enim docens eos sicut potestatem habens, et non sicut scribæ eorum, et pharisæi.  <chapter eID="Matt.7"/> <div eID="gen32073" type="x-p"/>
+Erat enim docens eos sicut potestatem habens, et non sicut scribæ eorum, et pharisæi.   
 
 * Matthew 8
 
@@ -832,7 +832,7 @@ Et extendens Jesus manum, tetigit eum, dicens : Volo : mundare. Et confestim mun
 
 ** Matthew 8:4
 
-Et ait illi Jesus : Vide, nemini dixeris : sed vade, ostende te sacerdoti, et offer munus, quod præcepit Moyses, in testimonium illis.  <div eID="gen32074" type="x-p"/>
+Et ait illi Jesus : Vide, nemini dixeris : sed vade, ostende te sacerdoti, et offer munus, quod præcepit Moyses, in testimonium illis.  
 
 ** Matthew 8:5
 
@@ -868,7 +868,7 @@ filii autem regni ejicientur in tenebras exteriores : ibi erit fletus et stridor
 
 ** Matthew 8:13
 
-Et dixit Jesus centurioni : Vade, et sicut credidisti, fiat tibi. Et sanatus est puer in illa hora.  <div eID="gen32075" type="x-p"/>
+Et dixit Jesus centurioni : Vade, et sicut credidisti, fiat tibi. Et sanatus est puer in illa hora.  
 
 ** Matthew 8:14
 
@@ -876,7 +876,7 @@ Et cum venisset Jesus in domum Petri, vidit socrum ejus jacentem, et febricitant
 
 ** Matthew 8:15
 
-et tetigit manum ejus, et dimisit eam febris, et surrexit, et ministrabat eis.  <div eID="gen32076" type="x-p"/>
+et tetigit manum ejus, et dimisit eam febris, et surrexit, et ministrabat eis.  
 
 ** Matthew 8:16
 
@@ -884,11 +884,11 @@ Vespere autem facto, obtulerunt ei multos dæmonia habentes : et ejiciebat spiri
 
 ** Matthew 8:17
 
-ut adimpleretur quod dictum est per Isaiam prophetam, dicentem : <div eID="gen32077" type="x-p"/> <lg sID="gen32078"/> <l level="1" sID="gen32079"/>Ipse infirmitates nostras accepit : <l eID="gen32079" level="1"/> <l level="1" sID="gen32080"/>et ægrotationes nostras portavit.
+ut adimpleretur quod dictum est per Isaiam prophetam, dicentem :   Ipse infirmitates nostras accepit :  et ægrotationes nostras portavit.
 
 ** Matthew 8:18
 
-Videns autem Jesus turbas multas circum se, jussit ire trans fretum. <l eID="gen32080" level="1"/> <lg eID="gen32078"/>
+Videns autem Jesus turbas multas circum se, jussit ire trans fretum.  
 
 ** Matthew 8:19
 
@@ -904,7 +904,7 @@ Alius autem de discipulis ejus ait illi : Domine, permitte me primum ire, et sep
 
 ** Matthew 8:22
 
-Jesus autem ait illi : Sequere me, et dimitte mortuos sepelire mortuos suos.  <div eID="gen32081" type="x-p"/>
+Jesus autem ait illi : Sequere me, et dimitte mortuos sepelire mortuos suos.  
 
 ** Matthew 8:23
 
@@ -924,7 +924,7 @@ Et dicit eis Jesus : Quid timidi estis, modicæ fidei ? Tunc surgens imperavit v
 
 ** Matthew 8:27
 
-Porro homines mirati sunt, dicentes : Qualis est hic, quia venti et mare obediunt ei ?  <div eID="gen32082" type="x-p"/>
+Porro homines mirati sunt, dicentes : Qualis est hic, quia venti et mare obediunt ei ?  
 
 ** Matthew 8:28
 
@@ -952,7 +952,7 @@ Pastores autem fugerunt : et venientes in civitatem, nuntiaverunt omnia, et de e
 
 ** Matthew 8:34
 
-Et ecce tota civitas exiit obviam Jesu : et viso eo, rogabant ut transiret a finibus eorum.  <chapter eID="Matt.8"/> <div eID="gen32083" type="x-p"/>
+Et ecce tota civitas exiit obviam Jesu : et viso eo, rogabant ut transiret a finibus eorum.   
 
 * Matthew 9
 
@@ -986,7 +986,7 @@ Et surrexit, et abiit in domum suam.
 
 ** Matthew 9:8
 
-Videntes autem turbæ timuerunt, et glorificaverunt Deum, qui dedit potestatem talem hominibus.  <div eID="gen32084" type="x-p"/>
+Videntes autem turbæ timuerunt, et glorificaverunt Deum, qui dedit potestatem talem hominibus.  
 
 ** Matthew 9:9
 
@@ -1022,7 +1022,7 @@ Nemo autem immittit commissuram panni rudis in vestimentum vetus : tollit enim p
 
 ** Matthew 9:17
 
-Neque mittunt vinum novum in utres veteres : alioquin rumpuntur utres, et vinum effunditur, et utres pereunt. Sed vinum novum in utres novos mittunt : et ambo conservantur.  <div eID="gen32085" type="x-p"/>
+Neque mittunt vinum novum in utres veteres : alioquin rumpuntur utres, et vinum effunditur, et utres pereunt. Sed vinum novum in utres novos mittunt : et ambo conservantur.  
 
 ** Matthew 9:18
 
@@ -1042,7 +1042,7 @@ Dicebat enim intra se : Si tetigero tantum vestimentum ejus, salva ero.
 
 ** Matthew 9:22
 
-At Jesus conversus, et videns eam, dixit : Confide, filia, fides tua te salvam fecit. Et salva facta est mulier ex illa hora.  <div eID="gen32086" type="x-p"/>
+At Jesus conversus, et videns eam, dixit : Confide, filia, fides tua te salvam fecit. Et salva facta est mulier ex illa hora.  
 
 ** Matthew 9:23
 
@@ -1058,7 +1058,7 @@ Et cum ejecta esset turba, intravit : et tenuit manum ejus, et surrexit puella.
 
 ** Matthew 9:26
 
-Et exiit fama hæc in universam terram illam.  <div eID="gen32087" type="x-p"/>
+Et exiit fama hæc in universam terram illam.  
 
 ** Matthew 9:27
 
@@ -1078,7 +1078,7 @@ Et aperti sunt oculi eorum : et comminatus est illis Jesus, dicens : Videte ne q
 
 ** Matthew 9:31
 
-Illi autem exeuntes, diffamaverunt eum in tota terra illa.  <div eID="gen32088" type="x-p"/>
+Illi autem exeuntes, diffamaverunt eum in tota terra illa.  
 
 ** Matthew 9:32
 
@@ -1090,7 +1090,7 @@ Et ejecto dæmonio, locutus est mutus, et miratæ sunt turbæ, dicentes : Numqua
 
 ** Matthew 9:34
 
-Pharisæi autem dicebant : In principe dæmoniorum ejicit dæmones.  <div eID="gen32089" type="x-p"/>
+Pharisæi autem dicebant : In principe dæmoniorum ejicit dæmones.  
 
 ** Matthew 9:35
 
@@ -1106,7 +1106,7 @@ Tunc dicit discipulis suis : Messis quidem multa, operarii autem pauci.
 
 ** Matthew 9:38
 
-Rogate ergo Dominum messis, ut mittat operarios in messem suam.  <chapter eID="Matt.9"/> <div eID="gen32090" type="x-p"/>
+Rogate ergo Dominum messis, ut mittat operarios in messem suam.   
 
 * Matthew 10
 
@@ -1124,7 +1124,7 @@ Jacobus Zebedæi, et Joannes frater ejus, Philippus, et Bartholomæus, Thomas, e
 
 ** Matthew 10:4
 
-Simon Chananæus, et Judas Iscariotes, qui et tradidit eum.  <div eID="gen32091" type="x-p"/>
+Simon Chananæus, et Judas Iscariotes, qui et tradidit eum.  
 
 ** Matthew 10:5
 
@@ -1168,7 +1168,7 @@ Et quicumque non receperit vos, neque audierit sermones vestros : exeuntes foras
 
 ** Matthew 10:15
 
-Amen dico vobis : Tolerabilius erit terræ Sodomorum et Gomorrhæorum in die judicii, quam illi civitati.  <div eID="gen32092" type="x-p"/>
+Amen dico vobis : Tolerabilius erit terræ Sodomorum et Gomorrhæorum in die judicii, quam illi civitati.  
 
 ** Matthew 10:16
 
@@ -1196,7 +1196,7 @@ Tradet autem frater fratrem in mortem, et pater filium : et insurgent filii in p
 
 ** Matthew 10:22
 
-et eritis odio omnibus propter nomen meum : qui autem perseveraverit usque in finem, hic salvus erit.  <div eID="gen32093" type="x-p"/>
+et eritis odio omnibus propter nomen meum : qui autem perseveraverit usque in finem, hic salvus erit.  
 
 ** Matthew 10:23
 
@@ -1276,13 +1276,13 @@ Qui recipit prophetam in nomine prophetæ, mercedem prophetæ accipiet : et qui 
 
 ** Matthew 10:42
 
-Et quicumque potum dederit uni ex minimis istis calicem aquæ frigidæ tantum in nomine discipuli : amen dico vobis, non perdet mercedem suam.  <chapter eID="Matt.10"/> <div eID="gen32094" type="x-p"/>
+Et quicumque potum dederit uni ex minimis istis calicem aquæ frigidæ tantum in nomine discipuli : amen dico vobis, non perdet mercedem suam.   
 
 * Matthew 11
 
 ** Matthew 11:1
 
-Et factum est, cum consummasset Jesus, præcipiens duodecim discipulis suis, transiit inde ut doceret, et prædicaret in civitatibus eorum.  <div eID="gen32095" type="x-p"/>
+Et factum est, cum consummasset Jesus, præcipiens duodecim discipulis suis, transiit inde ut doceret, et prædicaret in civitatibus eorum.  
 
 ** Matthew 11:2
 
@@ -1302,7 +1302,7 @@ Cæci vident, claudi ambulant, leprosi mundantur, surdi audiunt, mortui resurgun
 
 ** Matthew 11:6
 
-et beatus est, qui non fuerit scandalizatus in me.  <div eID="gen32096" type="x-p"/>
+et beatus est, qui non fuerit scandalizatus in me.  
 
 ** Matthew 11:7
 
@@ -1338,7 +1338,7 @@ et si vultis recipere, ipse est Elias, qui venturus est.
 
 ** Matthew 11:15
 
-Qui habet aures audiendi, audiat.  <div eID="gen32097" type="x-p"/>
+Qui habet aures audiendi, audiat.  
 
 ** Matthew 11:16
 
@@ -1354,7 +1354,7 @@ Venit enim Joannes neque manducans, neque bibens, et dicunt : Dæmonium habet.
 
 ** Matthew 11:19
 
-Venit Filius hominis manducans, et bibens, et dicunt : Ecce homo vorax, et potator vini, publicanorum et peccatorum amicus. Et justificata est sapientia a filiis suis.  <div eID="gen32098" type="x-p"/>
+Venit Filius hominis manducans, et bibens, et dicunt : Ecce homo vorax, et potator vini, publicanorum et peccatorum amicus. Et justificata est sapientia a filiis suis.  
 
 ** Matthew 11:20
 
@@ -1374,7 +1374,7 @@ Et tu Capharnaum, numquid usque in cælum exaltaberis ? usque in infernum descen
 
 ** Matthew 11:24
 
-Verumtamen dico vobis, quia terræ Sodomorum remissius erit in die judicii, quam tibi.  <div eID="gen32099" type="x-p"/>
+Verumtamen dico vobis, quia terræ Sodomorum remissius erit in die judicii, quam tibi.  
 
 ** Matthew 11:25
 
@@ -1398,7 +1398,7 @@ Tollite jugum meum super vos, et discite a me, quia mitis sum, et humilis corde 
 
 ** Matthew 11:30
 
-Jugum enim meum suave est, et onus meum leve.  <chapter eID="Matt.11"/> <div eID="gen32100" type="x-p"/>
+Jugum enim meum suave est, et onus meum leve.   
 
 * Matthew 12
 
@@ -1432,7 +1432,7 @@ Si autem sciretis, quid est : Misericordiam volo, et non sacrificium : numquam c
 
 ** Matthew 12:8
 
-dominus enim est Filius hominis etiam sabbati.  <div eID="gen32101" type="x-p"/>
+dominus enim est Filius hominis etiam sabbati.  
 
 ** Matthew 12:9
 
@@ -1468,23 +1468,23 @@ et præcepit eis ne manifestum eum facerent.
 
 ** Matthew 12:17
 
-Ut adimpleretur quod dictum est per Isaiam prophetam, dicentem :  <div eID="gen32102" type="x-p"/>
+Ut adimpleretur quod dictum est per Isaiam prophetam, dicentem :  
 
 ** Matthew 12:18
 
-Ecce puer meus, quem elegi, dilectus meus, <l eID="gen32104" level="1"/> <l level="1" sID="gen32105"/>in quo bene complacuit animæ meæ. <l eID="gen32105" level="1"/> <l level="1" sID="gen32106"/>Ponam spiritum meum super eum, <l eID="gen32106" level="1"/> <l level="1" sID="gen32107"/>et judicium gentibus nuntiabit. <l eID="gen32107" level="1"/>
+Ecce puer meus, quem elegi, dilectus meus,  in quo bene complacuit animæ meæ.  Ponam spiritum meum super eum,  et judicium gentibus nuntiabit. 
 
 ** Matthew 12:19
 
-Non contendet, neque clamabit, <l eID="gen32108" level="1"/> <l level="1" sID="gen32109"/>neque audiet aliquis in plateis vocem ejus : <l eID="gen32109" level="1"/>
+Non contendet, neque clamabit,  neque audiet aliquis in plateis vocem ejus : 
 
 ** Matthew 12:20
 
-arundinem quassatam non confringet, <l eID="gen32110" level="1"/> <l level="1" sID="gen32111"/>et linum fumigans non extinguet, <l eID="gen32111" level="1"/> <l level="1" sID="gen32112"/>donec ejiciat ad victoriam judicium : <l eID="gen32112" level="1"/>
+arundinem quassatam non confringet,  et linum fumigans non extinguet,  donec ejiciat ad victoriam judicium : 
 
 ** Matthew 12:21
 
-et in nomine ejus gentes sperabunt. <l eID="gen32113" level="1"/> <lg eID="gen32103"/>
+et in nomine ejus gentes sperabunt.  
 
 ** Matthew 12:22
 
@@ -1548,7 +1548,7 @@ Dico autem vobis quoniam omne verbum otiosum, quod locuti fuerint homines, redde
 
 ** Matthew 12:37
 
-Ex verbis enim tuis justificaberis et ex verbis tuis condemnaberis.  <div eID="gen32114" type="x-p"/>
+Ex verbis enim tuis justificaberis et ex verbis tuis condemnaberis.  
 
 ** Matthew 12:38
 
@@ -1580,7 +1580,7 @@ Tunc dicit : Revertar in domum meam, unde exivi. Et veniens invenit eam vacantem
 
 ** Matthew 12:45
 
-Tunc vadit, et assumit septem alios spiritus secum nequiores se, et intrantes habitant ibi : et fiunt novissima hominis illius pejora prioribus. Sic erit et generationi huic pessimæ.  <div eID="gen32115" type="x-p"/>
+Tunc vadit, et assumit septem alios spiritus secum nequiores se, et intrantes habitant ibi : et fiunt novissima hominis illius pejora prioribus. Sic erit et generationi huic pessimæ.  
 
 ** Matthew 12:46
 
@@ -1600,7 +1600,7 @@ Et extendens manum in discipulos suos, dixit : Ecce mater mea, et fratres mei.
 
 ** Matthew 12:50
 
-Quicumque enim fecerit voluntatem Patris mei, qui in cælis est, ipse meus frater, et soror, et mater est.  <chapter eID="Matt.12"/> <div eID="gen32116" type="x-p"/>
+Quicumque enim fecerit voluntatem Patris mei, qui in cælis est, ipse meus frater, et soror, et mater est.   
 
 * Matthew 13
 
@@ -1638,7 +1638,7 @@ Alia autem ceciderunt in terram bonam : et dabant fructum, aliud centesimum, ali
 
 ** Matthew 13:9
 
-Qui habet aures audiendi, audiat.  <div eID="gen32117" type="x-p"/>
+Qui habet aures audiendi, audiat.  
 
 ** Matthew 13:10
 
@@ -1658,11 +1658,11 @@ Ideo in parabolis loquor eis : quia videntes non vident, et audientes non audiun
 
 ** Matthew 13:14
 
-Et adimpletur in eis prophetia Isaiæ, dicentis : <div eID="gen32118" type="x-p"/> <lg sID="gen32119"/> <l level="1" sID="gen32120"/>Auditu audietis, et non intelligetis : <l eID="gen32120" level="1"/> <l level="1" sID="gen32121"/>et videntes videbitis, et non videbitis. <l eID="gen32121" level="1"/>
+Et adimpletur in eis prophetia Isaiæ, dicentis :   Auditu audietis, et non intelligetis :  et videntes videbitis, et non videbitis. 
 
 ** Matthew 13:15
 
-Incrassatum est enim cor populi hujus, <l eID="gen32122" level="1"/> <l level="1" sID="gen32123"/>et auribus graviter audierunt, <l eID="gen32123" level="1"/> <l level="1" sID="gen32124"/>et oculos suos clauserunt : <l eID="gen32124" level="1"/> <l level="1" sID="gen32125"/>nequando videant oculis, et auribus audiant, <l eID="gen32125" level="1"/> <l level="1" sID="gen32126"/>et corde intelligant, et convertantur, <l eID="gen32126" level="1"/> <l level="1" sID="gen32127"/>et sanem eos.
+Incrassatum est enim cor populi hujus,  et auribus graviter audierunt,  et oculos suos clauserunt :  nequando videant oculis, et auribus audiant,  et corde intelligant, et convertantur,  et sanem eos.
 
 ** Matthew 13:16
 
@@ -1670,7 +1670,7 @@ Vestri autem beati oculi quia vident, et aures vestræ quia audiunt.
 
 ** Matthew 13:17
 
-Amen quippe dico vobis, quia multi prophetæ et justi cupierunt videre quæ videtis, et non viderunt : et audire quæ auditis, et non audierunt. <l eID="gen32127" level="1"/> <lg eID="gen32119"/>
+Amen quippe dico vobis, quia multi prophetæ et justi cupierunt videre quæ videtis, et non viderunt : et audire quæ auditis, et non audierunt.  
 
 ** Matthew 13:18
 
@@ -1694,7 +1694,7 @@ Qui autem seminatus est in spinis, hic est qui verbum audit, et sollicitudo sæc
 
 ** Matthew 13:23
 
-Qui vero in terram bonam seminatus est, hic est qui audit verbum, et intelligit, et fructum affert, et facit aliud quidem centesimum, aliud autem sexagesimum, aliud vero trigesimum.  <div eID="gen32128" type="x-p"/>
+Qui vero in terram bonam seminatus est, hic est qui audit verbum, et intelligit, et fructum affert, et facit aliud quidem centesimum, aliud autem sexagesimum, aliud vero trigesimum.  
 
 ** Matthew 13:24
 
@@ -1722,7 +1722,7 @@ Et ait : Non : ne forte colligentes zizania, eradicetis simul cum eis et triticu
 
 ** Matthew 13:30
 
-Sinite utraque crescere usque ad messem, et in tempore messis dicam messoribus : Colligite primum zizania, et alligate ea in fasciculos ad comburendum : triticum autem congregate in horreum meum.  <div eID="gen32129" type="x-p"/>
+Sinite utraque crescere usque ad messem, et in tempore messis dicam messoribus : Colligite primum zizania, et alligate ea in fasciculos ad comburendum : triticum autem congregate in horreum meum.  
 
 ** Matthew 13:31
 
@@ -1742,7 +1742,7 @@ Hæc omnia locutus est Jesus in parabolis ad turbas : et sine parabolis non loqu
 
 ** Matthew 13:35
 
-ut impleretur quod dictum erat per prophetam dicentem : Aperiam in parabolis os meum ; eructabo abscondita a constitutione mundi.  <div eID="gen32130" type="x-p"/>
+ut impleretur quod dictum erat per prophetam dicentem : Aperiam in parabolis os meum ; eructabo abscondita a constitutione mundi.  
 
 ** Matthew 13:36
 
@@ -1774,7 +1774,7 @@ et mittent eos in caminum ignis. Ibi erit fletus et stridor dentium.
 
 ** Matthew 13:43
 
-Tunc justi fulgebunt sicut sol in regno Patris eorum. Qui habet aures audiendi, audiat.  <div eID="gen32131" type="x-p"/>
+Tunc justi fulgebunt sicut sol in regno Patris eorum. Qui habet aures audiendi, audiat.  
 
 ** Matthew 13:44
 
@@ -1786,7 +1786,7 @@ Iterum simile est regnum cælorum homini negotiatori, quærenti bonas margaritas
 
 ** Matthew 13:46
 
-Inventa autem una pretiosa margarita, abiit, et vendidit omnia quæ habuit, et emit eam.  <div eID="gen32132" type="x-p"/>
+Inventa autem una pretiosa margarita, abiit, et vendidit omnia quæ habuit, et emit eam.  
 
 ** Matthew 13:47
 
@@ -1814,7 +1814,7 @@ Ait illis : Ideo omnis scriba doctus in regno cælorum, similis est homini patri
 
 ** Matthew 13:53
 
-Et factum est, cum consummasset Jesus parabolas istas, transiit inde.  <div eID="gen32133" type="x-p"/>
+Et factum est, cum consummasset Jesus parabolas istas, transiit inde.  
 
 ** Matthew 13:54
 
@@ -1834,7 +1834,7 @@ Et scandalizabantur in eo. Jesus autem dixit eis : Non est propheta sine honore,
 
 ** Matthew 13:58
 
-Et non fecit ibi virtutes multas propter incredulitatem illorum.  <chapter eID="Matt.13"/> <div eID="gen32134" type="x-p"/>
+Et non fecit ibi virtutes multas propter incredulitatem illorum.   
 
 * Matthew 14
 
@@ -1884,7 +1884,7 @@ Et allatum est caput ejus in disco, et datum est puellæ, et attulit matri suæ.
 
 ** Matthew 14:12
 
-Et accedentes discipuli ejus, tulerunt corpus ejus, et sepelierunt illud : et venientes nuntiaverunt Jesu.  <div eID="gen32135" type="x-p"/>
+Et accedentes discipuli ejus, tulerunt corpus ejus, et sepelierunt illud : et venientes nuntiaverunt Jesu.  
 
 ** Matthew 14:13
 
@@ -1920,7 +1920,7 @@ Et manducaverunt omnes, et saturati sunt. Et tulerunt reliquias, duodecim cophin
 
 ** Matthew 14:21
 
-Manducantium autem fuit numerus quinque millia virorum, exceptis mulieribus et parvulis.  <div eID="gen32136" type="x-p"/>
+Manducantium autem fuit numerus quinque millia virorum, exceptis mulieribus et parvulis.  
 
 ** Matthew 14:22
 
@@ -1980,7 +1980,7 @@ Et cum cognovissent eum viri loci illius, miserunt in universam regionem illam, 
 
 ** Matthew 14:36
 
-et rogabant eum ut vel fimbriam vestimenti ejus tangerent. Et quicumque tetigerunt, salvi facti sunt.  <chapter eID="Matt.14"/> <div eID="gen32137" type="x-p"/>
+et rogabant eum ut vel fimbriam vestimenti ejus tangerent. Et quicumque tetigerunt, salvi facti sunt.   
 
 * Matthew 15
 
@@ -2010,15 +2010,15 @@ et non honorificabit patrem suum, aut matrem suam : et irritum fecistis mandatum
 
 ** Matthew 15:7
 
-Hypocritæ, bene prophetavit de vobis Isaias, dicens :  <div eID="gen32138" type="x-p"/>
+Hypocritæ, bene prophetavit de vobis Isaias, dicens :  
 
 ** Matthew 15:8
 
-Populus hic labiis me honorat : <l eID="gen32140" level="1"/> <l level="1" sID="gen32141"/>cor autem eorum longe est a me. <l eID="gen32141" level="1"/>
+Populus hic labiis me honorat :  cor autem eorum longe est a me. 
 
 ** Matthew 15:9
 
-Sine causa autem colunt me, <l eID="gen32142" level="1"/> <l level="1" sID="gen32143"/>docentes doctrinas et mandata hominum. <l eID="gen32143" level="1"/> <lg eID="gen32139"/>
+Sine causa autem colunt me,  docentes doctrinas et mandata hominum.  
 
 ** Matthew 15:10
 
@@ -2062,7 +2062,7 @@ de corde enim exeunt cogitationes malæ, homicidia, adulteria, fornicationes, fu
 
 ** Matthew 15:20
 
-hæc sunt, quæ coinquinant hominem. Non lotis autem manibus manducare, non coinquinat hominem.  <div eID="gen32144" type="x-p"/>
+hæc sunt, quæ coinquinant hominem. Non lotis autem manibus manducare, non coinquinat hominem.  
 
 ** Matthew 15:21
 
@@ -2094,7 +2094,7 @@ At illa dixit : Etiam Domine : nam et catelli edunt de micis quæ cadunt de mens
 
 ** Matthew 15:28
 
-Tunc respondens Jesus, ait illi : O mulier, magna est fides tua : fiat tibi sicut vis. Et sanata est filia ejus ex illa hora.  <div eID="gen32145" type="x-p"/>
+Tunc respondens Jesus, ait illi : O mulier, magna est fides tua : fiat tibi sicut vis. Et sanata est filia ejus ex illa hora.  
 
 ** Matthew 15:29
 
@@ -2138,7 +2138,7 @@ Erant autem qui manducaverunt quatuor millia hominum, extra parvulos et mulieres
 
 ** Matthew 15:39
 
-Et, dimissa turba, ascendit in naviculam : et venit in fines Magedan.  <chapter eID="Matt.15"/> <div eID="gen32146" type="x-p"/>
+Et, dimissa turba, ascendit in naviculam : et venit in fines Magedan.   
 
 * Matthew 16
 
@@ -2156,7 +2156,7 @@ Et mane : Hodie tempestas, rutilat enim triste cælum.
 
 ** Matthew 16:4
 
-Faciem ergo cæli dijudicare nostis : signa autem temporum non potestis scire ? Generatio mala et adultera signum quærit : et signum non dabitur ei, nisi signum Jonæ prophetæ. Et relictis illis, abiit.  <div eID="gen32147" type="x-p"/>
+Faciem ergo cæli dijudicare nostis : signa autem temporum non potestis scire ? Generatio mala et adultera signum quærit : et signum non dabitur ei, nisi signum Jonæ prophetæ. Et relictis illis, abiit.  
 
 ** Matthew 16:5
 
@@ -2188,7 +2188,7 @@ Quare non intelligitis, quia non de pane dixi vobis : Cavete a fermento pharisæ
 
 ** Matthew 16:12
 
-Tunc intellexerunt quia non dixerit cavendum a fermento panum, sed a doctrina pharisæorum et sadducæorum.  <div eID="gen32148" type="x-p"/>
+Tunc intellexerunt quia non dixerit cavendum a fermento panum, sed a doctrina pharisæorum et sadducæorum.  
 
 ** Matthew 16:13
 
@@ -2220,7 +2220,7 @@ Et tibi dabo claves regni cælorum. Et quodcumque ligaveris super terram, erit l
 
 ** Matthew 16:20
 
-Tunc præcepit discipulis suis ut nemini dicerent quia ipse esset Jesus Christus.  <div eID="gen32149" type="x-p"/>
+Tunc præcepit discipulis suis ut nemini dicerent quia ipse esset Jesus Christus.  
 
 ** Matthew 16:21
 
@@ -2252,7 +2252,7 @@ Filius enim hominis venturus est in gloria Patris sui cum angelis suis : et tunc
 
 ** Matthew 16:28
 
-Amen dico vobis, sunt quidam de hic stantibus, qui non gustabunt mortem, donec videant Filium hominis venientem in regno suo.  <chapter eID="Matt.16"/> <div eID="gen32150" type="x-p"/>
+Amen dico vobis, sunt quidam de hic stantibus, qui non gustabunt mortem, donec videant Filium hominis venientem in regno suo.   
 
 * Matthew 17
 
@@ -2306,7 +2306,7 @@ Dico autem vobis, quia Elias jam venit, et non cognoverunt eum, sed fecerunt in 
 
 ** Matthew 17:13
 
-Tunc intellexerunt discipuli, quia de Joanne Baptista dixisset eis.  <div eID="gen32151" type="x-p"/>
+Tunc intellexerunt discipuli, quia de Joanne Baptista dixisset eis.  
 
 ** Matthew 17:14
 
@@ -2334,7 +2334,7 @@ Dixit illis Jesus : Propter incredulitatem vestram. Amen quippe dico vobis, si h
 
 ** Matthew 17:20
 
-Hoc autem genus non ejicitur nisi per orationem et jejunium.  <div eID="gen32152" type="x-p"/>
+Hoc autem genus non ejicitur nisi per orationem et jejunium.  
 
 ** Matthew 17:21
 
@@ -2342,7 +2342,7 @@ Conversantibus autem eis in Galilæa, dixit illis Jesus : Filius hominis tradend
 
 ** Matthew 17:22
 
-et occident eum, et tertia die resurget. Et contristati sunt vehementer.  <div eID="gen32153" type="x-p"/>
+et occident eum, et tertia die resurget. Et contristati sunt vehementer.  
 
 ** Matthew 17:23
 
@@ -2358,7 +2358,7 @@ Et ille dixit : Ab alienis. Dixit illi Jesus : Ergo liberi sunt filii.
 
 ** Matthew 17:26
 
-Ut autem non scandalizemus eos, vade ad mare, et mitte hamum : et eum piscem, qui primus ascenderit, tolle : et aperto ore ejus, invenies staterem : illum sumens, da eis pro me et te.  <chapter eID="Matt.17"/> <div eID="gen32154" type="x-p"/>
+Ut autem non scandalizemus eos, vade ad mare, et mitte hamum : et eum piscem, qui primus ascenderit, tolle : et aperto ore ejus, invenies staterem : illum sumens, da eis pro me et te.   
 
 * Matthew 18
 
@@ -2416,7 +2416,7 @@ Et si contigerit ut inveniat eam : amen dico vobis, quia gaudet super eam magis 
 
 ** Matthew 18:14
 
-Sic non est voluntas ante Patrem vestrum, qui in cælis est, ut pereat unus de pusillis istis.  <div eID="gen32155" type="x-p"/>
+Sic non est voluntas ante Patrem vestrum, qui in cælis est, ut pereat unus de pusillis istis.  
 
 ** Matthew 18:15
 
@@ -2440,7 +2440,7 @@ Iterum dico vobis, quia si duo ex vobis consenserint super terram, de omni re qu
 
 ** Matthew 18:20
 
-Ubi enim sunt duo vel tres congregati in nomine meo, ibi sum in medio eorum.  <div eID="gen32156" type="x-p"/>
+Ubi enim sunt duo vel tres congregati in nomine meo, ibi sum in medio eorum.  
 
 ** Matthew 18:21
 
@@ -2500,7 +2500,7 @@ Et iratus dominus ejus tradidit eum tortoribus, quoadusque redderet universum de
 
 ** Matthew 18:35
 
-Sic et Pater meus cælestis faciet vobis, si non remiseritis unusquisque fratri suo de cordibus vestris.  <chapter eID="Matt.18"/> <div eID="gen32157" type="x-p"/>
+Sic et Pater meus cælestis faciet vobis, si non remiseritis unusquisque fratri suo de cordibus vestris.   
 
 * Matthew 19
 
@@ -2550,7 +2550,7 @@ Qui dixit illis : Non omnes capiunt verbum istud, sed quibus datum est.
 
 ** Matthew 19:12
 
-Sunt enim eunuchi, qui de matris utero sic nati sunt : et sunt eunuchi, qui facti sunt ab hominibus : et sunt eunuchi, qui seipsos castraverunt propter regnum cælorum. Qui potest capere capiat.  <div eID="gen32158" type="x-p"/>
+Sunt enim eunuchi, qui de matris utero sic nati sunt : et sunt eunuchi, qui facti sunt ab hominibus : et sunt eunuchi, qui seipsos castraverunt propter regnum cælorum. Qui potest capere capiat.  
 
 ** Matthew 19:13
 
@@ -2562,7 +2562,7 @@ Jesus vero ait eis : Sinite parvulos, et nolite eos prohibere ad me venire : tal
 
 ** Matthew 19:15
 
-Et cum imposuisset eis manus, abiit inde.  <div eID="gen32159" type="x-p"/>
+Et cum imposuisset eis manus, abiit inde.  
 
 ** Matthew 19:16
 
@@ -2606,7 +2606,7 @@ Auditis autem his, discipuli mirabantur valde, dicentes : Quis ergo poterit salv
 
 ** Matthew 19:26
 
-Aspiciens autem Jesus, dixit illis : Apud homines hoc impossibile est : apud Deum autem omnia possibilia sunt.  <div eID="gen32160" type="x-p"/>
+Aspiciens autem Jesus, dixit illis : Apud homines hoc impossibile est : apud Deum autem omnia possibilia sunt.  
 
 ** Matthew 19:27
 
@@ -2622,7 +2622,7 @@ Et omnis qui reliquerit domum, vel fratres, aut sorores, aut patrem, aut matrem,
 
 ** Matthew 19:30
 
-Multi autem erunt primi novissimi, et novissimi primi.  <chapter eID="Matt.19"/> <div eID="gen32161" type="x-p"/>
+Multi autem erunt primi novissimi, et novissimi primi.   
 
 * Matthew 20
 
@@ -2688,7 +2688,7 @@ Aut non licet mihi quod volo, facere ? an oculus tuus nequam est, quia ego bonus
 
 ** Matthew 20:16
 
-Sic erunt novissimi primi, et primi novissimi. Multi enim sunt vocati, pauci vero electi.  <div eID="gen32162" type="x-p"/>
+Sic erunt novissimi primi, et primi novissimi. Multi enim sunt vocati, pauci vero electi.  
 
 ** Matthew 20:17
 
@@ -2700,7 +2700,7 @@ Ecce ascendimus Jerosolymam, et Filius hominis tradetur principibus sacerdotum, 
 
 ** Matthew 20:19
 
-et tradent eum gentibus ad illudendum, et flagellandum, et crucifigendum, et tertia die resurget.  <div eID="gen32163" type="x-p"/>
+et tradent eum gentibus ad illudendum, et flagellandum, et crucifigendum, et tertia die resurget.  
 
 ** Matthew 20:20
 
@@ -2736,7 +2736,7 @@ et qui voluerit inter vos primus esse, erit vester servus.
 
 ** Matthew 20:28
 
-Sicut Filius hominis non venit ministrari, sed ministrare, et dare animam suam redemptionem pro multis.  <div eID="gen32164" type="x-p"/>
+Sicut Filius hominis non venit ministrari, sed ministrare, et dare animam suam redemptionem pro multis.  
 
 ** Matthew 20:29
 
@@ -2760,7 +2760,7 @@ Dicunt illi : Domine, ut aperiantur oculi nostri.
 
 ** Matthew 20:34
 
-Misertus autem eorum Jesus, tetigit oculos eorum. Et confestim viderunt, et secuti sunt eum.  <chapter eID="Matt.20"/> <div eID="gen32165" type="x-p"/>
+Misertus autem eorum Jesus, tetigit oculos eorum. Et confestim viderunt, et secuti sunt eum.   
 
 * Matthew 21
 
@@ -2778,11 +2778,11 @@ et si quis vobis aliquid dixerit, dicite quia Dominus his opus habet : et confes
 
 ** Matthew 21:4
 
-Hoc autem totum factum est, ut adimpleretur quod dictum est per prophetam dicentem :  <div eID="gen32166" type="x-p"/>
+Hoc autem totum factum est, ut adimpleretur quod dictum est per prophetam dicentem :  
 
 ** Matthew 21:5
 
-Dicite filiæ Sion : <l eID="gen32168" level="1"/> <l level="1" sID="gen32169"/>Ecce rex tuus venit tibi <l eID="gen32169" level="1"/> <l level="1" sID="gen32170"/>mansuetus, sedens super asinam, <l eID="gen32170" level="1"/> <l level="1" sID="gen32171"/>et pullum filium subjugalis.
+Dicite filiæ Sion :  Ecce rex tuus venit tibi  mansuetus, sedens super asinam,  et pullum filium subjugalis.
 
 ** Matthew 21:6
 
@@ -2830,7 +2830,7 @@ et dixerunt ei : Audis quid isti dicunt ? Jesus autem dixit eis : Utique. Numqua
 
 ** Matthew 21:17
 
-Et relictis illis, abiit foras extra civitatem in Bethaniam : ibique mansit. <l eID="gen32171" level="1"/> <lg eID="gen32167"/>
+Et relictis illis, abiit foras extra civitatem in Bethaniam : ibique mansit.  
 
 ** Matthew 21:18
 
@@ -2850,7 +2850,7 @@ Respondens autem Jesus, ait eis : Amen dico vobis, si habueritis fidem, et non h
 
 ** Matthew 21:22
 
-Et omnia quæcumque petieritis in oratione credentes, accipietis.  <div eID="gen32172" type="x-p"/>
+Et omnia quæcumque petieritis in oratione credentes, accipietis.  
 
 ** Matthew 21:23
 
@@ -2870,7 +2870,7 @@ Si dixerimus, e cælo, dicet nobis : Quare ergo non credidistis illi ? Si autem 
 
 ** Matthew 21:27
 
-Et respondentes Jesu, dixerunt : Nescimus. Ait illis et ipse : Nec ego dico vobis in qua potestate hæc facio.  <div eID="gen32173" type="x-p"/>
+Et respondentes Jesu, dixerunt : Nescimus. Ait illis et ipse : Nec ego dico vobis in qua potestate hæc facio.  
 
 ** Matthew 21:28
 
@@ -2890,7 +2890,7 @@ quis ex duobus fecit voluntatem patris ? Dicunt ei : Primus. Dicit illis Jesus :
 
 ** Matthew 21:32
 
-Venit enim ad vos Joannes in via justitiæ, et non credidistis ei : publicani autem et meretrices crediderunt ei : vos autem videntes nec pœnitentiam habuistis postea, ut crederetis ei.  <div eID="gen32174" type="x-p"/>
+Venit enim ad vos Joannes in via justitiæ, et non credidistis ei : publicani autem et meretrices crediderunt ei : vos autem videntes nec pœnitentiam habuistis postea, ut crederetis ei.  
 
 ** Matthew 21:33
 
@@ -2930,7 +2930,7 @@ Aiunt illi : Malos male perdet : et vineam suam locabit aliis agricolis, qui red
 
 ** Matthew 21:42
 
-Dicit illis Jesus : Numquam legistis in Scripturis : <div eID="gen32175" type="x-p"/> <lg sID="gen32176"/> <l level="1" sID="gen32177"/>Lapidem quem reprobaverunt ædificantes, <l eID="gen32177" level="1"/> <l level="1" sID="gen32178"/>hic factus est in caput anguli : <l eID="gen32178" level="1"/> <l level="1" sID="gen32179"/>a Domino factum est istud, <l eID="gen32179" level="1"/> <l level="1" sID="gen32180"/>et est mirabile in oculis nostris ?
+Dicit illis Jesus : Numquam legistis in Scripturis :   Lapidem quem reprobaverunt ædificantes,  hic factus est in caput anguli :  a Domino factum est istud,  et est mirabile in oculis nostris ?
 
 ** Matthew 21:43
 
@@ -2946,7 +2946,7 @@ Et cum audissent principes sacerdotum et pharisæi parabolas ejus, cognoverunt q
 
 ** Matthew 21:46
 
-Et quærentes eum tenere, timuerunt turbas : quoniam sicut prophetam eum habebant. <l eID="gen32180" level="1"/><lg eID="gen32176"/> <chapter eID="Matt.21"/>
+Et quærentes eum tenere, timuerunt turbas : quoniam sicut prophetam eum habebant.  
 
 * Matthew 22
 
@@ -3004,7 +3004,7 @@ Tunc dicit rex ministris : Ligatis manibus et pedibus ejus, mittite eum in teneb
 
 ** Matthew 22:14
 
-Multi enim sunt vocati, pauci vero electi.  <div eID="gen32181" type="x-p"/>
+Multi enim sunt vocati, pauci vero electi.  
 
 ** Matthew 22:15
 
@@ -3036,7 +3036,7 @@ Dicunt ei : Cæsaris. Tunc ait illis : Reddite ergo quæ sunt Cæsaris, Cæsari 
 
 ** Matthew 22:22
 
-Et audientes mirati sunt, et relicto eo abierunt.  <div eID="gen32182" type="x-p"/>
+Et audientes mirati sunt, et relicto eo abierunt.  
 
 ** Matthew 22:23
 
@@ -3080,7 +3080,7 @@ Ego sum Deus Abraham, et Deus Isaac, et Deus Jacob ? Non est Deus mortuorum, sed
 
 ** Matthew 22:33
 
-Et audientes turbæ, mirabantur in doctrina ejus.  <div eID="gen32183" type="x-p"/>
+Et audientes turbæ, mirabantur in doctrina ejus.  
 
 ** Matthew 22:34
 
@@ -3108,7 +3108,7 @@ Secundum autem simile est huic : Diliges proximum tuum, sicut teipsum.
 
 ** Matthew 22:40
 
-In his duobus mandatis universa lex pendet, et prophetæ.  <div eID="gen32184" type="x-p"/>
+In his duobus mandatis universa lex pendet, et prophetæ.  
 
 ** Matthew 22:41
 
@@ -3132,7 +3132,7 @@ Si ergo David vocat eum Dominum, quomodo filius ejus est ?
 
 ** Matthew 22:46
 
-Et nemo poterat ei respondere verbum : neque ausus fuit quisquam ex illa die eum amplius interrogare.  <chapter eID="Matt.22"/> <div eID="gen32185" type="x-p"/>
+Et nemo poterat ei respondere verbum : neque ausus fuit quisquam ex illa die eum amplius interrogare.   
 
 * Matthew 23
 
@@ -3182,7 +3182,7 @@ Qui major est vestrum, erit minister vester.
 
 ** Matthew 23:12
 
-Qui autem se exaltaverit, humiliabitur : et qui se humiliaverit, exaltabitur.  <div eID="gen32186" type="x-p"/>
+Qui autem se exaltaverit, humiliabitur : et qui se humiliaverit, exaltabitur.  
 
 ** Matthew 23:13
 
@@ -3266,7 +3266,7 @@ Et vos implete mensuram patrum vestrorum.
 
 ** Matthew 23:33
 
-Serpentes, genimina viperarum, quomodo fugietis a judicio gehennæ ?  <div eID="gen32187" type="x-p"/>
+Serpentes, genimina viperarum, quomodo fugietis a judicio gehennæ ?  
 
 ** Matthew 23:34
 
@@ -3290,7 +3290,7 @@ Ecce relinquetur vobis domus vestra deserta.
 
 ** Matthew 23:39
 
-Dico enim vobis, non me videbitis amodo, donec dicatis : Benedictus, qui venit in nomine Domini.  <chapter eID="Matt.23"/> <div eID="gen32188" type="x-p"/>
+Dico enim vobis, non me videbitis amodo, donec dicatis : Benedictus, qui venit in nomine Domini.   
 
 * Matthew 24
 
@@ -3300,7 +3300,7 @@ Et egressus Jesus de templo, ibat. Et accesserunt discipuli ejus, ut ostenderent
 
 ** Matthew 24:2
 
-Ipse autem respondens dixit illis : Videtis hæc omnia ? amen dico vobis, non relinquetur hic lapis super lapidem, qui non destruatur.  <div eID="gen32189" type="x-p"/>
+Ipse autem respondens dixit illis : Videtis hæc omnia ? amen dico vobis, non relinquetur hic lapis super lapidem, qui non destruatur.  
 
 ** Matthew 24:3
 
@@ -3324,7 +3324,7 @@ consurget enim gens in gentem, et regnum in regnum, et erunt pestilentiæ, et fa
 
 ** Matthew 24:8
 
-hæc autem omnia initia sunt dolorum.  <div eID="gen32190" type="x-p"/>
+hæc autem omnia initia sunt dolorum.  
 
 ** Matthew 24:9
 
@@ -3348,7 +3348,7 @@ qui autem perseveraverit usque in finem, hic salvus erit.
 
 ** Matthew 24:14
 
-Et prædicabitur hoc Evangelium regni in universo orbe, in testimonium omnibus gentibus : et tunc veniet consummatio.  <div eID="gen32191" type="x-p"/>
+Et prædicabitur hoc Evangelium regni in universo orbe, in testimonium omnibus gentibus : et tunc veniet consummatio.  
 
 ** Matthew 24:15
 
@@ -3368,7 +3368,7 @@ et qui in agro, non revertatur tollere tunicam suam.
 
 ** Matthew 24:19
 
-Væ autem prægnantibus et nutrientibus in illis diebus !  <div eID="gen32192" type="x-p"/>
+Væ autem prægnantibus et nutrientibus in illis diebus !  
 
 ** Matthew 24:20
 
@@ -3404,7 +3404,7 @@ Sicut enim fulgur exit ab oriente, et paret usque in occidentem : ita erit et ad
 
 ** Matthew 24:28
 
-Ubicumque fuerit corpus, illic congregabuntur et aquilæ.  <div eID="gen32193" type="x-p"/>
+Ubicumque fuerit corpus, illic congregabuntur et aquilæ.  
 
 ** Matthew 24:29
 
@@ -3416,7 +3416,7 @@ et tunc parebit signum Filii hominis in cælo : et tunc plangent omnes tribus te
 
 ** Matthew 24:31
 
-Et mittet angelos suos cum tuba, et voce magna : et congregabunt electos ejus a quatuor ventis, a summis cælorum usque ad terminos eorum.  <div eID="gen32194" type="x-p"/>
+Et mittet angelos suos cum tuba, et voce magna : et congregabunt electos ejus a quatuor ventis, a summis cælorum usque ad terminos eorum.  
 
 ** Matthew 24:32
 
@@ -3432,7 +3432,7 @@ Amen dico vobis, quia non præteribit generatio hæc, donec omnia hæc fiant.
 
 ** Matthew 24:35
 
-Cælum et terra transibunt, verba autem mea non præteribunt.  <div eID="gen32195" type="x-p"/>
+Cælum et terra transibunt, verba autem mea non præteribunt.  
 
 ** Matthew 24:36
 
@@ -3456,7 +3456,7 @@ Tunc duo erunt in agro : unus assumetur, et unus relinquetur.
 
 ** Matthew 24:41
 
-Duæ molentes in mola : una assumetur, et una relinquetur.  <div eID="gen32196" type="x-p"/>
+Duæ molentes in mola : una assumetur, et una relinquetur.  
 
 ** Matthew 24:42
 
@@ -3496,7 +3496,7 @@ veniet dominus servi illius in die qua non sperat, et hora qua ignorat :
 
 ** Matthew 24:51
 
-et dividet eum, partemque ejus ponet cum hypocritis : illic erit fletus et stridor dentium.  <chapter eID="Matt.24"/> <div eID="gen32197" type="x-p"/>
+et dividet eum, partemque ejus ponet cum hypocritis : illic erit fletus et stridor dentium.   
 
 * Matthew 25
 
@@ -3550,7 +3550,7 @@ At ille respondens, ait : Amen dico vobis, nescio vos.
 
 ** Matthew 25:13
 
-Vigilate itaque, quia nescitis diem, neque horam.  <div eID="gen32198" type="x-p"/>
+Vigilate itaque, quia nescitis diem, neque horam.  
 
 ** Matthew 25:14
 
@@ -3618,7 +3618,7 @@ omni enim habenti dabitur, et abundabit : ei autem qui non habet, et quod videtu
 
 ** Matthew 25:30
 
-Et inutilem servum ejicite in tenebras exteriores : illic erit fletus, et stridor dentium.  <div eID="gen32199" type="x-p"/>
+Et inutilem servum ejicite in tenebras exteriores : illic erit fletus, et stridor dentium.  
 
 ** Matthew 25:31
 
@@ -3682,7 +3682,7 @@ Tunc respondebit illis, dicens : Amen dico vobis : Quamdiu non fecistis uni de m
 
 ** Matthew 25:46
 
-Et ibunt hi in supplicium æternum : justi autem in vitam æternam.  <chapter eID="Matt.25"/> <div eID="gen32200" type="x-p"/>
+Et ibunt hi in supplicium æternum : justi autem in vitam æternam.   
 
 * Matthew 26
 
@@ -3704,7 +3704,7 @@ et consilium fecerunt ut Jesum dolo tenerent, et occiderent.
 
 ** Matthew 26:5
 
-Dicebant autem : Non in die festo, ne forte tumultus fieret in populo.  <div eID="gen32201" type="x-p"/>
+Dicebant autem : Non in die festo, ne forte tumultus fieret in populo.  
 
 ** Matthew 26:6
 
@@ -3736,7 +3736,7 @@ Mittens enim hæc unguentum hoc in corpus meum, ad sepeliendum me fecit.
 
 ** Matthew 26:13
 
-Amen dico vobis, ubicumque prædicatum fuerit hoc Evangelium in toto mundo, dicetur et quod hæc fecit in memoriam ejus.  <div eID="gen32202" type="x-p"/>
+Amen dico vobis, ubicumque prædicatum fuerit hoc Evangelium in toto mundo, dicetur et quod hæc fecit in memoriam ejus.  
 
 ** Matthew 26:14
 
@@ -3748,7 +3748,7 @@ et ait illis : Quid vultis mihi dare, et ego vobis eum tradam ? At illi constitu
 
 ** Matthew 26:16
 
-Et exinde quærebat opportunitatem ut eum traderet.  <div eID="gen32203" type="x-p"/>
+Et exinde quærebat opportunitatem ut eum traderet.  
 
 ** Matthew 26:17
 
@@ -3784,7 +3784,7 @@ Filius quidem hominis vadit, sicut scriptum est de illo : væ autem homini illi,
 
 ** Matthew 26:25
 
-Respondens autem Judas, qui tradidit eum, dixit : Numquid ego sum Rabbi ? Ait illi : Tu dixisti.  <div eID="gen32204" type="x-p"/>
+Respondens autem Judas, qui tradidit eum, dixit : Numquid ego sum Rabbi ? Ait illi : Tu dixisti.  
 
 ** Matthew 26:26
 
@@ -3800,7 +3800,7 @@ Hic est enim sanguis meus novi testamenti, qui pro multis effundetur in remissio
 
 ** Matthew 26:29
 
-Dico autem vobis : non bibam amodo de hoc genimine vitis usque in diem illum, cum illud bibam vobiscum novum in regno Patris mei.  <div eID="gen32205" type="x-p"/>
+Dico autem vobis : non bibam amodo de hoc genimine vitis usque in diem illum, cum illud bibam vobiscum novum in regno Patris mei.  
 
 ** Matthew 26:30
 
@@ -3824,7 +3824,7 @@ Ait illi Jesus : Amen dico tibi, quia in hac nocte, antequam gallus cantet, ter 
 
 ** Matthew 26:35
 
-Ait illi Petrus : Etiamsi oportuerit me mori tecum, non te negabo. Similiter et omnes discipuli dixerunt.  <div eID="gen32206" type="x-p"/>
+Ait illi Petrus : Etiamsi oportuerit me mori tecum, non te negabo. Similiter et omnes discipuli dixerunt.  
 
 ** Matthew 26:36
 
@@ -3868,7 +3868,7 @@ Tunc venit ad discipulos suos, et dicit illis : Dormite jam, et requiescite : ec
 
 ** Matthew 26:46
 
-Surgite, eamus : ecce appropinquavit qui me tradet.  <div eID="gen32207" type="x-p"/>
+Surgite, eamus : ecce appropinquavit qui me tradet.  
 
 ** Matthew 26:47
 
@@ -3908,7 +3908,7 @@ In illa hora dixit Jesus turbis : Tamquam ad latronem existis cum gladiis et fus
 
 ** Matthew 26:56
 
-Hoc autem totum factum est, ut adimplerentur Scripturæ prophetarum. Tunc discipuli omnes, relicto eo, fugerunt.  <div eID="gen32208" type="x-p"/>
+Hoc autem totum factum est, ut adimplerentur Scripturæ prophetarum. Tunc discipuli omnes, relicto eo, fugerunt.  
 
 ** Matthew 26:57
 
@@ -3956,7 +3956,7 @@ Tunc exspuerunt in faciem ejus, et colaphis eum ceciderunt, alii autem palmas in
 
 ** Matthew 26:68
 
-dicentes : Prophetiza nobis Christe, quis est qui te percussit ?  <div eID="gen32209" type="x-p"/>
+dicentes : Prophetiza nobis Christe, quis est qui te percussit ?  
 
 ** Matthew 26:69
 
@@ -3984,7 +3984,7 @@ Tunc cœpit detestari et jurare quia non novisset hominem. Et continuo gallus ca
 
 ** Matthew 26:75
 
-Et recordatus est Petrus verbi Jesu, quod dixerat : Priusquam gallus cantet, ter me negabis. Et egressus foras, flevit amare.  <chapter eID="Matt.26"/> <div eID="gen32210" type="x-p"/>
+Et recordatus est Petrus verbi Jesu, quod dixerat : Priusquam gallus cantet, ter me negabis. Et egressus foras, flevit amare.   
 
 * Matthew 27
 
@@ -3994,7 +3994,7 @@ Mane autem facto, consilium inierunt omnes principes sacerdotum et seniores popu
 
 ** Matthew 27:2
 
-Et vinctum adduxerunt eum, et tradiderunt Pontio Pilato præsidi.  <div eID="gen32211" type="x-p"/>
+Et vinctum adduxerunt eum, et tradiderunt Pontio Pilato præsidi.  
 
 ** Matthew 27:3
 
@@ -4026,7 +4026,7 @@ Tunc impletum est quod dictum est per Jeremiam prophetam, dicentem : Et acceperu
 
 ** Matthew 27:10
 
-et dederunt eos in agrum figuli, sicut constituit mihi Dominus.  <div eID="gen32212" type="x-p"/>
+et dederunt eos in agrum figuli, sicut constituit mihi Dominus.  
 
 ** Matthew 27:11
 
@@ -4090,7 +4090,7 @@ Et respondens universus populus, dixit : Sanguis ejus super nos, et super filios
 
 ** Matthew 27:26
 
-Tunc dimisit illis Barabbam : Jesum autem flagellatum tradidit eis ut crucifigeretur.  <div eID="gen32213" type="x-p"/>
+Tunc dimisit illis Barabbam : Jesum autem flagellatum tradidit eis ut crucifigeretur.  
 
 ** Matthew 27:27
 
@@ -4110,7 +4110,7 @@ Et exspuentes in eum, acceperunt arundinem, et percutiebant caput ejus.
 
 ** Matthew 27:31
 
-Et postquam illuserunt ei, exuerunt eum chlamyde, et induerunt eum vestimentis ejus, et duxerunt eum ut crucifigerent.  <div eID="gen32214" type="x-p"/>
+Et postquam illuserunt ei, exuerunt eum chlamyde, et induerunt eum vestimentis ejus, et duxerunt eum ut crucifigerent.  
 
 ** Matthew 27:32
 
@@ -4162,7 +4162,7 @@ confidit in Deo : liberet nunc, si vult eum : dixit enim : Quia Filius Dei sum.
 
 ** Matthew 27:44
 
-Idipsum autem et latrones, qui crucifixi erant cum eo, improperabant ei.  <div eID="gen32215" type="x-p"/>
+Idipsum autem et latrones, qui crucifixi erant cum eo, improperabant ei.  
 
 ** Matthew 27:45
 
@@ -4186,7 +4186,7 @@ Ceteri vero dicebant : Sine, videamus an veniat Elias liberans eum.
 
 ** Matthew 27:50
 
-Jesus autem iterum clamans voce magna, emisit spiritum.  <div eID="gen32216" type="x-p"/>
+Jesus autem iterum clamans voce magna, emisit spiritum.  
 
 ** Matthew 27:51
 
@@ -4202,7 +4202,7 @@ Et exeuntes de monumentis post resurrectionem ejus, venerunt in sanctam civitate
 
 ** Matthew 27:54
 
-Centurio autem, et qui cum eo erant, custodientes Jesum, viso terræmotu, et his quæ fiebant, timuerunt valde, dicentes : Vere Filius Dei erat iste.  <div eID="gen32217" type="x-p"/>
+Centurio autem, et qui cum eo erant, custodientes Jesum, viso terræmotu, et his quæ fiebant, timuerunt valde, dicentes : Vere Filius Dei erat iste.  
 
 ** Matthew 27:55
 
@@ -4230,7 +4230,7 @@ et posuit illud in monumento suo novo, quod exciderat in petra. Et advolvit saxu
 
 ** Matthew 27:61
 
-Erant autem ibi Maria Magdalene, et altera Maria, sedentes contra sepulchrum.  <div eID="gen32218" type="x-p"/>
+Erant autem ibi Maria Magdalene, et altera Maria, sedentes contra sepulchrum.  
 
 ** Matthew 27:62
 
@@ -4250,7 +4250,7 @@ Ait illis Pilatus : Habetis custodiam, ite, custodite sicut scitis.
 
 ** Matthew 27:66
 
-Illi autem abeuntes, munierunt sepulchrum, signantes lapidem, cum custodibus.  <chapter eID="Matt.27"/> <div eID="gen32219" type="x-p"/>
+Illi autem abeuntes, munierunt sepulchrum, signantes lapidem, cum custodibus.   
 
 * Matthew 28
 
@@ -4292,7 +4292,7 @@ Et ecce Jesus occurrit illis, dicens : Avete. Illæ autem accesserunt, et tenuer
 
 ** Matthew 28:10
 
-Tunc ait illis Jesus : Nolite timere : ite, nuntiate fratribus meis ut eant in Galilæam ; ibi me videbunt.  <div eID="gen32220" type="x-p"/>
+Tunc ait illis Jesus : Nolite timere : ite, nuntiate fratribus meis ut eant in Galilæam ; ibi me videbunt.  
 
 ** Matthew 28:11
 
@@ -4316,7 +4316,7 @@ At illi, accepta pecunia, fecerunt sicut erant edocti. Et divulgatum est verbum 
 
 ** Matthew 28:16
 
-Undecim autem discipuli abierunt in Galilæam in montem ubi constituerat illis Jesus.  <div eID="gen32221" type="x-p"/>
+Undecim autem discipuli abierunt in Galilæam in montem ubi constituerat illis Jesus.  
 
 ** Matthew 28:17
 
@@ -4332,5 +4332,5 @@ euntes ergo docete omnes gentes : baptizantes eos in nomine Patris, et Filii, et
 
 ** Matthew 28:20
 
-docentes eos servare omnia quæcumque mandavi vobis : et ecce ego vobiscum sum omnibus diebus, usque ad consummationem sæculi.  <div eID="gen32222" type="x-p"/> <chapter eID="Matt.28"/> <div eID="gen32014" osisID="Matt" type="book"/>
+docentes eos servare omnia quæcumque mandavi vobis : et ecce ego vobiscum sum omnibus diebus, usque ad consummationem sæculi.    
 

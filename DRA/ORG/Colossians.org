@@ -114,7 +114,7 @@ Whom we preach, admonishing every man and teaching every man in all wisdom, that
 
 *** Colossians 1:29
 
-Wherein also I labour, striving according to his working which he worketh in me in power. <chapter eID="gen35491" osisID="Col.1"/>
+Wherein also I labour, striving according to his working which he worketh in me in power. 
 
 ** Colossians 2
 
@@ -208,7 +208,7 @@ Which all are unto destruction by the very use, according to the precepts and do
 
 *** Colossians 2:23
 
-Which things have indeed a shew of wisdom in superstition and humility, and not sparing the body; not in any honour to the filling of the flesh. <chapter eID="gen35521" osisID="Col.2"/>
+Which things have indeed a shew of wisdom in superstition and humility, and not sparing the body; not in any honour to the filling of the flesh. 
 
 ** Colossians 3
 
@@ -310,7 +310,7 @@ Knowing that you shall receive of the Lord the reward of inheritance. Serve ye t
 
 *** Colossians 3:25
 
-For he that doth wrong shall receive for that which he hath done wrongfully. And there is no respect of persons with God. <chapter eID="gen35545" osisID="Col.3"/>
+For he that doth wrong shall receive for that which he hath done wrongfully. And there is no respect of persons with God. 
 
 ** Colossians 4
 
@@ -384,4 +384,4 @@ And say to Archippus: Take heed to the ministry which thou hast received in the 
 
 *** Colossians 4:18
 
-The salutation of Paul with my own hand. Be mindful of my bands. Grace be with you. Amen. <chapter eID="gen35571" osisID="Col.4"/> <div eID="gen35490" osisID="Col" type="book"/>
+The salutation of Paul with my own hand. Be mindful of my bands. Grace be with you. Amen.  

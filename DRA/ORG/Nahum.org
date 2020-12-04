@@ -58,7 +58,7 @@ And the Lord will give a commandment concerning thee, that no more of thy name s
 
 *** Nahum 1:15
 
-Behold upon the mountains the feet of him that bringeth good tidings, and that preacheth peace: O Juda, keep thy festivals, and pay thy vows: for Belial shall no more pass through thee again, he is utterly cut off. <chapter eID="gen26973" osisID="Nah.1"/>
+Behold upon the mountains the feet of him that bringeth good tidings, and that preacheth peace: O Juda, keep thy festivals, and pay thy vows: for Belial shall no more pass through thee again, he is utterly cut off. 
 
 ** Nahum 2
 
@@ -112,7 +112,7 @@ The lion caught enough for his whelps, and killed for his lionesses: and he fill
 
 *** Nahum 2:13
 
-Behold I come against thee, saith the Lord of hosts, and I will burn thy chariots even to smoke, and the sword shall devour thy young lions: and I will cut off thy prey out of the land, and the voice of thy messengers shall be heard no more. <chapter eID="gen26989" osisID="Nah.2"/>
+Behold I come against thee, saith the Lord of hosts, and I will burn thy chariots even to smoke, and the sword shall devour thy young lions: and I will cut off thy prey out of the land, and the voice of thy messengers shall be heard no more. 
 
 ** Nahum 3
 
@@ -190,4 +190,4 @@ Thy shepherds have slumbered, O king of Assyria, thy princes shall be buried: th
 
 *** Nahum 3:19
 
-Thy destruction is not hidden, thy wound is grievous: all that have heard the fame of thee, have clapped their hands over thee: for upon whom hath not thy wickedness passed continually? <chapter eID="gen27003" osisID="Nah.3"/> <div eID="gen26972" osisID="Nah" type="book"/>
+Thy destruction is not hidden, thy wound is grievous: all that have heard the fame of thee, have clapped their hands over thee: for upon whom hath not thy wickedness passed continually?  

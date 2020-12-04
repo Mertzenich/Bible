@@ -42,7 +42,7 @@ Silver cups of a second sort, four hundred and ten: other vessels a thousand.
 
 *** Ezra 1:11
 
-All the vessels of gold and silver, five thousand four hundred: all these Sassabasar brought with them that came up from the captivity of Babylon to Jerusalem. <chapter eID="gen12429" osisID="Ezra.1"/>
+All the vessels of gold and silver, five thousand four hundred: all these Sassabasar brought with them that came up from the captivity of Babylon to Jerusalem. 
 
 ** Ezra 2
 
@@ -324,7 +324,7 @@ According to their ability, they gave towards the expenses of the work, sixty-on
 
 *** Ezra 2:70
 
-So the priests and the Levites, and some of the people, and the singing men, and the porters, and the Nathinites dwelt in their cities, and all Israel in their cities. <chapter eID="gen12441" osisID="Ezra.2"/>
+So the priests and the Levites, and some of the people, and the singing men, and the porters, and the Nathinites dwelt in their cities, and all Israel in their cities. 
 
 ** Ezra 3
 
@@ -378,7 +378,7 @@ But many of the priests and the Levites, and the chief of the fathers and the an
 
 *** Ezra 3:13
 
-So that one could not distinguish the voice of the shout of joy, from the noise of the weeping of the people: for one with another the people shouted with a loud shout, and the voice was heard afar off. <chapter eID="gen12512" osisID="Ezra.3"/>
+So that one could not distinguish the voice of the shout of joy, from the noise of the weeping of the people: for one with another the people shouted with a loud shout, and the voice was heard afar off. 
 
 ** Ezra 4
 
@@ -476,7 +476,7 @@ Now the copy of the edict of king Artaxerxes was read before Reum Beelteem, and 
 
 *** Ezra 4:24
 
-Then the work of the house of the Lord in Jerusalem was interrupted, and ceased till the second year of the reign of Darius king of the Persians. <chapter eID="gen12526" osisID="Ezra.4"/>
+Then the work of the house of the Lord in Jerusalem was interrupted, and ceased till the second year of the reign of Darius king of the Persians. 
 
 ** Ezra 5
 
@@ -546,7 +546,7 @@ Then came this same Sassabasar, and laid the foundations of the temple of God in
 
 *** Ezra 5:17
 
-Now therefore if it seem good to the king, let him search in the king's library, which is in Babylon, whether it hath been decreed by Cyrus the king, that the house of God in Jerusalem should be built, and let the king send his pleasure to us concerning this matter. <chapter eID="gen12551" osisID="Ezra.5"/>
+Now therefore if it seem good to the king, let him search in the king's library, which is in Babylon, whether it hath been decreed by Cyrus the king, that the house of God in Jerusalem should be built, and let the king send his pleasure to us concerning this matter. 
 
 ** Ezra 6
 
@@ -636,7 +636,7 @@ And the children of Israel that were returned from captivity, and all that had s
 
 *** Ezra 6:22
 
-And they kept the feast of unleavened bread seven days with joy, for the Lord had made them joyful, and had turned the heart of the king of Assyria to them, that he should help their hands in the work of the house of the Lord the God of Israel. <chapter eID="gen12569" osisID="Ezra.6"/>
+And they kept the feast of unleavened bread seven days with joy, for the Lord had made them joyful, and had turned the heart of the king of Assyria to them, that he should help their hands in the work of the house of the Lord the God of Israel. 
 
 ** Ezra 7
 
@@ -750,7 +750,7 @@ Blessed be the Lord the God of our fathers, who hath put this in the king's hear
 
 *** Ezra 7:28
 
-And hath inclined his mercy toward me before the king and his counsellors, and all the mighty princes of the king: and I being strengthened by the hand of the Lord my God, which was upon me, gathered together out of Israel chief men to go up with me. <chapter eID="gen12592" osisID="Ezra.7"/>
+And hath inclined his mercy toward me before the king and his counsellors, and all the mighty princes of the king: and I being strengthened by the hand of the Lord my God, which was upon me, gathered together out of Israel chief men to go up with me. 
 
 ** Ezra 8
 
@@ -896,7 +896,7 @@ Moreover the children of them that had been carried away that were come out of t
 
 *** Ezra 8:36
 
-And they gave the king's edicts to the lords that were from the king's court, and the governors beyond the river, and they furthered the people and the house of God. <chapter eID="gen12621" osisID="Ezra.8"/>
+And they gave the king's edicts to the lords that were from the king's court, and the governors beyond the river, and they furthered the people and the house of God. 
 
 ** Ezra 9
 
@@ -958,7 +958,7 @@ That we should not turn away, nor break thy commandments, nor join in marriage w
 
 *** Ezra 9:15
 
-O Lord God of Israel, thou art just: for we remain yet to be saved as at this day. Behold we are before thee in our sin, for there can be no standing before thee in this matter. <chapter eID="gen12658" osisID="Ezra.9"/>
+O Lord God of Israel, thou art just: for we remain yet to be saved as at this day. Behold we are before thee in our sin, for there can be no standing before thee in this matter. 
 
 ** Ezra 10
 
@@ -1136,4 +1136,4 @@ Of the sons of Nebo, Jehiel, Mathathias, Zabad, Zabina, Jeddu, and Joel, and Ban
 
 *** Ezra 10:44
 
-All these had taken strange wives, and there were among them women that had borne children. <chapter eID="gen12674" osisID="Ezra.10"/> <div eID="gen12428" osisID="Ezra" type="book"/>
+All these had taken strange wives, and there were among them women that had borne children.  

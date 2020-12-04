@@ -70,7 +70,7 @@ But when he was come to Rome, he carefully sought me and found me.
 
 *** II Timothy 1:18
 
-The Lord grant unto him to find mercy of the Lord in that day. And in how many things he ministered unto me at Ephesus, thou very well knowest. <chapter eID="gen35855" osisID="2Tim.1"/>
+The Lord grant unto him to find mercy of the Lord in that day. And in how many things he ministered unto me at Ephesus, thou very well knowest. 
 
 ** II Timothy 2
 
@@ -176,7 +176,7 @@ With modesty admonishing them that resist the truth: if peradventure God may giv
 
 *** II Timothy 2:26
 
-And they may recover themselves from the snares of the devil by whom they are held captive at his will. <chapter eID="gen35874" osisID="2Tim.2"/>
+And they may recover themselves from the snares of the devil by whom they are held captive at his will. 
 
 ** II Timothy 3
 
@@ -246,7 +246,7 @@ All scripture, inspired of God, is profitable to teach, to reprove, to correct, 
 
 *** II Timothy 3:17
 
-That the man of God may be perfect, furnished to every good work. <chapter eID="gen35901" osisID="2Tim.3"/>
+That the man of God may be perfect, furnished to every good work. 
 
 ** II Timothy 4
 
@@ -336,4 +336,4 @@ Make haste to come before winter. Eubulus and Pudens and Linus and Claudia and a
 
 *** II Timothy 4:22
 
-The Lord Jesus Christ be with thy spirit. Grace be with you. Amen. <chapter eID="gen35919" osisID="2Tim.4"/> <div eID="gen35854" osisID="2Tim" type="book"/>
+The Lord Jesus Christ be with thy spirit. Grace be with you. Amen.  

@@ -62,7 +62,7 @@ Yet will I bring an heir to thee that dwellest in Maresa: even to Odollam shall 
 
 *** Micah 1:16
 
-Make thee bald, and be polled for thy delicate children: enlarge thy baldness as the eagle: for they are carried into captivity from thee. <chapter eID="gen26861" osisID="Mic.1"/>
+Make thee bald, and be polled for thy delicate children: enlarge thy baldness as the eagle: for they are carried into captivity from thee. 
 
 ** Micah 2
 
@@ -116,7 +116,7 @@ I will assemble and gather together all of thee, O Jacob: I will bring together 
 
 *** Micah 2:13
 
-For he shall go up that shall open the way before them: they shall divide and pass through the gate, and shall come in by it: and their king shall pass before them, and the Lord at the head of them. <chapter eID="gen26878" osisID="Mic.2"/>
+For he shall go up that shall open the way before them: they shall divide and pass through the gate, and shall come in by it: and their king shall pass before them, and the Lord at the head of them. 
 
 ** Micah 3
 
@@ -166,7 +166,7 @@ Her princes have judged for bribes: and her priests have taught for hire, and he
 
 *** Micah 3:12
 
-Therefore because of you, Sion shall be ploughed as a field, and Jerusalem shall be as a heap of stones, and the mountain of the temple as the high places of the forests. <chapter eID="gen26892" osisID="Mic.3"/>
+Therefore because of you, Sion shall be ploughed as a field, and Jerusalem shall be as a heap of stones, and the mountain of the temple as the high places of the forests. 
 
 ** Micah 4
 
@@ -220,7 +220,7 @@ But they have not known the thoughts of the Lord, and have not understood his co
 
 *** Micah 4:13
 
-Arise, and tread, O daughter of Sion: for I will make thy horn iron, and thy hoofs I will make brass: and thou shalt beat in pieces many peoples, and shalt immolate the spoils of them to the Lord, and their strength to the Lord of the whole earth. <chapter eID="gen26905" osisID="Mic.4"/>
+Arise, and tread, O daughter of Sion: for I will make thy horn iron, and thy hoofs I will make brass: and thou shalt beat in pieces many peoples, and shalt immolate the spoils of them to the Lord, and their strength to the Lord of the whole earth. 
 
 ** Micah 5
 
@@ -278,7 +278,7 @@ And I will pluck up thy groves out of the midst of thee: and will crush thy citi
 
 *** Micah 5:14
 
-And I will execute vengeance in wrath, and in indignation, among all the nations that have not given ear. <chapter eID="gen26919" osisID="Mic.5"/>
+And I will execute vengeance in wrath, and in indignation, among all the nations that have not given ear. 
 
 ** Micah 6
 
@@ -344,7 +344,7 @@ Thou shalt sow, but shalt not reap: thou shalt tread the olives, but shalt not b
 
 *** Micah 6:16
 
-For thou hast kept the statutes of Amri, and all the works of the house of Achab: and thou hast walked according their wills, that I should make thee a desolation, and the inhabitants thereof a hissing, and you shall bear the reproach of my people. <chapter eID="gen26934" osisID="Mic.6"/>
+For thou hast kept the statutes of Amri, and all the works of the house of Achab: and thou hast walked according their wills, that I should make thee a desolation, and the inhabitants thereof a hissing, and you shall bear the reproach of my people. 
 
 ** Micah 7
 
@@ -426,4 +426,4 @@ He will turn again, and have mercy on us: he will put away our iniquities: and h
 
 *** Micah 7:20
 
-Thou wilt perform the truth to Jacob, the mercy to Abraham: which thou hast sworn to our fathers from the days of old. <chapter eID="gen26951" osisID="Mic.7"/> <div eID="gen26860" osisID="Mic" type="book"/>
+Thou wilt perform the truth to Jacob, the mercy to Abraham: which thou hast sworn to our fathers from the days of old.  

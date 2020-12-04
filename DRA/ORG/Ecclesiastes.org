@@ -70,7 +70,7 @@ And I have given my heart to know prudence, and learning, and errors, and folly:
 
 *** Ecclesiastes 1:18
 
-Because in much wisdom there is much indignation: and he that addeth knowledge, addeth also labour. <chapter eID="gen18848" osisID="Eccl.1"/>
+Because in much wisdom there is much indignation: and he that addeth knowledge, addeth also labour. 
 
 ** Ecclesiastes 2
 
@@ -176,7 +176,7 @@ Who shall so feast and abound with delights as I?
 
 *** Ecclesiastes 2:26
 
-God hath given to a man that is good in his sight, wisdom, and knowledge, and joy: but to the sinner he hath given vexation, and superfluous care, to heap up and to gather together, and to give it to him that hath pleased God: but this also is vanity, and a fruitless solicitude of the mind. <chapter eID="gen18867" osisID="Eccl.2"/>
+God hath given to a man that is good in his sight, wisdom, and knowledge, and joy: but to the sinner he hath given vexation, and superfluous care, to heap up and to gather together, and to give it to him that hath pleased God: but this also is vanity, and a fruitless solicitude of the mind. 
 
 ** Ecclesiastes 3
 
@@ -266,7 +266,7 @@ Who knoweth if the spirit of the children of Adam ascend upward, and if the spir
 
 *** Ecclesiastes 3:22
 
-And I have found that nothing is better than for a man to rejoice in his work, and that this is his portion. For who shall bring him to know the things that shall be after him? <chapter eID="gen18894" osisID="Eccl.3"/>
+And I have found that nothing is better than for a man to rejoice in his work, and that this is his portion. For who shall bring him to know the things that shall be after him? 
 
 ** Ecclesiastes 4
 
@@ -336,7 +336,7 @@ The number of the people, of all that were before him is infinite: and they that
 
 *** Ecclesiastes 4:17
 
-Keep thy foot, when thou goest into the house of God, and draw nigh to hear. For much better is obedience, than the victims of fools, who know not what evil they do. <chapter eID="gen18917" osisID="Eccl.4"/>
+Keep thy foot, when thou goest into the house of God, and draw nigh to hear. For much better is obedience, than the victims of fools, who know not what evil they do. 
 
 ** Ecclesiastes 5
 
@@ -414,7 +414,7 @@ And every man to whom God hath given riches, and substance, and hath given him p
 
 *** Ecclesiastes 5:19
 
-For he shall not much remember the days of his life, because God entertaineth his heart with delight. <chapter eID="gen18935" osisID="Eccl.5"/>
+For he shall not much remember the days of his life, because God entertaineth his heart with delight. 
 
 ** Ecclesiastes 6
 
@@ -460,7 +460,7 @@ He that shall be, his name is already called: and it is known, that he is a man,
 
 *** Ecclesiastes 6:11
 
-There are many words that have much vanity in disputing. <chapter eID="gen18955" osisID="Eccl.6"/>
+There are many words that have much vanity in disputing. 
 
 ** Ecclesiastes 7
 
@@ -582,7 +582,7 @@ Which yet my soul seeketh, and I have not found it. One man among a thousand I h
 
 *** Ecclesiastes 7:30
 
-Only this I have found, that God made man right, and he hath entangled himself with an infinity of questions. Who is as the wise man? and who hath known the resolution of the word? <chapter eID="gen18967" osisID="Eccl.7"/>
+Only this I have found, that God made man right, and he hath entangled himself with an infinity of questions. Who is as the wise man? and who hath known the resolution of the word? 
 
 ** Ecclesiastes 8
 
@@ -652,7 +652,7 @@ And I applied my heart to know wisdom, and to understand the distraction that is
 
 *** Ecclesiastes 8:17
 
-And I understood that man can find no reason of all those works of God that are done under the sun: and the more he shall labour to seek, so much the less shall he find: yea, though the wise man shall say, that he knoweth it, he shall not be able to find it. <chapter eID="gen18998" osisID="Eccl.8"/>
+And I understood that man can find no reason of all those works of God that are done under the sun: and the more he shall labour to seek, so much the less shall he find: yea, though the wise man shall say, that he knoweth it, he shall not be able to find it. 
 
 ** Ecclesiastes 9
 
@@ -726,7 +726,7 @@ The words of the wise are heard in silence, more than the cry of a prince among 
 
 *** Ecclesiastes 9:18
 
-Better is wisdom, than weapons of war: and he that shall offend in one, shall lose many good things. <chapter eID="gen19016" osisID="Eccl.9"/>
+Better is wisdom, than weapons of war: and he that shall offend in one, shall lose many good things. 
 
 ** Ecclesiastes 10
 
@@ -808,7 +808,7 @@ For laughter they make bread, and wine that the living may feast: and all things
 
 *** Ecclesiastes 10:20
 
-Detract not the king, no not in thy thought; and speak not evil of the rich man in thy private chamber: because even the birds of the air will carry thy voice, and he that hath wings will tell what thou hast said. <chapter eID="gen19035" osisID="Eccl.10"/>
+Detract not the king, no not in thy thought; and speak not evil of the rich man in thy private chamber: because even the birds of the air will carry thy voice, and he that hath wings will tell what thou hast said. 
 
 ** Ecclesiastes 11
 
@@ -850,7 +850,7 @@ Rejoice therefore, O young man, in thy youth, and let thy heart be in that which
 
 *** Ecclesiastes 11:10
 
-Remove anger from thy heart, and put away evil from thy flesh. For youth and pleasure are vain. <chapter eID="gen19056" osisID="Eccl.11"/>
+Remove anger from thy heart, and put away evil from thy flesh. For youth and pleasure are vain. 
 
 ** Ecclesiastes 12
 
@@ -908,4 +908,4 @@ Let us all hear together the conclusion of the discourse. Fear God, and keep his
 
 *** Ecclesiastes 12:14
 
-And all things that are done, God will bring into judgment for every error, whether it be good or evil. <chapter eID="gen19067" osisID="Eccl.12"/> <div eID="gen18847" osisID="Eccl" type="book"/>
+And all things that are done, God will bring into judgment for every error, whether it be good or evil.  

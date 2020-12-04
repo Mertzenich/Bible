@@ -98,7 +98,7 @@ For all flesh is as grass and all the glory thereof as the flower of grass. The 
 
 *** I Peter 1:25
 
-But the word of the Lord endureth for ever. And this is the word which by the gospel hath been preached unto you. <chapter eID="gen36451" osisID="1Pet.1"/>
+But the word of the Lord endureth for ever. And this is the word which by the gospel hath been preached unto you. 
 
 ** I Peter 2
 
@@ -200,7 +200,7 @@ Who his own self bore our sins in his body upon the tree: that we, being dead to
 
 *** I Peter 2:25
 
-For you were as sheep going astray: but you are now converted to the shepherd and bishop of your souls. <chapter eID="gen36477" osisID="1Pet.2"/>
+For you were as sheep going astray: but you are now converted to the shepherd and bishop of your souls. 
 
 ** I Peter 3
 
@@ -290,7 +290,7 @@ Whereunto baptism, being of the like form, now saveth you also: not the putting 
 
 *** I Peter 3:22
 
-Who is on the right hand of God, swallowing down death that we might be made heirs of life everlasting: being gone into heaven, the angels and powers and virtues being made subject to him. <chapter eID="gen36503" osisID="1Pet.3"/>
+Who is on the right hand of God, swallowing down death that we might be made heirs of life everlasting: being gone into heaven, the angels and powers and virtues being made subject to him. 
 
 ** I Peter 4
 
@@ -368,7 +368,7 @@ And if the just man shall scarcely be saved, where shall the ungodly and the sin
 
 *** I Peter 4:19
 
-Wherefore let them also that suffer according to the will of God commend their souls in good deeds to the faithful Creator. <chapter eID="gen36526" osisID="1Pet.4"/>
+Wherefore let them also that suffer according to the will of God commend their souls in good deeds to the faithful Creator. 
 
 ** I Peter 5
 
@@ -426,4 +426,4 @@ The church that is in Babylon, elected together with you, saluteth you. And so d
 
 *** I Peter 5:14
 
-Salute one another with a holy kiss. Grace be to all you who are in Christ Jesus. Amen. <chapter eID="gen36546" osisID="1Pet.5"/> <div eID="gen36450" osisID="1Pet" type="book"/>
+Salute one another with a holy kiss. Grace be to all you who are in Christ Jesus. Amen.  

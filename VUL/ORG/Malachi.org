@@ -2,7 +2,7 @@
 
 ** Malachi 1:1
 
-Onus verbi Domini ad Israël in manu Malachiæ.  <div eID="gen31862" type="x-p"/>
+Onus verbi Domini ad Israël in manu Malachiæ.  
 
 ** Malachi 1:2
 
@@ -18,7 +18,7 @@ Quod si dixerit Idumæa : Destructi sumus, sed revertentes ædificabimus quæ de
 
 ** Malachi 1:5
 
-Et oculi vestri videbunt, et vos dicetis : Magnificetur Dominus super terminum Israël.  <div eID="gen31863" type="x-p"/>
+Et oculi vestri videbunt, et vos dicetis : Magnificetur Dominus super terminum Israël.  
 
 ** Malachi 1:6
 
@@ -54,7 +54,7 @@ Et dixistis : Ecce de labore, et exsufflastis illud, dicit Dominus exercituum : 
 
 ** Malachi 1:14
 
-Maledictus dolosus qui habet in grege suo masculum, et votum faciens immolat debile Domino : quia rex magnus ego, dicit Dominus exercituum, et nomen meum horribile in gentibus.  <chapter eID="Mal.1"/> <div eID="gen31864" type="x-p"/>
+Maledictus dolosus qui habet in grege suo masculum, et votum faciens immolat debile Domino : quia rex magnus ego, dicit Dominus exercituum, et nomen meum horribile in gentibus.   
 
 * Malachi 2
 
@@ -92,7 +92,7 @@ Vos autem recessistis de via, et scandalizastis plurimos in lege : irritum fecis
 
 ** Malachi 2:9
 
-Propter quod et ego dedi vos contemptibiles, et humiles omnibus populis, sicut non servastis vias meas, et accepistis faciem in lege.  <div eID="gen31865" type="x-p"/>
+Propter quod et ego dedi vos contemptibiles, et humiles omnibus populis, sicut non servastis vias meas, et accepistis faciem in lege.  
 
 ** Malachi 2:10
 
@@ -120,11 +120,11 @@ Nonne unus fecit, et residuum spiritus ejus est ? et quid unus quærit, nisi sem
 
 ** Malachi 2:16
 
-Cum odio habueris, dimitte, dicit Dominus Deus Israël : operiet autem iniquitas vestimentum ejus, dicit Dominus exercituum. Custodite spiritum vestrum, et nolite despicere.  <div eID="gen31866" type="x-p"/>
+Cum odio habueris, dimitte, dicit Dominus Deus Israël : operiet autem iniquitas vestimentum ejus, dicit Dominus exercituum. Custodite spiritum vestrum, et nolite despicere.  
 
 ** Malachi 2:17
 
-Laborare fecistis Dominum in sermonibus vestris, et dixistis : In quo eum fecimus laborare ? In eo quod dicitis : Omnis qui facit malum bonus est in conspectu Domini, et tales ei placent : aut certe ubi est Deus judicii ?  <chapter eID="Mal.2"/> <div eID="gen31867" type="x-p"/>
+Laborare fecistis Dominum in sermonibus vestris, et dixistis : In quo eum fecimus laborare ? In eo quod dicitis : Omnis qui facit malum bonus est in conspectu Domini, et tales ei placent : aut certe ubi est Deus judicii ?   
 
 * Malachi 3
 
@@ -198,7 +198,7 @@ Et erunt mihi, ait Dominus exercituum, in die qua ego facio, in peculium : et pa
 
 ** Malachi 3:18
 
-Et convertemini, et videbitis quid sit inter justum et impium, et inter servientem Deo et non servientem ei.  <chapter eID="Mal.3"/> <div eID="gen31868" type="x-p"/>
+Et convertemini, et videbitis quid sit inter justum et impium, et inter servientem Deo et non servientem ei.   
 
 * Malachi 4
 
@@ -224,5 +224,5 @@ Ecce ego mittam vobis Eliam prophetam, antequam veniat dies Domini magnus et hor
 
 ** Malachi 4:6
 
-Et convertet cor patrum ad filios, et cor filiorum ad patres eorum : ne forte veniam, et percutiam terram anathemate.  <div eID="gen31869" type="x-p"/> <chapter eID="Mal.4"/> <div eID="gen31861" osisID="Mal" type="book"/>
+Et convertet cor patrum ad filios, et cor filiorum ad patres eorum : ne forte veniam, et percutiam terram anathemate.    
 

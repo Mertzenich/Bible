@@ -26,7 +26,7 @@ in quibus estis et vos vocati Jesu Christi :
 
 ** Romans 1:7
 
-omnibus qui sunt Romæ, dilectis Dei, vocatis sanctis. Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.  <div eID="gen32858" type="x-p"/>
+omnibus qui sunt Romæ, dilectis Dei, vocatis sanctis. Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.  
 
 ** Romans 1:8
 
@@ -58,7 +58,7 @@ Græcis ac barbaris, sapientibus, et insipientibus debitor sum :
 
 ** Romans 1:15
 
-ita (quod in me) promptum est et vobis, qui Romæ estis, evangelizare.  <div eID="gen32859" type="x-p"/>
+ita (quod in me) promptum est et vobis, qui Romæ estis, evangelizare.  
 
 ** Romans 1:16
 
@@ -66,7 +66,7 @@ Non enim erubesco Evangelium. Virtus enim Dei est in salutem omni credenti, Jud�
 
 ** Romans 1:17
 
-Justitia enim Dei in eo revelatur ex fide in fidem : sicut scriptum est : Justus autem ex fide vivit.  <div eID="gen32860" type="x-p"/>
+Justitia enim Dei in eo revelatur ex fide in fidem : sicut scriptum est : Justus autem ex fide vivit.  
 
 ** Romans 1:18
 
@@ -90,7 +90,7 @@ dicentes enim se esse sapientes, stulti facti sunt.
 
 ** Romans 1:23
 
-Et mutaverunt gloriam incorruptibilis Dei in similitudinem imaginis corruptibilis hominis, et volucrum, et quadrupedum, et serpentium.  <div eID="gen32861" type="x-p"/>
+Et mutaverunt gloriam incorruptibilis Dei in similitudinem imaginis corruptibilis hominis, et volucrum, et quadrupedum, et serpentium.  
 
 ** Romans 1:24
 
@@ -126,7 +126,7 @@ insipientes, incompositos, sine affectione, absque fœdere, sine misericordia.
 
 ** Romans 1:32
 
-Qui cum justitiam Dei cognovissent, non intellexerunt quoniam qui talia agunt, digni sunt morte : et non solum qui ea faciunt, sed etiam qui consentiunt facientibus.  <chapter eID="Rom.1"/> <div eID="gen32862" type="x-p"/>
+Qui cum justitiam Dei cognovissent, non intellexerunt quoniam qui talia agunt, digni sunt morte : et non solum qui ea faciunt, sed etiam qui consentiunt facientibus.   
 
 * Romans 2
 
@@ -172,7 +172,7 @@ gloria autem, et honor, et pax omni operanti bonum, Judæo primum, et Græco :
 
 ** Romans 2:11
 
-non enim est acceptio personarum apud Deum.  <div eID="gen32863" type="x-p"/>
+non enim est acceptio personarum apud Deum.  
 
 ** Romans 2:12
 
@@ -192,7 +192,7 @@ qui ostendunt opus legis scriptum in cordibus suis, testimonium reddente illis c
 
 ** Romans 2:16
 
-in die, cum judicabit Deus occulta hominum, secundum Evangelium meum per Jesum Christum.  <div eID="gen32864" type="x-p"/>
+in die, cum judicabit Deus occulta hominum, secundum Evangelium meum per Jesum Christum.  
 
 ** Romans 2:17
 
@@ -224,7 +224,7 @@ qui in lege gloriaris, per prævaricationem legis Deum inhonoras.
 
 ** Romans 2:24
 
-(Nomen enim Dei per vos blasphematur inter gentes, sicut scriptum est.)  <div eID="gen32865" type="x-p"/>
+(Nomen enim Dei per vos blasphematur inter gentes, sicut scriptum est.)  
 
 ** Romans 2:25
 
@@ -244,7 +244,7 @@ Non enim qui in manifesto, Judæus est : neque quæ in manifesto, in carne, est 
 
 ** Romans 2:29
 
-sed qui in abscondito, Judæus est : et circumcisio cordis in spiritu, non littera : cujus laus non ex hominibus, sed ex Deo est.  <chapter eID="Rom.2"/> <div eID="gen32866" type="x-p"/>
+sed qui in abscondito, Judæus est : et circumcisio cordis in spiritu, non littera : cujus laus non ex hominibus, sed ex Deo est.   
 
 * Romans 3
 
@@ -262,7 +262,7 @@ Quid enim si quidam illorum non crediderunt ? numquid incredulitas illorum fidem
 
 ** Romans 3:4
 
-Est autem Deus verax : omnis autem homo mendax, sicut scriptum est : <div eID="gen32867" type="x-p"/> <lg sID="gen32868"/> <l level="1" sID="gen32869"/>Ut justificeris in sermonibus tuis : <l eID="gen32869" level="1"/> <l level="1" sID="gen32870"/>et vincas cum judicaris.
+Est autem Deus verax : omnis autem homo mendax, sicut scriptum est :   Ut justificeris in sermonibus tuis :  et vincas cum judicaris.
 
 ** Romans 3:5
 
@@ -278,7 +278,7 @@ Si enim veritas Dei in meo mendacio abundavit in gloriam ipsius : quid adhuc et 
 
 ** Romans 3:8
 
-et non (sicut blasphemamur, et sicut aiunt quidam nos dicere) faciamus mala ut veniant bona : quorum damnatio justa est. <l eID="gen32870" level="1"/> <lg eID="gen32868"/>
+et non (sicut blasphemamur, et sicut aiunt quidam nos dicere) faciamus mala ut veniant bona : quorum damnatio justa est.  
 
 ** Romans 3:9
 
@@ -286,35 +286,35 @@ Quid ergo ? præcellimus eos ? Nequaquam. Causati enim sumus Judæos et Græcos 
 
 ** Romans 3:10
 
-sicut scriptum est : <div eID="gen32871" type="x-p"/> <lg sID="gen32872"/> <l level="1" sID="gen32873"/>Quia non est justus quisquam : <l eID="gen32873" level="1"/>
+sicut scriptum est :   Quia non est justus quisquam : 
 
 ** Romans 3:11
 
-non est intelligens, non est requirens Deum. <l eID="gen32874" level="1"/>
+non est intelligens, non est requirens Deum. 
 
 ** Romans 3:12
 
-Omnes declinaverunt, simul inutiles facti sunt : <l eID="gen32875" level="1"/> <l level="1" sID="gen32876"/>non est qui faciat bonum, non est usque ad unum. <l eID="gen32876" level="1"/>
+Omnes declinaverunt, simul inutiles facti sunt :  non est qui faciat bonum, non est usque ad unum. 
 
 ** Romans 3:13
 
-Sepulchrum patens est guttur eorum, <l eID="gen32877" level="1"/> <l level="1" sID="gen32878"/>linguis suis dolose agebant : <l eID="gen32878" level="1"/> <l level="1" sID="gen32879"/>venenum aspidum sub labiis eorum : <l eID="gen32879" level="1"/>
+Sepulchrum patens est guttur eorum,  linguis suis dolose agebant :  venenum aspidum sub labiis eorum : 
 
 ** Romans 3:14
 
-quorum os maledictione, et amaritudine plenum est : <l eID="gen32880" level="1"/>
+quorum os maledictione, et amaritudine plenum est : 
 
 ** Romans 3:15
 
-veloces pedes eorum ad effundendum sanguinem : <l eID="gen32881" level="1"/>
+veloces pedes eorum ad effundendum sanguinem : 
 
 ** Romans 3:16
 
-contritio et infelicitas in viis eorum : <l eID="gen32882" level="1"/>
+contritio et infelicitas in viis eorum : 
 
 ** Romans 3:17
 
-et viam pacis non cognoverunt : <l eID="gen32883" level="1"/>
+et viam pacis non cognoverunt : 
 
 ** Romans 3:18
 
@@ -326,7 +326,7 @@ Scimus autem quoniam quæcumque lex loquitur, iis, qui in lege sunt, loquitur : 
 
 ** Romans 3:20
 
-quia ex operibus legis non justificabitur omnis caro coram illo. Per legem enim cognitio peccati. <l eID="gen32884" level="1"/> <lg eID="gen32872"/>
+quia ex operibus legis non justificabitur omnis caro coram illo. Per legem enim cognitio peccati.  
 
 ** Romans 3:21
 
@@ -350,7 +350,7 @@ quem proposuit Deus propitiationem per fidem in sanguine ipsius, ad ostensionem 
 
 ** Romans 3:26
 
-in sustentatione Dei, ad ostensionem justitiæ ejus in hoc tempore : ut sit ipse justus, et justificans eum, qui est ex fide Jesu Christi.  <div eID="gen32885" type="x-p"/>
+in sustentatione Dei, ad ostensionem justitiæ ejus in hoc tempore : ut sit ipse justus, et justificans eum, qui est ex fide Jesu Christi.  
 
 ** Romans 3:27
 
@@ -370,7 +370,7 @@ quoniam quidem unus est Deus, qui justificat circumcisionem ex fide, et præputi
 
 ** Romans 3:31
 
-Legem ergo destruimus per fidem ? Absit : sed legem statuimus.  <chapter eID="Rom.3"/> <div eID="gen32886" type="x-p"/>
+Legem ergo destruimus per fidem ? Absit : sed legem statuimus.   
 
 * Romans 4
 
@@ -396,11 +396,11 @@ Ei vero qui non operatur, credenti autem in eum, qui justificat impium, reputatu
 
 ** Romans 4:6
 
-Sicut et David dicit beatitudinem hominis, cui Deus accepto fert justitiam sine operibus :  <div eID="gen32887" type="x-p"/>
+Sicut et David dicit beatitudinem hominis, cui Deus accepto fert justitiam sine operibus :  
 
 ** Romans 4:7
 
-Beati, quorum remissæ sunt iniquitates, <l eID="gen32889" level="1"/> <l level="1" sID="gen32890"/>et quorum tecta sunt peccata. <l eID="gen32890" level="1"/>
+Beati, quorum remissæ sunt iniquitates,  et quorum tecta sunt peccata. 
 
 ** Romans 4:8
 
@@ -420,7 +420,7 @@ Et signum accepit circumcisionis, signaculum justitiæ fidei, quæ est in præpu
 
 ** Romans 4:12
 
-et sit pater circumcisionis non iis tantum, qui sunt ex circumcisione, sed et iis qui sectantur vestigia fidei, quæ est in præputio patris nostri Abrahæ. <l eID="gen32891" level="1"/> <lg eID="gen32888"/>
+et sit pater circumcisionis non iis tantum, qui sunt ex circumcisione, sed et iis qui sectantur vestigia fidei, quæ est in præputio patris nostri Abrahæ.  
 
 ** Romans 4:13
 
@@ -472,7 +472,7 @@ sed et propter nos, quibus reputabitur credentibus in eum, qui suscitavit Jesum 
 
 ** Romans 4:25
 
-qui traditus est propter delicta nostra, et resurrexit propter justificationem nostram.  <chapter eID="Rom.4"/> <div eID="gen32892" type="x-p"/>
+qui traditus est propter delicta nostra, et resurrexit propter justificationem nostram.   
 
 * Romans 5
 
@@ -518,7 +518,7 @@ Si enim cum inimici essemus, reconciliati sumus Deo per mortem filii ejus : mult
 
 ** Romans 5:11
 
-Non solum autem : sed et gloriamur in Deo per Dominum nostrum Jesum Christum, per quem nunc reconciliationem accepimus.  <div eID="gen32893" type="x-p"/>
+Non solum autem : sed et gloriamur in Deo per Dominum nostrum Jesum Christum, per quem nunc reconciliationem accepimus.  
 
 ** Romans 5:12
 
@@ -558,7 +558,7 @@ Lex autem subintravit ut abundaret delictum. Ubi autem abundavit delictum, super
 
 ** Romans 5:21
 
-ut sicut regnavit peccatum in mortem : ita et gratia regnet per justitiam in vitam æternam, per Jesum Christum Dominum nostrum.  <chapter eID="Rom.5"/> <div eID="gen32894" type="x-p"/>
+ut sicut regnavit peccatum in mortem : ita et gratia regnet per justitiam in vitam æternam, per Jesum Christum Dominum nostrum.   
 
 * Romans 6
 
@@ -604,7 +604,7 @@ Quod enim mortuus est peccato, mortuus est semel : quod autem vivit, vivit Deo.
 
 ** Romans 6:11
 
-Ita et vos existimate vos mortuos quidem esse peccato, viventes autem Deo, in Christo Jesu Domino nostro.  <div eID="gen32895" type="x-p"/>
+Ita et vos existimate vos mortuos quidem esse peccato, viventes autem Deo, in Christo Jesu Domino nostro.  
 
 ** Romans 6:12
 
@@ -652,7 +652,7 @@ Nunc vero liberati a peccato, servi autem facti Deo, habetis fructum vestrum in 
 
 ** Romans 6:23
 
-Stipendia enim peccati, mors. Gratia autem Dei, vita æterna, in Christo Jesu Domino nostro.  <chapter eID="Rom.6"/> <div eID="gen32896" type="x-p"/>
+Stipendia enim peccati, mors. Gratia autem Dei, vita æterna, in Christo Jesu Domino nostro.   
 
 * Romans 7
 
@@ -678,7 +678,7 @@ Cum enim essemus in carne, passiones peccatorum, quæ per legem erant, operabant
 
 ** Romans 7:6
 
-Nunc autem soluti sumus a lege mortis, in qua detinebamur, ita ut serviamus in novitate spiritus, et non in vetustate litteræ.  <div eID="gen32897" type="x-p"/>
+Nunc autem soluti sumus a lege mortis, in qua detinebamur, ita ut serviamus in novitate spiritus, et non in vetustate litteræ.  
 
 ** Romans 7:7
 
@@ -702,7 +702,7 @@ Nam peccatum occasione accepta per mandatum, seduxit me, et per illud occidit.
 
 ** Romans 7:12
 
-Itaque lex quidem sancta, et mandatum sanctum, et justum, et bonum.  <div eID="gen32898" type="x-p"/>
+Itaque lex quidem sancta, et mandatum sanctum, et justum, et bonum.  
 
 ** Romans 7:13
 
@@ -754,7 +754,7 @@ Infelix ego homo, quis me liberabit de corpore mortis hujus ?
 
 ** Romans 7:25
 
-gratia Dei per Jesum Christum Dominum nostrum. Igitur ego ipse mente servio legi Dei : carne autem, legi peccati.  <chapter eID="Rom.7"/> <div eID="gen32899" type="x-p"/>
+gratia Dei per Jesum Christum Dominum nostrum. Igitur ego ipse mente servio legi Dei : carne autem, legi peccati.   
 
 * Romans 8
 
@@ -808,7 +808,7 @@ Ergo fratres, debitores sumus non carni, ut secundum carnem vivamus.
 
 ** Romans 8:13
 
-Si enim secundum carnem vixeritis, moriemini : si autem spiritu facta carnis mortificaveritis, vivetis.  <div eID="gen32900" type="x-p"/>
+Si enim secundum carnem vixeritis, moriemini : si autem spiritu facta carnis mortificaveritis, vivetis.  
 
 ** Romans 8:14
 
@@ -824,7 +824,7 @@ Ipse enim Spiritus testimonium reddit spiritui nostro quod sumus filii Dei.
 
 ** Romans 8:17
 
-Si autem filii, et hæredes : hæredes, quidem Dei, cohæredes autem Christi : si tamen compatimur ut et conglorificemur.  <div eID="gen32901" type="x-p"/>
+Si autem filii, et hæredes : hæredes, quidem Dei, cohæredes autem Christi : si tamen compatimur ut et conglorificemur.  
 
 ** Romans 8:18
 
@@ -856,7 +856,7 @@ Spe enim salvi facti sumus. Spes autem, quæ videtur, non est spes : nam quod vi
 
 ** Romans 8:25
 
-Si autem quod non videmus, speramus : per patientiam exspectamus.  <div eID="gen32902" type="x-p"/>
+Si autem quod non videmus, speramus : per patientiam exspectamus.  
 
 ** Romans 8:26
 
@@ -864,7 +864,7 @@ Similiter autem et Spiritus adjuvat infirmitatem nostram : nam quid oremus, sicu
 
 ** Romans 8:27
 
-Qui autem scrutatur corda, scit quid desideret Spiritus : quia secundum Deum postulat pro sanctis.  <div eID="gen32903" type="x-p"/>
+Qui autem scrutatur corda, scit quid desideret Spiritus : quia secundum Deum postulat pro sanctis.  
 
 ** Romans 8:28
 
@@ -900,7 +900,7 @@ Quis ergo nos separabit a caritate Christi ? tribulatio ? an angustia ? an fames
 
 ** Romans 8:36
 
-(Sicut scriptum est : <div eID="gen32904" type="x-p"/> <lg sID="gen32905"/> <l level="1" sID="gen32906"/>Quia propter te mortificamur tota die : <l eID="gen32906" level="1"/> <l level="1" sID="gen32907"/>æstimati sumus sicut oves occisionis.)
+(Sicut scriptum est :   Quia propter te mortificamur tota die :  æstimati sumus sicut oves occisionis.)
 
 ** Romans 8:37
 
@@ -912,7 +912,7 @@ Certus sum enim quia neque mors, neque vita, neque angeli, neque principatus, ne
 
 ** Romans 8:39
 
-neque altitudo, neque profundum, neque creatura alia poterit nos separare a caritate Dei, quæ est in Christo Jesu Domino nostro. <l eID="gen32907" level="1"/><lg eID="gen32905"/> <chapter eID="Rom.8"/>
+neque altitudo, neque profundum, neque creatura alia poterit nos separare a caritate Dei, quæ est in Christo Jesu Domino nostro.  
 
 * Romans 9
 
@@ -966,7 +966,7 @@ non ex operibus, sed ex vocante dictum est ei quia major serviet minori,
 
 ** Romans 9:13
 
-sicut scriptum est : Jacob dilexi, Esau autem odio habui.  <div eID="gen32908" type="x-p"/>
+sicut scriptum est : Jacob dilexi, Esau autem odio habui.  
 
 ** Romans 9:14
 
@@ -1030,7 +1030,7 @@ Verbum enim consummans, et abbrevians in æquitate : quia verbum breviatum facie
 
 ** Romans 9:29
 
-et sicut prædixit Isaias : Nisi Dominus Sabaoth reliquisset nobis semen, sicut Sodoma facti essemus, et sicut Gomorrha similes fuissemus.  <div eID="gen32909" type="x-p"/>
+et sicut prædixit Isaias : Nisi Dominus Sabaoth reliquisset nobis semen, sicut Sodoma facti essemus, et sicut Gomorrha similes fuissemus.  
 
 ** Romans 9:30
 
@@ -1046,7 +1046,7 @@ Quare ? Quia non ex fide, sed quasi ex operibus : offenderunt enim in lapidem of
 
 ** Romans 9:33
 
-sicut scriptum est : Ecce pono in Sion lapidem offensionis, et petram scandali : et omnis qui credit in eum, non confundetur.  <chapter eID="Rom.9"/> <div eID="gen32910" type="x-p"/>
+sicut scriptum est : Ecce pono in Sion lapidem offensionis, et petram scandali : et omnis qui credit in eum, non confundetur.   
 
 * Romans 10
 
@@ -1064,7 +1064,7 @@ Ignorantes enim justitiam Dei, et suam quærentes statuere, justitiæ Dei non su
 
 ** Romans 10:4
 
-Finis enim legis, Christus, ad justitiam omni credenti.  <div eID="gen32911" type="x-p"/>
+Finis enim legis, Christus, ad justitiam omni credenti.  
 
 ** Romans 10:5
 
@@ -1100,7 +1100,7 @@ Non enim est distinctio Judæi et Græci : nam idem Dominus omnium, dives in omn
 
 ** Romans 10:13
 
-Omnis enim quicumque invocaverit nomen Domini, salvus erit.  <div eID="gen32912" type="x-p"/>
+Omnis enim quicumque invocaverit nomen Domini, salvus erit.  
 
 ** Romans 10:14
 
@@ -1132,7 +1132,7 @@ Isaias autem audet, et dicit : Inventus sum a non quærentibus me : palam apparu
 
 ** Romans 10:21
 
-Ad Israël autem dicit : Tota die expandi manus meas ad populum non credentem, et contradicentem.  <chapter eID="Rom.10"/> <div eID="gen32913" type="x-p"/>
+Ad Israël autem dicit : Tota die expandi manus meas ad populum non credentem, et contradicentem.   
 
 * Romans 11
 
@@ -1174,7 +1174,7 @@ Et David dicit : Fiat mensa eorum in laqueum, et in captionem, et in scandalum, 
 
 ** Romans 11:10
 
-Obscurentur oculi eorum ne videant : et dorsum eorum semper incurva.  <div eID="gen32914" type="x-p"/>
+Obscurentur oculi eorum ne videant : et dorsum eorum semper incurva.  
 
 ** Romans 11:11
 
@@ -1230,7 +1230,7 @@ Sed et illi, si non permanserint in incredulitate, inserentur : potens est enim 
 
 ** Romans 11:24
 
-Nam si tu ex naturali excisus es oleastro, et contra naturam insertus es in bonam olivam : quanto magis ii qui secundum naturam inserentur suæ olivæ ?  <div eID="gen32915" type="x-p"/>
+Nam si tu ex naturali excisus es oleastro, et contra naturam insertus es in bonam olivam : quanto magis ii qui secundum naturam inserentur suæ olivæ ?  
 
 ** Romans 11:25
 
@@ -1262,7 +1262,7 @@ ita et isti nunc non crediderunt in vestram misericordiam : ut et ipsi misericor
 
 ** Romans 11:32
 
-Conclusit enim Deus omnia in incredulitate, ut omnium misereatur.  <div eID="gen32916" type="x-p"/>
+Conclusit enim Deus omnia in incredulitate, ut omnium misereatur.  
 
 ** Romans 11:33
 
@@ -1278,7 +1278,7 @@ aut quis prior dedit illi, et retribuetur ei ?
 
 ** Romans 11:36
 
-Quoniam ex ipso, et per ipsum, et in ipso sunt omnia : ipsi gloria in sæcula. Amen.  <chapter eID="Rom.11"/> <div eID="gen32917" type="x-p"/>
+Quoniam ex ipso, et per ipsum, et in ipso sunt omnia : ipsi gloria in sæcula. Amen.   
 
 * Romans 12
 
@@ -1312,7 +1312,7 @@ sive ministerium in ministrando, sive qui docet in doctrina,
 
 ** Romans 12:8
 
-qui exhortatur in exhortando, qui tribuit in simplicitate, qui præest in sollicitudine, qui miseretur in hilaritate.  <div eID="gen32918" type="x-p"/>
+qui exhortatur in exhortando, qui tribuit in simplicitate, qui præest in sollicitudine, qui miseretur in hilaritate.  
 
 ** Romans 12:9
 
@@ -1364,7 +1364,7 @@ Sed si esurierit inimicus tuus, ciba illum : si sitit, potum da illi : hoc enim 
 
 ** Romans 12:21
 
-Noli vinci a malo, sed vince in bono malum.  <chapter eID="Rom.12"/> <div eID="gen32919" type="x-p"/>
+Noli vinci a malo, sed vince in bono malum.   
 
 * Romans 13
 
@@ -1394,7 +1394,7 @@ Ideo enim et tributa præstatis : ministri enim Dei sunt, in hoc ipsum serviente
 
 ** Romans 13:7
 
-Reddite ergo omnibus debita : cui tributum, tributum : cui vectigal, vectigal : cui timorem, timorem : cui honorem, honorem.  <div eID="gen32920" type="x-p"/>
+Reddite ergo omnibus debita : cui tributum, tributum : cui vectigal, vectigal : cui timorem, timorem : cui honorem, honorem.  
 
 ** Romans 13:8
 
@@ -1406,7 +1406,7 @@ Nam : Non adulterabis : non occides : non furaberis : non falsum testimonium dic
 
 ** Romans 13:10
 
-Dilectio proximi malum non operatur. Plenitudo ergo legis est dilectio.  <div eID="gen32921" type="x-p"/>
+Dilectio proximi malum non operatur. Plenitudo ergo legis est dilectio.  
 
 ** Romans 13:11
 
@@ -1422,7 +1422,7 @@ Sicut in die honeste ambulemus : non in comessationibus, et ebrietatibus, non in
 
 ** Romans 13:14
 
-sed induimini Dominum Jesum Christum, et carnis curam ne feceritis in desideriis.  <chapter eID="Rom.13"/> <div eID="gen32922" type="x-p"/>
+sed induimini Dominum Jesum Christum, et carnis curam ne feceritis in desideriis.   
 
 * Romans 14
 
@@ -1472,7 +1472,7 @@ Scriptum est enim : Vivo ego, dicit Dominus, quoniam mihi flectetur omne genu : 
 
 ** Romans 14:12
 
-Itaque unusquisque nostrum pro se rationem reddet Deo.  <div eID="gen32923" type="x-p"/>
+Itaque unusquisque nostrum pro se rationem reddet Deo.  
 
 ** Romans 14:13
 
@@ -1516,7 +1516,7 @@ Tu fidem habes ? penes temetipsum habe coram Deo. Beatus qui non judicat semetip
 
 ** Romans 14:23
 
-Qui autem discernit, si manducaverit, damnatus est : quia non ex fide. Omne autem, quod non est ex fide, peccatum est.  <chapter eID="Rom.14"/> <div eID="gen32924" type="x-p"/>
+Qui autem discernit, si manducaverit, damnatus est : quia non ex fide. Omne autem, quod non est ex fide, peccatum est.   
 
 * Romans 15
 
@@ -1570,7 +1570,7 @@ Et rursus Isaias ait : Erit radix Jesse, et qui exsurget regere gentes, in eum g
 
 ** Romans 15:13
 
-Deus autem spei repleat vos omni gaudio, et pace in credendo : ut abundetis in spe, et virtute Spiritus Sancti.  <div eID="gen32925" type="x-p"/>
+Deus autem spei repleat vos omni gaudio, et pace in credendo : ut abundetis in spe, et virtute Spiritus Sancti.  
 
 ** Romans 15:14
 
@@ -1602,7 +1602,7 @@ Sic autem prædicavi Evangelium hoc, non ubi nominatus est Christus, ne super al
 
 ** Romans 15:21
 
-sed sicut scriptum est : Quibus non est annuntiatum de eo, videbunt : et qui non audierunt, intelligent.  <div eID="gen32926" type="x-p"/>
+sed sicut scriptum est : Quibus non est annuntiatum de eo, videbunt : et qui non audierunt, intelligent.  
 
 ** Romans 15:22
 
@@ -1650,7 +1650,7 @@ ut veniam ad vos in gaudio per voluntatem Dei, et refrigerer vobiscum.
 
 ** Romans 15:33
 
-Deus autem pacis sit cum omnibus vobis. Amen.  <chapter eID="Rom.15"/> <div eID="gen32927" type="x-p"/>
+Deus autem pacis sit cum omnibus vobis. Amen.   
 
 * Romans 16
 
@@ -1748,7 +1748,7 @@ Salutat vos Cajus hospes meus, et universa ecclesia. Salutat vos Erastus arcariu
 
 ** Romans 16:24
 
-Gratia Domini nostri Jesu Christi cum omnibus vobis. Amen.  <div eID="gen32928" type="x-p"/>
+Gratia Domini nostri Jesu Christi cum omnibus vobis. Amen.  
 
 ** Romans 16:25
 
@@ -1760,5 +1760,5 @@ Ei autem, qui potens est vos confirmare juxta Evangelium meum, et prædicationem
 
 ** Romans 16:27
 
-soli sapienti Deo, per Jesum Christum, cui honor et gloria in sæcula sæculorum. Amen.  <div eID="gen32929" type="x-p"/> <chapter eID="Rom.16"/> <div eID="gen32857" osisID="Rom" type="book"/>
+soli sapienti Deo, per Jesum Christum, cui honor et gloria in sæcula sæculorum. Amen.    
 

@@ -98,7 +98,7 @@ And Joseph rising up from sleep, did as the angel of the Lord had commanded him,
 
 *** Matthew 1:25
 
-And he knew her not, till she brought forth her first born son: and he called his name Jesus. <chapter eID="gen28988" osisID="Matt.1"/>
+And he knew her not, till she brought forth her first born son: and he called his name Jesus. 
 
 ** Matthew 2
 
@@ -192,7 +192,7 @@ But hearing that Archclaus reigned in Judea in the room of Herod his father, he 
 
 *** Matthew 2:23
 
-And coming he dwelt in a city called Nazareth: that it might be fulfilled which was said by the prophets: That he shall be called a Nazarene. <chapter eID="gen29014" osisID="Matt.2"/>
+And coming he dwelt in a city called Nazareth: that it might be fulfilled which was said by the prophets: That he shall be called a Nazarene. 
 
 ** Matthew 3
 
@@ -262,7 +262,7 @@ And Jesus being baptized, forthwith came out of the water: and lo, the heavens w
 
 *** Matthew 3:17
 
-And behold a voice from heaven saying: This is my beloved Son, in whom I am well pleased. <chapter eID="gen29038" osisID="Matt.3"/>
+And behold a voice from heaven saying: This is my beloved Son, in whom I am well pleased. 
 
 ** Matthew 4
 
@@ -364,7 +364,7 @@ And his fame went throughout all Syria, and they presented to him all sick peopl
 
 *** Matthew 4:25
 
-And much people followed him from Galilee, and from Decapolis, and from Jerusalem, and from Judea, and from beyond the Jordan. <chapter eID="gen29056" osisID="Matt.4"/>
+And much people followed him from Galilee, and from Decapolis, and from Jerusalem, and from Judea, and from beyond the Jordan. 
 
 ** Matthew 5
 
@@ -558,7 +558,7 @@ And if you salute your brethren only, what do you more? do not also the heathens
 
 *** Matthew 5:48
 
-Be you therefore perfect, as also your heavenly Father is perfect. <chapter eID="gen29082" osisID="Matt.5"/>
+Be you therefore perfect, as also your heavenly Father is perfect. 
 
 ** Matthew 6
 
@@ -696,7 +696,7 @@ Seek ye therefore first the kingdom of God, and his justice, and all these thing
 
 *** Matthew 6:34
 
-Be not therefore solicitous for to morrow; for the morrow will be solicitous for itself. Sufficient for the day is the evil thereof. <chapter eID="gen29131" osisID="Matt.6"/>
+Be not therefore solicitous for to morrow; for the morrow will be solicitous for itself. Sufficient for the day is the evil thereof. 
 
 ** Matthew 7
 
@@ -814,7 +814,7 @@ And it came to pass when Jesus had fully ended these words, the people were in a
 
 *** Matthew 7:29
 
-For he was teaching them as one having power, and not as the scribes and Pharisees. <chapter eID="gen29166" osisID="Matt.7"/>
+For he was teaching them as one having power, and not as the scribes and Pharisees. 
 
 ** Matthew 8
 
@@ -952,7 +952,7 @@ And they that kept them fled: and coming into the city, told every thing, and co
 
 *** Matthew 8:34
 
-And behold the whole city went out to meet Jesus, and when they saw him, they besought him that he would depart from their coast. <chapter eID="gen29196" osisID="Matt.8"/>
+And behold the whole city went out to meet Jesus, and when they saw him, they besought him that he would depart from their coast. 
 
 ** Matthew 9
 
@@ -1106,7 +1106,7 @@ Then he saith to his disciples, The harvest indeed is great, but the labourers a
 
 *** Matthew 9:38
 
-Pray ye therefore the Lord of the harvest, that he send forth labourers into his harvest. <chapter eID="gen29231" osisID="Matt.9"/>
+Pray ye therefore the Lord of the harvest, that he send forth labourers into his harvest. 
 
 ** Matthew 10
 
@@ -1276,7 +1276,7 @@ He that receiveth a prophet in the name of a prophet, shall receive the reward o
 
 *** Matthew 10:42
 
-And whosoever shall give to drink to one of these little ones a cup of cold water only in the name of a disciple, amen I say to you he shall not lose his reward. <chapter eID="gen29270" osisID="Matt.10"/>
+And whosoever shall give to drink to one of these little ones a cup of cold water only in the name of a disciple, amen I say to you he shall not lose his reward. 
 
 ** Matthew 11
 
@@ -1398,7 +1398,7 @@ Take up my yoke upon you, and learn of me, because I am meek, and humble of hear
 
 *** Matthew 11:30
 
-For my yoke is sweet and my burden light. <chapter eID="gen29313" osisID="Matt.11"/>
+For my yoke is sweet and my burden light. 
 
 ** Matthew 12
 
@@ -1600,7 +1600,7 @@ And stretching forth his hand towards his disciples, he said: Behold my mother a
 
 *** Matthew 12:50
 
-For whosoever shall do the will of my Father, that is in heaven, he is my brother, and sister, and mother. <chapter eID="gen29344" osisID="Matt.12"/>
+For whosoever shall do the will of my Father, that is in heaven, he is my brother, and sister, and mother. 
 
 ** Matthew 13
 
@@ -1834,7 +1834,7 @@ And they were scandalized in his regard. But Jesus said to them: A prophet is no
 
 *** Matthew 13:58
 
-And he wrought not many miracles there, because of their unbelief. <chapter eID="gen29395" osisID="Matt.13"/>
+And he wrought not many miracles there, because of their unbelief. 
 
 ** Matthew 14
 
@@ -1980,7 +1980,7 @@ And when the men of that place had knowledge of him, they sent into all that cou
 
 *** Matthew 14:36
 
-And they besought him that they might touch but the hem of his garment. And as many as touched, were made whole. <chapter eID="gen29454" osisID="Matt.14"/>
+And they besought him that they might touch but the hem of his garment. And as many as touched, were made whole. 
 
 ** Matthew 15
 
@@ -2138,7 +2138,7 @@ And they that did eat, were four thousand men, beside children and women.
 
 *** Matthew 15:39
 
-And having dismissed the multitude, he went up into a boat, and came into the coasts of Magedan. <chapter eID="gen29491" osisID="Matt.15"/>
+And having dismissed the multitude, he went up into a boat, and came into the coasts of Magedan. 
 
 ** Matthew 16
 
@@ -2252,7 +2252,7 @@ For the Son of man shall come in the glory of his Father with his angels: and th
 
 *** Matthew 16:28
 
-Amen I say to you, there are some of them that stand here, that shall not taste death, till they see the Son of man coming in his kingdom. <chapter eID="gen29531" osisID="Matt.16"/>
+Amen I say to you, there are some of them that stand here, that shall not taste death, till they see the Son of man coming in his kingdom. 
 
 ** Matthew 17
 
@@ -2358,7 +2358,7 @@ And he said: Of strangers. Jesus said to him: Then the children are free.
 
 *** Matthew 17:26
 
-But that we may not scandalize them, go to the sea, and cast in a hook: and that fish which shall first come up, take: and when thou hast opened it's mouth, thou shalt find a stater: take that, and give it to them for me and thee. <chapter eID="gen29560" osisID="Matt.17"/>
+But that we may not scandalize them, go to the sea, and cast in a hook: and that fish which shall first come up, take: and when thou hast opened it's mouth, thou shalt find a stater: take that, and give it to them for me and thee. 
 
 ** Matthew 18
 
@@ -2500,7 +2500,7 @@ And his lord being angry, delivered him to the torturers until he paid all the d
 
 *** Matthew 18:35
 
-So also shall my heavenly Father do to you, if you forgive not every one his brother from your hearts. <chapter eID="gen29587" osisID="Matt.18"/>
+So also shall my heavenly Father do to you, if you forgive not every one his brother from your hearts. 
 
 ** Matthew 19
 
@@ -2622,7 +2622,7 @@ And every one that hath left house, or brethren, or sisters, or father, or mothe
 
 *** Matthew 19:30
 
-And many that are first, shall be last: and the last shall be first. <chapter eID="gen29623" osisID="Matt.19"/>
+And many that are first, shall be last: and the last shall be first. 
 
 ** Matthew 20
 
@@ -2760,7 +2760,7 @@ They say to him: Lord, that our eyes be opened.
 
 *** Matthew 20:34
 
-And Jesus having compassion on them, touched their eyes. And immediately they saw and followed him. <chapter eID="gen29654" osisID="Matt.20"/>
+And Jesus having compassion on them, touched their eyes. And immediately they saw and followed him. 
 
 ** Matthew 21
 
@@ -2946,7 +2946,7 @@ And when the chief priests and Pharisees had heard his parables, they knew that 
 
 *** Matthew 21:46
 
-And seeking to lay hands on him, they feared the multitudes, because they held him as a prophet. <chapter eID="gen29689" osisID="Matt.21"/>
+And seeking to lay hands on him, they feared the multitudes, because they held him as a prophet. 
 
 ** Matthew 22
 
@@ -3132,7 +3132,7 @@ If David then call him Lord, how is he his son?
 
 *** Matthew 22:46
 
-And no man was able to answer him a word: neither durst any man from that day forth ask him any more questions. <chapter eID="gen29736" osisID="Matt.22"/>
+And no man was able to answer him a word: neither durst any man from that day forth ask him any more questions. 
 
 ** Matthew 23
 
@@ -3290,7 +3290,7 @@ Behold, your house shall be left to you, desolate.
 
 *** Matthew 23:39
 
-For I say to you, you shall not see me henceforth till you say: Blessed is he that cometh in the name of the Lord. <chapter eID="gen29783" osisID="Matt.23"/>
+For I say to you, you shall not see me henceforth till you say: Blessed is he that cometh in the name of the Lord. 
 
 ** Matthew 24
 
@@ -3496,7 +3496,7 @@ The lord of that servant shall come in a day that he hopeth not and at an hour t
 
 *** Matthew 24:51
 
-And shall separate him and appoint his portion with the hypocrites. There shall be weeping and gnashing of teeth. <chapter eID="gen29823" osisID="Matt.24"/>
+And shall separate him and appoint his portion with the hypocrites. There shall be weeping and gnashing of teeth. 
 
 ** Matthew 25
 
@@ -3682,7 +3682,7 @@ Then he shall answer them, saying: Amen: I say to you, as long as you did it not
 
 *** Matthew 25:46
 
-And these shall go into everlasting punishment: but the just, into life everlasting. <chapter eID="gen29875" osisID="Matt.25"/>
+And these shall go into everlasting punishment: but the just, into life everlasting. 
 
 ** Matthew 26
 
@@ -3984,7 +3984,7 @@ Then he began to curse and to swear that he knew not the man. And immediately th
 
 *** Matthew 26:75
 
-And Peter remembered the word of Jesus which he had said: Before the cock crow, thou wilt deny me thrice. And going forth, he wept bitterly. <chapter eID="gen29922" osisID="Matt.26"/>
+And Peter remembered the word of Jesus which he had said: Before the cock crow, thou wilt deny me thrice. And going forth, he wept bitterly. 
 
 ** Matthew 27
 
@@ -4250,7 +4250,7 @@ Pilate saith to them: You have a guard. Go, guard it as you know.
 
 *** Matthew 27:66
 
-And they departing, made the sepulchre sure, sealing the stone and setting guards. <chapter eID="gen29998" osisID="Matt.27"/>
+And they departing, made the sepulchre sure, sealing the stone and setting guards. 
 
 ** Matthew 28
 
@@ -4332,4 +4332,4 @@ Going therefore, teach ye all nations: baptizing them in the name of the Father 
 
 *** Matthew 28:20
 
-Teaching them to observe all things whatsoever I have commanded you. And behold I am with you all days, even to the consummation of the world. <chapter eID="gen30065" osisID="Matt.28"/> <div eID="gen28987" osisID="Matt" type="book"/>
+Teaching them to observe all things whatsoever I have commanded you. And behold I am with you all days, even to the consummation of the world.  

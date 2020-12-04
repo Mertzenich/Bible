@@ -2522,7 +2522,7 @@ Peter saith to him: Why cannot I follow thee now? I will lay down my life for th
 
 *** John 13:38
 
-Jesus answered him: Wilt thou lay down thy life for me? Amen, amen, I say to thee, the cock shall not crow, till thou deny me thrice. <chapter eID="gen32555" osisID="John.13"/>
+Jesus answered him: Wilt thou lay down thy life for me? Amen, amen, I say to thee, the cock shall not crow, till thou deny me thrice. 
 
 ** John 14
 
@@ -2648,7 +2648,7 @@ I will not now speak many things with you. For the prince of this world: cometh:
 
 *** John 14:31
 
-But that the world may know that I love the Father: and as the Father hath given me commandments, so do I. Arise, let us go hence. <chapter eID="gen32594" osisID="John.14"/>
+But that the world may know that I love the Father: and as the Father hath given me commandments, so do I. Arise, let us go hence. 
 
 ** John 15
 
@@ -2758,7 +2758,7 @@ But when the Paraclete cometh, whom I will send you from the Father, the Spirit 
 
 *** John 15:27
 
-And you shall give testimony, because you are with me from the beginning. <chapter eID="gen32626" osisID="John.15"/>
+And you shall give testimony, because you are with me from the beginning. 
 
 ** John 16
 
@@ -2892,7 +2892,7 @@ Behold, the hour cometh, and it is now come, that you shall be scattered every m
 
 *** John 16:33
 
-These things I have spoken to you, that in me you may have peace. In the world you shall have distress. But have confidence. I have overcome the world. <chapter eID="gen32654" osisID="John.16"/>
+These things I have spoken to you, that in me you may have peace. In the world you shall have distress. But have confidence. I have overcome the world. 
 
 ** John 17
 
@@ -2998,7 +2998,7 @@ Just Father, the world hath not known thee: but I have known thee. And these hav
 
 *** John 17:26
 
-And I have made known thy name to them and will make it known: that the love wherewith thou hast loved me may be in them, and I in them. <chapter eID="gen32688" osisID="John.17"/>
+And I have made known thy name to them and will make it known: that the love wherewith thou hast loved me may be in them, and I in them. 
 
 ** John 18
 
@@ -3160,7 +3160,7 @@ But you have a custom that I should release one unto you at the Pasch. Will you,
 
 *** John 18:40
 
-Then cried they all again, saying: Not this man, but Barabbas. Now Barabbas was a robber. <chapter eID="gen32715" osisID="John.18"/>
+Then cried they all again, saying: Not this man, but Barabbas. Now Barabbas was a robber. 
 
 ** John 19
 
@@ -3330,7 +3330,7 @@ Now there was in the place where he was crucified a garden: and in the garden a 
 
 *** John 19:42
 
-There, therefore, because of the parasceve of the Jews, they laid Jesus: because the sepulchre was nigh at hand. <chapter eID="gen32756" osisID="John.19"/>
+There, therefore, because of the parasceve of the Jews, they laid Jesus: because the sepulchre was nigh at hand. 
 
 ** John 20
 
@@ -3456,7 +3456,7 @@ Many other signs also did Jesus in the sight of his disciples, which are not wri
 
 *** John 20:31
 
-But these are written, that you may believe that Jesus is the Christ, the Son of God: and that believing, you may have life in his name. <chapter eID="gen32799" osisID="John.20"/>
+But these are written, that you may believe that Jesus is the Christ, the Son of God: and that believing, you may have life in his name. 
 
 ** John 21
 
@@ -3558,4 +3558,4 @@ This is that disciple who giveth testimony of these things and hath written thes
 
 *** John 21:25
 
-But there are also many other things which Jesus did which, if they were written every one, the world itself. I think, would not be able to contain the books that should be written. <chapter eID="gen32831" osisID="John.21"/> <div eID="gen31956" osisID="John" type="book"/>
+But there are also many other things which Jesus did which, if they were written every one, the world itself. I think, would not be able to contain the books that should be written.  

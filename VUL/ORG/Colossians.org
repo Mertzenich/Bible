@@ -10,7 +10,7 @@ eis, qui sunt Colossis, sanctis, et fidelibus fratribus in Christo Jesu.
 
 ** Colossians 1:3
 
-Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo. <div eID="gen33081" type="x-p"/> <div sID="gen33082" type="x-p"/> Gratias agimus Deo, et Patri Domini nostri Jesu Christi semper pro vobis orantes :
+Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.   Gratias agimus Deo, et Patri Domini nostri Jesu Christi semper pro vobis orantes :
 
 ** Colossians 1:4
 
@@ -66,7 +66,7 @@ quoniam in ipso condita sunt universa in cælis, et in terra, visibilia, et invi
 
 ** Colossians 1:17
 
-et ipse est ante omnes, et omnia in ipso constant.  <div eID="gen33082" type="x-p"/>
+et ipse est ante omnes, et omnia in ipso constant.  
 
 ** Colossians 1:18
 
@@ -90,7 +90,7 @@ nunc autem reconciliavit in corpore carnis ejus per mortem, exhibere vos sanctos
 
 ** Colossians 1:23
 
-si tamen permanetis in fide fundati, et stabiles, et immobiles a spe Evangelii, quod audistis, quod prædicatum est in universa creatura, quæ sub cælo est, cujus factus sum ego Paulus minister.  <div eID="gen33083" type="x-p"/>
+si tamen permanetis in fide fundati, et stabiles, et immobiles a spe Evangelii, quod audistis, quod prædicatum est in universa creatura, quæ sub cælo est, cujus factus sum ego Paulus minister.  
 
 ** Colossians 1:24
 
@@ -114,7 +114,7 @@ quem nos annuntiamus, corripientes omnem hominem, et docentes omnem hominem, in 
 
 ** Colossians 1:29
 
-in quo et laboro, certando secundum operationem ejus, quam operatur in me in virtute.  <chapter eID="Col.1"/> <div eID="gen33084" type="x-p"/>
+in quo et laboro, certando secundum operationem ejus, quam operatur in me in virtute.   
 
 * Colossians 2
 
@@ -128,7 +128,7 @@ ut consolentur corda ipsorum, instructi in caritate, et in omnes divitias plenit
 
 ** Colossians 2:3
 
-in quo sunt omnes thesauri sapientiæ et scientiæ absconditi.  <div eID="gen33085" type="x-p"/>
+in quo sunt omnes thesauri sapientiæ et scientiæ absconditi.  
 
 ** Colossians 2:4
 
@@ -176,7 +176,7 @@ delens quod adversus nos erat chirographum decreti, quod erat contrarium nobis, 
 
 ** Colossians 2:15
 
-et expolians principatus, et potestates traduxit confidenter, palam triumphans illos in semetipso.  <div eID="gen33086" type="x-p"/>
+et expolians principatus, et potestates traduxit confidenter, palam triumphans illos in semetipso.  
 
 ** Colossians 2:16
 
@@ -208,7 +208,7 @@ quæ sunt omnia in interitum ipso usu, secundum præcepta et doctrinas hominum :
 
 ** Colossians 2:23
 
-quæ sunt rationem quidem habentia sapientiæ in superstitione, et humilitate, et non ad parcendum corpori, non in honore aliquo ad saturitatem carnis.  <chapter eID="Col.2"/> <div eID="gen33087" type="x-p"/>
+quæ sunt rationem quidem habentia sapientiæ in superstitione, et humilitate, et non ad parcendum corpori, non in honore aliquo ad saturitatem carnis.   
 
 * Colossians 3
 
@@ -278,7 +278,7 @@ Verbum Christi habitet in vobis abundanter, in omni sapientia, docentes, et comm
 
 ** Colossians 3:17
 
-Omne, quodcumque facitis in verbo aut in opere, omnia in nomine Domini Jesu Christi, gratias agentes Deo et Patri per ipsum.  <div eID="gen33088" type="x-p"/>
+Omne, quodcumque facitis in verbo aut in opere, omnia in nomine Domini Jesu Christi, gratias agentes Deo et Patri per ipsum.  
 
 ** Colossians 3:18
 
@@ -310,13 +310,13 @@ scientes quod a Domino accipietis retributionem hæreditatis. Domino Christo ser
 
 ** Colossians 3:25
 
-Qui enim injuriam facit, recipiet id quod inique gessit : et non est personarum acceptio apud Deum.  <chapter eID="Col.3"/> <div eID="gen33089" type="x-p"/>
+Qui enim injuriam facit, recipiet id quod inique gessit : et non est personarum acceptio apud Deum.   
 
 * Colossians 4
 
 ** Colossians 4:1
 
-Domini, quod justum est et æquum, servis præstate : scientes quod et vos Dominum habetis in cælo.  <div eID="gen33090" type="x-p"/>
+Domini, quod justum est et æquum, servis præstate : scientes quod et vos Dominum habetis in cælo.  
 
 ** Colossians 4:2
 
@@ -336,7 +336,7 @@ In sapientia ambulate ad eos, qui foris sunt : tempus redimentes.
 
 ** Colossians 4:6
 
-Sermo vester semper in gratia sale sit conditus, ut sciatis quomodo oporteat vos unicuique respondere.  <div eID="gen33091" type="x-p"/>
+Sermo vester semper in gratia sale sit conditus, ut sciatis quomodo oporteat vos unicuique respondere.  
 
 ** Colossians 4:7
 
@@ -348,7 +348,7 @@ quem misi ad vos ad hoc ipsum, ut cognoscat quæ circa vos sunt, et consoletur c
 
 ** Colossians 4:9
 
-cum Onesimo carissimo, et fideli fratre, qui ex vobis est. Omnia, quæ hic aguntur, nota facient vobis.  <div eID="gen33092" type="x-p"/>
+cum Onesimo carissimo, et fideli fratre, qui ex vobis est. Omnia, quæ hic aguntur, nota facient vobis.  
 
 ** Colossians 4:10
 
@@ -384,5 +384,5 @@ Et dicite Archippo : Vide ministerium, quod accepisti in Domino, ut illud implea
 
 ** Colossians 4:18
 
-Salutatio, mea manu Pauli. Memores estote vinculorum meorum. Gratia vobiscum. Amen.  <div eID="gen33093" type="x-p"/> <chapter eID="Col.4"/> <div eID="gen33080" osisID="Col" type="book"/>
+Salutatio, mea manu Pauli. Memores estote vinculorum meorum. Gratia vobiscum. Amen.    
 

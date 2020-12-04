@@ -182,7 +182,7 @@ And when you returned and wept before the Lord, he heard you not, neither would 
 
 *** Deuteronomy 1:46
 
-So you abode in Cadesbarne a long time. <chapter eID="gen5046" osisID="Deut.1"/>
+So you abode in Cadesbarne a long time. 
 
 ** Deuteronomy 2
 
@@ -332,7 +332,7 @@ From Aroer, which is upon the bank of the torrent Arnon, a town that is situate 
 
 *** Deuteronomy 2:37
 
-Except the land of the children of Ammon, to which we approached not: and all that border upon the torrent Jeboc, and the cities in the mountains, and all the places which the Lord our God forbade us. <chapter eID="gen5093" osisID="Deut.2"/>
+Except the land of the children of Ammon, to which we approached not: and all that border upon the torrent Jeboc, and the cities in the mountains, and all the places which the Lord our God forbade us. 
 
 ** Deuteronomy 3
 
@@ -450,7 +450,7 @@ Command Josue, and encourage and strengthen him: for he shall go before this peo
 
 *** Deuteronomy 3:29
 
-And we abode in the valley over against the temple of Phogor. <chapter eID="gen5131" osisID="Deut.3"/>
+And we abode in the valley over against the temple of Phogor. 
 
 ** Deuteronomy 4
 
@@ -648,7 +648,7 @@ From Aroer, which is situate upon the bank of the torrent Arnon, unto mount Sion
 
 *** Deuteronomy 4:49
 
-All the plain beyond the Jordan at the east side, unto the sea of the wilderness, and unto the foot of mount Phasga. <chapter eID="gen5161" osisID="Deut.4"/>
+All the plain beyond the Jordan at the east side, unto the sea of the wilderness, and unto the foot of mount Phasga. 
 
 ** Deuteronomy 5
 
@@ -782,7 +782,7 @@ Keep therefore and do the things which the Lord God hath commanded you: you shal
 
 *** Deuteronomy 5:33
 
-But you shall walk in the way that the Lord your God hath commanded, that you may live, and it may be well with you, and your days may be long in the land of your possession. <chapter eID="gen5211" osisID="Deut.5"/>
+But you shall walk in the way that the Lord your God hath commanded, that you may live, and it may be well with you, and your days may be long in the land of your possession. 
 
 ** Deuteronomy 6
 
@@ -884,7 +884,7 @@ And the Lord commanded that we should do all these ordinances, and should fear t
 
 *** Deuteronomy 6:25
 
-And he will be merciful to us, if we keep and do all his precepts before the Lord our God, as he hath commanded us. <chapter eID="gen5245" osisID="Deut.6"/>
+And he will be merciful to us, if we keep and do all his precepts before the Lord our God, as he hath commanded us. 
 
 ** Deuteronomy 7
 
@@ -990,7 +990,7 @@ Their graven things thou shalt burn with fire: thou shalt not covet the silver a
 
 *** Deuteronomy 7:26
 
-Neither shalt thou bring any thing of the idol into thy house, lest thou become an anathema, like it. Thou shalt detest it as dung, and shalt utterly abhor it as uncleanness and filth, because it is an anathema. <chapter eID="gen5271" osisID="Deut.7"/>
+Neither shalt thou bring any thing of the idol into thy house, lest thou become an anathema, like it. Thou shalt detest it as dung, and shalt utterly abhor it as uncleanness and filth, because it is an anathema. 
 
 ** Deuteronomy 8
 
@@ -1072,7 +1072,7 @@ But if thou forget the Lord thy God, and follow strange gods, and serve and ador
 
 *** Deuteronomy 8:20
 
-As the nations, which the Lord destroyed at thy entrance, so shall you also perish, if you be disobedient to the voice of the Lord your God. <chapter eID="gen5298" osisID="Deut.8"/>
+As the nations, which the Lord destroyed at thy entrance, so shall you also perish, if you be disobedient to the voice of the Lord your God. 
 
 ** Deuteronomy 9
 
@@ -1190,7 +1190,7 @@ Lest perhaps the inhabitants of the land, out of which thou hast brought us, say
 
 *** Deuteronomy 9:29
 
-Who are thy people and thy inheritance, whom thou hast brought out by thy great strength, and in thy stretched out arm. <chapter eID="gen5319" osisID="Deut.9"/>
+Who are thy people and thy inheritance, whom thou hast brought out by thy great strength, and in thy stretched out arm. 
 
 ** Deuteronomy 10
 
@@ -1280,7 +1280,7 @@ He is thy praise, and thy God, that hath done for thee these great and terrible 
 
 *** Deuteronomy 10:22
 
-In seventy souls thy fathers went down into Egypt: and behold now the Lord thy God hath multiplied thee as the stars of heaven. <chapter eID="gen5349" osisID="Deut.10"/>
+In seventy souls thy fathers went down into Egypt: and behold now the Lord thy God hath multiplied thee as the stars of heaven. 
 
 ** Deuteronomy 11
 
@@ -1410,7 +1410,7 @@ For you shall pass over the Jordan, to possess the land, which the Lord your God
 
 *** Deuteronomy 11:32
 
-See therefore that you fulfil the ceremonies and judgments, which I shall set this day before you. <chapter eID="gen5372" osisID="Deut.11"/>
+See therefore that you fulfil the ceremonies and judgments, which I shall set this day before you. 
 
 ** Deuteronomy 12
 
@@ -1540,7 +1540,7 @@ Thou shalt not do in like manner to the Lord thy God. For they have done to thei
 
 *** Deuteronomy 12:32
 
-What I command thee, that only do thou to the Lord: neither add any thing, nor diminish. <chapter eID="gen5405" osisID="Deut.12"/>
+What I command thee, that only do thou to the Lord: neither add any thing, nor diminish. 
 
 ** Deuteronomy 13
 
@@ -1614,7 +1614,7 @@ And there shall nothing of that anathema stick to thy hand: that the Lord may tu
 
 *** Deuteronomy 13:18
 
-When thou shalt hear the voice of the Lord thy God, keeping all his precepts, which I command thee this day, that thou mayst do what is pleasing in the sight of the Lord thy God. <chapter eID="gen5438" osisID="Deut.13"/>
+When thou shalt hear the voice of the Lord thy God, keeping all his precepts, which I command thee this day, that thou mayst do what is pleasing in the sight of the Lord thy God. 
 
 ** Deuteronomy 14
 
@@ -1732,7 +1732,7 @@ The third year thou shalt separate another tithe of all things that grow to thee
 
 *** Deuteronomy 14:29
 
-And the Levite that hath no other part nor possession with thee, and the stranger and the fatherless and the widow, that are within thy gates, shall come and shall eat and be filled: that the Lord thy God may bless thee in all the works of thy hands that thou shalt do. <chapter eID="gen5457" osisID="Deut.14"/>
+And the Levite that hath no other part nor possession with thee, and the stranger and the fatherless and the widow, that are within thy gates, shall come and shall eat and be filled: that the Lord thy God may bless thee in all the works of thy hands that thou shalt do. 
 
 ** Deuteronomy 15
 
@@ -1826,7 +1826,7 @@ But thou shalt eat it within the gates of thy city: the clean and the unclean sh
 
 *** Deuteronomy 15:23
 
-Only thou shalt take heed not to eat their blood, but pour it out on the earth as water. <chapter eID="gen5487" osisID="Deut.15"/>
+Only thou shalt take heed not to eat their blood, but pour it out on the earth as water. 
 
 ** Deuteronomy 16
 
@@ -1916,7 +1916,7 @@ Thou shalt plant no grove, nor any tree near the altar of the Lord thy God:
 
 *** Deuteronomy 16:22
 
-Neither shalt thou make nor set up to thyself a statue: which things the Lord thy God hateth. <chapter eID="gen5511" osisID="Deut.16"/>
+Neither shalt thou make nor set up to thyself a statue: which things the Lord thy God hateth. 
 
 ** Deuteronomy 17
 
@@ -1998,7 +1998,7 @@ And he shall have it with him, and shall read it all the days of his life, that 
 
 *** Deuteronomy 17:20
 
-And that his heart be not lifted up with pride over his brethren, nor decline to the right or to the left, that he and his sons may reign a long time over Israel. <chapter eID="gen5534" osisID="Deut.17"/>
+And that his heart be not lifted up with pride over his brethren, nor decline to the right or to the left, that he and his sons may reign a long time over Israel. 
 
 ** Deuteronomy 18
 
@@ -2088,7 +2088,7 @@ And if in silent thought thou answer: How shall I know the word that the Lord ha
 
 *** Deuteronomy 18:22
 
-Thou shalt have this sign: Whatsoever that same prophet foretelleth in the name of the Lord, and it cometh not to pass: that thing the Lord hath not spoken, but the prophet hath forged it by the pride of his mind: and therefore thou shalt not fear him. <chapter eID="gen5555" osisID="Deut.18"/>
+Thou shalt have this sign: Whatsoever that same prophet foretelleth in the name of the Lord, and it cometh not to pass: that thing the Lord hath not spoken, but the prophet hath forged it by the pride of his mind: and therefore thou shalt not fear him. 
 
 ** Deuteronomy 19
 
@@ -2174,7 +2174,7 @@ That others hearing may fear, and may not dare to do such things.
 
 *** Deuteronomy 19:21
 
-Thou shalt not pity him, but shalt require life for life, eye for eye, tooth for tooth, hand for hand, foot for foot. <chapter eID="gen5578" osisID="Deut.19"/>
+Thou shalt not pity him, but shalt require life for life, eye for eye, tooth for tooth, hand for hand, foot for foot. 
 
 ** Deuteronomy 20
 
@@ -2256,7 +2256,7 @@ When thou hast besieged a city a long time, and hath compassed it with bulwarks,
 
 *** Deuteronomy 20:20
 
-But if there be any trees that are not fruitful, but wild, and fit for other uses, cut them down, and make engines, until thou take the city, which fighteth against thee. <chapter eID="gen5600" osisID="Deut.20"/>
+But if there be any trees that are not fruitful, but wild, and fit for other uses, cut them down, and make engines, until thou take the city, which fighteth against thee. 
 
 ** Deuteronomy 21
 
@@ -2350,7 +2350,7 @@ When a man hath committed a crime for which he is to be punished with death, and
 
 *** Deuteronomy 21:23
 
-His body shall not remain upon the tree, but shall be buried the same day: for he is accursed of God that hangeth on a tree: and thou shalt not defile thy land, which the Lord thy God shall give thee in possession. <chapter eID="gen5621" osisID="Deut.21"/>
+His body shall not remain upon the tree, but shall be buried the same day: for he is accursed of God that hangeth on a tree: and thou shalt not defile thy land, which the Lord thy God shall give thee in possession. 
 
 ** Deuteronomy 22
 
@@ -2472,7 +2472,7 @@ He that lay with her shall give to the father of the maid fifty sicles of silver
 
 *** Deuteronomy 22:30
 
-No man shall take his father's wife, nor remove his covering. <chapter eID="gen5645" osisID="Deut.22"/>
+No man shall take his father's wife, nor remove his covering. 
 
 ** Deuteronomy 23
 
@@ -2574,7 +2574,7 @@ Going into thy neighbour's vineyard, thou mayst eat as many grapes as thou pleas
 
 *** Deuteronomy 23:25
 
-If thou go into thy friend's corn, thou mayst break the ears, and rub them in thy hand: but not reap them with a sickle. <chapter eID="gen5676" osisID="Deut.23"/>
+If thou go into thy friend's corn, thou mayst break the ears, and rub them in thy hand: but not reap them with a sickle. 
 
 ** Deuteronomy 24
 
@@ -2664,7 +2664,7 @@ If thou make the vintage of thy vineyard, thou shalt not gather the clusters tha
 
 *** Deuteronomy 24:22
 
-Remember that thou also wast a bondman in Egypt, and therefore I command thee to do this thing. <chapter eID="gen5702" osisID="Deut.24"/>
+Remember that thou also wast a bondman in Egypt, and therefore I command thee to do this thing. 
 
 ** Deuteronomy 25
 
@@ -2742,7 +2742,7 @@ How he met thee: and slew the hindmost of the army, who sat down, being weary, w
 
 *** Deuteronomy 25:19
 
-Therefore when the Lord thy God shall give thee rest, and shall have subdued all the nations round about in the land which he hath promised thee: thou shalt blot out his name from under heaven. See thou forget it not. <chapter eID="gen5725" osisID="Deut.25"/>
+Therefore when the Lord thy God shall give thee rest, and shall have subdued all the nations round about in the land which he hath promised thee: thou shalt blot out his name from under heaven. See thou forget it not. 
 
 ** Deuteronomy 26
 
@@ -2820,7 +2820,7 @@ And the Lord hath chosen thee this day, to be his peculiar people, as he hath sp
 
 *** Deuteronomy 26:19
 
-And to make thee higher than all nations which he hath created, to his own praise, and name, and glory: that thou mayst be a holy people of the Lord thy God, as he hath spoken. <chapter eID="gen5745" osisID="Deut.26"/>
+And to make thee higher than all nations which he hath created, to his own praise, and name, and glory: that thou mayst be a holy people of the Lord thy God, as he hath spoken. 
 
 ** Deuteronomy 27
 
@@ -2926,7 +2926,7 @@ Cursed be he that taketh gifts, to slay an innocent person: and all the people s
 
 *** Deuteronomy 27:26
 
-Cursed be he that abideth not in the words of this law, and fulfilleth them not in work: and all the people shall say: Amen. <chapter eID="gen5765" osisID="Deut.27"/>
+Cursed be he that abideth not in the words of this law, and fulfilleth them not in work: and all the people shall say: Amen. 
 
 ** Deuteronomy 28
 
@@ -3200,7 +3200,7 @@ In the morning thou shalt say: Who will grant me evening? and at evening: Who wi
 
 *** Deuteronomy 28:68
 
-The Lord shall bring thee again with ships into Egypt, by the way whereof he said to thee that thou shouldst see it no more. There shalt thou be set to sale to thy enemies for bondmen and bondwomen, and no man shall buy you. <chapter eID="gen5792" osisID="Deut.28"/>
+The Lord shall bring thee again with ships into Egypt, by the way whereof he said to thee that thou shouldst see it no more. There shalt thou be set to sale to thy enemies for bondmen and bondwomen, and no man shall buy you. 
 
 ** Deuteronomy 29
 
@@ -3318,7 +3318,7 @@ And he hath cast them out of their land, in anger and in wrath, and in very grea
 
 *** Deuteronomy 29:29
 
-Secret things to the Lord our God: things that are manifest, to us and to our children for ever, that we may do all the words of this law. <chapter eID="gen5861" osisID="Deut.29"/>
+Secret things to the Lord our God: things that are manifest, to us and to our children for ever, that we may do all the words of this law. 
 
 ** Deuteronomy 30
 
@@ -3400,7 +3400,7 @@ I call heaven and earth to witness this day, that I have set before you life and
 
 *** Deuteronomy 30:20
 
-And that thou mayst love the Lord thy God, and obey his voice, and adhere to him (for he is thy life, and the length of thy days,) that thou mayst dwell in the land, for which the Lord swore to thy fathers Abraham, Isaac, and Jacob that he would give it them. <chapter eID="gen5891" osisID="Deut.30"/>
+And that thou mayst love the Lord thy God, and obey his voice, and adhere to him (for he is thy life, and the length of thy days,) that thou mayst dwell in the land, for which the Lord swore to thy fathers Abraham, Isaac, and Jacob that he would give it them. 
 
 ** Deuteronomy 31
 
@@ -3522,7 +3522,7 @@ For I know that, after my death, you will do wickedly, and will quickly turn asi
 
 *** Deuteronomy 31:30
 
-Moses therefore spoke, in the hearing of the whole assembly of Israel, the words of this canticle, and finished it even to the end. <chapter eID="gen5912" osisID="Deut.31"/>
+Moses therefore spoke, in the hearing of the whole assembly of Israel, the words of this canticle, and finished it even to the end. 
 
 ** Deuteronomy 32
 
@@ -3732,7 +3732,7 @@ Because you trespassed against me in the midst of the children of Israel, at the
 
 *** Deuteronomy 32:52
 
-Thou shalt see the land before thee, which I will give to the children of Israel, but thou shalt not enter into it. <chapter eID="gen5943" osisID="Deut.32"/>
+Thou shalt see the land before thee, which I will give to the children of Israel, but thou shalt not enter into it. 
 
 ** Deuteronomy 33
 
@@ -3850,7 +3850,7 @@ Israel shall dwell in safety, and alone. The eye of Jacob in a land of corn and 
 
 *** Deuteronomy 33:29
 
-Blessed art thou, Israel: who is like to thee, O people, that art saved by the Lord? the shield of thy help, and the sword of thy glory: thy enemies shall deny thee, and thou shalt tread upon their necks. <chapter eID="gen5996" osisID="Deut.33"/>
+Blessed art thou, Israel: who is like to thee, O people, that art saved by the Lord? the shield of thy help, and the sword of thy glory: thy enemies shall deny thee, and thou shalt tread upon their necks. 
 
 ** Deuteronomy 34
 
@@ -3900,4 +3900,4 @@ In all the signs and wonders, which he sent by him, to do in the land of Egypt t
 
 *** Deuteronomy 34:12
 
-And all the mighty hand, and great miracles, which Moses did before all Israel. <chapter eID="gen6026" osisID="Deut.34"/> <div eID="gen5045" osisID="Deut" type="book"/>
+And all the mighty hand, and great miracles, which Moses did before all Israel.  

@@ -130,7 +130,7 @@ The turning away of little ones shall kill them, and the prosperity of fools sha
 
 *** Proverbs 1:33
 
-But he that shall hear me, shall rest without terror, and shall enjoy abundance, without fear of evils. <chapter eID="gen17900" osisID="Prov.1"/>
+But he that shall hear me, shall rest without terror, and shall enjoy abundance, without fear of evils. 
 
 ** Proverbs 2
 
@@ -220,7 +220,7 @@ For they that are upright, shall dwell in the earth; and the simple shall contin
 
 *** Proverbs 2:22
 
-But the wicked shall be destroyed from the earth: and they that do unjustly, shall be taken away from it. <chapter eID="gen17934" osisID="Prov.2"/>
+But the wicked shall be destroyed from the earth: and they that do unjustly, shall be taken away from it. 
 
 ** Proverbs 3
 
@@ -362,7 +362,7 @@ He shall scorn the scorners, and to the meek he will give grace.
 
 *** Proverbs 3:35
 
-The wise shall possess glory: the promotion of fools is disgrace. <chapter eID="gen17957" osisID="Prov.3"/>
+The wise shall possess glory: the promotion of fools is disgrace. 
 
 ** Proverbs 4
 
@@ -472,7 +472,7 @@ Make straight the path for thy feet, and all thy ways shall be established.
 
 *** Proverbs 4:27
 
-Decline not to the right hand, nor to the left: turn away thy foot from evil. For the Lord knoweth the ways that are on the right hand: but those are perverse which are on the left hand. But he will make thy courses straight, he will bring forward thy ways in peace. <chapter eID="gen17993" osisID="Prov.4"/>
+Decline not to the right hand, nor to the left: turn away thy foot from evil. For the Lord knoweth the ways that are on the right hand: but those are perverse which are on the left hand. But he will make thy courses straight, he will bring forward thy ways in peace. 
 
 ** Proverbs 5
 
@@ -566,7 +566,7 @@ His own iniquities catch the wicked, and he is fast bound with the ropes of his 
 
 *** Proverbs 5:23
 
-He shall die, because he hath not received instruction, and in the multitude of his folly he shall be deceived. <chapter eID="gen18021" osisID="Prov.5"/>
+He shall die, because he hath not received instruction, and in the multitude of his folly he shall be deceived. 
 
 ** Proverbs 6
 
@@ -708,7 +708,7 @@ Because the jealousy and rage of the husband will not spare in the day of reveng
 
 *** Proverbs 6:35
 
-Nor will he yield to any man's prayers, nor will he accept for satisfaction ever so many gifts. <chapter eID="gen18045" osisID="Prov.6"/>
+Nor will he yield to any man's prayers, nor will he accept for satisfaction ever so many gifts. 
 
 ** Proverbs 7
 
@@ -818,7 +818,7 @@ For she hath cast down many wounded, and the strongest have been slain by her.
 
 *** Proverbs 7:27
 
-Her house is the way to hell, reaching even to the inner chambers of death. <chapter eID="gen18081" osisID="Prov.7"/>
+Her house is the way to hell, reaching even to the inner chambers of death. 
 
 ** Proverbs 8
 
@@ -964,7 +964,7 @@ He that shall find me, shall find life, and shall have salvation from the Lord.
 
 *** Proverbs 8:36
 
-But he that shall sin against me shall hurt his own soul. All that hate me love death. <chapter eID="gen18109" osisID="Prov.8"/>
+But he that shall sin against me shall hurt his own soul. All that hate me love death. 
 
 ** Proverbs 9
 
@@ -1038,7 +1038,7 @@ Stolen waters are sweeter, and hidden bread is more pleasant.
 
 *** Proverbs 9:18
 
-And he did not know that giants are there, and that her guests are in the depths of hell. <chapter eID="gen18146" osisID="Prov.9"/>
+And he did not know that giants are there, and that her guests are in the depths of hell. 
 
 ** Proverbs 10
 
@@ -1168,7 +1168,7 @@ The mouth of the just shall bring forth wisdom: the tongue of the perverse shall
 
 *** Proverbs 10:32
 
-The lips of the just consider what is acceptable: and the mouth of the wicked uttereth perverse things. <chapter eID="gen18165" osisID="Prov.10"/>
+The lips of the just consider what is acceptable: and the mouth of the wicked uttereth perverse things. 
 
 ** Proverbs 11
 
@@ -1294,7 +1294,7 @@ The fruit of the just man is a tree of life: and he that gaineth souls is wise.
 
 *** Proverbs 11:31
 
-If the just man receive in the earth, how much more the wicked and the sinner. <chapter eID="gen18198" osisID="Prov.11"/>
+If the just man receive in the earth, how much more the wicked and the sinner. 
 
 ** Proverbs 12
 
@@ -1408,7 +1408,7 @@ The deceitful man shall not find gain: but the substance of a just man shall be 
 
 *** Proverbs 12:28
 
-In the path of justice is life: but the bye-way leadeth to death. <chapter eID="gen18230" osisID="Prov.12"/>
+In the path of justice is life: but the bye-way leadeth to death. 
 
 ** Proverbs 13
 
@@ -1510,7 +1510,7 @@ He that spareth the rod, hateth his son: but he that loveth him, correcteth him 
 
 *** Proverbs 13:25
 
-The just eateth and filleth his soul: but the belly of the wicked is never to be filled. <chapter eID="gen18260" osisID="Prov.13"/>
+The just eateth and filleth his soul: but the belly of the wicked is never to be filled. 
 
 ** Proverbs 14
 
@@ -1652,7 +1652,7 @@ Justice exalteth a nation: but sin maketh nations miserable.
 
 *** Proverbs 14:35
 
-A wise servant is acceptable to the king: he that is good for nothing shall feel his anger. <chapter eID="gen18286" osisID="Prov.14"/>
+A wise servant is acceptable to the king: he that is good for nothing shall feel his anger. 
 
 ** Proverbs 15
 
@@ -1786,7 +1786,7 @@ He that rejecteth instruction, despiseth his own soul: but he that yieldeth to r
 
 *** Proverbs 15:33
 
-The fear of the Lord is the lesson of wisdom: and humility goeth before glory. <chapter eID="gen18322" osisID="Prov.15"/>
+The fear of the Lord is the lesson of wisdom: and humility goeth before glory. 
 
 ** Proverbs 16
 
@@ -1920,7 +1920,7 @@ The patient man is better than the valiant: and he that ruleth his spirit, than 
 
 *** Proverbs 16:33
 
-Lots are cast into the lap, but they are disposed of by the Lord. <chapter eID="gen18356" osisID="Prov.16"/>
+Lots are cast into the lap, but they are disposed of by the Lord. 
 
 ** Proverbs 17
 
@@ -2034,7 +2034,7 @@ He that setteth bounds to his words, is knowing and wise: and the man of underst
 
 *** Proverbs 17:28
 
-Even a fool, if he will hold his peace, shall be counted wise: and if he close his lips, a man of understanding. <chapter eID="gen18390" osisID="Prov.17"/>
+Even a fool, if he will hold his peace, shall be counted wise: and if he close his lips, a man of understanding. 
 
 ** Proverbs 18
 
@@ -2132,7 +2132,7 @@ The poor will speak with supplications, and the rich will speak roughly.
 
 *** Proverbs 18:24
 
-A man amiable in society, shall be more friendly than a brother. <chapter eID="gen18419" osisID="Prov.18"/>
+A man amiable in society, shall be more friendly than a brother. 
 
 ** Proverbs 19
 
@@ -2250,7 +2250,7 @@ An unjust witness scorneth judgment: and the mouth of the wicked devoureth iniqu
 
 *** Proverbs 19:29
 
-Judgments are prepared for scorners: and striking hammers for the bodies of fools. <chapter eID="gen18444" osisID="Prov.19"/>
+Judgments are prepared for scorners: and striking hammers for the bodies of fools. 
 
 ** Proverbs 20
 
@@ -2372,7 +2372,7 @@ The joy of young men is their strength: and the dignity of old men, their grey h
 
 *** Proverbs 20:30
 
-The blueness of a wound shall wipe away evils: and stripes in the more inward parts of the belly. <chapter eID="gen18474" osisID="Prov.20"/>
+The blueness of a wound shall wipe away evils: and stripes in the more inward parts of the belly. 
 
 ** Proverbs 21
 
@@ -2498,7 +2498,7 @@ There is no wisdom, there is no prudence, there is no counsel against the Lord.
 
 *** Proverbs 21:31
 
-The horse is prepared for the day of battle: but the Lord giveth safety. <chapter eID="gen18505" osisID="Prov.21"/>
+The horse is prepared for the day of battle: but the Lord giveth safety. 
 
 ** Proverbs 22
 
@@ -2616,7 +2616,7 @@ Pass not beyond the ancient bounds which thy fathers have set.
 
 *** Proverbs 22:29
 
-Hast thou seen a man swift in his work? he shall stand before kings, and shall not be before those that are obscure. <chapter eID="gen18537" osisID="Prov.22"/>
+Hast thou seen a man swift in his work? he shall stand before kings, and shall not be before those that are obscure. 
 
 ** Proverbs 23
 
@@ -2758,7 +2758,7 @@ And thou shalt be as one sleeping in the midst of the sea, and as a pilot fast a
 
 *** Proverbs 23:35
 
-And thou shalt say: They have beaten me, but I was not sensible of pain: they drew me, and I felt not: when shall I awake and find wine again? <chapter eID="gen18567" osisID="Prov.23"/>
+And thou shalt say: They have beaten me, but I was not sensible of pain: they drew me, and I felt not: when shall I awake and find wine again? 
 
 ** Proverbs 24
 
@@ -2896,7 +2896,7 @@ Thou wilt sleep a little, said I, thou wilt slumber a little, thou wilt fold thy
 
 *** Proverbs 24:34
 
-And poverty shall come to thee as a runner, and beggary as an armed man. <chapter eID="gen18603" osisID="Prov.24"/>
+And poverty shall come to thee as a runner, and beggary as an armed man. 
 
 ** Proverbs 25
 
@@ -3010,7 +3010,7 @@ As it is not good for a man to eat much honey, so he that is a searcher of majes
 
 *** Proverbs 25:28
 
-As a city that lieth open and is not compassed with walls, so is a man that cannot refrain his own spirit in speaking. <chapter eID="gen18638" osisID="Prov.25"/>
+As a city that lieth open and is not compassed with walls, so is a man that cannot refrain his own spirit in speaking. 
 
 ** Proverbs 26
 
@@ -3124,7 +3124,7 @@ He that diggeth a pit, shall fall into it: and he that rolleth a stone, it shall
 
 *** Proverbs 26:28
 
-A deceitful tongue loveth not truth: and a slippery mouth worketh ruin. <chapter eID="gen18667" osisID="Prov.26"/>
+A deceitful tongue loveth not truth: and a slippery mouth worketh ruin. 
 
 ** Proverbs 27
 
@@ -3234,7 +3234,7 @@ Lambs are for thy clothing: and kids for the price of the field.
 
 *** Proverbs 27:27
 
-Let the milk of the goats be enough for thy food, and for the necessities of thy house, and for maintenance for thy handmaids. <chapter eID="gen18696" osisID="Prov.27"/>
+Let the milk of the goats be enough for thy food, and for the necessities of thy house, and for maintenance for thy handmaids. 
 
 ** Proverbs 28
 
@@ -3348,7 +3348,7 @@ He that giveth to the poor shall not want: he that despiseth his entreaty, shall
 
 *** Proverbs 28:28
 
-When the wicked rise up, men shall hide themselves: when they perish, the just shall be multiplied. <chapter eID="gen18724" osisID="Prov.28"/>
+When the wicked rise up, men shall hide themselves: when they perish, the just shall be multiplied. 
 
 ** Proverbs 29
 
@@ -3458,7 +3458,7 @@ Many seek the face of the prince: but the judgment of every one cometh forth fro
 
 *** Proverbs 29:27
 
-The just abhor a wicked man: and the wicked loathe them that are in the right way. The son that keepeth the word, shall be free from destruction. <chapter eID="gen18753" osisID="Prov.29"/>
+The just abhor a wicked man: and the wicked loathe them that are in the right way. The son that keepeth the word, shall be free from destruction. 
 
 ** Proverbs 30
 
@@ -3592,7 +3592,7 @@ There is that hath appeared a fool after he was lifted up on high: for if he had
 
 *** Proverbs 30:33
 
-And he that strongly squeezeth the paps to bring out milk, straineth out butter: and he that violently bloweth his nose, bringeth out blood: and he that provoketh wrath, bringeth forth strife. <chapter eID="gen18781" osisID="Prov.30"/>
+And he that strongly squeezeth the paps to bring out milk, straineth out butter: and he that violently bloweth his nose, bringeth out blood: and he that provoketh wrath, bringeth forth strife. 
 
 ** Proverbs 31
 
@@ -3718,4 +3718,4 @@ Favour is deceitful, and beauty is vain: the woman that feareth the Lord, she sh
 
 *** Proverbs 31:31
 
-Give her of the fruit of her hands: and let her works praise her in the gates. <chapter eID="gen18815" osisID="Prov.31"/> <div eID="gen17899" osisID="Prov" type="book"/>
+Give her of the fruit of her hands: and let her works praise her in the gates.  

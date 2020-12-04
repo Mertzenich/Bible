@@ -34,7 +34,7 @@ Nec erat qui nolentes cogeret ad bibendum, sed sicut rex statuerat, præponens m
 
 ** Esther 1:9
 
-Vasthi quoque regina fecit convivium feminarum in palatio, ubi rex Assuerus manere consueverat.  <div eID="gen2394" type="x-p"/>
+Vasthi quoque regina fecit convivium feminarum in palatio, ubi rex Assuerus manere consueverat.  
 
 ** Esther 1:10
 
@@ -86,7 +86,7 @@ Placuit consilium ejus regi et principibus : fecitque rex juxta consilium Mamuch
 
 ** Esther 1:22
 
-et misit epistolas ad universas provincias regni sui, ut quæque gens audire et legere poterat, diversis linguis et litteris, esse viros principes ac majores in domibus suis : et hoc per cunctos populos divulgari.  <chapter eID="Esth.1"/> <div eID="gen2395" type="x-p"/>
+et misit epistolas ad universas provincias regni sui, ut quæque gens audire et legere poterat, diversis linguis et litteris, esse viros principes ac majores in domibus suis : et hoc per cunctos populos divulgari.   
 
 * Esther 2
 
@@ -132,7 +132,7 @@ Quæ noluit indicare ei populum et patriam suam : Mardochæus enim præceperat e
 
 ** Esther 2:11
 
-qui deambulabat quotidie ante vestibulum domus, in qua electæ virgines servabantur, curam agens salutis Esther, et scire volens quid ei accideret.  <div eID="gen2396" type="x-p"/>
+qui deambulabat quotidie ante vestibulum domus, in qua electæ virgines servabantur, curam agens salutis Esther, et scire volens quid ei accideret.  
 
 ** Esther 2:12
 
@@ -168,7 +168,7 @@ Cumque secundo quærerentur virgines et congregarentur, Mardochæus manebat ad j
 
 ** Esther 2:20
 
-necdum prodiderat Esther patriam et populum suum, juxta mandatum ejus. Quidquid enim ille præcipiebat, observabat Esther : et ita cuncta faciebat ut eo tempore solita erat, quo eam parvulam nutriebat.  <div eID="gen2397" type="x-p"/>
+necdum prodiderat Esther patriam et populum suum, juxta mandatum ejus. Quidquid enim ille præcipiebat, observabat Esther : et ita cuncta faciebat ut eo tempore solita erat, quo eam parvulam nutriebat.  
 
 ** Esther 2:21
 
@@ -180,7 +180,7 @@ Quod Mardochæum non latuit, statimque nuntiavit reginæ Esther : et illa regi e
 
 ** Esther 2:23
 
-Quæsitum est, et inventum : et appensus est uterque eorum in patibulo. Mandatumque est historiis, et annalibus traditum coram rege.  <chapter eID="Esth.2"/> <div eID="gen2398" type="x-p"/>
+Quæsitum est, et inventum : et appensus est uterque eorum in patibulo. Mandatumque est historiis, et annalibus traditum coram rege.   
 
 * Esther 3
 
@@ -206,7 +206,7 @@ Quod cum audisset Aman, et experimento probasset quod Mardochæus non flecteret 
 
 ** Esther 3:6
 
-et pro nihilo duxit in unum Mardochæum mittere manus suas : audierat enim quod esset gentis Judææ ; magisque voluit omnem Judæorum, qui erant in regno Assueri, perdere nationem.  <div eID="gen2399" type="x-p"/>
+et pro nihilo duxit in unum Mardochæum mittere manus suas : audierat enim quod esset gentis Judææ ; magisque voluit omnem Judæorum, qui erant in regno Assueri, perdere nationem.  
 
 ** Esther 3:7
 
@@ -242,7 +242,7 @@ Summa autem epistolarum hæc fuit, ut omnes provinciæ scirent, et pararent se a
 
 ** Esther 3:15
 
-Festinabant cursores, qui missi erant, regis imperium explere. Statimque in Susan pependit edictum, rege et Aman celebrante convivium, et cunctis Judæis, qui in urbe erant, flentibus.  <chapter eID="Esth.3"/> <div eID="gen2400" type="x-p"/>
+Festinabant cursores, qui missi erant, regis imperium explere. Statimque in Susan pependit edictum, rege et Aman celebrante convivium, et cunctis Judæis, qui in urbe erant, flentibus.   
 
 * Esther 4
 
@@ -276,7 +276,7 @@ qui indicavit ei omnia quæ acciderant : quomodo Aman promisisset ut in thesauro
 
 ** Esther 4:8
 
-Exemplar quoque edicti, quod pendebat in Susan, dedit ei, ut reginæ ostenderet, et moneret eam ut intraret ad regem et deprecaretur eum pro populo suo.  <div eID="gen2401" type="x-p"/>
+Exemplar quoque edicti, quod pendebat in Susan, dedit ei, ut reginæ ostenderet, et moneret eam ut intraret ad regem et deprecaretur eum pro populo suo.  
 
 ** Esther 4:9
 
@@ -312,7 +312,7 @@ Vade, et congrega omnes Judæos quos in Susan repereris, et orate pro me. Non co
 
 ** Esther 4:17
 
-Ivit itaque Mardochæus, et fecit omnia quæ ei Esther præceperat.  <chapter eID="Esth.4"/> <div eID="gen2402" type="x-p"/>
+Ivit itaque Mardochæus, et fecit omnia quæ ei Esther præceperat.   
 
 * Esther 5
 
@@ -346,7 +346,7 @@ Cui respondit Esther : Petitio mea, et preces sunt istæ :
 
 ** Esther 5:8
 
-si inveni in conspectu regis gratiam, et si regi placet ut det mihi quod postulo, et meam impleat petitionem : veniat rex et Aman ad convivium quod paravi eis, et cras aperiam regi voluntatem meam.  <div eID="gen2403" type="x-p"/>
+si inveni in conspectu regis gratiam, et si regi placet ut det mihi quod postulo, et meam impleat petitionem : veniat rex et Aman ad convivium quod paravi eis, et cras aperiam regi voluntatem meam.  
 
 ** Esther 5:9
 
@@ -370,7 +370,7 @@ Et cum hæc omnia habeam, nihil me habere puto, quamdiu videro Mardochæum Judæ
 
 ** Esther 5:14
 
-Responderuntque ei Zares uxor ejus, et ceteri amici : Jube parari excelsam trabem, habentem altitudinis quinquaginta cubitos, et dic mane regi ut appendatur super eam Mardochæus, et sic ibis cum rege lætus ad convivium. Placuit ei consilium, et jussit excelsam parari crucem.  <chapter eID="Esth.5"/> <div eID="gen2404" type="x-p"/>
+Responderuntque ei Zares uxor ejus, et ceteri amici : Jube parari excelsam trabem, habentem altitudinis quinquaginta cubitos, et dic mane regi ut appendatur super eam Mardochæus, et sic ibis cum rege lætus ad convivium. Placuit ei consilium, et jussit excelsam parari crucem.   
 
 * Esther 6
 
@@ -428,7 +428,7 @@ narravitque Zares uxori suæ, et amicis, omnia quæ evenissent sibi. Cui respond
 
 ** Esther 6:14
 
-Adhuc illis loquentibus, venerunt eunuchi regis, et cito eum ad convivium, quod regina paraverat, pergere compulerunt.  <chapter eID="Esth.6"/> <div eID="gen2405" type="x-p"/>
+Adhuc illis loquentibus, venerunt eunuchi regis, et cito eum ad convivium, quod regina paraverat, pergere compulerunt.   
 
 * Esther 7
 
@@ -470,7 +470,7 @@ Dixitque Harbona, unus de eunuchis, qui stabant in ministerio regis : En lignum 
 
 ** Esther 7:10
 
-Suspensus est itaque Aman in patibulo quod paraverat Mardochæo : et regis ira quievit.  <chapter eID="Esth.7"/> <div eID="gen2406" type="x-p"/>
+Suspensus est itaque Aman in patibulo quod paraverat Mardochæo : et regis ira quievit.   
 
 * Esther 8
 
@@ -508,7 +508,7 @@ Scribite ergo Judæis, sicut vobis placet, regis nomine, signantes litteras annu
 
 ** Esther 8:9
 
-Accitisque scribis et librariis regis (erat autem tempus tertii mensis, qui appellatur Siban) vigesima et tertia die illius scriptæ sunt epistolæ, ut Mardochæus voluerat, ad Judæos, et ad principes, procuratoresque et judices, qui centum viginti septem provinciis ab India usque ad Æthiopiam præsidebant : provinciæ atque provinciæ, populo et populo juxta linguas et litteras suas, et Judæis, prout legere poterant et audire.  <div eID="gen2407" type="x-p"/>
+Accitisque scribis et librariis regis (erat autem tempus tertii mensis, qui appellatur Siban) vigesima et tertia die illius scriptæ sunt epistolæ, ut Mardochæus voluerat, ad Judæos, et ad principes, procuratoresque et judices, qui centum viginti septem provinciis ab India usque ad Æthiopiam præsidebant : provinciæ atque provinciæ, populo et populo juxta linguas et litteras suas, et Judæis, prout legere poterant et audire.  
 
 ** Esther 8:10
 
@@ -540,7 +540,7 @@ Judæis autem nova lux oriri visa est, gaudium, honor, et tripudium.
 
 ** Esther 8:17
 
-Apud omnes populos, urbes, atque provincias, quocumque regis jussa veniebant, mira exultatio, epulæ atque convivia, et festus dies : in tantum ut plures alterius gentis et sectæ eorum religioni et cæremoniis jungerentur. Grandis enim cunctos judaici nominis terror invaserat.  <chapter eID="Esth.8"/> <div eID="gen2408" type="x-p"/>
+Apud omnes populos, urbes, atque provincias, quocumque regis jussa veniebant, mira exultatio, epulæ atque convivia, et festus dies : in tantum ut plures alterius gentis et sectæ eorum religioni et cæremoniis jungerentur. Grandis enim cunctos judaici nominis terror invaserat.   
 
 * Esther 9
 
@@ -618,7 +618,7 @@ At hi, qui in urbe Susan cædem exercuerant, tertiodecimo et quartodecimo die ej
 
 ** Esther 9:19
 
-Hi vero Judæi, qui in oppidis non muratis ac villis morabantur, quartumdecimum diem mensis Adar conviviorum et gaudii decreverunt, ita ut exultent in eo, et mittant sibi mutuo partes epularum et ciborum.  <div eID="gen2409" type="x-p"/>
+Hi vero Judæi, qui in oppidis non muratis ac villis morabantur, quartumdecimum diem mensis Adar conviviorum et gaudii decreverunt, ita ut exultent in eo, et mittant sibi mutuo partes epularum et ciborum.  
 
 ** Esther 9:20
 
@@ -670,7 +670,7 @@ observantes dies sortium, et suo tempore cum gaudio celebrarent : sicut constitu
 
 ** Esther 9:32
 
-et omnia quæ libri hujus, qui vocatur Esther, historia continentur.  <chapter eID="Esth.9"/> <div eID="gen2410" type="x-p"/>
+et omnia quæ libri hujus, qui vocatur Esther, historia continentur.   
 
 * Esther 10
 
@@ -684,7 +684,7 @@ cujus fortitudo et imperium, et dignitas atque sublimitas, qua exaltavit Mardoch
 
 ** Esther 10:3
 
-et quomodo Mardochæus judaici generis secundus a rege Assuero fuerit, et magnus apud Judæos, et acceptabilis plebi fratrum suorum, quærens bona populo suo, et loquens ea quæ ad pacem seminis sui pertinerent.  <div eID="gen2411" type="x-p"/>
+et quomodo Mardochæus judaici generis secundus a rege Assuero fuerit, et magnus apud Judæos, et acceptabilis plebi fratrum suorum, quærens bona populo suo, et loquens ea quæ ad pacem seminis sui pertinerent.  
 
 ** Esther 10:4
 
@@ -724,7 +724,7 @@ et recordatus est Dominus populi sui, ac misertus est hæreditatis suæ.
 
 ** Esther 10:13
 
-Et observabuntur dies isti in mense Adar quartadecima et quintadecima die ejusdem mensis, cum omni studio et gaudio, in unum cœtum populi congregati, in cunctas deinceps generationes populi Israël.  <chapter eID="Esth.10"/> <div eID="gen2412" type="x-p"/>
+Et observabuntur dies isti in mense Adar quartadecima et quintadecima die ejusdem mensis, cum omni studio et gaudio, in unum cœtum populi congregati, in cunctas deinceps generationes populi Israël.   
 
 * Esther 11
 
@@ -774,7 +774,7 @@ Lux et sol ortus est, et humiles exaltati sunt, et devoraverunt inclytos.
 
 ** Esther 11:12
 
-Quod cum vidisset Mardochæus, et surrexisset de strato, cogitabat quid Deus facere vellet : et fixum habebat in animo, scire cupiens quid significaret somnium.  <chapter eID="Esth.11"/> <div eID="gen2413" type="x-p"/>
+Quod cum vidisset Mardochæus, et surrexisset de strato, cogitabat quid Deus facere vellet : et fixum habebat in animo, scire cupiens quid significaret somnium.   
 
 * Esther 12
 
@@ -800,7 +800,7 @@ Præcepitque ei rex, ut in aula palatii moraretur, datis ei pro delatione muneri
 
 ** Esther 12:6
 
-Aman vero filius Amadathi Bugæus erat gloriosissimus coram rege, et voluit nocere Mardochæo et populo ejus pro duobus eunuchis regis qui fuerant interfecti. Et diripuerunt bona, vel substantias eorum. Epistolæ autem hoc exemplar fuit.  <chapter eID="Esth.12"/> <div eID="gen2414" type="x-p"/>
+Aman vero filius Amadathi Bugæus erat gloriosissimus coram rege, et voluit nocere Mardochæo et populo ejus pro duobus eunuchis regis qui fuerant interfecti. Et diripuerunt bona, vel substantias eorum. Epistolæ autem hoc exemplar fuit.   
 
 * Esther 13
 
@@ -830,7 +830,7 @@ jussimus ut quoscumque Aman, qui omnibus provinciis præpositus est et secundus 
 
 ** Esther 13:7
 
-ut nefarii homines uno die ad inferos descendentes, reddant imperio nostro pacem, quam turbaverant. Pergensque Mardochæus, fecit omnia quæ ei mandaverat Esther.  <div eID="gen2415" type="x-p"/>
+ut nefarii homines uno die ad inferos descendentes, reddant imperio nostro pacem, quam turbaverant. Pergensque Mardochæus, fecit omnia quæ ei mandaverat Esther.  
 
 ** Esther 13:8
 
@@ -874,7 +874,7 @@ Exaudi deprecationem meam, et propitius esto sorti et funiculo tuo, et converte 
 
 ** Esther 13:18
 
-Omnis quoque Israël pari mente et obsecratione clamavit ad Dominum, eo quod eis certa mors impenderet.  <chapter eID="Esth.13"/> <div eID="gen2416" type="x-p"/>
+Omnis quoque Israël pari mente et obsecratione clamavit ad Dominum, eo quod eis certa mors impenderet.   
 
 * Esther 14
 
@@ -952,7 +952,7 @@ et numquam lætata sit ancilla tua, ex quo huc translata sum usque in præsentem
 
 ** Esther 14:19
 
-Deus fortis super omnes, exaudi vocem eorum qui nullam aliam spem habent, et libera nos de manu iniquorum, et erue me a timore meo.  <chapter eID="Esth.14"/> <div eID="gen2417" type="x-p"/>
+Deus fortis super omnes, exaudi vocem eorum qui nullam aliam spem habent, et libera nos de manu iniquorum, et erue me a timore meo.   
 
 * Esther 15
 
@@ -966,7 +966,7 @@ Memorare, inquit, dierum humilitatis tuæ, quomodo nutrita sis in manu mea, quia
 
 ** Esther 15:3
 
-et tu invoca Dominum, et loquere regi pro nobis, et libera nos de morte.  <div eID="gen2418" type="x-p"/>
+et tu invoca Dominum, et loquere regi pro nobis, et libera nos de morte.  
 
 ** Esther 15:4
 
@@ -1030,7 +1030,7 @@ Cumque loqueretur, rursus corruit, et pene exanimata est.
 
 ** Esther 15:19
 
-Rex autem turbabatur, et omnes ministri ejus consolabantur eam.  <chapter eID="Esth.15"/> <div eID="gen2419" type="x-p"/>
+Rex autem turbabatur, et omnes ministri ejus consolabantur eam.   
 
 * Esther 16
 
@@ -1068,7 +1068,7 @@ Unde providendum est paci omnium provinciarum.
 
 ** Esther 16:9
 
-Nec putare debetis, si diversa jubeamus, ex animi nostri venire levitate, sed pro qualitate et necessitate temporum, ut reipublicæ poscit utilitas, ferre sententiam.  <div eID="gen2420" type="x-p"/>
+Nec putare debetis, si diversa jubeamus, ex animi nostri venire levitate, sed pro qualitate et necessitate temporum, ut reipublicæ poscit utilitas, ferre sententiam.  
 
 ** Esther 16:10
 
@@ -1128,5 +1128,5 @@ omnes qui fideliter Persis obediunt, dignam pro fide recipere mercedem ; qui aut
 
 ** Esther 16:24
 
-Omnis autem provincia et civitas quæ noluerit solemnitatis hujus esse particeps, gladio et igne pereat, et sic deleatur, ut non solum hominibus, sed etiam bestiis invia sit in sempiternum, pro exemplo contemptus et inobedientiæ.  <div eID="gen2421" type="x-p"/> <chapter eID="Esth.16"/> <div eID="gen2393" osisID="Esth" type="book"/>
+Omnis autem provincia et civitas quæ noluerit solemnitatis hujus esse particeps, gladio et igne pereat, et sic deleatur, ut non solum hominibus, sed etiam bestiis invia sit in sempiternum, pro exemplo contemptus et inobedientiæ.    
 

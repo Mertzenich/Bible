@@ -6,7 +6,7 @@ Paulus, et Silvanus, et Timotheus ecclesiæ Thessalonicensium in Deo Patre, et D
 
 ** I Thessalonians 1:2
 
-Gratia vobis, et pax. <div eID="gen33095" type="x-p"/> <div sID="gen33096" type="x-p"/> Gratias agimus Deo semper pro omnibus vobis, memoriam vestri facientes in orationibus nostris sine intermissione,
+Gratia vobis, et pax.   Gratias agimus Deo semper pro omnibus vobis, memoriam vestri facientes in orationibus nostris sine intermissione,
 
 ** I Thessalonians 1:3
 
@@ -38,7 +38,7 @@ Ipsi enim de nobis annuntiant qualem introitum habuerimus ad vos : et quomodo co
 
 ** I Thessalonians 1:10
 
-et exspectare Filium ejus de cælis (quem suscitavit a mortuis) Jesum, qui eripuit nos ab ira ventura.  <chapter eID="1Thess.1"/> <div eID="gen33096" type="x-p"/>
+et exspectare Filium ejus de cælis (quem suscitavit a mortuis) Jesum, qui eripuit nos ab ira ventura.   
 
 * I Thessalonians 2
 
@@ -88,7 +88,7 @@ sicut scitis, qualiter unumquemque vestrum (sicut pater filios suos)
 
 ** I Thessalonians 2:12
 
-deprecantes vos, et consolantes, testificati sumus, ut ambularetis digne Deo, qui vocavit vos in suum regnum et gloriam.  <div eID="gen33097" type="x-p"/>
+deprecantes vos, et consolantes, testificati sumus, ut ambularetis digne Deo, qui vocavit vos in suum regnum et gloriam.  
 
 ** I Thessalonians 2:13
 
@@ -120,7 +120,7 @@ Quæ est enim nostra spes aut gaudium, aut corona gloriæ ? nonne vos ante Domin
 
 ** I Thessalonians 2:20
 
-vos enim estis gloria nostra et gaudium.  <chapter eID="1Thess.2"/> <div eID="gen33098" type="x-p"/>
+vos enim estis gloria nostra et gaudium.   
 
 * I Thessalonians 3
 
@@ -174,7 +174,7 @@ Vos autem Dominus multiplicet, et abundare faciat caritatem vestram in invicem, 
 
 ** I Thessalonians 3:13
 
-ad confirmanda corda vestra sine querela in sanctitate, ante Deum et Patrem nostrum, in adventu Domini nostri Jesu Christi cum omnibus sanctis ejus. Amen.  <chapter eID="1Thess.3"/> <div eID="gen33099" type="x-p"/>
+ad confirmanda corda vestra sine querela in sanctitate, ante Deum et Patrem nostrum, in adventu Domini nostri Jesu Christi cum omnibus sanctis ejus. Amen.   
 
 * I Thessalonians 4
 
@@ -228,7 +228,7 @@ et ut honeste ambuletis ad eos qui foris sunt : et nullius aliquid desideretis.
 
 ** I Thessalonians 4:13
 
-Nolumus autem vos ignorare fratres de dormientibus, ut non contristemini sicut et ceteri, qui spem non habent.  <div eID="gen33100" type="x-p"/>
+Nolumus autem vos ignorare fratres de dormientibus, ut non contristemini sicut et ceteri, qui spem non habent.  
 
 ** I Thessalonians 4:14
 
@@ -248,7 +248,7 @@ Deinde nos, qui vivimus, qui relinquimur, simul rapiemur cum illis in nubibus ob
 
 ** I Thessalonians 4:18
 
-Itaque consolamini invicem in verbis istis.  <chapter eID="1Thess.4"/> <div eID="gen33101" type="x-p"/>
+Itaque consolamini invicem in verbis istis.   
 
 * I Thessalonians 5
 
@@ -294,7 +294,7 @@ qui mortuus est pro nobis : ut sive vigilemus, sive dormiamus, simul cum illo vi
 
 ** I Thessalonians 5:11
 
-Propter quod consolamini invicem, et ædificate alterutrum, sicut et facitis.  <div eID="gen33102" type="x-p"/>
+Propter quod consolamini invicem, et ædificate alterutrum, sicut et facitis.  
 
 ** I Thessalonians 5:12
 
@@ -346,7 +346,7 @@ Ipse autem Deus pacis sanctificet vos per omnia : ut integer spiritus vester, et
 
 ** I Thessalonians 5:24
 
-Fidelis est, qui vocavit vos : qui etiam faciet.  <div eID="gen33103" type="x-p"/>
+Fidelis est, qui vocavit vos : qui etiam faciet.  
 
 ** I Thessalonians 5:25
 
@@ -362,5 +362,5 @@ Adjuro vos per Dominum ut legatur epistola hæc omnibus sanctis fratribus.
 
 ** I Thessalonians 5:28
 
-Gratia Domini nostri Jesu Christi vobiscum. Amen.  <div eID="gen33104" type="x-p"/> <chapter eID="1Thess.5"/> <div eID="gen33094" osisID="1Thess" type="book"/>
+Gratia Domini nostri Jesu Christi vobiscum. Amen.    
 

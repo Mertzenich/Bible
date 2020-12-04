@@ -3426,7 +3426,7 @@ I will freely sacrifice to thee, and will give praise, O God, to thy name: becau
 
 *** Psalms 53:9
 
-For thou hast delivered me out of all trouble: and my eye hath looked down upon my enemies. <chapter eID="gen16093" osisID="Ps.53"/>
+For thou hast delivered me out of all trouble: and my eye hath looked down upon my enemies. 
 
 ** Psalms 54
 
@@ -3524,7 +3524,7 @@ Cast thy care upon the Lord, and he shall sustain thee: he shall not suffer the 
 
 *** Psalms 54:24
 
-But thou, O God, shalt bring them down into the pit of destruction. Bloody and deceitful men shall not live out half their days; but I will trust in thee, O Lord. <chapter eID="gen16103" osisID="Ps.54"/>
+But thou, O God, shalt bring them down into the pit of destruction. Bloody and deceitful men shall not live out half their days; but I will trust in thee, O Lord. 
 
 ** Psalms 55
 
@@ -3578,7 +3578,7 @@ In me, O God, are vows to thee, which I will pay, praises to thee:
 
 *** Psalms 55:13
 
-Because thou hast delivered my soul from death, my feet from falling: that I may please in the sight of God, in the light of the living. <chapter eID="gen16128" osisID="Ps.55"/>
+Because thou hast delivered my soul from death, my feet from falling: that I may please in the sight of God, in the light of the living. 
 
 ** Psalms 56
 
@@ -3628,7 +3628,7 @@ For thy mercy is magnified even to the heavens: and thy truth unto the clouds.
 
 *** Psalms 56:12
 
-Be thou exalted, O God, above the heavens: and thy glory above all the earth. <chapter eID="gen16142" osisID="Ps.56"/>
+Be thou exalted, O God, above the heavens: and thy glory above all the earth. 
 
 ** Psalms 57
 
@@ -3678,7 +3678,7 @@ The just shall rejoice when he shall see the revenge: he shall wash his hands in
 
 *** Psalms 57:12
 
-And man shall say: If indeed there be fruit to the just: there is indeed a God that judgeth them on the earth. <chapter eID="gen16155" osisID="Ps.57"/>
+And man shall say: If indeed there be fruit to the just: there is indeed a God that judgeth them on the earth. 
 
 ** Psalms 58
 
@@ -3752,7 +3752,7 @@ But I will sing thy strength: and will extol thy mercy in the morning. For thou 
 
 *** Psalms 58:18
 
-Unto thee, O my helper, will I sing, for thou art God my defence: my God my mercy. <chapter eID="gen16168" osisID="Ps.58"/>
+Unto thee, O my helper, will I sing, for thou art God my defence: my God my mercy. 
 
 ** Psalms 59
 
@@ -3810,7 +3810,7 @@ Give us help from trouble: for vain is the salvation of man.
 
 *** Psalms 59:14
 
-Through God we shall do mightily: and he shall bring to nothing them that afflict us. <chapter eID="gen16187" osisID="Ps.59"/>
+Through God we shall do mightily: and he shall bring to nothing them that afflict us. 
 
 ** Psalms 60
 
@@ -3848,7 +3848,7 @@ He abideth for ever in the sight of God: his mercy and truth who shall search?
 
 *** Psalms 60:9
 
-So will I sing a psalm to thy name for ever and ever: that I may pay my vows from day to day. <chapter eID="gen16202" osisID="Ps.60"/>
+So will I sing a psalm to thy name for ever and ever: that I may pay my vows from day to day. 
 
 ** Psalms 61
 
@@ -3902,7 +3902,7 @@ God hath spoken once, these two things have I heard, that power belongeth to God
 
 *** Psalms 61:13
 
-And mercy to thee, O Lord; for thou wilt render to every man according to his works. <chapter eID="gen16212" osisID="Ps.61"/>
+And mercy to thee, O Lord; for thou wilt render to every man according to his works. 
 
 ** Psalms 62
 
@@ -3952,7 +3952,7 @@ They shall be delivered into the hands of the sword, they shall be the portions 
 
 *** Psalms 62:12
 
-But the king shall rejoice in God, all they shall be praised that swear by him: because the mouth is stopped of them that speak wicked things. <chapter eID="gen16226" osisID="Ps.62"/>
+But the king shall rejoice in God, all they shall be praised that swear by him: because the mouth is stopped of them that speak wicked things. 
 
 ** Psalms 63
 
@@ -3998,7 +3998,7 @@ And every man was afraid. And they declared the works of God, and understood his
 
 *** Psalms 63:11
 
-The just shall rejoice in the Lord, and shall hope in him: and all the upright in heart shall be praised. <chapter eID="gen16239" osisID="Ps.63"/>
+The just shall rejoice in the Lord, and shall hope in him: and all the upright in heart shall be praised. 
 
 ** Psalms 64
 
@@ -4056,7 +4056,7 @@ The beautiful places of the wilderness shall grow fat: and the hills shall be gi
 
 *** Psalms 64:14
 
-The rams of the flock are clothed, and the vales shall abound with corn: they shall shout, yea they shall sing a hymn. <chapter eID="gen16251" osisID="Ps.64"/>
+The rams of the flock are clothed, and the vales shall abound with corn: they shall shout, yea they shall sing a hymn. 
 
 ** Psalms 65
 
@@ -4138,7 +4138,7 @@ Therefore hath God heard me, and hath attended to the voice of my supplication.
 
 *** Psalms 65:20
 
-Blessed be God, who hath not turned away my prayer, nor his mercy from me. <chapter eID="gen16266" osisID="Ps.65"/>
+Blessed be God, who hath not turned away my prayer, nor his mercy from me. 
 
 ** Psalms 66
 
@@ -4172,7 +4172,7 @@ The earth hath yielded her fruit. May God, our God bless us,
 
 *** Psalms 66:8
 
-May God bless us: and all the ends of the earth fear him. <chapter eID="gen16287" osisID="Ps.66"/>
+May God bless us: and all the ends of the earth fear him. 
 
 ** Psalms 67
 
@@ -4318,7 +4318,7 @@ Give ye glory to God for Israel, his magnificence, and his power is in the cloud
 
 *** Psalms 67:36
 
-God is wonderful in his saints: the God of Israel is he who will give power and strength to his people. Blessed be God. <chapter eID="gen16296" osisID="Ps.67"/>
+God is wonderful in his saints: the God of Israel is he who will give power and strength to his people. Blessed be God. 
 
 ** Psalms 68
 
@@ -4468,7 +4468,7 @@ For God will save Sion, and the cities of Juda shall be built up. And they shall
 
 *** Psalms 68:37
 
-And the seed of his servants shall possess it; and they that love his name shall dwell therein. <chapter eID="gen16333" osisID="Ps.68"/>
+And the seed of his servants shall possess it; and they that love his name shall dwell therein. 
 
 ** Psalms 69
 
@@ -4494,7 +4494,7 @@ Let all that seek thee rejoice and be glad in thee; and let such as love thy sal
 
 *** Psalms 69:6
 
-But I am needy and poor; O God, help me. Thou art my helper and my deliverer: O Lord, make no delay. <chapter eID="gen16371" osisID="Ps.69"/>
+But I am needy and poor; O God, help me. Thou art my helper and my deliverer: O Lord, make no delay. 
 
 ** Psalms 70
 
@@ -4592,7 +4592,7 @@ My lips shall greatly rejoice, when I shall sing to thee; and my soul which thou
 
 *** Psalms 70:24
 
-Yea and my tongue shall meditate on thy justice all the day; when they shall be confounded and put to shame that seek evils to me. <chapter eID="gen16378" osisID="Ps.70"/>
+Yea and my tongue shall meditate on thy justice all the day; when they shall be confounded and put to shame that seek evils to me. 
 
 ** Psalms 71
 
@@ -4674,7 +4674,7 @@ And blessed be the name of his majesty for ever: and the whole earth shall be fi
 
 *** Psalms 71:20
 
-The praises of David, the son of Jesse, are ended. <chapter eID="gen16403" osisID="Ps.71"/>
+The praises of David, the son of Jesse, are ended. 
 
 ** Psalms 72
 
@@ -4788,7 +4788,7 @@ For behold they that go far from thee shall perish: thou hast destroyed all them
 
 *** Psalms 72:28
 
-But it is good for me to adhere to my God, to put my hope in the Lord God: That I may declare all thy praises, in the gates of the daughter of Sion. <chapter eID="gen16424" osisID="Ps.72"/>
+But it is good for me to adhere to my God, to put my hope in the Lord God: That I may declare all thy praises, in the gates of the daughter of Sion. 
 
 ** Psalms 73
 
@@ -4882,7 +4882,7 @@ Arise, O God, judge thy own cause: remember thy reproaches with which the foolis
 
 *** Psalms 73:23
 
-Forget not the voices of thy enemies: the pride of them that hate thee ascendeth continually. <chapter eID="gen16453" osisID="Ps.73"/>
+Forget not the voices of thy enemies: the pride of them that hate thee ascendeth continually. 
 
 ** Psalms 74
 
@@ -4928,7 +4928,7 @@ But I will declare for ever: I will sing to the God of Jacob.
 
 *** Psalms 74:11
 
-And I will break all the horns of sinners: but the horns of the just shall be exalted. <chapter eID="gen16477" osisID="Ps.74"/>
+And I will break all the horns of sinners: but the horns of the just shall be exalted. 
 
 ** Psalms 75
 
@@ -4982,7 +4982,7 @@ Vow ye, and pay to the Lord your God: all you that are round about him bring pre
 
 *** Psalms 75:13
 
-Even to him who taketh away the spirit of princes: to the terrible with the kings of the earth. <chapter eID="gen16489" osisID="Ps.75"/>
+Even to him who taketh away the spirit of princes: to the terrible with the kings of the earth. 
 
 ** Psalms 76
 
@@ -5068,7 +5068,7 @@ Thy way is in the sea, and thy paths in many waters: and thy footsteps shall not
 
 *** Psalms 76:21
 
-Thou hast conducted thy people like sheep, by the hand of Moses and Aaron. <chapter eID="gen16503" osisID="Ps.76"/>
+Thou hast conducted thy people like sheep, by the hand of Moses and Aaron. 
 
 ** Psalms 77
 
@@ -5358,7 +5358,7 @@ To feed Jacob his servant and Israel his inheritance.
 
 *** Psalms 77:72
 
-And he fed them in the innocence of his heart: and conducted them by the skilfulness of his hands. <chapter eID="gen16525" osisID="Ps.77"/>
+And he fed them in the innocence of his heart: and conducted them by the skilfulness of his hands. 
 
 ** Psalms 78
 
@@ -5412,7 +5412,7 @@ And render to our neighbours sevenfold in their bosom: the reproach wherewith th
 
 *** Psalms 78:13
 
-But we thy people, and the sheep of thy pasture, will give thanks to thee for ever. We will shew forth thy praise, unto generation and generation. <chapter eID="gen16598" osisID="Ps.78"/>
+But we thy people, and the sheep of thy pasture, will give thanks to thee for ever. We will shew forth thy praise, unto generation and generation. 
 
 ** Psalms 79
 
@@ -5494,7 +5494,7 @@ And we depart not from thee, thou shalt quicken us: and we will call upon thy na
 
 *** Psalms 79:20
 
-O Lord God of hosts, convert us and shew thy face, and we shall be saved. <chapter eID="gen16612" osisID="Ps.79"/>
+O Lord God of hosts, convert us and shew thy face, and we shall be saved. 
 
 ** Psalms 80
 
@@ -5564,7 +5564,7 @@ The enemies of the Lord have lied to him: and their time shall be for ever.
 
 *** Psalms 80:17
 
-And he fed them with the fat of wheat, and filled them with honey out of the rock. <chapter eID="gen16633" osisID="Ps.80"/>
+And he fed them with the fat of wheat, and filled them with honey out of the rock. 
 
 ** Psalms 81
 
@@ -5598,7 +5598,7 @@ But you like men shall die: and shall fall like one of the princes.
 
 *** Psalms 81:8
 
-Arise, O God, judge thou the earth: for thou shalt inherit among all the nations. <chapter eID="gen16651" osisID="Ps.81"/>
+Arise, O God, judge thou the earth: for thou shalt inherit among all the nations. 
 
 ** Psalms 82
 
@@ -5676,7 +5676,7 @@ Let them be ashamed and troubled for ever and ever: and let them be confounded a
 
 *** Psalms 82:19
 
-And let them know that the Lord is thy name: thou alone art the most High over all the earth. <chapter eID="gen16660" osisID="Ps.82"/>
+And let them know that the Lord is thy name: thou alone art the most High over all the earth. 
 
 ** Psalms 83
 
@@ -5730,7 +5730,7 @@ For God loveth mercy and truth: the Lord will give grace and glory.
 
 *** Psalms 83:13
 
-He will not deprive of good things them that walk in innocence: O Lord of hosts, blessed is the man that trusteth in thee. <chapter eID="gen16680" osisID="Ps.83"/>
+He will not deprive of good things them that walk in innocence: O Lord of hosts, blessed is the man that trusteth in thee. 
 
 ** Psalms 84
 
@@ -5788,7 +5788,7 @@ For the Lord will give goodness: and our earth shall yield her fruit.
 
 *** Psalms 84:14
 
-Justice shall walk before him: and he shall set his steps in the way. <chapter eID="gen16694" osisID="Ps.84"/>
+Justice shall walk before him: and he shall set his steps in the way. 
 
 ** Psalms 85
 
@@ -5858,7 +5858,7 @@ O look upon me, and have mercy on me: give thy command to thy servant, and save 
 
 *** Psalms 85:17
 
-Shew me a token for good: that they who hate me may see, and be confounded, because thou, O Lord, hast helped me and hast comforted me. <chapter eID="gen16709" osisID="Ps.85"/>
+Shew me a token for good: that they who hate me may see, and be confounded, because thou, O Lord, hast helped me and hast comforted me. 
 
 ** Psalms 86
 
@@ -5888,7 +5888,7 @@ The Lord shall tell in his writings of peoples and of princes, of them that have
 
 *** Psalms 86:7
 
-The dwelling in thee is as it were of all rejoicing. <chapter eID="gen16727" osisID="Ps.86"/>
+The dwelling in thee is as it were of all rejoicing. 
 
 ** Psalms 87
 
@@ -5966,7 +5966,7 @@ They have come round about me like water all the day: they have compassed me abo
 
 *** Psalms 87:19
 
-Friend and neighbour thou hast put far from me: and my acquaintance, because of misery. <chapter eID="gen16735" osisID="Ps.87"/>
+Friend and neighbour thou hast put far from me: and my acquaintance, because of misery. 
 
 ** Psalms 88
 
@@ -6180,7 +6180,7 @@ Wherewith thy enemies have reproached, O Lord; wherewith they have reproached th
 
 *** Psalms 88:53
 
-Blessed be the Lord for evermore. So be it. So be it. <chapter eID="gen16755" osisID="Ps.88"/>
+Blessed be the Lord for evermore. So be it. So be it. 
 
 ** Psalms 89
 
@@ -6250,7 +6250,7 @@ Look upon thy servants and upon their works: and direct their children.
 
 *** Psalms 89:17
 
-And let the brightness of the Lord our God be upon us: and direct thou the works of our hands over us; yea, the work of our hands do thou direct. <chapter eID="gen16809" osisID="Ps.89"/>
+And let the brightness of the Lord our God be upon us: and direct thou the works of our hands over us; yea, the work of our hands do thou direct. 
 
 ** Psalms 90
 
@@ -6316,7 +6316,7 @@ He shall cry to me, and I will hear him: I am with him in tribulation, I will de
 
 *** Psalms 90:16
 
-I will fill him with length of days; and I will shew him my salvation. <chapter eID="gen16827" osisID="Ps.90"/>
+I will fill him with length of days; and I will shew him my salvation. 
 
 ** Psalms 91
 
@@ -6382,7 +6382,7 @@ They shall still increase in a fruitful old age: and shall be well treated,
 
 *** Psalms 91:16
 
-That they may shew, That the Lord our God is righteous, and there is no iniquity in him. <chapter eID="gen16844" osisID="Ps.91"/>
+That they may shew, That the Lord our God is righteous, and there is no iniquity in him. 
 
 ** Psalms 92
 
@@ -6404,7 +6404,7 @@ With the noise of many waters. Wonderful are the surges of the sea: wonderful is
 
 *** Psalms 92:5
 
-Thy testimonies are become exceedingly credible: holiness becometh thy house, O Lord, unto length of days. <chapter eID="gen16861" osisID="Ps.92"/>
+Thy testimonies are become exceedingly credible: holiness becometh thy house, O Lord, unto length of days. 
 
 ** Psalms 93
 
@@ -6498,7 +6498,7 @@ But the Lord is my refuge: and my God the help of my hope.
 
 *** Psalms 93:23
 
-And he will render them their iniquity : and in their malice he will destroy them: the Lord our God will destroy them. <chapter eID="gen16867" osisID="Ps.93"/>
+And he will render them their iniquity : and in their malice he will destroy them: the Lord our God will destroy them. 
 
 ** Psalms 94
 
@@ -6544,7 +6544,7 @@ Forty years long was I offended with that generation, and I said: These always e
 
 *** Psalms 94:11
 
-And these men have not known my ways: so I swore in my wrath that they shall not enter into my rest. <chapter eID="gen16891" osisID="Ps.94"/>
+And these men have not known my ways: so I swore in my wrath that they shall not enter into my rest. 
 
 ** Psalms 95
 
@@ -6598,7 +6598,7 @@ The fields and all things that are in them shall be joyful. Then shall all the t
 
 *** Psalms 95:13
 
-before the face of the Lord, because he cometh: because he cometh to judge the earth. He shall judge the world with justice, and the people with his truth. <chapter eID="gen16903" osisID="Ps.95"/>
+before the face of the Lord, because he cometh: because he cometh to judge the earth. He shall judge the world with justice, and the people with his truth. 
 
 ** Psalms 96
 
@@ -6648,7 +6648,7 @@ Light is risen to the just, and joy to the right of heart.
 
 *** Psalms 96:12
 
-Rejoice, ye just, in the Lord: and give praise to the remembrance of his holiness. <chapter eID="gen16917" osisID="Ps.96"/>
+Rejoice, ye just, in the Lord: and give praise to the remembrance of his holiness. 
 
 ** Psalms 97
 
@@ -6686,7 +6686,7 @@ The rivers shall clap their hands, the mountains shall rejoice together
 
 *** Psalms 97:9
 
-At the presence of the Lord: because he cometh to judge the earth. He shall judge the world with justice, and the people with equity. <chapter eID="gen16930" osisID="Ps.97"/>
+At the presence of the Lord: because he cometh to judge the earth. He shall judge the world with justice, and the people with equity. 
 
 ** Psalms 98
 
@@ -6724,7 +6724,7 @@ Thou didst hear them, O Lord our God: thou wast a merciful God to them, and taki
 
 *** Psalms 98:9
 
-Exalt ye the Lord our God, and adore at his holy mountain: for the Lord our God is holy. <chapter eID="gen16940" osisID="Ps.98"/>
+Exalt ye the Lord our God, and adore at his holy mountain: for the Lord our God is holy. 
 
 ** Psalms 99
 
@@ -6746,7 +6746,7 @@ Go ye into his gates with praise, into his courts with hymns: and give glory to 
 
 *** Psalms 99:5
 
-For the Lord is sweet, his mercy endureth for ever, and his truth to generation and generation. <chapter eID="gen16950" osisID="Ps.99"/>
+For the Lord is sweet, his mercy endureth for ever, and his truth to generation and generation. 
 
 ** Psalms 100
 
@@ -6780,7 +6780,7 @@ He that worketh pride shall not dwell in the midst of my house: he that speaketh
 
 *** Psalms 100:8
 
-In the morning I put to death all the wicked of the land: that I might cut off all the workers of iniquity from the city of the Lord. <chapter eID="gen16956" osisID="Ps.100"/>
+In the morning I put to death all the wicked of the land: that I might cut off all the workers of iniquity from the city of the Lord. 
 
 ** Psalms 101
 
@@ -6898,7 +6898,7 @@ But thou art always the selfsame, and thy years shall not fail.
 
 *** Psalms 101:29
 
-The children of thy servants shall continue and their seed shall be directed for ever. <chapter eID="gen16965" osisID="Ps.101"/>
+The children of thy servants shall continue and their seed shall be directed for ever. 
 
 ** Psalms 102
 
@@ -6988,7 +6988,7 @@ Bless the Lord, all ye his hosts: you ministers of his that do his will.
 
 *** Psalms 102:22
 
-Bless the Lord, all his works: in every place of his dominion, O my soul, bless thou the Lord. <chapter eID="gen16995" osisID="Ps.102"/>
+Bless the Lord, all his works: in every place of his dominion, O my soul, bless thou the Lord. 
 
 ** Psalms 103
 
@@ -7130,7 +7130,7 @@ Let my speech be acceptable to him: but I will take delight in the Lord.
 
 *** Psalms 103:35
 
-Let sinners be consumed out of the earth, and the unjust, so that they be no more: O my soul, bless thou the Lord. <chapter eID="gen17018" osisID="Ps.103"/>
+Let sinners be consumed out of the earth, and the unjust, so that they be no more: O my soul, bless thou the Lord. 
 
 ** Psalms 104
 
@@ -7312,7 +7312,7 @@ And he gave them the lands of the Gentiles: and they possessed the labours of th
 
 *** Psalms 104:45
 
-That they might observe his justifications, and seek after his law. <chapter eID="gen17054" osisID="Ps.104"/>
+That they might observe his justifications, and seek after his law. 
 
 ** Psalms 105
 
@@ -7506,7 +7506,7 @@ Save us, O Lord, our God: and gather us from among the nations: That we may give
 
 *** Psalms 105:48
 
-Blessed be the Lord the God of Israel, from everlasting to everlasting: and let all the people say: So be it, so be it. <chapter eID="gen17100" osisID="Ps.105"/>
+Blessed be the Lord the God of Israel, from everlasting to everlasting: and let all the people say: So be it, so be it. 
 
 ** Psalms 106
 
@@ -7680,7 +7680,7 @@ The just shall see, and shall rejoice, and all iniquity shall stop her mouth.
 
 *** Psalms 106:43
 
-Who is wise, and will keep these things; and will understand the mercies of the Lord? <chapter eID="gen17149" osisID="Ps.106"/>
+Who is wise, and will keep these things; and will understand the mercies of the Lord? 
 
 ** Psalms 107
 
@@ -7738,7 +7738,7 @@ O grant us help from trouble: for vain is the help of man.
 
 *** Psalms 107:14
 
-Through God we shall do mightily: and he will bring our enemies to nothing. <chapter eID="gen17193" osisID="Ps.107"/>
+Through God we shall do mightily: and he will bring our enemies to nothing. 
 
 ** Psalms 108
 
@@ -7864,7 +7864,7 @@ I will give great thanks to the Lord with my mouth: and in the midst of many I w
 
 *** Psalms 108:31
 
-Because he hath stood at the right hand of the poor, to save my soul from persecutors. <chapter eID="gen17208" osisID="Ps.108"/>
+Because he hath stood at the right hand of the poor, to save my soul from persecutors. 
 
 ** Psalms 109
 
@@ -7894,7 +7894,7 @@ He shall judge among nations, he shall fill ruins: he shall crush the heads in t
 
 *** Psalms 109:7
 
-He shall drink of the torrent in the way: therefore shall he lift up the head. <chapter eID="gen17240" osisID="Ps.109"/>
+He shall drink of the torrent in the way: therefore shall he lift up the head. 
 
 ** Psalms 110
 
@@ -7936,7 +7936,7 @@ He hath sent redemption to his people: he hath commanded his covenant for ever. 
 
 *** Psalms 110:10
 
-The fear of the Lord is the beginning of wisdom. A good understanding to all that do it: his praise continueth for ever and ever. <chapter eID="gen17248" osisID="Ps.110"/>
+The fear of the Lord is the beginning of wisdom. A good understanding to all that do it: his praise continueth for ever and ever. 
 
 ** Psalms 111
 
@@ -7978,7 +7978,7 @@ He hath distributed, he hath given to the poor: his justice remaineth for ever a
 
 *** Psalms 111:10
 
-The wicked shall see, and shall be angry, he shall gnash with his teeth and pine away: the desire of the wicked shall perish. <chapter eID="gen17259" osisID="Ps.111"/>
+The wicked shall see, and shall be angry, he shall gnash with his teeth and pine away: the desire of the wicked shall perish. 
 
 ** Psalms 112
 
@@ -8016,7 +8016,7 @@ That he may place him with princes, with the princes of his people.
 
 *** Psalms 112:9
 
-Who maketh a barren woman to dwell in a house, the joyful mother of children. <chapter eID="gen17270" osisID="Ps.112"/>
+Who maketh a barren woman to dwell in a house, the joyful mother of children. 
 
 ** Psalms 113
 
@@ -8122,7 +8122,7 @@ The dead shall not praise thee, O Lord: nor any of them that go down to hell.
 
 *** Psalms 113:26
 
-But we that live bless the Lord: from this time now and for ever. <chapter eID="gen17280" osisID="Ps.113"/>
+But we that live bless the Lord: from this time now and for ever. 
 
 ** Psalms 114
 
@@ -8160,7 +8160,7 @@ For he hath delivered my soul from death: my eyes from tears, my feet from falli
 
 *** Psalms 114:9
 
-I will please the Lord in the land of the living. <chapter eID="gen17307" osisID="Ps.114"/>
+I will please the Lord in the land of the living. 
 
 ** Psalms 115
 
@@ -8202,7 +8202,7 @@ I will pay my vows to the Lord in the sight of all his people:
 
 *** Psalms 115:10
 
-In the courts of the house of the Lord, in the midst of thee, O Jerusalem. <chapter eID="gen17317" osisID="Ps.115"/>
+In the courts of the house of the Lord, in the midst of thee, O Jerusalem. 
 
 ** Psalms 116
 
@@ -8212,7 +8212,7 @@ O Praise the Lord, all ye nations: praise him, all ye people.
 
 *** Psalms 116:2
 
-For his mercy is confirmed upon us: and the truth of the Lord remaineth for ever. <chapter eID="gen17328" osisID="Ps.116"/>
+For his mercy is confirmed upon us: and the truth of the Lord remaineth for ever. 
 
 ** Psalms 117
 
@@ -8330,7 +8330,7 @@ Thou art my God, and I will praise thee: thou art my God, and I will exalt thee.
 
 *** Psalms 117:29
 
-O praise ye the Lord, for he is good: for his mercy endureth for ever. <chapter eID="gen17331" osisID="Ps.117"/>
+O praise ye the Lord, for he is good: for his mercy endureth for ever. 
 
 ** Psalms 118
 
@@ -9036,7 +9036,7 @@ My soul shall live and shall praise thee: and thy judgments shall help me.
 
 *** Psalms 118:176
 
-I have gone astray like a sheep that is lost: seek thy servant, because I have not forgotten thy commandments. <chapter eID="gen17361" osisID="Ps.118"/>
+I have gone astray like a sheep that is lost: seek thy servant, because I have not forgotten thy commandments. 
 
 ** Psalms 119
 
@@ -9066,7 +9066,7 @@ My soul hath been long a sojourner.
 
 *** Psalms 119:7
 
-With them that hated peace I was peaceable: when I spoke to them they fought against me without cause. <chapter eID="gen17538" osisID="Ps.119"/>
+With them that hated peace I was peaceable: when I spoke to them they fought against me without cause. 
 
 ** Psalms 120
 
@@ -9100,7 +9100,7 @@ The Lord keepeth thee from all evil: may the Lord keep thy soul.
 
 *** Psalms 120:8
 
-May the Lord keep thy coming in and thy going out; from henceforth now and for ever. <chapter eID="gen17546" osisID="Ps.120"/>
+May the Lord keep thy coming in and thy going out; from henceforth now and for ever. 
 
 ** Psalms 121
 
@@ -9138,7 +9138,7 @@ For the sake of my brethren, and of my neighbours, I spoke peace of thee.
 
 *** Psalms 121:9
 
-Because of the house of the Lord our God, I have sought good things for thee. <chapter eID="gen17555" osisID="Ps.121"/>
+Because of the house of the Lord our God, I have sought good things for thee. 
 
 ** Psalms 122
 
@@ -9156,7 +9156,7 @@ Have mercy on us, O Lord, have mercy on us: for we are greatly filled with conte
 
 *** Psalms 122:4
 
-For our soul is greatly filled: we are a reproach to the rich, and contempt to the proud. <chapter eID="gen17565" osisID="Ps.122"/>
+For our soul is greatly filled: we are a reproach to the rich, and contempt to the proud. 
 
 ** Psalms 123
 
@@ -9190,7 +9190,7 @@ Our soul hath been delivered as a sparrow out of the snare of the fowlers. The s
 
 *** Psalms 123:8
 
-Our help is in the name of the Lord, who made heaven and earth. <chapter eID="gen17570" osisID="Ps.123"/>
+Our help is in the name of the Lord, who made heaven and earth. 
 
 ** Psalms 124
 
@@ -9212,7 +9212,7 @@ Do good, O Lord, to those that are good, and to the upright of heart.
 
 *** Psalms 124:5
 
-But such as turn aside into bonds, the Lord shall lead out with the workers of iniquity: peace upon Israel. <chapter eID="gen17579" osisID="Ps.124"/>
+But such as turn aside into bonds, the Lord shall lead out with the workers of iniquity: peace upon Israel. 
 
 ** Psalms 125
 
@@ -9242,7 +9242,7 @@ Going they went and wept, casting their seeds.
 
 *** Psalms 125:7
 
-But coming they shall come with joyfulness, carrying their sheaves. <chapter eID="gen17585" osisID="Ps.125"/>
+But coming they shall come with joyfulness, carrying their sheaves. 
 
 ** Psalms 126
 
@@ -9264,7 +9264,7 @@ As arrows in the hand of the mighty, so the children of them that have been shak
 
 *** Psalms 126:5
 
-Blessed is the man that hath filled the desire with them; he shall not be confounded when he shall speak to his enemies in the gate. <chapter eID="gen17593" osisID="Ps.126"/>
+Blessed is the man that hath filled the desire with them; he shall not be confounded when he shall speak to his enemies in the gate. 
 
 ** Psalms 127
 
@@ -9290,7 +9290,7 @@ May the Lord bless thee out of Sion: and mayst thou see the good things of Jerus
 
 *** Psalms 127:6
 
-And mayst thou see thy children's children, peace upon Israel. <chapter eID="gen17599" osisID="Ps.127"/>
+And mayst thou see thy children's children, peace upon Israel. 
 
 ** Psalms 128
 
@@ -9324,7 +9324,7 @@ Who with the mower filleth not his hand: nor he that gathereth sheaves his bosom
 
 *** Psalms 128:8
 
-And they that passed by have not said: The blessing of the Lord be upon you: we have blessed you in the name of the Lord. <chapter eID="gen17606" osisID="Ps.128"/>
+And they that passed by have not said: The blessing of the Lord be upon you: we have blessed you in the name of the Lord. 
 
 ** Psalms 129
 
@@ -9358,7 +9358,7 @@ Because with the Lord there is mercy: and with him plentiful redemption.
 
 *** Psalms 129:8
 
-And he shall redeem Israel from all his iniquities. <chapter eID="gen17615" osisID="Ps.129"/>
+And he shall redeem Israel from all his iniquities. 
 
 ** Psalms 130
 
@@ -9372,7 +9372,7 @@ If I was not humbly minded, but exalted my soul: As a child that is weaned is to
 
 *** Psalms 130:3
 
-Let Israel hope in the Lord, from henceforth now and for ever. <chapter eID="gen17624" osisID="Ps.130"/>
+Let Israel hope in the Lord, from henceforth now and for ever. 
 
 ** Psalms 131
 
@@ -9446,7 +9446,7 @@ There will I bring forth a horn to David: I have prepared a lamp for my anointed
 
 *** Psalms 131:18
 
-His enemies I will clothe with confusion: but upon him shall my sanctification flourish. <chapter eID="gen17628" osisID="Ps.131"/>
+His enemies I will clothe with confusion: but upon him shall my sanctification flourish. 
 
 ** Psalms 132
 
@@ -9460,7 +9460,7 @@ Like the precious ointment on the head, that ran down upon the beard, the beard 
 
 *** Psalms 132:3
 
-As the dew of Hermon, which descendeth upon mount Sion. For there the Lord hath commanded blessing, and life for evermore. <chapter eID="gen17647" osisID="Ps.132"/>
+As the dew of Hermon, which descendeth upon mount Sion. For there the Lord hath commanded blessing, and life for evermore. 
 
 ** Psalms 133
 
@@ -9474,7 +9474,7 @@ In the nights lift up your hands to the holy places, and bless ye the Lord.
 
 *** Psalms 133:3
 
-May the Lord out of Sion bless thee, he that made heaven and earth. <chapter eID="gen17651" osisID="Ps.133"/>
+May the Lord out of Sion bless thee, he that made heaven and earth. 
 
 ** Psalms 134
 
@@ -9560,7 +9560,7 @@ Bless the Lord, O house of Levi: you that fear the Lord, bless the Lord.
 
 *** Psalms 134:21
 
-Blessed be the Lord out of Sion, who dwelleth in Jerusalem. <chapter eID="gen17655" osisID="Ps.134"/>
+Blessed be the Lord out of Sion, who dwelleth in Jerusalem. 
 
 ** Psalms 135
 
@@ -9670,7 +9670,7 @@ Give glory to the God of heaven: for his mercy endureth for ever.
 
 *** Psalms 135:27
 
-Give glory to the Lord of lords: for his mercy endureth for ever. <chapter eID="gen17677" osisID="Ps.135"/>
+Give glory to the Lord of lords: for his mercy endureth for ever. 
 
 ** Psalms 136
 
@@ -9708,7 +9708,7 @@ O daughter of Babylon, miserable: blessed shall he be who shall repay thee thy p
 
 *** Psalms 136:9
 
-Blessed be he that shall take and dash thy little ones against the rock. <chapter eID="gen17705" osisID="Ps.136"/>
+Blessed be he that shall take and dash thy little ones against the rock. 
 
 ** Psalms 137
 
@@ -9742,7 +9742,7 @@ If I shall walk in the midst of tribulation, thou wilt quicken me: and thou hast
 
 *** Psalms 137:8
 
-The Lord will repay for me: thy mercy, O Lord, endureth for ever: O despise not the works of thy hands. <chapter eID="gen17715" osisID="Ps.137"/>
+The Lord will repay for me: thy mercy, O Lord, endureth for ever: O despise not the works of thy hands. 
 
 ** Psalms 138
 
@@ -9840,7 +9840,7 @@ Prove me, O God, and know my heart: examine me, and know my paths.
 
 *** Psalms 138:24
 
-And see if there be in me the way of iniquity: and lead me in the eternal way. <chapter eID="gen17724" osisID="Ps.138"/>
+And see if there be in me the way of iniquity: and lead me in the eternal way. 
 
 ** Psalms 139
 
@@ -9898,7 +9898,7 @@ I know that the Lord will do justice to the needy, and will revenge the poor.
 
 *** Psalms 139:14
 
-But as for the just, they shall give glory to thy name: and the upright shall dwell with thy countenance. <chapter eID="gen17749" osisID="Ps.139"/>
+But as for the just, they shall give glory to thy name: and the upright shall dwell with thy countenance. 
 
 ** Psalms 140
 
@@ -9940,7 +9940,7 @@ Keep me from the snare, which they have laid for me, and from the stumblingblock
 
 *** Psalms 140:10
 
-The wicked shall fall in his net: I am alone until I pass. <chapter eID="gen17764" osisID="Ps.140"/>
+The wicked shall fall in his net: I am alone until I pass. 
 
 ** Psalms 141
 
@@ -9974,7 +9974,7 @@ Attend to my supplication: for I am brought very low. Deliver me from my persecu
 
 *** Psalms 141:8
 
-Bring my soul out of prison, that I may praise thy name: the just wait for me, until thou reward me. <chapter eID="gen17775" osisID="Ps.141"/>
+Bring my soul out of prison, that I may praise thy name: the just wait for me, until thou reward me. 
 
 ** Psalms 142
 
@@ -10024,7 +10024,7 @@ for thy name's sake, O Lord, thou wilt quicken me in thy justice. Thou wilt brin
 
 *** Psalms 142:12
 
-And in thy mercy thou wilt destroy my enemies. And thou wilt cut off all them that afflict my soul: for I am thy servant. <chapter eID="gen17784" osisID="Ps.142"/>
+And in thy mercy thou wilt destroy my enemies. And thou wilt cut off all them that afflict my soul: for I am thy servant. 
 
 ** Psalms 143
 
@@ -10086,7 +10086,7 @@ Their oxen fat. There is no breach of wall, nor passage, nor crying out in their
 
 *** Psalms 143:15
 
-They have called the people happy, that hath these things: but happy is that people whose God is the Lord. <chapter eID="gen17797" osisID="Ps.143"/>
+They have called the people happy, that hath these things: but happy is that people whose God is the Lord. 
 
 ** Psalms 144
 
@@ -10172,7 +10172,7 @@ The Lord keepeth all them that love him; but all the wicked he will destroy.
 
 *** Psalms 144:21
 
-My mouth shall speak the praise of the Lord: and let all flesh bless his holy name forever; yea, for ever and ever. <chapter eID="gen17813" osisID="Ps.144"/>
+My mouth shall speak the praise of the Lord: and let all flesh bless his holy name forever; yea, for ever and ever. 
 
 ** Psalms 145
 
@@ -10214,7 +10214,7 @@ The Lord keepeth the strangers, he will support the fatherless and the widow: an
 
 *** Psalms 145:10
 
-The Lord shall reign for ever: thy God, O Sion, unto generation and generation. <chapter eID="gen17835" osisID="Ps.145"/>
+The Lord shall reign for ever: thy God, O Sion, unto generation and generation. 
 
 ** Psalms 146
 
@@ -10260,7 +10260,7 @@ He shall not delight in the strength of the horse: nor take pleasure in the legs
 
 *** Psalms 146:11
 
-The Lord taketh pleasure in them that fear him: and in them that hope in his mercy. <chapter eID="gen17846" osisID="Ps.146"/>
+The Lord taketh pleasure in them that fear him: and in them that hope in his mercy. 
 
 ** Psalms 147
 
@@ -10298,7 +10298,7 @@ Who declareth his word to Jacob: his justices and his judgments to Israel.
 
 *** Psalms 147:9
 
-He hath not done in like manner to every nation: and his judgments he hath not made manifest to them. Alleluia. <chapter eID="gen17858" osisID="Ps.147"/>
+He hath not done in like manner to every nation: and his judgments he hath not made manifest to them. Alleluia. 
 
 ** Psalms 148
 
@@ -10356,7 +10356,7 @@ For his name alone is exalted.
 
 *** Psalms 148:14
 
-The praise of him is above heaven and earth: and he hath exalted the horn of his people. A hymn to all his saints to the children of Israel, a people approaching to him. Alleluia. <chapter eID="gen17868" osisID="Ps.148"/>
+The praise of him is above heaven and earth: and he hath exalted the horn of his people. A hymn to all his saints to the children of Israel, a people approaching to him. Alleluia. 
 
 ** Psalms 149
 
@@ -10394,7 +10394,7 @@ To bind their kings with fetters, and their nobles with manacles of iron.
 
 *** Psalms 149:9
 
-To execute upon them the judgment that is written: this glory is to all his saints. Alleluia. <chapter eID="gen17883" osisID="Ps.149"/>
+To execute upon them the judgment that is written: this glory is to all his saints. Alleluia. 
 
 ** Psalms 150
 
@@ -10416,7 +10416,7 @@ Praise him with timbrel and choir: praise him with strings and organs.
 
 *** Psalms 150:5
 
-Praise him on high sounding cymbals: praise him on cymbals of joy: let every spirit praise the Lord. Alleluia. <chapter eID="gen17893" osisID="Ps.150"/> <div eID="gen15218" osisID="Ps" type="book"/>
+Praise him on high sounding cymbals: praise him on cymbals of joy: let every spirit praise the Lord. Alleluia.  
 
 *** Psalms 150:6
 

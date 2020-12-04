@@ -42,7 +42,7 @@ And the number of the children of Israel shall be as the sand of the sea, that i
 
 *** Hosea 1:11
 
-And the children of Juda, and the children of Israel, shall be gathered together: and they shall appoint themselves one head, and shall come up out of the land: for great is the day of Jezrahel. <chapter eID="gen26338" osisID="Hos.1"/>
+And the children of Juda, and the children of Israel, shall be gathered together: and they shall appoint themselves one head, and shall come up out of the land: for great is the day of Jezrahel. 
 
 ** Hosea 2
 
@@ -140,7 +140,7 @@ And I will sow her unto me in the earth, and I will have mercy on her that was w
 
 *** Hosea 2:24
 
-And I will say to that which is not my people: Thou art my people: and they shall say: Thou art my God. <chapter eID="gen26350" osisID="Hos.2"/>
+And I will say to that which is not my people: Thou art my people: and they shall say: Thou art my God. 
 
 ** Hosea 3
 
@@ -162,7 +162,7 @@ For the children of Israel shall sit many days without king, and without prince,
 
 *** Hosea 3:5
 
-And after this the children of Israel shall return and shall seek the Lord, their God, and David, their king: and they shall fear the Lord, and his goodness, in the last days. <chapter eID="gen26375" osisID="Hos.3"/>
+And after this the children of Israel shall return and shall seek the Lord, their God, and David, their king: and they shall fear the Lord, and his goodness, in the last days. 
 
 ** Hosea 4
 
@@ -240,7 +240,7 @@ Their banquet is separated, they have gone astray by fornication: they that shou
 
 *** Hosea 4:19
 
-The wind hath bound them up in its wings, and they shall be confounded because of their sacrifices. <chapter eID="gen26381" osisID="Hos.4"/>
+The wind hath bound them up in its wings, and they shall be confounded because of their sacrifices. 
 
 ** Hosea 5
 
@@ -302,7 +302,7 @@ For I will be like a lioness to Ephraim, and like a lion's whelp to the house of
 
 *** Hosea 5:15
 
-I will go and return to my place: until you are consumed, and seek my face. <chapter eID="gen26401" osisID="Hos.5"/>
+I will go and return to my place: until you are consumed, and seek my face. 
 
 ** Hosea 6
 
@@ -348,7 +348,7 @@ I have seen a horrible thing in the house of Israel: the fornications of Ephraim
 
 *** Hosea 6:11
 
-And thou also, O Juda, set thee a harvest, when I shall bring back the captivity of my people. <chapter eID="gen26417" osisID="Hos.6"/>
+And thou also, O Juda, set thee a harvest, when I shall bring back the captivity of my people. 
 
 ** Hosea 7
 
@@ -414,7 +414,7 @@ And I have chastised them, and strengthened their arms: and they have imagined e
 
 *** Hosea 7:16
 
-They returned, that they might be without yoke: they became like a deceitful bow: their princes shall fall by the sword, for the rage of their tongue. This is their derision in the land of Egypt. <chapter eID="gen26429" osisID="Hos.7"/>
+They returned, that they might be without yoke: they became like a deceitful bow: their princes shall fall by the sword, for the rage of their tongue. This is their derision in the land of Egypt. 
 
 ** Hosea 8
 
@@ -472,7 +472,7 @@ They shall offer victims, they shall sacrifice flesh, and shall eat it, and the 
 
 *** Hosea 8:14
 
-And Israel hath forgotten his Maker, and hath built temples: and Juda hath built many fenced cities: and I will send a fire upon his cities, and it shall devour the houses thereof. <chapter eID="gen26446" osisID="Hos.8"/>
+And Israel hath forgotten his Maker, and hath built temples: and Juda hath built many fenced cities: and I will send a fire upon his cities, and it shall devour the houses thereof. 
 
 ** Hosea 9
 
@@ -542,7 +542,7 @@ Ephraim is struck, their root is dried up, they shall yield no fruit. And if the
 
 *** Hosea 9:17
 
-My God will cast them away, because they hearkened not to him: and they shall be wanderers among the nations. <chapter eID="gen26461" osisID="Hos.9"/>
+My God will cast them away, because they hearkened not to him: and they shall be wanderers among the nations. 
 
 ** Hosea 10
 
@@ -604,7 +604,7 @@ A tumult shall arise among thy people: and all thy fortresses shall be destroyed
 
 *** Hosea 10:15
 
-So hath Bethel done to you, because of the evil of your iniquities. <chapter eID="gen26479" osisID="Hos.10"/>
+So hath Bethel done to you, because of the evil of your iniquities. 
 
 ** Hosea 11
 
@@ -654,7 +654,7 @@ And they shall fly away like a bird out of Egypt, and like a dove out of the lan
 
 *** Hosea 11:12
 
-Ephraim hath compassed me about with denials, and the house of Israel with deceit: but Juda went down as a witness with God, and is faithful with the saints. <chapter eID="gen26495" osisID="Hos.11"/>
+Ephraim hath compassed me about with denials, and the house of Israel with deceit: but Juda went down as a witness with God, and is faithful with the saints. 
 
 ** Hosea 12
 
@@ -712,7 +712,7 @@ But the Lord by a prophet brought Israel out of Egypt: and he was preserved by a
 
 *** Hosea 12:14
 
-Ephraim hath provoked me to wrath with his bitterness, and his blood shall come upon him, and his Lord will render his reproach unto him. <chapter eID="gen26508" osisID="Hos.12"/>
+Ephraim hath provoked me to wrath with his bitterness, and his blood shall come upon him, and his Lord will render his reproach unto him. 
 
 ** Hosea 13
 
@@ -774,7 +774,7 @@ I will deliver them out of the hand of death. I will redeem them from death: O d
 
 *** Hosea 13:15
 
-Because he shall make a separation between brothers: the Lord will bring a burning wind that shall rise from the desert, and it shall dry up his springs, and shall make his fountain desolate, and he shall carry off the treasure of every desirable vessel. <chapter eID="gen26523" osisID="Hos.13"/>
+Because he shall make a separation between brothers: the Lord will bring a burning wind that shall rise from the desert, and it shall dry up his springs, and shall make his fountain desolate, and he shall carry off the treasure of every desirable vessel. 
 
 ** Hosea 14
 
@@ -816,4 +816,4 @@ Ephraim shall say, What have I to do any more with idols? I will hear him, and I
 
 *** Hosea 14:10
 
-Who is wise, and he shall understand these things? prudent, and he shall know these things? for the ways of the Lord are right, and the just shall walk in them: but the transgressors shall fall in them. <chapter eID="gen26539" osisID="Hos.14"/> <div eID="gen26337" osisID="Hos" type="book"/>
+Who is wise, and he shall understand these things? prudent, and he shall know these things? for the ways of the Lord are right, and the just shall walk in them: but the transgressors shall fall in them.  
