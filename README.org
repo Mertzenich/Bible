@@ -1,7 +1,7 @@
 #+TITLE: Adam's Bible Repository
 
 * About
-This project is a set of translations of the Holy Bible with some EMACS ORG-MODE versions. I use sword-to-org to convert the books to ORG.
+This project is a set of translations of the Holy Bible in a convenient Emacs ORG mode format.
 
 * How it's made
 This project was made possible by using [[https://github.com/alphapapa/sword-to-org][sword-to-org]] with some slight modifications.
