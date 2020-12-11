@@ -1,0 +1,4397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:38 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org17a7804">1. Nehemiah 1</a>
+<ul>
+<li><a href="#orgd571982">1.1. Nehemiah 1:1</a></li>
+<li><a href="#org322cef2">1.2. Nehemiah 1:2</a></li>
+<li><a href="#org791edc0">1.3. Nehemiah 1:3</a></li>
+<li><a href="#orgca82788">1.4. Nehemiah 1:4</a></li>
+<li><a href="#org2b9754d">1.5. Nehemiah 1:5</a></li>
+<li><a href="#orgdb87dfe">1.6. Nehemiah 1:6</a></li>
+<li><a href="#org9becda7">1.7. Nehemiah 1:7</a></li>
+<li><a href="#org97958f1">1.8. Nehemiah 1:8</a></li>
+<li><a href="#org3273f65">1.9. Nehemiah 1:9</a></li>
+<li><a href="#orgabbd213">1.10. Nehemiah 1:10</a></li>
+<li><a href="#org408ab7e">1.11. Nehemiah 1:11</a></li>
+</ul>
+</li>
+<li><a href="#orge665d5c">2. Nehemiah 2</a>
+<ul>
+<li><a href="#org4ec16ef">2.1. Nehemiah 2:1</a></li>
+<li><a href="#org931ce58">2.2. Nehemiah 2:2</a></li>
+<li><a href="#orgfe712da">2.3. Nehemiah 2:3</a></li>
+<li><a href="#org6a9337b">2.4. Nehemiah 2:4</a></li>
+<li><a href="#orgab8814e">2.5. Nehemiah 2:5</a></li>
+<li><a href="#org0d43368">2.6. Nehemiah 2:6</a></li>
+<li><a href="#orge8c3c3e">2.7. Nehemiah 2:7</a></li>
+<li><a href="#org001c806">2.8. Nehemiah 2:8</a></li>
+<li><a href="#orgdbaea9d">2.9. Nehemiah 2:9</a></li>
+<li><a href="#orgf870719">2.10. Nehemiah 2:10</a></li>
+<li><a href="#orgd5a4a32">2.11. Nehemiah 2:11</a></li>
+<li><a href="#org665e394">2.12. Nehemiah 2:12</a></li>
+<li><a href="#org9a34f0d">2.13. Nehemiah 2:13</a></li>
+<li><a href="#org52f923d">2.14. Nehemiah 2:14</a></li>
+<li><a href="#org181ee50">2.15. Nehemiah 2:15</a></li>
+<li><a href="#org332353e">2.16. Nehemiah 2:16</a></li>
+<li><a href="#org39554a7">2.17. Nehemiah 2:17</a></li>
+<li><a href="#org29d5ca0">2.18. Nehemiah 2:18</a></li>
+<li><a href="#org71d5373">2.19. Nehemiah 2:19</a></li>
+<li><a href="#org6226891">2.20. Nehemiah 2:20</a></li>
+</ul>
+</li>
+<li><a href="#org4b9f17d">3. Nehemiah 3</a>
+<ul>
+<li><a href="#org33b1a8b">3.1. Nehemiah 3:1</a></li>
+<li><a href="#org81ee6aa">3.2. Nehemiah 3:2</a></li>
+<li><a href="#orgf936fa5">3.3. Nehemiah 3:3</a></li>
+<li><a href="#org27ccb34">3.4. Nehemiah 3:4</a></li>
+<li><a href="#org9944dde">3.5. Nehemiah 3:5</a></li>
+<li><a href="#org99bbcc1">3.6. Nehemiah 3:6</a></li>
+<li><a href="#orgcf4343f">3.7. Nehemiah 3:7</a></li>
+<li><a href="#orga445841">3.8. Nehemiah 3:8</a></li>
+<li><a href="#org458a3b2">3.9. Nehemiah 3:9</a></li>
+<li><a href="#orgad9105e">3.10. Nehemiah 3:10</a></li>
+<li><a href="#org77112da">3.11. Nehemiah 3:11</a></li>
+<li><a href="#org56b5b57">3.12. Nehemiah 3:12</a></li>
+<li><a href="#org3f7ca2d">3.13. Nehemiah 3:13</a></li>
+<li><a href="#org5d0cddb">3.14. Nehemiah 3:14</a></li>
+<li><a href="#org975651c">3.15. Nehemiah 3:15</a></li>
+<li><a href="#orgec343da">3.16. Nehemiah 3:16</a></li>
+<li><a href="#org738e651">3.17. Nehemiah 3:17</a></li>
+<li><a href="#org7ea9815">3.18. Nehemiah 3:18</a></li>
+<li><a href="#orgee63c11">3.19. Nehemiah 3:19</a></li>
+<li><a href="#org7e7ceb5">3.20. Nehemiah 3:20</a></li>
+<li><a href="#orga38b5d8">3.21. Nehemiah 3:21</a></li>
+<li><a href="#org5107370">3.22. Nehemiah 3:22</a></li>
+<li><a href="#orgc5a2030">3.23. Nehemiah 3:23</a></li>
+<li><a href="#org175bea5">3.24. Nehemiah 3:24</a></li>
+<li><a href="#orgb3860e0">3.25. Nehemiah 3:25</a></li>
+<li><a href="#org4dc8cd7">3.26. Nehemiah 3:26</a></li>
+<li><a href="#org4eb8abc">3.27. Nehemiah 3:27</a></li>
+<li><a href="#org1f687f4">3.28. Nehemiah 3:28</a></li>
+<li><a href="#org89b5de6">3.29. Nehemiah 3:29</a></li>
+<li><a href="#org819462c">3.30. Nehemiah 3:30</a></li>
+<li><a href="#org2b4e106">3.31. Nehemiah 3:31</a></li>
+</ul>
+</li>
+<li><a href="#orgb29d3c3">4. Nehemiah 4</a>
+<ul>
+<li><a href="#orgd6ba4a3">4.1. Nehemiah 4:1</a></li>
+<li><a href="#org2137c0f">4.2. Nehemiah 4:2</a></li>
+<li><a href="#orgae90de7">4.3. Nehemiah 4:3</a></li>
+<li><a href="#org8786af8">4.4. Nehemiah 4:4</a></li>
+<li><a href="#org6fe5d2d">4.5. Nehemiah 4:5</a></li>
+<li><a href="#orgf578f05">4.6. Nehemiah 4:6</a></li>
+<li><a href="#org8c4fc3b">4.7. Nehemiah 4:7</a></li>
+<li><a href="#org786d458">4.8. Nehemiah 4:8</a></li>
+<li><a href="#org61c620d">4.9. Nehemiah 4:9</a></li>
+<li><a href="#orgcfd2ce1">4.10. Nehemiah 4:10</a></li>
+<li><a href="#org87a074c">4.11. Nehemiah 4:11</a></li>
+<li><a href="#orgd647318">4.12. Nehemiah 4:12</a></li>
+<li><a href="#orgf20d325">4.13. Nehemiah 4:13</a></li>
+<li><a href="#org3b0969d">4.14. Nehemiah 4:14</a></li>
+<li><a href="#org0d32899">4.15. Nehemiah 4:15</a></li>
+<li><a href="#org2f1f5b0">4.16. Nehemiah 4:16</a></li>
+<li><a href="#orgd1f4dc2">4.17. Nehemiah 4:17</a></li>
+<li><a href="#org28acdf5">4.18. Nehemiah 4:18</a></li>
+<li><a href="#org41d21e6">4.19. Nehemiah 4:19</a></li>
+<li><a href="#org9f0b3e8">4.20. Nehemiah 4:20</a></li>
+<li><a href="#org1bf3b12">4.21. Nehemiah 4:21</a></li>
+<li><a href="#orgf676f58">4.22. Nehemiah 4:22</a></li>
+<li><a href="#orgf1516c5">4.23. Nehemiah 4:23</a></li>
+</ul>
+</li>
+<li><a href="#org9bf158e">5. Nehemiah 5</a>
+<ul>
+<li><a href="#org3b6acfa">5.1. Nehemiah 5:1</a></li>
+<li><a href="#org11258c3">5.2. Nehemiah 5:2</a></li>
+<li><a href="#org3d819f4">5.3. Nehemiah 5:3</a></li>
+<li><a href="#org98dfbed">5.4. Nehemiah 5:4</a></li>
+<li><a href="#org5fff41e">5.5. Nehemiah 5:5</a></li>
+<li><a href="#orgcefd5d0">5.6. Nehemiah 5:6</a></li>
+<li><a href="#org44e3cb5">5.7. Nehemiah 5:7</a></li>
+<li><a href="#orga1a0182">5.8. Nehemiah 5:8</a></li>
+<li><a href="#orga9643d5">5.9. Nehemiah 5:9</a></li>
+<li><a href="#orgdd8e0d6">5.10. Nehemiah 5:10</a></li>
+<li><a href="#orgd32e6e0">5.11. Nehemiah 5:11</a></li>
+<li><a href="#orgb4dbab6">5.12. Nehemiah 5:12</a></li>
+<li><a href="#orgc020d03">5.13. Nehemiah 5:13</a></li>
+<li><a href="#org62979ff">5.14. Nehemiah 5:14</a></li>
+<li><a href="#org211efda">5.15. Nehemiah 5:15</a></li>
+<li><a href="#org425dc8d">5.16. Nehemiah 5:16</a></li>
+<li><a href="#org52ff299">5.17. Nehemiah 5:17</a></li>
+<li><a href="#orgd2e9aaa">5.18. Nehemiah 5:18</a></li>
+<li><a href="#orgde5942e">5.19. Nehemiah 5:19</a></li>
+</ul>
+</li>
+<li><a href="#orgb99a573">6. Nehemiah 6</a>
+<ul>
+<li><a href="#org33da1ab">6.1. Nehemiah 6:1</a></li>
+<li><a href="#org0c90488">6.2. Nehemiah 6:2</a></li>
+<li><a href="#org6e9e356">6.3. Nehemiah 6:3</a></li>
+<li><a href="#orgffebdf2">6.4. Nehemiah 6:4</a></li>
+<li><a href="#orgbf55f17">6.5. Nehemiah 6:5</a></li>
+<li><a href="#org9f01d9d">6.6. Nehemiah 6:6</a></li>
+<li><a href="#orgdd96fa0">6.7. Nehemiah 6:7</a></li>
+<li><a href="#org2bbd4c1">6.8. Nehemiah 6:8</a></li>
+<li><a href="#orgfe9bc80">6.9. Nehemiah 6:9</a></li>
+<li><a href="#orgfd0a222">6.10. Nehemiah 6:10</a></li>
+<li><a href="#orga614ef2">6.11. Nehemiah 6:11</a></li>
+<li><a href="#org868d1e3">6.12. Nehemiah 6:12</a></li>
+<li><a href="#org38943df">6.13. Nehemiah 6:13</a></li>
+<li><a href="#org4214cce">6.14. Nehemiah 6:14</a></li>
+<li><a href="#org863d87d">6.15. Nehemiah 6:15</a></li>
+<li><a href="#org805055f">6.16. Nehemiah 6:16</a></li>
+<li><a href="#org869f802">6.17. Nehemiah 6:17</a></li>
+<li><a href="#org66d3e1d">6.18. Nehemiah 6:18</a></li>
+<li><a href="#org6a705a1">6.19. Nehemiah 6:19</a></li>
+</ul>
+</li>
+<li><a href="#org7ce83da">7. Nehemiah 7</a>
+<ul>
+<li><a href="#org35b08ff">7.1. Nehemiah 7:1</a></li>
+<li><a href="#orgef43fad">7.2. Nehemiah 7:2</a></li>
+<li><a href="#org2d60e0e">7.3. Nehemiah 7:3</a></li>
+<li><a href="#org1b673e8">7.4. Nehemiah 7:4</a></li>
+<li><a href="#orgf648c7c">7.5. Nehemiah 7:5</a></li>
+<li><a href="#org01137df">7.6. Nehemiah 7:6</a></li>
+<li><a href="#org635f839">7.7. Nehemiah 7:7</a></li>
+<li><a href="#orga80b297">7.8. Nehemiah 7:8</a></li>
+<li><a href="#org4ba0ebf">7.9. Nehemiah 7:9</a></li>
+<li><a href="#orgc26c6d0">7.10. Nehemiah 7:10</a></li>
+<li><a href="#orgb57d2b8">7.11. Nehemiah 7:11</a></li>
+<li><a href="#org82c048e">7.12. Nehemiah 7:12</a></li>
+<li><a href="#orgde74b27">7.13. Nehemiah 7:13</a></li>
+<li><a href="#orgb6de348">7.14. Nehemiah 7:14</a></li>
+<li><a href="#org50dc5b6">7.15. Nehemiah 7:15</a></li>
+<li><a href="#org77eb8f5">7.16. Nehemiah 7:16</a></li>
+<li><a href="#org12fe79e">7.17. Nehemiah 7:17</a></li>
+<li><a href="#orge371ca7">7.18. Nehemiah 7:18</a></li>
+<li><a href="#org2566caf">7.19. Nehemiah 7:19</a></li>
+<li><a href="#orga14d915">7.20. Nehemiah 7:20</a></li>
+<li><a href="#org9f1581b">7.21. Nehemiah 7:21</a></li>
+<li><a href="#org7bac60d">7.22. Nehemiah 7:22</a></li>
+<li><a href="#org7f6bef0">7.23. Nehemiah 7:23</a></li>
+<li><a href="#orgbf3f900">7.24. Nehemiah 7:24</a></li>
+<li><a href="#org66ff653">7.25. Nehemiah 7:25</a></li>
+<li><a href="#orgee17bf2">7.26. Nehemiah 7:26</a></li>
+<li><a href="#org63e71fc">7.27. Nehemiah 7:27</a></li>
+<li><a href="#org1cdbdc6">7.28. Nehemiah 7:28</a></li>
+<li><a href="#orgffcd0f3">7.29. Nehemiah 7:29</a></li>
+<li><a href="#org1078eb5">7.30. Nehemiah 7:30</a></li>
+<li><a href="#org6f399a4">7.31. Nehemiah 7:31</a></li>
+<li><a href="#org6bfc35c">7.32. Nehemiah 7:32</a></li>
+<li><a href="#org10cb363">7.33. Nehemiah 7:33</a></li>
+<li><a href="#org978d8a9">7.34. Nehemiah 7:34</a></li>
+<li><a href="#orge959dfe">7.35. Nehemiah 7:35</a></li>
+<li><a href="#org1d5ceaa">7.36. Nehemiah 7:36</a></li>
+<li><a href="#org5115409">7.37. Nehemiah 7:37</a></li>
+<li><a href="#org3c15f64">7.38. Nehemiah 7:38</a></li>
+<li><a href="#orgb488f22">7.39. Nehemiah 7:39</a></li>
+<li><a href="#orgd923356">7.40. Nehemiah 7:40</a></li>
+<li><a href="#orgf1e43b4">7.41. Nehemiah 7:41</a></li>
+<li><a href="#orgafca5f3">7.42. Nehemiah 7:42</a></li>
+<li><a href="#org2a582a8">7.43. Nehemiah 7:43</a></li>
+<li><a href="#org527a0e7">7.44. Nehemiah 7:44</a></li>
+<li><a href="#org422103c">7.45. Nehemiah 7:45</a></li>
+<li><a href="#org651250a">7.46. Nehemiah 7:46</a></li>
+<li><a href="#org247cf76">7.47. Nehemiah 7:47</a></li>
+<li><a href="#org81181eb">7.48. Nehemiah 7:48</a></li>
+<li><a href="#orgb20e444">7.49. Nehemiah 7:49</a></li>
+<li><a href="#org2218791">7.50. Nehemiah 7:50</a></li>
+<li><a href="#org474fa7d">7.51. Nehemiah 7:51</a></li>
+<li><a href="#orgf39e1ba">7.52. Nehemiah 7:52</a></li>
+<li><a href="#orge30db4e">7.53. Nehemiah 7:53</a></li>
+<li><a href="#org3af7086">7.54. Nehemiah 7:54</a></li>
+<li><a href="#org208a02e">7.55. Nehemiah 7:55</a></li>
+<li><a href="#org20f49c9">7.56. Nehemiah 7:56</a></li>
+<li><a href="#org77e6470">7.57. Nehemiah 7:57</a></li>
+<li><a href="#org6361a89">7.58. Nehemiah 7:58</a></li>
+<li><a href="#org1bbbc2a">7.59. Nehemiah 7:59</a></li>
+<li><a href="#orgd2cf137">7.60. Nehemiah 7:60</a></li>
+<li><a href="#org9e0418f">7.61. Nehemiah 7:61</a></li>
+<li><a href="#orgcb3ccaf">7.62. Nehemiah 7:62</a></li>
+<li><a href="#org53e7638">7.63. Nehemiah 7:63</a></li>
+<li><a href="#org6a2fa96">7.64. Nehemiah 7:64</a></li>
+<li><a href="#org6ea9d7e">7.65. Nehemiah 7:65</a></li>
+<li><a href="#orge675c83">7.66. Nehemiah 7:66</a></li>
+<li><a href="#org83113e9">7.67. Nehemiah 7:67</a></li>
+<li><a href="#orgee23d2e">7.68. Nehemiah 7:68</a></li>
+<li><a href="#orga19c212">7.69. Nehemiah 7:69</a></li>
+<li><a href="#org91e48c2">7.70. Nehemiah 7:70</a></li>
+<li><a href="#org36a5d31">7.71. Nehemiah 7:71</a></li>
+<li><a href="#org52f47e3">7.72. Nehemiah 7:72</a></li>
+<li><a href="#org7397e80">7.73. Nehemiah 7:73</a></li>
+</ul>
+</li>
+<li><a href="#orgcd2a8f3">8. Nehemiah 8</a>
+<ul>
+<li><a href="#org477b2b6">8.1. Nehemiah 8:1</a></li>
+<li><a href="#org6faea41">8.2. Nehemiah 8:2</a></li>
+<li><a href="#orgbfa4632">8.3. Nehemiah 8:3</a></li>
+<li><a href="#org47e105f">8.4. Nehemiah 8:4</a></li>
+<li><a href="#orgd7b4ec9">8.5. Nehemiah 8:5</a></li>
+<li><a href="#orgaa3be42">8.6. Nehemiah 8:6</a></li>
+<li><a href="#org9fa62dd">8.7. Nehemiah 8:7</a></li>
+<li><a href="#orga1ad14f">8.8. Nehemiah 8:8</a></li>
+<li><a href="#org8111f9f">8.9. Nehemiah 8:9</a></li>
+<li><a href="#org938a84a">8.10. Nehemiah 8:10</a></li>
+<li><a href="#org3f09615">8.11. Nehemiah 8:11</a></li>
+<li><a href="#orga6af152">8.12. Nehemiah 8:12</a></li>
+<li><a href="#org96b4605">8.13. Nehemiah 8:13</a></li>
+<li><a href="#org55a5187">8.14. Nehemiah 8:14</a></li>
+<li><a href="#org2d1b102">8.15. Nehemiah 8:15</a></li>
+<li><a href="#orga320728">8.16. Nehemiah 8:16</a></li>
+<li><a href="#org8aba203">8.17. Nehemiah 8:17</a></li>
+<li><a href="#org1f9cd6b">8.18. Nehemiah 8:18</a></li>
+</ul>
+</li>
+<li><a href="#org8c85cc5">9. Nehemiah 9</a>
+<ul>
+<li><a href="#orge1b0f87">9.1. Nehemiah 9:1</a></li>
+<li><a href="#org59be639">9.2. Nehemiah 9:2</a></li>
+<li><a href="#org8c0e896">9.3. Nehemiah 9:3</a></li>
+<li><a href="#orgb7b139f">9.4. Nehemiah 9:4</a></li>
+<li><a href="#org82b3298">9.5. Nehemiah 9:5</a></li>
+<li><a href="#orgb560274">9.6. Nehemiah 9:6</a></li>
+<li><a href="#orgfcfe94c">9.7. Nehemiah 9:7</a></li>
+<li><a href="#org152bec4">9.8. Nehemiah 9:8</a></li>
+<li><a href="#org6d1597b">9.9. Nehemiah 9:9</a></li>
+<li><a href="#orgb6ab3fb">9.10. Nehemiah 9:10</a></li>
+<li><a href="#orgcb7ec42">9.11. Nehemiah 9:11</a></li>
+<li><a href="#orgbc878ee">9.12. Nehemiah 9:12</a></li>
+<li><a href="#orgfb98524">9.13. Nehemiah 9:13</a></li>
+<li><a href="#org22635d1">9.14. Nehemiah 9:14</a></li>
+<li><a href="#org14bf696">9.15. Nehemiah 9:15</a></li>
+<li><a href="#org1a504a0">9.16. Nehemiah 9:16</a></li>
+<li><a href="#org45cc2ec">9.17. Nehemiah 9:17</a></li>
+<li><a href="#orga8fabe6">9.18. Nehemiah 9:18</a></li>
+<li><a href="#org376bfef">9.19. Nehemiah 9:19</a></li>
+<li><a href="#org441c372">9.20. Nehemiah 9:20</a></li>
+<li><a href="#org45fe087">9.21. Nehemiah 9:21</a></li>
+<li><a href="#orgfec5d3e">9.22. Nehemiah 9:22</a></li>
+<li><a href="#orgc5ccb1b">9.23. Nehemiah 9:23</a></li>
+<li><a href="#org4aacf41">9.24. Nehemiah 9:24</a></li>
+<li><a href="#org1357d60">9.25. Nehemiah 9:25</a></li>
+<li><a href="#org3593ebc">9.26. Nehemiah 9:26</a></li>
+<li><a href="#org80656f7">9.27. Nehemiah 9:27</a></li>
+<li><a href="#org204a40d">9.28. Nehemiah 9:28</a></li>
+<li><a href="#org43356a3">9.29. Nehemiah 9:29</a></li>
+<li><a href="#org7cd7533">9.30. Nehemiah 9:30</a></li>
+<li><a href="#org7296488">9.31. Nehemiah 9:31</a></li>
+<li><a href="#org4b89602">9.32. Nehemiah 9:32</a></li>
+<li><a href="#org91c84bb">9.33. Nehemiah 9:33</a></li>
+<li><a href="#org00313ce">9.34. Nehemiah 9:34</a></li>
+<li><a href="#org961f9ce">9.35. Nehemiah 9:35</a></li>
+<li><a href="#orge42587a">9.36. Nehemiah 9:36</a></li>
+<li><a href="#orge7dbe5e">9.37. Nehemiah 9:37</a></li>
+<li><a href="#org5adff70">9.38. Nehemiah 9:38</a></li>
+</ul>
+</li>
+<li><a href="#org5900457">10. Nehemiah 10</a>
+<ul>
+<li><a href="#orgce43f54">10.1. Nehemiah 10:1</a></li>
+<li><a href="#orgf26d9d8">10.2. Nehemiah 10:2</a></li>
+<li><a href="#org4fe71c3">10.3. Nehemiah 10:3</a></li>
+<li><a href="#orge523bbf">10.4. Nehemiah 10:4</a></li>
+<li><a href="#orga4a312d">10.5. Nehemiah 10:5</a></li>
+<li><a href="#org39b3bef">10.6. Nehemiah 10:6</a></li>
+<li><a href="#orgde488cf">10.7. Nehemiah 10:7</a></li>
+<li><a href="#org6930733">10.8. Nehemiah 10:8</a></li>
+<li><a href="#org88f9f49">10.9. Nehemiah 10:9</a></li>
+<li><a href="#org9e54cee">10.10. Nehemiah 10:10</a></li>
+<li><a href="#orge29feb6">10.11. Nehemiah 10:11</a></li>
+<li><a href="#org7c593d9">10.12. Nehemiah 10:12</a></li>
+<li><a href="#org566a8a8">10.13. Nehemiah 10:13</a></li>
+<li><a href="#org05b8d7f">10.14. Nehemiah 10:14</a></li>
+<li><a href="#org4a232fd">10.15. Nehemiah 10:15</a></li>
+<li><a href="#org82190ca">10.16. Nehemiah 10:16</a></li>
+<li><a href="#org3f43100">10.17. Nehemiah 10:17</a></li>
+<li><a href="#org1216f18">10.18. Nehemiah 10:18</a></li>
+<li><a href="#org3e777c6">10.19. Nehemiah 10:19</a></li>
+<li><a href="#orgbedd198">10.20. Nehemiah 10:20</a></li>
+<li><a href="#org3fa1ed0">10.21. Nehemiah 10:21</a></li>
+<li><a href="#org0a5acac">10.22. Nehemiah 10:22</a></li>
+<li><a href="#org0aed8ca">10.23. Nehemiah 10:23</a></li>
+<li><a href="#org88e9ceb">10.24. Nehemiah 10:24</a></li>
+<li><a href="#org4c35af7">10.25. Nehemiah 10:25</a></li>
+<li><a href="#org7652402">10.26. Nehemiah 10:26</a></li>
+<li><a href="#org0fdcabc">10.27. Nehemiah 10:27</a></li>
+<li><a href="#org76c2e91">10.28. Nehemiah 10:28</a></li>
+<li><a href="#org895c9d9">10.29. Nehemiah 10:29</a></li>
+<li><a href="#org47d4985">10.30. Nehemiah 10:30</a></li>
+<li><a href="#org85ee028">10.31. Nehemiah 10:31</a></li>
+<li><a href="#org75c62ca">10.32. Nehemiah 10:32</a></li>
+<li><a href="#org34c51a6">10.33. Nehemiah 10:33</a></li>
+<li><a href="#org561dfbb">10.34. Nehemiah 10:34</a></li>
+<li><a href="#orgb209642">10.35. Nehemiah 10:35</a></li>
+<li><a href="#org8530307">10.36. Nehemiah 10:36</a></li>
+<li><a href="#org672180d">10.37. Nehemiah 10:37</a></li>
+<li><a href="#org2a916e2">10.38. Nehemiah 10:38</a></li>
+<li><a href="#org7e143d4">10.39. Nehemiah 10:39</a></li>
+</ul>
+</li>
+<li><a href="#org6b18304">11. Nehemiah 11</a>
+<ul>
+<li><a href="#org9cda93a">11.1. Nehemiah 11:1</a></li>
+<li><a href="#org10e1e02">11.2. Nehemiah 11:2</a></li>
+<li><a href="#orgd0be58f">11.3. Nehemiah 11:3</a></li>
+<li><a href="#org5c6ed4a">11.4. Nehemiah 11:4</a></li>
+<li><a href="#org78b400e">11.5. Nehemiah 11:5</a></li>
+<li><a href="#org1828a16">11.6. Nehemiah 11:6</a></li>
+<li><a href="#org45e848b">11.7. Nehemiah 11:7</a></li>
+<li><a href="#org702b1ff">11.8. Nehemiah 11:8</a></li>
+<li><a href="#orga4a6096">11.9. Nehemiah 11:9</a></li>
+<li><a href="#orgb7bf1ae">11.10. Nehemiah 11:10</a></li>
+<li><a href="#org7e4cb99">11.11. Nehemiah 11:11</a></li>
+<li><a href="#orgff15bc2">11.12. Nehemiah 11:12</a></li>
+<li><a href="#org87432cd">11.13. Nehemiah 11:13</a></li>
+<li><a href="#orgfa49347">11.14. Nehemiah 11:14</a></li>
+<li><a href="#org99320bd">11.15. Nehemiah 11:15</a></li>
+<li><a href="#org9748506">11.16. Nehemiah 11:16</a></li>
+<li><a href="#org328abe3">11.17. Nehemiah 11:17</a></li>
+<li><a href="#org8888cec">11.18. Nehemiah 11:18</a></li>
+<li><a href="#orgac49793">11.19. Nehemiah 11:19</a></li>
+<li><a href="#org6d30d11">11.20. Nehemiah 11:20</a></li>
+<li><a href="#orgd7815de">11.21. Nehemiah 11:21</a></li>
+<li><a href="#org662b7db">11.22. Nehemiah 11:22</a></li>
+<li><a href="#org42221fb">11.23. Nehemiah 11:23</a></li>
+<li><a href="#orgb8965c2">11.24. Nehemiah 11:24</a></li>
+<li><a href="#org9018ba9">11.25. Nehemiah 11:25</a></li>
+<li><a href="#org596774b">11.26. Nehemiah 11:26</a></li>
+<li><a href="#orgc868112">11.27. Nehemiah 11:27</a></li>
+<li><a href="#org78f02c4">11.28. Nehemiah 11:28</a></li>
+<li><a href="#org75d683f">11.29. Nehemiah 11:29</a></li>
+<li><a href="#org9f9afd4">11.30. Nehemiah 11:30</a></li>
+<li><a href="#orgdb021fd">11.31. Nehemiah 11:31</a></li>
+<li><a href="#orga3a708a">11.32. Nehemiah 11:32</a></li>
+<li><a href="#orgd9ebbda">11.33. Nehemiah 11:33</a></li>
+<li><a href="#org29833e5">11.34. Nehemiah 11:34</a></li>
+<li><a href="#org915ac1d">11.35. Nehemiah 11:35</a></li>
+<li><a href="#orgf9cfc5f">11.36. Nehemiah 11:36</a></li>
+</ul>
+</li>
+<li><a href="#orgaa2c1de">12. Nehemiah 12</a>
+<ul>
+<li><a href="#org30e182c">12.1. Nehemiah 12:1</a></li>
+<li><a href="#org836c066">12.2. Nehemiah 12:2</a></li>
+<li><a href="#orgc1ee2e6">12.3. Nehemiah 12:3</a></li>
+<li><a href="#org7f1a2f5">12.4. Nehemiah 12:4</a></li>
+<li><a href="#org84e9992">12.5. Nehemiah 12:5</a></li>
+<li><a href="#org8083fb2">12.6. Nehemiah 12:6</a></li>
+<li><a href="#org5b852d7">12.7. Nehemiah 12:7</a></li>
+<li><a href="#org9b802e3">12.8. Nehemiah 12:8</a></li>
+<li><a href="#org31724e1">12.9. Nehemiah 12:9</a></li>
+<li><a href="#org7b796cd">12.10. Nehemiah 12:10</a></li>
+<li><a href="#org1f3bc92">12.11. Nehemiah 12:11</a></li>
+<li><a href="#org32e491e">12.12. Nehemiah 12:12</a></li>
+<li><a href="#org722d6b1">12.13. Nehemiah 12:13</a></li>
+<li><a href="#orgc15c84b">12.14. Nehemiah 12:14</a></li>
+<li><a href="#orge18df76">12.15. Nehemiah 12:15</a></li>
+<li><a href="#orge5b9b01">12.16. Nehemiah 12:16</a></li>
+<li><a href="#org7d79b68">12.17. Nehemiah 12:17</a></li>
+<li><a href="#orgf7ea000">12.18. Nehemiah 12:18</a></li>
+<li><a href="#org1f4812b">12.19. Nehemiah 12:19</a></li>
+<li><a href="#org90b01d1">12.20. Nehemiah 12:20</a></li>
+<li><a href="#org2b4637b">12.21. Nehemiah 12:21</a></li>
+<li><a href="#orgdd66d81">12.22. Nehemiah 12:22</a></li>
+<li><a href="#orgeb01055">12.23. Nehemiah 12:23</a></li>
+<li><a href="#org7b5999d">12.24. Nehemiah 12:24</a></li>
+<li><a href="#orgf96be36">12.25. Nehemiah 12:25</a></li>
+<li><a href="#orge38ea2e">12.26. Nehemiah 12:26</a></li>
+<li><a href="#org947b7d7">12.27. Nehemiah 12:27</a></li>
+<li><a href="#org6bcfbf6">12.28. Nehemiah 12:28</a></li>
+<li><a href="#org0c2b8d0">12.29. Nehemiah 12:29</a></li>
+<li><a href="#org7f2dc2b">12.30. Nehemiah 12:30</a></li>
+<li><a href="#org556cb3b">12.31. Nehemiah 12:31</a></li>
+<li><a href="#org19ede70">12.32. Nehemiah 12:32</a></li>
+<li><a href="#orgedc1a43">12.33. Nehemiah 12:33</a></li>
+<li><a href="#orge274e4c">12.34. Nehemiah 12:34</a></li>
+<li><a href="#orgf17f87d">12.35. Nehemiah 12:35</a></li>
+<li><a href="#org4a8830c">12.36. Nehemiah 12:36</a></li>
+<li><a href="#org45548fd">12.37. Nehemiah 12:37</a></li>
+<li><a href="#orgbc6e11e">12.38. Nehemiah 12:38</a></li>
+<li><a href="#orga8c362e">12.39. Nehemiah 12:39</a></li>
+<li><a href="#orgccd9d51">12.40. Nehemiah 12:40</a></li>
+<li><a href="#org30bebeb">12.41. Nehemiah 12:41</a></li>
+<li><a href="#org6ca7f00">12.42. Nehemiah 12:42</a></li>
+<li><a href="#org92c0293">12.43. Nehemiah 12:43</a></li>
+<li><a href="#org0b15011">12.44. Nehemiah 12:44</a></li>
+<li><a href="#orgcad01e4">12.45. Nehemiah 12:45</a></li>
+<li><a href="#org99f620a">12.46. Nehemiah 12:46</a></li>
+</ul>
+</li>
+<li><a href="#org0b5e06f">13. Nehemiah 13</a>
+<ul>
+<li><a href="#orge6309e1">13.1. Nehemiah 13:1</a></li>
+<li><a href="#org15eb22c">13.2. Nehemiah 13:2</a></li>
+<li><a href="#org4761e73">13.3. Nehemiah 13:3</a></li>
+<li><a href="#org96994ce">13.4. Nehemiah 13:4</a></li>
+<li><a href="#org5e203af">13.5. Nehemiah 13:5</a></li>
+<li><a href="#org630c758">13.6. Nehemiah 13:6</a></li>
+<li><a href="#orgae31575">13.7. Nehemiah 13:7</a></li>
+<li><a href="#org6593834">13.8. Nehemiah 13:8</a></li>
+<li><a href="#org0ee0cbe">13.9. Nehemiah 13:9</a></li>
+<li><a href="#orgdb76fa4">13.10. Nehemiah 13:10</a></li>
+<li><a href="#org8fee2b2">13.11. Nehemiah 13:11</a></li>
+<li><a href="#org1b9cc1f">13.12. Nehemiah 13:12</a></li>
+<li><a href="#org898d19f">13.13. Nehemiah 13:13</a></li>
+<li><a href="#orgaab4628">13.14. Nehemiah 13:14</a></li>
+<li><a href="#org48214eb">13.15. Nehemiah 13:15</a></li>
+<li><a href="#org830eb98">13.16. Nehemiah 13:16</a></li>
+<li><a href="#org59ee25a">13.17. Nehemiah 13:17</a></li>
+<li><a href="#org6634c5a">13.18. Nehemiah 13:18</a></li>
+<li><a href="#org09f657b">13.19. Nehemiah 13:19</a></li>
+<li><a href="#orge03dd9d">13.20. Nehemiah 13:20</a></li>
+<li><a href="#orgd6eaefb">13.21. Nehemiah 13:21</a></li>
+<li><a href="#org63fcf3b">13.22. Nehemiah 13:22</a></li>
+<li><a href="#orgd35b103">13.23. Nehemiah 13:23</a></li>
+<li><a href="#org4645b36">13.24. Nehemiah 13:24</a></li>
+<li><a href="#org9897dc7">13.25. Nehemiah 13:25</a></li>
+<li><a href="#org3f75f23">13.26. Nehemiah 13:26</a></li>
+<li><a href="#org63d8412">13.27. Nehemiah 13:27</a></li>
+<li><a href="#orgb9ce8d0">13.28. Nehemiah 13:28</a></li>
+<li><a href="#org388d177">13.29. Nehemiah 13:29</a></li>
+<li><a href="#org5c4c7f7">13.30. Nehemiah 13:30</a></li>
+<li><a href="#org6fd3d5e">13.31. Nehemiah 13:31</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org17a7804" class="outline-2">
+<h2 id="org17a7804"><span class="section-number-2">1</span> Nehemiah 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgd571982" class="outline-3">
+<h3 id="orgd571982"><span class="section-number-3">1.1</span> Nehemiah 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Verba Nehemiæ filii Helchiæ. Et factum est in mense Casleu, anno vigesimo, et ego eram in Susis castro.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org322cef2" class="outline-3">
+<h3 id="org322cef2"><span class="section-number-3">1.2</span> Nehemiah 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Et venit Hanani, unus de fratribus meis, ipse et viri ex Juda : et interrogavi eos de Judæis qui remanserant, et supererant de captivitate, et Jerusalem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org791edc0" class="outline-3">
+<h3 id="org791edc0"><span class="section-number-3">1.3</span> Nehemiah 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Et dixerunt mihi : Qui remanserunt, et relicti sunt de captivitate ibi in provincia, in afflictione magna sunt, et in opprobrio : et murus Jerusalem dissipatus est, et portæ ejus combustæ sunt igni.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgca82788" class="outline-3">
+<h3 id="orgca82788"><span class="section-number-3">1.4</span> Nehemiah 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Cumque audissem verba hujuscemodi, sedi, et flevi, et luxi diebus multis : jejunabam, et orabam ante faciem Dei cæli :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2b9754d" class="outline-3">
+<h3 id="org2b9754d"><span class="section-number-3">1.5</span> Nehemiah 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+et dixi : Quæso, Domine Deus cæli fortis, magne atque terribilis, qui custodis pactum et misericordiam cum his qui te diligunt, et custodiunt mandata tua :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdb87dfe" class="outline-3">
+<h3 id="orgdb87dfe"><span class="section-number-3">1.6</span> Nehemiah 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+fiant aures tuæ auscultantes, et oculi tui aperti, ut audias orationem servi tui, quam ego oro coram te hodie nocte et die pro filiis Israël servis tuis : et confiteor pro peccatis filiorum Israël, quibus peccaverunt tibi : ego et domus patris mei peccavimus,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9becda7" class="outline-3">
+<h3 id="org9becda7"><span class="section-number-3">1.7</span> Nehemiah 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+vanitate seducti sumus, et non custodivimus mandatum tuum, et cæremonias, et judicia quæ præcepisti Moysi famulo tuo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org97958f1" class="outline-3">
+<h3 id="org97958f1"><span class="section-number-3">1.8</span> Nehemiah 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+Memento verbi quod mandasti Moysi servo tuo, dicens : Cum transgressi fueritis, ego dispergam vos in populos :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3273f65" class="outline-3">
+<h3 id="org3273f65"><span class="section-number-3">1.9</span> Nehemiah 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+et si revertamini ad me, et custodiatis præcepta mea, et faciatis ea : etiamsi abducti fueritis ad extrema cæli, inde congregabo vos, et reducam in locum quem elegi ut habitaret nomen meum ibi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgabbd213" class="outline-3">
+<h3 id="orgabbd213"><span class="section-number-3">1.10</span> Nehemiah 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+Et ipsi servi tui, et populus tuus, quos redemisti in fortitudine tua magna, et in manu tua valida.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org408ab7e" class="outline-3">
+<h3 id="org408ab7e"><span class="section-number-3">1.11</span> Nehemiah 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+Obsecro, Domine, sit auris tua attendens ad orationem servi tui, et ad orationem servorum tuorum, qui volunt timere nomen tuum : et dirige servum tuum hodie, et da ei misericordiam ante virum hunc. Ego enim eram pincerna regis.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orge665d5c" class="outline-2">
+<h2 id="orge665d5c"><span class="section-number-2">2</span> Nehemiah 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org4ec16ef" class="outline-3">
+<h3 id="org4ec16ef"><span class="section-number-3">2.1</span> Nehemiah 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Factum est autem in mense Nisan, anno vigesimo Artaxerxis regis : et vinum erat ante eum, et levavi vinum, et dedi regi : et eram quasi languidus ante faciem ejus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org931ce58" class="outline-3">
+<h3 id="org931ce58"><span class="section-number-3">2.2</span> Nehemiah 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Dixitque mihi rex : Quare vultus tuus tristis est, cum te ægrotum non videam ? non est hoc frustra, sed malum nescio quod in corde tuo est. Et timui valde, ac nimis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe712da" class="outline-3">
+<h3 id="orgfe712da"><span class="section-number-3">2.3</span> Nehemiah 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+et dixi regi : Rex, in æternum vive : quare non mœreat vultus meus, quia civitas domus sepulchrorum patris mei deserta est, et portæ ejus combustæ sunt igni ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6a9337b" class="outline-3">
+<h3 id="org6a9337b"><span class="section-number-3">2.4</span> Nehemiah 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+Et ait mihi rex : Pro qua re postulas ? Et oravi Deum cæli,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgab8814e" class="outline-3">
+<h3 id="orgab8814e"><span class="section-number-3">2.5</span> Nehemiah 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+et dixi ad regem : Si videtur regi bonum, et si placet servus tuus ante faciem tuam, ut mittas me in Judæam ad civitatem sepulchri patris mei, et ædificabo eam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0d43368" class="outline-3">
+<h3 id="org0d43368"><span class="section-number-3">2.6</span> Nehemiah 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+Dixitque mihi rex, et regina quæ sedebat juxta eum : Usque ad quod tempus erit iter tuum, et quando reverteris ? Et placuit ante vultum regis, et misit me : et constitui ei tempus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge8c3c3e" class="outline-3">
+<h3 id="orge8c3c3e"><span class="section-number-3">2.7</span> Nehemiah 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+Et dixi regi : Si regi videtur bonum, epistolas det mihi ad duces regionis trans flumen, ut traducant me, donec veniam in Judæam :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org001c806" class="outline-3">
+<h3 id="org001c806"><span class="section-number-3">2.8</span> Nehemiah 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+et epistolam ad Asaph custodem saltus regis, ut det mihi ligna, ut tegere possim portas turris domus, et muros civitatis, et domum quam ingressus fuero. Et dedit mihi rex juxta manum Dei mei bonam mecum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdbaea9d" class="outline-3">
+<h3 id="orgdbaea9d"><span class="section-number-3">2.9</span> Nehemiah 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+Et veni ad duces regionis trans flumen, dedique eis epistolas regis. Miserat autem rex mecum principes militum, et equites.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf870719" class="outline-3">
+<h3 id="orgf870719"><span class="section-number-3">2.10</span> Nehemiah 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+Et audierunt Sanaballat Horonites, et Tobias servus Ammanites : et contristati sunt afflictione magna, quod venisset homo qui quæreret prosperitatem filiorum Israël.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd5a4a32" class="outline-3">
+<h3 id="orgd5a4a32"><span class="section-number-3">2.11</span> Nehemiah 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+Et veni Jerusalem, et eram ibi tribus diebus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org665e394" class="outline-3">
+<h3 id="org665e394"><span class="section-number-3">2.12</span> Nehemiah 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+Et surrexi nocte ego, et viri pauci mecum, et non indicavi cuiquam quid Deus dedisset in corde meo ut facerem in Jerusalem : et jumentum non erat mecum, nisi animal cui sedebam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9a34f0d" class="outline-3">
+<h3 id="org9a34f0d"><span class="section-number-3">2.13</span> Nehemiah 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+Et egressus sum per portam vallis nocte, et ante fontem draconis, et ad portam stercoris, et considerabam murum Jerusalem dissipatum, et portas ejus consumptas igni.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org52f923d" class="outline-3">
+<h3 id="org52f923d"><span class="section-number-3">2.14</span> Nehemiah 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+Et transivi ad portam fontis, et ad aquæductum regis, et non erat locus jumento cui sedebam ut transiret.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org181ee50" class="outline-3">
+<h3 id="org181ee50"><span class="section-number-3">2.15</span> Nehemiah 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+Et ascendi per torrentem nocte, et considerabam murum, et reversus veni ad portam vallis, et redii.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org332353e" class="outline-3">
+<h3 id="org332353e"><span class="section-number-3">2.16</span> Nehemiah 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+Magistratus autem nesciebant quo abiissem, aut quid ego facerem : sed et Judæis, et sacerdotibus, et optimatibus, et magistratibus, et reliquis qui faciebant opus, usque ad id loci nihil indicaveram.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org39554a7" class="outline-3">
+<h3 id="org39554a7"><span class="section-number-3">2.17</span> Nehemiah 2:17</h3>
+<div class="outline-text-3" id="text-2-17">
+<p>
+Et dixi eis : Vos nostis afflictionem in qua sumus : quia Jerusalem deserta est, et portæ ejus consumptæ sunt igni : venite, et ædificemus muros Jerusalem, et non simus ultra opprobrium.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org29d5ca0" class="outline-3">
+<h3 id="org29d5ca0"><span class="section-number-3">2.18</span> Nehemiah 2:18</h3>
+<div class="outline-text-3" id="text-2-18">
+<p>
+Et indicavi eis manum Dei mei, quod esset bona mecum, et verba regis quæ locutus esset mihi, et aio : Surgamus, et ædificemus. Et confortatæ sunt manus eorum in bono.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org71d5373" class="outline-3">
+<h3 id="org71d5373"><span class="section-number-3">2.19</span> Nehemiah 2:19</h3>
+<div class="outline-text-3" id="text-2-19">
+<p>
+Audierunt autem Sanaballat Horonites, et Tobias servus Ammanites, et Gosem Arabs, et subsannaverunt nos, et despexerunt, dixeruntque : Quæ est hæc res quam facitis ? numquid contra regem vos rebellatis ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6226891" class="outline-3">
+<h3 id="org6226891"><span class="section-number-3">2.20</span> Nehemiah 2:20</h3>
+<div class="outline-text-3" id="text-2-20">
+<p>
+Et reddidi eis sermonem, dixique ad eos : Deus cæli ipse nos juvat, et nos servi ejus sumus : surgamus et ædificemus : vobis autem non est pars, et justitia, et memoria in Jerusalem.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org4b9f17d" class="outline-2">
+<h2 id="org4b9f17d"><span class="section-number-2">3</span> Nehemiah 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org33b1a8b" class="outline-3">
+<h3 id="org33b1a8b"><span class="section-number-3">3.1</span> Nehemiah 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+Et surrexit Eliasib sacerdos magnus, et fratres ejus sacerdotes, et ædificaverunt portam gregis : ipsi sanctificaverunt eam, et statuerunt valvas ejus, et usque ad turrim centum cubitorum sanctificaverunt eam, usque ad turrim Hananeel.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org81ee6aa" class="outline-3">
+<h3 id="org81ee6aa"><span class="section-number-3">3.2</span> Nehemiah 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+Et juxta eum ædificaverunt viri Jericho : et juxta eum ædificavit Zachur filius Amri.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf936fa5" class="outline-3">
+<h3 id="orgf936fa5"><span class="section-number-3">3.3</span> Nehemiah 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+Portam autem piscium ædificaverunt filii Asnaa : ipsi texerunt eam, et statuerunt valvas ejus, et seras, et vectes. Et juxta eos ædificavit Marimuth filius Uriæ, filii Accus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org27ccb34" class="outline-3">
+<h3 id="org27ccb34"><span class="section-number-3">3.4</span> Nehemiah 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+Et juxta eum ædificavit Mosollam filius Barachiæ, filii Mesezebel : et juxta eos ædificavit Sadoc filius Baana.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9944dde" class="outline-3">
+<h3 id="org9944dde"><span class="section-number-3">3.5</span> Nehemiah 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+Et juxta eos ædificaverunt Thecueni : optimates autem eorum non supposuerunt colla sua in opere Domini sui.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org99bbcc1" class="outline-3">
+<h3 id="org99bbcc1"><span class="section-number-3">3.6</span> Nehemiah 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+Et portam veterem ædificaverunt Jojada filius Phasea, et Mosollam filius Besodia : ipsi texerunt eam, et statuerunt valvas ejus, et seras, et vectes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcf4343f" class="outline-3">
+<h3 id="orgcf4343f"><span class="section-number-3">3.7</span> Nehemiah 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+Et juxta eos ædificaverunt Meltias Gabaonites, et Jadon Meronathites, viri de Gabaon et Maspha, pro duce qui erat in regione trans flumen.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga445841" class="outline-3">
+<h3 id="orga445841"><span class="section-number-3">3.8</span> Nehemiah 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+Et juxta eum ædificavit Eziel filius Araia aurifex : et juxta eum ædificavit Ananias filius pigmentarii : et dimiserunt Jerusalem usque ad murum plateæ latioris.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org458a3b2" class="outline-3">
+<h3 id="org458a3b2"><span class="section-number-3">3.9</span> Nehemiah 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+Et juxta eum ædificavit Raphaia filius Hur, princeps vici Jerusalem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgad9105e" class="outline-3">
+<h3 id="orgad9105e"><span class="section-number-3">3.10</span> Nehemiah 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+Et juxta eum ædificavit Jedaia filius Haromaph contra domum suam : et juxta eum ædificavit Hattus filius Haseboniæ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org77112da" class="outline-3">
+<h3 id="org77112da"><span class="section-number-3">3.11</span> Nehemiah 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+Mediam partem vici ædificavit Melchias filius Herem, et Hasub filius Phahath Moab, et turrim furnorum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org56b5b57" class="outline-3">
+<h3 id="org56b5b57"><span class="section-number-3">3.12</span> Nehemiah 3:12</h3>
+<div class="outline-text-3" id="text-3-12">
+<p>
+Et juxta eum ædificavit Sellum filius Alohes, princeps mediæ partis vici Jerusalem, ipse et filiæ ejus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f7ca2d" class="outline-3">
+<h3 id="org3f7ca2d"><span class="section-number-3">3.13</span> Nehemiah 3:13</h3>
+<div class="outline-text-3" id="text-3-13">
+<p>
+Et portam vallis ædificavit Hanun, et habitatores Zanoë : ipsi ædificaverunt eam, et statuerunt valvas ejus, et seras, et vectes, et mille cubitos in muro usque ad portam sterquilinii.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5d0cddb" class="outline-3">
+<h3 id="org5d0cddb"><span class="section-number-3">3.14</span> Nehemiah 3:14</h3>
+<div class="outline-text-3" id="text-3-14">
+<p>
+Et portam sterquilinii ædificavit Melchias filius Rechab, princeps vici Bethacharam : ipse ædificavit eam, et statuit valvas ejus, et seras, et vectes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org975651c" class="outline-3">
+<h3 id="org975651c"><span class="section-number-3">3.15</span> Nehemiah 3:15</h3>
+<div class="outline-text-3" id="text-3-15">
+<p>
+Et portam fontis ædificavit Sellum filius Cholhoza, princeps pagi Maspha : ipse ædificavit eam, et texit, et statuit valvas ejus, et seras, et vectes, et muros piscinæ Siloë in hortum regis, et usque ad gradus qui descendunt de civitate David.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgec343da" class="outline-3">
+<h3 id="orgec343da"><span class="section-number-3">3.16</span> Nehemiah 3:16</h3>
+<div class="outline-text-3" id="text-3-16">
+<p>
+Post eum ædificavit Nehemias filius Azboc, princeps dimidiæ partis vici Bethsur, usque contra sepulchrum David, et usque ad piscinam quæ grandi opere constructa est, et usque ad domum fortium.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org738e651" class="outline-3">
+<h3 id="org738e651"><span class="section-number-3">3.17</span> Nehemiah 3:17</h3>
+<div class="outline-text-3" id="text-3-17">
+<p>
+Post eum ædificaverunt Levitæ, Rehum filius Benni : post eum ædificavit Hasebias princeps dimidiæ partis vici Ceilæ in vico suo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7ea9815" class="outline-3">
+<h3 id="org7ea9815"><span class="section-number-3">3.18</span> Nehemiah 3:18</h3>
+<div class="outline-text-3" id="text-3-18">
+<p>
+Post eum ædificaverunt fratres eorum : Bavai filius Enadad, princeps dimidiæ partis Ceilæ :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgee63c11" class="outline-3">
+<h3 id="orgee63c11"><span class="section-number-3">3.19</span> Nehemiah 3:19</h3>
+<div class="outline-text-3" id="text-3-19">
+<p>
+et ædificavit juxta eum Azer filius Josue, princeps Maspha, mensuram secundam, contra ascensum firmissimi anguli.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7e7ceb5" class="outline-3">
+<h3 id="org7e7ceb5"><span class="section-number-3">3.20</span> Nehemiah 3:20</h3>
+<div class="outline-text-3" id="text-3-20">
+<p>
+Post eum in monte ædificavit Baruch filius Zachai mensuram secundam, ab angulo usque ad portam domus Eliasib sacerdotis magni.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga38b5d8" class="outline-3">
+<h3 id="orga38b5d8"><span class="section-number-3">3.21</span> Nehemiah 3:21</h3>
+<div class="outline-text-3" id="text-3-21">
+<p>
+Post eum ædificavit Merimuth filius Uriæ filii Haccus, mensuram secundam, a porta domus Eliasib, donec extenderetur domus Eliasib.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5107370" class="outline-3">
+<h3 id="org5107370"><span class="section-number-3">3.22</span> Nehemiah 3:22</h3>
+<div class="outline-text-3" id="text-3-22">
+<p>
+Et post eum ædificaverunt sacerdotes, viri de campestribus Jordanis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc5a2030" class="outline-3">
+<h3 id="orgc5a2030"><span class="section-number-3">3.23</span> Nehemiah 3:23</h3>
+<div class="outline-text-3" id="text-3-23">
+<p>
+Post eum ædificavit Benjamin et Hasub contra domum suam : et post eum ædificavit Azarias filius Maasiæ filii Ananiæ contra domum suam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org175bea5" class="outline-3">
+<h3 id="org175bea5"><span class="section-number-3">3.24</span> Nehemiah 3:24</h3>
+<div class="outline-text-3" id="text-3-24">
+<p>
+Post eum ædificavit Bennui filius Henadad mensuram secundam, a domo Azariæ usque ad flexuram, et usque ad angulum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb3860e0" class="outline-3">
+<h3 id="orgb3860e0"><span class="section-number-3">3.25</span> Nehemiah 3:25</h3>
+<div class="outline-text-3" id="text-3-25">
+<p>
+Phalel filius Ozi contra flexuram, et turrim quæ eminet de domo regis excelsa, id est, in atrio carceris : post eum Phadaia filius Pharos.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4dc8cd7" class="outline-3">
+<h3 id="org4dc8cd7"><span class="section-number-3">3.26</span> Nehemiah 3:26</h3>
+<div class="outline-text-3" id="text-3-26">
+<p>
+Nathinæi autem habitabant in Ophel usque contra portam aquarum ad orientem, et turrim quæ prominebat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4eb8abc" class="outline-3">
+<h3 id="org4eb8abc"><span class="section-number-3">3.27</span> Nehemiah 3:27</h3>
+<div class="outline-text-3" id="text-3-27">
+<p>
+Post eum ædificaverunt Thecueni mensuram secundam e regione, a turre magna et eminente usque ad murum templi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1f687f4" class="outline-3">
+<h3 id="org1f687f4"><span class="section-number-3">3.28</span> Nehemiah 3:28</h3>
+<div class="outline-text-3" id="text-3-28">
+<p>
+Sursum autem a porta equorum ædificaverunt sacerdotes, unusquisque contra domum suam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org89b5de6" class="outline-3">
+<h3 id="org89b5de6"><span class="section-number-3">3.29</span> Nehemiah 3:29</h3>
+<div class="outline-text-3" id="text-3-29">
+<p>
+Post eos ædificavit Sadoc filius Emmer contra domum suam. Et post eum ædificavit Semaia filius Secheniæ, custos portæ orientalis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org819462c" class="outline-3">
+<h3 id="org819462c"><span class="section-number-3">3.30</span> Nehemiah 3:30</h3>
+<div class="outline-text-3" id="text-3-30">
+<p>
+Post eum ædificavit Hanania filius Selemiæ, et Hanun filius Seleph sextus, mensuram secundam : post eum ædificavit Mosollam filius Barachiæ, contra gazophylacium suum. Post eum ædificavit Melchias filius aurificis usque ad domum Nathinæorum, et scruta vendentium contra portam judicialem, et usque ad cœnaculum anguli.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2b4e106" class="outline-3">
+<h3 id="org2b4e106"><span class="section-number-3">3.31</span> Nehemiah 3:31</h3>
+<div class="outline-text-3" id="text-3-31">
+<p>
+Et inter cœnaculum anguli in porta gregis, ædificaverunt aurifices et negotiatores.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgb29d3c3" class="outline-2">
+<h2 id="orgb29d3c3"><span class="section-number-2">4</span> Nehemiah 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-orgd6ba4a3" class="outline-3">
+<h3 id="orgd6ba4a3"><span class="section-number-3">4.1</span> Nehemiah 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Factum est autem, cum audisset Sanaballat quod ædificaremus murum, iratus est valde : et motus nimis subsannavit Judæos,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2137c0f" class="outline-3">
+<h3 id="org2137c0f"><span class="section-number-3">4.2</span> Nehemiah 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+et dixit coram fratribus suis, et frequentia Samaritanorum : Quid Judæi faciunt imbecilles ? num dimittent eos gentes ? num sacrificabunt, et complebunt in una die ? numquid ædificare poterunt lapides de acervis pulveris, qui combusti sunt ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgae90de7" class="outline-3">
+<h3 id="orgae90de7"><span class="section-number-3">4.3</span> Nehemiah 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+Sed et Tobias Ammanites, proximus ejus, ait : Ædificent : si ascenderit vulpes, transiliet murum eorum lapideum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8786af8" class="outline-3">
+<h3 id="org8786af8"><span class="section-number-3">4.4</span> Nehemiah 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+Audi, Deus noster, quia facti sumus despectui : converte opprobrium super caput eorum, et da eos in despectionem in terra captivitatis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6fe5d2d" class="outline-3">
+<h3 id="org6fe5d2d"><span class="section-number-3">4.5</span> Nehemiah 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+Ne operias iniquitatem eorum, et peccatum eorum coram facie tua non deleatur, quia irriserunt ædificantes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf578f05" class="outline-3">
+<h3 id="orgf578f05"><span class="section-number-3">4.6</span> Nehemiah 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+Itaque ædificavimus murum, et conjunximus totum usque ad partem dimidiam : et provocatum est cor populi ad operandum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c4fc3b" class="outline-3">
+<h3 id="org8c4fc3b"><span class="section-number-3">4.7</span> Nehemiah 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+Factum est autem, cum audisset Sanaballat, et Tobias, et Arabes, et Ammanitæ, et Azotii, quod obducta esset cicatrix muri Jerusalem, et quod cœpissent interrupta concludi, irati sunt nimis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org786d458" class="outline-3">
+<h3 id="org786d458"><span class="section-number-3">4.8</span> Nehemiah 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+Et congregati sunt omnes pariter ut venirent, et pugnarent contra Jerusalem, et molirentur insidias.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org61c620d" class="outline-3">
+<h3 id="org61c620d"><span class="section-number-3">4.9</span> Nehemiah 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+Et oravimus Deum nostrum, et posuimus custodes super murum die ac nocte contra eos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcfd2ce1" class="outline-3">
+<h3 id="orgcfd2ce1"><span class="section-number-3">4.10</span> Nehemiah 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+Dixit autem Judas : Debilitata est fortitudo portantis, et humus nimia est, et nos non poterimus ædificare murum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org87a074c" class="outline-3">
+<h3 id="org87a074c"><span class="section-number-3">4.11</span> Nehemiah 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+Et dixerunt hostes nostri : Nesciant, et ignorent donec veniamus in medium eorum, et interficiamus eos, et cessare faciamus opus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd647318" class="outline-3">
+<h3 id="orgd647318"><span class="section-number-3">4.12</span> Nehemiah 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+Factum est autem venientibus Judæis qui habitabant juxta eos, et dicentibus nobis per decem vices, ex omnibus locis quibus venerant ad nos,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf20d325" class="outline-3">
+<h3 id="orgf20d325"><span class="section-number-3">4.13</span> Nehemiah 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+statui in loco post murum per circuitum populum in ordinem cum gladiis suis, et lanceis, et arcubus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b0969d" class="outline-3">
+<h3 id="org3b0969d"><span class="section-number-3">4.14</span> Nehemiah 4:14</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+Et perspexi atque surrexi : et aio ad optimates et magistratus, et ad reliquam partem vulgi : Nolite timere a facie eorum : Domini magni et terribilis mementote, et pugnate pro fratribus vestris, filiis vestris, et filiabus vestris, et uxoribus vestris, et domibus vestris.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0d32899" class="outline-3">
+<h3 id="org0d32899"><span class="section-number-3">4.15</span> Nehemiah 4:15</h3>
+<div class="outline-text-3" id="text-4-15">
+<p>
+Factum est autem, cum audissent inimici nostri nuntiatum esse nobis, dissipavit Deus consilium eorum. Et reversi sumus omnes ad muros, unusquisque ad opus suum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2f1f5b0" class="outline-3">
+<h3 id="org2f1f5b0"><span class="section-number-3">4.16</span> Nehemiah 4:16</h3>
+<div class="outline-text-3" id="text-4-16">
+<p>
+Et factum est a die illa, media pars juvenum eorum faciebat opus, et media parata erat ad bellum : et lanceæ, et scuta, et arcus, et loricæ, et principes post eos in omni domo Juda.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd1f4dc2" class="outline-3">
+<h3 id="orgd1f4dc2"><span class="section-number-3">4.17</span> Nehemiah 4:17</h3>
+<div class="outline-text-3" id="text-4-17">
+<p>
+Ædificantium in muro, et portantium onera, et imponentium : una manu sua faciebat opus, et altera tenebat gladium :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org28acdf5" class="outline-3">
+<h3 id="org28acdf5"><span class="section-number-3">4.18</span> Nehemiah 4:18</h3>
+<div class="outline-text-3" id="text-4-18">
+<p>
+ædificentium enim unusquisque gladio erat accinctus renes. Et ædificabant, et clangebant buccina juxta me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org41d21e6" class="outline-3">
+<h3 id="org41d21e6"><span class="section-number-3">4.19</span> Nehemiah 4:19</h3>
+<div class="outline-text-3" id="text-4-19">
+<p>
+Et dixi ad optimates, et ad magistratus, et ad reliquam partem vulgi : Opus grande est et latum, et nos separati sumus in muro procul alter ab altero :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9f0b3e8" class="outline-3">
+<h3 id="org9f0b3e8"><span class="section-number-3">4.20</span> Nehemiah 4:20</h3>
+<div class="outline-text-3" id="text-4-20">
+<p>
+in loco quocumque audieritis clangorem tubæ, illuc concurrite ad nos : Deus noster pugnabit pro nobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1bf3b12" class="outline-3">
+<h3 id="org1bf3b12"><span class="section-number-3">4.21</span> Nehemiah 4:21</h3>
+<div class="outline-text-3" id="text-4-21">
+<p>
+Et nos ipsi faciamus opus, et media pars nostrum teneat lanceas ab ascensu auroræ donec egrediantur astra.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf676f58" class="outline-3">
+<h3 id="orgf676f58"><span class="section-number-3">4.22</span> Nehemiah 4:22</h3>
+<div class="outline-text-3" id="text-4-22">
+<p>
+In tempore quoque illo dixi populo : Unusquisque cum puero suo maneat in medio Jerusalem, et sint nobis vices per noctem et diem ad operandum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf1516c5" class="outline-3">
+<h3 id="orgf1516c5"><span class="section-number-3">4.23</span> Nehemiah 4:23</h3>
+<div class="outline-text-3" id="text-4-23">
+<p>
+Ego autem et fratres mei, et pueri mei, et custodes, qui erant post me, non deponebamus vestimenta nostra : unusquisque tantum nudabatur ad baptismum.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org9bf158e" class="outline-2">
+<h2 id="org9bf158e"><span class="section-number-2">5</span> Nehemiah 5</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org3b6acfa" class="outline-3">
+<h3 id="org3b6acfa"><span class="section-number-3">5.1</span> Nehemiah 5:1</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Et factus est clamor populi et uxorum ejus magnus adversus fratres suos Judæos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org11258c3" class="outline-3">
+<h3 id="org11258c3"><span class="section-number-3">5.2</span> Nehemiah 5:2</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Et erant qui dicerent : Filii nostri et filiæ nostræ multæ sunt nimis : accipiamus pro pretio eorum frumentum, et comedamus, et vivamus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3d819f4" class="outline-3">
+<h3 id="org3d819f4"><span class="section-number-3">5.3</span> Nehemiah 5:3</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+Et erant qui dicerent : Agros nostros, et vineas, et domus nostras opponamus, et accipiamus frumentum in fame.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org98dfbed" class="outline-3">
+<h3 id="org98dfbed"><span class="section-number-3">5.4</span> Nehemiah 5:4</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+Et alii dicebant : Mutuo sumamus pecunias in tributa regis, demusque agros nostros et vineas :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5fff41e" class="outline-3">
+<h3 id="org5fff41e"><span class="section-number-3">5.5</span> Nehemiah 5:5</h3>
+<div class="outline-text-3" id="text-5-5">
+<p>
+et nunc sicut carnes fratrum nostrorum, sic carnes nostræ sunt : et sicut filii eorum, ita et filii nostri : ecce nos subjugamus filios nostros et filias nostras in servitutem, et de filiabus nostris sunt famulæ, nec habemus unde possint redimi : et agros nostros et vineas nostras alii possident.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcefd5d0" class="outline-3">
+<h3 id="orgcefd5d0"><span class="section-number-3">5.6</span> Nehemiah 5:6</h3>
+<div class="outline-text-3" id="text-5-6">
+<p>
+Et iratus sum nimis cum audissem clamorem eorum secundum verba hæc :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org44e3cb5" class="outline-3">
+<h3 id="org44e3cb5"><span class="section-number-3">5.7</span> Nehemiah 5:7</h3>
+<div class="outline-text-3" id="text-5-7">
+<p>
+cogitavitque cor meum mecum, et increpavi optimates et magistratus, et dixi eis : Usurasne singuli a fratribus vestris exigitis ? Et congregavi adversum eos concionem magnam,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga1a0182" class="outline-3">
+<h3 id="orga1a0182"><span class="section-number-3">5.8</span> Nehemiah 5:8</h3>
+<div class="outline-text-3" id="text-5-8">
+<p>
+et dixi eis : Nos, ut scitis, redemimus fratres nostros Judæos, qui venditi fuerant gentibus secundum possibilitatem nostram : et vos igitur vendetis fratres vestros, et redimemus eos ? Et siluerunt, nec invenerunt quid responderent.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga9643d5" class="outline-3">
+<h3 id="orga9643d5"><span class="section-number-3">5.9</span> Nehemiah 5:9</h3>
+<div class="outline-text-3" id="text-5-9">
+<p>
+Dixique ad eos : Non est bona res quam facitis : quare non in timore Dei nostri ambulastis, ne exprobretur nobis a gentibus inimicis nostris ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdd8e0d6" class="outline-3">
+<h3 id="orgdd8e0d6"><span class="section-number-3">5.10</span> Nehemiah 5:10</h3>
+<div class="outline-text-3" id="text-5-10">
+<p>
+Et ego, et fratres mei, et pueri mei commodavimus plurimis pecuniam et frumentum. Non repetamus in commune istud : æs alienum concedamus quod debetur nobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd32e6e0" class="outline-3">
+<h3 id="orgd32e6e0"><span class="section-number-3">5.11</span> Nehemiah 5:11</h3>
+<div class="outline-text-3" id="text-5-11">
+<p>
+Reddite eis hodie agros suos, et vineas suas, et oliveta sua, et domos suas : quin potius et centesimum pecuniæ, frumenti, vini et olei, quam exigere soletis ab eis, date pro illis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb4dbab6" class="outline-3">
+<h3 id="orgb4dbab6"><span class="section-number-3">5.12</span> Nehemiah 5:12</h3>
+<div class="outline-text-3" id="text-5-12">
+<p>
+Et dixerunt : Reddemus, et ab eis nihil quæremus : sicque faciemus ut loqueris. Et vocavi sacerdotes, et adjuravi eos ut facerent juxta quod dixeram.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc020d03" class="outline-3">
+<h3 id="orgc020d03"><span class="section-number-3">5.13</span> Nehemiah 5:13</h3>
+<div class="outline-text-3" id="text-5-13">
+<p>
+Insuper excussi sinum meum, et dixi : Sic excutiat Deus omnem virum qui non compleverit verbum istud, de domo sua, et de laboribus suis : sic excutiatur, et vacuus fiat. Et dixit universa multitudo : Amen : et laudaverunt Deum. Fecit ergo populus sicut erat dictum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org62979ff" class="outline-3">
+<h3 id="org62979ff"><span class="section-number-3">5.14</span> Nehemiah 5:14</h3>
+<div class="outline-text-3" id="text-5-14">
+<p>
+A die autem illa, qua præceperat rex mihi ut essem dux in terra Juda, ab anno vigesimo usque ad annum trigesimum secundum Artaxerxis regis per annos duodecim, ego et fratres mei annonas quæ ducibus debebantur non comedimus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org211efda" class="outline-3">
+<h3 id="org211efda"><span class="section-number-3">5.15</span> Nehemiah 5:15</h3>
+<div class="outline-text-3" id="text-5-15">
+<p>
+Duces autem primi, qui fuerant ante me, gravaverunt populum, et acceperunt ab eis in pane, et vino, et pecunia, quotidie siclos quadraginta : sed et ministri eorum depresserunt populum. Ego autem non feci ita propter timorem Dei :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org425dc8d" class="outline-3">
+<h3 id="org425dc8d"><span class="section-number-3">5.16</span> Nehemiah 5:16</h3>
+<div class="outline-text-3" id="text-5-16">
+<p>
+quin potius in opere muri ædificavi, et agrum non emi, et omnes pueri mei congregati ad opus erant.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org52ff299" class="outline-3">
+<h3 id="org52ff299"><span class="section-number-3">5.17</span> Nehemiah 5:17</h3>
+<div class="outline-text-3" id="text-5-17">
+<p>
+Judæi quoque et magistratus centum quinquaginta viri, et qui veniebant ad nos de gentibus quæ in circuitu nostro sunt, in mensa mea erant.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd2e9aaa" class="outline-3">
+<h3 id="orgd2e9aaa"><span class="section-number-3">5.18</span> Nehemiah 5:18</h3>
+<div class="outline-text-3" id="text-5-18">
+<p>
+Parabatur autem mihi per dies singulos bos unus, arietes sex electi, exceptis volatilibus, et inter dies decem vina diversa, et alia multa tribuebam : insuper et annonas ducatus mei non quæsivi : valde enim attenuatus erat populus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde5942e" class="outline-3">
+<h3 id="orgde5942e"><span class="section-number-3">5.19</span> Nehemiah 5:19</h3>
+<div class="outline-text-3" id="text-5-19">
+<p>
+Memento mei, Deus meus, in bonum, secundum omnia quæ feci populo huic.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgb99a573" class="outline-2">
+<h2 id="orgb99a573"><span class="section-number-2">6</span> Nehemiah 6</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-org33da1ab" class="outline-3">
+<h3 id="org33da1ab"><span class="section-number-3">6.1</span> Nehemiah 6:1</h3>
+<div class="outline-text-3" id="text-6-1">
+<p>
+Factum est autem, cum audisset Sanaballat, et Tobias, et Gossem Arabs, et ceteri inimici nostri, quod ædificassem ego murum, et non esset in ipso residua interruptio (usque ad tempus autem illud valvas non posueram in portis),
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0c90488" class="outline-3">
+<h3 id="org0c90488"><span class="section-number-3">6.2</span> Nehemiah 6:2</h3>
+<div class="outline-text-3" id="text-6-2">
+<p>
+miserunt Sanaballat et Gossem ad me, dicentes : Veni, et percutiamus fœdus pariter in viculis in campo Ono. Ipsi autem cogitabant ut facerent mihi malum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6e9e356" class="outline-3">
+<h3 id="org6e9e356"><span class="section-number-3">6.3</span> Nehemiah 6:3</h3>
+<div class="outline-text-3" id="text-6-3">
+<p>
+Misi ergo ad eos nuntios, dicens : Opus grande ego facio, et non possum descendere, ne forte negligatur cum venero, et descendero ad vos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgffebdf2" class="outline-3">
+<h3 id="orgffebdf2"><span class="section-number-3">6.4</span> Nehemiah 6:4</h3>
+<div class="outline-text-3" id="text-6-4">
+<p>
+Miserunt autem ad me secundum verbum hoc per quatuor vices : et respondi eis juxta sermonem priorem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbf55f17" class="outline-3">
+<h3 id="orgbf55f17"><span class="section-number-3">6.5</span> Nehemiah 6:5</h3>
+<div class="outline-text-3" id="text-6-5">
+<p>
+Et misit ad me Sanaballat juxta verbum prius quinta vice puerum suum, et epistolam habebat in manu sua scriptam hoc modo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9f01d9d" class="outline-3">
+<h3 id="org9f01d9d"><span class="section-number-3">6.6</span> Nehemiah 6:6</h3>
+<div class="outline-text-3" id="text-6-6">
+<p>
+In gentibus auditum est, et Gossem dixit, quod tu et Judæi cogitetis rebellare, et propterea ædifices murum, et levare te velis super eos regem : propter quam causam
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdd96fa0" class="outline-3">
+<h3 id="orgdd96fa0"><span class="section-number-3">6.7</span> Nehemiah 6:7</h3>
+<div class="outline-text-3" id="text-6-7">
+<p>
+et prophetas posueris, qui prædicent de te in Jerusalem, dicentes : Rex in Judæa est. Auditurus est rex verba hæc : idcirco nunc veni, ut ineamus consilium pariter.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2bbd4c1" class="outline-3">
+<h3 id="org2bbd4c1"><span class="section-number-3">6.8</span> Nehemiah 6:8</h3>
+<div class="outline-text-3" id="text-6-8">
+<p>
+Et misi ad eos, dicens : Non est factum secundum verba hæc, quæ tu loqueris : de corde enim tuo tu componis hæc.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe9bc80" class="outline-3">
+<h3 id="orgfe9bc80"><span class="section-number-3">6.9</span> Nehemiah 6:9</h3>
+<div class="outline-text-3" id="text-6-9">
+<p>
+Omnes enim hi terrebant nos, cogitantes quod cessarent manus nostræ ab opere, et quiesceremus : quam ob causam magis confortavi manus meas.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfd0a222" class="outline-3">
+<h3 id="orgfd0a222"><span class="section-number-3">6.10</span> Nehemiah 6:10</h3>
+<div class="outline-text-3" id="text-6-10">
+<p>
+Et ingressus sum domum Semaiæ filii Dalaiæ filii Metabeel secreto. Qui ait : Tractemus nobiscum in domo Dei in medio templi, et claudamus portas ædis : quia venturi sunt ut interficiant te, et nocte venturi sunt ad occidendum te.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga614ef2" class="outline-3">
+<h3 id="orga614ef2"><span class="section-number-3">6.11</span> Nehemiah 6:11</h3>
+<div class="outline-text-3" id="text-6-11">
+<p>
+Et dixi : Num quisquam similis mei fugit ? et quis ut ego ingredietur templum, et vivet ? non ingrediar.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org868d1e3" class="outline-3">
+<h3 id="org868d1e3"><span class="section-number-3">6.12</span> Nehemiah 6:12</h3>
+<div class="outline-text-3" id="text-6-12">
+<p>
+Et intellexi quod Deus non misisset eum, sed quasi vaticinans locutus esset ad me, et Tobias et Sanaballat conduxissent eum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org38943df" class="outline-3">
+<h3 id="org38943df"><span class="section-number-3">6.13</span> Nehemiah 6:13</h3>
+<div class="outline-text-3" id="text-6-13">
+<p>
+Acceperat enim pretium, ut territus facerem, et peccarem, et haberent malum quod exprobrarent mihi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4214cce" class="outline-3">
+<h3 id="org4214cce"><span class="section-number-3">6.14</span> Nehemiah 6:14</h3>
+<div class="outline-text-3" id="text-6-14">
+<p>
+Memento mei, Domine, pro Tobia et Sanaballat, juxta opera eorum talia : sed et Noadiæ prophetæ, et ceterorum prophetarum, qui terrebant me.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org863d87d" class="outline-3">
+<h3 id="org863d87d"><span class="section-number-3">6.15</span> Nehemiah 6:15</h3>
+<div class="outline-text-3" id="text-6-15">
+<p>
+Completus est autem murus vigesimo quinto die mensis Elul, quinquaginta duobus diebus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org805055f" class="outline-3">
+<h3 id="org805055f"><span class="section-number-3">6.16</span> Nehemiah 6:16</h3>
+<div class="outline-text-3" id="text-6-16">
+<p>
+Factum est ergo cum audissent omnes inimici nostri, ut timerent universæ gentes quæ erant in circuitu nostro, et conciderent intra semetipsos, et scirent quod a Deo factum esset opus hoc.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org869f802" class="outline-3">
+<h3 id="org869f802"><span class="section-number-3">6.17</span> Nehemiah 6:17</h3>
+<div class="outline-text-3" id="text-6-17">
+<p>
+Sed et in diebus illis multæ optimatum Judæorum epistolæ mittebantur ad Tobiam, et a Tobia veniebant ad eos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org66d3e1d" class="outline-3">
+<h3 id="org66d3e1d"><span class="section-number-3">6.18</span> Nehemiah 6:18</h3>
+<div class="outline-text-3" id="text-6-18">
+<p>
+Multi enim erant in Judæa habentes juramentum ejus, quia gener erat Secheniæ filii Area, et Johanan filius ejus acceperat filiam Mosollam filii Barachiæ :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6a705a1" class="outline-3">
+<h3 id="org6a705a1"><span class="section-number-3">6.19</span> Nehemiah 6:19</h3>
+<div class="outline-text-3" id="text-6-19">
+<p>
+sed et laudabant eum coram me, et verba mea nuntiabant ei : et Tobias mittebat epistolas ut terreret me.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org7ce83da" class="outline-2">
+<h2 id="org7ce83da"><span class="section-number-2">7</span> Nehemiah 7</h2>
+<div class="outline-text-2" id="text-7">
+</div>
+<div id="outline-container-org35b08ff" class="outline-3">
+<h3 id="org35b08ff"><span class="section-number-3">7.1</span> Nehemiah 7:1</h3>
+<div class="outline-text-3" id="text-7-1">
+<p>
+Postquam autem ædificatus est murus, et posui valvas, et recensui janitores, et cantores, et Levitas,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgef43fad" class="outline-3">
+<h3 id="orgef43fad"><span class="section-number-3">7.2</span> Nehemiah 7:2</h3>
+<div class="outline-text-3" id="text-7-2">
+<p>
+præcepi Hanani fratri meo, et Hananiæ principi domus de Jerusalem (ipse enim quasi vir verax et timens Deum plus ceteris videbatur),
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2d60e0e" class="outline-3">
+<h3 id="org2d60e0e"><span class="section-number-3">7.3</span> Nehemiah 7:3</h3>
+<div class="outline-text-3" id="text-7-3">
+<p>
+et dixi eis : Non aperiantur portæ Jerusalem usque ad calorem solis. Cumque adhuc assisterent, clausæ portæ sunt, et oppilatæ : et posui custodes de habitatoribus Jerusalem, singulos per vices suas, et unumquemque contra domum suam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1b673e8" class="outline-3">
+<h3 id="org1b673e8"><span class="section-number-3">7.4</span> Nehemiah 7:4</h3>
+<div class="outline-text-3" id="text-7-4">
+<p>
+Civitas autem erat lata nimis et grandis, et populus parvus in medio ejus, et non erant domus ædificatæ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf648c7c" class="outline-3">
+<h3 id="orgf648c7c"><span class="section-number-3">7.5</span> Nehemiah 7:5</h3>
+<div class="outline-text-3" id="text-7-5">
+<p>
+Deus autem dedit in corde meo, et congregavi optimates, et magistratus, et vulgus, ut recenserem eos : et inveni librum census eorum qui ascenderant primum, et inventum est scriptum in eo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org01137df" class="outline-3">
+<h3 id="org01137df"><span class="section-number-3">7.6</span> Nehemiah 7:6</h3>
+<div class="outline-text-3" id="text-7-6">
+<p>
+Isti filii provinciæ, qui ascenderunt de captivitate migrantium, quos transtulerat Nabuchodonosor rex Babylonis, et reversi sunt in Jerusalem et in Judæam, unusquisque in civitatem suam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org635f839" class="outline-3">
+<h3 id="org635f839"><span class="section-number-3">7.7</span> Nehemiah 7:7</h3>
+<div class="outline-text-3" id="text-7-7">
+<p>
+Qui venerunt cum Zorobabel, Josue, Nehemias, Azarias, Raamias, Nahamani, Mardochæus, Belsam, Mespharath, Begoai, Nahum, Baana.   Numerus virorum populi Israël :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga80b297" class="outline-3">
+<h3 id="orga80b297"><span class="section-number-3">7.8</span> Nehemiah 7:8</h3>
+<div class="outline-text-3" id="text-7-8">
+<p>
+filii Pharos, duo millia centum septuaginta duo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4ba0ebf" class="outline-3">
+<h3 id="org4ba0ebf"><span class="section-number-3">7.9</span> Nehemiah 7:9</h3>
+<div class="outline-text-3" id="text-7-9">
+<p>
+filii Saphatia, trecenti septuaginta duo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc26c6d0" class="outline-3">
+<h3 id="orgc26c6d0"><span class="section-number-3">7.10</span> Nehemiah 7:10</h3>
+<div class="outline-text-3" id="text-7-10">
+<p>
+filii Area, sexcenti quinquaginta duo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb57d2b8" class="outline-3">
+<h3 id="orgb57d2b8"><span class="section-number-3">7.11</span> Nehemiah 7:11</h3>
+<div class="outline-text-3" id="text-7-11">
+<p>
+filii Phahathmoab filiorum Josue et Joab, duo millia octingenti decem et octo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org82c048e" class="outline-3">
+<h3 id="org82c048e"><span class="section-number-3">7.12</span> Nehemiah 7:12</h3>
+<div class="outline-text-3" id="text-7-12">
+<p>
+filii Ælam, mille ducenti quinquaginta quatuor :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde74b27" class="outline-3">
+<h3 id="orgde74b27"><span class="section-number-3">7.13</span> Nehemiah 7:13</h3>
+<div class="outline-text-3" id="text-7-13">
+<p>
+filii Zethua, octingenti quadraginta quinque :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb6de348" class="outline-3">
+<h3 id="orgb6de348"><span class="section-number-3">7.14</span> Nehemiah 7:14</h3>
+<div class="outline-text-3" id="text-7-14">
+<p>
+filii Zachai, septingenti sexaginta :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org50dc5b6" class="outline-3">
+<h3 id="org50dc5b6"><span class="section-number-3">7.15</span> Nehemiah 7:15</h3>
+<div class="outline-text-3" id="text-7-15">
+<p>
+filii Bannui, sexcenti quadraginta octo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org77eb8f5" class="outline-3">
+<h3 id="org77eb8f5"><span class="section-number-3">7.16</span> Nehemiah 7:16</h3>
+<div class="outline-text-3" id="text-7-16">
+<p>
+filii Bebai, sexcenti viginti octo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org12fe79e" class="outline-3">
+<h3 id="org12fe79e"><span class="section-number-3">7.17</span> Nehemiah 7:17</h3>
+<div class="outline-text-3" id="text-7-17">
+<p>
+filii Azgad, duo millia trecenti viginti duo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge371ca7" class="outline-3">
+<h3 id="orge371ca7"><span class="section-number-3">7.18</span> Nehemiah 7:18</h3>
+<div class="outline-text-3" id="text-7-18">
+<p>
+filii Adonicam, sexcenti sexaginta septem :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2566caf" class="outline-3">
+<h3 id="org2566caf"><span class="section-number-3">7.19</span> Nehemiah 7:19</h3>
+<div class="outline-text-3" id="text-7-19">
+<p>
+filii Beguai, duo millia sexaginta septem :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga14d915" class="outline-3">
+<h3 id="orga14d915"><span class="section-number-3">7.20</span> Nehemiah 7:20</h3>
+<div class="outline-text-3" id="text-7-20">
+<p>
+filii Adin, sexcenti quinquaginta quinque :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9f1581b" class="outline-3">
+<h3 id="org9f1581b"><span class="section-number-3">7.21</span> Nehemiah 7:21</h3>
+<div class="outline-text-3" id="text-7-21">
+<p>
+filii Ater, filii Hezeciæ, nonaginta octo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7bac60d" class="outline-3">
+<h3 id="org7bac60d"><span class="section-number-3">7.22</span> Nehemiah 7:22</h3>
+<div class="outline-text-3" id="text-7-22">
+<p>
+filii Hasem, trecenti viginti octo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f6bef0" class="outline-3">
+<h3 id="org7f6bef0"><span class="section-number-3">7.23</span> Nehemiah 7:23</h3>
+<div class="outline-text-3" id="text-7-23">
+<p>
+filii Besai, trecenti viginti quatuor :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbf3f900" class="outline-3">
+<h3 id="orgbf3f900"><span class="section-number-3">7.24</span> Nehemiah 7:24</h3>
+<div class="outline-text-3" id="text-7-24">
+<p>
+filii Hareph, centum duodecim :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org66ff653" class="outline-3">
+<h3 id="org66ff653"><span class="section-number-3">7.25</span> Nehemiah 7:25</h3>
+<div class="outline-text-3" id="text-7-25">
+<p>
+filii Gabaon, nonaginta quinque :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgee17bf2" class="outline-3">
+<h3 id="orgee17bf2"><span class="section-number-3">7.26</span> Nehemiah 7:26</h3>
+<div class="outline-text-3" id="text-7-26">
+<p>
+filii Bethlehem et Netupha, centum octoginta octo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org63e71fc" class="outline-3">
+<h3 id="org63e71fc"><span class="section-number-3">7.27</span> Nehemiah 7:27</h3>
+<div class="outline-text-3" id="text-7-27">
+<p>
+Viri Anathoth, centum viginti octo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1cdbdc6" class="outline-3">
+<h3 id="org1cdbdc6"><span class="section-number-3">7.28</span> Nehemiah 7:28</h3>
+<div class="outline-text-3" id="text-7-28">
+<p>
+Viri Bethazmoth, quadraginta duo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgffcd0f3" class="outline-3">
+<h3 id="orgffcd0f3"><span class="section-number-3">7.29</span> Nehemiah 7:29</h3>
+<div class="outline-text-3" id="text-7-29">
+<p>
+Viri Cariathiarim, Cephira, et Beroth, septingenti quadraginta tres.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1078eb5" class="outline-3">
+<h3 id="org1078eb5"><span class="section-number-3">7.30</span> Nehemiah 7:30</h3>
+<div class="outline-text-3" id="text-7-30">
+<p>
+Viri Rama et Geba, sexcenti viginti unus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6f399a4" class="outline-3">
+<h3 id="org6f399a4"><span class="section-number-3">7.31</span> Nehemiah 7:31</h3>
+<div class="outline-text-3" id="text-7-31">
+<p>
+Viri Machmas, centum viginti duo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6bfc35c" class="outline-3">
+<h3 id="org6bfc35c"><span class="section-number-3">7.32</span> Nehemiah 7:32</h3>
+<div class="outline-text-3" id="text-7-32">
+<p>
+Viri Bethel et Hai, centum viginti tres.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org10cb363" class="outline-3">
+<h3 id="org10cb363"><span class="section-number-3">7.33</span> Nehemiah 7:33</h3>
+<div class="outline-text-3" id="text-7-33">
+<p>
+Viri Nebo alterius, quinquaginta duo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org978d8a9" class="outline-3">
+<h3 id="org978d8a9"><span class="section-number-3">7.34</span> Nehemiah 7:34</h3>
+<div class="outline-text-3" id="text-7-34">
+<p>
+Viri Ælam alterius, mille ducenti quinquaginta quatuor.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge959dfe" class="outline-3">
+<h3 id="orge959dfe"><span class="section-number-3">7.35</span> Nehemiah 7:35</h3>
+<div class="outline-text-3" id="text-7-35">
+<p>
+Filii Harem, trecenti viginti.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1d5ceaa" class="outline-3">
+<h3 id="org1d5ceaa"><span class="section-number-3">7.36</span> Nehemiah 7:36</h3>
+<div class="outline-text-3" id="text-7-36">
+<p>
+Filii Jericho, trecenti quadraginta quinque.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5115409" class="outline-3">
+<h3 id="org5115409"><span class="section-number-3">7.37</span> Nehemiah 7:37</h3>
+<div class="outline-text-3" id="text-7-37">
+<p>
+Filii Lod Hadid et Ono, septingenti viginti unus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3c15f64" class="outline-3">
+<h3 id="org3c15f64"><span class="section-number-3">7.38</span> Nehemiah 7:38</h3>
+<div class="outline-text-3" id="text-7-38">
+<p>
+Filii Senaa, tria millia nongenti triginta.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb488f22" class="outline-3">
+<h3 id="orgb488f22"><span class="section-number-3">7.39</span> Nehemiah 7:39</h3>
+<div class="outline-text-3" id="text-7-39">
+<p>
+Sacerdotes : filii Idaia in domo Josue, nongenti septuaginta tres.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd923356" class="outline-3">
+<h3 id="orgd923356"><span class="section-number-3">7.40</span> Nehemiah 7:40</h3>
+<div class="outline-text-3" id="text-7-40">
+<p>
+Filii Emmer, mille quinquaginta duo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf1e43b4" class="outline-3">
+<h3 id="orgf1e43b4"><span class="section-number-3">7.41</span> Nehemiah 7:41</h3>
+<div class="outline-text-3" id="text-7-41">
+<p>
+Filii Phashur, mille ducenti quadraginta septem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgafca5f3" class="outline-3">
+<h3 id="orgafca5f3"><span class="section-number-3">7.42</span> Nehemiah 7:42</h3>
+<div class="outline-text-3" id="text-7-42">
+<p>
+Filii Arem, mille decem et septem. Levitæ :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2a582a8" class="outline-3">
+<h3 id="org2a582a8"><span class="section-number-3">7.43</span> Nehemiah 7:43</h3>
+<div class="outline-text-3" id="text-7-43">
+<p>
+filii Josue et Cedmihel filiorum
+</p>
+</div>
+</div>
+
+<div id="outline-container-org527a0e7" class="outline-3">
+<h3 id="org527a0e7"><span class="section-number-3">7.44</span> Nehemiah 7:44</h3>
+<div class="outline-text-3" id="text-7-44">
+<p>
+Oduiæ, septuaginta quatuor. Cantores :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org422103c" class="outline-3">
+<h3 id="org422103c"><span class="section-number-3">7.45</span> Nehemiah 7:45</h3>
+<div class="outline-text-3" id="text-7-45">
+<p>
+filii Asaph, centum quadraginta octo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org651250a" class="outline-3">
+<h3 id="org651250a"><span class="section-number-3">7.46</span> Nehemiah 7:46</h3>
+<div class="outline-text-3" id="text-7-46">
+<p>
+Janitores : filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatita, filii Sobai : centum triginta octo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org247cf76" class="outline-3">
+<h3 id="org247cf76"><span class="section-number-3">7.47</span> Nehemiah 7:47</h3>
+<div class="outline-text-3" id="text-7-47">
+<p>
+Nathinæi : filii Soha, filii Hasupha, filii Tebbaoth,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org81181eb" class="outline-3">
+<h3 id="org81181eb"><span class="section-number-3">7.48</span> Nehemiah 7:48</h3>
+<div class="outline-text-3" id="text-7-48">
+<p>
+filii Ceros, filii Siaa, filii Phadon, filii Lebana, filii Hagaba, filii Selmai,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb20e444" class="outline-3">
+<h3 id="orgb20e444"><span class="section-number-3">7.49</span> Nehemiah 7:49</h3>
+<div class="outline-text-3" id="text-7-49">
+<p>
+filii Hanan, filii Geddel, filii Gaher,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2218791" class="outline-3">
+<h3 id="org2218791"><span class="section-number-3">7.50</span> Nehemiah 7:50</h3>
+<div class="outline-text-3" id="text-7-50">
+<p>
+filii Raaia, filii Rasin, filii Necoda,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org474fa7d" class="outline-3">
+<h3 id="org474fa7d"><span class="section-number-3">7.51</span> Nehemiah 7:51</h3>
+<div class="outline-text-3" id="text-7-51">
+<p>
+filii Gezem, filii Aza, filii Phasea,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf39e1ba" class="outline-3">
+<h3 id="orgf39e1ba"><span class="section-number-3">7.52</span> Nehemiah 7:52</h3>
+<div class="outline-text-3" id="text-7-52">
+<p>
+filii Besai, filii Munim, filii Nephussim,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge30db4e" class="outline-3">
+<h3 id="orge30db4e"><span class="section-number-3">7.53</span> Nehemiah 7:53</h3>
+<div class="outline-text-3" id="text-7-53">
+<p>
+filii Bacbuc, filii Hacupha, filii Harhur,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3af7086" class="outline-3">
+<h3 id="org3af7086"><span class="section-number-3">7.54</span> Nehemiah 7:54</h3>
+<div class="outline-text-3" id="text-7-54">
+<p>
+filii Besloth, filii Mahida, filii Harsa,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org208a02e" class="outline-3">
+<h3 id="org208a02e"><span class="section-number-3">7.55</span> Nehemiah 7:55</h3>
+<div class="outline-text-3" id="text-7-55">
+<p>
+filii Bercos, filii Sisara, filii Thema,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org20f49c9" class="outline-3">
+<h3 id="org20f49c9"><span class="section-number-3">7.56</span> Nehemiah 7:56</h3>
+<div class="outline-text-3" id="text-7-56">
+<p>
+filii Nasia, filii Hatipha,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org77e6470" class="outline-3">
+<h3 id="org77e6470"><span class="section-number-3">7.57</span> Nehemiah 7:57</h3>
+<div class="outline-text-3" id="text-7-57">
+<p>
+filii servorum Salomonis, filii Sothai, filii Sophereth, filii Pharida,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6361a89" class="outline-3">
+<h3 id="org6361a89"><span class="section-number-3">7.58</span> Nehemiah 7:58</h3>
+<div class="outline-text-3" id="text-7-58">
+<p>
+filii Jahala, filii Darcon, filii Jeddel,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1bbbc2a" class="outline-3">
+<h3 id="org1bbbc2a"><span class="section-number-3">7.59</span> Nehemiah 7:59</h3>
+<div class="outline-text-3" id="text-7-59">
+<p>
+filii Saphatia, filii Hatil, filii Phochereth, qui erat ortus ex Sabaim filio Amon.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd2cf137" class="outline-3">
+<h3 id="orgd2cf137"><span class="section-number-3">7.60</span> Nehemiah 7:60</h3>
+<div class="outline-text-3" id="text-7-60">
+<p>
+Omnes Nathinæi, et filii servorum Salomonis, trecenti nonaginta duo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e0418f" class="outline-3">
+<h3 id="org9e0418f"><span class="section-number-3">7.61</span> Nehemiah 7:61</h3>
+<div class="outline-text-3" id="text-7-61">
+<p>
+Hi sunt autem qui ascenderunt de Thelmela, Thelharsa, Cherub, Addon, et Emmer : et non potuerunt indicare domum patrum suorum, et semen suum, utrum ex Israël essent,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcb3ccaf" class="outline-3">
+<h3 id="orgcb3ccaf"><span class="section-number-3">7.62</span> Nehemiah 7:62</h3>
+<div class="outline-text-3" id="text-7-62">
+<p>
+filii Dalaia, filii Tobia, filii Necoda, sexcenti quadraginta duo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org53e7638" class="outline-3">
+<h3 id="org53e7638"><span class="section-number-3">7.63</span> Nehemiah 7:63</h3>
+<div class="outline-text-3" id="text-7-63">
+<p>
+Et de sacerdotibus, filii Habia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis uxorem, et vocatus est nomine eorum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6a2fa96" class="outline-3">
+<h3 id="org6a2fa96"><span class="section-number-3">7.64</span> Nehemiah 7:64</h3>
+<div class="outline-text-3" id="text-7-64">
+<p>
+Hi quæsierunt scripturam suam in censu, et non invenerunt : et ejecti sunt de sacerdotio.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6ea9d7e" class="outline-3">
+<h3 id="org6ea9d7e"><span class="section-number-3">7.65</span> Nehemiah 7:65</h3>
+<div class="outline-text-3" id="text-7-65">
+<p>
+Dixitque Athersatha eis ut non manducarent de Sanctis sanctorum, donec staret sacerdos doctus et eruditus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge675c83" class="outline-3">
+<h3 id="orge675c83"><span class="section-number-3">7.66</span> Nehemiah 7:66</h3>
+<div class="outline-text-3" id="text-7-66">
+<p>
+Omnis multitudo quasi vir unus quadraginta duo millia trecenti sexaginta,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org83113e9" class="outline-3">
+<h3 id="org83113e9"><span class="section-number-3">7.67</span> Nehemiah 7:67</h3>
+<div class="outline-text-3" id="text-7-67">
+<p>
+absque servis et ancillis eorum, qui erant septem millia trecenti triginta septem, et inter eos cantores et cantatrices, ducenti quadraginta quinque.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgee23d2e" class="outline-3">
+<h3 id="orgee23d2e"><span class="section-number-3">7.68</span> Nehemiah 7:68</h3>
+<div class="outline-text-3" id="text-7-68">
+<p>
+Equi eorum, septingenti triginta sex : muli eorum, ducenti quadraginta quinque :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga19c212" class="outline-3">
+<h3 id="orga19c212"><span class="section-number-3">7.69</span> Nehemiah 7:69</h3>
+<div class="outline-text-3" id="text-7-69">
+<p>
+cameli eorum, quadringenti triginta quinque : asini, sex millia septingenti viginti.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org91e48c2" class="outline-3">
+<h3 id="org91e48c2"><span class="section-number-3">7.70</span> Nehemiah 7:70</h3>
+<div class="outline-text-3" id="text-7-70">
+<p>
+Nonnulli autem de principibus familiarum dederunt in opus. Athersatha dedit in thesaurum auri drachmas mille, phialas quinquaginta, tunicas sacerdotales quingentas triginta.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org36a5d31" class="outline-3">
+<h3 id="org36a5d31"><span class="section-number-3">7.71</span> Nehemiah 7:71</h3>
+<div class="outline-text-3" id="text-7-71">
+<p>
+Et de principibus familiarum dederunt in thesaurum operis, auri drachmas viginti millia, et argenti mnas duo millia ducentas.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org52f47e3" class="outline-3">
+<h3 id="org52f47e3"><span class="section-number-3">7.72</span> Nehemiah 7:72</h3>
+<div class="outline-text-3" id="text-7-72">
+<p>
+Et quod dedit reliquus populus, auri drachmas viginti millia, et argenti mnas duo millia, et tunicas sacerdotales sexaginta septem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7397e80" class="outline-3">
+<h3 id="org7397e80"><span class="section-number-3">7.73</span> Nehemiah 7:73</h3>
+<div class="outline-text-3" id="text-7-73">
+<p>
+Habitaverunt autem sacerdotes, et Levitæ, et janitores, et cantores, et reliquum vulgus, et Nathinæi, et omnis Israël, in civitatibus suis.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgcd2a8f3" class="outline-2">
+<h2 id="orgcd2a8f3"><span class="section-number-2">8</span> Nehemiah 8</h2>
+<div class="outline-text-2" id="text-8">
+</div>
+<div id="outline-container-org477b2b6" class="outline-3">
+<h3 id="org477b2b6"><span class="section-number-3">8.1</span> Nehemiah 8:1</h3>
+<div class="outline-text-3" id="text-8-1">
+<p>
+Et venerat mensis septimus : filii autem Israël erant in civitatibus suis. Congregatusque est omnis populus quasi vir unus ad plateam quæ est ante portam aquarum : et dixerunt Esdræ scribæ ut afferret librum legis Moysi, quam præceperat Dominus Israëli.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6faea41" class="outline-3">
+<h3 id="org6faea41"><span class="section-number-3">8.2</span> Nehemiah 8:2</h3>
+<div class="outline-text-3" id="text-8-2">
+<p>
+Attulit ergo Esdras sacerdos legem coram multitudine virorum et mulierum, cunctisque qui poterant intelligere, in die prima mensis septimi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfa4632" class="outline-3">
+<h3 id="orgbfa4632"><span class="section-number-3">8.3</span> Nehemiah 8:3</h3>
+<div class="outline-text-3" id="text-8-3">
+<p>
+Et legit in eo aperte in platea quæ erat ante portam aquarum, de mane usque ad mediam diem, in conspectu virorum et mulierum, et sapientium : et aures omnis populi erant erectæ ad librum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org47e105f" class="outline-3">
+<h3 id="org47e105f"><span class="section-number-3">8.4</span> Nehemiah 8:4</h3>
+<div class="outline-text-3" id="text-8-4">
+<p>
+Stetit autem Esdras scriba super gradum ligneum, quem fecerat ad loquendum : et steterunt juxta eum Mathathias, et Semeia, et Ania, et Uria, et Helcia, et Maasia, ad dexteram ejus : et ad sinistram, Phadaia, Misaël, et Melchia, et Hasum, et Hasbadana, Zacharia, et Mosollam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd7b4ec9" class="outline-3">
+<h3 id="orgd7b4ec9"><span class="section-number-3">8.5</span> Nehemiah 8:5</h3>
+<div class="outline-text-3" id="text-8-5">
+<p>
+Et aperuit Esdras librum coram omni populo : super universum quippe populum eminebat : et cum aperuisset eum, stetit omnis populus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaa3be42" class="outline-3">
+<h3 id="orgaa3be42"><span class="section-number-3">8.6</span> Nehemiah 8:6</h3>
+<div class="outline-text-3" id="text-8-6">
+<p>
+Et benedixit Esdras Domino Deo magno : et respondit omnis populus : Amen, amen, elevans manus suas : et incurvati sunt, et adoraverunt Deum proni in terram.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9fa62dd" class="outline-3">
+<h3 id="org9fa62dd"><span class="section-number-3">8.7</span> Nehemiah 8:7</h3>
+<div class="outline-text-3" id="text-8-7">
+<p>
+Porro Josue, et Bani, et Serebia, Jamin, Accub, Septhai, Odia, Maasia, Celita, Azarias, Jozabed, Hanan, Phalaia, Levitæ, silentium faciebant in populo ad audiendam legem : populus autem stabat in gradu suo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga1ad14f" class="outline-3">
+<h3 id="orga1ad14f"><span class="section-number-3">8.8</span> Nehemiah 8:8</h3>
+<div class="outline-text-3" id="text-8-8">
+<p>
+Et legerunt in libro legis Dei distincte, et aperte ad intelligendum : et intellexerunt cum legeretur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8111f9f" class="outline-3">
+<h3 id="org8111f9f"><span class="section-number-3">8.9</span> Nehemiah 8:9</h3>
+<div class="outline-text-3" id="text-8-9">
+<p>
+Dixit autem Nehemias (ipse est Athersatha) et Esdras sacerdos et scriba, et Levitæ interpretantes universo populo : Dies sanctificatus est Domino Deo nostro : nolite lugere, et nolite flere. Flebat enim omnis populus cum audiret verba legis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org938a84a" class="outline-3">
+<h3 id="org938a84a"><span class="section-number-3">8.10</span> Nehemiah 8:10</h3>
+<div class="outline-text-3" id="text-8-10">
+<p>
+Et dixit eis : Ite, comedite pinguia, et bibite mulsum, et mittite partes his qui non præparaverunt sibi, quia sanctus dies Domini est : et nolite contristari : gaudium etenim Domini est fortitudo nostra.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f09615" class="outline-3">
+<h3 id="org3f09615"><span class="section-number-3">8.11</span> Nehemiah 8:11</h3>
+<div class="outline-text-3" id="text-8-11">
+<p>
+Levitæ autem silentium faciebant in omni populo, dicentes : Tacete, quia dies sanctus est, et nolite dolere.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga6af152" class="outline-3">
+<h3 id="orga6af152"><span class="section-number-3">8.12</span> Nehemiah 8:12</h3>
+<div class="outline-text-3" id="text-8-12">
+<p>
+Abiit itaque omnis populus ut comederet, et biberet, et mitteret partes, et faceret lætitiam magnam : quia intellexerant verba quæ docuerat eos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org96b4605" class="outline-3">
+<h3 id="org96b4605"><span class="section-number-3">8.13</span> Nehemiah 8:13</h3>
+<div class="outline-text-3" id="text-8-13">
+<p>
+Et in die secundo congregati sunt principes familiarum universi populi, sacerdotes et Levitæ, ad Esdram scribam, ut interpretaretur eis verba legis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org55a5187" class="outline-3">
+<h3 id="org55a5187"><span class="section-number-3">8.14</span> Nehemiah 8:14</h3>
+<div class="outline-text-3" id="text-8-14">
+<p>
+Et invenerunt scriptum in lege præcepisse Dominum in manu Moysi ut habitent filii Israël in tabernaculis in die solemni, mense septimo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2d1b102" class="outline-3">
+<h3 id="org2d1b102"><span class="section-number-3">8.15</span> Nehemiah 8:15</h3>
+<div class="outline-text-3" id="text-8-15">
+<p>
+et ut prædicent, et divulgent vocem in universis urbibus suis, et in Jerusalem, dicentes : Egredimini in montem, et afferte frondes olivæ, et frondes ligni pulcherrimi, frondes myrti, et ramos palmarum, et frondes ligni nemorosi, ut fiant tabernacula, sicut scriptum est.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga320728" class="outline-3">
+<h3 id="orga320728"><span class="section-number-3">8.16</span> Nehemiah 8:16</h3>
+<div class="outline-text-3" id="text-8-16">
+<p>
+Et egressus est populus, et attulerunt. Feceruntque sibi tabernacula unusquisque in domate suo : et in atriis suis, et in atriis domus Dei, et in platea portæ aquarum, et in platea portæ Ephraim.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8aba203" class="outline-3">
+<h3 id="org8aba203"><span class="section-number-3">8.17</span> Nehemiah 8:17</h3>
+<div class="outline-text-3" id="text-8-17">
+<p>
+Fecit ergo universa ecclesia eorum qui redierant de captivitate, tabernacula, et habitaverunt in tabernaculis : non enim fecerant a diebus Josue filii Nun taliter filii Israël usque ad diem illum. Et fuit lætitia magna nimis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1f9cd6b" class="outline-3">
+<h3 id="org1f9cd6b"><span class="section-number-3">8.18</span> Nehemiah 8:18</h3>
+<div class="outline-text-3" id="text-8-18">
+<p>
+Legit autem in libro legis Dei per dies singulos, a die primo usque ad diem novissimum. Et fecerunt solemnitatem septem diebus, et in die octavo collectam juxta ritum.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org8c85cc5" class="outline-2">
+<h2 id="org8c85cc5"><span class="section-number-2">9</span> Nehemiah 9</h2>
+<div class="outline-text-2" id="text-9">
+</div>
+<div id="outline-container-orge1b0f87" class="outline-3">
+<h3 id="orge1b0f87"><span class="section-number-3">9.1</span> Nehemiah 9:1</h3>
+<div class="outline-text-3" id="text-9-1">
+<p>
+In die autem vigesimo quarto mensis hujus, convenerunt filii Israël in jejunio et in saccis, et humus super eos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org59be639" class="outline-3">
+<h3 id="org59be639"><span class="section-number-3">9.2</span> Nehemiah 9:2</h3>
+<div class="outline-text-3" id="text-9-2">
+<p>
+Et separatum est semen filiorum Israël ab omni filio alienigena : et steterunt, et confitebantur peccata sua, et iniquitates patrum suorum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c0e896" class="outline-3">
+<h3 id="org8c0e896"><span class="section-number-3">9.3</span> Nehemiah 9:3</h3>
+<div class="outline-text-3" id="text-9-3">
+<p>
+Et consurrexerunt ad standum : et legerunt in volumine legis Domini Dei sui, quater in die, et quater confitebantur, et adorabant Dominum Deum suum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb7b139f" class="outline-3">
+<h3 id="orgb7b139f"><span class="section-number-3">9.4</span> Nehemiah 9:4</h3>
+<div class="outline-text-3" id="text-9-4">
+<p>
+Surrexerunt autem super gradum Levitarum Josue, et Bani, et Cedmihel, Sabania, Bonni, Sarebias, Bani, et Chanani : et clamaverunt voce magna ad Dominum Deum suum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org82b3298" class="outline-3">
+<h3 id="org82b3298"><span class="section-number-3">9.5</span> Nehemiah 9:5</h3>
+<div class="outline-text-3" id="text-9-5">
+<p>
+Et dixerunt Levitæ Josue, et Cedmihel, Bonni, Hasebnia, Serebia, Odaia, Sebnia, Phathathia : Surgite, benedicite Domino Deo vestro ab æterno usque in æternum : et benedicant nomini gloriæ tuæ excelso in omni benedictione et laude.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb560274" class="outline-3">
+<h3 id="orgb560274"><span class="section-number-3">9.6</span> Nehemiah 9:6</h3>
+<div class="outline-text-3" id="text-9-6">
+<p>
+Tu ipse, Domine, solus, tu fecisti cælum, et cælum cælorum, et omnem exercitum eorum : terram, et universa quæ in ea sunt : maria, et omnia quæ in eis sunt : et tu vivificas omnia hæc, et exercitus cæli te adorat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfcfe94c" class="outline-3">
+<h3 id="orgfcfe94c"><span class="section-number-3">9.7</span> Nehemiah 9:7</h3>
+<div class="outline-text-3" id="text-9-7">
+<p>
+Tu ipse, Domine Deus, qui elegisti Abram, et eduxisti eum de igne Chaldæorum, et posuisti nomen ejus Abraham :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org152bec4" class="outline-3">
+<h3 id="org152bec4"><span class="section-number-3">9.8</span> Nehemiah 9:8</h3>
+<div class="outline-text-3" id="text-9-8">
+<p>
+et invenisti cor ejus fidele coram te, et percussisti cum eo fœdus ut dares ei terram Chananæi, Hethæi, et Amorrhæi, et Pherezæi, et Jebusæi, et Gergesæi, ut dares semini ejus : et implesti verba tua, quoniam justus es.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6d1597b" class="outline-3">
+<h3 id="org6d1597b"><span class="section-number-3">9.9</span> Nehemiah 9:9</h3>
+<div class="outline-text-3" id="text-9-9">
+<p>
+Et vidisti afflictionem patrum nostrorum in Ægypto, clamoremque eorum audisti super mare Rubrum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb6ab3fb" class="outline-3">
+<h3 id="orgb6ab3fb"><span class="section-number-3">9.10</span> Nehemiah 9:10</h3>
+<div class="outline-text-3" id="text-9-10">
+<p>
+Et dedisti signa atque portenta in Pharaone, et in universis servis ejus, et in omni populo terræ illius : cognovisti enim quia superbe egerant contra eos : et fecisti tibi nomen, sicut et in hac die.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcb7ec42" class="outline-3">
+<h3 id="orgcb7ec42"><span class="section-number-3">9.11</span> Nehemiah 9:11</h3>
+<div class="outline-text-3" id="text-9-11">
+<p>
+Et mare divisisti ante eos, et transierunt per medium maris in sicco : persecutores autem eorum projecisti in profundum, quasi lapidem in aquas validas.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbc878ee" class="outline-3">
+<h3 id="orgbc878ee"><span class="section-number-3">9.12</span> Nehemiah 9:12</h3>
+<div class="outline-text-3" id="text-9-12">
+<p>
+Et in columna nubis ductor eorum fuisti per diem, et in columna ignis per noctem, ut appareret eis via per quam ingrediebantur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb98524" class="outline-3">
+<h3 id="orgfb98524"><span class="section-number-3">9.13</span> Nehemiah 9:13</h3>
+<div class="outline-text-3" id="text-9-13">
+<p>
+Ad montem quoque Sinai descendisti, et locutus es cum eis de cælo, et dedisti eis judicia recta, et legem veritatis, cæremonias, et præcepta bona :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org22635d1" class="outline-3">
+<h3 id="org22635d1"><span class="section-number-3">9.14</span> Nehemiah 9:14</h3>
+<div class="outline-text-3" id="text-9-14">
+<p>
+et sabbatum sanctificatum tuum ostendisti eis : et mandata, et cæremonias, et legem præcepisti eis in manu Moysi servi tui.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org14bf696" class="outline-3">
+<h3 id="org14bf696"><span class="section-number-3">9.15</span> Nehemiah 9:15</h3>
+<div class="outline-text-3" id="text-9-15">
+<p>
+Panem quoque de cælo dedisti eis in fame eorum, et aquam de petra eduxisti eis sitientibus, et dixisti eis ut ingrederentur et possiderent terram, super quam levasti manum tuam ut traderes eis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1a504a0" class="outline-3">
+<h3 id="org1a504a0"><span class="section-number-3">9.16</span> Nehemiah 9:16</h3>
+<div class="outline-text-3" id="text-9-16">
+<p>
+Ipsi vero et patres nostri superbe egerunt, et induraverunt cervices suas, et non audierunt mandata tua.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org45cc2ec" class="outline-3">
+<h3 id="org45cc2ec"><span class="section-number-3">9.17</span> Nehemiah 9:17</h3>
+<div class="outline-text-3" id="text-9-17">
+<p>
+Et noluerunt audire, et non sunt recordati mirabilium tuorum quæ feceras eis. Et induraverunt cervices suas, et dederunt caput ut converterentur ad servitutem suam, quasi per contentionem. Tu autem, Deus propitius, clemens, et misericors, longanimis, et multæ miserationis, non dereliquisti eos,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga8fabe6" class="outline-3">
+<h3 id="orga8fabe6"><span class="section-number-3">9.18</span> Nehemiah 9:18</h3>
+<div class="outline-text-3" id="text-9-18">
+<p>
+et quidem cum fecissent sibi vitulum conflatilem, et dixissent : Iste est deus tuus, qui eduxit te de Ægypto : feceruntque blasphemias magnas :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org376bfef" class="outline-3">
+<h3 id="org376bfef"><span class="section-number-3">9.19</span> Nehemiah 9:19</h3>
+<div class="outline-text-3" id="text-9-19">
+<p>
+tu autem in misericordiis tuis multis non dimisisti eos in deserto : columna nubis non recessit ab eis per diem ut duceret eos in viam, et columna ignis per noctem ut ostenderet eis iter per quod ingrederentur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org441c372" class="outline-3">
+<h3 id="org441c372"><span class="section-number-3">9.20</span> Nehemiah 9:20</h3>
+<div class="outline-text-3" id="text-9-20">
+<p>
+Et spiritum tuum bonum dedisti, qui doceret eos : et manna tuum non prohibuisti ab ore eorum, et aquam dedisti eis in siti.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org45fe087" class="outline-3">
+<h3 id="org45fe087"><span class="section-number-3">9.21</span> Nehemiah 9:21</h3>
+<div class="outline-text-3" id="text-9-21">
+<p>
+Quadraginta annis pavisti eos in deserto, nihilque eis defuit : vestimenta eorum non inveteraverunt, et pedes eorum non sunt attriti.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfec5d3e" class="outline-3">
+<h3 id="orgfec5d3e"><span class="section-number-3">9.22</span> Nehemiah 9:22</h3>
+<div class="outline-text-3" id="text-9-22">
+<p>
+Et dedisti eis regna, et populos, et partitus es eis sortes : et possederunt terram Sehon, et terram regis Hesebon, et terram Og regis Basan.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc5ccb1b" class="outline-3">
+<h3 id="orgc5ccb1b"><span class="section-number-3">9.23</span> Nehemiah 9:23</h3>
+<div class="outline-text-3" id="text-9-23">
+<p>
+Et multiplicasti filios eorum sicut stellas cæli, et adduxisti eos ad terram de qua dixeras patribus eorum ut ingrederentur et possiderent.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4aacf41" class="outline-3">
+<h3 id="org4aacf41"><span class="section-number-3">9.24</span> Nehemiah 9:24</h3>
+<div class="outline-text-3" id="text-9-24">
+<p>
+Et venerunt filii, et possederunt terram, et humiliasti coram eis habitatores terræ Chananæos, et dedisti eos in manu eorum, et reges eorum, et populos terræ, ut facerent eis sicut placebant illis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1357d60" class="outline-3">
+<h3 id="org1357d60"><span class="section-number-3">9.25</span> Nehemiah 9:25</h3>
+<div class="outline-text-3" id="text-9-25">
+<p>
+Ceperunt itaque urbes munitas et humum pinguem, et possederunt domos plenas cunctis bonis : cisternas ab aliis fabricatas, vineas, et oliveta, et ligna pomifera multa : et comederunt, et saturati sunt, et impinguati sunt, et abundaverunt deliciis in bonitate tua magna.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3593ebc" class="outline-3">
+<h3 id="org3593ebc"><span class="section-number-3">9.26</span> Nehemiah 9:26</h3>
+<div class="outline-text-3" id="text-9-26">
+<p>
+Provocaverunt autem te ad iracundiam, et recesserunt a te, et projecerunt legem tuam post terga sua : et prophetas tuos occiderunt, qui contestabantur eos ut reverterentur ad te : feceruntque blasphemias grandes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org80656f7" class="outline-3">
+<h3 id="org80656f7"><span class="section-number-3">9.27</span> Nehemiah 9:27</h3>
+<div class="outline-text-3" id="text-9-27">
+<p>
+Et dedisti eos in manu hostium suorum, et afflixerunt eos. Et in tempore tribulationis suæ clamaverunt ad te, et tu de cælo audisti, et secundum miserationes tuas multas dedisti eis salvatores, qui salvarent eos de manu hostium suorum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org204a40d" class="outline-3">
+<h3 id="org204a40d"><span class="section-number-3">9.28</span> Nehemiah 9:28</h3>
+<div class="outline-text-3" id="text-9-28">
+<p>
+Cumque requievissent, reversi sunt ut facerent malum in conspectu tuo, et dereliquisti eos in manu inimicorum suorum, et possederunt eos. Conversique sunt, et clamaverunt ad te : tu autem de cælo exaudisti, et liberasti eos in misericordiis tuis, multis temporibus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org43356a3" class="outline-3">
+<h3 id="org43356a3"><span class="section-number-3">9.29</span> Nehemiah 9:29</h3>
+<div class="outline-text-3" id="text-9-29">
+<p>
+Et contestatus es eos ut reverterentur ad legem tuam. Ipsi vero superbe egerunt, et non audierunt mandata tua, et in judiciis tuis peccaverunt, quæ faciet homo, et vivet in eis : et dederunt humerum recedentem, et cervicem suam induraverunt, nec audierunt.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7cd7533" class="outline-3">
+<h3 id="org7cd7533"><span class="section-number-3">9.30</span> Nehemiah 9:30</h3>
+<div class="outline-text-3" id="text-9-30">
+<p>
+Et protraxisti super eos annos multos, et contestatus es eos in spiritu tuo per manum prophetarum tuorum : et non audierunt, et tradidisti eos in manu populorum terrarum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7296488" class="outline-3">
+<h3 id="org7296488"><span class="section-number-3">9.31</span> Nehemiah 9:31</h3>
+<div class="outline-text-3" id="text-9-31">
+<p>
+In misericordiis autem tuis plurimis non fecisti eos in consumptionem, nec dereliquisti eos : quoniam Deus miserationum et clemens es tu.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b89602" class="outline-3">
+<h3 id="org4b89602"><span class="section-number-3">9.32</span> Nehemiah 9:32</h3>
+<div class="outline-text-3" id="text-9-32">
+<p>
+Nunc itaque Deus noster magne, fortis et terribilis, custodiens pactum et misericordiam, ne avertas a facie tua omnem laborem, qui invenit nos, reges nostros, et principes nostros, et sacerdotes nostros, et prophetas nostros, et patres nostros, et omnem populum tuum a diebus regis Assur usque in diem hanc.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org91c84bb" class="outline-3">
+<h3 id="org91c84bb"><span class="section-number-3">9.33</span> Nehemiah 9:33</h3>
+<div class="outline-text-3" id="text-9-33">
+<p>
+Et tu justus es in omnibus quæ venerunt super nos : quia veritatem fecisti, nos autem impie egimus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org00313ce" class="outline-3">
+<h3 id="org00313ce"><span class="section-number-3">9.34</span> Nehemiah 9:34</h3>
+<div class="outline-text-3" id="text-9-34">
+<p>
+Reges nostri, principes nostri, sacerdotes nostri et patres nostri non fecerunt legem tuam, et non attenderunt mandata tua, et testimonia tua quæ testificatus es in eis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org961f9ce" class="outline-3">
+<h3 id="org961f9ce"><span class="section-number-3">9.35</span> Nehemiah 9:35</h3>
+<div class="outline-text-3" id="text-9-35">
+<p>
+Et ipsi in regnis suis, et in bonitate tua multa quam dederas eis, et in terra latissima et pingui quam tradideras in conspectu eorum, non servierunt tibi, nec reversi sunt a studiis suis pessimis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge42587a" class="outline-3">
+<h3 id="orge42587a"><span class="section-number-3">9.36</span> Nehemiah 9:36</h3>
+<div class="outline-text-3" id="text-9-36">
+<p>
+Ecce nos ipsi hodie servi sumus : et terra quam dedisti patribus nostris ut comederent panem ejus, et quæ bona sunt ejus, et nos ipsi servi sumus in ea.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge7dbe5e" class="outline-3">
+<h3 id="orge7dbe5e"><span class="section-number-3">9.37</span> Nehemiah 9:37</h3>
+<div class="outline-text-3" id="text-9-37">
+<p>
+Et fruges ejus multiplicantur regibus quos posuisti super nos propter peccata nostra : et corporibus nostris dominantur, et jumentis nostris secundum voluntatem suam : et in tribulatione magna sumus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5adff70" class="outline-3">
+<h3 id="org5adff70"><span class="section-number-3">9.38</span> Nehemiah 9:38</h3>
+<div class="outline-text-3" id="text-9-38">
+<p>
+Super omnibus ergo his nos ipsi percutimus fœdus, et scribimus : et signant principes nostri, Levitæ nostri, et sacerdotes nostri.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org5900457" class="outline-2">
+<h2 id="org5900457"><span class="section-number-2">10</span> Nehemiah 10</h2>
+<div class="outline-text-2" id="text-10">
+</div>
+<div id="outline-container-orgce43f54" class="outline-3">
+<h3 id="orgce43f54"><span class="section-number-3">10.1</span> Nehemiah 10:1</h3>
+<div class="outline-text-3" id="text-10-1">
+<p>
+Signatores autem fuerunt Nehemias, Athersatha filius Hachelai, et Sedecias,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf26d9d8" class="outline-3">
+<h3 id="orgf26d9d8"><span class="section-number-3">10.2</span> Nehemiah 10:2</h3>
+<div class="outline-text-3" id="text-10-2">
+<p>
+Saraias, Azarias, Jeremias,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4fe71c3" class="outline-3">
+<h3 id="org4fe71c3"><span class="section-number-3">10.3</span> Nehemiah 10:3</h3>
+<div class="outline-text-3" id="text-10-3">
+<p>
+Pheshur, Amarias, Melchias,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge523bbf" class="outline-3">
+<h3 id="orge523bbf"><span class="section-number-3">10.4</span> Nehemiah 10:4</h3>
+<div class="outline-text-3" id="text-10-4">
+<p>
+Hattus, Sebenia, Melluch,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga4a312d" class="outline-3">
+<h3 id="orga4a312d"><span class="section-number-3">10.5</span> Nehemiah 10:5</h3>
+<div class="outline-text-3" id="text-10-5">
+<p>
+Harem, Merimuth, Obdias,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org39b3bef" class="outline-3">
+<h3 id="org39b3bef"><span class="section-number-3">10.6</span> Nehemiah 10:6</h3>
+<div class="outline-text-3" id="text-10-6">
+<p>
+Daniel, Genthon, Baruch,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde488cf" class="outline-3">
+<h3 id="orgde488cf"><span class="section-number-3">10.7</span> Nehemiah 10:7</h3>
+<div class="outline-text-3" id="text-10-7">
+<p>
+Mosollam, Abia, Miamin,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6930733" class="outline-3">
+<h3 id="org6930733"><span class="section-number-3">10.8</span> Nehemiah 10:8</h3>
+<div class="outline-text-3" id="text-10-8">
+<p>
+Maazia, Belgai, Semeia : hi sacerdotes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org88f9f49" class="outline-3">
+<h3 id="org88f9f49"><span class="section-number-3">10.9</span> Nehemiah 10:9</h3>
+<div class="outline-text-3" id="text-10-9">
+<p>
+Porro Levitæ, Josue filius Azaniæ, Bennui de filiis Henadad, Cedmihel,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e54cee" class="outline-3">
+<h3 id="org9e54cee"><span class="section-number-3">10.10</span> Nehemiah 10:10</h3>
+<div class="outline-text-3" id="text-10-10">
+<p>
+et fratres eorum, Sebenia, Odaia, Celita, Phalaia, Hanan,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge29feb6" class="outline-3">
+<h3 id="orge29feb6"><span class="section-number-3">10.11</span> Nehemiah 10:11</h3>
+<div class="outline-text-3" id="text-10-11">
+<p>
+Micha, Rohob, Hasebia,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7c593d9" class="outline-3">
+<h3 id="org7c593d9"><span class="section-number-3">10.12</span> Nehemiah 10:12</h3>
+<div class="outline-text-3" id="text-10-12">
+<p>
+Zachur, Serebia, Sabania,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org566a8a8" class="outline-3">
+<h3 id="org566a8a8"><span class="section-number-3">10.13</span> Nehemiah 10:13</h3>
+<div class="outline-text-3" id="text-10-13">
+<p>
+Odaia, Bani, Baninu.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05b8d7f" class="outline-3">
+<h3 id="org05b8d7f"><span class="section-number-3">10.14</span> Nehemiah 10:14</h3>
+<div class="outline-text-3" id="text-10-14">
+<p>
+Capita populi, Pharos, Phahathmoab, Ælam, Zethu, Bani,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4a232fd" class="outline-3">
+<h3 id="org4a232fd"><span class="section-number-3">10.15</span> Nehemiah 10:15</h3>
+<div class="outline-text-3" id="text-10-15">
+<p>
+Bonni, Azgad, Bebai,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org82190ca" class="outline-3">
+<h3 id="org82190ca"><span class="section-number-3">10.16</span> Nehemiah 10:16</h3>
+<div class="outline-text-3" id="text-10-16">
+<p>
+Adonia, Begoai, Adin,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f43100" class="outline-3">
+<h3 id="org3f43100"><span class="section-number-3">10.17</span> Nehemiah 10:17</h3>
+<div class="outline-text-3" id="text-10-17">
+<p>
+Ater, Hezecia, Azur,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1216f18" class="outline-3">
+<h3 id="org1216f18"><span class="section-number-3">10.18</span> Nehemiah 10:18</h3>
+<div class="outline-text-3" id="text-10-18">
+<p>
+Odaia, Hasum, Besai,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3e777c6" class="outline-3">
+<h3 id="org3e777c6"><span class="section-number-3">10.19</span> Nehemiah 10:19</h3>
+<div class="outline-text-3" id="text-10-19">
+<p>
+Hareph, Anathoth, Nebai,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbedd198" class="outline-3">
+<h3 id="orgbedd198"><span class="section-number-3">10.20</span> Nehemiah 10:20</h3>
+<div class="outline-text-3" id="text-10-20">
+<p>
+Megphias, Mosollam, Hazir,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3fa1ed0" class="outline-3">
+<h3 id="org3fa1ed0"><span class="section-number-3">10.21</span> Nehemiah 10:21</h3>
+<div class="outline-text-3" id="text-10-21">
+<p>
+Mesizabel, Sadoc, Jeddua,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0a5acac" class="outline-3">
+<h3 id="org0a5acac"><span class="section-number-3">10.22</span> Nehemiah 10:22</h3>
+<div class="outline-text-3" id="text-10-22">
+<p>
+Pheltia, Hanan, Anaia,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0aed8ca" class="outline-3">
+<h3 id="org0aed8ca"><span class="section-number-3">10.23</span> Nehemiah 10:23</h3>
+<div class="outline-text-3" id="text-10-23">
+<p>
+Osee, Hanania, Hasub,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org88e9ceb" class="outline-3">
+<h3 id="org88e9ceb"><span class="section-number-3">10.24</span> Nehemiah 10:24</h3>
+<div class="outline-text-3" id="text-10-24">
+<p>
+Alohes, Phalea, Sobec,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4c35af7" class="outline-3">
+<h3 id="org4c35af7"><span class="section-number-3">10.25</span> Nehemiah 10:25</h3>
+<div class="outline-text-3" id="text-10-25">
+<p>
+Rehum, Hasebna, Maasia,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7652402" class="outline-3">
+<h3 id="org7652402"><span class="section-number-3">10.26</span> Nehemiah 10:26</h3>
+<div class="outline-text-3" id="text-10-26">
+<p>
+Echaia, Hanan, Anan,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0fdcabc" class="outline-3">
+<h3 id="org0fdcabc"><span class="section-number-3">10.27</span> Nehemiah 10:27</h3>
+<div class="outline-text-3" id="text-10-27">
+<p>
+Melluch, Haran, Baana.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org76c2e91" class="outline-3">
+<h3 id="org76c2e91"><span class="section-number-3">10.28</span> Nehemiah 10:28</h3>
+<div class="outline-text-3" id="text-10-28">
+<p>
+Et reliqui de populo, sacerdotes, Levitæ, janitores, et cantores, Nathinæi, et omnes qui se separaverunt de populis terrarum ad legem Dei, uxores eorum, filii eorum, et filiæ eorum,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org895c9d9" class="outline-3">
+<h3 id="org895c9d9"><span class="section-number-3">10.29</span> Nehemiah 10:29</h3>
+<div class="outline-text-3" id="text-10-29">
+<p>
+omnes qui poterant sapere spondentes pro fratribus suis, optimates eorum, et qui veniebant ad pollicendum et jurandum ut ambularent in lege Dei, quam dederat in manu Moysi servi Dei : ut facerent et custodirent universa mandata Domini Dei nostri, et judicia ejus et cæremonias ejus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org47d4985" class="outline-3">
+<h3 id="org47d4985"><span class="section-number-3">10.30</span> Nehemiah 10:30</h3>
+<div class="outline-text-3" id="text-10-30">
+<p>
+et ut non daremus filias nostras populo terræ, et filias eorum non acciperemus filiis nostris.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org85ee028" class="outline-3">
+<h3 id="org85ee028"><span class="section-number-3">10.31</span> Nehemiah 10:31</h3>
+<div class="outline-text-3" id="text-10-31">
+<p>
+Populi quoque terræ, qui important venalia, et omnia ad usum, per diem sabbati ut vendant, non accipiemus ab eis in sabbato et in die sanctificato. Et dimittemus annum septimum, et exactionem universæ manus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75c62ca" class="outline-3">
+<h3 id="org75c62ca"><span class="section-number-3">10.32</span> Nehemiah 10:32</h3>
+<div class="outline-text-3" id="text-10-32">
+<p>
+Et statuemus super nos præcepta, ut demus tertiam partem sicli per annum ad opus domus Dei nostri,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org34c51a6" class="outline-3">
+<h3 id="org34c51a6"><span class="section-number-3">10.33</span> Nehemiah 10:33</h3>
+<div class="outline-text-3" id="text-10-33">
+<p>
+ad panes propositionis, et ad sacrificium sempiternum, et in holocaustum sempiternum in sabbatis, in calendis, in solemnitatibus, et in sanctificatis, et pro peccato : ut exoretur pro Israël, et in omnem usum domus Dei nostri.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org561dfbb" class="outline-3">
+<h3 id="org561dfbb"><span class="section-number-3">10.34</span> Nehemiah 10:34</h3>
+<div class="outline-text-3" id="text-10-34">
+<p>
+Sortes ergo misimus super oblationem lignorum inter sacerdotes, et Levitas, et populum, ut inferrentur in domum Dei nostri per domos patrum nostrorum, per tempora, a temporibus anni usque ad annum : ut arderent super altare Domini Dei nostri, sicut scriptum est in lege Moysi :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb209642" class="outline-3">
+<h3 id="orgb209642"><span class="section-number-3">10.35</span> Nehemiah 10:35</h3>
+<div class="outline-text-3" id="text-10-35">
+<p>
+et ut afferremus primogenita terræ nostræ, et primitiva universi fructus omnis ligni, ab anno in annum, in domo Domini :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8530307" class="outline-3">
+<h3 id="org8530307"><span class="section-number-3">10.36</span> Nehemiah 10:36</h3>
+<div class="outline-text-3" id="text-10-36">
+<p>
+et primitiva filiorum nostrorum et pecorum nostrorum, sicut scriptum est in lege, et primitiva boum nostrorum et ovium nostrarum, ut offerrentur in domo Dei nostri, sacerdotibus qui ministrant in domo Dei nostri :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org672180d" class="outline-3">
+<h3 id="org672180d"><span class="section-number-3">10.37</span> Nehemiah 10:37</h3>
+<div class="outline-text-3" id="text-10-37">
+<p>
+et primitias ciborum nostrorum, et libaminum nostrorum, et poma omnis ligni, vindemiæ quoque et olei, afferemus sacerdotibus ad gazophylacium Dei nostri, et decimam partem terræ nostræ Levitis. Ipsi Levitæ decimas accipient ex omnibus civitatibus operum nostrorum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2a916e2" class="outline-3">
+<h3 id="org2a916e2"><span class="section-number-3">10.38</span> Nehemiah 10:38</h3>
+<div class="outline-text-3" id="text-10-38">
+<p>
+Erit autem sacerdos filius Aaron cum Levitis in decimis Levitarum, et Levitæ offerent decimam partem decimæ suæ in domo Dei nostri ad gazophylacium in domum thesauri.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7e143d4" class="outline-3">
+<h3 id="org7e143d4"><span class="section-number-3">10.39</span> Nehemiah 10:39</h3>
+<div class="outline-text-3" id="text-10-39">
+<p>
+Ad gazophylacium enim deportabunt filii Israël, et filii Levi, primitias frumenti, vini, et olei : et ibi erunt vasa sanctificata, et sacerdotes, et cantores, et janitores, et ministri : et non dimittemus domum Dei nostri.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org6b18304" class="outline-2">
+<h2 id="org6b18304"><span class="section-number-2">11</span> Nehemiah 11</h2>
+<div class="outline-text-2" id="text-11">
+</div>
+<div id="outline-container-org9cda93a" class="outline-3">
+<h3 id="org9cda93a"><span class="section-number-3">11.1</span> Nehemiah 11:1</h3>
+<div class="outline-text-3" id="text-11-1">
+<p>
+Habitaverunt autem principes populi in Jerusalem : reliqua vero plebs misit sortem, ut tollerent unam partem de decem qui habitaturi essent in Jerusalem civitate sancta, novem vero partes in civitatibus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org10e1e02" class="outline-3">
+<h3 id="org10e1e02"><span class="section-number-3">11.2</span> Nehemiah 11:2</h3>
+<div class="outline-text-3" id="text-11-2">
+<p>
+Benedixit autem populus omnibus viris qui se sponte obtulerant ut habitarent in Jerusalem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd0be58f" class="outline-3">
+<h3 id="orgd0be58f"><span class="section-number-3">11.3</span> Nehemiah 11:3</h3>
+<div class="outline-text-3" id="text-11-3">
+<p>
+Hi sunt itaque principes provinciæ qui habitaverunt in Jerusalem, et in civitatibus Juda. Habitavit autem unusquisque in possessione sua, in urbibus suis, Israël, sacerdotes, Levitæ, Nathinæi, et filii servorum Salomonis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5c6ed4a" class="outline-3">
+<h3 id="org5c6ed4a"><span class="section-number-3">11.4</span> Nehemiah 11:4</h3>
+<div class="outline-text-3" id="text-11-4">
+<p>
+Et in Jerusalem habitaverunt de filiis Juda, et de filiis Benjamin : de filiis Juda, Athaias filius Aziam, filii Zachariæ, filii Amariæ, filii Saphatiæ, filii Melaleel : de filiis Phares,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org78b400e" class="outline-3">
+<h3 id="org78b400e"><span class="section-number-3">11.5</span> Nehemiah 11:5</h3>
+<div class="outline-text-3" id="text-11-5">
+<p>
+Maasia filius Baruch, filius Cholhoza, filius Hazia, filius Adaia, filius Jojarib, filius Zachariæ, filius Silonitis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1828a16" class="outline-3">
+<h3 id="org1828a16"><span class="section-number-3">11.6</span> Nehemiah 11:6</h3>
+<div class="outline-text-3" id="text-11-6">
+<p>
+omnes hi filii Phares, qui habitaverunt in Jerusalem, quadringenti sexaginta octo viri fortes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org45e848b" class="outline-3">
+<h3 id="org45e848b"><span class="section-number-3">11.7</span> Nehemiah 11:7</h3>
+<div class="outline-text-3" id="text-11-7">
+<p>
+Hi sunt autem filii Benjamin : Sellum filius Mosollam, filius Joëd, filius Phadaia, filius Colaia, filius Masia, filius Etheel, filius Isaia,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org702b1ff" class="outline-3">
+<h3 id="org702b1ff"><span class="section-number-3">11.8</span> Nehemiah 11:8</h3>
+<div class="outline-text-3" id="text-11-8">
+<p>
+et post eum Gebbai, Sellai, nongenti viginti octo,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga4a6096" class="outline-3">
+<h3 id="orga4a6096"><span class="section-number-3">11.9</span> Nehemiah 11:9</h3>
+<div class="outline-text-3" id="text-11-9">
+<p>
+et Joël filius Zechri præpositus eorum, et Judas filius Senua super civitatem secundus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb7bf1ae" class="outline-3">
+<h3 id="orgb7bf1ae"><span class="section-number-3">11.10</span> Nehemiah 11:10</h3>
+<div class="outline-text-3" id="text-11-10">
+<p>
+Et de sacerdotibus, Idaia filius Joarib, Jachin,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7e4cb99" class="outline-3">
+<h3 id="org7e4cb99"><span class="section-number-3">11.11</span> Nehemiah 11:11</h3>
+<div class="outline-text-3" id="text-11-11">
+<p>
+Saraia filius Helciæ, filius Mosollam, filius Sadoc, filius Meraioth, filius Achitob princeps domus Dei,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgff15bc2" class="outline-3">
+<h3 id="orgff15bc2"><span class="section-number-3">11.12</span> Nehemiah 11:12</h3>
+<div class="outline-text-3" id="text-11-12">
+<p>
+et fratres eorum facientes opera templi : octingenti viginti duo. Et Adaia filius Jeroham, filius Phelelia, filius Amsi, filius Zachariæ, filius Pheshur, filius Melchiæ,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org87432cd" class="outline-3">
+<h3 id="org87432cd"><span class="section-number-3">11.13</span> Nehemiah 11:13</h3>
+<div class="outline-text-3" id="text-11-13">
+<p>
+et fratres ejus principes patrum : ducenti quadraginta duo. Et Amassai filius Azreel, filius Ahazi, filius Mosollamoth, filius Emmer,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfa49347" class="outline-3">
+<h3 id="orgfa49347"><span class="section-number-3">11.14</span> Nehemiah 11:14</h3>
+<div class="outline-text-3" id="text-11-14">
+<p>
+et fratres eorum potentes nimis : centum viginti octo, et præpositus eorum Zabdiel filius potentium.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org99320bd" class="outline-3">
+<h3 id="org99320bd"><span class="section-number-3">11.15</span> Nehemiah 11:15</h3>
+<div class="outline-text-3" id="text-11-15">
+<p>
+Et de Levitis, Semeia filius Hasub, filius Azaricam, filius Hasabia, filius Boni,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9748506" class="outline-3">
+<h3 id="org9748506"><span class="section-number-3">11.16</span> Nehemiah 11:16</h3>
+<div class="outline-text-3" id="text-11-16">
+<p>
+et Sabathai et Jozabed, super omnia opera quæ erant forinsecus in domo Dei, a principibus Levitarum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org328abe3" class="outline-3">
+<h3 id="org328abe3"><span class="section-number-3">11.17</span> Nehemiah 11:17</h3>
+<div class="outline-text-3" id="text-11-17">
+<p>
+Et Mathania filius Micha, filius Zebedei, filius Asaph, princeps ad laudandum et ad confitendum in oratione, et Becbecia secundus de fratribus ejus, et Abda filius Samua, filius Galal, filius Idithun :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8888cec" class="outline-3">
+<h3 id="org8888cec"><span class="section-number-3">11.18</span> Nehemiah 11:18</h3>
+<div class="outline-text-3" id="text-11-18">
+<p>
+omnes Levitæ in civitate sancta ducenti octoginta quatuor.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgac49793" class="outline-3">
+<h3 id="orgac49793"><span class="section-number-3">11.19</span> Nehemiah 11:19</h3>
+<div class="outline-text-3" id="text-11-19">
+<p>
+Et janitores, Accub, Telmon, et fratres eorum, qui custodiebant ostia : centum septuaginta duo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6d30d11" class="outline-3">
+<h3 id="org6d30d11"><span class="section-number-3">11.20</span> Nehemiah 11:20</h3>
+<div class="outline-text-3" id="text-11-20">
+<p>
+Et reliqui ex Israël sacerdotes et Levitæ in universis civitatibus Juda, unusquisque in possessione sua.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd7815de" class="outline-3">
+<h3 id="orgd7815de"><span class="section-number-3">11.21</span> Nehemiah 11:21</h3>
+<div class="outline-text-3" id="text-11-21">
+<p>
+Et Nathinæi, qui habitabant in Ophel, et Siaha, et Gaspha de Nathinæis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org662b7db" class="outline-3">
+<h3 id="org662b7db"><span class="section-number-3">11.22</span> Nehemiah 11:22</h3>
+<div class="outline-text-3" id="text-11-22">
+<p>
+Et episcopus Levitarum in Jerusalem, Azzi filius Bani, filius Hasabiæ, filius Mathaniæ, filius Michæ. De filiis Asaph, cantores in ministerio domus Dei.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org42221fb" class="outline-3">
+<h3 id="org42221fb"><span class="section-number-3">11.23</span> Nehemiah 11:23</h3>
+<div class="outline-text-3" id="text-11-23">
+<p>
+Præceptum quippe regis super eos erat, et ordo in cantoribus per dies singulos,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb8965c2" class="outline-3">
+<h3 id="orgb8965c2"><span class="section-number-3">11.24</span> Nehemiah 11:24</h3>
+<div class="outline-text-3" id="text-11-24">
+<p>
+et Phathahia filius Mesezebel, de filiis Zara filii Juda in manu regis, juxta omne verbum populi,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9018ba9" class="outline-3">
+<h3 id="org9018ba9"><span class="section-number-3">11.25</span> Nehemiah 11:25</h3>
+<div class="outline-text-3" id="text-11-25">
+<p>
+et in domibus per omnes regiones eorum. De filiis Juda habitaverunt in Cariatharbe et in filiabus ejus : et in Dibon, et in filiabus ejus : et in Cabseel, et in viculis ejus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org596774b" class="outline-3">
+<h3 id="org596774b"><span class="section-number-3">11.26</span> Nehemiah 11:26</h3>
+<div class="outline-text-3" id="text-11-26">
+<p>
+et in Jesue, et in Molada, et in Bethphaleth,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc868112" class="outline-3">
+<h3 id="orgc868112"><span class="section-number-3">11.27</span> Nehemiah 11:27</h3>
+<div class="outline-text-3" id="text-11-27">
+<p>
+et in Hasersual, et in Bersabee, et in filiabus ejus,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org78f02c4" class="outline-3">
+<h3 id="org78f02c4"><span class="section-number-3">11.28</span> Nehemiah 11:28</h3>
+<div class="outline-text-3" id="text-11-28">
+<p>
+et in Siceleg, et in Mochona, et in filiabus ejus,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75d683f" class="outline-3">
+<h3 id="org75d683f"><span class="section-number-3">11.29</span> Nehemiah 11:29</h3>
+<div class="outline-text-3" id="text-11-29">
+<p>
+et in Remmon, et in Saraa, et in Jerimuth,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9f9afd4" class="outline-3">
+<h3 id="org9f9afd4"><span class="section-number-3">11.30</span> Nehemiah 11:30</h3>
+<div class="outline-text-3" id="text-11-30">
+<p>
+Zanoa, Odollam, et in villis earum, Lachis et regionibus ejus, et Azeca, et filiabus ejus. Et manserunt in Bersabee usque ad vallem Ennom.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdb021fd" class="outline-3">
+<h3 id="orgdb021fd"><span class="section-number-3">11.31</span> Nehemiah 11:31</h3>
+<div class="outline-text-3" id="text-11-31">
+<p>
+Filii autem Benjamin, a Geba, Mechmas, et Hai, et Bethel, et filiabus ejus
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga3a708a" class="outline-3">
+<h3 id="orga3a708a"><span class="section-number-3">11.32</span> Nehemiah 11:32</h3>
+<div class="outline-text-3" id="text-11-32">
+<p>
+Anathoth, Nob, Anania,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd9ebbda" class="outline-3">
+<h3 id="orgd9ebbda"><span class="section-number-3">11.33</span> Nehemiah 11:33</h3>
+<div class="outline-text-3" id="text-11-33">
+<p>
+Asor, Rama, Gethaim,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org29833e5" class="outline-3">
+<h3 id="org29833e5"><span class="section-number-3">11.34</span> Nehemiah 11:34</h3>
+<div class="outline-text-3" id="text-11-34">
+<p>
+Hadid, Seboim, et Neballat, Lod,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org915ac1d" class="outline-3">
+<h3 id="org915ac1d"><span class="section-number-3">11.35</span> Nehemiah 11:35</h3>
+<div class="outline-text-3" id="text-11-35">
+<p>
+et Ono valle artificum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf9cfc5f" class="outline-3">
+<h3 id="orgf9cfc5f"><span class="section-number-3">11.36</span> Nehemiah 11:36</h3>
+<div class="outline-text-3" id="text-11-36">
+<p>
+Et de Levitis portiones Judæ et Benjamin.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgaa2c1de" class="outline-2">
+<h2 id="orgaa2c1de"><span class="section-number-2">12</span> Nehemiah 12</h2>
+<div class="outline-text-2" id="text-12">
+</div>
+<div id="outline-container-org30e182c" class="outline-3">
+<h3 id="org30e182c"><span class="section-number-3">12.1</span> Nehemiah 12:1</h3>
+<div class="outline-text-3" id="text-12-1">
+<p>
+Hi sunt autem sacerdotes et Levitæ, qui ascenderunt cum Zorobabel filio Salathiel, et Josue : Saraia, Jeremias, Esdras,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org836c066" class="outline-3">
+<h3 id="org836c066"><span class="section-number-3">12.2</span> Nehemiah 12:2</h3>
+<div class="outline-text-3" id="text-12-2">
+<p>
+Amaria, Melluch, Hattus,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc1ee2e6" class="outline-3">
+<h3 id="orgc1ee2e6"><span class="section-number-3">12.3</span> Nehemiah 12:3</h3>
+<div class="outline-text-3" id="text-12-3">
+<p>
+Sebenias, Rheum, Merimuth,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f1a2f5" class="outline-3">
+<h3 id="org7f1a2f5"><span class="section-number-3">12.4</span> Nehemiah 12:4</h3>
+<div class="outline-text-3" id="text-12-4">
+<p>
+Addo, Genthon, Abia,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org84e9992" class="outline-3">
+<h3 id="org84e9992"><span class="section-number-3">12.5</span> Nehemiah 12:5</h3>
+<div class="outline-text-3" id="text-12-5">
+<p>
+Miamin, Madia, Belga,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8083fb2" class="outline-3">
+<h3 id="org8083fb2"><span class="section-number-3">12.6</span> Nehemiah 12:6</h3>
+<div class="outline-text-3" id="text-12-6">
+<p>
+Semeia, et Jojarib, Idaia, Sellum, Amoc, Helcias,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5b852d7" class="outline-3">
+<h3 id="org5b852d7"><span class="section-number-3">12.7</span> Nehemiah 12:7</h3>
+<div class="outline-text-3" id="text-12-7">
+<p>
+Idaia. Isti principes sacerdotum, et fratres eorum in diebus Josue.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9b802e3" class="outline-3">
+<h3 id="org9b802e3"><span class="section-number-3">12.8</span> Nehemiah 12:8</h3>
+<div class="outline-text-3" id="text-12-8">
+<p>
+Porro Levitæ, Jesua, Bennui, Cedmihel, Sarebia, Juda, Mathanias, super hymnos ipsi et fratres eorum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org31724e1" class="outline-3">
+<h3 id="org31724e1"><span class="section-number-3">12.9</span> Nehemiah 12:9</h3>
+<div class="outline-text-3" id="text-12-9">
+<p>
+et Becbecia atque Hanni, et fratres eorum, unusquisque in officio suo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7b796cd" class="outline-3">
+<h3 id="org7b796cd"><span class="section-number-3">12.10</span> Nehemiah 12:10</h3>
+<div class="outline-text-3" id="text-12-10">
+<p>
+Josue autem genuit Joacim, et Joacim genuit Eliasib, et Eliasib genuit Jojada,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1f3bc92" class="outline-3">
+<h3 id="org1f3bc92"><span class="section-number-3">12.11</span> Nehemiah 12:11</h3>
+<div class="outline-text-3" id="text-12-11">
+<p>
+et Jojada genuit Jonathan, et Jonathan genuit Jeddoa.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org32e491e" class="outline-3">
+<h3 id="org32e491e"><span class="section-number-3">12.12</span> Nehemiah 12:12</h3>
+<div class="outline-text-3" id="text-12-12">
+<p>
+In diebus autem Joacim erant sacerdotes et principes familiarum : Saraiæ, Maraia : Jeremiæ, Hanania :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org722d6b1" class="outline-3">
+<h3 id="org722d6b1"><span class="section-number-3">12.13</span> Nehemiah 12:13</h3>
+<div class="outline-text-3" id="text-12-13">
+<p>
+Esdræ, Mosollam : Amariæ, Johanan :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc15c84b" class="outline-3">
+<h3 id="orgc15c84b"><span class="section-number-3">12.14</span> Nehemiah 12:14</h3>
+<div class="outline-text-3" id="text-12-14">
+<p>
+Milicho, Jonathan : Sebeniæ, Joseph :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge18df76" class="outline-3">
+<h3 id="orge18df76"><span class="section-number-3">12.15</span> Nehemiah 12:15</h3>
+<div class="outline-text-3" id="text-12-15">
+<p>
+Haram, Edna : Maraioth, Helci :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge5b9b01" class="outline-3">
+<h3 id="orge5b9b01"><span class="section-number-3">12.16</span> Nehemiah 12:16</h3>
+<div class="outline-text-3" id="text-12-16">
+<p>
+Adaiæ, Zacharia : Genthon, Mosollam :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7d79b68" class="outline-3">
+<h3 id="org7d79b68"><span class="section-number-3">12.17</span> Nehemiah 12:17</h3>
+<div class="outline-text-3" id="text-12-17">
+<p>
+Abiæ, Zechri : Miamin et Moadiæ, Phelti :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf7ea000" class="outline-3">
+<h3 id="orgf7ea000"><span class="section-number-3">12.18</span> Nehemiah 12:18</h3>
+<div class="outline-text-3" id="text-12-18">
+<p>
+Belgæ, Sammua : Semaiæ, Jonathan :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1f4812b" class="outline-3">
+<h3 id="org1f4812b"><span class="section-number-3">12.19</span> Nehemiah 12:19</h3>
+<div class="outline-text-3" id="text-12-19">
+<p>
+Jojarib, Mathanai : Jodaiæ, Azzi :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org90b01d1" class="outline-3">
+<h3 id="org90b01d1"><span class="section-number-3">12.20</span> Nehemiah 12:20</h3>
+<div class="outline-text-3" id="text-12-20">
+<p>
+Sellai, Celai : Amoc, Heber :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2b4637b" class="outline-3">
+<h3 id="org2b4637b"><span class="section-number-3">12.21</span> Nehemiah 12:21</h3>
+<div class="outline-text-3" id="text-12-21">
+<p>
+Helciæ, Hasebia : Idaiæ, Nathanaël.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdd66d81" class="outline-3">
+<h3 id="orgdd66d81"><span class="section-number-3">12.22</span> Nehemiah 12:22</h3>
+<div class="outline-text-3" id="text-12-22">
+<p>
+Levitæ in diebus Eliasib, et Jojada, et Johanan, et Jeddoa, scripti principes familiarum, et sacerdotes in regno Darii Persæ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeb01055" class="outline-3">
+<h3 id="orgeb01055"><span class="section-number-3">12.23</span> Nehemiah 12:23</h3>
+<div class="outline-text-3" id="text-12-23">
+<p>
+Filii Levi principes familiarum, scripti in libro verborum dierum, et usque ad dies Jonathan, filii Eliasib.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7b5999d" class="outline-3">
+<h3 id="org7b5999d"><span class="section-number-3">12.24</span> Nehemiah 12:24</h3>
+<div class="outline-text-3" id="text-12-24">
+<p>
+Et principes Levitarum, Hasebia, Serebia, et Josue filius Cedmihel : et fratres eorum per vices suas, ut laudarent et confiterentur juxta præceptum David viri Dei, et observarent æque per ordinem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf96be36" class="outline-3">
+<h3 id="orgf96be36"><span class="section-number-3">12.25</span> Nehemiah 12:25</h3>
+<div class="outline-text-3" id="text-12-25">
+<p>
+Mathania, et Becbecia, Obedia, Mosollam, Telmon, Accub, custodes portarum et vestibulorum ante portas.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge38ea2e" class="outline-3">
+<h3 id="orge38ea2e"><span class="section-number-3">12.26</span> Nehemiah 12:26</h3>
+<div class="outline-text-3" id="text-12-26">
+<p>
+Hi in diebus Joacim filii Josue, filii Josedec, et in diebus Nehemiæ ducis, et Esdræ sacerdotis scribæque.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org947b7d7" class="outline-3">
+<h3 id="org947b7d7"><span class="section-number-3">12.27</span> Nehemiah 12:27</h3>
+<div class="outline-text-3" id="text-12-27">
+<p>
+In dedicatione autem muri Jerusalem, requisierunt Levitas de omnibus locis suis ut adducerent eos in Jerusalem, et facerent dedicationem et lætitiam in actione gratiarum, et cantico, et in cymbalis, psalteriis, et citharis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6bcfbf6" class="outline-3">
+<h3 id="org6bcfbf6"><span class="section-number-3">12.28</span> Nehemiah 12:28</h3>
+<div class="outline-text-3" id="text-12-28">
+<p>
+Congregati sunt autem filii cantorum de campestribus circa Jerusalem, et de villis Nethuphathi,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0c2b8d0" class="outline-3">
+<h3 id="org0c2b8d0"><span class="section-number-3">12.29</span> Nehemiah 12:29</h3>
+<div class="outline-text-3" id="text-12-29">
+<p>
+et de domo Galgal, et de regionibus Geba et Azmaveth : quoniam villas ædificaverunt sibi cantores in circuitu Jerusalem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f2dc2b" class="outline-3">
+<h3 id="org7f2dc2b"><span class="section-number-3">12.30</span> Nehemiah 12:30</h3>
+<div class="outline-text-3" id="text-12-30">
+<p>
+Et mundati sunt sacerdotes et Levitæ, et mundaverunt populum, et portas, et murum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org556cb3b" class="outline-3">
+<h3 id="org556cb3b"><span class="section-number-3">12.31</span> Nehemiah 12:31</h3>
+<div class="outline-text-3" id="text-12-31">
+<p>
+Ascendere autem feci principes Juda super murum, et statui duos magnos choros laudantium. Et ierunt ad dexteram super murum ad portam sterquilinii.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org19ede70" class="outline-3">
+<h3 id="org19ede70"><span class="section-number-3">12.32</span> Nehemiah 12:32</h3>
+<div class="outline-text-3" id="text-12-32">
+<p>
+Et ivit post eos Osaias, et media pars principum Juda,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgedc1a43" class="outline-3">
+<h3 id="orgedc1a43"><span class="section-number-3">12.33</span> Nehemiah 12:33</h3>
+<div class="outline-text-3" id="text-12-33">
+<p>
+et Azarias, Esdras, et Mosollam, Judas, et Benjamin, et Semeia, et Jeremias.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge274e4c" class="outline-3">
+<h3 id="orge274e4c"><span class="section-number-3">12.34</span> Nehemiah 12:34</h3>
+<div class="outline-text-3" id="text-12-34">
+<p>
+Et de filiis sacerdotum in tubis, Zacharias filius Jonathan, filius Semeiæ, filius Mathaniæ, filius Michaiæ, filius Zechur, filius Asaph,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf17f87d" class="outline-3">
+<h3 id="orgf17f87d"><span class="section-number-3">12.35</span> Nehemiah 12:35</h3>
+<div class="outline-text-3" id="text-12-35">
+<p>
+et fratres ejus Semeia, et Azareel, Malalai, Galalai, Maai, Nathanaël, et Judas, et Hanani, in vasis cantici David viri Dei : et Esdras scriba ante eos in porta fontis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4a8830c" class="outline-3">
+<h3 id="org4a8830c"><span class="section-number-3">12.36</span> Nehemiah 12:36</h3>
+<div class="outline-text-3" id="text-12-36">
+<p>
+Et contra eos ascenderunt in gradibus civitatis David in ascensu muri super domum David, et usque ad portam aquarum ad orientem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org45548fd" class="outline-3">
+<h3 id="org45548fd"><span class="section-number-3">12.37</span> Nehemiah 12:37</h3>
+<div class="outline-text-3" id="text-12-37">
+<p>
+Et chorus secundus gratias referentium ibat ex adverso, et ego post eum, et media pars populi super murum, et super turrim furnorum, et usque ad murum latissimum,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbc6e11e" class="outline-3">
+<h3 id="orgbc6e11e"><span class="section-number-3">12.38</span> Nehemiah 12:38</h3>
+<div class="outline-text-3" id="text-12-38">
+<p>
+et super portam Ephraim, et super portam antiquam, et super portam piscium et turrim Hananeel, et turrim Emath, et usque ad portam gregis : et steterunt in porta custodiæ,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga8c362e" class="outline-3">
+<h3 id="orga8c362e"><span class="section-number-3">12.39</span> Nehemiah 12:39</h3>
+<div class="outline-text-3" id="text-12-39">
+<p>
+steteruntque duo chori laudantium in domo Dei, et ego, et dimidia pars magistratuum mecum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgccd9d51" class="outline-3">
+<h3 id="orgccd9d51"><span class="section-number-3">12.40</span> Nehemiah 12:40</h3>
+<div class="outline-text-3" id="text-12-40">
+<p>
+Et sacerdotes, Eliachim, Maasia, Miamin, Michea, Elioënai, Zacharia, Hanania in tubis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org30bebeb" class="outline-3">
+<h3 id="org30bebeb"><span class="section-number-3">12.41</span> Nehemiah 12:41</h3>
+<div class="outline-text-3" id="text-12-41">
+<p>
+et Maasia, et Semeia, et Eleazar, et Azzi, et Johanan, et Melchia, et Ælam, et Ezer. Et clare cecinerunt cantores, et Jezraia præpositus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6ca7f00" class="outline-3">
+<h3 id="org6ca7f00"><span class="section-number-3">12.42</span> Nehemiah 12:42</h3>
+<div class="outline-text-3" id="text-12-42">
+<p>
+et immolaverunt in die illa victimas magnas, et lætati sunt : Deus enim lætificaverat eos lætitia magna : sed et uxores eorum et liberi gavisi sunt, et audita est lætitia Jerusalem procul.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org92c0293" class="outline-3">
+<h3 id="org92c0293"><span class="section-number-3">12.43</span> Nehemiah 12:43</h3>
+<div class="outline-text-3" id="text-12-43">
+<p>
+Recensuerunt quoque in die illa viros super gazophylacia thesauri ad libamina, et ad primitias, et ad decimas, ut introferrent per eos principes civitatis in decore gratiarum actionis, sacerdotes et Levitas : quia lætificatus est Juda in sacerdotibus et Levitis adstantibus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0b15011" class="outline-3">
+<h3 id="org0b15011"><span class="section-number-3">12.44</span> Nehemiah 12:44</h3>
+<div class="outline-text-3" id="text-12-44">
+<p>
+Et custodierunt observationem Dei sui, et observationem expiationis, et cantores, et janitores juxta præceptum David, et Salomonis filii ejus,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcad01e4" class="outline-3">
+<h3 id="orgcad01e4"><span class="section-number-3">12.45</span> Nehemiah 12:45</h3>
+<div class="outline-text-3" id="text-12-45">
+<p>
+quia in diebus David et Asaph ab exordio erant principes constituti cantorum in carmine laudantium et confitentium Deo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org99f620a" class="outline-3">
+<h3 id="org99f620a"><span class="section-number-3">12.46</span> Nehemiah 12:46</h3>
+<div class="outline-text-3" id="text-12-46">
+<p>
+Et omnis Israël in diebus Zorobabel et in diebus Nehemiæ, dabant partes cantoribus et janitoribus per dies singulos, et sanctificabant Levitas, et Levitæ sanctificabant filios Aaron.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org0b5e06f" class="outline-2">
+<h2 id="org0b5e06f"><span class="section-number-2">13</span> Nehemiah 13</h2>
+<div class="outline-text-2" id="text-13">
+</div>
+<div id="outline-container-orge6309e1" class="outline-3">
+<h3 id="orge6309e1"><span class="section-number-3">13.1</span> Nehemiah 13:1</h3>
+<div class="outline-text-3" id="text-13-1">
+<p>
+In die autem illo, lectum est in volumine Moysi, audiente populo : et inventum est scriptum in eo, quod non debeant introire Ammonites et Moabites in ecclesiam Dei usque in æternum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org15eb22c" class="outline-3">
+<h3 id="org15eb22c"><span class="section-number-3">13.2</span> Nehemiah 13:2</h3>
+<div class="outline-text-3" id="text-13-2">
+<p>
+eo quod non occurrerint filiis Israël cum pane et aqua, et conduxerint adversum eos Balaam ad maledicendum eis : et convertit Deus noster maledictionem in benedictionem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4761e73" class="outline-3">
+<h3 id="org4761e73"><span class="section-number-3">13.3</span> Nehemiah 13:3</h3>
+<div class="outline-text-3" id="text-13-3">
+<p>
+Factum est autem, cum audissent legem, separaverunt omnem alienigenam ab Israël.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org96994ce" class="outline-3">
+<h3 id="org96994ce"><span class="section-number-3">13.4</span> Nehemiah 13:4</h3>
+<div class="outline-text-3" id="text-13-4">
+<p>
+Et super hoc erat Eliasib sacerdos, qui fuerat præpositus in gazophylacio domus Dei nostri, et proximus Tobiæ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5e203af" class="outline-3">
+<h3 id="org5e203af"><span class="section-number-3">13.5</span> Nehemiah 13:5</h3>
+<div class="outline-text-3" id="text-13-5">
+<p>
+Fecit ergo sibi gazophylacium grande, et ibi erant ante eum reponentes munera, et thus, et vasa, et decimam frumenti, vini, et olei, partes Levitarum, et cantorum, et janitorum, et primitias sacerdotales.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org630c758" class="outline-3">
+<h3 id="org630c758"><span class="section-number-3">13.6</span> Nehemiah 13:6</h3>
+<div class="outline-text-3" id="text-13-6">
+<p>
+In omnibus autem his non fui in Jerusalem, quia anno trigesimo secundo Artaxerxis regis Babylonis veni ad regem, et in fine dierum rogavi regem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgae31575" class="outline-3">
+<h3 id="orgae31575"><span class="section-number-3">13.7</span> Nehemiah 13:7</h3>
+<div class="outline-text-3" id="text-13-7">
+<p>
+Et veni in Jerusalem, et intellexi malum quod fecerat Eliasib Tobiæ, ut faceret ei thesaurum in vestibulis domus Dei.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6593834" class="outline-3">
+<h3 id="org6593834"><span class="section-number-3">13.8</span> Nehemiah 13:8</h3>
+<div class="outline-text-3" id="text-13-8">
+<p>
+Et malum mihi visum est valde. Et projeci vasa domus Tobiæ foras de gazophylacio :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0ee0cbe" class="outline-3">
+<h3 id="org0ee0cbe"><span class="section-number-3">13.9</span> Nehemiah 13:9</h3>
+<div class="outline-text-3" id="text-13-9">
+<p>
+præcepique et emundaverunt gazophylacia : et retuli ibi vasa domus Dei, sacrificium, et thus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdb76fa4" class="outline-3">
+<h3 id="orgdb76fa4"><span class="section-number-3">13.10</span> Nehemiah 13:10</h3>
+<div class="outline-text-3" id="text-13-10">
+<p>
+Et cognovi quod partes Levitarum non fuissent datæ, et fugisset unusquisque in regionem suam de Levitis, et cantoribus, et de his qui ministrabant :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8fee2b2" class="outline-3">
+<h3 id="org8fee2b2"><span class="section-number-3">13.11</span> Nehemiah 13:11</h3>
+<div class="outline-text-3" id="text-13-11">
+<p>
+et egi causam adversus magistratus, et dixi : Quare dereliquimus domum Dei ? et congregavi eos, et feci stare in stationibus suis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1b9cc1f" class="outline-3">
+<h3 id="org1b9cc1f"><span class="section-number-3">13.12</span> Nehemiah 13:12</h3>
+<div class="outline-text-3" id="text-13-12">
+<p>
+Et omnis Juda apportabat decimam frumenti, vini, et olei, in horrea.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org898d19f" class="outline-3">
+<h3 id="org898d19f"><span class="section-number-3">13.13</span> Nehemiah 13:13</h3>
+<div class="outline-text-3" id="text-13-13">
+<p>
+Et constituimus super horrea Selemiam sacerdotem, et Sadoc scribam, et Phadaiam de Levitis, et juxta eos Hanan filium Zachur, filium Mathaniæ : quoniam fideles comprobati sunt, et ipsis creditæ sunt partes fratrum suorum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaab4628" class="outline-3">
+<h3 id="orgaab4628"><span class="section-number-3">13.14</span> Nehemiah 13:14</h3>
+<div class="outline-text-3" id="text-13-14">
+<p>
+Memento mei, Deus meus, pro hoc, et ne deleas miserationes meas quas feci in domo Dei mei, et in cæremoniis ejus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org48214eb" class="outline-3">
+<h3 id="org48214eb"><span class="section-number-3">13.15</span> Nehemiah 13:15</h3>
+<div class="outline-text-3" id="text-13-15">
+<p>
+In diebus illis vidi in Juda calcantes torcularia in sabbato, portantes acervos, et onerantes super asinos vinum, et uvas, et ficus, et omne onus, et inferentes in Jerusalem, die sabbati. Et contestatus sum ut in die qua vendere liceret, venderent.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org830eb98" class="outline-3">
+<h3 id="org830eb98"><span class="section-number-3">13.16</span> Nehemiah 13:16</h3>
+<div class="outline-text-3" id="text-13-16">
+<p>
+Et Tyrii habitaverunt in ea, inferentes pisces, et omnia venalia : et vendebant in sabbatis filiis Juda in Jerusalem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org59ee25a" class="outline-3">
+<h3 id="org59ee25a"><span class="section-number-3">13.17</span> Nehemiah 13:17</h3>
+<div class="outline-text-3" id="text-13-17">
+<p>
+Et objurgavi optimates Juda, et dixi eis : Quæ est hæc res mala quam vos facitis, et profanatis diem sabbati ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6634c5a" class="outline-3">
+<h3 id="org6634c5a"><span class="section-number-3">13.18</span> Nehemiah 13:18</h3>
+<div class="outline-text-3" id="text-13-18">
+<p>
+numquid non hæc fecerunt patres nostri, et adduxit Deus noster super nos omne malum hoc, et super civitatem hanc ? et vos additis iracundiam super Israël violando sabbatum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org09f657b" class="outline-3">
+<h3 id="org09f657b"><span class="section-number-3">13.19</span> Nehemiah 13:19</h3>
+<div class="outline-text-3" id="text-13-19">
+<p>
+Factum est autem, cum quievissent portæ Jerusalem in die sabbati, dixi : et clauserunt januas, et præcepi ut non aperirent eas usque post sabbatum : et de pueris meis constitui super portas, ut nullus inferret onus in die sabbati.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge03dd9d" class="outline-3">
+<h3 id="orge03dd9d"><span class="section-number-3">13.20</span> Nehemiah 13:20</h3>
+<div class="outline-text-3" id="text-13-20">
+<p>
+Et manserunt negotiatores, et vendentes universa venalia, foris Jerusalem semel et bis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd6eaefb" class="outline-3">
+<h3 id="orgd6eaefb"><span class="section-number-3">13.21</span> Nehemiah 13:21</h3>
+<div class="outline-text-3" id="text-13-21">
+<p>
+Et contestatus sum eos, et dixi eis : Quare manetis ex adverso muri ? si secundo hoc feceritis, manum mittam in vos. Itaque ex tempore illo non venerunt in sabbato.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org63fcf3b" class="outline-3">
+<h3 id="org63fcf3b"><span class="section-number-3">13.22</span> Nehemiah 13:22</h3>
+<div class="outline-text-3" id="text-13-22">
+<p>
+Dixi quoque Levitis ut mundarentur, et venirent ad custodiendas portas, et sanctificandam diem sabbati : et pro hoc ergo memento mei, Deus meus, et parce mihi secundum multitudinem miserationum tuarum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd35b103" class="outline-3">
+<h3 id="orgd35b103"><span class="section-number-3">13.23</span> Nehemiah 13:23</h3>
+<div class="outline-text-3" id="text-13-23">
+<p>
+Sed et in diebus illis vidi Judæos ducentes uxores Azotidas, Ammonitidas, et Moabitidas.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4645b36" class="outline-3">
+<h3 id="org4645b36"><span class="section-number-3">13.24</span> Nehemiah 13:24</h3>
+<div class="outline-text-3" id="text-13-24">
+<p>
+Et filii eorum ex media parte loquebantur azotice, et nesciebant loqui judaice, et loquebantur juxta linguam populi et populi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9897dc7" class="outline-3">
+<h3 id="org9897dc7"><span class="section-number-3">13.25</span> Nehemiah 13:25</h3>
+<div class="outline-text-3" id="text-13-25">
+<p>
+Et objurgavi eos, et maledixi. Et cecidi ex eis viros, et decalvavi eos, et adjuravi in Deo ut non darent filias suas filiis eorum, et non acciperent de filiabus eorum filiis suis et sibimetipsis, dicens :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f75f23" class="outline-3">
+<h3 id="org3f75f23"><span class="section-number-3">13.26</span> Nehemiah 13:26</h3>
+<div class="outline-text-3" id="text-13-26">
+<p>
+Numquid non in hujuscemodi re peccavit Salomon rex Israël ? et certe in gentibus multis non erat rex similis ei, et dilectus Deo suo erat, et posuit eum Deus regem super omnem Israël : et ipsum ergo duxerunt ad peccatum mulieres alienigenæ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org63d8412" class="outline-3">
+<h3 id="org63d8412"><span class="section-number-3">13.27</span> Nehemiah 13:27</h3>
+<div class="outline-text-3" id="text-13-27">
+<p>
+Numquid et nos inobedientes faciemus omne malum grande hoc ut prævaricemur in Deo nostro, et ducamus uxores peregrinas ?  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb9ce8d0" class="outline-3">
+<h3 id="orgb9ce8d0"><span class="section-number-3">13.28</span> Nehemiah 13:28</h3>
+<div class="outline-text-3" id="text-13-28">
+<p>
+De filiis autem Jojada filii Eliasib sacerdotis magni, gener erat Sanaballat Horonites, quem fugavi a me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org388d177" class="outline-3">
+<h3 id="org388d177"><span class="section-number-3">13.29</span> Nehemiah 13:29</h3>
+<div class="outline-text-3" id="text-13-29">
+<p>
+Recordare, Domine Deus meus, adversum eos qui polluunt sacerdotium, jusque sacerdotale et Leviticum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5c4c7f7" class="outline-3">
+<h3 id="org5c4c7f7"><span class="section-number-3">13.30</span> Nehemiah 13:30</h3>
+<div class="outline-text-3" id="text-13-30">
+<p>
+Igitur mundavi eos ab omnibus alienigenis, et constitui ordines sacerdotum et Levitarum, unumquemque in ministerio suo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6fd3d5e" class="outline-3">
+<h3 id="org6fd3d5e"><span class="section-number-3">13.31</span> Nehemiah 13:31</h3>
+<div class="outline-text-3" id="text-13-31">
+<p>
+et in oblatione lignorum in temporibus constitutis, et in primitivis : memento mei, Deus meus, in bonum. Amen.    
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:38</p>
+</div>
+</body>
+</html>

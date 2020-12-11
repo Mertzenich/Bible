@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:37 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orge889698">1. Amos 1</a>
+<ul>
+<li><a href="#org595651e">1.1. Amos 1:1</a></li>
+<li><a href="#org4383dc5">1.2. Amos 1:2</a></li>
+<li><a href="#orgb2ba8de">1.3. Amos 1:3</a></li>
+<li><a href="#orgca680e2">1.4. Amos 1:4</a></li>
+<li><a href="#org95bc504">1.5. Amos 1:5</a></li>
+<li><a href="#orgd6fbf29">1.6. Amos 1:6</a></li>
+<li><a href="#org3d814c4">1.7. Amos 1:7</a></li>
+<li><a href="#org72c4982">1.8. Amos 1:8</a></li>
+<li><a href="#orge80f436">1.9. Amos 1:9</a></li>
+<li><a href="#org907a11f">1.10. Amos 1:10</a></li>
+<li><a href="#orgf4b3d43">1.11. Amos 1:11</a></li>
+<li><a href="#orge9a7005">1.12. Amos 1:12</a></li>
+<li><a href="#orgcb5295f">1.13. Amos 1:13</a></li>
+<li><a href="#orgd578ff6">1.14. Amos 1:14</a></li>
+<li><a href="#org98fdd28">1.15. Amos 1:15</a></li>
+</ul>
+</li>
+<li><a href="#orgcefc53e">2. Amos 2</a>
+<ul>
+<li><a href="#org274dba2">2.1. Amos 2:1</a></li>
+<li><a href="#orgcc33bff">2.2. Amos 2:2</a></li>
+<li><a href="#orge5cc0b8">2.3. Amos 2:3</a></li>
+<li><a href="#orgcf9c5cf">2.4. Amos 2:4</a></li>
+<li><a href="#org4fc81ce">2.5. Amos 2:5</a></li>
+<li><a href="#org9e94343">2.6. Amos 2:6</a></li>
+<li><a href="#org3d2fa46">2.7. Amos 2:7</a></li>
+<li><a href="#orgf5897b2">2.8. Amos 2:8</a></li>
+<li><a href="#org4587cb9">2.9. Amos 2:9</a></li>
+<li><a href="#org5f1c626">2.10. Amos 2:10</a></li>
+<li><a href="#org5110548">2.11. Amos 2:11</a></li>
+<li><a href="#orgc909410">2.12. Amos 2:12</a></li>
+<li><a href="#org4827011">2.13. Amos 2:13</a></li>
+<li><a href="#org5518e9e">2.14. Amos 2:14</a></li>
+<li><a href="#orgbc0d104">2.15. Amos 2:15</a></li>
+<li><a href="#org02dcede">2.16. Amos 2:16</a></li>
+</ul>
+</li>
+<li><a href="#org8e7527c">3. Amos 3</a>
+<ul>
+<li><a href="#orgef1c892">3.1. Amos 3:1</a></li>
+<li><a href="#orgecef728">3.2. Amos 3:2</a></li>
+<li><a href="#org84d8157">3.3. Amos 3:3</a></li>
+<li><a href="#org46ec62e">3.4. Amos 3:4</a></li>
+<li><a href="#org72c8940">3.5. Amos 3:5</a></li>
+<li><a href="#org8e04254">3.6. Amos 3:6</a></li>
+<li><a href="#org54a2a97">3.7. Amos 3:7</a></li>
+<li><a href="#org6f00796">3.8. Amos 3:8</a></li>
+<li><a href="#orgce9078b">3.9. Amos 3:9</a></li>
+<li><a href="#org57e7da4">3.10. Amos 3:10</a></li>
+<li><a href="#org9ed23b4">3.11. Amos 3:11</a></li>
+<li><a href="#org184b510">3.12. Amos 3:12</a></li>
+<li><a href="#org4b5803d">3.13. Amos 3:13</a></li>
+<li><a href="#org1fd7719">3.14. Amos 3:14</a></li>
+<li><a href="#org5288ad4">3.15. Amos 3:15</a></li>
+</ul>
+</li>
+<li><a href="#org7d19763">4. Amos 4</a>
+<ul>
+<li><a href="#orgc45af1a">4.1. Amos 4:1</a></li>
+<li><a href="#orgfb1d5be">4.2. Amos 4:2</a></li>
+<li><a href="#orgb3368a7">4.3. Amos 4:3</a></li>
+<li><a href="#orgcd1f594">4.4. Amos 4:4</a></li>
+<li><a href="#orga3c1f81">4.5. Amos 4:5</a></li>
+<li><a href="#org2028dfb">4.6. Amos 4:6</a></li>
+<li><a href="#orga5f9385">4.7. Amos 4:7</a></li>
+<li><a href="#org0131882">4.8. Amos 4:8</a></li>
+<li><a href="#org4d1b739">4.9. Amos 4:9</a></li>
+<li><a href="#org52b08aa">4.10. Amos 4:10</a></li>
+<li><a href="#orgb60d6ee">4.11. Amos 4:11</a></li>
+<li><a href="#org398de6e">4.12. Amos 4:12</a></li>
+<li><a href="#orgd748fdc">4.13. Amos 4:13</a></li>
+</ul>
+</li>
+<li><a href="#orgcafc9b2">5. Amos 5</a>
+<ul>
+<li><a href="#org15bf303">5.1. Amos 5:1</a></li>
+<li><a href="#org3b3c9cc">5.2. Amos 5:2</a></li>
+<li><a href="#org8c5a9a0">5.3. Amos 5:3</a></li>
+<li><a href="#org284c006">5.4. Amos 5:4</a></li>
+<li><a href="#org71d9f7e">5.5. Amos 5:5</a></li>
+<li><a href="#orgcc1a059">5.6. Amos 5:6</a></li>
+<li><a href="#org5c26bd1">5.7. Amos 5:7</a></li>
+<li><a href="#orgc694996">5.8. Amos 5:8</a></li>
+<li><a href="#orgd2cb93a">5.9. Amos 5:9</a></li>
+<li><a href="#org63e93f3">5.10. Amos 5:10</a></li>
+<li><a href="#org1a1be31">5.11. Amos 5:11</a></li>
+<li><a href="#org9f148ff">5.12. Amos 5:12</a></li>
+<li><a href="#org5bfff37">5.13. Amos 5:13</a></li>
+<li><a href="#org9bd93ce">5.14. Amos 5:14</a></li>
+<li><a href="#orgf543cf6">5.15. Amos 5:15</a></li>
+<li><a href="#org02d6a5c">5.16. Amos 5:16</a></li>
+<li><a href="#org3069758">5.17. Amos 5:17</a></li>
+<li><a href="#org4d473da">5.18. Amos 5:18</a></li>
+<li><a href="#org792e6f2">5.19. Amos 5:19</a></li>
+<li><a href="#orga84f085">5.20. Amos 5:20</a></li>
+<li><a href="#org4170fd9">5.21. Amos 5:21</a></li>
+<li><a href="#orgd9d979c">5.22. Amos 5:22</a></li>
+<li><a href="#orgd002a0c">5.23. Amos 5:23</a></li>
+<li><a href="#orgcdd5ca1">5.24. Amos 5:24</a></li>
+<li><a href="#org4dd0967">5.25. Amos 5:25</a></li>
+<li><a href="#org23fff10">5.26. Amos 5:26</a></li>
+<li><a href="#org58d1ea8">5.27. Amos 5:27</a></li>
+</ul>
+</li>
+<li><a href="#org2f6f76c">6. Amos 6</a>
+<ul>
+<li><a href="#org073efa9">6.1. Amos 6:1</a></li>
+<li><a href="#org81830bb">6.2. Amos 6:2</a></li>
+<li><a href="#orgc5a21e5">6.3. Amos 6:3</a></li>
+<li><a href="#org2bd6618">6.4. Amos 6:4</a></li>
+<li><a href="#orgb9737a0">6.5. Amos 6:5</a></li>
+<li><a href="#org229a57e">6.6. Amos 6:6</a></li>
+<li><a href="#org9df438f">6.7. Amos 6:7</a></li>
+<li><a href="#org5743429">6.8. Amos 6:8</a></li>
+<li><a href="#orga71e6f4">6.9. Amos 6:9</a></li>
+<li><a href="#org4229edf">6.10. Amos 6:10</a></li>
+<li><a href="#org1d603de">6.11. Amos 6:11</a></li>
+<li><a href="#org1ab1527">6.12. Amos 6:12</a></li>
+<li><a href="#orgd1e8925">6.13. Amos 6:13</a></li>
+<li><a href="#org9a0867e">6.14. Amos 6:14</a></li>
+<li><a href="#orgc1918ed">6.15. Amos 6:15</a></li>
+</ul>
+</li>
+<li><a href="#orga00ca80">7. Amos 7</a>
+<ul>
+<li><a href="#orga328794">7.1. Amos 7:1</a></li>
+<li><a href="#orgdc7c356">7.2. Amos 7:2</a></li>
+<li><a href="#org2872479">7.3. Amos 7:3</a></li>
+<li><a href="#org18dd33b">7.4. Amos 7:4</a></li>
+<li><a href="#orgc5830b0">7.5. Amos 7:5</a></li>
+<li><a href="#orgbf628dd">7.6. Amos 7:6</a></li>
+<li><a href="#org34ddb39">7.7. Amos 7:7</a></li>
+<li><a href="#orgf40d644">7.8. Amos 7:8</a></li>
+<li><a href="#orgb015619">7.9. Amos 7:9</a></li>
+<li><a href="#org93a397d">7.10. Amos 7:10</a></li>
+<li><a href="#orgfde7157">7.11. Amos 7:11</a></li>
+<li><a href="#orgfd05495">7.12. Amos 7:12</a></li>
+<li><a href="#orge9e6bb6">7.13. Amos 7:13</a></li>
+<li><a href="#orgfd3d43a">7.14. Amos 7:14</a></li>
+<li><a href="#orgbdeae1f">7.15. Amos 7:15</a></li>
+<li><a href="#orgda669ef">7.16. Amos 7:16</a></li>
+<li><a href="#org9e1492a">7.17. Amos 7:17</a></li>
+</ul>
+</li>
+<li><a href="#org85f293f">8. Amos 8</a>
+<ul>
+<li><a href="#org289855d">8.1. Amos 8:1</a></li>
+<li><a href="#orgfec342b">8.2. Amos 8:2</a></li>
+<li><a href="#orgdf4118c">8.3. Amos 8:3</a></li>
+<li><a href="#org013ad64">8.4. Amos 8:4</a></li>
+<li><a href="#org25451ba">8.5. Amos 8:5</a></li>
+<li><a href="#orge2904ae">8.6. Amos 8:6</a></li>
+<li><a href="#orga709cf9">8.7. Amos 8:7</a></li>
+<li><a href="#org980f259">8.8. Amos 8:8</a></li>
+<li><a href="#org119e3db">8.9. Amos 8:9</a></li>
+<li><a href="#org7c59d73">8.10. Amos 8:10</a></li>
+<li><a href="#orgb8089ef">8.11. Amos 8:11</a></li>
+<li><a href="#org83715c5">8.12. Amos 8:12</a></li>
+<li><a href="#orga364268">8.13. Amos 8:13</a></li>
+<li><a href="#org97b4cb7">8.14. Amos 8:14</a></li>
+</ul>
+</li>
+<li><a href="#org8949aa9">9. Amos 9</a>
+<ul>
+<li><a href="#org9f3f446">9.1. Amos 9:1</a></li>
+<li><a href="#orgfe03da9">9.2. Amos 9:2</a></li>
+<li><a href="#orgac8723c">9.3. Amos 9:3</a></li>
+<li><a href="#orgddd4cef">9.4. Amos 9:4</a></li>
+<li><a href="#org75e9569">9.5. Amos 9:5</a></li>
+<li><a href="#org43a06b7">9.6. Amos 9:6</a></li>
+<li><a href="#org64f5925">9.7. Amos 9:7</a></li>
+<li><a href="#orgaf7e250">9.8. Amos 9:8</a></li>
+<li><a href="#orgee32468">9.9. Amos 9:9</a></li>
+<li><a href="#orgc3c50bb">9.10. Amos 9:10</a></li>
+<li><a href="#orgf445d3c">9.11. Amos 9:11</a></li>
+<li><a href="#orgf1dab56">9.12. Amos 9:12</a></li>
+<li><a href="#org3d9943a">9.13. Amos 9:13</a></li>
+<li><a href="#org2dc8bd2">9.14. Amos 9:14</a></li>
+<li><a href="#org53badf8">9.15. Amos 9:15</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge889698" class="outline-2">
+<h2 id="orge889698"><span class="section-number-2">1</span> Amos 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org595651e" class="outline-3">
+<h3 id="org595651e"><span class="section-number-3">1.1</span> Amos 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Verba Amos, qui fuit in pastoribus de Thecue, quæ vidit super Israël in diebus Oziæ, regis Juda, et in diebus Jeroboam, filii Joas, regis Israël, ante duos annos terræmotus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4383dc5" class="outline-3">
+<h3 id="org4383dc5"><span class="section-number-3">1.2</span> Amos 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Et dixit :   Dominus de Sion rugiet,  et de Jerusalem dabit vocem suam ;  et luxerunt speciosa pastorum,  et exsiccatus est vertex Carmeli. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb2ba8de" class="outline-3">
+<h3 id="orgb2ba8de"><span class="section-number-3">1.3</span> Amos 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Hæc dicit Dominus :  Super tribus sceleribus Damasci,  et super quatuor non convertam eum,  eo quod trituraverint in plaustris ferreis Galaad. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgca680e2" class="outline-3">
+<h3 id="orgca680e2"><span class="section-number-3">1.4</span> Amos 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Et mittam ignem in domum Azaël,  et devorabit domos Benadad. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org95bc504" class="outline-3">
+<h3 id="org95bc504"><span class="section-number-3">1.5</span> Amos 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Et conteram vectem Damasci :  et disperdam habitatorem de campo idoli,  et tenentem sceptrum de domo voluptatis :  et transferetur populus Syriæ Cyrenen,  dicit Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd6fbf29" class="outline-3">
+<h3 id="orgd6fbf29"><span class="section-number-3">1.6</span> Amos 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Hæc dicit Dominus :  Super tribus sceleribus Gazæ,  et super quatuor non convertam eum,  eo quod transtulerint captivitatem perfectam,  ut concluderent eam in Idumæa. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3d814c4" class="outline-3">
+<h3 id="org3d814c4"><span class="section-number-3">1.7</span> Amos 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+Et mittam ignem in murum Gazæ,  et devorabit ædes ejus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org72c4982" class="outline-3">
+<h3 id="org72c4982"><span class="section-number-3">1.8</span> Amos 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+Et disperdam habitatorem de Azoto,  et tenentem sceptrum de Ascalone :  et convertam manum meam super Accaron,  et peribunt reliqui Philisthinorum,  dicit Dominus Deus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge80f436" class="outline-3">
+<h3 id="orge80f436"><span class="section-number-3">1.9</span> Amos 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+Hæc dicit Dominus :  Super tribus sceleribus Tyri,  et super quatuor non convertam eum,  eo quod concluserint captivitatem perfectam in Idumæa,  et non sint recordati fœderis fratrum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org907a11f" class="outline-3">
+<h3 id="org907a11f"><span class="section-number-3">1.10</span> Amos 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+Et mittam ignem in murum Tyri,  et devorabit ædes ejus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf4b3d43" class="outline-3">
+<h3 id="orgf4b3d43"><span class="section-number-3">1.11</span> Amos 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+Hæc dicit Dominus :  Super tribus sceleribus Edom,  et super quatuor non convertam eum,  eo quod persecutus sit in gladio fratrem suum,  et violaverit misericordiam ejus,  et tenuerit ultra furorem suum,  et indignationem suam servaverit usque in finem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge9a7005" class="outline-3">
+<h3 id="orge9a7005"><span class="section-number-3">1.12</span> Amos 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+Mittam ignem in Theman,  et devorabit ædes Bosræ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcb5295f" class="outline-3">
+<h3 id="orgcb5295f"><span class="section-number-3">1.13</span> Amos 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+Hæc dicit Dominus :  Super tribus sceleribus filiorum Ammon,  et super quatuor non convertam eum,  eo quod dissecuerit prægnantes Galaad  ad dilatandum terminum suum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd578ff6" class="outline-3">
+<h3 id="orgd578ff6"><span class="section-number-3">1.14</span> Amos 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+Et succendam ignem in muro Rabba,  et devorabit ædes ejus in ululatu in die belli,  et in turbine in die commotionis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org98fdd28" class="outline-3">
+<h3 id="org98fdd28"><span class="section-number-3">1.15</span> Amos 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+Et ibit Melchom in captivitatem,  ipse et principes ejus simul,  dicit Dominus.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgcefc53e" class="outline-2">
+<h2 id="orgcefc53e"><span class="section-number-2">2</span> Amos 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org274dba2" class="outline-3">
+<h3 id="org274dba2"><span class="section-number-3">2.1</span> Amos 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Hæc dicit Dominus :  Super tribus sceleribus Moab,  et super quatuor non convertam eum,  eo quod incenderit ossa regis Idumææ usque ad cinerem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcc33bff" class="outline-3">
+<h3 id="orgcc33bff"><span class="section-number-3">2.2</span> Amos 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Et mittam ignem in Moab,  et devorabit ædes Carioth :  et morietur in sonitu Moab, in clangore tubæ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge5cc0b8" class="outline-3">
+<h3 id="orge5cc0b8"><span class="section-number-3">2.3</span> Amos 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+Et disperdam judicem de medio ejus,  et omnes principes ejus interficiam cum eo,  dicit Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcf9c5cf" class="outline-3">
+<h3 id="orgcf9c5cf"><span class="section-number-3">2.4</span> Amos 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+Hæc dicit Dominus :  Super tribus sceleribus Juda,  et super quatuor non convertam eum,  eo quod abjecerit legem Domini  et mandata ejus non custodierit :  deceperant enim eos idola sua,  post quæ abierant patres eorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4fc81ce" class="outline-3">
+<h3 id="org4fc81ce"><span class="section-number-3">2.5</span> Amos 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+Et mittam ignem in Juda,  et devorabit ædes Jerusalem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e94343" class="outline-3">
+<h3 id="org9e94343"><span class="section-number-3">2.6</span> Amos 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+Hæc dicit Dominus :  Super tribus sceleribus Israël,  et super quatuor non convertam eum,  pro eo quod vendiderit pro argento justum,  et pauperem pro calceamentis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3d2fa46" class="outline-3">
+<h3 id="org3d2fa46"><span class="section-number-3">2.7</span> Amos 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+Qui conterunt super pulverem terræ capita pauperum,  et viam humilium declinant :  et filius ac pater ejus ierunt ad puellam,  ut violarent nomen sanctum meum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf5897b2" class="outline-3">
+<h3 id="orgf5897b2"><span class="section-number-3">2.8</span> Amos 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+Et super vestimentis pignoratis accubuerunt juxta omne altare,  et vinum damnatorum bibebant in domo Dei sui. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4587cb9" class="outline-3">
+<h3 id="org4587cb9"><span class="section-number-3">2.9</span> Amos 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+Ego autem exterminavi Amorrhæum a facie eorum,  cujus altitudo, cedrorum altitudo ejus,  et fortis ipse quasi quercus ;  et contrivi fructum ejus desuper,  et radices ejus subter. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5f1c626" class="outline-3">
+<h3 id="org5f1c626"><span class="section-number-3">2.10</span> Amos 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+Ego sum qui ascendere vos feci de terra Ægypti,  et duxi vos in deserto quadraginta annis,  ut possideretis terram Amorrhæi. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5110548" class="outline-3">
+<h3 id="org5110548"><span class="section-number-3">2.11</span> Amos 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+Et suscitavi de filiis vestris in prophetas,  et de juvenibus vestris nazaræos.  Numquid non ita est, filii Israël ? dicit Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc909410" class="outline-3">
+<h3 id="orgc909410"><span class="section-number-3">2.12</span> Amos 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+Et propinabitis nazaræis vinum,  et prophetis mandabitis, dicentes :  Ne prophetetis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4827011" class="outline-3">
+<h3 id="org4827011"><span class="section-number-3">2.13</span> Amos 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+Ecce ego stridebo subter vos,  sicut stridet plaustrum onustum fœno. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5518e9e" class="outline-3">
+<h3 id="org5518e9e"><span class="section-number-3">2.14</span> Amos 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+Et peribit fuga a veloce,  et fortis non obtinebit virtutem suam,  et robustus non salvabit animam suam : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbc0d104" class="outline-3">
+<h3 id="orgbc0d104"><span class="section-number-3">2.15</span> Amos 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+et tenens arcum non stabit,  et velox pedibus suis non salvabitur,  et ascensor equi non salvabit animam suam : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02dcede" class="outline-3">
+<h3 id="org02dcede"><span class="section-number-3">2.16</span> Amos 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+et robustus corde inter fortes nudus fugiet in illa die,  dicit Dominus.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org8e7527c" class="outline-2">
+<h2 id="org8e7527c"><span class="section-number-2">3</span> Amos 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-orgef1c892" class="outline-3">
+<h3 id="orgef1c892"><span class="section-number-3">3.1</span> Amos 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+Audite verbum quod locutus est Dominus super vos, filii Israël,  super omnem cognationem quam eduxi de terra Ægypti, dicens : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgecef728" class="outline-3">
+<h3 id="orgecef728"><span class="section-number-3">3.2</span> Amos 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+Tantummodo vos cognovi ex omnibus cognationibus terræ ;  idcirco visitabo super vos omnes iniquitates vestras. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org84d8157" class="outline-3">
+<h3 id="org84d8157"><span class="section-number-3">3.3</span> Amos 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+Numquid ambulabunt duo pariter,  nisi convenerit eis ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org46ec62e" class="outline-3">
+<h3 id="org46ec62e"><span class="section-number-3">3.4</span> Amos 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+numquid rugiet leo in saltu,  nisi habuerit prædam ?  numquid dabit catulus leonis vocem de cubili suo,  nisi aliquid apprehenderit ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org72c8940" class="outline-3">
+<h3 id="org72c8940"><span class="section-number-3">3.5</span> Amos 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+numquid cadet avis in laqueum terræ  absque aucupe ?  numquid auferetur laqueus de terra  antequam quid ceperit ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8e04254" class="outline-3">
+<h3 id="org8e04254"><span class="section-number-3">3.6</span> Amos 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+si clanget tuba in civitate,  et populus non expavescet ?  si erit malum in civitate,  quod Dominus non fecerit ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org54a2a97" class="outline-3">
+<h3 id="org54a2a97"><span class="section-number-3">3.7</span> Amos 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+Quia non facit Dominus Deus verbum,  nisi revelaverit secretum suum ad servos suos prophetas. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6f00796" class="outline-3">
+<h3 id="org6f00796"><span class="section-number-3">3.8</span> Amos 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+Leo rugiet, quis non timebit ?  Dominus Deus locutus est, quis non prophetabit ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgce9078b" class="outline-3">
+<h3 id="orgce9078b"><span class="section-number-3">3.9</span> Amos 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+Auditum facite in ædibus Azoti,  et in ædibus terræ Ægypti,  et dicite : Congregamini super montes Samariæ,  et videte insanias multas in medio ejus,  et calumniam patientes in penetralibus ejus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org57e7da4" class="outline-3">
+<h3 id="org57e7da4"><span class="section-number-3">3.10</span> Amos 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+Et nescierunt facere rectum, dicit Dominus,  thesaurizantes iniquitatem et rapinas in ædibus suis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9ed23b4" class="outline-3">
+<h3 id="org9ed23b4"><span class="section-number-3">3.11</span> Amos 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+Propterea hæc dicit Dominus Deus :  Tribulabitur et circuietur terra :  et detrahetur ex te fortitudo tua,  et diripientur ædes tuæ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org184b510" class="outline-3">
+<h3 id="org184b510"><span class="section-number-3">3.12</span> Amos 3:12</h3>
+<div class="outline-text-3" id="text-3-12">
+<p>
+Hæc dicit Dominus :  Quomodo si eruat pastor de ore leonis  duo crura, aut extremum auriculæ,  sic eruentur filii Israël, qui habitant in Samaria  in plaga lectuli, et in Damasci grabato. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b5803d" class="outline-3">
+<h3 id="org4b5803d"><span class="section-number-3">3.13</span> Amos 3:13</h3>
+<div class="outline-text-3" id="text-3-13">
+<p>
+Audite, et contestamini in domo Jacob,  dicit Dominus Deus exercituum ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1fd7719" class="outline-3">
+<h3 id="org1fd7719"><span class="section-number-3">3.14</span> Amos 3:14</h3>
+<div class="outline-text-3" id="text-3-14">
+<p>
+quia in die cum visitare cœpero prævaricationes Israël,  super eum visitabo, et super altaria Bethel ;  et amputabuntur cornua altaris, et cadent in terram. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5288ad4" class="outline-3">
+<h3 id="org5288ad4"><span class="section-number-3">3.15</span> Amos 3:15</h3>
+<div class="outline-text-3" id="text-3-15">
+<p>
+Et percutiam domum hiemalem cum domo æstiva,  et peribunt domus eburneæ,  et dissipabuntur ædes multæ,  dicit Dominus.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org7d19763" class="outline-2">
+<h2 id="org7d19763"><span class="section-number-2">4</span> Amos 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-orgc45af1a" class="outline-3">
+<h3 id="orgc45af1a"><span class="section-number-3">4.1</span> Amos 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Audite verbum hoc, vaccæ pingues,  quæ estis in monte Samariæ,  quæ calumniam facitis egenis  et confringitis pauperes ;  quæ dicitis dominis vestris : Afferte, et bibemus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb1d5be" class="outline-3">
+<h3 id="orgfb1d5be"><span class="section-number-3">4.2</span> Amos 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+Juravit Dominus Deus in sancto suo,  quia ecce dies venient super vos,  et levabunt vos in contis,  et reliquias vestras in ollis ferventibus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb3368a7" class="outline-3">
+<h3 id="orgb3368a7"><span class="section-number-3">4.3</span> Amos 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+Et per aperturas exibitis altera contra alteram,  et projiciemini in Armon,  dicit Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcd1f594" class="outline-3">
+<h3 id="orgcd1f594"><span class="section-number-3">4.4</span> Amos 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+Venite ad Bethel, et impie agite ;  ad Galgalam, et multiplicate prævaricationem :  et afferte mane victimas vestras,  tribus diebus decimas vestras. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga3c1f81" class="outline-3">
+<h3 id="orga3c1f81"><span class="section-number-3">4.5</span> Amos 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+Et sacrificate de fermentato laudem,  et vocate voluntarias oblationes, et annuntiate ;  sic enim voluistis, filii Israël,  dicit Dominus Deus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2028dfb" class="outline-3">
+<h3 id="org2028dfb"><span class="section-number-3">4.6</span> Amos 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+Unde et ego dedi vobis stuporem dentium in cunctis urbibus vestris,  et indigentiam panum in omnibus locis vestris ;  et non estis reversi ad me,  dicit Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga5f9385" class="outline-3">
+<h3 id="orga5f9385"><span class="section-number-3">4.7</span> Amos 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+Ego quoque prohibui a vobis imbrem,  cum adhuc tres menses superessent usque ad messem :  et plui super unam civitatem,  et super alteram civitatem non plui ;  pars una compluta est,  et pars super quam non plui, aruit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0131882" class="outline-3">
+<h3 id="org0131882"><span class="section-number-3">4.8</span> Amos 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+Et venerunt duæ et tres civitates ad unam civitatem  ut biberent aquam, et non sunt satiatæ ;  et non redistis ad me,  dicit Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4d1b739" class="outline-3">
+<h3 id="org4d1b739"><span class="section-number-3">4.9</span> Amos 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+Percussi vos in vento urente, et in aurugine :  multitudinem hortorum vestrorum et vinearum vestrarum,  oliveta vestra et ficeta vestra comedit eruca :  et non redistis ad me,  dicit Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org52b08aa" class="outline-3">
+<h3 id="org52b08aa"><span class="section-number-3">4.10</span> Amos 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+Misi in vos mortem in via Ægypti ;  percussi in gladio juvenes vestros,  usque ad captivitatem equorum vestrorum,  et ascendere feci putredinem castrorum vestrorum in nares vestras :  et non redistis ad me,  dicit Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb60d6ee" class="outline-3">
+<h3 id="orgb60d6ee"><span class="section-number-3">4.11</span> Amos 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+Subverti vos sicut subvertit Deus Sodomam et Gomorrham,  et facti estis quasi torris raptus ab incendio :  et non redistis ad me,  dicit Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org398de6e" class="outline-3">
+<h3 id="org398de6e"><span class="section-number-3">4.12</span> Amos 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+Quapropter hæc faciam tibi, Israël :  postquam autem hæc fecero tibi,  præparare in occursum Dei tui, Israël. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd748fdc" class="outline-3">
+<h3 id="orgd748fdc"><span class="section-number-3">4.13</span> Amos 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+Quia ecce formans montes,  et creans ventum,  et annuntians homini eloquium suum,  faciens matutinam nebulam,  et gradiens super excelsa terræ :  Dominus Deus exercituum nomen ejus.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgcafc9b2" class="outline-2">
+<h2 id="orgcafc9b2"><span class="section-number-2">5</span> Amos 5</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org15bf303" class="outline-3">
+<h3 id="org15bf303"><span class="section-number-3">5.1</span> Amos 5:1</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Audite verbum istud,  quod ego levo super vos planctum :  domus Israël cecidit,  et non adjiciet ut resurgat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b3c9cc" class="outline-3">
+<h3 id="org3b3c9cc"><span class="section-number-3">5.2</span> Amos 5:2</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Virgo Israël projecta est in terram suam,  non est qui suscitet eam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c5a9a0" class="outline-3">
+<h3 id="org8c5a9a0"><span class="section-number-3">5.3</span> Amos 5:3</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+Quia hæc dicit Dominus Deus :  Urbs de qua egrediebantur mille,  relinquentur in ea centum ;  et de qua egrediebantur centum,  relinquentur in ea decem in domo Israël. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org284c006" class="outline-3">
+<h3 id="org284c006"><span class="section-number-3">5.4</span> Amos 5:4</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+Quia hæc dicit Dominus domui Israël :  Quærite me, et vivetis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org71d9f7e" class="outline-3">
+<h3 id="org71d9f7e"><span class="section-number-3">5.5</span> Amos 5:5</h3>
+<div class="outline-text-3" id="text-5-5">
+<p>
+Et nolite quærere Bethel,  et in Galgalam nolite intrare,  et in Bersabee non transibitis,  quia Galgala captiva ducetur,  et Bethel erit inutilis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcc1a059" class="outline-3">
+<h3 id="orgcc1a059"><span class="section-number-3">5.6</span> Amos 5:6</h3>
+<div class="outline-text-3" id="text-5-6">
+<p>
+Quærite Dominum, et vivite  (ne forte comburatur ut ignis domus Joseph, et devorabit,  et non erit qui extinguat Bethel : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5c26bd1" class="outline-3">
+<h3 id="org5c26bd1"><span class="section-number-3">5.7</span> Amos 5:7</h3>
+<div class="outline-text-3" id="text-5-7">
+<p>
+qui convertitis in absinthium judicium,  et justitiam in terra relinquitis) : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc694996" class="outline-3">
+<h3 id="orgc694996"><span class="section-number-3">5.8</span> Amos 5:8</h3>
+<div class="outline-text-3" id="text-5-8">
+<p>
+facientem Arcturum et Orionem,  et convertentem in mane tenebras,  et diem in noctem mutantem ;  qui vocat aquas maris,  et effundit eas super faciem terræ ;  Dominus nomen est ejus : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd2cb93a" class="outline-3">
+<h3 id="orgd2cb93a"><span class="section-number-3">5.9</span> Amos 5:9</h3>
+<div class="outline-text-3" id="text-5-9">
+<p>
+qui subridet vastitatem super robustum,  et depopulationem super potentem affert. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org63e93f3" class="outline-3">
+<h3 id="org63e93f3"><span class="section-number-3">5.10</span> Amos 5:10</h3>
+<div class="outline-text-3" id="text-5-10">
+<p>
+Odio habuerunt corripientem in porta,  et loquentem perfecte abominati sunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1a1be31" class="outline-3">
+<h3 id="org1a1be31"><span class="section-number-3">5.11</span> Amos 5:11</h3>
+<div class="outline-text-3" id="text-5-11">
+<p>
+Idcirco, pro eo quod diripiebatis pauperem,  et prædam electam tollebatis ab eo,  domos quadro lapide ædificabitis,  et non habitabitis in eis ;  vineas plantabis amantissimas,  et non bibetis vinum earum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9f148ff" class="outline-3">
+<h3 id="org9f148ff"><span class="section-number-3">5.12</span> Amos 5:12</h3>
+<div class="outline-text-3" id="text-5-12">
+<p>
+Quia cognovi multa scelera vestra,  et fortia peccata vestra :  hostes justi, accipientes munus,  et pauperes deprimentes in porta. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5bfff37" class="outline-3">
+<h3 id="org5bfff37"><span class="section-number-3">5.13</span> Amos 5:13</h3>
+<div class="outline-text-3" id="text-5-13">
+<p>
+Ideo prudens in tempore illo tacebit,  quia tempus malum est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9bd93ce" class="outline-3">
+<h3 id="org9bd93ce"><span class="section-number-3">5.14</span> Amos 5:14</h3>
+<div class="outline-text-3" id="text-5-14">
+<p>
+Quærite bonum, et non malum, ut vivatis ;  et erit Dominus Deus exercituum vobiscum, sicut dixistis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf543cf6" class="outline-3">
+<h3 id="orgf543cf6"><span class="section-number-3">5.15</span> Amos 5:15</h3>
+<div class="outline-text-3" id="text-5-15">
+<p>
+Odite malum et diligite bonum,  et constituite in porta judicium :  si forte misereatur Dominus Deus exercituum reliquiis Joseph. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02d6a5c" class="outline-3">
+<h3 id="org02d6a5c"><span class="section-number-3">5.16</span> Amos 5:16</h3>
+<div class="outline-text-3" id="text-5-16">
+<p>
+Propterea hæc dicit Dominus Deus exercituum, dominator :  In omnibus plateis planctus ;  et in cunctis quæ foris sunt, dicetur : Væ, væ !  et vocabunt agricolam ad luctum,  et ad planctum eos qui sciunt plangere. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3069758" class="outline-3">
+<h3 id="org3069758"><span class="section-number-3">5.17</span> Amos 5:17</h3>
+<div class="outline-text-3" id="text-5-17">
+<p>
+Et in omnibus vineis erit planctus,  quia pertransibo in medio tui,  dicit Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4d473da" class="outline-3">
+<h3 id="org4d473da"><span class="section-number-3">5.18</span> Amos 5:18</h3>
+<div class="outline-text-3" id="text-5-18">
+<p>
+Væ desiderantibus diem Domini !  ad quid eam vobis ?  Dies Domini ista, tenebræ, et non lux. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org792e6f2" class="outline-3">
+<h3 id="org792e6f2"><span class="section-number-3">5.19</span> Amos 5:19</h3>
+<div class="outline-text-3" id="text-5-19">
+<p>
+Quomodo si fugiat vir a facie leonis,  et occurrat ei ursus ;  et ingrediatur domum, et innitatur manu sua super parietem,  et mordeat eum coluber. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga84f085" class="outline-3">
+<h3 id="orga84f085"><span class="section-number-3">5.20</span> Amos 5:20</h3>
+<div class="outline-text-3" id="text-5-20">
+<p>
+Numquid non tenebræ dies Domini, et non lux ;  et caligo, et non splendor in ea ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4170fd9" class="outline-3">
+<h3 id="org4170fd9"><span class="section-number-3">5.21</span> Amos 5:21</h3>
+<div class="outline-text-3" id="text-5-21">
+<p>
+Odi, et projeci festivitates vestras,  et non capiam odorem cœtuum vestrorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd9d979c" class="outline-3">
+<h3 id="orgd9d979c"><span class="section-number-3">5.22</span> Amos 5:22</h3>
+<div class="outline-text-3" id="text-5-22">
+<p>
+Quod si obtuleritis mihi holocautomata, et munera vestra,  non suscipiam ;  et vota pinguium vestrorum non respiciam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd002a0c" class="outline-3">
+<h3 id="orgd002a0c"><span class="section-number-3">5.23</span> Amos 5:23</h3>
+<div class="outline-text-3" id="text-5-23">
+<p>
+Aufer a me tumultum carminum tuorum ;  et cantica lyræ tuæ non audiam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcdd5ca1" class="outline-3">
+<h3 id="orgcdd5ca1"><span class="section-number-3">5.24</span> Amos 5:24</h3>
+<div class="outline-text-3" id="text-5-24">
+<p>
+Et revelabitur quasi aqua judicium,  et justitia quasi torrens fortis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4dd0967" class="outline-3">
+<h3 id="org4dd0967"><span class="section-number-3">5.25</span> Amos 5:25</h3>
+<div class="outline-text-3" id="text-5-25">
+<p>
+Numquid hostias et sacrificium obtulistis mihi  in deserto quadraginta annis, domus Israël ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org23fff10" class="outline-3">
+<h3 id="org23fff10"><span class="section-number-3">5.26</span> Amos 5:26</h3>
+<div class="outline-text-3" id="text-5-26">
+<p>
+et portastis tabernaculum Moloch vestro,  et imaginem idolorum vestrorum, sidus dei vestri,  quæ fecistis vobis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org58d1ea8" class="outline-3">
+<h3 id="org58d1ea8"><span class="section-number-3">5.27</span> Amos 5:27</h3>
+<div class="outline-text-3" id="text-5-27">
+<p>
+Et migrare vos faciam trans Damascum, dicit Dominus :  Deus exercituum nomen ejus.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org2f6f76c" class="outline-2">
+<h2 id="org2f6f76c"><span class="section-number-2">6</span> Amos 6</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-org073efa9" class="outline-3">
+<h3 id="org073efa9"><span class="section-number-3">6.1</span> Amos 6:1</h3>
+<div class="outline-text-3" id="text-6-1">
+<p>
+Væ qui opulenti estis in Sion,  et confiditis in monte Samariæ :  optimates capita populorum,  ingredientes pompatice domum Israël ! 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org81830bb" class="outline-3">
+<h3 id="org81830bb"><span class="section-number-3">6.2</span> Amos 6:2</h3>
+<div class="outline-text-3" id="text-6-2">
+<p>
+Transite in Chalane, et videte,  et ite inde in Emath magnam,  et descendite in Geth Palæstinorum,  et ad optima quæque regna horum :  si latior terminus eorum termino vestro est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc5a21e5" class="outline-3">
+<h3 id="orgc5a21e5"><span class="section-number-3">6.3</span> Amos 6:3</h3>
+<div class="outline-text-3" id="text-6-3">
+<p>
+Qui separati estis in diem malum,  et appropinquatis solio iniquitatis ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2bd6618" class="outline-3">
+<h3 id="org2bd6618"><span class="section-number-3">6.4</span> Amos 6:4</h3>
+<div class="outline-text-3" id="text-6-4">
+<p>
+qui dormitis in lectis eburneis,  et lascivitis in stratis vestris ;  qui comeditis agnum de grege,  et vitulos de medio armenti ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb9737a0" class="outline-3">
+<h3 id="orgb9737a0"><span class="section-number-3">6.5</span> Amos 6:5</h3>
+<div class="outline-text-3" id="text-6-5">
+<p>
+qui canitis ad vocem psalterii,  sicut David putaverunt se habere vasa cantici, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org229a57e" class="outline-3">
+<h3 id="org229a57e"><span class="section-number-3">6.6</span> Amos 6:6</h3>
+<div class="outline-text-3" id="text-6-6">
+<p>
+bibentes vinum in phialis,  et optimo unguento delibuti,  et nihil patiebantur super contritione Joseph. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9df438f" class="outline-3">
+<h3 id="org9df438f"><span class="section-number-3">6.7</span> Amos 6:7</h3>
+<div class="outline-text-3" id="text-6-7">
+<p>
+Quapropter nunc migrabunt in capite transmigrantium,  et auferetur factio lascivientium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5743429" class="outline-3">
+<h3 id="org5743429"><span class="section-number-3">6.8</span> Amos 6:8</h3>
+<div class="outline-text-3" id="text-6-8">
+<p>
+Juravit Dominus Deus in anima sua,  dicit Dominus Deus exercituum :  Detestor ego superbiam Jacob,  et domos ejus odi,  et tradam civitatem cum habitatoribus suis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga71e6f4" class="outline-3">
+<h3 id="orga71e6f4"><span class="section-number-3">6.9</span> Amos 6:9</h3>
+<div class="outline-text-3" id="text-6-9">
+<p>
+Quod si reliqui fuerint decem viri in domo una,  et ipsi morientur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4229edf" class="outline-3">
+<h3 id="org4229edf"><span class="section-number-3">6.10</span> Amos 6:10</h3>
+<div class="outline-text-3" id="text-6-10">
+<p>
+Et tollet eum propinquus suus, et comburet eum,  ut efferat ossa de domo ;  et dicet ei, qui in penetralibus domus est :  Numquid adhuc est penes te ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1d603de" class="outline-3">
+<h3 id="org1d603de"><span class="section-number-3">6.11</span> Amos 6:11</h3>
+<div class="outline-text-3" id="text-6-11">
+<p>
+Et respondebit : Finis est.  Et dicet ei : Tace,  et non recorderis nominis Domini. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1ab1527" class="outline-3">
+<h3 id="org1ab1527"><span class="section-number-3">6.12</span> Amos 6:12</h3>
+<div class="outline-text-3" id="text-6-12">
+<p>
+Quia ecce Dominus mandabit,  et percutiet domum majorem ruinis,  et domum minorem scissionibus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd1e8925" class="outline-3">
+<h3 id="orgd1e8925"><span class="section-number-3">6.13</span> Amos 6:13</h3>
+<div class="outline-text-3" id="text-6-13">
+<p>
+Numquid currere queunt in petris equi,  aut arari potest in bubalis ?  quoniam convertistis in amaritudinem judicium,  et fructum justitiæ in absinthium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9a0867e" class="outline-3">
+<h3 id="org9a0867e"><span class="section-number-3">6.14</span> Amos 6:14</h3>
+<div class="outline-text-3" id="text-6-14">
+<p>
+Qui lætamini in nihilo ; qui dicitis :  Numquid non in fortitudine nostra assumpsimus nobis cornua ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc1918ed" class="outline-3">
+<h3 id="orgc1918ed"><span class="section-number-3">6.15</span> Amos 6:15</h3>
+<div class="outline-text-3" id="text-6-15">
+<p>
+Ecce enim suscitabo super vos, domus Israël,  dicit Dominus Deus exercituum, gentem,  et conteret vos ab introitu Emath usque ad torrentem deserti.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga00ca80" class="outline-2">
+<h2 id="orga00ca80"><span class="section-number-2">7</span> Amos 7</h2>
+<div class="outline-text-2" id="text-7">
+</div>
+<div id="outline-container-orga328794" class="outline-3">
+<h3 id="orga328794"><span class="section-number-3">7.1</span> Amos 7:1</h3>
+<div class="outline-text-3" id="text-7-1">
+<p>
+Hæc ostendit mihi Dominus Deus : et ecce fictor locustæ in principio germinantium serotini imbris, et ecce serotinus post tonsionem regis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdc7c356" class="outline-3">
+<h3 id="orgdc7c356"><span class="section-number-3">7.2</span> Amos 7:2</h3>
+<div class="outline-text-3" id="text-7-2">
+<p>
+Et factum est, cum consummasset comedere herbam terræ, dixi : Domine Deus, propitius esto, obsecro ; quis suscitabit Jacob, quia parvulus est ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2872479" class="outline-3">
+<h3 id="org2872479"><span class="section-number-3">7.3</span> Amos 7:3</h3>
+<div class="outline-text-3" id="text-7-3">
+<p>
+Misertus est Dominus super hoc : Non erit, dixit Dominus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org18dd33b" class="outline-3">
+<h3 id="org18dd33b"><span class="section-number-3">7.4</span> Amos 7:4</h3>
+<div class="outline-text-3" id="text-7-4">
+<p>
+Hæc ostendit mihi Dominus Deus : et ecce vocabat judicium ad ignem Dominus Deus ; et devoravit abyssum multam, et comedit simul partem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc5830b0" class="outline-3">
+<h3 id="orgc5830b0"><span class="section-number-3">7.5</span> Amos 7:5</h3>
+<div class="outline-text-3" id="text-7-5">
+<p>
+Et dixi : Domine Deus, quiesce, obsecro ; quis suscitabit Jacob, quia parvulus est ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbf628dd" class="outline-3">
+<h3 id="orgbf628dd"><span class="section-number-3">7.6</span> Amos 7:6</h3>
+<div class="outline-text-3" id="text-7-6">
+<p>
+Misertus est Dominus super hoc : Sed et istud non erit, dixit Dominus Deus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org34ddb39" class="outline-3">
+<h3 id="org34ddb39"><span class="section-number-3">7.7</span> Amos 7:7</h3>
+<div class="outline-text-3" id="text-7-7">
+<p>
+Hæc ostendit mihi Dominus : et ecce Dominus stans super murum litum, et in manu ejus trulla cæmentarii.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf40d644" class="outline-3">
+<h3 id="orgf40d644"><span class="section-number-3">7.8</span> Amos 7:8</h3>
+<div class="outline-text-3" id="text-7-8">
+<p>
+Et dixit Dominus ad me : Quid tu vides, Amos ? Et dixi : Trullam cæmentarii. Et dixit Dominus :   Ecce ego ponam trullam in medio populi mei Israël ;  non adjiciam ultra superinducere eum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb015619" class="outline-3">
+<h3 id="orgb015619"><span class="section-number-3">7.9</span> Amos 7:9</h3>
+<div class="outline-text-3" id="text-7-9">
+<p>
+Et demolientur excelsa idoli,  et sanctificationes Israël desolabuntur,  et consurgam super domum Jeroboam in gladio.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org93a397d" class="outline-3">
+<h3 id="org93a397d"><span class="section-number-3">7.10</span> Amos 7:10</h3>
+<div class="outline-text-3" id="text-7-10">
+<p>
+Et misit Amasias, sacerdos Bethel, ad Jeroboam, regem Israël, dicens : Rebellavit contra te Amos in medio domus Israël ; non poterit terra sustinere universos sermones ejus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfde7157" class="outline-3">
+<h3 id="orgfde7157"><span class="section-number-3">7.11</span> Amos 7:11</h3>
+<div class="outline-text-3" id="text-7-11">
+<p>
+Hæc enim dicit Amos : In gladio morietur Jeroboam, et Israël captivus migrabit de terra sua.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfd05495" class="outline-3">
+<h3 id="orgfd05495"><span class="section-number-3">7.12</span> Amos 7:12</h3>
+<div class="outline-text-3" id="text-7-12">
+<p>
+Et dixit Amasias ad Amos : Qui vides, gradere : fuge in terram Juda, et comede ibi panem, et prophetabis ibi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge9e6bb6" class="outline-3">
+<h3 id="orge9e6bb6"><span class="section-number-3">7.13</span> Amos 7:13</h3>
+<div class="outline-text-3" id="text-7-13">
+<p>
+Et in Bethel non adjicies ultra ut prophetes, quia sanctificatio regis est, et domus regni est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfd3d43a" class="outline-3">
+<h3 id="orgfd3d43a"><span class="section-number-3">7.14</span> Amos 7:14</h3>
+<div class="outline-text-3" id="text-7-14">
+<p>
+Responditque Amos, et dixit ad Amasiam : Non sum propheta, et non sum filius prophetæ : sed armentarius ego sum vellicans sycomoros.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbdeae1f" class="outline-3">
+<h3 id="orgbdeae1f"><span class="section-number-3">7.15</span> Amos 7:15</h3>
+<div class="outline-text-3" id="text-7-15">
+<p>
+Et tulit me Dominus cum sequerer gregem, et dixit Dominus ad me : Vade, propheta ad populum meum Israël.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda669ef" class="outline-3">
+<h3 id="orgda669ef"><span class="section-number-3">7.16</span> Amos 7:16</h3>
+<div class="outline-text-3" id="text-7-16">
+<p>
+Et nunc audi verbum Domini :  Tu dicis : Non prophetabis super Israël,  et non stillabis super domum idoli. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e1492a" class="outline-3">
+<h3 id="org9e1492a"><span class="section-number-3">7.17</span> Amos 7:17</h3>
+<div class="outline-text-3" id="text-7-17">
+<p>
+Propter hoc hæc dicit Dominus :  Uxor tua in civitate fornicabitur,  et filii tui et filiæ tuæ in gladio cadent,  et humus tua funiculo metietur :  et tu in terra polluta morieris,  et Israël captivus migrabit de terra sua.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org85f293f" class="outline-2">
+<h2 id="org85f293f"><span class="section-number-2">8</span> Amos 8</h2>
+<div class="outline-text-2" id="text-8">
+</div>
+<div id="outline-container-org289855d" class="outline-3">
+<h3 id="org289855d"><span class="section-number-3">8.1</span> Amos 8:1</h3>
+<div class="outline-text-3" id="text-8-1">
+<p>
+Hæc ostendit mihi Dominus Deus : et ecce uncinus pomorum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfec342b" class="outline-3">
+<h3 id="orgfec342b"><span class="section-number-3">8.2</span> Amos 8:2</h3>
+<div class="outline-text-3" id="text-8-2">
+<p>
+Et dixit : Quid tu vides, Amos ? Et dixi : Uncinum pomorum. Et dixit Dominus ad me :   Venit finis super populum meum Israël ;  non adjiciam ultra ut pertranseam eum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdf4118c" class="outline-3">
+<h3 id="orgdf4118c"><span class="section-number-3">8.3</span> Amos 8:3</h3>
+<div class="outline-text-3" id="text-8-3">
+<p>
+Et stridebunt cardines templi in die illa,  dicit Dominus Deus :  multi morientur ;  in omni loco projicietur silentium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org013ad64" class="outline-3">
+<h3 id="org013ad64"><span class="section-number-3">8.4</span> Amos 8:4</h3>
+<div class="outline-text-3" id="text-8-4">
+<p>
+Audite hoc, qui conteritis pauperem,  et deficere facitis egenos terræ, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org25451ba" class="outline-3">
+<h3 id="org25451ba"><span class="section-number-3">8.5</span> Amos 8:5</h3>
+<div class="outline-text-3" id="text-8-5">
+<p>
+dicentes : Quando transibit mensis,  et venundabimus merces ?  et sabbatum, et aperiemus frumentum,  ut imminuamus mensuram, et augeamus siclum,  et supponamus stateras dolosas, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge2904ae" class="outline-3">
+<h3 id="orge2904ae"><span class="section-number-3">8.6</span> Amos 8:6</h3>
+<div class="outline-text-3" id="text-8-6">
+<p>
+ut possideamus in argento egenos et pauperes pro calceamentis,  et quisquilias frumenti vendamus ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga709cf9" class="outline-3">
+<h3 id="orga709cf9"><span class="section-number-3">8.7</span> Amos 8:7</h3>
+<div class="outline-text-3" id="text-8-7">
+<p>
+Juravit Dominus in superbiam Jacob :  Si oblitus fuero usque ad finem omnia opera eorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org980f259" class="outline-3">
+<h3 id="org980f259"><span class="section-number-3">8.8</span> Amos 8:8</h3>
+<div class="outline-text-3" id="text-8-8">
+<p>
+Numquid super isto non commovebitur terra,  et lugebit omnis habitator ejus,  et ascendet quasi fluvius universus,  et ejicicetur, et defluet, quasi rivus Ægypti ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org119e3db" class="outline-3">
+<h3 id="org119e3db"><span class="section-number-3">8.9</span> Amos 8:9</h3>
+<div class="outline-text-3" id="text-8-9">
+<p>
+Et erit in die illa, dicit Dominus Deus :  occidet sol in meridie,  et tenebrescere faciam terram in die luminis : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7c59d73" class="outline-3">
+<h3 id="org7c59d73"><span class="section-number-3">8.10</span> Amos 8:10</h3>
+<div class="outline-text-3" id="text-8-10">
+<p>
+et convertam festivitates vestras in luctum,  et omnia cantica vestra in planctum,  et inducam super omne dorsum vestrum saccum,  et super omne caput calvitium :  et ponam eam quasi luctum unigeniti,  et novissima ejus quasi diem amarum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb8089ef" class="outline-3">
+<h3 id="orgb8089ef"><span class="section-number-3">8.11</span> Amos 8:11</h3>
+<div class="outline-text-3" id="text-8-11">
+<p>
+Ecce dies veniunt, dicet Dominus,  et mittam famem in terram :  non famem panis, neque sitim aquæ,  sed audiendi verbum Domini. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org83715c5" class="outline-3">
+<h3 id="org83715c5"><span class="section-number-3">8.12</span> Amos 8:12</h3>
+<div class="outline-text-3" id="text-8-12">
+<p>
+Et commovebuntur a mari usque ad mare,  et ab aquilone usque ad orientem :  circuibunt quærentes verbum Domini,  et non invenient. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga364268" class="outline-3">
+<h3 id="orga364268"><span class="section-number-3">8.13</span> Amos 8:13</h3>
+<div class="outline-text-3" id="text-8-13">
+<p>
+In die illa deficient virgines pulchræ et adolescentes in siti, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org97b4cb7" class="outline-3">
+<h3 id="org97b4cb7"><span class="section-number-3">8.14</span> Amos 8:14</h3>
+<div class="outline-text-3" id="text-8-14">
+<p>
+qui jurant in delicto Samariæ,  et dicunt : Vivit Deus tuus, Dan,  et vivit via Bersabee ;  et cadent, et non resurgent ultra.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org8949aa9" class="outline-2">
+<h2 id="org8949aa9"><span class="section-number-2">9</span> Amos 9</h2>
+<div class="outline-text-2" id="text-9">
+</div>
+<div id="outline-container-org9f3f446" class="outline-3">
+<h3 id="org9f3f446"><span class="section-number-3">9.1</span> Amos 9:1</h3>
+<div class="outline-text-3" id="text-9-1">
+<p>
+Vidi Dominum stantem super altare, et dixit :   Percute cardinem,  et commoveantur superliminaria :  avaritia enim in capite omnium,  et novissimum eorum in gladio interficiam ;  non erit fuga eis.  Fugient, et non salvabitur ex eis qui fugerit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe03da9" class="outline-3">
+<h3 id="orgfe03da9"><span class="section-number-3">9.2</span> Amos 9:2</h3>
+<div class="outline-text-3" id="text-9-2">
+<p>
+Si descenderint usque ad infernum,  inde manus mea educet eos ;  et si ascenderint usque in cælum,  inde detraham eos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgac8723c" class="outline-3">
+<h3 id="orgac8723c"><span class="section-number-3">9.3</span> Amos 9:3</h3>
+<div class="outline-text-3" id="text-9-3">
+<p>
+Et si absconditi fuerint in vertice Carmeli,  inde scrutans auferam eos ;  et si celaverint se ab oculis meis in profundo maris,  ibi mandabo serpenti, et mordebit eos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgddd4cef" class="outline-3">
+<h3 id="orgddd4cef"><span class="section-number-3">9.4</span> Amos 9:4</h3>
+<div class="outline-text-3" id="text-9-4">
+<p>
+Et si abierint in captivitatem coram inimicis suis,  ibi mandabo gladio, et occidet eos :  et ponam oculos meos super eos in malum,  et non in bonum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75e9569" class="outline-3">
+<h3 id="org75e9569"><span class="section-number-3">9.5</span> Amos 9:5</h3>
+<div class="outline-text-3" id="text-9-5">
+<p>
+Et Dominus Deus exercituum, qui tangit terram, et tabescet,  et lugebunt omnes habitantes in ea :  et ascendet sicut rivus omnis,  et defluet sicut fluvius Ægypti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org43a06b7" class="outline-3">
+<h3 id="org43a06b7"><span class="section-number-3">9.6</span> Amos 9:6</h3>
+<div class="outline-text-3" id="text-9-6">
+<p>
+Qui ædificat in cælo ascensionem suam,  et fasciculum suum super terram fundavit ;  qui vocat aquas maris,  et effundit eas super faciem terræ :  Dominus nomen ejus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org64f5925" class="outline-3">
+<h3 id="org64f5925"><span class="section-number-3">9.7</span> Amos 9:7</h3>
+<div class="outline-text-3" id="text-9-7">
+<p>
+Numquid non ut filii Æthiopum  vos estis mihi, filii Israël ? ait Dominus.  Numquid non Israël ascendere feci de terra Ægypti,  et Palæstinos de Cappadocia,  et Syros de Cyrene ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaf7e250" class="outline-3">
+<h3 id="orgaf7e250"><span class="section-number-3">9.8</span> Amos 9:8</h3>
+<div class="outline-text-3" id="text-9-8">
+<p>
+Ecce oculi Domini Dei super regnum peccans :  et conteram illud a facie terræ ;  verumtamen conterens non conteram domum Jacob,  dicit Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgee32468" class="outline-3">
+<h3 id="orgee32468"><span class="section-number-3">9.9</span> Amos 9:9</h3>
+<div class="outline-text-3" id="text-9-9">
+<p>
+Ecce enim mandabo ego,  et concutiam in omnibus gentibus domum Israël,  sicut concutitur triticum in cribro,  et non cadet lapillus super terram. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc3c50bb" class="outline-3">
+<h3 id="orgc3c50bb"><span class="section-number-3">9.10</span> Amos 9:10</h3>
+<div class="outline-text-3" id="text-9-10">
+<p>
+In gladio morientur omnes peccatores populi mei,  qui dicunt : Non appropinquabit,  et non veniet super nos malum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf445d3c" class="outline-3">
+<h3 id="orgf445d3c"><span class="section-number-3">9.11</span> Amos 9:11</h3>
+<div class="outline-text-3" id="text-9-11">
+<p>
+In die illa suscitabo tabernaculum David, quod cecidit :  et reædificabo aperturas murorum ejus,  et ea quæ corruerant instaurabo :  et reædificabo illud sicut in diebus antiquis, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf1dab56" class="outline-3">
+<h3 id="orgf1dab56"><span class="section-number-3">9.12</span> Amos 9:12</h3>
+<div class="outline-text-3" id="text-9-12">
+<p>
+ut possideant reliquias Idumææ, et omnes nationes :  eo quod invocatum sit nomen meum super eos,  dicit Dominus faciens hæc. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3d9943a" class="outline-3">
+<h3 id="org3d9943a"><span class="section-number-3">9.13</span> Amos 9:13</h3>
+<div class="outline-text-3" id="text-9-13">
+<p>
+Ecce dies veniunt, dicit Dominus,  et comprehendet arator messorem,  et calcator uvæ mittentem semen :  et stillabunt montes dulcedinem,  et omnes colli culti erunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2dc8bd2" class="outline-3">
+<h3 id="org2dc8bd2"><span class="section-number-3">9.14</span> Amos 9:14</h3>
+<div class="outline-text-3" id="text-9-14">
+<p>
+Et convertam captivitatem populi mei Israël ;  et ædificabunt civitates desertas, et inhabitabunt ;  et plantabunt vineas, et bibent vinum earum,  et facient hortos, et comedent fructus eorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org53badf8" class="outline-3">
+<h3 id="org53badf8"><span class="section-number-3">9.15</span> Amos 9:15</h3>
+<div class="outline-text-3" id="text-9-15">
+<p>
+Et plantabo eos super humum suam,  et non evellam eos ultra de terra sua, quam dedi eis,  dicit Dominus Deus tuus.    
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:37</p>
+</div>
+</body>
+</html>

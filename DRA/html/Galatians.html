@@ -1,0 +1,1784 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:37 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org0ecfe55">1. Galatians 1</a>
+<ul>
+<li><a href="#orgbcf8774">1.1. Galatians 1:1</a></li>
+<li><a href="#orgf59b1a4">1.2. Galatians 1:2</a></li>
+<li><a href="#orgfc13c92">1.3. Galatians 1:3</a></li>
+<li><a href="#org605399e">1.4. Galatians 1:4</a></li>
+<li><a href="#orgac80b4a">1.5. Galatians 1:5</a></li>
+<li><a href="#orgc3afe7f">1.6. Galatians 1:6</a></li>
+<li><a href="#orgfe57d16">1.7. Galatians 1:7</a></li>
+<li><a href="#org7e6ded5">1.8. Galatians 1:8</a></li>
+<li><a href="#orga487d4f">1.9. Galatians 1:9</a></li>
+<li><a href="#org9944b0f">1.10. Galatians 1:10</a></li>
+<li><a href="#org50bf94f">1.11. Galatians 1:11</a></li>
+<li><a href="#orgddb46de">1.12. Galatians 1:12</a></li>
+<li><a href="#orga13220b">1.13. Galatians 1:13</a></li>
+<li><a href="#orgd9efaf8">1.14. Galatians 1:14</a></li>
+<li><a href="#org14287f7">1.15. Galatians 1:15</a></li>
+<li><a href="#orgc7dac6e">1.16. Galatians 1:16</a></li>
+<li><a href="#org311aeb7">1.17. Galatians 1:17</a></li>
+<li><a href="#org9b0e31f">1.18. Galatians 1:18</a></li>
+<li><a href="#orga27a5e8">1.19. Galatians 1:19</a></li>
+<li><a href="#orgaa40e4e">1.20. Galatians 1:20</a></li>
+<li><a href="#org8f5a9ee">1.21. Galatians 1:21</a></li>
+<li><a href="#org9285616">1.22. Galatians 1:22</a></li>
+<li><a href="#org21d24b5">1.23. Galatians 1:23</a></li>
+<li><a href="#org8604a68">1.24. Galatians 1:24</a></li>
+</ul>
+</li>
+<li><a href="#org47b3e4f">2. Galatians 2</a>
+<ul>
+<li><a href="#orgbf76f46">2.1. Galatians 2:1</a></li>
+<li><a href="#org17e37fb">2.2. Galatians 2:2</a></li>
+<li><a href="#org5804147">2.3. Galatians 2:3</a></li>
+<li><a href="#orgaab010e">2.4. Galatians 2:4</a></li>
+<li><a href="#org0decb3c">2.5. Galatians 2:5</a></li>
+<li><a href="#orgbc2e783">2.6. Galatians 2:6</a></li>
+<li><a href="#org6fc8e00">2.7. Galatians 2:7</a></li>
+<li><a href="#org0c3f5c4">2.8. Galatians 2:8</a></li>
+<li><a href="#orgd64aac3">2.9. Galatians 2:9</a></li>
+<li><a href="#orga9bb188">2.10. Galatians 2:10</a></li>
+<li><a href="#orgb436057">2.11. Galatians 2:11</a></li>
+<li><a href="#org44d075a">2.12. Galatians 2:12</a></li>
+<li><a href="#org732de4b">2.13. Galatians 2:13</a></li>
+<li><a href="#org7bcf99f">2.14. Galatians 2:14</a></li>
+<li><a href="#org695b8df">2.15. Galatians 2:15</a></li>
+<li><a href="#org6a39480">2.16. Galatians 2:16</a></li>
+<li><a href="#org22eca52">2.17. Galatians 2:17</a></li>
+<li><a href="#org0407810">2.18. Galatians 2:18</a></li>
+<li><a href="#org3330030">2.19. Galatians 2:19</a></li>
+<li><a href="#orgf8373cc">2.20. Galatians 2:20</a></li>
+<li><a href="#org5d0a714">2.21. Galatians 2:21</a></li>
+</ul>
+</li>
+<li><a href="#org19ef763">3. Galatians 3</a>
+<ul>
+<li><a href="#org833b87d">3.1. Galatians 3:1</a></li>
+<li><a href="#org9fe1273">3.2. Galatians 3:2</a></li>
+<li><a href="#org9db6428">3.3. Galatians 3:3</a></li>
+<li><a href="#orgd743868">3.4. Galatians 3:4</a></li>
+<li><a href="#org50e8d80">3.5. Galatians 3:5</a></li>
+<li><a href="#orgac05587">3.6. Galatians 3:6</a></li>
+<li><a href="#org2ebd268">3.7. Galatians 3:7</a></li>
+<li><a href="#org940c2aa">3.8. Galatians 3:8</a></li>
+<li><a href="#orgc840a6f">3.9. Galatians 3:9</a></li>
+<li><a href="#org190e98e">3.10. Galatians 3:10</a></li>
+<li><a href="#orgd7601a7">3.11. Galatians 3:11</a></li>
+<li><a href="#orgb39498d">3.12. Galatians 3:12</a></li>
+<li><a href="#orgbb989a2">3.13. Galatians 3:13</a></li>
+<li><a href="#orgfcecd6f">3.14. Galatians 3:14</a></li>
+<li><a href="#orgd9d499c">3.15. Galatians 3:15</a></li>
+<li><a href="#org6dac98a">3.16. Galatians 3:16</a></li>
+<li><a href="#org1e68364">3.17. Galatians 3:17</a></li>
+<li><a href="#org16a639f">3.18. Galatians 3:18</a></li>
+<li><a href="#orgfb75ceb">3.19. Galatians 3:19</a></li>
+<li><a href="#orgad2b70b">3.20. Galatians 3:20</a></li>
+<li><a href="#org6dfd6a2">3.21. Galatians 3:21</a></li>
+<li><a href="#org29899a0">3.22. Galatians 3:22</a></li>
+<li><a href="#orgcc2df62">3.23. Galatians 3:23</a></li>
+<li><a href="#org8aebeff">3.24. Galatians 3:24</a></li>
+<li><a href="#org8fae71d">3.25. Galatians 3:25</a></li>
+<li><a href="#orge73949a">3.26. Galatians 3:26</a></li>
+<li><a href="#orgbdb6b33">3.27. Galatians 3:27</a></li>
+<li><a href="#org525e037">3.28. Galatians 3:28</a></li>
+<li><a href="#orgb63d1b0">3.29. Galatians 3:29</a></li>
+</ul>
+</li>
+<li><a href="#org7c08d83">4. Galatians 4</a>
+<ul>
+<li><a href="#orgc431188">4.1. Galatians 4:1</a></li>
+<li><a href="#org40afaf5">4.2. Galatians 4:2</a></li>
+<li><a href="#org587906f">4.3. Galatians 4:3</a></li>
+<li><a href="#org369aa28">4.4. Galatians 4:4</a></li>
+<li><a href="#org2038a9f">4.5. Galatians 4:5</a></li>
+<li><a href="#orgbf7e498">4.6. Galatians 4:6</a></li>
+<li><a href="#orgcd46eb9">4.7. Galatians 4:7</a></li>
+<li><a href="#orgdfef41b">4.8. Galatians 4:8</a></li>
+<li><a href="#org782885f">4.9. Galatians 4:9</a></li>
+<li><a href="#org9d57bfa">4.10. Galatians 4:10</a></li>
+<li><a href="#orgd4e664a">4.11. Galatians 4:11</a></li>
+<li><a href="#orgbefc9a2">4.12. Galatians 4:12</a></li>
+<li><a href="#org19fb822">4.13. Galatians 4:13</a></li>
+<li><a href="#org95eccc1">4.14. Galatians 4:14</a></li>
+<li><a href="#orgff2c629">4.15. Galatians 4:15</a></li>
+<li><a href="#org86ae12f">4.16. Galatians 4:16</a></li>
+<li><a href="#org639e007">4.17. Galatians 4:17</a></li>
+<li><a href="#org6926657">4.18. Galatians 4:18</a></li>
+<li><a href="#org3ea6c5c">4.19. Galatians 4:19</a></li>
+<li><a href="#org0516c9d">4.20. Galatians 4:20</a></li>
+<li><a href="#org5ac9ce1">4.21. Galatians 4:21</a></li>
+<li><a href="#org59e772a">4.22. Galatians 4:22</a></li>
+<li><a href="#orgf763c57">4.23. Galatians 4:23</a></li>
+<li><a href="#orga1d10f6">4.24. Galatians 4:24</a></li>
+<li><a href="#org2ecd172">4.25. Galatians 4:25</a></li>
+<li><a href="#org7845f8a">4.26. Galatians 4:26</a></li>
+<li><a href="#orga4d082c">4.27. Galatians 4:27</a></li>
+<li><a href="#org181aa6b">4.28. Galatians 4:28</a></li>
+<li><a href="#org463015f">4.29. Galatians 4:29</a></li>
+<li><a href="#org0e1a9f0">4.30. Galatians 4:30</a></li>
+<li><a href="#org16c3781">4.31. Galatians 4:31</a></li>
+</ul>
+</li>
+<li><a href="#orgdb7c8c3">5. Galatians 5</a>
+<ul>
+<li><a href="#org4519611">5.1. Galatians 5:1</a></li>
+<li><a href="#org29f9d5b">5.2. Galatians 5:2</a></li>
+<li><a href="#org594671e">5.3. Galatians 5:3</a></li>
+<li><a href="#org02dc30c">5.4. Galatians 5:4</a></li>
+<li><a href="#orga1afbff">5.5. Galatians 5:5</a></li>
+<li><a href="#org8079f77">5.6. Galatians 5:6</a></li>
+<li><a href="#org0ef3746">5.7. Galatians 5:7</a></li>
+<li><a href="#orgc41fd0f">5.8. Galatians 5:8</a></li>
+<li><a href="#orgb3c6560">5.9. Galatians 5:9</a></li>
+<li><a href="#org19253e4">5.10. Galatians 5:10</a></li>
+<li><a href="#org8643893">5.11. Galatians 5:11</a></li>
+<li><a href="#orgb773d8a">5.12. Galatians 5:12</a></li>
+<li><a href="#orgf4e2b90">5.13. Galatians 5:13</a></li>
+<li><a href="#orga6c7cf2">5.14. Galatians 5:14</a></li>
+<li><a href="#org357e311">5.15. Galatians 5:15</a></li>
+<li><a href="#orgd47a5b3">5.16. Galatians 5:16</a></li>
+<li><a href="#orgeff251a">5.17. Galatians 5:17</a></li>
+<li><a href="#org80d37ab">5.18. Galatians 5:18</a></li>
+<li><a href="#org88cc2a0">5.19. Galatians 5:19</a></li>
+<li><a href="#org174299a">5.20. Galatians 5:20</a></li>
+<li><a href="#orgeaa46a4">5.21. Galatians 5:21</a></li>
+<li><a href="#org2429da7">5.22. Galatians 5:22</a></li>
+<li><a href="#orgf024d2c">5.23. Galatians 5:23</a></li>
+<li><a href="#orgf18f95b">5.24. Galatians 5:24</a></li>
+<li><a href="#orgcc78434">5.25. Galatians 5:25</a></li>
+<li><a href="#orge801a59">5.26. Galatians 5:26</a></li>
+</ul>
+</li>
+<li><a href="#org8a1c5bd">6. Galatians 6</a>
+<ul>
+<li><a href="#orgadeae3d">6.1. Galatians 6:1</a></li>
+<li><a href="#org0fd4a2c">6.2. Galatians 6:2</a></li>
+<li><a href="#orgb87f164">6.3. Galatians 6:3</a></li>
+<li><a href="#org819a437">6.4. Galatians 6:4</a></li>
+<li><a href="#org6031ac1">6.5. Galatians 6:5</a></li>
+<li><a href="#org5872cbd">6.6. Galatians 6:6</a></li>
+<li><a href="#orgbb3d94d">6.7. Galatians 6:7</a></li>
+<li><a href="#orga030e7e">6.8. Galatians 6:8</a></li>
+<li><a href="#org593f600">6.9. Galatians 6:9</a></li>
+<li><a href="#orgdfe928e">6.10. Galatians 6:10</a></li>
+<li><a href="#org1ac6a65">6.11. Galatians 6:11</a></li>
+<li><a href="#org3570a40">6.12. Galatians 6:12</a></li>
+<li><a href="#orgf4556ca">6.13. Galatians 6:13</a></li>
+<li><a href="#org81623d1">6.14. Galatians 6:14</a></li>
+<li><a href="#org7ae0d3c">6.15. Galatians 6:15</a></li>
+<li><a href="#org9e82e45">6.16. Galatians 6:16</a></li>
+<li><a href="#orgc26c9be">6.17. Galatians 6:17</a></li>
+<li><a href="#org1128f32">6.18. Galatians 6:18</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org0ecfe55" class="outline-2">
+<h2 id="org0ecfe55"><span class="section-number-2">1</span> Galatians 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgbcf8774" class="outline-3">
+<h3 id="orgbcf8774"><span class="section-number-3">1.1</span> Galatians 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Paul, an apostle, not of men, neither by man, but by Jesus Christ and God the Father, who raised him from the dead:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf59b1a4" class="outline-3">
+<h3 id="orgf59b1a4"><span class="section-number-3">1.2</span> Galatians 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+And all the brethren who are with me: to the churches of Galatia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc13c92" class="outline-3">
+<h3 id="orgfc13c92"><span class="section-number-3">1.3</span> Galatians 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Grace be to you, and peace from God the Father and from our Lord Jesus Christ,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org605399e" class="outline-3">
+<h3 id="org605399e"><span class="section-number-3">1.4</span> Galatians 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Who gave himself for our sins, that he might deliver us from this present wicked world, according to the will of God and our Father:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgac80b4a" class="outline-3">
+<h3 id="orgac80b4a"><span class="section-number-3">1.5</span> Galatians 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+To whom is glory for ever and ever. Amen.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc3afe7f" class="outline-3">
+<h3 id="orgc3afe7f"><span class="section-number-3">1.6</span> Galatians 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+I wonder that you are so soon removed from him that called you into the grace of Christ, unto another gospel.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe57d16" class="outline-3">
+<h3 id="orgfe57d16"><span class="section-number-3">1.7</span> Galatians 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+Which is not another: only there are some that trouble you and would pervert the gospel of Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7e6ded5" class="outline-3">
+<h3 id="org7e6ded5"><span class="section-number-3">1.8</span> Galatians 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+But though we, or an angel from heaven, preach a gospel to you besides that which we have preached to you, let him be anathema.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga487d4f" class="outline-3">
+<h3 id="orga487d4f"><span class="section-number-3">1.9</span> Galatians 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+As we said before, so now I say again: If any one preach to you a gospel, besides that which you have received, let him be anathema.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9944b0f" class="outline-3">
+<h3 id="org9944b0f"><span class="section-number-3">1.10</span> Galatians 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+For do I now persuade men, or God? Or do I seek to please men? If I yet pleased men, I should not be the servant of Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org50bf94f" class="outline-3">
+<h3 id="org50bf94f"><span class="section-number-3">1.11</span> Galatians 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+For I give you to understand, brethren, that the gospel which was preached by me is not according to man.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgddb46de" class="outline-3">
+<h3 id="orgddb46de"><span class="section-number-3">1.12</span> Galatians 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+For neither did I receive it of man: nor did I learn it but by the revelation of Jesus Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga13220b" class="outline-3">
+<h3 id="orga13220b"><span class="section-number-3">1.13</span> Galatians 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+For you have heard of my conversation in time past in the Jews&rsquo; religion: how that, beyond measure, I persecuted the church of God and wasted it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd9efaf8" class="outline-3">
+<h3 id="orgd9efaf8"><span class="section-number-3">1.14</span> Galatians 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+And I made progress in the Jew&rsquo;s religion above many of my equals in my own nation, being more abundantly zealous for the traditions of my fathers.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org14287f7" class="outline-3">
+<h3 id="org14287f7"><span class="section-number-3">1.15</span> Galatians 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+But when it pleased him who separated me from my mother&rsquo;s womb and called me by his grace,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc7dac6e" class="outline-3">
+<h3 id="orgc7dac6e"><span class="section-number-3">1.16</span> Galatians 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+To reveal his Son in me, that I might preach him among the Gentiles: immediately I condescended not to flesh and blood.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org311aeb7" class="outline-3">
+<h3 id="org311aeb7"><span class="section-number-3">1.17</span> Galatians 1:17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+Neither went I to Jerusalem, to the apostles who were before me: but I went into Arabia, and again I returned to Damascus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9b0e31f" class="outline-3">
+<h3 id="org9b0e31f"><span class="section-number-3">1.18</span> Galatians 1:18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+Then, after three years, I went to Jerusalem to see Peter: and I tarried with him fifteen days.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga27a5e8" class="outline-3">
+<h3 id="orga27a5e8"><span class="section-number-3">1.19</span> Galatians 1:19</h3>
+<div class="outline-text-3" id="text-1-19">
+<p>
+But other of the apostles I saw none, saving James the brother of the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaa40e4e" class="outline-3">
+<h3 id="orgaa40e4e"><span class="section-number-3">1.20</span> Galatians 1:20</h3>
+<div class="outline-text-3" id="text-1-20">
+<p>
+Now the things which I write to you, behold, before God, I lie not.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8f5a9ee" class="outline-3">
+<h3 id="org8f5a9ee"><span class="section-number-3">1.21</span> Galatians 1:21</h3>
+<div class="outline-text-3" id="text-1-21">
+<p>
+Afterwards, I came into the regions of Syria and Cilicia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9285616" class="outline-3">
+<h3 id="org9285616"><span class="section-number-3">1.22</span> Galatians 1:22</h3>
+<div class="outline-text-3" id="text-1-22">
+<p>
+And I was unknown by face to the churches of Judea, which were in Christ:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org21d24b5" class="outline-3">
+<h3 id="org21d24b5"><span class="section-number-3">1.23</span> Galatians 1:23</h3>
+<div class="outline-text-3" id="text-1-23">
+<p>
+But they had heard only: He, who persecuted us in times past doth now preach the faith which once he impugned.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8604a68" class="outline-3">
+<h3 id="org8604a68"><span class="section-number-3">1.24</span> Galatians 1:24</h3>
+<div class="outline-text-3" id="text-1-24">
+<p>
+And they glorified God in me. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org47b3e4f" class="outline-2">
+<h2 id="org47b3e4f"><span class="section-number-2">2</span> Galatians 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-orgbf76f46" class="outline-3">
+<h3 id="orgbf76f46"><span class="section-number-3">2.1</span> Galatians 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Then, after fourteen years, I went up again to Jerusalem with Barnabas, taking Titus also with me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org17e37fb" class="outline-3">
+<h3 id="org17e37fb"><span class="section-number-3">2.2</span> Galatians 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+And I went up according to revelation and communicated to them the gospel which I preach among the Gentiles: but apart to them who seemed to be some thing: lest perhaps I should run or had run in vain.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5804147" class="outline-3">
+<h3 id="org5804147"><span class="section-number-3">2.3</span> Galatians 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+But neither Titus, who was with me, being a Gentile, was compelled to be circumcised.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaab010e" class="outline-3">
+<h3 id="orgaab010e"><span class="section-number-3">2.4</span> Galatians 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+But because of false brethren unawares brought in, who came in privately to spy our liberty which we have in Christ Jesus, that they might bring us into servitude.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0decb3c" class="outline-3">
+<h3 id="org0decb3c"><span class="section-number-3">2.5</span> Galatians 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+To whom we yielded not by subjection: no, not for an hour: that the truth of the gospel might continue with you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbc2e783" class="outline-3">
+<h3 id="orgbc2e783"><span class="section-number-3">2.6</span> Galatians 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+But of them who seemed to be some thing, (what they were some time it is nothing to me, God accepteth not the person of man): for to me they that seemed to be some thing added nothing.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6fc8e00" class="outline-3">
+<h3 id="org6fc8e00"><span class="section-number-3">2.7</span> Galatians 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+But contrariwise, when they had seen that to me was committed the gospel of the uncircumcision, as to Peter was that of the circumcision.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0c3f5c4" class="outline-3">
+<h3 id="org0c3f5c4"><span class="section-number-3">2.8</span> Galatians 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+(For he who wrought in Peter to the apostleship of the circumcision wrought in me also among the Gentiles.)
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd64aac3" class="outline-3">
+<h3 id="orgd64aac3"><span class="section-number-3">2.9</span> Galatians 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+And when they had known the grace that was given to me, James and Cephas and John, who seemed to be pillars, gave to me and Barnabas the right hands of fellowship: that we should go unto the Gentiles, and they unto the circumcision:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga9bb188" class="outline-3">
+<h3 id="orga9bb188"><span class="section-number-3">2.10</span> Galatians 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+Only that we should be mindful of the poor: which same thing also I was careful to do.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb436057" class="outline-3">
+<h3 id="orgb436057"><span class="section-number-3">2.11</span> Galatians 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+But when Cephas was come to Antioch, I withstood him to the face, because he was to be blamed.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org44d075a" class="outline-3">
+<h3 id="org44d075a"><span class="section-number-3">2.12</span> Galatians 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+For before that some came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them who were of the circumcision.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org732de4b" class="outline-3">
+<h3 id="org732de4b"><span class="section-number-3">2.13</span> Galatians 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+And to his dissimulation the rest of the Jews consented: so that Barnabas also was led by them into that dissimulation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7bcf99f" class="outline-3">
+<h3 id="org7bcf99f"><span class="section-number-3">2.14</span> Galatians 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+But when I saw that they walked not uprightly unto the truth of the gospel, I said to Cephas before them all: If thou, being a Jew, livest after the manner of the Gentiles and not as the Jews do, how dost thou compel the Gentiles to live as do the Jews?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org695b8df" class="outline-3">
+<h3 id="org695b8df"><span class="section-number-3">2.15</span> Galatians 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+We by nature are Jews: and not of the Gentiles, sinners.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6a39480" class="outline-3">
+<h3 id="org6a39480"><span class="section-number-3">2.16</span> Galatians 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+But knowing that man is not justified by the works of the law, but by the faith of Jesus Christ, we also believe in Christ Jesus, that we may be justified by the faith of Christ and not by the works of the law: because by the works of the law no flesh shall be justified.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org22eca52" class="outline-3">
+<h3 id="org22eca52"><span class="section-number-3">2.17</span> Galatians 2:17</h3>
+<div class="outline-text-3" id="text-2-17">
+<p>
+But if, while we seek to be justified in Christ, we ourselves also are found sinners, is Christ then the minister of sin? God forbid!
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0407810" class="outline-3">
+<h3 id="org0407810"><span class="section-number-3">2.18</span> Galatians 2:18</h3>
+<div class="outline-text-3" id="text-2-18">
+<p>
+For if I build up again the things which I have destroyed, I make myself a prevaricator.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3330030" class="outline-3">
+<h3 id="org3330030"><span class="section-number-3">2.19</span> Galatians 2:19</h3>
+<div class="outline-text-3" id="text-2-19">
+<p>
+For I, through the law, am dead to the law, that I may live to God; with Christ I am nailed to the cross.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf8373cc" class="outline-3">
+<h3 id="orgf8373cc"><span class="section-number-3">2.20</span> Galatians 2:20</h3>
+<div class="outline-text-3" id="text-2-20">
+<p>
+And I live, now not I: but Christ liveth in me. And that I live now in the flesh: I live in the faith of the Son of God, who loved me and delivered himself for me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5d0a714" class="outline-3">
+<h3 id="org5d0a714"><span class="section-number-3">2.21</span> Galatians 2:21</h3>
+<div class="outline-text-3" id="text-2-21">
+<p>
+I cast not away the grace of God. For if justice be by the law, then Christ died in vain. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org19ef763" class="outline-2">
+<h2 id="org19ef763"><span class="section-number-2">3</span> Galatians 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org833b87d" class="outline-3">
+<h3 id="org833b87d"><span class="section-number-3">3.1</span> Galatians 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+O senseless Galatians, who hath bewitched you that you should not obey the truth: before whose eyes Jesus Christ hath been set forth, crucified among you?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9fe1273" class="outline-3">
+<h3 id="org9fe1273"><span class="section-number-3">3.2</span> Galatians 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+This only would I learn of you: Did you receive the Spirit by the works of the law or by the hearing of faith?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9db6428" class="outline-3">
+<h3 id="org9db6428"><span class="section-number-3">3.3</span> Galatians 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+Are you so foolish that, whereas you began in the Spirit, you would now be made perfect by the flesh?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd743868" class="outline-3">
+<h3 id="orgd743868"><span class="section-number-3">3.4</span> Galatians 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+Have you suffered so great things in vain? If it be yet in vain.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org50e8d80" class="outline-3">
+<h3 id="org50e8d80"><span class="section-number-3">3.5</span> Galatians 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+He therefore who giveth to you the Spirit and worketh miracles among you: doth he do it by the works of the law or by the hearing of the faith?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgac05587" class="outline-3">
+<h3 id="orgac05587"><span class="section-number-3">3.6</span> Galatians 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+As it is written: Abraham believed God: and it was reputed to him unto justice.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2ebd268" class="outline-3">
+<h3 id="org2ebd268"><span class="section-number-3">3.7</span> Galatians 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+Know ye, therefore, that they who are of faith, the same are the children of Abraham.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org940c2aa" class="outline-3">
+<h3 id="org940c2aa"><span class="section-number-3">3.8</span> Galatians 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+And the scripture, foreseeing that God justifieth the Gentiles by faith, told unto Abraham before: In thee shall all nations be blessed.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc840a6f" class="outline-3">
+<h3 id="orgc840a6f"><span class="section-number-3">3.9</span> Galatians 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+Therefore, they that are of faith shall be blessed with faithful Abraham.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org190e98e" class="outline-3">
+<h3 id="org190e98e"><span class="section-number-3">3.10</span> Galatians 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+For as many as are of the works of the law are under a curse. For it is written: Cursed is every one that abideth, not in all things which are written in the book of the law to do them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd7601a7" class="outline-3">
+<h3 id="orgd7601a7"><span class="section-number-3">3.11</span> Galatians 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+But that in the law no man is justified with God, it is manifest: because the just man liveth by faith.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb39498d" class="outline-3">
+<h3 id="orgb39498d"><span class="section-number-3">3.12</span> Galatians 3:12</h3>
+<div class="outline-text-3" id="text-3-12">
+<p>
+But the law is not of faith: but he that doth those things shall live in them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbb989a2" class="outline-3">
+<h3 id="orgbb989a2"><span class="section-number-3">3.13</span> Galatians 3:13</h3>
+<div class="outline-text-3" id="text-3-13">
+<p>
+Christ hath redeemed us from the curse of the law, being made a curse for us (for it is written: Cursed is every one that hangeth on a tree).
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfcecd6f" class="outline-3">
+<h3 id="orgfcecd6f"><span class="section-number-3">3.14</span> Galatians 3:14</h3>
+<div class="outline-text-3" id="text-3-14">
+<p>
+That the blessing of Abraham might come on the Gentiles through Christ Jesus: that we may receive the promise of the Spirit by faith.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd9d499c" class="outline-3">
+<h3 id="orgd9d499c"><span class="section-number-3">3.15</span> Galatians 3:15</h3>
+<div class="outline-text-3" id="text-3-15">
+<p>
+Brethren (I speak after the manner of man), yet a man&rsquo;s testament, if it be confirmed, no man despiseth nor addeth to it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6dac98a" class="outline-3">
+<h3 id="org6dac98a"><span class="section-number-3">3.16</span> Galatians 3:16</h3>
+<div class="outline-text-3" id="text-3-16">
+<p>
+To Abraham were the promises made and to his seed. He saith not: And to his seeds as of many. But as of one: And to thy seed, which is Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1e68364" class="outline-3">
+<h3 id="org1e68364"><span class="section-number-3">3.17</span> Galatians 3:17</h3>
+<div class="outline-text-3" id="text-3-17">
+<p>
+Now this I say: that the testament which was confirmed by God, the law which was made after four hundred and thirty years doth not disannul, to make the promise of no effect.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org16a639f" class="outline-3">
+<h3 id="org16a639f"><span class="section-number-3">3.18</span> Galatians 3:18</h3>
+<div class="outline-text-3" id="text-3-18">
+<p>
+For if the inheritance be of the law, it is no more of promise. But God gave it to Abraham by promise.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb75ceb" class="outline-3">
+<h3 id="orgfb75ceb"><span class="section-number-3">3.19</span> Galatians 3:19</h3>
+<div class="outline-text-3" id="text-3-19">
+<p>
+Why then was the law? It was set because of transgressions, until the seed should come to whom he made the promise, being ordained by angels in the hand of a mediator.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgad2b70b" class="outline-3">
+<h3 id="orgad2b70b"><span class="section-number-3">3.20</span> Galatians 3:20</h3>
+<div class="outline-text-3" id="text-3-20">
+<p>
+Now a mediator is not of one: but God is one.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6dfd6a2" class="outline-3">
+<h3 id="org6dfd6a2"><span class="section-number-3">3.21</span> Galatians 3:21</h3>
+<div class="outline-text-3" id="text-3-21">
+<p>
+Was the law then against the promises of God: God forbid! For if there had been a law given which could give life, verily justice should have been by the law.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org29899a0" class="outline-3">
+<h3 id="org29899a0"><span class="section-number-3">3.22</span> Galatians 3:22</h3>
+<div class="outline-text-3" id="text-3-22">
+<p>
+But the scripture hath concluded all under sin, that the promise, by the faith of Jesus Christ, might be given to them that believe.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcc2df62" class="outline-3">
+<h3 id="orgcc2df62"><span class="section-number-3">3.23</span> Galatians 3:23</h3>
+<div class="outline-text-3" id="text-3-23">
+<p>
+But before the faith came, we were kept under the law shut up, unto that faith which was to be revealed.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8aebeff" class="outline-3">
+<h3 id="org8aebeff"><span class="section-number-3">3.24</span> Galatians 3:24</h3>
+<div class="outline-text-3" id="text-3-24">
+<p>
+Wherefore the law was our pedagogue in Christ: that we might be justified by faith.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8fae71d" class="outline-3">
+<h3 id="org8fae71d"><span class="section-number-3">3.25</span> Galatians 3:25</h3>
+<div class="outline-text-3" id="text-3-25">
+<p>
+But after the faith is come, we are no longer under a pedagogue.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge73949a" class="outline-3">
+<h3 id="orge73949a"><span class="section-number-3">3.26</span> Galatians 3:26</h3>
+<div class="outline-text-3" id="text-3-26">
+<p>
+For you are all the children of God, by faith in Christ Jesus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbdb6b33" class="outline-3">
+<h3 id="orgbdb6b33"><span class="section-number-3">3.27</span> Galatians 3:27</h3>
+<div class="outline-text-3" id="text-3-27">
+<p>
+For as many of you as have been baptized in Christ have put on Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org525e037" class="outline-3">
+<h3 id="org525e037"><span class="section-number-3">3.28</span> Galatians 3:28</h3>
+<div class="outline-text-3" id="text-3-28">
+<p>
+There is neither Jew nor Greek: there is neither bond nor free: there is neither male nor female. For you are all one in Christ Jesus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb63d1b0" class="outline-3">
+<h3 id="orgb63d1b0"><span class="section-number-3">3.29</span> Galatians 3:29</h3>
+<div class="outline-text-3" id="text-3-29">
+<p>
+And if you be Christ&rsquo;s, then are you the seed of Abraham, heirs according to the promise. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org7c08d83" class="outline-2">
+<h2 id="org7c08d83"><span class="section-number-2">4</span> Galatians 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-orgc431188" class="outline-3">
+<h3 id="orgc431188"><span class="section-number-3">4.1</span> Galatians 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+As long as the heir is a child, he differeth nothing from a servant, though he be lord of all,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org40afaf5" class="outline-3">
+<h3 id="org40afaf5"><span class="section-number-3">4.2</span> Galatians 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+But is under tutors and governors until the time appointed by the father.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org587906f" class="outline-3">
+<h3 id="org587906f"><span class="section-number-3">4.3</span> Galatians 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+So we also, when we were children, were serving under the elements of the world.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org369aa28" class="outline-3">
+<h3 id="org369aa28"><span class="section-number-3">4.4</span> Galatians 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+But when the fulness of the time was come, God sent his Son, made of a woman, made under the law:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2038a9f" class="outline-3">
+<h3 id="org2038a9f"><span class="section-number-3">4.5</span> Galatians 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+That he might redeem them who were under the law: that we might receive the adoption of sons.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbf7e498" class="outline-3">
+<h3 id="orgbf7e498"><span class="section-number-3">4.6</span> Galatians 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+And because you are sons, God hath sent the Spirit of his Son into your hearts, crying: Abba, Father.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcd46eb9" class="outline-3">
+<h3 id="orgcd46eb9"><span class="section-number-3">4.7</span> Galatians 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+Therefore, now he is not a servant, but a son. And if a son, an heir also through God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdfef41b" class="outline-3">
+<h3 id="orgdfef41b"><span class="section-number-3">4.8</span> Galatians 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+But then indeed, not knowing God, you served them who, by nature, are not gods.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org782885f" class="outline-3">
+<h3 id="org782885f"><span class="section-number-3">4.9</span> Galatians 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+But now, after that you have known God, or rather are known by God: how turn you again to the weak and needy elements which you desire to serve again?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9d57bfa" class="outline-3">
+<h3 id="org9d57bfa"><span class="section-number-3">4.10</span> Galatians 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+You observe days and months and times, and years.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd4e664a" class="outline-3">
+<h3 id="orgd4e664a"><span class="section-number-3">4.11</span> Galatians 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+I am afraid of you, lest perhaps I have laboured in vain among you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbefc9a2" class="outline-3">
+<h3 id="orgbefc9a2"><span class="section-number-3">4.12</span> Galatians 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+Be ye as I, because I also am as you brethren, I beseech you. You have not injured me at all.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org19fb822" class="outline-3">
+<h3 id="org19fb822"><span class="section-number-3">4.13</span> Galatians 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+And you know how, through infirmity of the flesh, I preached the gospel to you heretofore: and your temptation in my flesh
+</p>
+</div>
+</div>
+
+<div id="outline-container-org95eccc1" class="outline-3">
+<h3 id="org95eccc1"><span class="section-number-3">4.14</span> Galatians 4:14</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+You despised not, nor rejected: but received me as an angel of God, even as Christ Jesus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgff2c629" class="outline-3">
+<h3 id="orgff2c629"><span class="section-number-3">4.15</span> Galatians 4:15</h3>
+<div class="outline-text-3" id="text-4-15">
+<p>
+Where is then your blessedness? For I bear you witness that, if it could be done, you would have plucked out your own eyes and would have given them to me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org86ae12f" class="outline-3">
+<h3 id="org86ae12f"><span class="section-number-3">4.16</span> Galatians 4:16</h3>
+<div class="outline-text-3" id="text-4-16">
+<p>
+Am I then become your enemy, because I tell you the truth?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org639e007" class="outline-3">
+<h3 id="org639e007"><span class="section-number-3">4.17</span> Galatians 4:17</h3>
+<div class="outline-text-3" id="text-4-17">
+<p>
+They are zealous in your regard not well: but they would exclude you, that you might be zealous for them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6926657" class="outline-3">
+<h3 id="org6926657"><span class="section-number-3">4.18</span> Galatians 4:18</h3>
+<div class="outline-text-3" id="text-4-18">
+<p>
+But be zealous for that which is good in a good thing always: and not only when I am present with you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3ea6c5c" class="outline-3">
+<h3 id="org3ea6c5c"><span class="section-number-3">4.19</span> Galatians 4:19</h3>
+<div class="outline-text-3" id="text-4-19">
+<p>
+My little children, of whom I am in labour again, until Christ be formed in you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0516c9d" class="outline-3">
+<h3 id="org0516c9d"><span class="section-number-3">4.20</span> Galatians 4:20</h3>
+<div class="outline-text-3" id="text-4-20">
+<p>
+And I would willingly be present with you now and change my voice: because I am ashamed for you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5ac9ce1" class="outline-3">
+<h3 id="org5ac9ce1"><span class="section-number-3">4.21</span> Galatians 4:21</h3>
+<div class="outline-text-3" id="text-4-21">
+<p>
+Tell me, you that desire to be under the law, have you not read the law?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org59e772a" class="outline-3">
+<h3 id="org59e772a"><span class="section-number-3">4.22</span> Galatians 4:22</h3>
+<div class="outline-text-3" id="text-4-22">
+<p>
+For it is written that Abraham had two sons: the one by a bondwoman and the other by a free woman.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf763c57" class="outline-3">
+<h3 id="orgf763c57"><span class="section-number-3">4.23</span> Galatians 4:23</h3>
+<div class="outline-text-3" id="text-4-23">
+<p>
+But he who was of the bondwoman was born according to the flesh: but he of the free woman was by promise.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga1d10f6" class="outline-3">
+<h3 id="orga1d10f6"><span class="section-number-3">4.24</span> Galatians 4:24</h3>
+<div class="outline-text-3" id="text-4-24">
+<p>
+Which things are said by an allegory. For these are the two testaments. The one from Mount Sina, engendering unto bondage, which is Agar.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2ecd172" class="outline-3">
+<h3 id="org2ecd172"><span class="section-number-3">4.25</span> Galatians 4:25</h3>
+<div class="outline-text-3" id="text-4-25">
+<p>
+For Sina is a mountain in Arabia, which hath affinity to that Jerusalem which now is: and is in bondage with her children.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7845f8a" class="outline-3">
+<h3 id="org7845f8a"><span class="section-number-3">4.26</span> Galatians 4:26</h3>
+<div class="outline-text-3" id="text-4-26">
+<p>
+But that Jerusalem which is above is free: which is our mother.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga4d082c" class="outline-3">
+<h3 id="orga4d082c"><span class="section-number-3">4.27</span> Galatians 4:27</h3>
+<div class="outline-text-3" id="text-4-27">
+<p>
+For it is written: Rejoice, thou barren, that bearest not: break forth and cry thou that travailest not: for many are the children of the desolate, more than of her that hath a husband.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org181aa6b" class="outline-3">
+<h3 id="org181aa6b"><span class="section-number-3">4.28</span> Galatians 4:28</h3>
+<div class="outline-text-3" id="text-4-28">
+<p>
+Now we, brethren, as Isaac was, are the children of promise.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org463015f" class="outline-3">
+<h3 id="org463015f"><span class="section-number-3">4.29</span> Galatians 4:29</h3>
+<div class="outline-text-3" id="text-4-29">
+<p>
+But as then he that was born according to the flesh persecuted him that was after the spirit: so also it is now.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0e1a9f0" class="outline-3">
+<h3 id="org0e1a9f0"><span class="section-number-3">4.30</span> Galatians 4:30</h3>
+<div class="outline-text-3" id="text-4-30">
+<p>
+But what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the free woman.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org16c3781" class="outline-3">
+<h3 id="org16c3781"><span class="section-number-3">4.31</span> Galatians 4:31</h3>
+<div class="outline-text-3" id="text-4-31">
+<p>
+So then, brethren, we are not the children of the bondwoman but of the free: by the freedom wherewith Christ has made us free. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgdb7c8c3" class="outline-2">
+<h2 id="orgdb7c8c3"><span class="section-number-2">5</span> Galatians 5</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org4519611" class="outline-3">
+<h3 id="org4519611"><span class="section-number-3">5.1</span> Galatians 5:1</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Stand fast and be not held again under the yoke of bondage.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org29f9d5b" class="outline-3">
+<h3 id="org29f9d5b"><span class="section-number-3">5.2</span> Galatians 5:2</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Behold, I Paul tell you, that if you be circumcised, Christ shall profit you nothing.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org594671e" class="outline-3">
+<h3 id="org594671e"><span class="section-number-3">5.3</span> Galatians 5:3</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+And I testify again to every man circumcising himself that he is a debtor to do the whole law.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02dc30c" class="outline-3">
+<h3 id="org02dc30c"><span class="section-number-3">5.4</span> Galatians 5:4</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+You are made void of Christ, you who are justified in the law: you are fallen from grace.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga1afbff" class="outline-3">
+<h3 id="orga1afbff"><span class="section-number-3">5.5</span> Galatians 5:5</h3>
+<div class="outline-text-3" id="text-5-5">
+<p>
+For we in spirit, by faith, wait for the hope of justice.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8079f77" class="outline-3">
+<h3 id="org8079f77"><span class="section-number-3">5.6</span> Galatians 5:6</h3>
+<div class="outline-text-3" id="text-5-6">
+<p>
+For in Christ Jesus neither circumcision availeth any thing nor uncircumcision: but faith that worketh by Charity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0ef3746" class="outline-3">
+<h3 id="org0ef3746"><span class="section-number-3">5.7</span> Galatians 5:7</h3>
+<div class="outline-text-3" id="text-5-7">
+<p>
+You did run well. What hath hindered you, that you should not obey the truth?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc41fd0f" class="outline-3">
+<h3 id="orgc41fd0f"><span class="section-number-3">5.8</span> Galatians 5:8</h3>
+<div class="outline-text-3" id="text-5-8">
+<p>
+This persuasion is not from him that calleth you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb3c6560" class="outline-3">
+<h3 id="orgb3c6560"><span class="section-number-3">5.9</span> Galatians 5:9</h3>
+<div class="outline-text-3" id="text-5-9">
+<p>
+A little leaven corrupteth the whole lump.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org19253e4" class="outline-3">
+<h3 id="org19253e4"><span class="section-number-3">5.10</span> Galatians 5:10</h3>
+<div class="outline-text-3" id="text-5-10">
+<p>
+I have confidence in you in the Lord that you will not be of another mind: but he that troubleth you shall bear the judgment, whosoever he be.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8643893" class="outline-3">
+<h3 id="org8643893"><span class="section-number-3">5.11</span> Galatians 5:11</h3>
+<div class="outline-text-3" id="text-5-11">
+<p>
+And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? Then is the scandal of the cross made void.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb773d8a" class="outline-3">
+<h3 id="orgb773d8a"><span class="section-number-3">5.12</span> Galatians 5:12</h3>
+<div class="outline-text-3" id="text-5-12">
+<p>
+I would they were even cut off, who trouble you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf4e2b90" class="outline-3">
+<h3 id="orgf4e2b90"><span class="section-number-3">5.13</span> Galatians 5:13</h3>
+<div class="outline-text-3" id="text-5-13">
+<p>
+For you, brethren, have been called unto liberty. Only make not liberty an occasion to the flesh: but by charity of the spirit serve one another.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga6c7cf2" class="outline-3">
+<h3 id="orga6c7cf2"><span class="section-number-3">5.14</span> Galatians 5:14</h3>
+<div class="outline-text-3" id="text-5-14">
+<p>
+For all the law is fulfilled in one word: Thou shalt love thy neighbour as thyself.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org357e311" class="outline-3">
+<h3 id="org357e311"><span class="section-number-3">5.15</span> Galatians 5:15</h3>
+<div class="outline-text-3" id="text-5-15">
+<p>
+But if you bite and devour one another: take heed you be not consumed one of another.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd47a5b3" class="outline-3">
+<h3 id="orgd47a5b3"><span class="section-number-3">5.16</span> Galatians 5:16</h3>
+<div class="outline-text-3" id="text-5-16">
+<p>
+I say then: Walk in the spirit: and you shall not fulfill the lusts of the flesh.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeff251a" class="outline-3">
+<h3 id="orgeff251a"><span class="section-number-3">5.17</span> Galatians 5:17</h3>
+<div class="outline-text-3" id="text-5-17">
+<p>
+For the flesh lusteth against the spirit: and the spirit against the flesh: For these are contrary one to another: so that you do not the things that you would.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org80d37ab" class="outline-3">
+<h3 id="org80d37ab"><span class="section-number-3">5.18</span> Galatians 5:18</h3>
+<div class="outline-text-3" id="text-5-18">
+<p>
+But if you are led by the spirit, you are not under the law.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org88cc2a0" class="outline-3">
+<h3 id="org88cc2a0"><span class="section-number-3">5.19</span> Galatians 5:19</h3>
+<div class="outline-text-3" id="text-5-19">
+<p>
+Now the works of the flesh are manifest: which are fornication, uncleanness, immodesty, luxury,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org174299a" class="outline-3">
+<h3 id="org174299a"><span class="section-number-3">5.20</span> Galatians 5:20</h3>
+<div class="outline-text-3" id="text-5-20">
+<p>
+Idolatry, witchcrafts, enmities, contentions, emulations, wraths, quarrels, dissensions, sects,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeaa46a4" class="outline-3">
+<h3 id="orgeaa46a4"><span class="section-number-3">5.21</span> Galatians 5:21</h3>
+<div class="outline-text-3" id="text-5-21">
+<p>
+Envies, murders, drunkenness, revellings, and such like. Of the which I foretell you, as I have foretold to you, that they who do such things shall not obtain the kingdom of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2429da7" class="outline-3">
+<h3 id="org2429da7"><span class="section-number-3">5.22</span> Galatians 5:22</h3>
+<div class="outline-text-3" id="text-5-22">
+<p>
+But the fruit of the Spirit is, charity, joy, peace, patience, benignity, goodness, longanimity,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf024d2c" class="outline-3">
+<h3 id="orgf024d2c"><span class="section-number-3">5.23</span> Galatians 5:23</h3>
+<div class="outline-text-3" id="text-5-23">
+<p>
+Mildness, faith, modesty, continency, chastity. Against such there is no law.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf18f95b" class="outline-3">
+<h3 id="orgf18f95b"><span class="section-number-3">5.24</span> Galatians 5:24</h3>
+<div class="outline-text-3" id="text-5-24">
+<p>
+And they that are Christ&rsquo;s have crucified their flesh, with the vices and concupiscences.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcc78434" class="outline-3">
+<h3 id="orgcc78434"><span class="section-number-3">5.25</span> Galatians 5:25</h3>
+<div class="outline-text-3" id="text-5-25">
+<p>
+If we live in the Spirit, let us also walk in the Spirit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge801a59" class="outline-3">
+<h3 id="orge801a59"><span class="section-number-3">5.26</span> Galatians 5:26</h3>
+<div class="outline-text-3" id="text-5-26">
+<p>
+Let us not be made desirous of vain glory, provoking one another, envying one another. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org8a1c5bd" class="outline-2">
+<h2 id="org8a1c5bd"><span class="section-number-2">6</span> Galatians 6</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-orgadeae3d" class="outline-3">
+<h3 id="orgadeae3d"><span class="section-number-3">6.1</span> Galatians 6:1</h3>
+<div class="outline-text-3" id="text-6-1">
+<p>
+Brethren, and if a man be overtaken in any fault, you, who are spiritual, instruct such a one in the spirit of meekness, considering thyself, lest thou also be tempted.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0fd4a2c" class="outline-3">
+<h3 id="org0fd4a2c"><span class="section-number-3">6.2</span> Galatians 6:2</h3>
+<div class="outline-text-3" id="text-6-2">
+<p>
+Bear ye one another&rsquo;s burdens: and so you shall fulfil the law of Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb87f164" class="outline-3">
+<h3 id="orgb87f164"><span class="section-number-3">6.3</span> Galatians 6:3</h3>
+<div class="outline-text-3" id="text-6-3">
+<p>
+For if any man think himself to be some thing, whereas he is nothing, he deceiveth himself.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org819a437" class="outline-3">
+<h3 id="org819a437"><span class="section-number-3">6.4</span> Galatians 6:4</h3>
+<div class="outline-text-3" id="text-6-4">
+<p>
+But let every one prove his own work: and so he shall have glory in himself only and not in another.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6031ac1" class="outline-3">
+<h3 id="org6031ac1"><span class="section-number-3">6.5</span> Galatians 6:5</h3>
+<div class="outline-text-3" id="text-6-5">
+<p>
+For every one shall bear his own burden.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5872cbd" class="outline-3">
+<h3 id="org5872cbd"><span class="section-number-3">6.6</span> Galatians 6:6</h3>
+<div class="outline-text-3" id="text-6-6">
+<p>
+And let him that is instructed in the word communicate to him that instructeth him, in all good things.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbb3d94d" class="outline-3">
+<h3 id="orgbb3d94d"><span class="section-number-3">6.7</span> Galatians 6:7</h3>
+<div class="outline-text-3" id="text-6-7">
+<p>
+Be not deceived: God is not mocked.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga030e7e" class="outline-3">
+<h3 id="orga030e7e"><span class="section-number-3">6.8</span> Galatians 6:8</h3>
+<div class="outline-text-3" id="text-6-8">
+<p>
+For what things a man shall sow, those also shall he reap. For he that soweth in his flesh of the flesh also shall reap corruption. But he that soweth in the spirit of the spirit shall reap life everlasting.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org593f600" class="outline-3">
+<h3 id="org593f600"><span class="section-number-3">6.9</span> Galatians 6:9</h3>
+<div class="outline-text-3" id="text-6-9">
+<p>
+And in doing good, let us not fail. For in due time we shall reap, not failing.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdfe928e" class="outline-3">
+<h3 id="orgdfe928e"><span class="section-number-3">6.10</span> Galatians 6:10</h3>
+<div class="outline-text-3" id="text-6-10">
+<p>
+Therefore, whilst we have time, let us work good to all men, but especially to those who are of the household of the faith.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1ac6a65" class="outline-3">
+<h3 id="org1ac6a65"><span class="section-number-3">6.11</span> Galatians 6:11</h3>
+<div class="outline-text-3" id="text-6-11">
+<p>
+See what a letter I have written to you with my own hand.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3570a40" class="outline-3">
+<h3 id="org3570a40"><span class="section-number-3">6.12</span> Galatians 6:12</h3>
+<div class="outline-text-3" id="text-6-12">
+<p>
+For as many as desire to please in the flesh, they constrain you to be circumcised, only that they may not suffer the persecution of the cross of Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf4556ca" class="outline-3">
+<h3 id="orgf4556ca"><span class="section-number-3">6.13</span> Galatians 6:13</h3>
+<div class="outline-text-3" id="text-6-13">
+<p>
+For neither they themselves who are circumcised keep the law: but they will have you to be circumcised, that they may glory in your flesh.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org81623d1" class="outline-3">
+<h3 id="org81623d1"><span class="section-number-3">6.14</span> Galatians 6:14</h3>
+<div class="outline-text-3" id="text-6-14">
+<p>
+But God forbid that I should glory, save in the cross of our Lord Jesus Christ: by whom the world is crucified to me, and I to the world.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7ae0d3c" class="outline-3">
+<h3 id="org7ae0d3c"><span class="section-number-3">6.15</span> Galatians 6:15</h3>
+<div class="outline-text-3" id="text-6-15">
+<p>
+For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision: but a new creature.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e82e45" class="outline-3">
+<h3 id="org9e82e45"><span class="section-number-3">6.16</span> Galatians 6:16</h3>
+<div class="outline-text-3" id="text-6-16">
+<p>
+And whosoever shall follow this rule, peace on them and mercy: and upon the Israel of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc26c9be" class="outline-3">
+<h3 id="orgc26c9be"><span class="section-number-3">6.17</span> Galatians 6:17</h3>
+<div class="outline-text-3" id="text-6-17">
+<p>
+From henceforth let no man be troublesome to me: for I bear the marks of the Lord Jesus in my body.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1128f32" class="outline-3">
+<h3 id="org1128f32"><span class="section-number-3">6.18</span> Galatians 6:18</h3>
+<div class="outline-text-3" id="text-6-18">
+<p>
+The grace of our Lord Jesus Christ be with your spirit, brethren. Amen.  
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:37</p>
+</div>
+</body>
+</html>

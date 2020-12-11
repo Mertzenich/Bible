@@ -1,0 +1,2568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:37 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org4077a17">1. Ecclesiastes 1</a>
+<ul>
+<li><a href="#orge07c192">1.1. Ecclesiastes 1:1</a></li>
+<li><a href="#org9925082">1.2. Ecclesiastes 1:2</a></li>
+<li><a href="#org727e0fe">1.3. Ecclesiastes 1:3</a></li>
+<li><a href="#org90ac90f">1.4. Ecclesiastes 1:4</a></li>
+<li><a href="#orgd89aec4">1.5. Ecclesiastes 1:5</a></li>
+<li><a href="#org5a3e95c">1.6. Ecclesiastes 1:6</a></li>
+<li><a href="#org5cf7d0e">1.7. Ecclesiastes 1:7</a></li>
+<li><a href="#org3989600">1.8. Ecclesiastes 1:8</a></li>
+<li><a href="#org81317fe">1.9. Ecclesiastes 1:9</a></li>
+<li><a href="#orgef7e2da">1.10. Ecclesiastes 1:10</a></li>
+<li><a href="#orged4e088">1.11. Ecclesiastes 1:11</a></li>
+<li><a href="#org3b0e528">1.12. Ecclesiastes 1:12</a></li>
+<li><a href="#orgcfcaf0d">1.13. Ecclesiastes 1:13</a></li>
+<li><a href="#org5e41378">1.14. Ecclesiastes 1:14</a></li>
+<li><a href="#org02a1579">1.15. Ecclesiastes 1:15</a></li>
+<li><a href="#org6f8d0ff">1.16. Ecclesiastes 1:16</a></li>
+<li><a href="#org0213d48">1.17. Ecclesiastes 1:17</a></li>
+<li><a href="#org1a767e0">1.18. Ecclesiastes 1:18</a></li>
+</ul>
+</li>
+<li><a href="#org22f64b0">2. Ecclesiastes 2</a>
+<ul>
+<li><a href="#orgc34db31">2.1. Ecclesiastes 2:1</a></li>
+<li><a href="#org1b97937">2.2. Ecclesiastes 2:2</a></li>
+<li><a href="#orgc3890ec">2.3. Ecclesiastes 2:3</a></li>
+<li><a href="#orgb17e1ca">2.4. Ecclesiastes 2:4</a></li>
+<li><a href="#org60e6cc4">2.5. Ecclesiastes 2:5</a></li>
+<li><a href="#orge447c2b">2.6. Ecclesiastes 2:6</a></li>
+<li><a href="#orgdff7782">2.7. Ecclesiastes 2:7</a></li>
+<li><a href="#orgd8be9b5">2.8. Ecclesiastes 2:8</a></li>
+<li><a href="#org750c821">2.9. Ecclesiastes 2:9</a></li>
+<li><a href="#org257a5c5">2.10. Ecclesiastes 2:10</a></li>
+<li><a href="#org9cf768a">2.11. Ecclesiastes 2:11</a></li>
+<li><a href="#org27fd937">2.12. Ecclesiastes 2:12</a></li>
+<li><a href="#org0089741">2.13. Ecclesiastes 2:13</a></li>
+<li><a href="#orgdca8aaf">2.14. Ecclesiastes 2:14</a></li>
+<li><a href="#org519ae52">2.15. Ecclesiastes 2:15</a></li>
+<li><a href="#orgee89938">2.16. Ecclesiastes 2:16</a></li>
+<li><a href="#org24eb09a">2.17. Ecclesiastes 2:17</a></li>
+<li><a href="#org2279b80">2.18. Ecclesiastes 2:18</a></li>
+<li><a href="#org88f80d7">2.19. Ecclesiastes 2:19</a></li>
+<li><a href="#orge0c6a74">2.20. Ecclesiastes 2:20</a></li>
+<li><a href="#org41a5fea">2.21. Ecclesiastes 2:21</a></li>
+<li><a href="#org9386a14">2.22. Ecclesiastes 2:22</a></li>
+<li><a href="#orgfc011aa">2.23. Ecclesiastes 2:23</a></li>
+<li><a href="#org3e3a11e">2.24. Ecclesiastes 2:24</a></li>
+<li><a href="#orgf8d1c6b">2.25. Ecclesiastes 2:25</a></li>
+<li><a href="#orga0d9292">2.26. Ecclesiastes 2:26</a></li>
+</ul>
+</li>
+<li><a href="#org3d09461">3. Ecclesiastes 3</a>
+<ul>
+<li><a href="#orgd5aab2b">3.1. Ecclesiastes 3:1</a></li>
+<li><a href="#org6830806">3.2. Ecclesiastes 3:2</a></li>
+<li><a href="#org396df52">3.3. Ecclesiastes 3:3</a></li>
+<li><a href="#orgfd83a20">3.4. Ecclesiastes 3:4</a></li>
+<li><a href="#org08485b9">3.5. Ecclesiastes 3:5</a></li>
+<li><a href="#orgbd3a82c">3.6. Ecclesiastes 3:6</a></li>
+<li><a href="#org90769f8">3.7. Ecclesiastes 3:7</a></li>
+<li><a href="#org9df334d">3.8. Ecclesiastes 3:8</a></li>
+<li><a href="#org2f39445">3.9. Ecclesiastes 3:9</a></li>
+<li><a href="#orgf590f36">3.10. Ecclesiastes 3:10</a></li>
+<li><a href="#orgfd67834">3.11. Ecclesiastes 3:11</a></li>
+<li><a href="#org7f97043">3.12. Ecclesiastes 3:12</a></li>
+<li><a href="#org818e28e">3.13. Ecclesiastes 3:13</a></li>
+<li><a href="#org4414e8c">3.14. Ecclesiastes 3:14</a></li>
+<li><a href="#org860af0e">3.15. Ecclesiastes 3:15</a></li>
+<li><a href="#org3f506bd">3.16. Ecclesiastes 3:16</a></li>
+<li><a href="#org8bc01ec">3.17. Ecclesiastes 3:17</a></li>
+<li><a href="#org48a12a8">3.18. Ecclesiastes 3:18</a></li>
+<li><a href="#orgdd09fb6">3.19. Ecclesiastes 3:19</a></li>
+<li><a href="#orgfa2ccce">3.20. Ecclesiastes 3:20</a></li>
+<li><a href="#org8f45d13">3.21. Ecclesiastes 3:21</a></li>
+<li><a href="#org96a772f">3.22. Ecclesiastes 3:22</a></li>
+</ul>
+</li>
+<li><a href="#org1f337cd">4. Ecclesiastes 4</a>
+<ul>
+<li><a href="#org796b37a">4.1. Ecclesiastes 4:1</a></li>
+<li><a href="#org6ae4ef9">4.2. Ecclesiastes 4:2</a></li>
+<li><a href="#org318d77d">4.3. Ecclesiastes 4:3</a></li>
+<li><a href="#org6ec5649">4.4. Ecclesiastes 4:4</a></li>
+<li><a href="#org86bb233">4.5. Ecclesiastes 4:5</a></li>
+<li><a href="#orgb42fa4c">4.6. Ecclesiastes 4:6</a></li>
+<li><a href="#orgd910fcf">4.7. Ecclesiastes 4:7</a></li>
+<li><a href="#org2c6fd64">4.8. Ecclesiastes 4:8</a></li>
+<li><a href="#orged4f8d8">4.9. Ecclesiastes 4:9</a></li>
+<li><a href="#orgf7e0ab2">4.10. Ecclesiastes 4:10</a></li>
+<li><a href="#orgf5ecf04">4.11. Ecclesiastes 4:11</a></li>
+<li><a href="#orga984df8">4.12. Ecclesiastes 4:12</a></li>
+<li><a href="#orgc0e6f9f">4.13. Ecclesiastes 4:13</a></li>
+<li><a href="#orgba4fbae">4.14. Ecclesiastes 4:14</a></li>
+<li><a href="#org1bb598e">4.15. Ecclesiastes 4:15</a></li>
+<li><a href="#org5f703a2">4.16. Ecclesiastes 4:16</a></li>
+<li><a href="#org17445ef">4.17. Ecclesiastes 4:17</a></li>
+</ul>
+</li>
+<li><a href="#orgc6bd49a">5. Ecclesiastes 5</a>
+<ul>
+<li><a href="#orgb22f264">5.1. Ecclesiastes 5:1</a></li>
+<li><a href="#orgdae8229">5.2. Ecclesiastes 5:2</a></li>
+<li><a href="#orgfccea39">5.3. Ecclesiastes 5:3</a></li>
+<li><a href="#orgb9df40a">5.4. Ecclesiastes 5:4</a></li>
+<li><a href="#org216d79e">5.5. Ecclesiastes 5:5</a></li>
+<li><a href="#orgfc97ee2">5.6. Ecclesiastes 5:6</a></li>
+<li><a href="#org36d4dad">5.7. Ecclesiastes 5:7</a></li>
+<li><a href="#org123b4d7">5.8. Ecclesiastes 5:8</a></li>
+<li><a href="#orgf2f8639">5.9. Ecclesiastes 5:9</a></li>
+<li><a href="#org371e0aa">5.10. Ecclesiastes 5:10</a></li>
+<li><a href="#orga4b0fbc">5.11. Ecclesiastes 5:11</a></li>
+<li><a href="#orga321e50">5.12. Ecclesiastes 5:12</a></li>
+<li><a href="#org7b8ab4e">5.13. Ecclesiastes 5:13</a></li>
+<li><a href="#orgc78ded8">5.14. Ecclesiastes 5:14</a></li>
+<li><a href="#org75a57eb">5.15. Ecclesiastes 5:15</a></li>
+<li><a href="#org648a7ec">5.16. Ecclesiastes 5:16</a></li>
+<li><a href="#org267f6a6">5.17. Ecclesiastes 5:17</a></li>
+<li><a href="#orgf3680c0">5.18. Ecclesiastes 5:18</a></li>
+<li><a href="#org6e208b3">5.19. Ecclesiastes 5:19</a></li>
+</ul>
+</li>
+<li><a href="#orgd278747">6. Ecclesiastes 6</a>
+<ul>
+<li><a href="#org3bc4eae">6.1. Ecclesiastes 6:1</a></li>
+<li><a href="#orgc4b5f65">6.2. Ecclesiastes 6:2</a></li>
+<li><a href="#org0fe67ab">6.3. Ecclesiastes 6:3</a></li>
+<li><a href="#org887e0eb">6.4. Ecclesiastes 6:4</a></li>
+<li><a href="#org47ca397">6.5. Ecclesiastes 6:5</a></li>
+<li><a href="#orgeaff431">6.6. Ecclesiastes 6:6</a></li>
+<li><a href="#orgfc15610">6.7. Ecclesiastes 6:7</a></li>
+<li><a href="#org11f4569">6.8. Ecclesiastes 6:8</a></li>
+<li><a href="#orge2c7033">6.9. Ecclesiastes 6:9</a></li>
+<li><a href="#orgdeb68c8">6.10. Ecclesiastes 6:10</a></li>
+<li><a href="#orgb4f148c">6.11. Ecclesiastes 6:11</a></li>
+</ul>
+</li>
+<li><a href="#orgc477876">7. Ecclesiastes 7</a>
+<ul>
+<li><a href="#orgba17ff9">7.1. Ecclesiastes 7:1</a></li>
+<li><a href="#org3b012bb">7.2. Ecclesiastes 7:2</a></li>
+<li><a href="#org8d6345f">7.3. Ecclesiastes 7:3</a></li>
+<li><a href="#orgca925db">7.4. Ecclesiastes 7:4</a></li>
+<li><a href="#orgeceb184">7.5. Ecclesiastes 7:5</a></li>
+<li><a href="#orgbd0e54f">7.6. Ecclesiastes 7:6</a></li>
+<li><a href="#orgc35bc7e">7.7. Ecclesiastes 7:7</a></li>
+<li><a href="#orge3fdc8b">7.8. Ecclesiastes 7:8</a></li>
+<li><a href="#orgf6f5d7b">7.9. Ecclesiastes 7:9</a></li>
+<li><a href="#org61d5a11">7.10. Ecclesiastes 7:10</a></li>
+<li><a href="#org8d2191f">7.11. Ecclesiastes 7:11</a></li>
+<li><a href="#org780c2d4">7.12. Ecclesiastes 7:12</a></li>
+<li><a href="#org05a7a98">7.13. Ecclesiastes 7:13</a></li>
+<li><a href="#org9df86c2">7.14. Ecclesiastes 7:14</a></li>
+<li><a href="#org3f510a2">7.15. Ecclesiastes 7:15</a></li>
+<li><a href="#org4ae5d24">7.16. Ecclesiastes 7:16</a></li>
+<li><a href="#org7d9048f">7.17. Ecclesiastes 7:17</a></li>
+<li><a href="#org3b0cd62">7.18. Ecclesiastes 7:18</a></li>
+<li><a href="#orge784cc7">7.19. Ecclesiastes 7:19</a></li>
+<li><a href="#org5d7aabd">7.20. Ecclesiastes 7:20</a></li>
+<li><a href="#orge5e4171">7.21. Ecclesiastes 7:21</a></li>
+<li><a href="#orge1fbdd6">7.22. Ecclesiastes 7:22</a></li>
+<li><a href="#orgdfd7eb8">7.23. Ecclesiastes 7:23</a></li>
+<li><a href="#org6096b59">7.24. Ecclesiastes 7:24</a></li>
+<li><a href="#org42f715f">7.25. Ecclesiastes 7:25</a></li>
+<li><a href="#org0ca619b">7.26. Ecclesiastes 7:26</a></li>
+<li><a href="#org529f4c5">7.27. Ecclesiastes 7:27</a></li>
+<li><a href="#org8beb353">7.28. Ecclesiastes 7:28</a></li>
+<li><a href="#orgda08e47">7.29. Ecclesiastes 7:29</a></li>
+<li><a href="#orgc57fe50">7.30. Ecclesiastes 7:30</a></li>
+</ul>
+</li>
+<li><a href="#org5635330">8. Ecclesiastes 8</a>
+<ul>
+<li><a href="#orgd6bd1af">8.1. Ecclesiastes 8:1</a></li>
+<li><a href="#orgdc09a9e">8.2. Ecclesiastes 8:2</a></li>
+<li><a href="#org0c317b7">8.3. Ecclesiastes 8:3</a></li>
+<li><a href="#org11f6c6c">8.4. Ecclesiastes 8:4</a></li>
+<li><a href="#org1f7e48a">8.5. Ecclesiastes 8:5</a></li>
+<li><a href="#org311e7fc">8.6. Ecclesiastes 8:6</a></li>
+<li><a href="#org895caf4">8.7. Ecclesiastes 8:7</a></li>
+<li><a href="#org948a069">8.8. Ecclesiastes 8:8</a></li>
+<li><a href="#org6e187c9">8.9. Ecclesiastes 8:9</a></li>
+<li><a href="#orgda3a939">8.10. Ecclesiastes 8:10</a></li>
+<li><a href="#orgfe3a90f">8.11. Ecclesiastes 8:11</a></li>
+<li><a href="#orgcf58628">8.12. Ecclesiastes 8:12</a></li>
+<li><a href="#orgd0bbe1d">8.13. Ecclesiastes 8:13</a></li>
+<li><a href="#org0a8442a">8.14. Ecclesiastes 8:14</a></li>
+<li><a href="#org4698340">8.15. Ecclesiastes 8:15</a></li>
+<li><a href="#orgb001f40">8.16. Ecclesiastes 8:16</a></li>
+<li><a href="#orgadaf0b4">8.17. Ecclesiastes 8:17</a></li>
+</ul>
+</li>
+<li><a href="#org6aa2585">9. Ecclesiastes 9</a>
+<ul>
+<li><a href="#org7a932e0">9.1. Ecclesiastes 9:1</a></li>
+<li><a href="#org62620c8">9.2. Ecclesiastes 9:2</a></li>
+<li><a href="#org5c27a99">9.3. Ecclesiastes 9:3</a></li>
+<li><a href="#org3317a0b">9.4. Ecclesiastes 9:4</a></li>
+<li><a href="#orgfb49bbe">9.5. Ecclesiastes 9:5</a></li>
+<li><a href="#orga67a957">9.6. Ecclesiastes 9:6</a></li>
+<li><a href="#org4e7888a">9.7. Ecclesiastes 9:7</a></li>
+<li><a href="#orgf3a6e76">9.8. Ecclesiastes 9:8</a></li>
+<li><a href="#org8484d0c">9.9. Ecclesiastes 9:9</a></li>
+<li><a href="#orgb9ec9ef">9.10. Ecclesiastes 9:10</a></li>
+<li><a href="#org011edee">9.11. Ecclesiastes 9:11</a></li>
+<li><a href="#orgfee2d3a">9.12. Ecclesiastes 9:12</a></li>
+<li><a href="#orgc033842">9.13. Ecclesiastes 9:13</a></li>
+<li><a href="#org586be8c">9.14. Ecclesiastes 9:14</a></li>
+<li><a href="#org567ec7b">9.15. Ecclesiastes 9:15</a></li>
+<li><a href="#org0bb434a">9.16. Ecclesiastes 9:16</a></li>
+<li><a href="#orgdd2e548">9.17. Ecclesiastes 9:17</a></li>
+<li><a href="#org3836fd0">9.18. Ecclesiastes 9:18</a></li>
+</ul>
+</li>
+<li><a href="#orgc4bab5c">10. Ecclesiastes 10</a>
+<ul>
+<li><a href="#org947f020">10.1. Ecclesiastes 10:1</a></li>
+<li><a href="#org9bd31d7">10.2. Ecclesiastes 10:2</a></li>
+<li><a href="#orgd9df602">10.3. Ecclesiastes 10:3</a></li>
+<li><a href="#org1245bb3">10.4. Ecclesiastes 10:4</a></li>
+<li><a href="#org459a841">10.5. Ecclesiastes 10:5</a></li>
+<li><a href="#org0dea097">10.6. Ecclesiastes 10:6</a></li>
+<li><a href="#org79407b7">10.7. Ecclesiastes 10:7</a></li>
+<li><a href="#orgd8da4a3">10.8. Ecclesiastes 10:8</a></li>
+<li><a href="#org4a8341f">10.9. Ecclesiastes 10:9</a></li>
+<li><a href="#orgbc8ed28">10.10. Ecclesiastes 10:10</a></li>
+<li><a href="#orgafb8d90">10.11. Ecclesiastes 10:11</a></li>
+<li><a href="#orgec61001">10.12. Ecclesiastes 10:12</a></li>
+<li><a href="#org766ad97">10.13. Ecclesiastes 10:13</a></li>
+<li><a href="#org5b6efdc">10.14. Ecclesiastes 10:14</a></li>
+<li><a href="#org2648069">10.15. Ecclesiastes 10:15</a></li>
+<li><a href="#org316e729">10.16. Ecclesiastes 10:16</a></li>
+<li><a href="#org3569ecd">10.17. Ecclesiastes 10:17</a></li>
+<li><a href="#orgdd8397c">10.18. Ecclesiastes 10:18</a></li>
+<li><a href="#org2da580e">10.19. Ecclesiastes 10:19</a></li>
+<li><a href="#orgfb1210d">10.20. Ecclesiastes 10:20</a></li>
+</ul>
+</li>
+<li><a href="#org3ff868d">11. Ecclesiastes 11</a>
+<ul>
+<li><a href="#org238c020">11.1. Ecclesiastes 11:1</a></li>
+<li><a href="#orgda54a8b">11.2. Ecclesiastes 11:2</a></li>
+<li><a href="#orgd45b5a9">11.3. Ecclesiastes 11:3</a></li>
+<li><a href="#org9e22160">11.4. Ecclesiastes 11:4</a></li>
+<li><a href="#orga2e091d">11.5. Ecclesiastes 11:5</a></li>
+<li><a href="#orgf77bf85">11.6. Ecclesiastes 11:6</a></li>
+<li><a href="#org316b59e">11.7. Ecclesiastes 11:7</a></li>
+<li><a href="#org44c3bd7">11.8. Ecclesiastes 11:8</a></li>
+<li><a href="#orgb66f37b">11.9. Ecclesiastes 11:9</a></li>
+<li><a href="#org4fc6ed7">11.10. Ecclesiastes 11:10</a></li>
+</ul>
+</li>
+<li><a href="#org8e8951a">12. Ecclesiastes 12</a>
+<ul>
+<li><a href="#org4e0dcff">12.1. Ecclesiastes 12:1</a></li>
+<li><a href="#orgbcb267e">12.2. Ecclesiastes 12:2</a></li>
+<li><a href="#orgd806006">12.3. Ecclesiastes 12:3</a></li>
+<li><a href="#orgbb4b462">12.4. Ecclesiastes 12:4</a></li>
+<li><a href="#org07703b1">12.5. Ecclesiastes 12:5</a></li>
+<li><a href="#org9ad3165">12.6. Ecclesiastes 12:6</a></li>
+<li><a href="#org5c87181">12.7. Ecclesiastes 12:7</a></li>
+<li><a href="#orge7adfd8">12.8. Ecclesiastes 12:8</a></li>
+<li><a href="#orgba6b708">12.9. Ecclesiastes 12:9</a></li>
+<li><a href="#orgacafad2">12.10. Ecclesiastes 12:10</a></li>
+<li><a href="#org4fcdca3">12.11. Ecclesiastes 12:11</a></li>
+<li><a href="#org3d20aaa">12.12. Ecclesiastes 12:12</a></li>
+<li><a href="#org03c7f72">12.13. Ecclesiastes 12:13</a></li>
+<li><a href="#orgba169e6">12.14. Ecclesiastes 12:14</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org4077a17" class="outline-2">
+<h2 id="org4077a17"><span class="section-number-2">1</span> Ecclesiastes 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orge07c192" class="outline-3">
+<h3 id="orge07c192"><span class="section-number-3">1.1</span> Ecclesiastes 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Verba Ecclesiastæ, filii David, regis Jerusalem.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9925082" class="outline-3">
+<h3 id="org9925082"><span class="section-number-3">1.2</span> Ecclesiastes 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Vanitas vanitatum, dixit Ecclesiastes ;  vanitas vanitatum, et omnia vanitas. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org727e0fe" class="outline-3">
+<h3 id="org727e0fe"><span class="section-number-3">1.3</span> Ecclesiastes 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Quid habet amplius homo  de universo labore suo quo laborat sub sole ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org90ac90f" class="outline-3">
+<h3 id="org90ac90f"><span class="section-number-3">1.4</span> Ecclesiastes 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Generatio præterit, et generatio advenit ;  terra autem in æternum stat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd89aec4" class="outline-3">
+<h3 id="orgd89aec4"><span class="section-number-3">1.5</span> Ecclesiastes 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Oritur sol et occidit,  et ad locum suum revertitur ;  ibique renascens,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5a3e95c" class="outline-3">
+<h3 id="org5a3e95c"><span class="section-number-3">1.6</span> Ecclesiastes 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+gyrat per meridiem, et flectitur ad aquilonem.  Lustrans universa in circuitu pergit spiritus,  et in circulos suos revertitur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5cf7d0e" class="outline-3">
+<h3 id="org5cf7d0e"><span class="section-number-3">1.7</span> Ecclesiastes 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+Omnia flumina intrant in mare,  et mare non redundat ;  ad locum unde exeunt flumina  revertuntur ut iterum fluant. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3989600" class="outline-3">
+<h3 id="org3989600"><span class="section-number-3">1.8</span> Ecclesiastes 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+Cunctæ res difficiles ;  non potest eas homo explicare sermone.  Non saturatur oculus visu,  nec auris auditu impletur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org81317fe" class="outline-3">
+<h3 id="org81317fe"><span class="section-number-3">1.9</span> Ecclesiastes 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+Quid est quod fuit ? Ipsum quod futurum est.  Quid est quod factum est ? Ipsum quod faciendum est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgef7e2da" class="outline-3">
+<h3 id="orgef7e2da"><span class="section-number-3">1.10</span> Ecclesiastes 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+Nihil sub sole novum,  nec valet quisquam dicere : Ecce hoc recens est :  jam enim præcessit in sæculis quæ fuerunt ante nos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orged4e088" class="outline-3">
+<h3 id="orged4e088"><span class="section-number-3">1.11</span> Ecclesiastes 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+Non est priorum memoria ;  sed nec eorum quidem quæ postea futura sunt  erit recordatio apud eos qui futuri sunt in novissimo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b0e528" class="outline-3">
+<h3 id="org3b0e528"><span class="section-number-3">1.12</span> Ecclesiastes 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+Ego Ecclesiastes fui rex Israël in Jerusalem ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcfcaf0d" class="outline-3">
+<h3 id="orgcfcaf0d"><span class="section-number-3">1.13</span> Ecclesiastes 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+et proposui in animo meo quærere et investigare sapienter  de omnibus quæ fiunt sub sole.  Hanc occupationem pessimam  dedit Deus filiis hominum, ut occuparentur in ea. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5e41378" class="outline-3">
+<h3 id="org5e41378"><span class="section-number-3">1.14</span> Ecclesiastes 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+Vidi cuncta quæ fiunt sub sole,  et ecce universa vanitas et afflictio spiritus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02a1579" class="outline-3">
+<h3 id="org02a1579"><span class="section-number-3">1.15</span> Ecclesiastes 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+Perversi difficile corriguntur,  et stultorum infinitus est numerus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6f8d0ff" class="outline-3">
+<h3 id="org6f8d0ff"><span class="section-number-3">1.16</span> Ecclesiastes 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+Locutus sum in corde meo, dicens :  Ecce magnus effectus sum, et præcessi omnes sapientia  qui fuerunt ante me in Jerusalem ;  et mens mea contemplata est multa sapienter, et didici. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0213d48" class="outline-3">
+<h3 id="org0213d48"><span class="section-number-3">1.17</span> Ecclesiastes 1:17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+Dedique cor meum ut scirem prudentiam atque doctrinam,  erroresque et stultitiam ;  et agnovi quod in his quoque esset labor et afflictio spiritus : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1a767e0" class="outline-3">
+<h3 id="org1a767e0"><span class="section-number-3">1.18</span> Ecclesiastes 1:18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+eo quod in multa sapientia multa sit indignatio ;  et qui addit scientiam, addit et laborem.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org22f64b0" class="outline-2">
+<h2 id="org22f64b0"><span class="section-number-2">2</span> Ecclesiastes 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-orgc34db31" class="outline-3">
+<h3 id="orgc34db31"><span class="section-number-3">2.1</span> Ecclesiastes 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Dixi ego in corde meo : Vadam,  et affluam deliciis, et fruar bonis ;  et vidi quod hoc quoque esset vanitas. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1b97937" class="outline-3">
+<h3 id="org1b97937"><span class="section-number-3">2.2</span> Ecclesiastes 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Risum reputavi errorem,  et gaudio dixi : Quid frustra deciperis ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc3890ec" class="outline-3">
+<h3 id="orgc3890ec"><span class="section-number-3">2.3</span> Ecclesiastes 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+Cogitavi in corde meo abstrahere a vino carnem meam,  ut animam meam transferrem ad sapientiam,  devitaremque stultitiam,  donec viderem quid esset utile filiis hominum,  quo facto opus est sub sole numero dierum vitæ suæ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb17e1ca" class="outline-3">
+<h3 id="orgb17e1ca"><span class="section-number-3">2.4</span> Ecclesiastes 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+Magnificavi opera mea,  ædificavi mihi domos,  et plantavi vineas ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org60e6cc4" class="outline-3">
+<h3 id="org60e6cc4"><span class="section-number-3">2.5</span> Ecclesiastes 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+feci hortos et pomaria,  et consevi ea cuncti generis arboribus ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge447c2b" class="outline-3">
+<h3 id="orge447c2b"><span class="section-number-3">2.6</span> Ecclesiastes 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+et exstruxi mihi piscinas aquarum,  ut irrigarem silvam lignorum germinantium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdff7782" class="outline-3">
+<h3 id="orgdff7782"><span class="section-number-3">2.7</span> Ecclesiastes 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+Possedi servos et ancillas,  multamque familiam habui :  armenta quoque, et magnos ovium greges,  ultra omnes qui fuerunt ante me in Jerusalem ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd8be9b5" class="outline-3">
+<h3 id="orgd8be9b5"><span class="section-number-3">2.8</span> Ecclesiastes 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+coacervavi mihi argentum et aurum,  et substantias regum ac provinciarum ;  feci mihi cantores et cantatrices,  et delicias filiorum hominum,  scyphos, et urceos in ministerio ad vina fundenda ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org750c821" class="outline-3">
+<h3 id="org750c821"><span class="section-number-3">2.9</span> Ecclesiastes 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+et supergressus sum opibus  omnes qui ante me fuerunt in Jerusalem :  sapientia quoque perseveravit mecum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org257a5c5" class="outline-3">
+<h3 id="org257a5c5"><span class="section-number-3">2.10</span> Ecclesiastes 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+Et omnia quæ desideraverunt oculi mei  non negavi eis,  nec prohibui cor meum quin omni voluptate frueretur,  et oblectaret se in his quæ præparaveram ;  et hanc ratus sum partem meam si uterer labore meo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9cf768a" class="outline-3">
+<h3 id="org9cf768a"><span class="section-number-3">2.11</span> Ecclesiastes 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+Cumque me convertissem ad universa opera quæ fecerant manus meæ,  et ad labores in quibus frustra sudaveram,  vidi in omnibus vanitatem et afflictionem animi,  et nihil permanere sub sole. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org27fd937" class="outline-3">
+<h3 id="org27fd937"><span class="section-number-3">2.12</span> Ecclesiastes 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+Transivi ad contemplandam sapientiam,  erroresque, et stultitiam.  (Quid est, inquam, homo,  ut sequi possit regem, factorem suum ?) 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0089741" class="outline-3">
+<h3 id="org0089741"><span class="section-number-3">2.13</span> Ecclesiastes 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+Et vidi quod tantum præcederet sapientia stultitiam,  quantum differt lux a tenebris. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdca8aaf" class="outline-3">
+<h3 id="orgdca8aaf"><span class="section-number-3">2.14</span> Ecclesiastes 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+Sapientis oculi in capite ejus ;  stultus in tenebris ambulat :  et didici quod unus utriusque esset interitus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org519ae52" class="outline-3">
+<h3 id="org519ae52"><span class="section-number-3">2.15</span> Ecclesiastes 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+Et dixi in corde meo :  Si unus et stulti et meus occasus erit,  quid mihi prodest quod majorem sapientiæ dedi operam ?  Locutusque cum mente mea,  animadverti quod hoc quoque esset vanitas. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgee89938" class="outline-3">
+<h3 id="orgee89938"><span class="section-number-3">2.16</span> Ecclesiastes 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+Non enim erit memoria sapientis similiter ut stulti in perpetuum,  et futura tempora oblivione cuncta pariter operient :  moritur doctus similiter ut indoctus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org24eb09a" class="outline-3">
+<h3 id="org24eb09a"><span class="section-number-3">2.17</span> Ecclesiastes 2:17</h3>
+<div class="outline-text-3" id="text-2-17">
+<p>
+Et idcirco tæduit me vitæ meæ,  videntem mala universa esse sub sole,  et cuncta vanitatem et afflictionem spiritus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2279b80" class="outline-3">
+<h3 id="org2279b80"><span class="section-number-3">2.18</span> Ecclesiastes 2:18</h3>
+<div class="outline-text-3" id="text-2-18">
+<p>
+Rursus detestatus sum omnem industriam meam,  qua sub sole studiosissime laboravi,  habiturus hæredem post me, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org88f80d7" class="outline-3">
+<h3 id="org88f80d7"><span class="section-number-3">2.19</span> Ecclesiastes 2:19</h3>
+<div class="outline-text-3" id="text-2-19">
+<p>
+quem ignoro utrum sapiens an stultus futurus sit,  et dominabitur in laboribus meis,  quibus desudavi et sollicitus fui :  et est quidquam tam vanum ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge0c6a74" class="outline-3">
+<h3 id="orge0c6a74"><span class="section-number-3">2.20</span> Ecclesiastes 2:20</h3>
+<div class="outline-text-3" id="text-2-20">
+<p>
+Unde cessavi,  renuntiavitque cor meum ultra laborare sub sole. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org41a5fea" class="outline-3">
+<h3 id="org41a5fea"><span class="section-number-3">2.21</span> Ecclesiastes 2:21</h3>
+<div class="outline-text-3" id="text-2-21">
+<p>
+Nam cum alius laboret in sapientia,  et doctrina, et sollicitudine,  homini otioso quæsita dimittit ;  et hoc ergo vanitas et magnum malum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9386a14" class="outline-3">
+<h3 id="org9386a14"><span class="section-number-3">2.22</span> Ecclesiastes 2:22</h3>
+<div class="outline-text-3" id="text-2-22">
+<p>
+Quid enim proderit homini de universo labore suo,  et afflictione spiritus,  qua sub sole cruciatus est ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc011aa" class="outline-3">
+<h3 id="orgfc011aa"><span class="section-number-3">2.23</span> Ecclesiastes 2:23</h3>
+<div class="outline-text-3" id="text-2-23">
+<p>
+Cuncti dies ejus doloribus et ærumnis pleni sunt,  nec per noctem mente requiescit.  Et hoc nonne vanitas est ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3e3a11e" class="outline-3">
+<h3 id="org3e3a11e"><span class="section-number-3">2.24</span> Ecclesiastes 2:24</h3>
+<div class="outline-text-3" id="text-2-24">
+<p>
+Nonne melius est comedere et bibere,  et ostendere animæ suæ bona de laboribus suis ?  et hoc de manu Dei est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf8d1c6b" class="outline-3">
+<h3 id="orgf8d1c6b"><span class="section-number-3">2.25</span> Ecclesiastes 2:25</h3>
+<div class="outline-text-3" id="text-2-25">
+<p>
+Quis ita devorabit et deliciis affluet ut ego ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga0d9292" class="outline-3">
+<h3 id="orga0d9292"><span class="section-number-3">2.26</span> Ecclesiastes 2:26</h3>
+<div class="outline-text-3" id="text-2-26">
+<p>
+Homini bono in conspectu suo  dedit Deus sapientiam, et scientiam, et lætitiam ;  peccatori autem dedit afflictionem et curam superfluam,  ut addat, et congreget,  et tradat ei qui placuit Deo ;  sed et hoc vanitas est, et cassa sollicitudo mentis.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org3d09461" class="outline-2">
+<h2 id="org3d09461"><span class="section-number-2">3</span> Ecclesiastes 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-orgd5aab2b" class="outline-3">
+<h3 id="orgd5aab2b"><span class="section-number-3">3.1</span> Ecclesiastes 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+Omnia tempus habent,  et suis spatiis transeunt universa sub cælo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6830806" class="outline-3">
+<h3 id="org6830806"><span class="section-number-3">3.2</span> Ecclesiastes 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+Tempus nascendi, et tempus moriendi ;  tempus plantandi, et tempus evellendi quod plantatum est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org396df52" class="outline-3">
+<h3 id="org396df52"><span class="section-number-3">3.3</span> Ecclesiastes 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+Tempus occidendi, et tempus sanandi ;  tempus destruendi, et tempus ædificandi. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfd83a20" class="outline-3">
+<h3 id="orgfd83a20"><span class="section-number-3">3.4</span> Ecclesiastes 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+Tempus flendi, et tempus ridendi ;  tempus plangendi, et tempus saltandi. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org08485b9" class="outline-3">
+<h3 id="org08485b9"><span class="section-number-3">3.5</span> Ecclesiastes 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+Tempus spargendi lapides, et tempus colligendi,  tempus amplexandi, et tempus longe fieri ab amplexibus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbd3a82c" class="outline-3">
+<h3 id="orgbd3a82c"><span class="section-number-3">3.6</span> Ecclesiastes 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+Tempus acquirendi, et tempus perdendi ;  tempus custodiendi, et tempus abjiciendi. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org90769f8" class="outline-3">
+<h3 id="org90769f8"><span class="section-number-3">3.7</span> Ecclesiastes 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+Tempus scindendi, et tempus consuendi ;  tempus tacendi, et tempus loquendi. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9df334d" class="outline-3">
+<h3 id="org9df334d"><span class="section-number-3">3.8</span> Ecclesiastes 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+Tempus dilectionis, et tempus odii ;  tempus belli, et tempus pacis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2f39445" class="outline-3">
+<h3 id="org2f39445"><span class="section-number-3">3.9</span> Ecclesiastes 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+Quid habet amplius homo de labore suo ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf590f36" class="outline-3">
+<h3 id="orgf590f36"><span class="section-number-3">3.10</span> Ecclesiastes 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+Vidi afflictionem quam dedit Deus filiis hominum,  ut distendantur in ea. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfd67834" class="outline-3">
+<h3 id="orgfd67834"><span class="section-number-3">3.11</span> Ecclesiastes 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+Cuncta fecit bona in tempore suo,  et mundum tradidit disputationi eorum,  ut non inveniat homo opus  quod operatus est Deus ab initio usque ad finem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f97043" class="outline-3">
+<h3 id="org7f97043"><span class="section-number-3">3.12</span> Ecclesiastes 3:12</h3>
+<div class="outline-text-3" id="text-3-12">
+<p>
+Et cognovi quod non esset melius nisi lætari,  et facere bene in vita sua ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org818e28e" class="outline-3">
+<h3 id="org818e28e"><span class="section-number-3">3.13</span> Ecclesiastes 3:13</h3>
+<div class="outline-text-3" id="text-3-13">
+<p>
+omnis enim homo qui comedit et bibit,  et videt bonum de labore suo,  hoc donum Dei est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4414e8c" class="outline-3">
+<h3 id="org4414e8c"><span class="section-number-3">3.14</span> Ecclesiastes 3:14</h3>
+<div class="outline-text-3" id="text-3-14">
+<p>
+Didici quod omnia opera quæ fecit Deus perseverent in perpetuum ;  non possumus eis quidquam addere, nec auferre,  quæ fecit Deus ut timeatur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org860af0e" class="outline-3">
+<h3 id="org860af0e"><span class="section-number-3">3.15</span> Ecclesiastes 3:15</h3>
+<div class="outline-text-3" id="text-3-15">
+<p>
+Quod factum est, ipsum permanet ;  quæ futura sunt jam fuerunt,  et Deus instaurat quod abiit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f506bd" class="outline-3">
+<h3 id="org3f506bd"><span class="section-number-3">3.16</span> Ecclesiastes 3:16</h3>
+<div class="outline-text-3" id="text-3-16">
+<p>
+Vidi sub sole in loco judicii impietatem,  et in loco justitiæ iniquitatem : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8bc01ec" class="outline-3">
+<h3 id="org8bc01ec"><span class="section-number-3">3.17</span> Ecclesiastes 3:17</h3>
+<div class="outline-text-3" id="text-3-17">
+<p>
+et dixi in corde meo :  Justum et impium judicabit Deus,  et tempus omnis rei tunc erit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org48a12a8" class="outline-3">
+<h3 id="org48a12a8"><span class="section-number-3">3.18</span> Ecclesiastes 3:18</h3>
+<div class="outline-text-3" id="text-3-18">
+<p>
+Dixi in corde meo de filiis hominum,  ut probaret eos Deus,  et ostenderet similes esse bestiis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdd09fb6" class="outline-3">
+<h3 id="orgdd09fb6"><span class="section-number-3">3.19</span> Ecclesiastes 3:19</h3>
+<div class="outline-text-3" id="text-3-19">
+<p>
+Idcirco unus interitus est hominis et jumentorum,  et æqua utriusque conditio.  Sicut moritur homo,  sic et illa moriuntur.  Similiter spirant omnia,  et nihil habet homo jumento amplius :  cuncta subjacent vanitati, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfa2ccce" class="outline-3">
+<h3 id="orgfa2ccce"><span class="section-number-3">3.20</span> Ecclesiastes 3:20</h3>
+<div class="outline-text-3" id="text-3-20">
+<p>
+et omnia pergunt ad unum locum.  De terra facta sunt,  et in terram pariter revertuntur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8f45d13" class="outline-3">
+<h3 id="org8f45d13"><span class="section-number-3">3.21</span> Ecclesiastes 3:21</h3>
+<div class="outline-text-3" id="text-3-21">
+<p>
+Quis novit si spiritus filiorum Adam ascendat sursum,  et si spiritus jumentorum descendat deorsum ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org96a772f" class="outline-3">
+<h3 id="org96a772f"><span class="section-number-3">3.22</span> Ecclesiastes 3:22</h3>
+<div class="outline-text-3" id="text-3-22">
+<p>
+Et deprehendi nihil esse melius  quam lætari hominem in opere suo,  et hanc esse partem illius.  Quis enim eum adducet ut post se futura cognoscat ?  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org1f337cd" class="outline-2">
+<h2 id="org1f337cd"><span class="section-number-2">4</span> Ecclesiastes 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org796b37a" class="outline-3">
+<h3 id="org796b37a"><span class="section-number-3">4.1</span> Ecclesiastes 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Verti me ad alia, et vidi calumnias  quæ sub sole geruntur,  et lacrimas innocentium,  et neminem consolatorem,  nec posse resistere eorum violentiæ,  cunctorum auxilio destitutos, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6ae4ef9" class="outline-3">
+<h3 id="org6ae4ef9"><span class="section-number-3">4.2</span> Ecclesiastes 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+et laudavi magis mortuos quam viventes ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org318d77d" class="outline-3">
+<h3 id="org318d77d"><span class="section-number-3">4.3</span> Ecclesiastes 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+et feliciorem utroque judicavi  qui necdum natus est,  nec vidit mala quæ sub sole fiunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6ec5649" class="outline-3">
+<h3 id="org6ec5649"><span class="section-number-3">4.4</span> Ecclesiastes 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+Rursum contemplatus sum omnes labores hominum,  et industrias animadverti patere invidiæ proximi ;  et in hoc ergo vanitas et cura superflua est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org86bb233" class="outline-3">
+<h3 id="org86bb233"><span class="section-number-3">4.5</span> Ecclesiastes 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+Stultus complicat manus suas,  et comedit carnes suas, dicens : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb42fa4c" class="outline-3">
+<h3 id="orgb42fa4c"><span class="section-number-3">4.6</span> Ecclesiastes 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+Melior est pugillus cum requie,  quam plena utraque manus cum labore et afflictione animi. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd910fcf" class="outline-3">
+<h3 id="orgd910fcf"><span class="section-number-3">4.7</span> Ecclesiastes 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+Considerans, reperi et aliam vanitatem sub sole. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2c6fd64" class="outline-3">
+<h3 id="org2c6fd64"><span class="section-number-3">4.8</span> Ecclesiastes 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+Unus est, et secundum non habet,  non filium, non fratrem,  et tamen laborare non cessat,  nec satiantur oculi ejus divitiis ;  nec recogitat, dicens :  Cui laboro, et fraudo animam meam bonis ?  In hoc quoque vanitas est et afflictio pessima. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orged4f8d8" class="outline-3">
+<h3 id="orged4f8d8"><span class="section-number-3">4.9</span> Ecclesiastes 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+Melius est ergo duos esse simul quam unum ;  habent enim emolumentum societatis suæ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf7e0ab2" class="outline-3">
+<h3 id="orgf7e0ab2"><span class="section-number-3">4.10</span> Ecclesiastes 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+Si unus ceciderit, ab altero fulcietur.  Væ soli, quia cum ceciderit, non habet sublevantem se. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf5ecf04" class="outline-3">
+<h3 id="orgf5ecf04"><span class="section-number-3">4.11</span> Ecclesiastes 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+Et si dormierint duo, fovebuntur mutuo ;  unus quomodo calefiet ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga984df8" class="outline-3">
+<h3 id="orga984df8"><span class="section-number-3">4.12</span> Ecclesiastes 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+Et si quispiam prævaluerit contra unum,  duo resistunt ei ;  funiculus triplex difficile rumpitur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc0e6f9f" class="outline-3">
+<h3 id="orgc0e6f9f"><span class="section-number-3">4.13</span> Ecclesiastes 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+Melior est puer pauper et sapiens,  rege sene et stulto,  qui nescit prævidere in posterum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgba4fbae" class="outline-3">
+<h3 id="orgba4fbae"><span class="section-number-3">4.14</span> Ecclesiastes 4:14</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+Quod de carcere catenisque interdum quis egrediatur ad regnum ;  et alius, natus in regno, inopia consumatur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1bb598e" class="outline-3">
+<h3 id="org1bb598e"><span class="section-number-3">4.15</span> Ecclesiastes 4:15</h3>
+<div class="outline-text-3" id="text-4-15">
+<p>
+Vidi cunctos viventes qui ambulant sub sole  cum adolescente secundo, qui consurget pro eo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5f703a2" class="outline-3">
+<h3 id="org5f703a2"><span class="section-number-3">4.16</span> Ecclesiastes 4:16</h3>
+<div class="outline-text-3" id="text-4-16">
+<p>
+Infinitus numerus est populi  omnium qui fuerunt ante eum,  et qui postea futuri sunt non lætabuntur in eo ;  sed et hoc vanitas et afflictio spiritus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org17445ef" class="outline-3">
+<h3 id="org17445ef"><span class="section-number-3">4.17</span> Ecclesiastes 4:17</h3>
+<div class="outline-text-3" id="text-4-17">
+<p>
+Custodi pedem tuum ingrediens domum Dei,  et appropinqua ut audias.  Multo enim melior est obedientia quam stultorum victimæ,  qui nesciunt quid faciunt mali.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgc6bd49a" class="outline-2">
+<h2 id="orgc6bd49a"><span class="section-number-2">5</span> Ecclesiastes 5</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-orgb22f264" class="outline-3">
+<h3 id="orgb22f264"><span class="section-number-3">5.1</span> Ecclesiastes 5:1</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Ne temere quid loquaris,  neque cor tuum sit velox ad proferendum sermonem coram Deo.  Deus enim in cælo, et tu super terram ;  idcirco sint pauci sermones tui. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdae8229" class="outline-3">
+<h3 id="orgdae8229"><span class="section-number-3">5.2</span> Ecclesiastes 5:2</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Multas curas sequuntur somnia,  et in multis sermonibus invenietur stultitia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfccea39" class="outline-3">
+<h3 id="orgfccea39"><span class="section-number-3">5.3</span> Ecclesiastes 5:3</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+Si quid vovisti Deo,  ne moreris reddere :  displicet enim ei infidelis et stulta promissio,  sed quodcumque voveris redde : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb9df40a" class="outline-3">
+<h3 id="orgb9df40a"><span class="section-number-3">5.4</span> Ecclesiastes 5:4</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+multoque melius est non vovere,  quam post votum promissa non reddere. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org216d79e" class="outline-3">
+<h3 id="org216d79e"><span class="section-number-3">5.5</span> Ecclesiastes 5:5</h3>
+<div class="outline-text-3" id="text-5-5">
+<p>
+Ne dederis os tuum ut peccare facias carnem tuam,  neque dicas coram angelo :  Non est providentia :  ne forte iratus Deus contra sermones tuos  dissipet cuncta opera manuum tuarum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc97ee2" class="outline-3">
+<h3 id="orgfc97ee2"><span class="section-number-3">5.6</span> Ecclesiastes 5:6</h3>
+<div class="outline-text-3" id="text-5-6">
+<p>
+Ubi multa sunt somnia,  plurimæ sunt vanitates, et sermones innumeri ;  tu vero Deum time. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org36d4dad" class="outline-3">
+<h3 id="org36d4dad"><span class="section-number-3">5.7</span> Ecclesiastes 5:7</h3>
+<div class="outline-text-3" id="text-5-7">
+<p>
+Si videris calumnias egenorum, et violenta judicia,  et subverti justitiam in provincia,  non mireris super hoc negotio :  quia excelso excelsior est alius,  et super hos quoque eminentiores sunt alii ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org123b4d7" class="outline-3">
+<h3 id="org123b4d7"><span class="section-number-3">5.8</span> Ecclesiastes 5:8</h3>
+<div class="outline-text-3" id="text-5-8">
+<p>
+et insuper universæ terræ rex imperat servienti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf2f8639" class="outline-3">
+<h3 id="orgf2f8639"><span class="section-number-3">5.9</span> Ecclesiastes 5:9</h3>
+<div class="outline-text-3" id="text-5-9">
+<p>
+Avarus non implebitur pecunia,  et qui amat divitias fructum non capiet ex eis ;  et hoc ergo vanitas. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org371e0aa" class="outline-3">
+<h3 id="org371e0aa"><span class="section-number-3">5.10</span> Ecclesiastes 5:10</h3>
+<div class="outline-text-3" id="text-5-10">
+<p>
+Ubi multæ sunt opes,  multi et qui comedunt eas.  Et quid prodest possessori,  nisi quod cernit divitias oculis suis ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga4b0fbc" class="outline-3">
+<h3 id="orga4b0fbc"><span class="section-number-3">5.11</span> Ecclesiastes 5:11</h3>
+<div class="outline-text-3" id="text-5-11">
+<p>
+Dulcis est somnus operanti,  sive parum sive multum comedat ;  saturitas autem divitis non sinit eum dormire. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga321e50" class="outline-3">
+<h3 id="orga321e50"><span class="section-number-3">5.12</span> Ecclesiastes 5:12</h3>
+<div class="outline-text-3" id="text-5-12">
+<p>
+Est et alia infirmitas pessima quam vidi sub sole :  divitiæ conservatæ in malum domini sui. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7b8ab4e" class="outline-3">
+<h3 id="org7b8ab4e"><span class="section-number-3">5.13</span> Ecclesiastes 5:13</h3>
+<div class="outline-text-3" id="text-5-13">
+<p>
+Pereunt enim in afflictione pessima :  generavit filium qui in summa egestate erit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc78ded8" class="outline-3">
+<h3 id="orgc78ded8"><span class="section-number-3">5.14</span> Ecclesiastes 5:14</h3>
+<div class="outline-text-3" id="text-5-14">
+<p>
+Sicut egressus est nudus de utero matris suæ, sic revertetur,  et nihil auferet secum de labore suo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75a57eb" class="outline-3">
+<h3 id="org75a57eb"><span class="section-number-3">5.15</span> Ecclesiastes 5:15</h3>
+<div class="outline-text-3" id="text-5-15">
+<p>
+Miserabilis prorsus infirmitas :  quomodo venit, sic revertetur.  Quid ergo prodest ei quod laboravit in ventum ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org648a7ec" class="outline-3">
+<h3 id="org648a7ec"><span class="section-number-3">5.16</span> Ecclesiastes 5:16</h3>
+<div class="outline-text-3" id="text-5-16">
+<p>
+cunctis diebus vitæ suæ comedit in tenebris,  et in curis multis, et in ærumna atque tristitia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org267f6a6" class="outline-3">
+<h3 id="org267f6a6"><span class="section-number-3">5.17</span> Ecclesiastes 5:17</h3>
+<div class="outline-text-3" id="text-5-17">
+<p>
+Hoc itaque visum est mihi bonum,  ut comedat quis et bibat,  et fruatur lætitia ex labore suo  quo laboravit ipse sub sole,  numero dierum vitæ suæ  quos dedit ei Deus ;  et hæc est pars illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf3680c0" class="outline-3">
+<h3 id="orgf3680c0"><span class="section-number-3">5.18</span> Ecclesiastes 5:18</h3>
+<div class="outline-text-3" id="text-5-18">
+<p>
+Et omni homini cui dedit Deus divitias atque substantiam,  potestatemque ei tribuit ut comedat ex eis,  et fruatur parte sua, et lætetur de labore suo :  hoc est donum Dei. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6e208b3" class="outline-3">
+<h3 id="org6e208b3"><span class="section-number-3">5.19</span> Ecclesiastes 5:19</h3>
+<div class="outline-text-3" id="text-5-19">
+<p>
+Non enim satis recordabitur dierum vitæ suæ,  eo quod Deus occupet deliciis cor ejus.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd278747" class="outline-2">
+<h2 id="orgd278747"><span class="section-number-2">6</span> Ecclesiastes 6</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-org3bc4eae" class="outline-3">
+<h3 id="org3bc4eae"><span class="section-number-3">6.1</span> Ecclesiastes 6:1</h3>
+<div class="outline-text-3" id="text-6-1">
+<p>
+Est et aliud malum quod vidi sub sole,  et quidem frequens apud homines : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc4b5f65" class="outline-3">
+<h3 id="orgc4b5f65"><span class="section-number-3">6.2</span> Ecclesiastes 6:2</h3>
+<div class="outline-text-3" id="text-6-2">
+<p>
+vir cui dedit Deus divitias,  et substantiam, et honorem,  et nihil deest animæ suæ ex omnibus quæ desiderat ;  nec tribuit ei potestatem Deus ut comedat ex eo,  sed homo extraneus vorabit illud :  hoc vanitas et miseria magna est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0fe67ab" class="outline-3">
+<h3 id="org0fe67ab"><span class="section-number-3">6.3</span> Ecclesiastes 6:3</h3>
+<div class="outline-text-3" id="text-6-3">
+<p>
+Si genuerit quispiam centum liberos,  et vixerit multos annos,  et plures dies ætatis habuerit,  et anima illius non utatur bonis substantiæ suæ,  sepulturaque careat :  de hoc ergo pronuntio quod melior illo sit abortivus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org887e0eb" class="outline-3">
+<h3 id="org887e0eb"><span class="section-number-3">6.4</span> Ecclesiastes 6:4</h3>
+<div class="outline-text-3" id="text-6-4">
+<p>
+Frustra enim venit,  et pergit ad tenebras,  et oblivione delebitur nomen ejus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org47ca397" class="outline-3">
+<h3 id="org47ca397"><span class="section-number-3">6.5</span> Ecclesiastes 6:5</h3>
+<div class="outline-text-3" id="text-6-5">
+<p>
+Non vidit solem,  neque cognovit distantiam boni et mali. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeaff431" class="outline-3">
+<h3 id="orgeaff431"><span class="section-number-3">6.6</span> Ecclesiastes 6:6</h3>
+<div class="outline-text-3" id="text-6-6">
+<p>
+Etiam si duobus millibus annis vixerit,  et non fuerit perfruitus bonis,  nonne ad unum locum properant omnia ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc15610" class="outline-3">
+<h3 id="orgfc15610"><span class="section-number-3">6.7</span> Ecclesiastes 6:7</h3>
+<div class="outline-text-3" id="text-6-7">
+<p>
+Omnis labor hominis in ore ejus ;  sed anima ejus non implebitur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org11f4569" class="outline-3">
+<h3 id="org11f4569"><span class="section-number-3">6.8</span> Ecclesiastes 6:8</h3>
+<div class="outline-text-3" id="text-6-8">
+<p>
+Quid habet amplius sapiens a stulto ?  et quid pauper, nisi ut pergat illuc ubi est vita ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge2c7033" class="outline-3">
+<h3 id="orge2c7033"><span class="section-number-3">6.9</span> Ecclesiastes 6:9</h3>
+<div class="outline-text-3" id="text-6-9">
+<p>
+Melius est videre quod cupias,  quam desiderare quod nescias.  Sed et hoc vanitas est, et præsumptio spiritus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdeb68c8" class="outline-3">
+<h3 id="orgdeb68c8"><span class="section-number-3">6.10</span> Ecclesiastes 6:10</h3>
+<div class="outline-text-3" id="text-6-10">
+<p>
+Qui futurus est, jam vocatum est nomen ejus ;  et scitur quod homo sit,  et non possit contra fortiorem se in judicio contendere. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb4f148c" class="outline-3">
+<h3 id="orgb4f148c"><span class="section-number-3">6.11</span> Ecclesiastes 6:11</h3>
+<div class="outline-text-3" id="text-6-11">
+<p>
+Verba sunt plurima,  multamque in disputando habentia vanitatem.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgc477876" class="outline-2">
+<h2 id="orgc477876"><span class="section-number-2">7</span> Ecclesiastes 7</h2>
+<div class="outline-text-2" id="text-7">
+</div>
+<div id="outline-container-orgba17ff9" class="outline-3">
+<h3 id="orgba17ff9"><span class="section-number-3">7.1</span> Ecclesiastes 7:1</h3>
+<div class="outline-text-3" id="text-7-1">
+<p>
+Quid necesse est homini majora se quærere,  cum ignoret quid conducat sibi in vita sua,  numero dierum peregrinationis suæ,  et tempore quod velut umbra præterit ?  aut quis ei poterit indicare  quod post eum futurum sub sole sit ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b012bb" class="outline-3">
+<h3 id="org3b012bb"><span class="section-number-3">7.2</span> Ecclesiastes 7:2</h3>
+<div class="outline-text-3" id="text-7-2">
+<p>
+Melius est nomen bonum quam unguenta pretiosa,  et dies mortis die nativitatis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8d6345f" class="outline-3">
+<h3 id="org8d6345f"><span class="section-number-3">7.3</span> Ecclesiastes 7:3</h3>
+<div class="outline-text-3" id="text-7-3">
+<p>
+Melius est ire ad domum luctus  quam ad domum convivii ;  in illa enim finis cunctorum admonetur hominum,  et vivens cogitat quid futurum sit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgca925db" class="outline-3">
+<h3 id="orgca925db"><span class="section-number-3">7.4</span> Ecclesiastes 7:4</h3>
+<div class="outline-text-3" id="text-7-4">
+<p>
+Melior est ira risu,  quia per tristitiam vultus corrigitur animus delinquentis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeceb184" class="outline-3">
+<h3 id="orgeceb184"><span class="section-number-3">7.5</span> Ecclesiastes 7:5</h3>
+<div class="outline-text-3" id="text-7-5">
+<p>
+Cor sapientium ubi tristitia est,  et cor stultorum ubi lætitia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbd0e54f" class="outline-3">
+<h3 id="orgbd0e54f"><span class="section-number-3">7.6</span> Ecclesiastes 7:6</h3>
+<div class="outline-text-3" id="text-7-6">
+<p>
+Melius est a sapiente corripi,  quam stultorum adulatione decipi ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc35bc7e" class="outline-3">
+<h3 id="orgc35bc7e"><span class="section-number-3">7.7</span> Ecclesiastes 7:7</h3>
+<div class="outline-text-3" id="text-7-7">
+<p>
+quia sicut sonitus spinarum ardentium sub olla,  sic risus stulti.  Sed et hoc vanitas. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge3fdc8b" class="outline-3">
+<h3 id="orge3fdc8b"><span class="section-number-3">7.8</span> Ecclesiastes 7:8</h3>
+<div class="outline-text-3" id="text-7-8">
+<p>
+Calumnia conturbat sapientem,  et perdet robur cordis illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf6f5d7b" class="outline-3">
+<h3 id="orgf6f5d7b"><span class="section-number-3">7.9</span> Ecclesiastes 7:9</h3>
+<div class="outline-text-3" id="text-7-9">
+<p>
+Melior est finis orationis quam principium.  Melior est patiens arrogante. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org61d5a11" class="outline-3">
+<h3 id="org61d5a11"><span class="section-number-3">7.10</span> Ecclesiastes 7:10</h3>
+<div class="outline-text-3" id="text-7-10">
+<p>
+Ne sis velox ad irascendum,  quia ira in sinu stulti requiescit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8d2191f" class="outline-3">
+<h3 id="org8d2191f"><span class="section-number-3">7.11</span> Ecclesiastes 7:11</h3>
+<div class="outline-text-3" id="text-7-11">
+<p>
+Ne dicas : Quid putas causæ est  quod priora tempora meliora fuere quam nunc sunt ?  stulta enim est hujuscemodi interrogatio. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org780c2d4" class="outline-3">
+<h3 id="org780c2d4"><span class="section-number-3">7.12</span> Ecclesiastes 7:12</h3>
+<div class="outline-text-3" id="text-7-12">
+<p>
+Utilior est sapientia cum divitiis,  et magis prodest videntibus solem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05a7a98" class="outline-3">
+<h3 id="org05a7a98"><span class="section-number-3">7.13</span> Ecclesiastes 7:13</h3>
+<div class="outline-text-3" id="text-7-13">
+<p>
+Sicut enim protegit sapientia, sic protegit pecunia ;  hoc autem plus habet eruditio et sapientia,  quod vitam tribuunt possessori suo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9df86c2" class="outline-3">
+<h3 id="org9df86c2"><span class="section-number-3">7.14</span> Ecclesiastes 7:14</h3>
+<div class="outline-text-3" id="text-7-14">
+<p>
+Considera opera Dei,  quod nemo possit corrigere quem ille despexerit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f510a2" class="outline-3">
+<h3 id="org3f510a2"><span class="section-number-3">7.15</span> Ecclesiastes 7:15</h3>
+<div class="outline-text-3" id="text-7-15">
+<p>
+In die bona fruere bonis,  et malam diem præcave ;  sicut enim hanc, sic et illam fecit Deus,  ut non inveniat homo contra eum justas querimonias. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4ae5d24" class="outline-3">
+<h3 id="org4ae5d24"><span class="section-number-3">7.16</span> Ecclesiastes 7:16</h3>
+<div class="outline-text-3" id="text-7-16">
+<p>
+Hæc quoque vidi in diebus vanitatis meæ :  justus perit in justitia sua,  et impius multo vivit tempore in malitia sua. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7d9048f" class="outline-3">
+<h3 id="org7d9048f"><span class="section-number-3">7.17</span> Ecclesiastes 7:17</h3>
+<div class="outline-text-3" id="text-7-17">
+<p>
+Noli esse justus multum,  neque plus sapias quam necesse est,  ne obstupescas. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b0cd62" class="outline-3">
+<h3 id="org3b0cd62"><span class="section-number-3">7.18</span> Ecclesiastes 7:18</h3>
+<div class="outline-text-3" id="text-7-18">
+<p>
+Ne impie agas multum,  et noli esse stultus,  ne moriaris in tempore non tuo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge784cc7" class="outline-3">
+<h3 id="orge784cc7"><span class="section-number-3">7.19</span> Ecclesiastes 7:19</h3>
+<div class="outline-text-3" id="text-7-19">
+<p>
+Bonum est te sustentare justum :  sed et ab illo ne subtrahas manum tuam ;  quia qui timet Deum nihil negligit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5d7aabd" class="outline-3">
+<h3 id="org5d7aabd"><span class="section-number-3">7.20</span> Ecclesiastes 7:20</h3>
+<div class="outline-text-3" id="text-7-20">
+<p>
+Sapientia confortavit sapientem  super decem principes civitatis ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge5e4171" class="outline-3">
+<h3 id="orge5e4171"><span class="section-number-3">7.21</span> Ecclesiastes 7:21</h3>
+<div class="outline-text-3" id="text-7-21">
+<p>
+non est enim homo justus in terra  qui faciat bonum et non peccet. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge1fbdd6" class="outline-3">
+<h3 id="orge1fbdd6"><span class="section-number-3">7.22</span> Ecclesiastes 7:22</h3>
+<div class="outline-text-3" id="text-7-22">
+<p>
+Sed et cunctis sermonibus qui dicuntur  ne accomodes cor tuum,  ne forte audias servum tuum maledicentem tibi ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdfd7eb8" class="outline-3">
+<h3 id="orgdfd7eb8"><span class="section-number-3">7.23</span> Ecclesiastes 7:23</h3>
+<div class="outline-text-3" id="text-7-23">
+<p>
+scit enim conscientia tua  quia et tu crebro maledixisti aliis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6096b59" class="outline-3">
+<h3 id="org6096b59"><span class="section-number-3">7.24</span> Ecclesiastes 7:24</h3>
+<div class="outline-text-3" id="text-7-24">
+<p>
+Cuncta tentavi in sapientia.  Dixi : Sapiens efficiar :  et ipsa longius recessit a me, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org42f715f" class="outline-3">
+<h3 id="org42f715f"><span class="section-number-3">7.25</span> Ecclesiastes 7:25</h3>
+<div class="outline-text-3" id="text-7-25">
+<p>
+multo magis quam erat.  Et alta profunditas, quis inveniet eam ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0ca619b" class="outline-3">
+<h3 id="org0ca619b"><span class="section-number-3">7.26</span> Ecclesiastes 7:26</h3>
+<div class="outline-text-3" id="text-7-26">
+<p>
+Lustravi universa animo meo,  ut scirem et considerarem,  et quærerem sapientiam, et rationem,  et ut cognoscerem impietatem stulti,  et errorem imprudentium : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org529f4c5" class="outline-3">
+<h3 id="org529f4c5"><span class="section-number-3">7.27</span> Ecclesiastes 7:27</h3>
+<div class="outline-text-3" id="text-7-27">
+<p>
+et inveni amariorem morte mulierem,  quæ laqueus venatorum est,  et sagena cor ejus ;  vincula sunt manus illius.  Qui placet Deo effugiet illam ;  qui autem peccator est capietur ab illa. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8beb353" class="outline-3">
+<h3 id="org8beb353"><span class="section-number-3">7.28</span> Ecclesiastes 7:28</h3>
+<div class="outline-text-3" id="text-7-28">
+<p>
+Ecce hoc inveni, dixit Ecclesiastes,  unum et alterum ut invenirem rationem, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda08e47" class="outline-3">
+<h3 id="orgda08e47"><span class="section-number-3">7.29</span> Ecclesiastes 7:29</h3>
+<div class="outline-text-3" id="text-7-29">
+<p>
+quam adhuc quærit anima mea,  et non inveni.  Virum de mille unum reperi ;  mulierem ex omnibus non inveni. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc57fe50" class="outline-3">
+<h3 id="orgc57fe50"><span class="section-number-3">7.30</span> Ecclesiastes 7:30</h3>
+<div class="outline-text-3" id="text-7-30">
+<p>
+Solummodo hoc inveni,  quod fecerit Deus hominem rectum,  et ipse se infinitis miscuerit quæstionibus.  Quis talis ut sapiens est ?  et quis cognovit solutionem verbi ?  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org5635330" class="outline-2">
+<h2 id="org5635330"><span class="section-number-2">8</span> Ecclesiastes 8</h2>
+<div class="outline-text-2" id="text-8">
+</div>
+<div id="outline-container-orgd6bd1af" class="outline-3">
+<h3 id="orgd6bd1af"><span class="section-number-3">8.1</span> Ecclesiastes 8:1</h3>
+<div class="outline-text-3" id="text-8-1">
+<p>
+Sapientia hominis lucet in vultu ejus,  et potentissimus faciem illius commutabit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdc09a9e" class="outline-3">
+<h3 id="orgdc09a9e"><span class="section-number-3">8.2</span> Ecclesiastes 8:2</h3>
+<div class="outline-text-3" id="text-8-2">
+<p>
+Ego os regis observo,  et præcepta juramenti Dei. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0c317b7" class="outline-3">
+<h3 id="org0c317b7"><span class="section-number-3">8.3</span> Ecclesiastes 8:3</h3>
+<div class="outline-text-3" id="text-8-3">
+<p>
+Ne festines recedere a facie ejus,  neque permaneas in opere malo :  quia omne quod voluerit faciet. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org11f6c6c" class="outline-3">
+<h3 id="org11f6c6c"><span class="section-number-3">8.4</span> Ecclesiastes 8:4</h3>
+<div class="outline-text-3" id="text-8-4">
+<p>
+Et sermo illius potestate plenus est,  nec dicere ei quisquam potest : Quare ita facis ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1f7e48a" class="outline-3">
+<h3 id="org1f7e48a"><span class="section-number-3">8.5</span> Ecclesiastes 8:5</h3>
+<div class="outline-text-3" id="text-8-5">
+<p>
+Qui custodit præceptum non experietur quidquam mali.  Tempus et responsionem cor sapientis intelligit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org311e7fc" class="outline-3">
+<h3 id="org311e7fc"><span class="section-number-3">8.6</span> Ecclesiastes 8:6</h3>
+<div class="outline-text-3" id="text-8-6">
+<p>
+Omni negotio tempus est, et opportunitas :  et multa hominis afflictio, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org895caf4" class="outline-3">
+<h3 id="org895caf4"><span class="section-number-3">8.7</span> Ecclesiastes 8:7</h3>
+<div class="outline-text-3" id="text-8-7">
+<p>
+quia ignorat præterita,  et futura nullo scire potest nuntio. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org948a069" class="outline-3">
+<h3 id="org948a069"><span class="section-number-3">8.8</span> Ecclesiastes 8:8</h3>
+<div class="outline-text-3" id="text-8-8">
+<p>
+Non est in hominis potestate prohibere spiritum,  nec habet potestatem in die mortis :  nec sinitur quiescere ingruente bello,  neque salvabit impietas impium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6e187c9" class="outline-3">
+<h3 id="org6e187c9"><span class="section-number-3">8.9</span> Ecclesiastes 8:9</h3>
+<div class="outline-text-3" id="text-8-9">
+<p>
+Omnia hæc consideravi,  et dedi cor meum in cunctis operibus quæ fiunt sub sole.  Interdum dominatur homo homini in malum suum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda3a939" class="outline-3">
+<h3 id="orgda3a939"><span class="section-number-3">8.10</span> Ecclesiastes 8:10</h3>
+<div class="outline-text-3" id="text-8-10">
+<p>
+Vidi impios sepultos,  qui etiam cum adhuc viverent  in loco sancto erant,  et laudabantur in civitate  quasi justorum operum.  Sed et hoc vanitas est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe3a90f" class="outline-3">
+<h3 id="orgfe3a90f"><span class="section-number-3">8.11</span> Ecclesiastes 8:11</h3>
+<div class="outline-text-3" id="text-8-11">
+<p>
+Etenim quia non profertur cito contra malos sententia,  absque timore ullo  filii hominum perpetrant mala. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcf58628" class="outline-3">
+<h3 id="orgcf58628"><span class="section-number-3">8.12</span> Ecclesiastes 8:12</h3>
+<div class="outline-text-3" id="text-8-12">
+<p>
+Attamen peccator ex eo quod centies facit malum,  et per patientiam sustentatur ;  ego cognovi quod erit bonum timentibus Deum,  qui verentur faciem ejus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd0bbe1d" class="outline-3">
+<h3 id="orgd0bbe1d"><span class="section-number-3">8.13</span> Ecclesiastes 8:13</h3>
+<div class="outline-text-3" id="text-8-13">
+<p>
+Non sit bonum impio,  nec prolongentur dies ejus,  sed quasi umbra transeant qui non timent faciem Domini. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0a8442a" class="outline-3">
+<h3 id="org0a8442a"><span class="section-number-3">8.14</span> Ecclesiastes 8:14</h3>
+<div class="outline-text-3" id="text-8-14">
+<p>
+Est et alia vanitas quæ fit super terram :  sunt justi quibus mala proveniunt  quasi opera egerint impiorum :  et sunt impii qui ita securi sunt  quasi justorum facta habeant.  Sed et hoc vanissimum judico. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4698340" class="outline-3">
+<h3 id="org4698340"><span class="section-number-3">8.15</span> Ecclesiastes 8:15</h3>
+<div class="outline-text-3" id="text-8-15">
+<p>
+Laudavi igitur lætitiam ;  quod non esset homini bonum sub sole,  nisi quod comederet, et biberet, atque gauderet,  et hoc solum secum auferret de labore suo,  in diebus vitæ suæ quos dedit ei Deus sub sole. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb001f40" class="outline-3">
+<h3 id="orgb001f40"><span class="section-number-3">8.16</span> Ecclesiastes 8:16</h3>
+<div class="outline-text-3" id="text-8-16">
+<p>
+Et apposui cor meum ut scirem sapientiam,  et intelligerem distentionem quæ versatur in terra.  Est homo qui diebus et noctibus somnum non capit oculis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgadaf0b4" class="outline-3">
+<h3 id="orgadaf0b4"><span class="section-number-3">8.17</span> Ecclesiastes 8:17</h3>
+<div class="outline-text-3" id="text-8-17">
+<p>
+Et intellexi quod omnium operum Dei  nullam possit homo invenire rationem  eorum quæ fiunt sub sole ;  et quanto plus laboraverit ad quærendum,  tanto minus inveniat :  etiam si dixerit sapiens se nosse, non poterit reperire.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org6aa2585" class="outline-2">
+<h2 id="org6aa2585"><span class="section-number-2">9</span> Ecclesiastes 9</h2>
+<div class="outline-text-2" id="text-9">
+</div>
+<div id="outline-container-org7a932e0" class="outline-3">
+<h3 id="org7a932e0"><span class="section-number-3">9.1</span> Ecclesiastes 9:1</h3>
+<div class="outline-text-3" id="text-9-1">
+<p>
+Omnia hæc tractavi in corde meo,  ut curiose intelligerem.  Sunt justi atque sapientes,  et opera eorum in manu Dei ;  et tamen nescit homo utrum amore an odio dignus sit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org62620c8" class="outline-3">
+<h3 id="org62620c8"><span class="section-number-3">9.2</span> Ecclesiastes 9:2</h3>
+<div class="outline-text-3" id="text-9-2">
+<p>
+Sed omnia in futurum servantur incerta,  eo quod universa æque eveniant justo et impio,  bono et malo, mundo et immundo,  immolanti victimas et sacrificia contemnenti.  Sicut bonus, sic et peccator ;  ut perjurus, ita et ille qui verum dejerat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5c27a99" class="outline-3">
+<h3 id="org5c27a99"><span class="section-number-3">9.3</span> Ecclesiastes 9:3</h3>
+<div class="outline-text-3" id="text-9-3">
+<p>
+Hoc est pessimum inter omnia quæ sub sole fiunt :  quia eadem cunctis eveniunt.  Unde et corda filiorum hominum implentur malitia  et contemptu in vita sua,  et post hæc ad inferos deducentur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3317a0b" class="outline-3">
+<h3 id="org3317a0b"><span class="section-number-3">9.4</span> Ecclesiastes 9:4</h3>
+<div class="outline-text-3" id="text-9-4">
+<p>
+Nemo est qui semper vivat, et qui hujus rei habeat fiduciam ;  melior est canis vivus leone mortuo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb49bbe" class="outline-3">
+<h3 id="orgfb49bbe"><span class="section-number-3">9.5</span> Ecclesiastes 9:5</h3>
+<div class="outline-text-3" id="text-9-5">
+<p>
+Viventes enim sciunt se esse morituros ;  mortui vero nihil noverunt amplius,  nec habent ultra mercedem,  quia oblivioni tradita est memoria eorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga67a957" class="outline-3">
+<h3 id="orga67a957"><span class="section-number-3">9.6</span> Ecclesiastes 9:6</h3>
+<div class="outline-text-3" id="text-9-6">
+<p>
+Amor quoque, et odium, et invidiæ simul perierunt ;  nec habent partem in hoc sæculo,  et in opere quod sub sole geritur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4e7888a" class="outline-3">
+<h3 id="org4e7888a"><span class="section-number-3">9.7</span> Ecclesiastes 9:7</h3>
+<div class="outline-text-3" id="text-9-7">
+<p>
+Vade ergo, et comede in lætitia panem tuum,  et bibe cum gaudio vinum tuum,  quia Deo placent opera tua. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf3a6e76" class="outline-3">
+<h3 id="orgf3a6e76"><span class="section-number-3">9.8</span> Ecclesiastes 9:8</h3>
+<div class="outline-text-3" id="text-9-8">
+<p>
+Omni tempore sint vestimenta tua candida,  et oleum de capite tuo non deficiat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8484d0c" class="outline-3">
+<h3 id="org8484d0c"><span class="section-number-3">9.9</span> Ecclesiastes 9:9</h3>
+<div class="outline-text-3" id="text-9-9">
+<p>
+Perfruere vita cum uxore quam diligis,  cunctis diebus vitæ instabilitatis tuæ,  qui dati sunt tibi sub sole omni tempore vanitatis tuæ :  hæc est enim pars in vita  et in labore tuo quo laboras sub sole. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb9ec9ef" class="outline-3">
+<h3 id="orgb9ec9ef"><span class="section-number-3">9.10</span> Ecclesiastes 9:10</h3>
+<div class="outline-text-3" id="text-9-10">
+<p>
+Quodcumque facere potest manus tua,  instanter operare,  quia nec opus, nec ratio, nec sapientia, nec scientia  erunt apud inferos, quo tu properas. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org011edee" class="outline-3">
+<h3 id="org011edee"><span class="section-number-3">9.11</span> Ecclesiastes 9:11</h3>
+<div class="outline-text-3" id="text-9-11">
+<p>
+Verti me ad aliud, et vidi sub sole  nec velocium esse cursum,  nec fortium bellum,  nec sapientium panem,  nec doctorum divitias,  nec artificum gratiam ;  sed tempus casumque in omnibus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfee2d3a" class="outline-3">
+<h3 id="orgfee2d3a"><span class="section-number-3">9.12</span> Ecclesiastes 9:12</h3>
+<div class="outline-text-3" id="text-9-12">
+<p>
+Nescit homo finem suum ;  sed sicut pisces capiuntur hamo,  et sicut aves laqueo comprehenduntur,  sic capiuntur homines in tempore malo,  cum eis extemplo supervenerit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc033842" class="outline-3">
+<h3 id="orgc033842"><span class="section-number-3">9.13</span> Ecclesiastes 9:13</h3>
+<div class="outline-text-3" id="text-9-13">
+<p>
+Hanc quoque sub sole vidi sapientiam,  et probavi maximam : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org586be8c" class="outline-3">
+<h3 id="org586be8c"><span class="section-number-3">9.14</span> Ecclesiastes 9:14</h3>
+<div class="outline-text-3" id="text-9-14">
+<p>
+civitas parva, et pauci in ea viri ;  venit contra eam rex magnus, et vallavit eam,  exstruxitque munitiones per gyrum, et perfecta est obsidio. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org567ec7b" class="outline-3">
+<h3 id="org567ec7b"><span class="section-number-3">9.15</span> Ecclesiastes 9:15</h3>
+<div class="outline-text-3" id="text-9-15">
+<p>
+Inventusque est in ea vir pauper et sapiens,  et liberavit urbem per sapientiam suam ;  et nullus deinceps recordatus est hominis illius pauperis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0bb434a" class="outline-3">
+<h3 id="org0bb434a"><span class="section-number-3">9.16</span> Ecclesiastes 9:16</h3>
+<div class="outline-text-3" id="text-9-16">
+<p>
+Et dicebam ego meliorem esse sapientiam fortitudine.  Quomodo ergo sapientia pauperis contempta est,  et verba ejus non sunt audita ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdd2e548" class="outline-3">
+<h3 id="orgdd2e548"><span class="section-number-3">9.17</span> Ecclesiastes 9:17</h3>
+<div class="outline-text-3" id="text-9-17">
+<p>
+Verba sapientium audiuntur in silentio,  plus quam clamor principis inter stultos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3836fd0" class="outline-3">
+<h3 id="org3836fd0"><span class="section-number-3">9.18</span> Ecclesiastes 9:18</h3>
+<div class="outline-text-3" id="text-9-18">
+<p>
+Melior est sapientia quam arma bellica ;  et qui in uno peccaverit, multa bona perdet.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgc4bab5c" class="outline-2">
+<h2 id="orgc4bab5c"><span class="section-number-2">10</span> Ecclesiastes 10</h2>
+<div class="outline-text-2" id="text-10">
+</div>
+<div id="outline-container-org947f020" class="outline-3">
+<h3 id="org947f020"><span class="section-number-3">10.1</span> Ecclesiastes 10:1</h3>
+<div class="outline-text-3" id="text-10-1">
+<p>
+Muscæ morientes perdunt suavitatem unguenti.  Pretiosior est sapientia et gloria,  parva et ad tempus stultitia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9bd31d7" class="outline-3">
+<h3 id="org9bd31d7"><span class="section-number-3">10.2</span> Ecclesiastes 10:2</h3>
+<div class="outline-text-3" id="text-10-2">
+<p>
+Cor sapientis in dextera ejus,  et cor stulti in sinistra illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd9df602" class="outline-3">
+<h3 id="orgd9df602"><span class="section-number-3">10.3</span> Ecclesiastes 10:3</h3>
+<div class="outline-text-3" id="text-10-3">
+<p>
+Sed et in via stultus ambulans,  cum ipse insipiens sit,  omnes stultos æstimat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1245bb3" class="outline-3">
+<h3 id="org1245bb3"><span class="section-number-3">10.4</span> Ecclesiastes 10:4</h3>
+<div class="outline-text-3" id="text-10-4">
+<p>
+Si spiritus potestatem habentis ascenderit super te,  locum tuum ne demiseris,  quia curatio faciet cessare peccata maxima. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org459a841" class="outline-3">
+<h3 id="org459a841"><span class="section-number-3">10.5</span> Ecclesiastes 10:5</h3>
+<div class="outline-text-3" id="text-10-5">
+<p>
+Est malum quod vidi sub sole,  quasi per errorem egrediens a facie principis : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0dea097" class="outline-3">
+<h3 id="org0dea097"><span class="section-number-3">10.6</span> Ecclesiastes 10:6</h3>
+<div class="outline-text-3" id="text-10-6">
+<p>
+positum stultum in dignitate sublimi,  et divites sedere deorsum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org79407b7" class="outline-3">
+<h3 id="org79407b7"><span class="section-number-3">10.7</span> Ecclesiastes 10:7</h3>
+<div class="outline-text-3" id="text-10-7">
+<p>
+Vidi servos in equis,  et principes ambulantes super terram quasi servos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd8da4a3" class="outline-3">
+<h3 id="orgd8da4a3"><span class="section-number-3">10.8</span> Ecclesiastes 10:8</h3>
+<div class="outline-text-3" id="text-10-8">
+<p>
+Qui fodit foveam incidet in eam,  et qui dissipat sepem mordebit eum coluber. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4a8341f" class="outline-3">
+<h3 id="org4a8341f"><span class="section-number-3">10.9</span> Ecclesiastes 10:9</h3>
+<div class="outline-text-3" id="text-10-9">
+<p>
+Qui transfert lapides affligetur in eis,  et qui scindit ligna vulnerabitur ab eis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbc8ed28" class="outline-3">
+<h3 id="orgbc8ed28"><span class="section-number-3">10.10</span> Ecclesiastes 10:10</h3>
+<div class="outline-text-3" id="text-10-10">
+<p>
+Si retusum fuerit ferrum,  et hoc non ut prius, sed hebetatum fuerit,  multo labore exacuetur,  et post industriam sequetur sapientia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgafb8d90" class="outline-3">
+<h3 id="orgafb8d90"><span class="section-number-3">10.11</span> Ecclesiastes 10:11</h3>
+<div class="outline-text-3" id="text-10-11">
+<p>
+Si mordeat serpens in silentio,  nihil eo minus habet qui occulte detrahit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgec61001" class="outline-3">
+<h3 id="orgec61001"><span class="section-number-3">10.12</span> Ecclesiastes 10:12</h3>
+<div class="outline-text-3" id="text-10-12">
+<p>
+Verba oris sapientis gratia,  et labia insipientis præcipitabunt eum ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org766ad97" class="outline-3">
+<h3 id="org766ad97"><span class="section-number-3">10.13</span> Ecclesiastes 10:13</h3>
+<div class="outline-text-3" id="text-10-13">
+<p>
+initium verborum ejus stultitia,  et novissimum oris illius error pessimus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5b6efdc" class="outline-3">
+<h3 id="org5b6efdc"><span class="section-number-3">10.14</span> Ecclesiastes 10:14</h3>
+<div class="outline-text-3" id="text-10-14">
+<p>
+Stultus verba multiplicat.  Ignorat homo quid ante se fuerit ;  et quid post se futurum sit, quis ei poterit indicare ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2648069" class="outline-3">
+<h3 id="org2648069"><span class="section-number-3">10.15</span> Ecclesiastes 10:15</h3>
+<div class="outline-text-3" id="text-10-15">
+<p>
+Labor stultorum affliget eos,  qui nesciunt in urbem pergere. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org316e729" class="outline-3">
+<h3 id="org316e729"><span class="section-number-3">10.16</span> Ecclesiastes 10:16</h3>
+<div class="outline-text-3" id="text-10-16">
+<p>
+Væ tibi, terra, cujus rex puer est,  et cujus principes mane comedunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3569ecd" class="outline-3">
+<h3 id="org3569ecd"><span class="section-number-3">10.17</span> Ecclesiastes 10:17</h3>
+<div class="outline-text-3" id="text-10-17">
+<p>
+Beata terra cujus rex nobilis est,  et cujus principes vescuntur in tempore suo,  ad reficiendum, et non ad luxuriam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdd8397c" class="outline-3">
+<h3 id="orgdd8397c"><span class="section-number-3">10.18</span> Ecclesiastes 10:18</h3>
+<div class="outline-text-3" id="text-10-18">
+<p>
+In pigritiis humiliabitur contignatio,  et in infirmitate manuum perstillabit domus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2da580e" class="outline-3">
+<h3 id="org2da580e"><span class="section-number-3">10.19</span> Ecclesiastes 10:19</h3>
+<div class="outline-text-3" id="text-10-19">
+<p>
+In risum faciunt panem et vinum  ut epulentur viventes ;  et pecuniæ obediunt omnia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb1210d" class="outline-3">
+<h3 id="orgfb1210d"><span class="section-number-3">10.20</span> Ecclesiastes 10:20</h3>
+<div class="outline-text-3" id="text-10-20">
+<p>
+In cogitatione tua regi ne detrahas,  et in secreto cubiculi tui ne maledixeris diviti :  quia et aves cæli portabunt vocem tuam,  et qui habet pennas annuntiabit sententiam.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org3ff868d" class="outline-2">
+<h2 id="org3ff868d"><span class="section-number-2">11</span> Ecclesiastes 11</h2>
+<div class="outline-text-2" id="text-11">
+</div>
+<div id="outline-container-org238c020" class="outline-3">
+<h3 id="org238c020"><span class="section-number-3">11.1</span> Ecclesiastes 11:1</h3>
+<div class="outline-text-3" id="text-11-1">
+<p>
+Mitte panem tuum super transeuntes aquas,  quia post tempora multa invenies illum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda54a8b" class="outline-3">
+<h3 id="orgda54a8b"><span class="section-number-3">11.2</span> Ecclesiastes 11:2</h3>
+<div class="outline-text-3" id="text-11-2">
+<p>
+Da partem septem necnon et octo,  quia ignoras quid futurum sit mali super terram. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd45b5a9" class="outline-3">
+<h3 id="orgd45b5a9"><span class="section-number-3">11.3</span> Ecclesiastes 11:3</h3>
+<div class="outline-text-3" id="text-11-3">
+<p>
+Si repletæ fuerint nubes,  imbrem super terram effundent.  Si ceciderit lignum ad austrum aut ad aquilonem,  in quocumque loco ceciderit, ibi erit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e22160" class="outline-3">
+<h3 id="org9e22160"><span class="section-number-3">11.4</span> Ecclesiastes 11:4</h3>
+<div class="outline-text-3" id="text-11-4">
+<p>
+Qui observat ventum non seminat ;  et qui considerat nubes numquam metet. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga2e091d" class="outline-3">
+<h3 id="orga2e091d"><span class="section-number-3">11.5</span> Ecclesiastes 11:5</h3>
+<div class="outline-text-3" id="text-11-5">
+<p>
+Quomodo ignoras quæ sit via spiritus,  et qua ratione compingantur ossa in ventre prægnantis,  sic nescis opera Dei,  qui fabricator est omnium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf77bf85" class="outline-3">
+<h3 id="orgf77bf85"><span class="section-number-3">11.6</span> Ecclesiastes 11:6</h3>
+<div class="outline-text-3" id="text-11-6">
+<p>
+Mane semina semen tuum,  et vespere ne cesset manus tua :  quia nescis quid magis oriatur, hoc aut illud ;  et si utrumque simul, melius erit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org316b59e" class="outline-3">
+<h3 id="org316b59e"><span class="section-number-3">11.7</span> Ecclesiastes 11:7</h3>
+<div class="outline-text-3" id="text-11-7">
+<p>
+Dulce lumen,  et delectabile est oculis videre solem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org44c3bd7" class="outline-3">
+<h3 id="org44c3bd7"><span class="section-number-3">11.8</span> Ecclesiastes 11:8</h3>
+<div class="outline-text-3" id="text-11-8">
+<p>
+Si annis multis vixerit homo,  et in his omnibus lætatus fuerit,  meminisse debet tenebrosi temporis, et dierum multorum,  qui cum venerint, vanitatis arguentur præterita. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb66f37b" class="outline-3">
+<h3 id="orgb66f37b"><span class="section-number-3">11.9</span> Ecclesiastes 11:9</h3>
+<div class="outline-text-3" id="text-11-9">
+<p>
+Lætare ergo, juvenis, in adolescentia tua,  et in bono sit cor tuum in diebus juventutis tuæ :  et ambula in viis cordis tui,  et in intuitu oculorum tuorum,  et scito quod pro omnibus his adducet te Deus in judicium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4fc6ed7" class="outline-3">
+<h3 id="org4fc6ed7"><span class="section-number-3">11.10</span> Ecclesiastes 11:10</h3>
+<div class="outline-text-3" id="text-11-10">
+<p>
+Aufer iram a corde tuo,  et amove malitiam a carne tua :  adolescentia enim et voluptas vana sunt.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org8e8951a" class="outline-2">
+<h2 id="org8e8951a"><span class="section-number-2">12</span> Ecclesiastes 12</h2>
+<div class="outline-text-2" id="text-12">
+</div>
+<div id="outline-container-org4e0dcff" class="outline-3">
+<h3 id="org4e0dcff"><span class="section-number-3">12.1</span> Ecclesiastes 12:1</h3>
+<div class="outline-text-3" id="text-12-1">
+<p>
+Memento Creatoris tui in diebus juventutis tuæ,  antequam veniat tempus afflictionis,  et appropinquent anni de quibus dicas :  Non mihi placent ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbcb267e" class="outline-3">
+<h3 id="orgbcb267e"><span class="section-number-3">12.2</span> Ecclesiastes 12:2</h3>
+<div class="outline-text-3" id="text-12-2">
+<p>
+antequam tenebrescat sol, et lumen, et luna, et stellæ,  et revertantur nubes post pluviam ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd806006" class="outline-3">
+<h3 id="orgd806006"><span class="section-number-3">12.3</span> Ecclesiastes 12:3</h3>
+<div class="outline-text-3" id="text-12-3">
+<p>
+quando commovebuntur custodes domus,  et nutabunt viri fortissimi,  et otiosæ erunt molentes in minuto numero,  et tenebrescent videntes per foramina ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbb4b462" class="outline-3">
+<h3 id="orgbb4b462"><span class="section-number-3">12.4</span> Ecclesiastes 12:4</h3>
+<div class="outline-text-3" id="text-12-4">
+<p>
+et claudent ostia in platea,  in humilitate vocis molentis,  et consurgent ad vocem volucris,  et obsurdescent omnes filiæ carminis : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org07703b1" class="outline-3">
+<h3 id="org07703b1"><span class="section-number-3">12.5</span> Ecclesiastes 12:5</h3>
+<div class="outline-text-3" id="text-12-5">
+<p>
+excelsa quoque timebunt, et formidabunt in via.  Florebit amygdalus, impinguabitur locusta,  et dissipabitur capparis,  quoniam ibit homo in domum æternitatis suæ,  et circuibunt in platea plangentes. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9ad3165" class="outline-3">
+<h3 id="org9ad3165"><span class="section-number-3">12.6</span> Ecclesiastes 12:6</h3>
+<div class="outline-text-3" id="text-12-6">
+<p>
+Antequam rumpatur funiculus argenteus,  et recurrat vitta aurea,  et conteratur hydria super fontem,  et confringatur rota super cisternam, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5c87181" class="outline-3">
+<h3 id="org5c87181"><span class="section-number-3">12.7</span> Ecclesiastes 12:7</h3>
+<div class="outline-text-3" id="text-12-7">
+<p>
+et revertatur pulvis in terram suam unde erat,  et spiritus redeat ad Deum, qui dedit illum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge7adfd8" class="outline-3">
+<h3 id="orge7adfd8"><span class="section-number-3">12.8</span> Ecclesiastes 12:8</h3>
+<div class="outline-text-3" id="text-12-8">
+<p>
+Vanitas vanitatum, dixit Ecclesiastes,  et omnia vanitas. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgba6b708" class="outline-3">
+<h3 id="orgba6b708"><span class="section-number-3">12.9</span> Ecclesiastes 12:9</h3>
+<div class="outline-text-3" id="text-12-9">
+<p>
+Cumque esset sapientissimus Ecclesiastes,  docuit populum, et enarravit quæ fecerat ;  et investigans composuit parabolas multas. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgacafad2" class="outline-3">
+<h3 id="orgacafad2"><span class="section-number-3">12.10</span> Ecclesiastes 12:10</h3>
+<div class="outline-text-3" id="text-12-10">
+<p>
+Quæsivit verba utilia,  et conscripsit sermones rectissimos ac veritate plenos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4fcdca3" class="outline-3">
+<h3 id="org4fcdca3"><span class="section-number-3">12.11</span> Ecclesiastes 12:11</h3>
+<div class="outline-text-3" id="text-12-11">
+<p>
+Verba sapientium sicut stimuli,  et quasi clavi in altum defixi,  quæ per magistrorum consilium data sunt a pastore uno. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3d20aaa" class="outline-3">
+<h3 id="org3d20aaa"><span class="section-number-3">12.12</span> Ecclesiastes 12:12</h3>
+<div class="outline-text-3" id="text-12-12">
+<p>
+His amplius, fili mi, ne requiras.  Faciendi plures libros nullus est finis ;  frequensque meditatio, carnis afflictio est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org03c7f72" class="outline-3">
+<h3 id="org03c7f72"><span class="section-number-3">12.13</span> Ecclesiastes 12:13</h3>
+<div class="outline-text-3" id="text-12-13">
+<p>
+Finem loquendi pariter omnes audiamus.  Deum time, et mandata ejus observa :  hoc est enim omnis homo, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgba169e6" class="outline-3">
+<h3 id="orgba169e6"><span class="section-number-3">12.14</span> Ecclesiastes 12:14</h3>
+<div class="outline-text-3" id="text-12-14">
+<p>
+et cuncta quæ fiunt adducet Deus in judicium  pro omni errato, sive bonum, sive malum illud sit.    
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:37</p>
+</div>
+</body>
+</html>

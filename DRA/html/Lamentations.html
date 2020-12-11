@@ -1,0 +1,1825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:37 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org90cc659">1. Lamentations 1</a>
+<ul>
+<li><a href="#orge7685a8">1.1. Lamentations 1:1</a></li>
+<li><a href="#orgba4179f">1.2. Lamentations 1:2</a></li>
+<li><a href="#org7d5dfe1">1.3. Lamentations 1:3</a></li>
+<li><a href="#org5cbffe5">1.4. Lamentations 1:4</a></li>
+<li><a href="#org0a80747">1.5. Lamentations 1:5</a></li>
+<li><a href="#org7cfe198">1.6. Lamentations 1:6</a></li>
+<li><a href="#orgbafc84d">1.7. Lamentations 1:7</a></li>
+<li><a href="#org024221d">1.8. Lamentations 1:8</a></li>
+<li><a href="#org61c485b">1.9. Lamentations 1:9</a></li>
+<li><a href="#org13fce10">1.10. Lamentations 1:10</a></li>
+<li><a href="#org81ca30d">1.11. Lamentations 1:11</a></li>
+<li><a href="#orgacf096b">1.12. Lamentations 1:12</a></li>
+<li><a href="#orgad10b47">1.13. Lamentations 1:13</a></li>
+<li><a href="#orgabb2f59">1.14. Lamentations 1:14</a></li>
+<li><a href="#orgb11105c">1.15. Lamentations 1:15</a></li>
+<li><a href="#orge285006">1.16. Lamentations 1:16</a></li>
+<li><a href="#orgf29e54b">1.17. Lamentations 1:17</a></li>
+<li><a href="#orge45721e">1.18. Lamentations 1:18</a></li>
+<li><a href="#orgc9cc0f1">1.19. Lamentations 1:19</a></li>
+<li><a href="#org9bc3945">1.20. Lamentations 1:20</a></li>
+<li><a href="#orga4c2c66">1.21. Lamentations 1:21</a></li>
+<li><a href="#org4d3a324">1.22. Lamentations 1:22</a></li>
+</ul>
+</li>
+<li><a href="#org6b19d65">2. Lamentations 2</a>
+<ul>
+<li><a href="#orgdc68b71">2.1. Lamentations 2:1</a></li>
+<li><a href="#orgbfde43d">2.2. Lamentations 2:2</a></li>
+<li><a href="#org4f1e515">2.3. Lamentations 2:3</a></li>
+<li><a href="#org8a4c3fb">2.4. Lamentations 2:4</a></li>
+<li><a href="#org01cdd60">2.5. Lamentations 2:5</a></li>
+<li><a href="#org8ec6dbb">2.6. Lamentations 2:6</a></li>
+<li><a href="#orgac5bee6">2.7. Lamentations 2:7</a></li>
+<li><a href="#orgbda22ef">2.8. Lamentations 2:8</a></li>
+<li><a href="#orgd754add">2.9. Lamentations 2:9</a></li>
+<li><a href="#orgb7af8db">2.10. Lamentations 2:10</a></li>
+<li><a href="#org9fbdd91">2.11. Lamentations 2:11</a></li>
+<li><a href="#org3b5a6b7">2.12. Lamentations 2:12</a></li>
+<li><a href="#org4d84db5">2.13. Lamentations 2:13</a></li>
+<li><a href="#org65b04e5">2.14. Lamentations 2:14</a></li>
+<li><a href="#orgf5953cc">2.15. Lamentations 2:15</a></li>
+<li><a href="#orgb23e9e1">2.16. Lamentations 2:16</a></li>
+<li><a href="#orgfd2500c">2.17. Lamentations 2:17</a></li>
+<li><a href="#org32ee3cb">2.18. Lamentations 2:18</a></li>
+<li><a href="#org9d0836e">2.19. Lamentations 2:19</a></li>
+<li><a href="#org81e3585">2.20. Lamentations 2:20</a></li>
+<li><a href="#orgf22606d">2.21. Lamentations 2:21</a></li>
+<li><a href="#org2101030">2.22. Lamentations 2:22</a></li>
+</ul>
+</li>
+<li><a href="#org30053d0">3. Lamentations 3</a>
+<ul>
+<li><a href="#org4bd8d6b">3.1. Lamentations 3:1</a></li>
+<li><a href="#org4bbb0a4">3.2. Lamentations 3:2</a></li>
+<li><a href="#org2286da6">3.3. Lamentations 3:3</a></li>
+<li><a href="#orge84d997">3.4. Lamentations 3:4</a></li>
+<li><a href="#org8cfa043">3.5. Lamentations 3:5</a></li>
+<li><a href="#orgf0f823d">3.6. Lamentations 3:6</a></li>
+<li><a href="#org0274ef1">3.7. Lamentations 3:7</a></li>
+<li><a href="#orgcd62147">3.8. Lamentations 3:8</a></li>
+<li><a href="#orge76a59b">3.9. Lamentations 3:9</a></li>
+<li><a href="#org01e93d8">3.10. Lamentations 3:10</a></li>
+<li><a href="#org78f2c24">3.11. Lamentations 3:11</a></li>
+<li><a href="#org96b3abe">3.12. Lamentations 3:12</a></li>
+<li><a href="#org0fac19d">3.13. Lamentations 3:13</a></li>
+<li><a href="#org5e1abde">3.14. Lamentations 3:14</a></li>
+<li><a href="#org2ea44a7">3.15. Lamentations 3:15</a></li>
+<li><a href="#orgf5f0feb">3.16. Lamentations 3:16</a></li>
+<li><a href="#orgab30575">3.17. Lamentations 3:17</a></li>
+<li><a href="#orgfeb9ab8">3.18. Lamentations 3:18</a></li>
+<li><a href="#org3d39b62">3.19. Lamentations 3:19</a></li>
+<li><a href="#org9de7a0f">3.20. Lamentations 3:20</a></li>
+<li><a href="#org2999838">3.21. Lamentations 3:21</a></li>
+<li><a href="#orge06cac9">3.22. Lamentations 3:22</a></li>
+<li><a href="#org35c8b92">3.23. Lamentations 3:23</a></li>
+<li><a href="#org47b4e94">3.24. Lamentations 3:24</a></li>
+<li><a href="#org9c7b7b4">3.25. Lamentations 3:25</a></li>
+<li><a href="#orgd791367">3.26. Lamentations 3:26</a></li>
+<li><a href="#org452f194">3.27. Lamentations 3:27</a></li>
+<li><a href="#orgbc8a0f8">3.28. Lamentations 3:28</a></li>
+<li><a href="#org04d2e75">3.29. Lamentations 3:29</a></li>
+<li><a href="#org17c229e">3.30. Lamentations 3:30</a></li>
+<li><a href="#org6ec5ae0">3.31. Lamentations 3:31</a></li>
+<li><a href="#orga1d7048">3.32. Lamentations 3:32</a></li>
+<li><a href="#orge7cb88f">3.33. Lamentations 3:33</a></li>
+<li><a href="#orgc3e8b7a">3.34. Lamentations 3:34</a></li>
+<li><a href="#orga5fbf1b">3.35. Lamentations 3:35</a></li>
+<li><a href="#org5154706">3.36. Lamentations 3:36</a></li>
+<li><a href="#orge89bd54">3.37. Lamentations 3:37</a></li>
+<li><a href="#orgf9acbfe">3.38. Lamentations 3:38</a></li>
+<li><a href="#orgced6ad0">3.39. Lamentations 3:39</a></li>
+<li><a href="#org6546ac3">3.40. Lamentations 3:40</a></li>
+<li><a href="#org7f9a00c">3.41. Lamentations 3:41</a></li>
+<li><a href="#org8edf46d">3.42. Lamentations 3:42</a></li>
+<li><a href="#org5255eb1">3.43. Lamentations 3:43</a></li>
+<li><a href="#orgc368788">3.44. Lamentations 3:44</a></li>
+<li><a href="#org8db13a6">3.45. Lamentations 3:45</a></li>
+<li><a href="#org6b3799a">3.46. Lamentations 3:46</a></li>
+<li><a href="#org010dd5e">3.47. Lamentations 3:47</a></li>
+<li><a href="#org883c00f">3.48. Lamentations 3:48</a></li>
+<li><a href="#orgffb35e3">3.49. Lamentations 3:49</a></li>
+<li><a href="#orgc94b6ce">3.50. Lamentations 3:50</a></li>
+<li><a href="#org99a8453">3.51. Lamentations 3:51</a></li>
+<li><a href="#org650abd9">3.52. Lamentations 3:52</a></li>
+<li><a href="#org16b9281">3.53. Lamentations 3:53</a></li>
+<li><a href="#org4590d5c">3.54. Lamentations 3:54</a></li>
+<li><a href="#org91cbd79">3.55. Lamentations 3:55</a></li>
+<li><a href="#org1ef54bd">3.56. Lamentations 3:56</a></li>
+<li><a href="#org52ef0fc">3.57. Lamentations 3:57</a></li>
+<li><a href="#org4885f87">3.58. Lamentations 3:58</a></li>
+<li><a href="#orgbf3dd44">3.59. Lamentations 3:59</a></li>
+<li><a href="#orga96f3d8">3.60. Lamentations 3:60</a></li>
+<li><a href="#org559d27c">3.61. Lamentations 3:61</a></li>
+<li><a href="#org2bca5a6">3.62. Lamentations 3:62</a></li>
+<li><a href="#org8205695">3.63. Lamentations 3:63</a></li>
+<li><a href="#org9e4d54e">3.64. Lamentations 3:64</a></li>
+<li><a href="#org5f7ba99">3.65. Lamentations 3:65</a></li>
+<li><a href="#orgd45fa4e">3.66. Lamentations 3:66</a></li>
+</ul>
+</li>
+<li><a href="#orgb1093df">4. Lamentations 4</a>
+<ul>
+<li><a href="#org31f3ee0">4.1. Lamentations 4:1</a></li>
+<li><a href="#orgc95b1bb">4.2. Lamentations 4:2</a></li>
+<li><a href="#org0b60402">4.3. Lamentations 4:3</a></li>
+<li><a href="#org5f94eca">4.4. Lamentations 4:4</a></li>
+<li><a href="#org2ac7f48">4.5. Lamentations 4:5</a></li>
+<li><a href="#orgfcd515e">4.6. Lamentations 4:6</a></li>
+<li><a href="#orge5345c1">4.7. Lamentations 4:7</a></li>
+<li><a href="#orgfef475c">4.8. Lamentations 4:8</a></li>
+<li><a href="#orge274fda">4.9. Lamentations 4:9</a></li>
+<li><a href="#orgcf5dbeb">4.10. Lamentations 4:10</a></li>
+<li><a href="#org52928ff">4.11. Lamentations 4:11</a></li>
+<li><a href="#org7d65cb1">4.12. Lamentations 4:12</a></li>
+<li><a href="#org7237b21">4.13. Lamentations 4:13</a></li>
+<li><a href="#org3ee1f0a">4.14. Lamentations 4:14</a></li>
+<li><a href="#orgd2e36b0">4.15. Lamentations 4:15</a></li>
+<li><a href="#orgaf8e21d">4.16. Lamentations 4:16</a></li>
+<li><a href="#orga53052b">4.17. Lamentations 4:17</a></li>
+<li><a href="#orgd2db32f">4.18. Lamentations 4:18</a></li>
+<li><a href="#orgbaeea5a">4.19. Lamentations 4:19</a></li>
+<li><a href="#org7c83ba6">4.20. Lamentations 4:20</a></li>
+<li><a href="#org3f271bc">4.21. Lamentations 4:21</a></li>
+<li><a href="#org9636c21">4.22. Lamentations 4:22</a></li>
+</ul>
+</li>
+<li><a href="#orgb53bb53">5. Lamentations 5</a>
+<ul>
+<li><a href="#org843244e">5.1. Lamentations 5:1</a></li>
+<li><a href="#orgc54e483">5.2. Lamentations 5:2</a></li>
+<li><a href="#org57e8261">5.3. Lamentations 5:3</a></li>
+<li><a href="#org95f6a63">5.4. Lamentations 5:4</a></li>
+<li><a href="#orgc8da7ee">5.5. Lamentations 5:5</a></li>
+<li><a href="#org3b9a6cc">5.6. Lamentations 5:6</a></li>
+<li><a href="#orgfc1666f">5.7. Lamentations 5:7</a></li>
+<li><a href="#org24f222b">5.8. Lamentations 5:8</a></li>
+<li><a href="#org3c4754f">5.9. Lamentations 5:9</a></li>
+<li><a href="#orgc9cf6ed">5.10. Lamentations 5:10</a></li>
+<li><a href="#org92de82f">5.11. Lamentations 5:11</a></li>
+<li><a href="#orga6658d6">5.12. Lamentations 5:12</a></li>
+<li><a href="#org2b21ed1">5.13. Lamentations 5:13</a></li>
+<li><a href="#org9100b9b">5.14. Lamentations 5:14</a></li>
+<li><a href="#orgcd1fad2">5.15. Lamentations 5:15</a></li>
+<li><a href="#orge64f152">5.16. Lamentations 5:16</a></li>
+<li><a href="#org17434b7">5.17. Lamentations 5:17</a></li>
+<li><a href="#org0e78994">5.18. Lamentations 5:18</a></li>
+<li><a href="#orgdad3065">5.19. Lamentations 5:19</a></li>
+<li><a href="#org11f76ab">5.20. Lamentations 5:20</a></li>
+<li><a href="#org213d332">5.21. Lamentations 5:21</a></li>
+<li><a href="#org3707dad">5.22. Lamentations 5:22</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org90cc659" class="outline-2">
+<h2 id="org90cc659"><span class="section-number-2">1</span> Lamentations 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orge7685a8" class="outline-3">
+<h3 id="orge7685a8"><span class="section-number-3">1.1</span> Lamentations 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Aleph. How doth the city sit solitary that was full of people! how is the mistress of the Gentiles become as a widow: the princes of provinces made tributary!
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgba4179f" class="outline-3">
+<h3 id="orgba4179f"><span class="section-number-3">1.2</span> Lamentations 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Beth. Weeping, she hath wept in the night, and her tears are on her cheeks: there is none to comfort her among all them that were dear to her: all her friends have despised her, and are become her enemies.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7d5dfe1" class="outline-3">
+<h3 id="org7d5dfe1"><span class="section-number-3">1.3</span> Lamentations 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Ghimel. Juda hath removed her dwelling place, because of her affliction, and the greatness of her bondage; she hath dwelt among the nations, and she hath found no rest; all her persecutors have taken her in the midst of straits.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5cbffe5" class="outline-3">
+<h3 id="org5cbffe5"><span class="section-number-3">1.4</span> Lamentations 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Daleth. The ways of Sion mourn, because there are none that come to the solemn feast: all her gates are broken down; her priests sigh; her virgins are in affliction; and she is oppressed with bitterness.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0a80747" class="outline-3">
+<h3 id="org0a80747"><span class="section-number-3">1.5</span> Lamentations 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+He. Her adversaries are become her lords; her enemies are enriched; because the Lord hath spoken against her for the multitude of her iniquities; her children are led into captivity, before the face of the oppressor.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7cfe198" class="outline-3">
+<h3 id="org7cfe198"><span class="section-number-3">1.6</span> Lamentations 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Vau. And from the daughter of Sion, all her beauty is departed; her princes are become like rams that find no pastures; and they are gone away without strength before the face of the pursuer.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbafc84d" class="outline-3">
+<h3 id="orgbafc84d"><span class="section-number-3">1.7</span> Lamentations 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+Zain. Jerusalem hath remembered the days of her affliction, and prevarication of all her desirable things which she had from the days of old, when her people fell in the enemy&rsquo;s hand, and there was no helper; the enemies have seen her, and have mocked at her sabbaths.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org024221d" class="outline-3">
+<h3 id="org024221d"><span class="section-number-3">1.8</span> Lamentations 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+Heth. Jerusalem hath grievously sinned, therefore is she become unstable; all that honoured her, have despised her, because they have seen her shame; but she sighed, and turned backward.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org61c485b" class="outline-3">
+<h3 id="org61c485b"><span class="section-number-3">1.9</span> Lamentations 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+Teth. Her filthiness is on her feet, and she hath not remembered her end; she is wonderfully cast down, not having a comforter: behold, O Lord, my affliction, because the enemy is lifted up.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org13fce10" class="outline-3">
+<h3 id="org13fce10"><span class="section-number-3">1.10</span> Lamentations 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+Jod. The enemy hath put out his hand to all her desirable things: for she hath seen the Gentiles enter into her sanctuary, of whom thou gavest commandment that they should not enter into thy church.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org81ca30d" class="outline-3">
+<h3 id="org81ca30d"><span class="section-number-3">1.11</span> Lamentations 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+Caph. All her people sigh, they seek bread: they have given all their precious things for food to relieve the soul: see, O Lord, and consider, for I am become vile.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgacf096b" class="outline-3">
+<h3 id="orgacf096b"><span class="section-number-3">1.12</span> Lamentations 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+Lamed. O all ye that pass by the way, attend, and see if there be any sorrow like to my sorrow: for he hath made a vintage of me, as the Lord spoke in the day of his fierce anger.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgad10b47" class="outline-3">
+<h3 id="orgad10b47"><span class="section-number-3">1.13</span> Lamentations 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+Mem. From above he hath sent fire into my bones, and hath chastised me: he hath spread a net for my feet, he hath turned me back: he hath made me desolate, wasted with sorrow all the day long.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgabb2f59" class="outline-3">
+<h3 id="orgabb2f59"><span class="section-number-3">1.14</span> Lamentations 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+Nun. The yoke of my iniquities hath watched: they are folded together in his hand, and put upon my neck: my strength is weakened: the Lord hath delivered me into a hand, out of which I am not able to rise.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb11105c" class="outline-3">
+<h3 id="orgb11105c"><span class="section-number-3">1.15</span> Lamentations 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+Samech. The Lord hath taken away all my mighty men out of the midst of me: he hath called against me the time, to destroy my chosen men: the Lord hath trodden the winepress for the virgin daughter of Juda.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge285006" class="outline-3">
+<h3 id="orge285006"><span class="section-number-3">1.16</span> Lamentations 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+Ain. Therefore do I weep, and my eyes run down with water: because the comforter, the relief of my soul, is far from me: my children are desolate because the enemy hath prevailed.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf29e54b" class="outline-3">
+<h3 id="orgf29e54b"><span class="section-number-3">1.17</span> Lamentations 1:17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+Phe. Sion hath spread forth her hands, there is none to comfort her: the Lord hath commanded against Jacob, his enemies are round about him: Jerusalem is as a menstruous woman among them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge45721e" class="outline-3">
+<h3 id="orge45721e"><span class="section-number-3">1.18</span> Lamentations 1:18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+Sade. The Lord is just, for I have provoked his mouth to wrath: hear, I pray you, all ye people, and see my sorrow: my virgins, and my young men are gone into captivity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc9cc0f1" class="outline-3">
+<h3 id="orgc9cc0f1"><span class="section-number-3">1.19</span> Lamentations 1:19</h3>
+<div class="outline-text-3" id="text-1-19">
+<p>
+Coph. I called for my friends, but they deceived me: my priests and my ancients pined away in the city: while they sought their food, to relieve their souls.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9bc3945" class="outline-3">
+<h3 id="org9bc3945"><span class="section-number-3">1.20</span> Lamentations 1:20</h3>
+<div class="outline-text-3" id="text-1-20">
+<p>
+Res. Behold, O Lord, for I am in distress, my bowels are troubled: my heart is turned within me, for I am full of bitterness: abroad the sword destroyeth and at home there is death alike.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga4c2c66" class="outline-3">
+<h3 id="orga4c2c66"><span class="section-number-3">1.21</span> Lamentations 1:21</h3>
+<div class="outline-text-3" id="text-1-21">
+<p>
+Sin. They have heard that I sigh, and there is none to comfort me: all my enemies have heard of my evil, they have rejoiced that thou hast done it: thou hast brought a day of consolation, and they shall be like unto me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4d3a324" class="outline-3">
+<h3 id="org4d3a324"><span class="section-number-3">1.22</span> Lamentations 1:22</h3>
+<div class="outline-text-3" id="text-1-22">
+<p>
+Thau. Let all their evil be present before thee: and make vintage of them, as thou hast made vintage of me for all my iniquities: for my sighs are many, and my heart is sorrowful. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org6b19d65" class="outline-2">
+<h2 id="org6b19d65"><span class="section-number-2">2</span> Lamentations 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-orgdc68b71" class="outline-3">
+<h3 id="orgdc68b71"><span class="section-number-3">2.1</span> Lamentations 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Aleph. How hath the Lord covered with obscurity the daughter of Sion in his wrath! how hath he cast down from heaven to the earth the glorious one of Israel, and hath not remembered his footstool in the day of his anger.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfde43d" class="outline-3">
+<h3 id="orgbfde43d"><span class="section-number-3">2.2</span> Lamentations 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Beth. The Lord hath cast down headlong, and hath not spared, all that was beautiful in Jacob: he hath destroyed in his wrath the strong holds of the virgin of Juda, and brought them down to the ground: he hath made the kingdom unclean, and the princes thereof.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4f1e515" class="outline-3">
+<h3 id="org4f1e515"><span class="section-number-3">2.3</span> Lamentations 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+Ghimel. He hath broken in his fierce anger all the horn of Israel: he hath drawn back his right hand from before the enemy: and he hath kindled in Jacob as it were a flaming fire devouring round about.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8a4c3fb" class="outline-3">
+<h3 id="org8a4c3fb"><span class="section-number-3">2.4</span> Lamentations 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+Daleth. He hath bent his bow as an enemy, he hath fixed his right hand as an adversary: and he hath killed all that was fair to behold in the tabernacle of the daughter of Sion, he hath poured out his indignation like fire.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org01cdd60" class="outline-3">
+<h3 id="org01cdd60"><span class="section-number-3">2.5</span> Lamentations 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+He. The Lord is become as an enemy: he hath cast down Israel headlong, he hath overthrown all the walls thereof: he hath destroyed his strong holds, and hath multiplied in the daughter of Juda the afflicted, both men and women.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8ec6dbb" class="outline-3">
+<h3 id="org8ec6dbb"><span class="section-number-3">2.6</span> Lamentations 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+Vau. And he hath destroyed his tent as a garden, he hath thrown down his tabernacle: the Lord hath caused feasts and sabbaths to be forgotten in Sion: and hath delivered up king and priest to reproach, and to the indignation of his wrath.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgac5bee6" class="outline-3">
+<h3 id="orgac5bee6"><span class="section-number-3">2.7</span> Lamentations 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+Zain. The Lord hath cast off his altar, he hath cursed his sanctuary: he hath delivered the walls of the towers thereof into the hand of the enemy: they have made a noise in the house of the Lord, as in the day of a solemn feast.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbda22ef" class="outline-3">
+<h3 id="orgbda22ef"><span class="section-number-3">2.8</span> Lamentations 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+Heth. The Lord hath purposed to destroy the wall of the daughter of Sion: he hath stretched out his line, and hath not withdrawn his hand from destroying: and the bulwark hath mourned, and the wall hath been destroyed together.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd754add" class="outline-3">
+<h3 id="orgd754add"><span class="section-number-3">2.9</span> Lamentations 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+Teth. Her gates are sunk into the ground: he hath destroyed, and broken her bars: her king and her princes are among the Gentiles: the law is no more, and her prophets have found no vision from the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb7af8db" class="outline-3">
+<h3 id="orgb7af8db"><span class="section-number-3">2.10</span> Lamentations 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+Jod. The ancients of the daughter of Sion sit upon the ground, they have held their peace: they have sprinkled their heads with dust, they are girded with haircloth, the virgins of Jerusalem hang down their heads to the ground.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9fbdd91" class="outline-3">
+<h3 id="org9fbdd91"><span class="section-number-3">2.11</span> Lamentations 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+Caph. My eyes have failed with weeping, my bowels are troubled: my liver is poured out upon the earth, for the destruction of the daughter of my people, when the children, and the sucklings, fainted away in the streets of the city.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b5a6b7" class="outline-3">
+<h3 id="org3b5a6b7"><span class="section-number-3">2.12</span> Lamentations 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+Lamed. They said to their mothers: Where is corn and wine? when they fainted away as the wounded in the streets of the city: when they breathed out their souls in the bosoms of their mothers.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4d84db5" class="outline-3">
+<h3 id="org4d84db5"><span class="section-number-3">2.13</span> Lamentations 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+Mem. To what shall I compare thee? or to what shall I liken thee, O daughter of Jerusalem? to what shall I equal thee, that I may comfort thee, O virgin daughter of Sion? for great as the sea is thy destruction: who shall heal thee?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org65b04e5" class="outline-3">
+<h3 id="org65b04e5"><span class="section-number-3">2.14</span> Lamentations 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+Nun. Thy prophets have seen false and foolish things for thee: and they have not laid open thy iniquity, to excite thee to penance: but they have seen for thee false revelations and banishments.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf5953cc" class="outline-3">
+<h3 id="orgf5953cc"><span class="section-number-3">2.15</span> Lamentations 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+Samech. All they that passed by the way have clapped their hands at thee: they have hissed, and wagged their heads at the daughter of Jerusalem, saying: Is this the city of perfect beauty, the joy of all the earth?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb23e9e1" class="outline-3">
+<h3 id="orgb23e9e1"><span class="section-number-3">2.16</span> Lamentations 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+Phe. All thy enemies have opened their mouth against thee: they have hissed, and gnashed with the teeth, and have said: We will swallow her up: lo, this is the day which we looked for: we have found it, we have seen it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfd2500c" class="outline-3">
+<h3 id="orgfd2500c"><span class="section-number-3">2.17</span> Lamentations 2:17</h3>
+<div class="outline-text-3" id="text-2-17">
+<p>
+Ain. The Lord hath done that which he purposed, he hath fulfilled his word, which he commanded in the days of old: he hath destroyed, and hath not spared, and he hath caused the enemy to rejoice over thee, and hath set up the horn of thy adversaries.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org32ee3cb" class="outline-3">
+<h3 id="org32ee3cb"><span class="section-number-3">2.18</span> Lamentations 2:18</h3>
+<div class="outline-text-3" id="text-2-18">
+<p>
+Sade. Their heart cried to the Lord upon the walls of the daughter of Sion: Let tears run down like a torrent day and night: give thyself no rest, and let not the apple of thy eye cease.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9d0836e" class="outline-3">
+<h3 id="org9d0836e"><span class="section-number-3">2.19</span> Lamentations 2:19</h3>
+<div class="outline-text-3" id="text-2-19">
+<p>
+Coph. Arise, give praise in the night, in the beginning of the watches: pour out thy heart like water, before the face of the Lord: lift up thy hands to him for the life of thy little children, that have fainted for hunger at the top of all the streets.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org81e3585" class="outline-3">
+<h3 id="org81e3585"><span class="section-number-3">2.20</span> Lamentations 2:20</h3>
+<div class="outline-text-3" id="text-2-20">
+<p>
+Res. Behold, O Lord, and consider whom thou hast thus dealt with: shall women then eat their own fruit, their children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf22606d" class="outline-3">
+<h3 id="orgf22606d"><span class="section-number-3">2.21</span> Lamentations 2:21</h3>
+<div class="outline-text-3" id="text-2-21">
+<p>
+Sin. The child and the old man lie without on the ground: my virgins and my young men are fallen by the sword: thou hast slain them in the day of thy wrath: thou hast killed, and shewn them no pity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2101030" class="outline-3">
+<h3 id="org2101030"><span class="section-number-3">2.22</span> Lamentations 2:22</h3>
+<div class="outline-text-3" id="text-2-22">
+<p>
+Thau. Thou hast called as to a festival, those that should terrify me round about, and there was none in the day of the wrath of the Lord that escaped and was left: those that I brought up, and nourished, my enemy hath consumed them. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org30053d0" class="outline-2">
+<h2 id="org30053d0"><span class="section-number-2">3</span> Lamentations 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org4bd8d6b" class="outline-3">
+<h3 id="org4bd8d6b"><span class="section-number-3">3.1</span> Lamentations 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+Aleph. I am the man that see my poverty by the rod of his indignation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4bbb0a4" class="outline-3">
+<h3 id="org4bbb0a4"><span class="section-number-3">3.2</span> Lamentations 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+Aleph. He hath led me, and brought me into darkness, and not into light.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2286da6" class="outline-3">
+<h3 id="org2286da6"><span class="section-number-3">3.3</span> Lamentations 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+Aleph. Only against me he hath turned, and turned again his hand all the day.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge84d997" class="outline-3">
+<h3 id="orge84d997"><span class="section-number-3">3.4</span> Lamentations 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+Beth. My skin and my flesh he hath made old, he hath broken my bones.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8cfa043" class="outline-3">
+<h3 id="org8cfa043"><span class="section-number-3">3.5</span> Lamentations 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+Beth. He hath built round about me, and he hath compassed me with gall, and labour.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf0f823d" class="outline-3">
+<h3 id="orgf0f823d"><span class="section-number-3">3.6</span> Lamentations 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+Beth. He hath set me in dark places as those that are dead for ever.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0274ef1" class="outline-3">
+<h3 id="org0274ef1"><span class="section-number-3">3.7</span> Lamentations 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+Ghimel. He hath built against me round about, that I may not get out: he hath made my fetters heavy.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcd62147" class="outline-3">
+<h3 id="orgcd62147"><span class="section-number-3">3.8</span> Lamentations 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+Ghimel. Yea, and when I cry, and entreat, he hath shut out my prayer.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge76a59b" class="outline-3">
+<h3 id="orge76a59b"><span class="section-number-3">3.9</span> Lamentations 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+Ghimel. He hath shut up my ways with square stones, he hath turned my paths upside down.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org01e93d8" class="outline-3">
+<h3 id="org01e93d8"><span class="section-number-3">3.10</span> Lamentations 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+Daleth. He is become to me as a bear lying in wait: as a lion in secret places.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org78f2c24" class="outline-3">
+<h3 id="org78f2c24"><span class="section-number-3">3.11</span> Lamentations 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+Daleth. He hath turned aside my paths, and hath broken me in pieces, he hath made me desolate.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org96b3abe" class="outline-3">
+<h3 id="org96b3abe"><span class="section-number-3">3.12</span> Lamentations 3:12</h3>
+<div class="outline-text-3" id="text-3-12">
+<p>
+Daleth. He hath bent his bow, and set me as a mark for his arrows.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0fac19d" class="outline-3">
+<h3 id="org0fac19d"><span class="section-number-3">3.13</span> Lamentations 3:13</h3>
+<div class="outline-text-3" id="text-3-13">
+<p>
+He. He hath shot into my reins the daughters of his quiver.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5e1abde" class="outline-3">
+<h3 id="org5e1abde"><span class="section-number-3">3.14</span> Lamentations 3:14</h3>
+<div class="outline-text-3" id="text-3-14">
+<p>
+He. I am made a derision to all my people, their song all the day long.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2ea44a7" class="outline-3">
+<h3 id="org2ea44a7"><span class="section-number-3">3.15</span> Lamentations 3:15</h3>
+<div class="outline-text-3" id="text-3-15">
+<p>
+He. He hath filled me with bitterness, he hath inebriated me with wormwood.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf5f0feb" class="outline-3">
+<h3 id="orgf5f0feb"><span class="section-number-3">3.16</span> Lamentations 3:16</h3>
+<div class="outline-text-3" id="text-3-16">
+<p>
+Vau. And he hath broken my teeth one by one, he hath fed me with ashes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgab30575" class="outline-3">
+<h3 id="orgab30575"><span class="section-number-3">3.17</span> Lamentations 3:17</h3>
+<div class="outline-text-3" id="text-3-17">
+<p>
+Vau. And my soul is removed far off from peace, I have forgotten good things.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfeb9ab8" class="outline-3">
+<h3 id="orgfeb9ab8"><span class="section-number-3">3.18</span> Lamentations 3:18</h3>
+<div class="outline-text-3" id="text-3-18">
+<p>
+Vau. And I said: My end and my hope is perished from the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3d39b62" class="outline-3">
+<h3 id="org3d39b62"><span class="section-number-3">3.19</span> Lamentations 3:19</h3>
+<div class="outline-text-3" id="text-3-19">
+<p>
+Zain. Remember my poverty, and transgression, the wormwood and the gall.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9de7a0f" class="outline-3">
+<h3 id="org9de7a0f"><span class="section-number-3">3.20</span> Lamentations 3:20</h3>
+<div class="outline-text-3" id="text-3-20">
+<p>
+Zain. I will be mindful and remember, and my soul shall languish within me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2999838" class="outline-3">
+<h3 id="org2999838"><span class="section-number-3">3.21</span> Lamentations 3:21</h3>
+<div class="outline-text-3" id="text-3-21">
+<p>
+Zain. These things I shall think over in my heart, therefore will I hope.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge06cac9" class="outline-3">
+<h3 id="orge06cac9"><span class="section-number-3">3.22</span> Lamentations 3:22</h3>
+<div class="outline-text-3" id="text-3-22">
+<p>
+Heth. The mercies of the Lord that we are not consumed: because his commiserations have not failed.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org35c8b92" class="outline-3">
+<h3 id="org35c8b92"><span class="section-number-3">3.23</span> Lamentations 3:23</h3>
+<div class="outline-text-3" id="text-3-23">
+<p>
+Heth. They are new every morning, great is thy faithfulness.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org47b4e94" class="outline-3">
+<h3 id="org47b4e94"><span class="section-number-3">3.24</span> Lamentations 3:24</h3>
+<div class="outline-text-3" id="text-3-24">
+<p>
+Heth. The Lord is my portion, said my soul: therefore will I wait for him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9c7b7b4" class="outline-3">
+<h3 id="org9c7b7b4"><span class="section-number-3">3.25</span> Lamentations 3:25</h3>
+<div class="outline-text-3" id="text-3-25">
+<p>
+Teth. The Lord is good to them that hope in him, to the soul that seeketh him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd791367" class="outline-3">
+<h3 id="orgd791367"><span class="section-number-3">3.26</span> Lamentations 3:26</h3>
+<div class="outline-text-3" id="text-3-26">
+<p>
+Teth. It is good to wait with silence for the salvation of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org452f194" class="outline-3">
+<h3 id="org452f194"><span class="section-number-3">3.27</span> Lamentations 3:27</h3>
+<div class="outline-text-3" id="text-3-27">
+<p>
+Teth. It is good for a man, when he hath borne the yoke from his youth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbc8a0f8" class="outline-3">
+<h3 id="orgbc8a0f8"><span class="section-number-3">3.28</span> Lamentations 3:28</h3>
+<div class="outline-text-3" id="text-3-28">
+<p>
+Jod. He shall sit solitary, and hold his peace: because he hath taken it up upon himself.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org04d2e75" class="outline-3">
+<h3 id="org04d2e75"><span class="section-number-3">3.29</span> Lamentations 3:29</h3>
+<div class="outline-text-3" id="text-3-29">
+<p>
+Jod. He shall put his mouth in the dust, if so be there may be hope.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org17c229e" class="outline-3">
+<h3 id="org17c229e"><span class="section-number-3">3.30</span> Lamentations 3:30</h3>
+<div class="outline-text-3" id="text-3-30">
+<p>
+Jod. He shall give his cheek to him that striketh him, he shall be filled with reproaches.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6ec5ae0" class="outline-3">
+<h3 id="org6ec5ae0"><span class="section-number-3">3.31</span> Lamentations 3:31</h3>
+<div class="outline-text-3" id="text-3-31">
+<p>
+Caph. For the Lord will not cast off for ever.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga1d7048" class="outline-3">
+<h3 id="orga1d7048"><span class="section-number-3">3.32</span> Lamentations 3:32</h3>
+<div class="outline-text-3" id="text-3-32">
+<p>
+Caph. For if he hath cast off, he will also have mercy, according to the multitude of his mercies.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge7cb88f" class="outline-3">
+<h3 id="orge7cb88f"><span class="section-number-3">3.33</span> Lamentations 3:33</h3>
+<div class="outline-text-3" id="text-3-33">
+<p>
+Caph. For he hath not willingly afflicted, nor cast off the children of men.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc3e8b7a" class="outline-3">
+<h3 id="orgc3e8b7a"><span class="section-number-3">3.34</span> Lamentations 3:34</h3>
+<div class="outline-text-3" id="text-3-34">
+<p>
+Lamed. To crush under his feet all the prisoners of the land,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga5fbf1b" class="outline-3">
+<h3 id="orga5fbf1b"><span class="section-number-3">3.35</span> Lamentations 3:35</h3>
+<div class="outline-text-3" id="text-3-35">
+<p>
+Lamed. To turn aside the judgment of a man before the face of the most High,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5154706" class="outline-3">
+<h3 id="org5154706"><span class="section-number-3">3.36</span> Lamentations 3:36</h3>
+<div class="outline-text-3" id="text-3-36">
+<p>
+Lamed. To destroy a man wrongfully in his judgment, the Lord hath not approved.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge89bd54" class="outline-3">
+<h3 id="orge89bd54"><span class="section-number-3">3.37</span> Lamentations 3:37</h3>
+<div class="outline-text-3" id="text-3-37">
+<p>
+Mem. Who is he that hath commanded a thing to be done, when the Lord commandeth it not?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf9acbfe" class="outline-3">
+<h3 id="orgf9acbfe"><span class="section-number-3">3.38</span> Lamentations 3:38</h3>
+<div class="outline-text-3" id="text-3-38">
+<p>
+Mem. Shall not both evil and good proceed out of the mouth of the Highest?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgced6ad0" class="outline-3">
+<h3 id="orgced6ad0"><span class="section-number-3">3.39</span> Lamentations 3:39</h3>
+<div class="outline-text-3" id="text-3-39">
+<p>
+Mem. Why hath a living man murmured, man suffering for his sins?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6546ac3" class="outline-3">
+<h3 id="org6546ac3"><span class="section-number-3">3.40</span> Lamentations 3:40</h3>
+<div class="outline-text-3" id="text-3-40">
+<p>
+Nun. Let us search our ways, and seek, and return to the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f9a00c" class="outline-3">
+<h3 id="org7f9a00c"><span class="section-number-3">3.41</span> Lamentations 3:41</h3>
+<div class="outline-text-3" id="text-3-41">
+<p>
+Nun. Let us lift up our hearts with our hands to the Lord in the heavens.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8edf46d" class="outline-3">
+<h3 id="org8edf46d"><span class="section-number-3">3.42</span> Lamentations 3:42</h3>
+<div class="outline-text-3" id="text-3-42">
+<p>
+Nun. We have done wickedly, and provoked thee to wrath: therefore thou art inexorable.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5255eb1" class="outline-3">
+<h3 id="org5255eb1"><span class="section-number-3">3.43</span> Lamentations 3:43</h3>
+<div class="outline-text-3" id="text-3-43">
+<p>
+Samech. Thou hast covered in thy wrath, and hast struck us: thou hast killed and hast not spared.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc368788" class="outline-3">
+<h3 id="orgc368788"><span class="section-number-3">3.44</span> Lamentations 3:44</h3>
+<div class="outline-text-3" id="text-3-44">
+<p>
+Samech. Thou hast set a cloud before thee, that our prayer may not pass through.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8db13a6" class="outline-3">
+<h3 id="org8db13a6"><span class="section-number-3">3.45</span> Lamentations 3:45</h3>
+<div class="outline-text-3" id="text-3-45">
+<p>
+Samech. Thou hast made me as an outcast, and refuse in the midst of the people.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6b3799a" class="outline-3">
+<h3 id="org6b3799a"><span class="section-number-3">3.46</span> Lamentations 3:46</h3>
+<div class="outline-text-3" id="text-3-46">
+<p>
+Phe. All our enemies have opened their mouths against us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org010dd5e" class="outline-3">
+<h3 id="org010dd5e"><span class="section-number-3">3.47</span> Lamentations 3:47</h3>
+<div class="outline-text-3" id="text-3-47">
+<p>
+Phe. Prophecy is become to us a fear, and a snare, and destruction.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org883c00f" class="outline-3">
+<h3 id="org883c00f"><span class="section-number-3">3.48</span> Lamentations 3:48</h3>
+<div class="outline-text-3" id="text-3-48">
+<p>
+Phe. My eye hath run down with streams of water, for the destruction of the daughter of my people.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgffb35e3" class="outline-3">
+<h3 id="orgffb35e3"><span class="section-number-3">3.49</span> Lamentations 3:49</h3>
+<div class="outline-text-3" id="text-3-49">
+<p>
+Ain. My eye is afflicted, and hath not been quiet, because there was no rest:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc94b6ce" class="outline-3">
+<h3 id="orgc94b6ce"><span class="section-number-3">3.50</span> Lamentations 3:50</h3>
+<div class="outline-text-3" id="text-3-50">
+<p>
+Ain. Till the Lord regarded and looked down from the heavens.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org99a8453" class="outline-3">
+<h3 id="org99a8453"><span class="section-number-3">3.51</span> Lamentations 3:51</h3>
+<div class="outline-text-3" id="text-3-51">
+<p>
+Ain. My eye hath wasted my soul because of all the daughters of my city.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org650abd9" class="outline-3">
+<h3 id="org650abd9"><span class="section-number-3">3.52</span> Lamentations 3:52</h3>
+<div class="outline-text-3" id="text-3-52">
+<p>
+Sade. My enemies have chased me and caught me like a bird, without cause.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org16b9281" class="outline-3">
+<h3 id="org16b9281"><span class="section-number-3">3.53</span> Lamentations 3:53</h3>
+<div class="outline-text-3" id="text-3-53">
+<p>
+Sade. My life is fallen into the pit, and they have laid a stone over me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4590d5c" class="outline-3">
+<h3 id="org4590d5c"><span class="section-number-3">3.54</span> Lamentations 3:54</h3>
+<div class="outline-text-3" id="text-3-54">
+<p>
+Sade. Waters have flowed over my head: I said: I am cut off.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org91cbd79" class="outline-3">
+<h3 id="org91cbd79"><span class="section-number-3">3.55</span> Lamentations 3:55</h3>
+<div class="outline-text-3" id="text-3-55">
+<p>
+Coph. I have called upon thy name, O Lord, from the lowest pit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1ef54bd" class="outline-3">
+<h3 id="org1ef54bd"><span class="section-number-3">3.56</span> Lamentations 3:56</h3>
+<div class="outline-text-3" id="text-3-56">
+<p>
+Coph. Thou hast heard my voice: turn not away thy ear from my sighs, and cries.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org52ef0fc" class="outline-3">
+<h3 id="org52ef0fc"><span class="section-number-3">3.57</span> Lamentations 3:57</h3>
+<div class="outline-text-3" id="text-3-57">
+<p>
+Coph. Thou drewest near in the day, when I called upon thee, thou saidst: Fear not.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4885f87" class="outline-3">
+<h3 id="org4885f87"><span class="section-number-3">3.58</span> Lamentations 3:58</h3>
+<div class="outline-text-3" id="text-3-58">
+<p>
+Res. Thou hast judged, O Lord, the cause of my soul, thou the Redeemer of my life.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbf3dd44" class="outline-3">
+<h3 id="orgbf3dd44"><span class="section-number-3">3.59</span> Lamentations 3:59</h3>
+<div class="outline-text-3" id="text-3-59">
+<p>
+Res. Thou hast seen, O Lord, their iniquity against me: judge thou my judgment.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga96f3d8" class="outline-3">
+<h3 id="orga96f3d8"><span class="section-number-3">3.60</span> Lamentations 3:60</h3>
+<div class="outline-text-3" id="text-3-60">
+<p>
+Res. Thou hast seen all their fury, and all their thoughts against me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org559d27c" class="outline-3">
+<h3 id="org559d27c"><span class="section-number-3">3.61</span> Lamentations 3:61</h3>
+<div class="outline-text-3" id="text-3-61">
+<p>
+Sin. Thou hast heard their reproach, O Lord, all their imaginations against me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2bca5a6" class="outline-3">
+<h3 id="org2bca5a6"><span class="section-number-3">3.62</span> Lamentations 3:62</h3>
+<div class="outline-text-3" id="text-3-62">
+<p>
+Sin. The lips of them that rise up against me: and their devices against me all the day.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8205695" class="outline-3">
+<h3 id="org8205695"><span class="section-number-3">3.63</span> Lamentations 3:63</h3>
+<div class="outline-text-3" id="text-3-63">
+<p>
+Sin. Behold their sitting down, and their rising up, I am their song.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e4d54e" class="outline-3">
+<h3 id="org9e4d54e"><span class="section-number-3">3.64</span> Lamentations 3:64</h3>
+<div class="outline-text-3" id="text-3-64">
+<p>
+Thau. Thou shalt render them a recompense, O Lord, according to the works of their hands.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5f7ba99" class="outline-3">
+<h3 id="org5f7ba99"><span class="section-number-3">3.65</span> Lamentations 3:65</h3>
+<div class="outline-text-3" id="text-3-65">
+<p>
+Thau. Thou shalt give them a buckler of heart, thy labour.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd45fa4e" class="outline-3">
+<h3 id="orgd45fa4e"><span class="section-number-3">3.66</span> Lamentations 3:66</h3>
+<div class="outline-text-3" id="text-3-66">
+<p>
+Thau. Thou shalt persecute them in anger, and shalt destroy them from under the heavens, O Lord. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgb1093df" class="outline-2">
+<h2 id="orgb1093df"><span class="section-number-2">4</span> Lamentations 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org31f3ee0" class="outline-3">
+<h3 id="org31f3ee0"><span class="section-number-3">4.1</span> Lamentations 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Aleph. How is the gold become dim, the finest colour is changed, the stones of the sanctuary are scattered in the top of every street?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc95b1bb" class="outline-3">
+<h3 id="orgc95b1bb"><span class="section-number-3">4.2</span> Lamentations 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+Beth. The noble sons of Sion, and they that were clothed with the best gold: how are they esteemed as earthen vessels, the work of the potter&rsquo;s hands?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0b60402" class="outline-3">
+<h3 id="org0b60402"><span class="section-number-3">4.3</span> Lamentations 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+Ghimel. Even the sea monsters have drawn out the breast, they have given suck to their young: the daughter of my people is cruel, like the ostrich in the desert.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5f94eca" class="outline-3">
+<h3 id="org5f94eca"><span class="section-number-3">4.4</span> Lamentations 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+Daleth. The tongue of the sucking child hath stuck to the roof of his mouth for thirst: the little ones have asked for bread, and there was none to break it unto them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2ac7f48" class="outline-3">
+<h3 id="org2ac7f48"><span class="section-number-3">4.5</span> Lamentations 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+He. They that were fed delicately have died in the streets: they that were brought up in scarlet have embraced the dung.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfcd515e" class="outline-3">
+<h3 id="orgfcd515e"><span class="section-number-3">4.6</span> Lamentations 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+Vau. And the iniquity of the daughter of my people is made greater than the sin of Sodom, which was overthrown in a moment, and hands took nothing in her.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge5345c1" class="outline-3">
+<h3 id="orge5345c1"><span class="section-number-3">4.7</span> Lamentations 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+Zain. Her Nazarites were whiter than snow, purer than milk, more ruddy than the old ivory, fairer than the sapphire.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfef475c" class="outline-3">
+<h3 id="orgfef475c"><span class="section-number-3">4.8</span> Lamentations 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+Heth. Their face is now made blacker than coals, and they are not known in the streets: their skin hath stuck to their bones, it is withered, and is become like wood.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge274fda" class="outline-3">
+<h3 id="orge274fda"><span class="section-number-3">4.9</span> Lamentations 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+Teth. It was better with them that were slain by the sword, than with them that died with hunger: for these pined away being consumed for want of the fruits of the earth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcf5dbeb" class="outline-3">
+<h3 id="orgcf5dbeb"><span class="section-number-3">4.10</span> Lamentations 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+Jod. The hands of the pitiful women have sodden their own children: they were their meat in the destruction of the daughter of my people.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org52928ff" class="outline-3">
+<h3 id="org52928ff"><span class="section-number-3">4.11</span> Lamentations 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+Caph. The Lord hath accomplished his wrath, he hath poured out his fierce anger: and he hath kindled a fire in Sion, and it hath devoured the foundations thereof.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7d65cb1" class="outline-3">
+<h3 id="org7d65cb1"><span class="section-number-3">4.12</span> Lamentations 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+Lamed. The kings of the earth, and all the inhabitants of the world would not have believed, that the adversary and the enemy should enter in by the gates of Jerusalem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7237b21" class="outline-3">
+<h3 id="org7237b21"><span class="section-number-3">4.13</span> Lamentations 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+Mem. For the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3ee1f0a" class="outline-3">
+<h3 id="org3ee1f0a"><span class="section-number-3">4.14</span> Lamentations 4:14</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+Nun. They have wandered as blind men in the streets, they were defiled with blood: and when they could not help walking in it, they held up their skirts.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd2e36b0" class="outline-3">
+<h3 id="orgd2e36b0"><span class="section-number-3">4.15</span> Lamentations 4:15</h3>
+<div class="outline-text-3" id="text-4-15">
+<p>
+Samech. Depart you that are defiled, they cried out to them: Depart, get ye hence, touch not: for they quarrelled, and being removed, they said among the Gentiles: He will no more dwell among them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaf8e21d" class="outline-3">
+<h3 id="orgaf8e21d"><span class="section-number-3">4.16</span> Lamentations 4:16</h3>
+<div class="outline-text-3" id="text-4-16">
+<p>
+Phe. The face of the Lord hath divided them, he will no more regard them: they respected not the persons of the priests, neither had they pity on the ancient.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga53052b" class="outline-3">
+<h3 id="orga53052b"><span class="section-number-3">4.17</span> Lamentations 4:17</h3>
+<div class="outline-text-3" id="text-4-17">
+<p>
+Ain. While we were yet standing, our eyes failed, expecting help for us in vain, when we looked attentively towards a nation that was not able to save.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd2db32f" class="outline-3">
+<h3 id="orgd2db32f"><span class="section-number-3">4.18</span> Lamentations 4:18</h3>
+<div class="outline-text-3" id="text-4-18">
+<p>
+Sade. Our steps have slipped in the way of our streets, our end draweth near: our days are fulfilled, for our end is come.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbaeea5a" class="outline-3">
+<h3 id="orgbaeea5a"><span class="section-number-3">4.19</span> Lamentations 4:19</h3>
+<div class="outline-text-3" id="text-4-19">
+<p>
+Coph. Our persecutors were swifter than the eagles of the air: they pursued us upon the mountains, they lay in wait for us in the wilderness.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7c83ba6" class="outline-3">
+<h3 id="org7c83ba6"><span class="section-number-3">4.20</span> Lamentations 4:20</h3>
+<div class="outline-text-3" id="text-4-20">
+<p>
+Res. The breath of our mouth, Christ the Lord, is taken in our sins: to whom we said: Under thy shadow we shall live among the Gentiles.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f271bc" class="outline-3">
+<h3 id="org3f271bc"><span class="section-number-3">4.21</span> Lamentations 4:21</h3>
+<div class="outline-text-3" id="text-4-21">
+<p>
+Sin. Rejoice, and be glad, O daughter of Edom, that dwellest in the land of Hus: to thee also shall the cup come, thou shalt be made drunk, and naked.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9636c21" class="outline-3">
+<h3 id="org9636c21"><span class="section-number-3">4.22</span> Lamentations 4:22</h3>
+<div class="outline-text-3" id="text-4-22">
+<p>
+Thau. Thy iniquity is accomplished, O daughter of Sion, he will no more carry thee away into captivity: he hath visited thy iniquity, O daughter of Edom, he hath discovered thy sins. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgb53bb53" class="outline-2">
+<h2 id="orgb53bb53"><span class="section-number-2">5</span> Lamentations 5</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org843244e" class="outline-3">
+<h3 id="org843244e"><span class="section-number-3">5.1</span> Lamentations 5:1</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Remember, O Lord, what is come upon us: consider and behold our reproach.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc54e483" class="outline-3">
+<h3 id="orgc54e483"><span class="section-number-3">5.2</span> Lamentations 5:2</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Our inheritance is turned to aliens: our houses to strangers.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org57e8261" class="outline-3">
+<h3 id="org57e8261"><span class="section-number-3">5.3</span> Lamentations 5:3</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+We are become orphans without a father: our mothers are as widows.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org95f6a63" class="outline-3">
+<h3 id="org95f6a63"><span class="section-number-3">5.4</span> Lamentations 5:4</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+We have drunk our water for money: we have bought our wood.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc8da7ee" class="outline-3">
+<h3 id="orgc8da7ee"><span class="section-number-3">5.5</span> Lamentations 5:5</h3>
+<div class="outline-text-3" id="text-5-5">
+<p>
+We were dragged by the necks, we were weary and no rest was given us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b9a6cc" class="outline-3">
+<h3 id="org3b9a6cc"><span class="section-number-3">5.6</span> Lamentations 5:6</h3>
+<div class="outline-text-3" id="text-5-6">
+<p>
+We have given our hand to Egypt, and to the Assyrians, that we might be satisfied with bread.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc1666f" class="outline-3">
+<h3 id="orgfc1666f"><span class="section-number-3">5.7</span> Lamentations 5:7</h3>
+<div class="outline-text-3" id="text-5-7">
+<p>
+Our fathers have sinned, and are not: and we have borne their iniquities.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org24f222b" class="outline-3">
+<h3 id="org24f222b"><span class="section-number-3">5.8</span> Lamentations 5:8</h3>
+<div class="outline-text-3" id="text-5-8">
+<p>
+Servants have ruled over us: there was none to redeem us out of their hand.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3c4754f" class="outline-3">
+<h3 id="org3c4754f"><span class="section-number-3">5.9</span> Lamentations 5:9</h3>
+<div class="outline-text-3" id="text-5-9">
+<p>
+We fetched our bread at the peril of our lives, because of the sword in the desert.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc9cf6ed" class="outline-3">
+<h3 id="orgc9cf6ed"><span class="section-number-3">5.10</span> Lamentations 5:10</h3>
+<div class="outline-text-3" id="text-5-10">
+<p>
+Our skin was burnt as an oven, by reason of the violence of the famine.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org92de82f" class="outline-3">
+<h3 id="org92de82f"><span class="section-number-3">5.11</span> Lamentations 5:11</h3>
+<div class="outline-text-3" id="text-5-11">
+<p>
+They oppressed the women in Sion, and the virgins in the cities of Juda.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga6658d6" class="outline-3">
+<h3 id="orga6658d6"><span class="section-number-3">5.12</span> Lamentations 5:12</h3>
+<div class="outline-text-3" id="text-5-12">
+<p>
+The princes were hanged up by their hand: they did not respect the persons of the ancients.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2b21ed1" class="outline-3">
+<h3 id="org2b21ed1"><span class="section-number-3">5.13</span> Lamentations 5:13</h3>
+<div class="outline-text-3" id="text-5-13">
+<p>
+They abused the young men indecently: and the children fell under the wood.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9100b9b" class="outline-3">
+<h3 id="org9100b9b"><span class="section-number-3">5.14</span> Lamentations 5:14</h3>
+<div class="outline-text-3" id="text-5-14">
+<p>
+The ancients have ceased from the gates: the young men from the choir of the singers.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcd1fad2" class="outline-3">
+<h3 id="orgcd1fad2"><span class="section-number-3">5.15</span> Lamentations 5:15</h3>
+<div class="outline-text-3" id="text-5-15">
+<p>
+The joy of our heart is ceased, our dancing is turned into mourning.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge64f152" class="outline-3">
+<h3 id="orge64f152"><span class="section-number-3">5.16</span> Lamentations 5:16</h3>
+<div class="outline-text-3" id="text-5-16">
+<p>
+The crown is fallen from our head: woe to us, because we have sinned.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org17434b7" class="outline-3">
+<h3 id="org17434b7"><span class="section-number-3">5.17</span> Lamentations 5:17</h3>
+<div class="outline-text-3" id="text-5-17">
+<p>
+Therefore is our heart sorrowful, therefore are our eyes become dim.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0e78994" class="outline-3">
+<h3 id="org0e78994"><span class="section-number-3">5.18</span> Lamentations 5:18</h3>
+<div class="outline-text-3" id="text-5-18">
+<p>
+For mount Sion, because it is destroyed, foxes have walked upon it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdad3065" class="outline-3">
+<h3 id="orgdad3065"><span class="section-number-3">5.19</span> Lamentations 5:19</h3>
+<div class="outline-text-3" id="text-5-19">
+<p>
+But thou, O Lord, shalt remain for ever, thy throne from generation to generation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org11f76ab" class="outline-3">
+<h3 id="org11f76ab"><span class="section-number-3">5.20</span> Lamentations 5:20</h3>
+<div class="outline-text-3" id="text-5-20">
+<p>
+Why wilt thou forget us for ever? why wilt thou forsake us for a long time?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org213d332" class="outline-3">
+<h3 id="org213d332"><span class="section-number-3">5.21</span> Lamentations 5:21</h3>
+<div class="outline-text-3" id="text-5-21">
+<p>
+Convert us, O Lord, to thee, and we shall be converted: renew our days, as from the beginning.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3707dad" class="outline-3">
+<h3 id="org3707dad"><span class="section-number-3">5.22</span> Lamentations 5:22</h3>
+<div class="outline-text-3" id="text-5-22">
+<p>
+But thou hast utterly rejected us, thou art exceedingly angry with us.  
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:37</p>
+</div>
+</body>
+</html>

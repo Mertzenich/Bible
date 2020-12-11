@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:38 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgdc8658d">1. James 1</a>
+<ul>
+<li><a href="#org6bf3d04">1.1. James 1:1</a></li>
+<li><a href="#org2c61c79">1.2. James 1:2</a></li>
+<li><a href="#org88ddc37">1.3. James 1:3</a></li>
+<li><a href="#org3418995">1.4. James 1:4</a></li>
+<li><a href="#org6dd4952">1.5. James 1:5</a></li>
+<li><a href="#org8d2b844">1.6. James 1:6</a></li>
+<li><a href="#orgc03760d">1.7. James 1:7</a></li>
+<li><a href="#org2e47b82">1.8. James 1:8</a></li>
+<li><a href="#orge97e4a5">1.9. James 1:9</a></li>
+<li><a href="#org214e3a2">1.10. James 1:10</a></li>
+<li><a href="#org918299b">1.11. James 1:11</a></li>
+<li><a href="#org970b60e">1.12. James 1:12</a></li>
+<li><a href="#org8fcb5e5">1.13. James 1:13</a></li>
+<li><a href="#org9ff45c8">1.14. James 1:14</a></li>
+<li><a href="#orga3523e6">1.15. James 1:15</a></li>
+<li><a href="#org92978e1">1.16. James 1:16</a></li>
+<li><a href="#orgc275cee">1.17. James 1:17</a></li>
+<li><a href="#orgc99070d">1.18. James 1:18</a></li>
+<li><a href="#orga30c30c">1.19. James 1:19</a></li>
+<li><a href="#orgac8dbca">1.20. James 1:20</a></li>
+<li><a href="#orga668962">1.21. James 1:21</a></li>
+<li><a href="#orgfe9b823">1.22. James 1:22</a></li>
+<li><a href="#orgc6ecaee">1.23. James 1:23</a></li>
+<li><a href="#orgca848be">1.24. James 1:24</a></li>
+<li><a href="#orgd1ad582">1.25. James 1:25</a></li>
+<li><a href="#org50c7340">1.26. James 1:26</a></li>
+<li><a href="#orgd37b699">1.27. James 1:27</a></li>
+</ul>
+</li>
+<li><a href="#orgfb8d5ea">2. James 2</a>
+<ul>
+<li><a href="#org1cab18f">2.1. James 2:1</a></li>
+<li><a href="#org75def45">2.2. James 2:2</a></li>
+<li><a href="#orgedd29dc">2.3. James 2:3</a></li>
+<li><a href="#orgda12746">2.4. James 2:4</a></li>
+<li><a href="#org7e1b74c">2.5. James 2:5</a></li>
+<li><a href="#orgbbd2c36">2.6. James 2:6</a></li>
+<li><a href="#org112bed7">2.7. James 2:7</a></li>
+<li><a href="#org8aef822">2.8. James 2:8</a></li>
+<li><a href="#orgef90e7b">2.9. James 2:9</a></li>
+<li><a href="#org05e0a05">2.10. James 2:10</a></li>
+<li><a href="#orgbdcf5a2">2.11. James 2:11</a></li>
+<li><a href="#org36c3ff4">2.12. James 2:12</a></li>
+<li><a href="#orgd76ddc5">2.13. James 2:13</a></li>
+<li><a href="#org5ef770c">2.14. James 2:14</a></li>
+<li><a href="#org0f46e31">2.15. James 2:15</a></li>
+<li><a href="#orgbc7557e">2.16. James 2:16</a></li>
+<li><a href="#orgf8b4843">2.17. James 2:17</a></li>
+<li><a href="#org454e7c2">2.18. James 2:18</a></li>
+<li><a href="#org6310bea">2.19. James 2:19</a></li>
+<li><a href="#orgc18f54b">2.20. James 2:20</a></li>
+<li><a href="#org7152fb1">2.21. James 2:21</a></li>
+<li><a href="#org486a955">2.22. James 2:22</a></li>
+<li><a href="#orgedf8eed">2.23. James 2:23</a></li>
+<li><a href="#orgf9c13cb">2.24. James 2:24</a></li>
+<li><a href="#org21973b3">2.25. James 2:25</a></li>
+<li><a href="#org2834710">2.26. James 2:26</a></li>
+</ul>
+</li>
+<li><a href="#org70f663c">3. James 3</a>
+<ul>
+<li><a href="#org9fb38ad">3.1. James 3:1</a></li>
+<li><a href="#orge7e6b88">3.2. James 3:2</a></li>
+<li><a href="#org49112f6">3.3. James 3:3</a></li>
+<li><a href="#orge564839">3.4. James 3:4</a></li>
+<li><a href="#orgb5938e5">3.5. James 3:5</a></li>
+<li><a href="#org72636c5">3.6. James 3:6</a></li>
+<li><a href="#orgd1ec15d">3.7. James 3:7</a></li>
+<li><a href="#org6f1d09a">3.8. James 3:8</a></li>
+<li><a href="#org378965d">3.9. James 3:9</a></li>
+<li><a href="#org5ae02eb">3.10. James 3:10</a></li>
+<li><a href="#org908b2d9">3.11. James 3:11</a></li>
+<li><a href="#org08509e9">3.12. James 3:12</a></li>
+<li><a href="#org8480fb6">3.13. James 3:13</a></li>
+<li><a href="#orga5fbf26">3.14. James 3:14</a></li>
+<li><a href="#orgf46eca0">3.15. James 3:15</a></li>
+<li><a href="#orgefafde3">3.16. James 3:16</a></li>
+<li><a href="#org80231ba">3.17. James 3:17</a></li>
+<li><a href="#org57f9381">3.18. James 3:18</a></li>
+</ul>
+</li>
+<li><a href="#org8618743">4. James 4</a>
+<ul>
+<li><a href="#orgfe7398a">4.1. James 4:1</a></li>
+<li><a href="#org4042bdd">4.2. James 4:2</a></li>
+<li><a href="#org354f3f6">4.3. James 4:3</a></li>
+<li><a href="#org602586b">4.4. James 4:4</a></li>
+<li><a href="#orge30f413">4.5. James 4:5</a></li>
+<li><a href="#org49f74df">4.6. James 4:6</a></li>
+<li><a href="#org1d36e84">4.7. James 4:7</a></li>
+<li><a href="#orgb06d698">4.8. James 4:8</a></li>
+<li><a href="#org772df59">4.9. James 4:9</a></li>
+<li><a href="#org1a78e9a">4.10. James 4:10</a></li>
+<li><a href="#orgc739fdd">4.11. James 4:11</a></li>
+<li><a href="#orgd6cb51f">4.12. James 4:12</a></li>
+<li><a href="#orgcc56f60">4.13. James 4:13</a></li>
+<li><a href="#org0ea8e73">4.14. James 4:14</a></li>
+<li><a href="#orgf7aa31d">4.15. James 4:15</a></li>
+<li><a href="#org0624078">4.16. James 4:16</a></li>
+<li><a href="#org381de80">4.17. James 4:17</a></li>
+</ul>
+</li>
+<li><a href="#org9a98345">5. James 5</a>
+<ul>
+<li><a href="#org5e45455">5.1. James 5:1</a></li>
+<li><a href="#org329c1df">5.2. James 5:2</a></li>
+<li><a href="#orgfc5bfe1">5.3. James 5:3</a></li>
+<li><a href="#orgc2196c8">5.4. James 5:4</a></li>
+<li><a href="#org7356ac4">5.5. James 5:5</a></li>
+<li><a href="#orgfa81446">5.6. James 5:6</a></li>
+<li><a href="#orge4c041e">5.7. James 5:7</a></li>
+<li><a href="#org28f95cb">5.8. James 5:8</a></li>
+<li><a href="#org3af55fa">5.9. James 5:9</a></li>
+<li><a href="#org170b6f6">5.10. James 5:10</a></li>
+<li><a href="#org4c0a12e">5.11. James 5:11</a></li>
+<li><a href="#org7f0869a">5.12. James 5:12</a></li>
+<li><a href="#org7aacc2f">5.13. James 5:13</a></li>
+<li><a href="#org1beb8b1">5.14. James 5:14</a></li>
+<li><a href="#orgb8861fd">5.15. James 5:15</a></li>
+<li><a href="#org3ffe9cc">5.16. James 5:16</a></li>
+<li><a href="#org978ad92">5.17. James 5:17</a></li>
+<li><a href="#org4f3d54b">5.18. James 5:18</a></li>
+<li><a href="#org48502f4">5.19. James 5:19</a></li>
+<li><a href="#org6673e58">5.20. James 5:20</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgdc8658d" class="outline-2">
+<h2 id="orgdc8658d"><span class="section-number-2">1</span> James 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org6bf3d04" class="outline-3">
+<h3 id="org6bf3d04"><span class="section-number-3">1.1</span> James 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Jacobus, Dei et Domini nostri Jesu Christi servus, duodecim tribubus, quæ sunt in dispersione, salutem.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2c61c79" class="outline-3">
+<h3 id="org2c61c79"><span class="section-number-3">1.2</span> James 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Omne gaudium existimate fratres mei, cum in tentationes varias incideritis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org88ddc37" class="outline-3">
+<h3 id="org88ddc37"><span class="section-number-3">1.3</span> James 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+scientes quod probatio fidei vestræ patientiam operatur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3418995" class="outline-3">
+<h3 id="org3418995"><span class="section-number-3">1.4</span> James 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Patientia autem opus perfectum habet : ut sitis perfecti et integri in nullo deficientes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6dd4952" class="outline-3">
+<h3 id="org6dd4952"><span class="section-number-3">1.5</span> James 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Si quis autem vestrum indiget sapientia, postulet a Deo, qui dat omnibus affluenter, et non improperat : et dabitur ei.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8d2b844" class="outline-3">
+<h3 id="org8d2b844"><span class="section-number-3">1.6</span> James 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Postulet autem in fide nihil hæsitans : qui enim hæsitat, similis est fluctui maris, qui a vento movetur et circumfertur :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc03760d" class="outline-3">
+<h3 id="orgc03760d"><span class="section-number-3">1.7</span> James 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+non ergo æstimet homo ille quod accipiat aliquid a Domino.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2e47b82" class="outline-3">
+<h3 id="org2e47b82"><span class="section-number-3">1.8</span> James 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+Vir duplex animo inconstans est in omnibus viis suis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge97e4a5" class="outline-3">
+<h3 id="orge97e4a5"><span class="section-number-3">1.9</span> James 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+Glorietur autem frater humilis in exaltatione sua :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org214e3a2" class="outline-3">
+<h3 id="org214e3a2"><span class="section-number-3">1.10</span> James 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+dives autem in humilitate sua, quoniam sicut flos fœni transibit ;
+</p>
+</div>
+</div>
+
+<div id="outline-container-org918299b" class="outline-3">
+<h3 id="org918299b"><span class="section-number-3">1.11</span> James 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+exortus est enim sol cum ardore, et arefecit fœnum, et flos ejus decidit, et decor vultus ejus deperiit : ita et dives in itineribus suis marcescet.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org970b60e" class="outline-3">
+<h3 id="org970b60e"><span class="section-number-3">1.12</span> James 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+Beatus vir qui suffert tentationem : quoniam cum probatus fuerit, accipiet coronam vitæ, quam repromisit Deus diligentibus se.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8fcb5e5" class="outline-3">
+<h3 id="org8fcb5e5"><span class="section-number-3">1.13</span> James 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+Nemo cum tentatur, dicat quoniam a Deo tentatur : Deus enim intentator malorum est : ipse autem neminem tentat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9ff45c8" class="outline-3">
+<h3 id="org9ff45c8"><span class="section-number-3">1.14</span> James 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+Unusquisque vero tentatur a concupiscentia sua abstractus, et illectus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga3523e6" class="outline-3">
+<h3 id="orga3523e6"><span class="section-number-3">1.15</span> James 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+Deinde concupiscentia cum conceperit, parit peccatum : peccatum vero cum consummatum fuerit, generat mortem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org92978e1" class="outline-3">
+<h3 id="org92978e1"><span class="section-number-3">1.16</span> James 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+Nolite itaque errare, fratres mei dilectissimi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc275cee" class="outline-3">
+<h3 id="orgc275cee"><span class="section-number-3">1.17</span> James 1:17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+Omne datum optimum, et omne donum perfectum desursum est, descendens a Patre luminum, apud quem non est transmutatio, nec vicissitudinis obumbratio.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc99070d" class="outline-3">
+<h3 id="orgc99070d"><span class="section-number-3">1.18</span> James 1:18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+Voluntarie enim genuit nos verbo veritatis, ut simus initium aliquod creaturæ ejus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga30c30c" class="outline-3">
+<h3 id="orga30c30c"><span class="section-number-3">1.19</span> James 1:19</h3>
+<div class="outline-text-3" id="text-1-19">
+<p>
+Scitis, fratres mei dilectissimi. Sit autem omnis homo velox ad audiendum : tardus autem ad loquendum, et tardus ad iram.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgac8dbca" class="outline-3">
+<h3 id="orgac8dbca"><span class="section-number-3">1.20</span> James 1:20</h3>
+<div class="outline-text-3" id="text-1-20">
+<p>
+Ira enim viri justitiam Dei non operatur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga668962" class="outline-3">
+<h3 id="orga668962"><span class="section-number-3">1.21</span> James 1:21</h3>
+<div class="outline-text-3" id="text-1-21">
+<p>
+Propter quod abjicientes omnem immunditiam, et abundantiam malitiæ, in mansuetudine suscipite insitum verbum, quod potest salvare animas vestras.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe9b823" class="outline-3">
+<h3 id="orgfe9b823"><span class="section-number-3">1.22</span> James 1:22</h3>
+<div class="outline-text-3" id="text-1-22">
+<p>
+Estote autem factores verbi, et non auditores tantum : fallentes vosmetipsos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc6ecaee" class="outline-3">
+<h3 id="orgc6ecaee"><span class="section-number-3">1.23</span> James 1:23</h3>
+<div class="outline-text-3" id="text-1-23">
+<p>
+Quia si quis auditor est verbi, et non factor, hic comparabitur viro consideranti vultum nativitatis suæ in speculo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgca848be" class="outline-3">
+<h3 id="orgca848be"><span class="section-number-3">1.24</span> James 1:24</h3>
+<div class="outline-text-3" id="text-1-24">
+<p>
+consideravit enim se, et abiit, et statim oblitus est qualis fuerit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd1ad582" class="outline-3">
+<h3 id="orgd1ad582"><span class="section-number-3">1.25</span> James 1:25</h3>
+<div class="outline-text-3" id="text-1-25">
+<p>
+Qui autem perspexerit in legem perfectam libertatis, et permanserit in ea, non auditor obliviosus factus, sed factor operis : hic beatus in facto suo erit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org50c7340" class="outline-3">
+<h3 id="org50c7340"><span class="section-number-3">1.26</span> James 1:26</h3>
+<div class="outline-text-3" id="text-1-26">
+<p>
+Si quis autem putat se religiosum esse, non refrenans linguam suam, sed seducens cor suum, hujus vana est religio.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd37b699" class="outline-3">
+<h3 id="orgd37b699"><span class="section-number-3">1.27</span> James 1:27</h3>
+<div class="outline-text-3" id="text-1-27">
+<p>
+Religio munda et immaculata apud Deum et Patrem, hæc est : visitare pupillos et viduas in tribulatione eorum, et immaculatum se custodire ab hoc sæculo.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgfb8d5ea" class="outline-2">
+<h2 id="orgfb8d5ea"><span class="section-number-2">2</span> James 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org1cab18f" class="outline-3">
+<h3 id="org1cab18f"><span class="section-number-3">2.1</span> James 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Fratres mei, nolite in personarum acceptione habere fidem Domini nostri Jesu Christi gloriæ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75def45" class="outline-3">
+<h3 id="org75def45"><span class="section-number-3">2.2</span> James 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Etenim si introierit in conventum vestrum vir aureum annulum habens in veste candida, introierit autem et pauper in sordido habitu,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgedd29dc" class="outline-3">
+<h3 id="orgedd29dc"><span class="section-number-3">2.3</span> James 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+et intendatis in eum qui indutus est veste præclara, et dixeritis ei : Tu sede hic bene : pauperi autem dicatis : Tu sta illic ; aut sede sub scabello pedum meorum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda12746" class="outline-3">
+<h3 id="orgda12746"><span class="section-number-3">2.4</span> James 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+nonne judicatis apud vosmetipsos, et facti estis judices cogitationum iniquarum ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7e1b74c" class="outline-3">
+<h3 id="org7e1b74c"><span class="section-number-3">2.5</span> James 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+Audite, fratres mei dilectissimi : nonne Deus elegit pauperes in hoc mundo, divites in fide, et hæredes regni, quod repromisit Deus diligentibus se ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbbd2c36" class="outline-3">
+<h3 id="orgbbd2c36"><span class="section-number-3">2.6</span> James 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+vos autem exhonorastis pauperem. Nonne divites per potentiam opprimunt vos, et ipsi trahunt vos ad judicia ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org112bed7" class="outline-3">
+<h3 id="org112bed7"><span class="section-number-3">2.7</span> James 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+nonne ipsi blasphemant bonum nomen, quod invocatum est super vos ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8aef822" class="outline-3">
+<h3 id="org8aef822"><span class="section-number-3">2.8</span> James 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+Si tamen legem perficitis regalem secundum Scripturas : Diliges proximum tuum sicut teipsum : bene facitis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgef90e7b" class="outline-3">
+<h3 id="orgef90e7b"><span class="section-number-3">2.9</span> James 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+si autem personas accipitis, peccatum operamini, redarguti a lege quasi transgressores.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05e0a05" class="outline-3">
+<h3 id="org05e0a05"><span class="section-number-3">2.10</span> James 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+Quicumque autem totam legem servaverit, offendat autem in uno, factus est omnium reus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbdcf5a2" class="outline-3">
+<h3 id="orgbdcf5a2"><span class="section-number-3">2.11</span> James 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+Qui enim dixit : Non mœchaberis, dixit et : Non occides. Quod si non mœchaberis, occides autem, factus es transgressor legis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org36c3ff4" class="outline-3">
+<h3 id="org36c3ff4"><span class="section-number-3">2.12</span> James 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+Sic loquimini, et sic facite sicut per legem libertatis incipientes judicari.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd76ddc5" class="outline-3">
+<h3 id="orgd76ddc5"><span class="section-number-3">2.13</span> James 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+Judicium enim sine misericordia illi qui non fecit misericordiam : superexaltat autem misericordia judicium.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5ef770c" class="outline-3">
+<h3 id="org5ef770c"><span class="section-number-3">2.14</span> James 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+Quid proderit, fratres mei, si fidem quis dicat se habere, opera autem non habeat ? numquid poterit fides salvare eum ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0f46e31" class="outline-3">
+<h3 id="org0f46e31"><span class="section-number-3">2.15</span> James 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+Si autem frater et soror nudi sint, et indigeant victu quotidiano,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbc7557e" class="outline-3">
+<h3 id="orgbc7557e"><span class="section-number-3">2.16</span> James 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+dicat autem aliquis ex vobis illis : Ite in pace, calefacimini et saturamini : non dederitis autem eis quæ necessaria sunt corpori, quid proderit ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf8b4843" class="outline-3">
+<h3 id="orgf8b4843"><span class="section-number-3">2.17</span> James 2:17</h3>
+<div class="outline-text-3" id="text-2-17">
+<p>
+Sic et fides, si non habeat opera, mortua est in semetipsa.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org454e7c2" class="outline-3">
+<h3 id="org454e7c2"><span class="section-number-3">2.18</span> James 2:18</h3>
+<div class="outline-text-3" id="text-2-18">
+<p>
+Sed dicet quis : Tu fidem habes, et ego opera habeo : ostende mihi fidem tuam sine operibus : et ego ostendam tibi ex operibus fidem meam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6310bea" class="outline-3">
+<h3 id="org6310bea"><span class="section-number-3">2.19</span> James 2:19</h3>
+<div class="outline-text-3" id="text-2-19">
+<p>
+Tu credis quoniam unus est Deus : bene facis : et dæmones credunt, et contremiscunt.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc18f54b" class="outline-3">
+<h3 id="orgc18f54b"><span class="section-number-3">2.20</span> James 2:20</h3>
+<div class="outline-text-3" id="text-2-20">
+<p>
+Vis autem scire, o homo inanis, quoniam fides sine operibus mortua est ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7152fb1" class="outline-3">
+<h3 id="org7152fb1"><span class="section-number-3">2.21</span> James 2:21</h3>
+<div class="outline-text-3" id="text-2-21">
+<p>
+Abraham pater noster nonne ex operibus justificatus est, offerens Isaac filium suum super altare ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org486a955" class="outline-3">
+<h3 id="org486a955"><span class="section-number-3">2.22</span> James 2:22</h3>
+<div class="outline-text-3" id="text-2-22">
+<p>
+Vides quoniam fides cooperabatur operibus illius : et ex operibus fides consummata est ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgedf8eed" class="outline-3">
+<h3 id="orgedf8eed"><span class="section-number-3">2.23</span> James 2:23</h3>
+<div class="outline-text-3" id="text-2-23">
+<p>
+Et suppleta est Scriptura, dicens : Credidit Abraham Deo, et reputatum est illi ad justitiam, et amicus Dei appellatus est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf9c13cb" class="outline-3">
+<h3 id="orgf9c13cb"><span class="section-number-3">2.24</span> James 2:24</h3>
+<div class="outline-text-3" id="text-2-24">
+<p>
+Videtis quoniam ex operibus justificatur homo, et non ex fide tantum ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org21973b3" class="outline-3">
+<h3 id="org21973b3"><span class="section-number-3">2.25</span> James 2:25</h3>
+<div class="outline-text-3" id="text-2-25">
+<p>
+Similiter et Rahab meretrix, nonne ex operibus justificata est, suscipiens nuntios, et alia via ejiciens ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2834710" class="outline-3">
+<h3 id="org2834710"><span class="section-number-3">2.26</span> James 2:26</h3>
+<div class="outline-text-3" id="text-2-26">
+<p>
+Sicut enim corpus sine spiritu mortuum est, ita et fides sine operibus mortua est.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org70f663c" class="outline-2">
+<h2 id="org70f663c"><span class="section-number-2">3</span> James 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org9fb38ad" class="outline-3">
+<h3 id="org9fb38ad"><span class="section-number-3">3.1</span> James 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+Nolite plures magistri fieri fratres mei, scientes quoniam majus judicium sumitis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge7e6b88" class="outline-3">
+<h3 id="orge7e6b88"><span class="section-number-3">3.2</span> James 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+In multis enim offendimus omnes. Si quis in verbo non offendit, hic perfectus est vir : potest etiam freno circumducere totum corpus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org49112f6" class="outline-3">
+<h3 id="org49112f6"><span class="section-number-3">3.3</span> James 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+Si autem equis frena in ora mittimus ad consentiendum nobis, et omne corpus illorum circumferimus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge564839" class="outline-3">
+<h3 id="orge564839"><span class="section-number-3">3.4</span> James 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+Ecce et naves, cum magnæ sint, et a ventis validis minentur, circumferuntur a modico gubernaculo ubi impetus dirigentis voluerit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb5938e5" class="outline-3">
+<h3 id="orgb5938e5"><span class="section-number-3">3.5</span> James 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+Ita et lingua modicum quidem membrum est, et magna exaltat. Ecce quantus ignis quam magnam silvam incendit !
+</p>
+</div>
+</div>
+
+<div id="outline-container-org72636c5" class="outline-3">
+<h3 id="org72636c5"><span class="section-number-3">3.6</span> James 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+Et lingua ignis est, universitas iniquitatis. Lingua constituitur in membris nostris, quæ maculat totum corpus, et inflammat rotam nativitatis nostræ inflammata a gehenna.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd1ec15d" class="outline-3">
+<h3 id="orgd1ec15d"><span class="section-number-3">3.7</span> James 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+Omnis enim natura bestiarum, et volucrum, et serpentium, et ceterorum domantur, et domita sunt a natura humana :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6f1d09a" class="outline-3">
+<h3 id="org6f1d09a"><span class="section-number-3">3.8</span> James 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+linguam autem nullus hominum domare potest : inquietum malum, plena veneno mortifero.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org378965d" class="outline-3">
+<h3 id="org378965d"><span class="section-number-3">3.9</span> James 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+In ipsa benedicimus Deum et Patrem : et in ipsa maledicimus homines, qui ad similitudinem Dei facti sunt.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5ae02eb" class="outline-3">
+<h3 id="org5ae02eb"><span class="section-number-3">3.10</span> James 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+Ex ipso ore procedit benedictio et maledictio. Non oportet, fratres mei, hæc ita fieri.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org908b2d9" class="outline-3">
+<h3 id="org908b2d9"><span class="section-number-3">3.11</span> James 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+Numquid fons de eodem foramine emanat dulcem et amaram aquam ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org08509e9" class="outline-3">
+<h3 id="org08509e9"><span class="section-number-3">3.12</span> James 3:12</h3>
+<div class="outline-text-3" id="text-3-12">
+<p>
+Numquid potest, fratres mei, ficus uvas facere, aut vitis ficus ? Sic neque salsa dulcem potest facere aquam.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8480fb6" class="outline-3">
+<h3 id="org8480fb6"><span class="section-number-3">3.13</span> James 3:13</h3>
+<div class="outline-text-3" id="text-3-13">
+<p>
+Quis sapiens et disciplinatus inter vos ? Ostendat ex bona conversatione operationem suam in mansuetudine sapientiæ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga5fbf26" class="outline-3">
+<h3 id="orga5fbf26"><span class="section-number-3">3.14</span> James 3:14</h3>
+<div class="outline-text-3" id="text-3-14">
+<p>
+Quod si zelum amarum habetis, et contentiones sint in cordibus vestris : nolite gloriari, et mendaces esse adversus veritatem :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf46eca0" class="outline-3">
+<h3 id="orgf46eca0"><span class="section-number-3">3.15</span> James 3:15</h3>
+<div class="outline-text-3" id="text-3-15">
+<p>
+non est enim ista sapientia desursum descendens : sed terrena, animalis, diabolica.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgefafde3" class="outline-3">
+<h3 id="orgefafde3"><span class="section-number-3">3.16</span> James 3:16</h3>
+<div class="outline-text-3" id="text-3-16">
+<p>
+Ubi enim zelus et contentio, ibi inconstantia et omne opus pravum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org80231ba" class="outline-3">
+<h3 id="org80231ba"><span class="section-number-3">3.17</span> James 3:17</h3>
+<div class="outline-text-3" id="text-3-17">
+<p>
+Quæ autem desursum est sapientia, primum quidem pudica est, deinde pacifica, modesta, suadibilis, bonis consentiens, plena misericordia et fructibus bonis, non judicans, sine simulatione.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org57f9381" class="outline-3">
+<h3 id="org57f9381"><span class="section-number-3">3.18</span> James 3:18</h3>
+<div class="outline-text-3" id="text-3-18">
+<p>
+Fructus autem justitiæ, in pace seminatur, facientibus pacem.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org8618743" class="outline-2">
+<h2 id="org8618743"><span class="section-number-2">4</span> James 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-orgfe7398a" class="outline-3">
+<h3 id="orgfe7398a"><span class="section-number-3">4.1</span> James 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Unde bella et lites in vobis ? nonne hinc : ex concupiscentiis vestris, quæ militant in membris vestris ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4042bdd" class="outline-3">
+<h3 id="org4042bdd"><span class="section-number-3">4.2</span> James 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+concupiscitis, et non habetis : occiditis, et zelatis : et non potestis adipisci : litigatis, et belligeratis, et non habetis, propter quod non postulatis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org354f3f6" class="outline-3">
+<h3 id="org354f3f6"><span class="section-number-3">4.3</span> James 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+Petitis, et non accipitis : eo quod male petatis : ut in concupiscentiis vestris insumatis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org602586b" class="outline-3">
+<h3 id="org602586b"><span class="section-number-3">4.4</span> James 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+Adulteri, nescitis quia amicitia hujus mundi inimica est Dei ? quicumque ergo voluerit amicus esse sæculi hujus, inimicus Dei constituitur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge30f413" class="outline-3">
+<h3 id="orge30f413"><span class="section-number-3">4.5</span> James 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+An putatis quia inaniter Scriptura dicat : Ad invidiam concupiscit spiritus qui habitat in vobis ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org49f74df" class="outline-3">
+<h3 id="org49f74df"><span class="section-number-3">4.6</span> James 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+majorem autem dat gratiam. Propter quod dicit : Deus superbis resistit, humilibus autem dat gratiam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1d36e84" class="outline-3">
+<h3 id="org1d36e84"><span class="section-number-3">4.7</span> James 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+Subditi ergo estote Deo, resistite autem diabolo, et fugiet a vobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb06d698" class="outline-3">
+<h3 id="orgb06d698"><span class="section-number-3">4.8</span> James 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+Appropinquate Deo, et appropinquabit vobis. Emundate manus, peccatores : et purificate corda, duplices animo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org772df59" class="outline-3">
+<h3 id="org772df59"><span class="section-number-3">4.9</span> James 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+Miseri estote, et lugete, et plorate : risus vester in luctum convertatur, et gaudium in mœrorem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1a78e9a" class="outline-3">
+<h3 id="org1a78e9a"><span class="section-number-3">4.10</span> James 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+Humiliamini in conspectu Domini, et exaltabit vos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc739fdd" class="outline-3">
+<h3 id="orgc739fdd"><span class="section-number-3">4.11</span> James 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+Nolite detrahere alterutrum fratres. Qui detrahit fratri, aut qui judicat fratrem suum, detrahit legi, et judicat legem. Si autem judicas legem, non es factor legis, sed judex.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd6cb51f" class="outline-3">
+<h3 id="orgd6cb51f"><span class="section-number-3">4.12</span> James 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+Unus est legislator et judex, qui potest perdere et liberare.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcc56f60" class="outline-3">
+<h3 id="orgcc56f60"><span class="section-number-3">4.13</span> James 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+Tu autem quis es, qui judicas proximum ? Ecce nunc qui dicitis : Hodie, aut crastino ibimus in illam civitatem, et faciemus ibi quidem annum, et mercabimur, et lucrum faciemus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0ea8e73" class="outline-3">
+<h3 id="org0ea8e73"><span class="section-number-3">4.14</span> James 4:14</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+qui ignoratis quid erit in crastino.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf7aa31d" class="outline-3">
+<h3 id="orgf7aa31d"><span class="section-number-3">4.15</span> James 4:15</h3>
+<div class="outline-text-3" id="text-4-15">
+<p>
+Quæ est enim vita vestra ? vapor est ad modicum parens, et deinceps exterminabitur ; pro eo ut dicatis : Si Dominus voluerit. Et : Si vixerimus, faciemus hoc, aut illud.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0624078" class="outline-3">
+<h3 id="org0624078"><span class="section-number-3">4.16</span> James 4:16</h3>
+<div class="outline-text-3" id="text-4-16">
+<p>
+Nunc autem exsultatis in superbiis vestris. Omnis exsultatio talis, maligna est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org381de80" class="outline-3">
+<h3 id="org381de80"><span class="section-number-3">4.17</span> James 4:17</h3>
+<div class="outline-text-3" id="text-4-17">
+<p>
+Scienti igitur bonum facere, et non facienti, peccatum est illi.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org9a98345" class="outline-2">
+<h2 id="org9a98345"><span class="section-number-2">5</span> James 5</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org5e45455" class="outline-3">
+<h3 id="org5e45455"><span class="section-number-3">5.1</span> James 5:1</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Agite nunc divites, plorate ululantes in miseriis vestris, quæ advenient vobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org329c1df" class="outline-3">
+<h3 id="org329c1df"><span class="section-number-3">5.2</span> James 5:2</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Divitiæ vestræ putrefactæ sunt, et vestimenta vestra a tineis comesta sunt.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc5bfe1" class="outline-3">
+<h3 id="orgfc5bfe1"><span class="section-number-3">5.3</span> James 5:3</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+Aurum et argentum vestrum æruginavit : et ærugo eorum in testimonium vobis erit, et manducabit carnes vestras sicut ignis. Thesaurizastis vobis iram in novissimis diebus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc2196c8" class="outline-3">
+<h3 id="orgc2196c8"><span class="section-number-3">5.4</span> James 5:4</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+Ecce merces operariorum, qui messuerunt regiones vestras, quæ fraudata est a vobis, clamat : et clamor eorum in aures Domini sabbaoth introivit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7356ac4" class="outline-3">
+<h3 id="org7356ac4"><span class="section-number-3">5.5</span> James 5:5</h3>
+<div class="outline-text-3" id="text-5-5">
+<p>
+Epulati estis super terram, et in luxuriis enutristis corda vestra in die occisionis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfa81446" class="outline-3">
+<h3 id="orgfa81446"><span class="section-number-3">5.6</span> James 5:6</h3>
+<div class="outline-text-3" id="text-5-6">
+<p>
+Addixistis, et occidistis justum, et non restitit vobis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge4c041e" class="outline-3">
+<h3 id="orge4c041e"><span class="section-number-3">5.7</span> James 5:7</h3>
+<div class="outline-text-3" id="text-5-7">
+<p>
+Patientes igitur estote, fratres, usque ad adventum Domini. Ecce agricola exspectat pretiosum fructum terræ, patienter ferens donec accipiat temporaneum et serotinum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org28f95cb" class="outline-3">
+<h3 id="org28f95cb"><span class="section-number-3">5.8</span> James 5:8</h3>
+<div class="outline-text-3" id="text-5-8">
+<p>
+Patientes igitur estote et vos, et confirmate corda vestra : quoniam adventus Domini appropinquavit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3af55fa" class="outline-3">
+<h3 id="org3af55fa"><span class="section-number-3">5.9</span> James 5:9</h3>
+<div class="outline-text-3" id="text-5-9">
+<p>
+Nolite ingemiscere, fratres, in alterutrum, ut non judicemini. Ecce judex ante januam assistit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org170b6f6" class="outline-3">
+<h3 id="org170b6f6"><span class="section-number-3">5.10</span> James 5:10</h3>
+<div class="outline-text-3" id="text-5-10">
+<p>
+Exemplum accipite, fratres, exitus mali, laboris, et patientiæ, prophetas qui locuti sunt in nomine Domini.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4c0a12e" class="outline-3">
+<h3 id="org4c0a12e"><span class="section-number-3">5.11</span> James 5:11</h3>
+<div class="outline-text-3" id="text-5-11">
+<p>
+Ecce beatificamus eos qui sustinuerunt. Sufferentiam Job audistis, et finem Domini vidistis, quoniam misericors Dominus est, et miserator.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f0869a" class="outline-3">
+<h3 id="org7f0869a"><span class="section-number-3">5.12</span> James 5:12</h3>
+<div class="outline-text-3" id="text-5-12">
+<p>
+Ante omnia autem, fratres mei, nolite jurare, neque per cælum, neque per terram, neque aliud quodcumque juramentum. Sit autem sermo vester : Est, est : Non, non : ut non sub judicio decidatis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7aacc2f" class="outline-3">
+<h3 id="org7aacc2f"><span class="section-number-3">5.13</span> James 5:13</h3>
+<div class="outline-text-3" id="text-5-13">
+<p>
+Tristatur aliquis vestrum ? oret. Æquo animo est ? psallat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1beb8b1" class="outline-3">
+<h3 id="org1beb8b1"><span class="section-number-3">5.14</span> James 5:14</h3>
+<div class="outline-text-3" id="text-5-14">
+<p>
+Infirmatur quis in vobis ? inducat presbyteros ecclesiæ, et orent super eum, ungentes eum oleo in nomine Domini :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb8861fd" class="outline-3">
+<h3 id="orgb8861fd"><span class="section-number-3">5.15</span> James 5:15</h3>
+<div class="outline-text-3" id="text-5-15">
+<p>
+et oratio fidei salvabit infirmum, et alleviabit eum Dominus : et si in peccatis sit, remittentur ei.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3ffe9cc" class="outline-3">
+<h3 id="org3ffe9cc"><span class="section-number-3">5.16</span> James 5:16</h3>
+<div class="outline-text-3" id="text-5-16">
+<p>
+Confitemini ergo alterutrum peccata vestra, et orate pro invicem ut salvemini : multum enim valet deprecatio justi assidua.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org978ad92" class="outline-3">
+<h3 id="org978ad92"><span class="section-number-3">5.17</span> James 5:17</h3>
+<div class="outline-text-3" id="text-5-17">
+<p>
+Elias homo erat similis nobis passibilis : et oratione oravit ut non plueret super terram, et non pluit annos tres, et menses sex.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4f3d54b" class="outline-3">
+<h3 id="org4f3d54b"><span class="section-number-3">5.18</span> James 5:18</h3>
+<div class="outline-text-3" id="text-5-18">
+<p>
+Et rursum oravit : et cælum dedit pluviam, et terra dedit fructum suum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org48502f4" class="outline-3">
+<h3 id="org48502f4"><span class="section-number-3">5.19</span> James 5:19</h3>
+<div class="outline-text-3" id="text-5-19">
+<p>
+Fratres mei, si quis ex vobis erraverit a veritate, et converterit quis eum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6673e58" class="outline-3">
+<h3 id="org6673e58"><span class="section-number-3">5.20</span> James 5:20</h3>
+<div class="outline-text-3" id="text-5-20">
+<p>
+scire debet quoniam qui converti fecerit peccatorem ab errore viæ suæ, salvabit animam ejus a morte, et operiet multitudinem peccatorum.    
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:38</p>
+</div>
+</body>
+</html>

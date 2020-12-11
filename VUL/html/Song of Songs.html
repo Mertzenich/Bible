@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:38 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org4d2636c">1. Song of Solomon 1</a>
+<ul>
+<li><a href="#org50771de">1.1. Song of Solomon 1:1</a></li>
+<li><a href="#org508937d">1.2. Song of Solomon 1:2</a></li>
+<li><a href="#org7b1744f">1.3. Song of Solomon 1:3</a></li>
+<li><a href="#org4471324">1.4. Song of Solomon 1:4</a></li>
+<li><a href="#orgf0cda7d">1.5. Song of Solomon 1:5</a></li>
+<li><a href="#orgff500f3">1.6. Song of Solomon 1:6</a></li>
+<li><a href="#org9a6d50f">1.7. Song of Solomon 1:7</a></li>
+<li><a href="#orgfda6188">1.8. Song of Solomon 1:8</a></li>
+<li><a href="#org37ef935">1.9. Song of Solomon 1:9</a></li>
+<li><a href="#org13f9b3f">1.10. Song of Solomon 1:10</a></li>
+<li><a href="#orgcf1ed80">1.11. Song of Solomon 1:11</a></li>
+<li><a href="#org7768d00">1.12. Song of Solomon 1:12</a></li>
+<li><a href="#org70717ba">1.13. Song of Solomon 1:13</a></li>
+<li><a href="#org25415b1">1.14. Song of Solomon 1:14</a></li>
+<li><a href="#org69b379a">1.15. Song of Solomon 1:15</a></li>
+<li><a href="#orgdf864f1">1.16. Song of Solomon 1:16</a></li>
+</ul>
+</li>
+<li><a href="#orge3b598d">2. Song of Solomon 2</a>
+<ul>
+<li><a href="#org478ca3d">2.1. Song of Solomon 2:1</a></li>
+<li><a href="#orgb14d6ce">2.2. Song of Solomon 2:2</a></li>
+<li><a href="#orga5a20ed">2.3. Song of Solomon 2:3</a></li>
+<li><a href="#orgfafdf4f">2.4. Song of Solomon 2:4</a></li>
+<li><a href="#orgafae7aa">2.5. Song of Solomon 2:5</a></li>
+<li><a href="#org0cc42c3">2.6. Song of Solomon 2:6</a></li>
+<li><a href="#orgcd9053c">2.7. Song of Solomon 2:7</a></li>
+<li><a href="#org9ba9a01">2.8. Song of Solomon 2:8</a></li>
+<li><a href="#orgde970d7">2.9. Song of Solomon 2:9</a></li>
+<li><a href="#org0ac87be">2.10. Song of Solomon 2:10</a></li>
+<li><a href="#org3fcba31">2.11. Song of Solomon 2:11</a></li>
+<li><a href="#orgef9ab9d">2.12. Song of Solomon 2:12</a></li>
+<li><a href="#org1aad72d">2.13. Song of Solomon 2:13</a></li>
+<li><a href="#orgb65a8a7">2.14. Song of Solomon 2:14</a></li>
+<li><a href="#orgdc2a17a">2.15. Song of Solomon 2:15</a></li>
+<li><a href="#org7f106c5">2.16. Song of Solomon 2:16</a></li>
+<li><a href="#orgef157b2">2.17. Song of Solomon 2:17</a></li>
+</ul>
+</li>
+<li><a href="#org65b4c7f">3. Song of Solomon 3</a>
+<ul>
+<li><a href="#orgccf7469">3.1. Song of Solomon 3:1</a></li>
+<li><a href="#org25a1299">3.2. Song of Solomon 3:2</a></li>
+<li><a href="#org8f9a61b">3.3. Song of Solomon 3:3</a></li>
+<li><a href="#orgae0d09c">3.4. Song of Solomon 3:4</a></li>
+<li><a href="#org5ffc237">3.5. Song of Solomon 3:5</a></li>
+<li><a href="#org0841f28">3.6. Song of Solomon 3:6</a></li>
+<li><a href="#orgaa1b22c">3.7. Song of Solomon 3:7</a></li>
+<li><a href="#orgd0b62c9">3.8. Song of Solomon 3:8</a></li>
+<li><a href="#org2e00797">3.9. Song of Solomon 3:9</a></li>
+<li><a href="#orgeca3dfd">3.10. Song of Solomon 3:10</a></li>
+<li><a href="#org84c4b53">3.11. Song of Solomon 3:11</a></li>
+</ul>
+</li>
+<li><a href="#org9f663ca">4. Song of Solomon 4</a>
+<ul>
+<li><a href="#org8dd48fe">4.1. Song of Solomon 4:1</a></li>
+<li><a href="#org10ac320">4.2. Song of Solomon 4:2</a></li>
+<li><a href="#org34003e3">4.3. Song of Solomon 4:3</a></li>
+<li><a href="#org51f176d">4.4. Song of Solomon 4:4</a></li>
+<li><a href="#orgf93afb5">4.5. Song of Solomon 4:5</a></li>
+<li><a href="#org471593b">4.6. Song of Solomon 4:6</a></li>
+<li><a href="#org937b05a">4.7. Song of Solomon 4:7</a></li>
+<li><a href="#orgcb958bc">4.8. Song of Solomon 4:8</a></li>
+<li><a href="#org009b1d0">4.9. Song of Solomon 4:9</a></li>
+<li><a href="#org89c7cf3">4.10. Song of Solomon 4:10</a></li>
+<li><a href="#org476ff55">4.11. Song of Solomon 4:11</a></li>
+<li><a href="#orge8a9ada">4.12. Song of Solomon 4:12</a></li>
+<li><a href="#orgd33caab">4.13. Song of Solomon 4:13</a></li>
+<li><a href="#org8c477f1">4.14. Song of Solomon 4:14</a></li>
+<li><a href="#org47a7b97">4.15. Song of Solomon 4:15</a></li>
+<li><a href="#org398727c">4.16. Song of Solomon 4:16</a></li>
+</ul>
+</li>
+<li><a href="#org8469817">5. Song of Solomon 5</a>
+<ul>
+<li><a href="#orgbc33986">5.1. Song of Solomon 5:1</a></li>
+<li><a href="#org8f60770">5.2. Song of Solomon 5:2</a></li>
+<li><a href="#org7dec86a">5.3. Song of Solomon 5:3</a></li>
+<li><a href="#org215e057">5.4. Song of Solomon 5:4</a></li>
+<li><a href="#org3d64e3c">5.5. Song of Solomon 5:5</a></li>
+<li><a href="#org52d1643">5.6. Song of Solomon 5:6</a></li>
+<li><a href="#org1518eb8">5.7. Song of Solomon 5:7</a></li>
+<li><a href="#orgdc0800c">5.8. Song of Solomon 5:8</a></li>
+<li><a href="#orgb47cd95">5.9. Song of Solomon 5:9</a></li>
+<li><a href="#orgb16ba3b">5.10. Song of Solomon 5:10</a></li>
+<li><a href="#org40ed47f">5.11. Song of Solomon 5:11</a></li>
+<li><a href="#org6167d9b">5.12. Song of Solomon 5:12</a></li>
+<li><a href="#orgf08583d">5.13. Song of Solomon 5:13</a></li>
+<li><a href="#org0d84af4">5.14. Song of Solomon 5:14</a></li>
+<li><a href="#org9fb242b">5.15. Song of Solomon 5:15</a></li>
+<li><a href="#orgb577c9e">5.16. Song of Solomon 5:16</a></li>
+<li><a href="#orgc430143">5.17. Song of Solomon 5:17</a></li>
+</ul>
+</li>
+<li><a href="#org6fff2b9">6. Song of Solomon 6</a>
+<ul>
+<li><a href="#org1503921">6.1. Song of Solomon 6:1</a></li>
+<li><a href="#orgd49fa2a">6.2. Song of Solomon 6:2</a></li>
+<li><a href="#orgd0808d0">6.3. Song of Solomon 6:3</a></li>
+<li><a href="#org9c5c784">6.4. Song of Solomon 6:4</a></li>
+<li><a href="#org12c7218">6.5. Song of Solomon 6:5</a></li>
+<li><a href="#org2372255">6.6. Song of Solomon 6:6</a></li>
+<li><a href="#org7d3b7a8">6.7. Song of Solomon 6:7</a></li>
+<li><a href="#org371f728">6.8. Song of Solomon 6:8</a></li>
+<li><a href="#org101b18f">6.9. Song of Solomon 6:9</a></li>
+<li><a href="#org127689d">6.10. Song of Solomon 6:10</a></li>
+<li><a href="#orgb257fa7">6.11. Song of Solomon 6:11</a></li>
+<li><a href="#org7d8f383">6.12. Song of Solomon 6:12</a></li>
+</ul>
+</li>
+<li><a href="#orgb10cbdc">7. Song of Solomon 7</a>
+<ul>
+<li><a href="#org316c437">7.1. Song of Solomon 7:1</a></li>
+<li><a href="#org561ea7d">7.2. Song of Solomon 7:2</a></li>
+<li><a href="#orgd413cdc">7.3. Song of Solomon 7:3</a></li>
+<li><a href="#org1afb5c2">7.4. Song of Solomon 7:4</a></li>
+<li><a href="#orgc15a62e">7.5. Song of Solomon 7:5</a></li>
+<li><a href="#org64a9fa1">7.6. Song of Solomon 7:6</a></li>
+<li><a href="#org46f6026">7.7. Song of Solomon 7:7</a></li>
+<li><a href="#org16db7ef">7.8. Song of Solomon 7:8</a></li>
+<li><a href="#orgfe5b122">7.9. Song of Solomon 7:9</a></li>
+<li><a href="#org4f797e8">7.10. Song of Solomon 7:10</a></li>
+<li><a href="#org9ba7212">7.11. Song of Solomon 7:11</a></li>
+<li><a href="#orgefe5a8f">7.12. Song of Solomon 7:12</a></li>
+<li><a href="#org6bd4b33">7.13. Song of Solomon 7:13</a></li>
+</ul>
+</li>
+<li><a href="#org6aae395">8. Song of Solomon 8</a>
+<ul>
+<li><a href="#org14f9f6c">8.1. Song of Solomon 8:1</a></li>
+<li><a href="#orgb1bf442">8.2. Song of Solomon 8:2</a></li>
+<li><a href="#org381acd9">8.3. Song of Solomon 8:3</a></li>
+<li><a href="#orgda7aaf8">8.4. Song of Solomon 8:4</a></li>
+<li><a href="#org70f77cf">8.5. Song of Solomon 8:5</a></li>
+<li><a href="#org8c82c2b">8.6. Song of Solomon 8:6</a></li>
+<li><a href="#org5237854">8.7. Song of Solomon 8:7</a></li>
+<li><a href="#org0db3eaa">8.8. Song of Solomon 8:8</a></li>
+<li><a href="#org7f3f540">8.9. Song of Solomon 8:9</a></li>
+<li><a href="#org4b23efc">8.10. Song of Solomon 8:10</a></li>
+<li><a href="#org1d3e460">8.11. Song of Solomon 8:11</a></li>
+<li><a href="#orgb7d0e2d">8.12. Song of Solomon 8:12</a></li>
+<li><a href="#orgfa6aaa2">8.13. Song of Solomon 8:13</a></li>
+<li><a href="#org26730d2">8.14. Song of Solomon 8:14</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org4d2636c" class="outline-2">
+<h2 id="org4d2636c"><span class="section-number-2">1</span> Song of Solomon 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org50771de" class="outline-3">
+<h3 id="org50771de"><span class="section-number-3">1.1</span> Song of Solomon 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Osculetur me osculo oris sui ;  quia meliora sunt ubera tua vino, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org508937d" class="outline-3">
+<h3 id="org508937d"><span class="section-number-3">1.2</span> Song of Solomon 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+fragrantia unguentis optimis.  Oleum effusum nomen tuum ;  ideo adolescentulæ dilexerunt te.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7b1744f" class="outline-3">
+<h3 id="org7b1744f"><span class="section-number-3">1.3</span> Song of Solomon 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Trahe me, post te curremus  in odorem unguentorum tuorum.  Introduxit me rex in cellaria sua ;  exsultabimus et lætabimur in te,  memores uberum tuorum super vinum.  Recti diligunt te.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4471324" class="outline-3">
+<h3 id="org4471324"><span class="section-number-3">1.4</span> Song of Solomon 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Nigra sum, sed formosa, filiæ Jerusalem,  sicut tabernacula Cedar, sicut pelles Salomonis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf0cda7d" class="outline-3">
+<h3 id="orgf0cda7d"><span class="section-number-3">1.5</span> Song of Solomon 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Nolite me considerare quod fusca sim,  quia decoloravit me sol.  Filii matris meæ pugnaverunt contra me ;  posuerunt me custodem in vineis :  vineam meam non custodivi. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgff500f3" class="outline-3">
+<h3 id="orgff500f3"><span class="section-number-3">1.6</span> Song of Solomon 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Indica mihi, quem diligit anima mea, ubi pascas,  ubi cubes in meridie,  ne vagari incipiam post greges sodalium tuorum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9a6d50f" class="outline-3">
+<h3 id="org9a6d50f"><span class="section-number-3">1.7</span> Song of Solomon 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+Si ignoras te, o pulcherrima inter mulieres,  egredere, et abi post vestigia gregum,  et pasce hædos tuos juxta tabernacula pastorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfda6188" class="outline-3">
+<h3 id="orgfda6188"><span class="section-number-3">1.8</span> Song of Solomon 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+Equitatui meo in curribus Pharaonis  assimilavi te, amica mea. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org37ef935" class="outline-3">
+<h3 id="org37ef935"><span class="section-number-3">1.9</span> Song of Solomon 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+Pulchræ sunt genæ tuæ sicut turturis ;  collum tuum sicut monilia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org13f9b3f" class="outline-3">
+<h3 id="org13f9b3f"><span class="section-number-3">1.10</span> Song of Solomon 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+Murenulas aureas faciemus tibi,  vermiculatas argento.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcf1ed80" class="outline-3">
+<h3 id="orgcf1ed80"><span class="section-number-3">1.11</span> Song of Solomon 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+Dum esset rex in accubitu suo,  nardus mea dedit odorem suum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7768d00" class="outline-3">
+<h3 id="org7768d00"><span class="section-number-3">1.12</span> Song of Solomon 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+Fasciculus myrrhæ dilectus meus mihi ;  inter ubera mea commorabitur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org70717ba" class="outline-3">
+<h3 id="org70717ba"><span class="section-number-3">1.13</span> Song of Solomon 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+Botrus cypri dilectus meus mihi  in vineis Engaddi.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org25415b1" class="outline-3">
+<h3 id="org25415b1"><span class="section-number-3">1.14</span> Song of Solomon 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+Ecce tu pulchra es, amica mea ! ecce tu pulchra es !  Oculi tui columbarum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org69b379a" class="outline-3">
+<h3 id="org69b379a"><span class="section-number-3">1.15</span> Song of Solomon 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+Ecce tu pulcher es, dilecte mi, et decorus !  Lectulus noster floridus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdf864f1" class="outline-3">
+<h3 id="orgdf864f1"><span class="section-number-3">1.16</span> Song of Solomon 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+Tigna domorum nostrarum cedrina,  laquearia nostra cypressina.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orge3b598d" class="outline-2">
+<h2 id="orge3b598d"><span class="section-number-2">2</span> Song of Solomon 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org478ca3d" class="outline-3">
+<h3 id="org478ca3d"><span class="section-number-3">2.1</span> Song of Solomon 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Ego flos campi,  et lilium convallium.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb14d6ce" class="outline-3">
+<h3 id="orgb14d6ce"><span class="section-number-3">2.2</span> Song of Solomon 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Sicut lilium inter spinas,  sic amica mea inter filias.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga5a20ed" class="outline-3">
+<h3 id="orga5a20ed"><span class="section-number-3">2.3</span> Song of Solomon 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+Sicut malus inter ligna silvarum,  sic dilectus meus inter filios.  Sub umbra illius quem desideraveram sedi,  et fructus ejus dulcis gutturi meo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfafdf4f" class="outline-3">
+<h3 id="orgfafdf4f"><span class="section-number-3">2.4</span> Song of Solomon 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+Introduxit me in cellam vinariam ;  ordinavit in me caritatem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgafae7aa" class="outline-3">
+<h3 id="orgafae7aa"><span class="section-number-3">2.5</span> Song of Solomon 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+Fulcite me floribus,  stipate me malis,  quia amore langueo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0cc42c3" class="outline-3">
+<h3 id="org0cc42c3"><span class="section-number-3">2.6</span> Song of Solomon 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+Læva ejus sub capite meo,  et dextera illius amplexabitur me.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcd9053c" class="outline-3">
+<h3 id="orgcd9053c"><span class="section-number-3">2.7</span> Song of Solomon 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+Adjuro vos, filiæ Jerusalem,  per capreas cervosque camporum,  ne suscitetis, neque evigilare faciatis dilectam,  quoadusque ipsa velit.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9ba9a01" class="outline-3">
+<h3 id="org9ba9a01"><span class="section-number-3">2.8</span> Song of Solomon 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+Vox dilecti mei ; ecce iste venit,  saliens in montibus, transiliens colles. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde970d7" class="outline-3">
+<h3 id="orgde970d7"><span class="section-number-3">2.9</span> Song of Solomon 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+Similis est dilectus meus capreæ,  hinnuloque cervorum.  En ipse stat post parietem nostrum,  respiciens per fenestras,  prospiciens per cancellos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0ac87be" class="outline-3">
+<h3 id="org0ac87be"><span class="section-number-3">2.10</span> Song of Solomon 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+En dilectus meus loquitur mihi.     Surge, propera, amica mea,  columba mea, formosa mea, et veni : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3fcba31" class="outline-3">
+<h3 id="org3fcba31"><span class="section-number-3">2.11</span> Song of Solomon 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+jam enim hiems transiit ;  imber abiit, et recessit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgef9ab9d" class="outline-3">
+<h3 id="orgef9ab9d"><span class="section-number-3">2.12</span> Song of Solomon 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+Flores apparuerunt in terra nostra ;  tempus putationis advenit :  vox turturis audita est in terra nostra ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1aad72d" class="outline-3">
+<h3 id="org1aad72d"><span class="section-number-3">2.13</span> Song of Solomon 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+ficus protulit grossos suos ;  vineæ florentes dederunt odorem suum.  Surge, amica mea, speciosa mea, et veni : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb65a8a7" class="outline-3">
+<h3 id="orgb65a8a7"><span class="section-number-3">2.14</span> Song of Solomon 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+columba mea, in foraminibus petræ, in caverna maceriæ,  ostende mihi faciem tuam,  sonet vox tua in auribus meis :  vox enim tua dulcis, et facies tua decora.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdc2a17a" class="outline-3">
+<h3 id="orgdc2a17a"><span class="section-number-3">2.15</span> Song of Solomon 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+Capite nobis vulpes parvulas  quæ demoliuntur vineas :  nam vinea nostra floruit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f106c5" class="outline-3">
+<h3 id="org7f106c5"><span class="section-number-3">2.16</span> Song of Solomon 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+Dilectus meus mihi, et ego illi,  qui pascitur inter lilia, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgef157b2" class="outline-3">
+<h3 id="orgef157b2"><span class="section-number-3">2.17</span> Song of Solomon 2:17</h3>
+<div class="outline-text-3" id="text-2-17">
+<p>
+donec aspiret dies, et inclinentur umbræ.  Revertere ; similis esto, dilecte mi, capreæ,  hinnuloque cervorum super montes Bether.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org65b4c7f" class="outline-2">
+<h2 id="org65b4c7f"><span class="section-number-2">3</span> Song of Solomon 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-orgccf7469" class="outline-3">
+<h3 id="orgccf7469"><span class="section-number-3">3.1</span> Song of Solomon 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+In lectulo meo, per noctes,  quæsivi quem diligit anima mea :  quæsivi illum, et non inveni. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org25a1299" class="outline-3">
+<h3 id="org25a1299"><span class="section-number-3">3.2</span> Song of Solomon 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+Surgam, et circuibo civitatem :  per vicos et plateas  quæram quem diligit anima mea :  quæsivi illum, et non inveni. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8f9a61b" class="outline-3">
+<h3 id="org8f9a61b"><span class="section-number-3">3.3</span> Song of Solomon 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+Invenerunt me vigiles qui custodiunt civitatem :  Num quem diligit anima mea vidistis ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgae0d09c" class="outline-3">
+<h3 id="orgae0d09c"><span class="section-number-3">3.4</span> Song of Solomon 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+Paululum cum pertransissem eos,  inveni quem diligit anima mea :  tenui eum, nec dimittam,  donec introducam illum in domum matris meæ,  et in cubiculum genetricis meæ.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5ffc237" class="outline-3">
+<h3 id="org5ffc237"><span class="section-number-3">3.5</span> Song of Solomon 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+Adjuro vos, filiæ Jerusalem,  per capreas cervosque camporum,  ne suscitetis, neque evigilare faciatis dilectam,  donec ipsa velit.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0841f28" class="outline-3">
+<h3 id="org0841f28"><span class="section-number-3">3.6</span> Song of Solomon 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+Quæ est ista quæ ascendit per desertum  sicut virgula fumi ex aromatibus myrrhæ,  et thuris, et universi pulveris pigmentarii ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaa1b22c" class="outline-3">
+<h3 id="orgaa1b22c"><span class="section-number-3">3.7</span> Song of Solomon 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+En lectulum Salomonis sexaginta fortes ambiunt  ex fortissimis Israël, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd0b62c9" class="outline-3">
+<h3 id="orgd0b62c9"><span class="section-number-3">3.8</span> Song of Solomon 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+omnes tenentes gladios, et ad bella doctissimi :  uniuscujusque ensis super femur suum  propter timores nocturnos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2e00797" class="outline-3">
+<h3 id="org2e00797"><span class="section-number-3">3.9</span> Song of Solomon 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+Ferculum fecit sibi rex Salomon  de lignis Libani ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeca3dfd" class="outline-3">
+<h3 id="orgeca3dfd"><span class="section-number-3">3.10</span> Song of Solomon 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+columnas ejus fecit argenteas,  reclinatorium aureum, ascensum purpureum ;  media caritate constravit,  propter filias Jerusalem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org84c4b53" class="outline-3">
+<h3 id="org84c4b53"><span class="section-number-3">3.11</span> Song of Solomon 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+Egredimini et videte, filiæ Sion,  regem Salomonem in diademate quo coronavit illum mater sua  in die desponsationis illius,  et in die lætitiæ cordis ejus.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org9f663ca" class="outline-2">
+<h2 id="org9f663ca"><span class="section-number-2">4</span> Song of Solomon 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org8dd48fe" class="outline-3">
+<h3 id="org8dd48fe"><span class="section-number-3">4.1</span> Song of Solomon 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Quam pulchra es, amica mea ! quam pulchra es !  Oculi tui columbarum,  absque eo quod intrinsecus latet.  Capilli tui sicut greges caprarum  quæ ascenderunt de monte Galaad. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org10ac320" class="outline-3">
+<h3 id="org10ac320"><span class="section-number-3">4.2</span> Song of Solomon 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+Dentes tui sicut greges tonsarum  quæ ascenderunt de lavacro ;  omnes gemellis fœtibus,  et sterilis non est inter eas. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org34003e3" class="outline-3">
+<h3 id="org34003e3"><span class="section-number-3">4.3</span> Song of Solomon 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+Sicut vitta coccinea labia tua,  et eloquium tuum dulce.  Sicut fragmen mali punici, ita genæ tuæ,  absque eo quod intrinsecus latet. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org51f176d" class="outline-3">
+<h3 id="org51f176d"><span class="section-number-3">4.4</span> Song of Solomon 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+Sicut turris David collum tuum,  quæ ædificata est cum propugnaculis ;  mille clypei pendent ex ea,  omnis armatura fortium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf93afb5" class="outline-3">
+<h3 id="orgf93afb5"><span class="section-number-3">4.5</span> Song of Solomon 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+Duo ubera tua sicut duo hinnuli,  capreæ gemelli, qui pascuntur in liliis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org471593b" class="outline-3">
+<h3 id="org471593b"><span class="section-number-3">4.6</span> Song of Solomon 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+Donec aspiret dies, et inclinentur umbræ,  vadam ad montem myrrhæ, et ad collem thuris. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org937b05a" class="outline-3">
+<h3 id="org937b05a"><span class="section-number-3">4.7</span> Song of Solomon 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+Tota pulchra es, amica mea,  et macula non est in te. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcb958bc" class="outline-3">
+<h3 id="orgcb958bc"><span class="section-number-3">4.8</span> Song of Solomon 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+Veni de Libano, sponsa mea :  veni de Libano, veni, coronaberis :  de capite Amana, de vertice Sanir et Hermon,  de cubilibus leonum, de montibus pardorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org009b1d0" class="outline-3">
+<h3 id="org009b1d0"><span class="section-number-3">4.9</span> Song of Solomon 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+Vulnerasti cor meum, soror mea, sponsa ;  vulnerasti cor meum in uno oculorum tuorum,  et in uno crine colli tui. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org89c7cf3" class="outline-3">
+<h3 id="org89c7cf3"><span class="section-number-3">4.10</span> Song of Solomon 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+Quam pulchræ sunt mammæ tuæ, soror mea sponsa !  pulchriora sunt ubera tua vino,  et odor unguentorum tuorum super omnia aromata. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org476ff55" class="outline-3">
+<h3 id="org476ff55"><span class="section-number-3">4.11</span> Song of Solomon 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+Favus distillans labia tua, sponsa ;  mel et lac sub lingua tua :  et odor vestimentorum tuorum sicut odor thuris. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge8a9ada" class="outline-3">
+<h3 id="orge8a9ada"><span class="section-number-3">4.12</span> Song of Solomon 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+Hortus conclusus soror mea, sponsa,  hortus conclusus, fons signatus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd33caab" class="outline-3">
+<h3 id="orgd33caab"><span class="section-number-3">4.13</span> Song of Solomon 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+Emissiones tuæ paradisus malorum punicorum,  cum pomorum fructibus, cypri cum nardo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c477f1" class="outline-3">
+<h3 id="org8c477f1"><span class="section-number-3">4.14</span> Song of Solomon 4:14</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+Nardus et crocus, fistula et cinnamomum,  cum universis lignis Libani ;  myrrha et aloë, cum omnibus primis unguentis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org47a7b97" class="outline-3">
+<h3 id="org47a7b97"><span class="section-number-3">4.15</span> Song of Solomon 4:15</h3>
+<div class="outline-text-3" id="text-4-15">
+<p>
+Fons hortorum, puteus aquarum viventium,  quæ fluunt impetu de Libano.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org398727c" class="outline-3">
+<h3 id="org398727c"><span class="section-number-3">4.16</span> Song of Solomon 4:16</h3>
+<div class="outline-text-3" id="text-4-16">
+<p>
+Surge, aquilo, et veni, auster :  perfla hortum meum, et fluant aromata illius.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org8469817" class="outline-2">
+<h2 id="org8469817"><span class="section-number-2">5</span> Song of Solomon 5</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-orgbc33986" class="outline-3">
+<h3 id="orgbc33986"><span class="section-number-3">5.1</span> Song of Solomon 5:1</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Veniat dilectus meus in hortum suum,  et comedat fructum pomorum suorum.     Veni in hortum meum, soror mea, sponsa ;  messui myrrham meam cum aromatibus meis ;  comedi favum cum melle meo ;  bibi vinum meum cum lacte meo ;  comedite, amici, et bibite,  et inebriamini, carissimi.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8f60770" class="outline-3">
+<h3 id="org8f60770"><span class="section-number-3">5.2</span> Song of Solomon 5:2</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Ego dormio, et cor meum vigilat.  Vox dilecti mei pulsantis :     Aperi mihi, soror mea, amica mea,  columba mea, immaculata mea,  quia caput meum plenum est rore,  et cincinni mei guttis noctium.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7dec86a" class="outline-3">
+<h3 id="org7dec86a"><span class="section-number-3">5.3</span> Song of Solomon 5:3</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+Expoliavi me tunica mea : quomodo induar illa ?  lavi pedes meos : quomodo inquinabo illos ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org215e057" class="outline-3">
+<h3 id="org215e057"><span class="section-number-3">5.4</span> Song of Solomon 5:4</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+Dilectus meus misit manum suam per foramen,  et venter meus intremuit ad tactum ejus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3d64e3c" class="outline-3">
+<h3 id="org3d64e3c"><span class="section-number-3">5.5</span> Song of Solomon 5:5</h3>
+<div class="outline-text-3" id="text-5-5">
+<p>
+Surrexi ut aperirem dilecto meo ;  manus meæ stillaverunt myrrham,  et digiti mei pleni myrrha probatissima. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org52d1643" class="outline-3">
+<h3 id="org52d1643"><span class="section-number-3">5.6</span> Song of Solomon 5:6</h3>
+<div class="outline-text-3" id="text-5-6">
+<p>
+Pessulum ostii mei aperui dilecto meo,  at ille declinaverat, atque transierat.  Anima mea liquefacta est, ut locutus est ;  quæsivi, et non inveni illum ;  vocavi, et non respondit mihi. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1518eb8" class="outline-3">
+<h3 id="org1518eb8"><span class="section-number-3">5.7</span> Song of Solomon 5:7</h3>
+<div class="outline-text-3" id="text-5-7">
+<p>
+Invenerunt me custodes qui circumeunt civitatem ;  percusserunt me, et vulneraverunt me.  Tulerunt pallium meum mihi custodes murorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdc0800c" class="outline-3">
+<h3 id="orgdc0800c"><span class="section-number-3">5.8</span> Song of Solomon 5:8</h3>
+<div class="outline-text-3" id="text-5-8">
+<p>
+Adjuro vos, filiæ Jerusalem,  si inveneritis dilectum meum,  ut nuntietis ei quia amore langueo.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb47cd95" class="outline-3">
+<h3 id="orgb47cd95"><span class="section-number-3">5.9</span> Song of Solomon 5:9</h3>
+<div class="outline-text-3" id="text-5-9">
+<p>
+Qualis est dilectus tuus ex dilecto, o pulcherrima mulierum ?  qualis est dilectus tuus ex dilecto, quia sic adjurasti nos ?  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb16ba3b" class="outline-3">
+<h3 id="orgb16ba3b"><span class="section-number-3">5.10</span> Song of Solomon 5:10</h3>
+<div class="outline-text-3" id="text-5-10">
+<p>
+Dilectus meus candidus et rubicundus ;  electus ex millibus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org40ed47f" class="outline-3">
+<h3 id="org40ed47f"><span class="section-number-3">5.11</span> Song of Solomon 5:11</h3>
+<div class="outline-text-3" id="text-5-11">
+<p>
+Caput ejus aurum optimum ;  comæ ejus sicut elatæ palmarum, nigræ quasi corvus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6167d9b" class="outline-3">
+<h3 id="org6167d9b"><span class="section-number-3">5.12</span> Song of Solomon 5:12</h3>
+<div class="outline-text-3" id="text-5-12">
+<p>
+Oculi ejus sicut columbæ super rivulos aquarum,  quæ lacte sunt lotæ, et resident juxta fluenta plenissima. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf08583d" class="outline-3">
+<h3 id="orgf08583d"><span class="section-number-3">5.13</span> Song of Solomon 5:13</h3>
+<div class="outline-text-3" id="text-5-13">
+<p>
+Genæ illius sicut areolæ aromatum,  consitæ a pigmentariis.  Labia ejus lilia,  distillantia myrrham primam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0d84af4" class="outline-3">
+<h3 id="org0d84af4"><span class="section-number-3">5.14</span> Song of Solomon 5:14</h3>
+<div class="outline-text-3" id="text-5-14">
+<p>
+Manus illius tornatiles, aureæ,  plenæ hyacinthis.  Venter ejus eburneus,  distinctus sapphiris. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9fb242b" class="outline-3">
+<h3 id="org9fb242b"><span class="section-number-3">5.15</span> Song of Solomon 5:15</h3>
+<div class="outline-text-3" id="text-5-15">
+<p>
+Crura illius columnæ marmoreæ  quæ fundatæ sunt super bases aureas.  Species ejus ut Libani,  electus ut cedri. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb577c9e" class="outline-3">
+<h3 id="orgb577c9e"><span class="section-number-3">5.16</span> Song of Solomon 5:16</h3>
+<div class="outline-text-3" id="text-5-16">
+<p>
+Guttur illius suavissimum,  et totus desiderabilis.  Talis est dilectus meus,  et ipse est amicus meus, filiæ Jerusalem.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc430143" class="outline-3">
+<h3 id="orgc430143"><span class="section-number-3">5.17</span> Song of Solomon 5:17</h3>
+<div class="outline-text-3" id="text-5-17">
+<p>
+Quo abiit dilectus tuus, o pulcherrima mulierum ?  quo declinavit dilectus tuus ?  et quæremus eum tecum.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org6fff2b9" class="outline-2">
+<h2 id="org6fff2b9"><span class="section-number-2">6</span> Song of Solomon 6</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-org1503921" class="outline-3">
+<h3 id="org1503921"><span class="section-number-3">6.1</span> Song of Solomon 6:1</h3>
+<div class="outline-text-3" id="text-6-1">
+<p>
+Dilectus meus descendit in hortum suum ad areolam aromatum,  ut pascatur in hortis, et lilia colligat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd49fa2a" class="outline-3">
+<h3 id="orgd49fa2a"><span class="section-number-3">6.2</span> Song of Solomon 6:2</h3>
+<div class="outline-text-3" id="text-6-2">
+<p>
+Ego dilecto meo, et dilectus meus mihi,  qui pascitur inter lilia.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd0808d0" class="outline-3">
+<h3 id="orgd0808d0"><span class="section-number-3">6.3</span> Song of Solomon 6:3</h3>
+<div class="outline-text-3" id="text-6-3">
+<p>
+Pulchra es, amica mea ;  suavis, et decora sicut Jerusalem ;  terribilis ut castrorum acies ordinata. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9c5c784" class="outline-3">
+<h3 id="org9c5c784"><span class="section-number-3">6.4</span> Song of Solomon 6:4</h3>
+<div class="outline-text-3" id="text-6-4">
+<p>
+Averte oculos tuos a me,  quia ipsi me avolare fecerunt.  Capilli tui sicut grex caprarum  quæ apparuerunt de Galaad. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org12c7218" class="outline-3">
+<h3 id="org12c7218"><span class="section-number-3">6.5</span> Song of Solomon 6:5</h3>
+<div class="outline-text-3" id="text-6-5">
+<p>
+Dentes tui sicut grex ovium  quæ ascenderunt de lavacro :  omnes gemellis fœtibus,  et sterilis non est in eis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2372255" class="outline-3">
+<h3 id="org2372255"><span class="section-number-3">6.6</span> Song of Solomon 6:6</h3>
+<div class="outline-text-3" id="text-6-6">
+<p>
+Sicut cortex mali punici, sic genæ tuæ,  absque occultis tuis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7d3b7a8" class="outline-3">
+<h3 id="org7d3b7a8"><span class="section-number-3">6.7</span> Song of Solomon 6:7</h3>
+<div class="outline-text-3" id="text-6-7">
+<p>
+Sexaginta sunt reginæ, et octoginta concubinæ,  et adolescentularum non est numerus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org371f728" class="outline-3">
+<h3 id="org371f728"><span class="section-number-3">6.8</span> Song of Solomon 6:8</h3>
+<div class="outline-text-3" id="text-6-8">
+<p>
+Una est columba mea, perfecta mea,  una est matris suæ, electa genetrici suæ.  Viderunt eam filiæ, et beatissimam prædicaverunt ;  reginæ et concubinæ, et laudaverunt eam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org101b18f" class="outline-3">
+<h3 id="org101b18f"><span class="section-number-3">6.9</span> Song of Solomon 6:9</h3>
+<div class="outline-text-3" id="text-6-9">
+<p>
+Quæ est ista quæ progreditur quasi aurora consurgens,  pulchra ut luna, electa ut sol,  terribilis ut castrorum acies ordinata ?  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org127689d" class="outline-3">
+<h3 id="org127689d"><span class="section-number-3">6.10</span> Song of Solomon 6:10</h3>
+<div class="outline-text-3" id="text-6-10">
+<p>
+Descendi in hortum nucum,  ut viderem poma convallium,  et inspicerem si floruisset vinea,  et germinassent mala punica. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb257fa7" class="outline-3">
+<h3 id="orgb257fa7"><span class="section-number-3">6.11</span> Song of Solomon 6:11</h3>
+<div class="outline-text-3" id="text-6-11">
+<p>
+Nescivi : anima mea conturbavit me,  propter quadrigas Aminadab.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7d8f383" class="outline-3">
+<h3 id="org7d8f383"><span class="section-number-3">6.12</span> Song of Solomon 6:12</h3>
+<div class="outline-text-3" id="text-6-12">
+<p>
+Revertere, revertere, Sulamitis !  revertere, revertere ut intueamur te.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgb10cbdc" class="outline-2">
+<h2 id="orgb10cbdc"><span class="section-number-2">7</span> Song of Solomon 7</h2>
+<div class="outline-text-2" id="text-7">
+</div>
+<div id="outline-container-org316c437" class="outline-3">
+<h3 id="org316c437"><span class="section-number-3">7.1</span> Song of Solomon 7:1</h3>
+<div class="outline-text-3" id="text-7-1">
+<p>
+Quid videbis in Sulamite, nisi choros castrorum ?     Quam pulchri sunt gressus tui in calceamentis, filia principis !  Juncturæ femorum tuorum sicut monilia  quæ fabricata sunt manu artificis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org561ea7d" class="outline-3">
+<h3 id="org561ea7d"><span class="section-number-3">7.2</span> Song of Solomon 7:2</h3>
+<div class="outline-text-3" id="text-7-2">
+<p>
+Umbilicus tuus crater tornatilis,  numquam indigens poculis.  Venter tuus sicut acervus tritici vallatus liliis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd413cdc" class="outline-3">
+<h3 id="orgd413cdc"><span class="section-number-3">7.3</span> Song of Solomon 7:3</h3>
+<div class="outline-text-3" id="text-7-3">
+<p>
+Duo ubera tua sicut duo hinnuli,  gemelli capreæ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1afb5c2" class="outline-3">
+<h3 id="org1afb5c2"><span class="section-number-3">7.4</span> Song of Solomon 7:4</h3>
+<div class="outline-text-3" id="text-7-4">
+<p>
+Collum tuum sicut turris eburnea ;  oculi tui sicut piscinæ in Hesebon  quæ sunt in porta filiæ multitudinis.  Nasus tuus sicut turris Libani,  quæ respicit contra Damascum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc15a62e" class="outline-3">
+<h3 id="orgc15a62e"><span class="section-number-3">7.5</span> Song of Solomon 7:5</h3>
+<div class="outline-text-3" id="text-7-5">
+<p>
+Caput tuum ut Carmelus ;  et comæ capitis tui sicut purpura regis  vincta canalibus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org64a9fa1" class="outline-3">
+<h3 id="org64a9fa1"><span class="section-number-3">7.6</span> Song of Solomon 7:6</h3>
+<div class="outline-text-3" id="text-7-6">
+<p>
+Quam pulchra es, et quam decora,  carissima, in deliciis ! 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org46f6026" class="outline-3">
+<h3 id="org46f6026"><span class="section-number-3">7.7</span> Song of Solomon 7:7</h3>
+<div class="outline-text-3" id="text-7-7">
+<p>
+Statura tua assimilata est palmæ,  et ubera tua botris. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org16db7ef" class="outline-3">
+<h3 id="org16db7ef"><span class="section-number-3">7.8</span> Song of Solomon 7:8</h3>
+<div class="outline-text-3" id="text-7-8">
+<p>
+Dixi : Ascendam in palmam,  et apprehendam fructus ejus ;  et erunt ubera tua sicut botri vineæ,  et odor oris tui sicut malorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe5b122" class="outline-3">
+<h3 id="orgfe5b122"><span class="section-number-3">7.9</span> Song of Solomon 7:9</h3>
+<div class="outline-text-3" id="text-7-9">
+<p>
+Guttur tuum sicut vinum optimum,  dignum dilecto meo ad potandum,  labiisque et dentibus illius ad ruminandum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4f797e8" class="outline-3">
+<h3 id="org4f797e8"><span class="section-number-3">7.10</span> Song of Solomon 7:10</h3>
+<div class="outline-text-3" id="text-7-10">
+<p>
+Ego dilecto meo,  et ad me conversio ejus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9ba7212" class="outline-3">
+<h3 id="org9ba7212"><span class="section-number-3">7.11</span> Song of Solomon 7:11</h3>
+<div class="outline-text-3" id="text-7-11">
+<p>
+Veni, dilecte mi, egrediamur in agrum,  commoremur in villis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgefe5a8f" class="outline-3">
+<h3 id="orgefe5a8f"><span class="section-number-3">7.12</span> Song of Solomon 7:12</h3>
+<div class="outline-text-3" id="text-7-12">
+<p>
+Mane surgamus ad vineas :  videamus si floruit vinea,  si flores fructus parturiunt,  si floruerunt mala punica ;  ibi dabo tibi ubera mea. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6bd4b33" class="outline-3">
+<h3 id="org6bd4b33"><span class="section-number-3">7.13</span> Song of Solomon 7:13</h3>
+<div class="outline-text-3" id="text-7-13">
+<p>
+Mandragoræ dederunt odorem  in portis nostris omnia poma :  nova et vetera, dilecte mi, servavi tibi.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org6aae395" class="outline-2">
+<h2 id="org6aae395"><span class="section-number-2">8</span> Song of Solomon 8</h2>
+<div class="outline-text-2" id="text-8">
+</div>
+<div id="outline-container-org14f9f6c" class="outline-3">
+<h3 id="org14f9f6c"><span class="section-number-3">8.1</span> Song of Solomon 8:1</h3>
+<div class="outline-text-3" id="text-8-1">
+<p>
+Quis mihi det te fratrem meum,  sugentem ubera matris meæ,  ut inveniam te foris, et deosculer te,  et jam me nemo despiciat ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb1bf442" class="outline-3">
+<h3 id="orgb1bf442"><span class="section-number-3">8.2</span> Song of Solomon 8:2</h3>
+<div class="outline-text-3" id="text-8-2">
+<p>
+Apprehendam te, et ducam in domum matris meæ :  ibi me docebis,  et dabo tibi poculum ex vino condito,  et mustum malorum granatorum meorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org381acd9" class="outline-3">
+<h3 id="org381acd9"><span class="section-number-3">8.3</span> Song of Solomon 8:3</h3>
+<div class="outline-text-3" id="text-8-3">
+<p>
+Læva ejus sub capite meo,  et dextera illius amplexabitur me.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda7aaf8" class="outline-3">
+<h3 id="orgda7aaf8"><span class="section-number-3">8.4</span> Song of Solomon 8:4</h3>
+<div class="outline-text-3" id="text-8-4">
+<p>
+Adjuro vos, filiæ Jerusalem,  ne suscitetis, neque evigilare faciatis dilectam,  donec ipsa velit.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org70f77cf" class="outline-3">
+<h3 id="org70f77cf"><span class="section-number-3">8.5</span> Song of Solomon 8:5</h3>
+<div class="outline-text-3" id="text-8-5">
+<p>
+Quæ est ista quæ ascendit de deserto, deliciis affluens,  innixa super dilectum suum ?     Sub arbore malo suscitavi te ;  ibi corrupta est mater tua,  ibi violata est genitrix tua.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c82c2b" class="outline-3">
+<h3 id="org8c82c2b"><span class="section-number-3">8.6</span> Song of Solomon 8:6</h3>
+<div class="outline-text-3" id="text-8-6">
+<p>
+Pone me ut signaculum super cor tuum,  ut signaculum super brachium tuum,  quia fortis est ut mors dilectio,  dura sicut infernus æmulatio :  lampades ejus lampades ignis atque flammarum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5237854" class="outline-3">
+<h3 id="org5237854"><span class="section-number-3">8.7</span> Song of Solomon 8:7</h3>
+<div class="outline-text-3" id="text-8-7">
+<p>
+Aquæ multæ non potuerunt extinguere caritatem,  nec flumina obruent illam.  Si dederit homo omnem substantiam domus suæ pro dilectione,  quasi nihil despiciet eam.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0db3eaa" class="outline-3">
+<h3 id="org0db3eaa"><span class="section-number-3">8.8</span> Song of Solomon 8:8</h3>
+<div class="outline-text-3" id="text-8-8">
+<p>
+Soror nostra parva,  et ubera non habet ;  quid faciemus sorori nostræ  in die quando alloquenda est ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f3f540" class="outline-3">
+<h3 id="org7f3f540"><span class="section-number-3">8.9</span> Song of Solomon 8:9</h3>
+<div class="outline-text-3" id="text-8-9">
+<p>
+Si murus est,  ædificemus super eum propugnacula argentea ;  si ostium est, compingamus illud tabulis cedrinis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b23efc" class="outline-3">
+<h3 id="org4b23efc"><span class="section-number-3">8.10</span> Song of Solomon 8:10</h3>
+<div class="outline-text-3" id="text-8-10">
+<p>
+Ego murus, et ubera mea sicut turris,  ex quo facta sum coram eo, quasi pacem reperiens.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1d3e460" class="outline-3">
+<h3 id="org1d3e460"><span class="section-number-3">8.11</span> Song of Solomon 8:11</h3>
+<div class="outline-text-3" id="text-8-11">
+<p>
+Vinea fuit pacifico in ea quæ habet populos :  tradidit eam custodibus ;  vir affert pro fructu ejus mille argenteos.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb7d0e2d" class="outline-3">
+<h3 id="orgb7d0e2d"><span class="section-number-3">8.12</span> Song of Solomon 8:12</h3>
+<div class="outline-text-3" id="text-8-12">
+<p>
+Vinea mea coram me est.  Mille tui pacifici,  et ducenti his qui custodiunt fructus ejus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfa6aaa2" class="outline-3">
+<h3 id="orgfa6aaa2"><span class="section-number-3">8.13</span> Song of Solomon 8:13</h3>
+<div class="outline-text-3" id="text-8-13">
+<p>
+Quæ habitas in hortis, amici auscultant ;  fac me audire vocem tuam.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org26730d2" class="outline-3">
+<h3 id="org26730d2"><span class="section-number-3">8.14</span> Song of Solomon 8:14</h3>
+<div class="outline-text-3" id="text-8-14">
+<p>
+Fuge, dilecte mi, et assimilare capreæ,  hinnuloque cervorum super montes aromatum.    
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:38</p>
+</div>
+</body>
+</html>

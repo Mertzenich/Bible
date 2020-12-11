@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:38 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org6ba2df9">1. Ruth 1</a>
+<ul>
+<li><a href="#orga80e78a">1.1. Ruth 1:1</a></li>
+<li><a href="#orgb880960">1.2. Ruth 1:2</a></li>
+<li><a href="#org9f2ad72">1.3. Ruth 1:3</a></li>
+<li><a href="#orge3494f7">1.4. Ruth 1:4</a></li>
+<li><a href="#orgf99885c">1.5. Ruth 1:5</a></li>
+<li><a href="#org8d4a9d1">1.6. Ruth 1:6</a></li>
+<li><a href="#orgb43fe58">1.7. Ruth 1:7</a></li>
+<li><a href="#org5c72d07">1.8. Ruth 1:8</a></li>
+<li><a href="#orgef0a3af">1.9. Ruth 1:9</a></li>
+<li><a href="#org3aafe89">1.10. Ruth 1:10</a></li>
+<li><a href="#org147ed9a">1.11. Ruth 1:11</a></li>
+<li><a href="#org91f15f5">1.12. Ruth 1:12</a></li>
+<li><a href="#orga961b0f">1.13. Ruth 1:13</a></li>
+<li><a href="#org379995a">1.14. Ruth 1:14</a></li>
+<li><a href="#orge81483c">1.15. Ruth 1:15</a></li>
+<li><a href="#org0a9c98f">1.16. Ruth 1:16</a></li>
+<li><a href="#org52ac1d9">1.17. Ruth 1:17</a></li>
+<li><a href="#orga9b24ba">1.18. Ruth 1:18</a></li>
+<li><a href="#orgd1bbdf6">1.19. Ruth 1:19</a></li>
+<li><a href="#orgf955aae">1.20. Ruth 1:20</a></li>
+<li><a href="#org4253969">1.21. Ruth 1:21</a></li>
+<li><a href="#org27df118">1.22. Ruth 1:22</a></li>
+</ul>
+</li>
+<li><a href="#org2bf3af1">2. Ruth 2</a>
+<ul>
+<li><a href="#orgf1ae96f">2.1. Ruth 2:1</a></li>
+<li><a href="#org86a2045">2.2. Ruth 2:2</a></li>
+<li><a href="#org639300f">2.3. Ruth 2:3</a></li>
+<li><a href="#org3eabd7f">2.4. Ruth 2:4</a></li>
+<li><a href="#orgaa5c263">2.5. Ruth 2:5</a></li>
+<li><a href="#orgf68ffc7">2.6. Ruth 2:6</a></li>
+<li><a href="#org4eebfc5">2.7. Ruth 2:7</a></li>
+<li><a href="#orgbd14eba">2.8. Ruth 2:8</a></li>
+<li><a href="#org75ae496">2.9. Ruth 2:9</a></li>
+<li><a href="#orgbed5b7b">2.10. Ruth 2:10</a></li>
+<li><a href="#orgf7dce76">2.11. Ruth 2:11</a></li>
+<li><a href="#orgcd179fa">2.12. Ruth 2:12</a></li>
+<li><a href="#orgd88de27">2.13. Ruth 2:13</a></li>
+<li><a href="#org27fbaab">2.14. Ruth 2:14</a></li>
+<li><a href="#orge4ff885">2.15. Ruth 2:15</a></li>
+<li><a href="#orgc9fffd2">2.16. Ruth 2:16</a></li>
+<li><a href="#org6e57ae7">2.17. Ruth 2:17</a></li>
+<li><a href="#orgcec27d0">2.18. Ruth 2:18</a></li>
+<li><a href="#org52e52a5">2.19. Ruth 2:19</a></li>
+<li><a href="#org6ae4f0c">2.20. Ruth 2:20</a></li>
+<li><a href="#orgf8b2f20">2.21. Ruth 2:21</a></li>
+<li><a href="#orgefc22c4">2.22. Ruth 2:22</a></li>
+<li><a href="#org59217a3">2.23. Ruth 2:23</a></li>
+</ul>
+</li>
+<li><a href="#org2557396">3. Ruth 3</a>
+<ul>
+<li><a href="#org1647ad9">3.1. Ruth 3:1</a></li>
+<li><a href="#org27b6e30">3.2. Ruth 3:2</a></li>
+<li><a href="#org7fe3bf7">3.3. Ruth 3:3</a></li>
+<li><a href="#orge72b924">3.4. Ruth 3:4</a></li>
+<li><a href="#org70bd4bf">3.5. Ruth 3:5</a></li>
+<li><a href="#org846868c">3.6. Ruth 3:6</a></li>
+<li><a href="#org05281d9">3.7. Ruth 3:7</a></li>
+<li><a href="#org8710d43">3.8. Ruth 3:8</a></li>
+<li><a href="#org911013c">3.9. Ruth 3:9</a></li>
+<li><a href="#org300c180">3.10. Ruth 3:10</a></li>
+<li><a href="#org143ff5a">3.11. Ruth 3:11</a></li>
+<li><a href="#org477edbd">3.12. Ruth 3:12</a></li>
+<li><a href="#orgd2e98fa">3.13. Ruth 3:13</a></li>
+<li><a href="#org0bba0e8">3.14. Ruth 3:14</a></li>
+<li><a href="#org2af1875">3.15. Ruth 3:15</a></li>
+<li><a href="#org7298300">3.16. Ruth 3:16</a></li>
+<li><a href="#orga507a9c">3.17. Ruth 3:17</a></li>
+<li><a href="#orgfb60d3a">3.18. Ruth 3:18</a></li>
+</ul>
+</li>
+<li><a href="#org9c53f25">4. Ruth 4</a>
+<ul>
+<li><a href="#org63f2127">4.1. Ruth 4:1</a></li>
+<li><a href="#org29eca78">4.2. Ruth 4:2</a></li>
+<li><a href="#org3e21ceb">4.3. Ruth 4:3</a></li>
+<li><a href="#org70ccbed">4.4. Ruth 4:4</a></li>
+<li><a href="#org4ffa1bb">4.5. Ruth 4:5</a></li>
+<li><a href="#org9ec2212">4.6. Ruth 4:6</a></li>
+<li><a href="#org6d91941">4.7. Ruth 4:7</a></li>
+<li><a href="#org1a92386">4.8. Ruth 4:8</a></li>
+<li><a href="#orgee5edeb">4.9. Ruth 4:9</a></li>
+<li><a href="#orgcc0b0f7">4.10. Ruth 4:10</a></li>
+<li><a href="#org9ac01f0">4.11. Ruth 4:11</a></li>
+<li><a href="#org540e0df">4.12. Ruth 4:12</a></li>
+<li><a href="#org0b1fabb">4.13. Ruth 4:13</a></li>
+<li><a href="#org7786c60">4.14. Ruth 4:14</a></li>
+<li><a href="#orgddfa440">4.15. Ruth 4:15</a></li>
+<li><a href="#org4b46761">4.16. Ruth 4:16</a></li>
+<li><a href="#org6d9464e">4.17. Ruth 4:17</a></li>
+<li><a href="#org3b6ec0b">4.18. Ruth 4:18</a></li>
+<li><a href="#org1a07f18">4.19. Ruth 4:19</a></li>
+<li><a href="#org87a66f2">4.20. Ruth 4:20</a></li>
+<li><a href="#org88b1d5a">4.21. Ruth 4:21</a></li>
+<li><a href="#orge1950a3">4.22. Ruth 4:22</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org6ba2df9" class="outline-2">
+<h2 id="org6ba2df9"><span class="section-number-2">1</span> Ruth 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orga80e78a" class="outline-3">
+<h3 id="orga80e78a"><span class="section-number-3">1.1</span> Ruth 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+In diebus unius judicis, quando judices præerant, facta est fames in terra. Abiitque homo de Bethlehem Juda, ut peregrinaretur in regione Moabitide cum uxore sua ac duobus liberis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb880960" class="outline-3">
+<h3 id="orgb880960"><span class="section-number-3">1.2</span> Ruth 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Ipse vocabatur Elimelech, et uxor ejus Noëmi : et duo filii, alter Mahalon, et alter Chelion, Ephrathæi de Bethlehem Juda. Ingressique regionem Moabitidem, morabantur ibi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9f2ad72" class="outline-3">
+<h3 id="org9f2ad72"><span class="section-number-3">1.3</span> Ruth 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Et mortuus est Elimelech maritus Noëmi : remansitque ipsa cum filiis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge3494f7" class="outline-3">
+<h3 id="orge3494f7"><span class="section-number-3">1.4</span> Ruth 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Qui acceperunt uxores Moabitidas, quarum una vocabatur Orpha, altera vero Ruth. Manseruntque ibi decem annis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf99885c" class="outline-3">
+<h3 id="orgf99885c"><span class="section-number-3">1.5</span> Ruth 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+et ambo mortui sunt, Mahalon videlicet et Chelion : remansitque mulier orbata duobus liberis ac marito.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8d4a9d1" class="outline-3">
+<h3 id="org8d4a9d1"><span class="section-number-3">1.6</span> Ruth 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Et surrexit ut in patriam pergeret cum utraque nuru sua de regione Moabitide : audierat enim quod respexisset Dominus populum suum, et dedisset eis escas.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb43fe58" class="outline-3">
+<h3 id="orgb43fe58"><span class="section-number-3">1.7</span> Ruth 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+Egressa est itaque de loco peregrinationis suæ, cum utraque nuru : et jam in via revertendi posita in terram Juda,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5c72d07" class="outline-3">
+<h3 id="org5c72d07"><span class="section-number-3">1.8</span> Ruth 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+dixit ad eas : Ite in domum matris vestræ : faciat vobiscum Dominus misericordiam, sicut fecistis cum mortuis, et mecum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgef0a3af" class="outline-3">
+<h3 id="orgef0a3af"><span class="section-number-3">1.9</span> Ruth 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+Det vobis invenire requiem in domibus virorum quos sortituræ estis. Et osculata est eas. Quæ elevata voce flere cœperunt,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3aafe89" class="outline-3">
+<h3 id="org3aafe89"><span class="section-number-3">1.10</span> Ruth 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+et dicere : Tecum pergemus ad populum tuum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org147ed9a" class="outline-3">
+<h3 id="org147ed9a"><span class="section-number-3">1.11</span> Ruth 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+Quibus illa respondit : Revertimini, filiæ meæ, cur venitis mecum ? num ultra habeo filios in utero meo, ut viros ex me sperare possitis ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org91f15f5" class="outline-3">
+<h3 id="org91f15f5"><span class="section-number-3">1.12</span> Ruth 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+Revertimini, filiæ meæ, et abite : jam enim senectute confecta sum, nec apta vinculo conjugali : etiamsi possem hac nocte concipere, et parere filios,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga961b0f" class="outline-3">
+<h3 id="orga961b0f"><span class="section-number-3">1.13</span> Ruth 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+si eos expectare velitis donec crescant, et annos pubertatis impleant, ante eritis vetulæ quam nubatis. Nolite, quæso, filiæ meæ : quia vestra angustia magis me premit, et egressa est manus Domini contra me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org379995a" class="outline-3">
+<h3 id="org379995a"><span class="section-number-3">1.14</span> Ruth 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+Elevata igitur voce, rursum flere cœperunt : Orpha osculata est socrum, ac reversa est ; Ruth adhæsit socrui suæ :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge81483c" class="outline-3">
+<h3 id="orge81483c"><span class="section-number-3">1.15</span> Ruth 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+cui dixit Noëmi : En reversa est cognata tua ad populum suum, et ad deos suos, vade cum ea.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0a9c98f" class="outline-3">
+<h3 id="org0a9c98f"><span class="section-number-3">1.16</span> Ruth 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+Quæ respondit : Ne adverseris mihi ut relinquam te et abeam : quocumque enim perrexeris, pergam, et ubi morata fueris, et ego pariter morabor. Populus tuus populus meus, et Deus tuus Deus meus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org52ac1d9" class="outline-3">
+<h3 id="org52ac1d9"><span class="section-number-3">1.17</span> Ruth 1:17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+Quæ te terra morientem susceperit, in ea moriar : ibique locum accipiam sepulturæ. Hæc mihi faciat Dominus, et hæc addat, si non sola mors me et te separaverit.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga9b24ba" class="outline-3">
+<h3 id="orga9b24ba"><span class="section-number-3">1.18</span> Ruth 1:18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+Videns ergo Noëmi quod obstinato animo Ruth decrevisset secum pergere, adversari noluit, nec ad suos ultra reditum persuadere :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd1bbdf6" class="outline-3">
+<h3 id="orgd1bbdf6"><span class="section-number-3">1.19</span> Ruth 1:19</h3>
+<div class="outline-text-3" id="text-1-19">
+<p>
+profectæque sunt simul, et venerunt in Bethlehem. Quibus urbem ingressis, velox apud cunctos fama percrebruit : dicebantque mulieres : Hæc est illa Noëmi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf955aae" class="outline-3">
+<h3 id="orgf955aae"><span class="section-number-3">1.20</span> Ruth 1:20</h3>
+<div class="outline-text-3" id="text-1-20">
+<p>
+Quibus ait : Ne vocetis me Noëmi (id est, pulchram), sed vocate me Mara (id est, amaram), quia amaritudine valde replevit me Omnipotens.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4253969" class="outline-3">
+<h3 id="org4253969"><span class="section-number-3">1.21</span> Ruth 1:21</h3>
+<div class="outline-text-3" id="text-1-21">
+<p>
+Egressa sum plena, et vacuam reduxit me Dominus. Cur ergo vocatis me Noëmi, quam Dominus humiliavit, et afflixit Omnipotens ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org27df118" class="outline-3">
+<h3 id="org27df118"><span class="section-number-3">1.22</span> Ruth 1:22</h3>
+<div class="outline-text-3" id="text-1-22">
+<p>
+Venit ergo Noëmi cum Ruth Moabitide nuru sua, de terra peregrinationis suæ : ac reversa est in Bethlehem, quando primum hordea metebantur.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org2bf3af1" class="outline-2">
+<h2 id="org2bf3af1"><span class="section-number-2">2</span> Ruth 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-orgf1ae96f" class="outline-3">
+<h3 id="orgf1ae96f"><span class="section-number-3">2.1</span> Ruth 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Erat autem viro Elimelech consanguineus, homo potens, et magnarum opum, nomine Booz.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org86a2045" class="outline-3">
+<h3 id="org86a2045"><span class="section-number-3">2.2</span> Ruth 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Dixitque Ruth Moabitis ad socrum suam : Si jubes, vadam in agrum, et colligam spicas quæ fugerint manus metentium, ubicumque clementis in me patrisfamilias reperero gratiam. Cui illa respondit : Vade, filia mea.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org639300f" class="outline-3">
+<h3 id="org639300f"><span class="section-number-3">2.3</span> Ruth 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+Abiit itaque et colligebat spicas post terga metentium. Accidit autem ut ager ille haberet dominum nomine Booz, qui erat de cognatione Elimelech.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3eabd7f" class="outline-3">
+<h3 id="org3eabd7f"><span class="section-number-3">2.4</span> Ruth 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+Et ecce, ipse veniebat de Bethlehem, dixitque messoribus : Dominus vobiscum. Qui responderunt ei : Benedicat tibi Dominus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaa5c263" class="outline-3">
+<h3 id="orgaa5c263"><span class="section-number-3">2.5</span> Ruth 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+Dixitque Booz juveni, qui messoribus præerat : Cujus est hæc puella ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf68ffc7" class="outline-3">
+<h3 id="orgf68ffc7"><span class="section-number-3">2.6</span> Ruth 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+Cui respondit : Hæc est Moabitis, quæ venit cum Noëmi, de regione Moabitide,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4eebfc5" class="outline-3">
+<h3 id="org4eebfc5"><span class="section-number-3">2.7</span> Ruth 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+et rogavit ut spicas colligeret remanentes, sequens messorum vestigia : et de mane usque nunc stat in agro, et ne ad momentum quidem domum reversa est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbd14eba" class="outline-3">
+<h3 id="orgbd14eba"><span class="section-number-3">2.8</span> Ruth 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+Et ait Booz ad Ruth : Audi, filia, ne vadas in alterum agrum ad colligendum, nec recedas ab hoc loco : sed jungere puellis meis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75ae496" class="outline-3">
+<h3 id="org75ae496"><span class="section-number-3">2.9</span> Ruth 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+et ubi messuerint, sequere. Mandavi enim pueris meis, ut nemo molestus sit tibi : sed etiam si sitieris, vade ad sarcinulas, et bibe aquas, de quibus et pueri bibunt.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbed5b7b" class="outline-3">
+<h3 id="orgbed5b7b"><span class="section-number-3">2.10</span> Ruth 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+Quæ cadens in faciem suam et adorans super terram, dixit ad eum : Unde mihi hoc, ut invenirem gratiam ante oculos tuos, et nosse me dignareris peregrinam mulierem ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf7dce76" class="outline-3">
+<h3 id="orgf7dce76"><span class="section-number-3">2.11</span> Ruth 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+Cui ille respondit : Nuntiata sunt mihi omnia quæ feceris socrui tuæ post mortem viri tui : et quod reliqueris parentes tuos, et terram in qua nata es, et veneris ad populum, quem antea nesciebas.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcd179fa" class="outline-3">
+<h3 id="orgcd179fa"><span class="section-number-3">2.12</span> Ruth 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+Reddat tibi Dominus pro opere tuo, et plenam mercedem recipias a Domino Deo Israël, ad quem venisti, et sub cujus confugisti alas.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd88de27" class="outline-3">
+<h3 id="orgd88de27"><span class="section-number-3">2.13</span> Ruth 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+Quæ ait : Inveni gratiam apud oculos tuos, domine mi, qui consolatus es me, et locutus es ad cor ancillæ tuæ, quæ non sum similis unius puellarum tuarum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org27fbaab" class="outline-3">
+<h3 id="org27fbaab"><span class="section-number-3">2.14</span> Ruth 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+Dixitque ad eam Booz : Quando hora vescendi fuerit, veni huc, et comede panem, et intinge buccellam tuam in aceto. Sedit itaque ad messorum latus, et congessit polentam sibi, comeditque et saturata est, et tulit reliquias.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge4ff885" class="outline-3">
+<h3 id="orge4ff885"><span class="section-number-3">2.15</span> Ruth 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+Atque inde surrexit, ut spicas ex more colligeret. Præcepit autem Booz pueris suis, dicens : Etiamsi vobiscum metere voluerit, ne prohibeatis eam :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc9fffd2" class="outline-3">
+<h3 id="orgc9fffd2"><span class="section-number-3">2.16</span> Ruth 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+et de vestris quoque manipulis projicite de industria, et remanere permittite, ut absque rubore colligat, et colligentem nemo corripiat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6e57ae7" class="outline-3">
+<h3 id="org6e57ae7"><span class="section-number-3">2.17</span> Ruth 2:17</h3>
+<div class="outline-text-3" id="text-2-17">
+<p>
+Collegit ergo in agro usque ad vesperam : et quæ collegerat virga cædens et excutiens, invenit hordei quasi ephi mensuram, id est, tres modios.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcec27d0" class="outline-3">
+<h3 id="orgcec27d0"><span class="section-number-3">2.18</span> Ruth 2:18</h3>
+<div class="outline-text-3" id="text-2-18">
+<p>
+Quos portans reversa est in civitatem, et ostendit socrui suæ : insuper protulit, et dedit ei de reliquiis cibi sui, quo saturata fuerat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org52e52a5" class="outline-3">
+<h3 id="org52e52a5"><span class="section-number-3">2.19</span> Ruth 2:19</h3>
+<div class="outline-text-3" id="text-2-19">
+<p>
+Dixitque ei socrus sua : Ubi hodie collegisti, et ubi fecisti opus ? sit benedictus qui misertus est tui. Indicavitque ei apud quem fuisset operata : et nomen dixit viri, quod Booz vocaretur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6ae4f0c" class="outline-3">
+<h3 id="org6ae4f0c"><span class="section-number-3">2.20</span> Ruth 2:20</h3>
+<div class="outline-text-3" id="text-2-20">
+<p>
+Cui respondit Noëmi : Benedictus sit a Domino : quoniam eamdem gratiam, quam præbuerat vivis, servavit et mortuis. Rursumque ait : Propinquus noster est homo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf8b2f20" class="outline-3">
+<h3 id="orgf8b2f20"><span class="section-number-3">2.21</span> Ruth 2:21</h3>
+<div class="outline-text-3" id="text-2-21">
+<p>
+Et ait Ruth : Hoc quoque, inquit, præcepit mihi, ut tamdiu messoribus ejus jungerer, donec omnes segetes meterentur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgefc22c4" class="outline-3">
+<h3 id="orgefc22c4"><span class="section-number-3">2.22</span> Ruth 2:22</h3>
+<div class="outline-text-3" id="text-2-22">
+<p>
+Cui dixit socrus : Melius est, filia mea, ut cum puellis ejus exeas ad metendum, ne in alieno agro quispiam resistat tibi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org59217a3" class="outline-3">
+<h3 id="org59217a3"><span class="section-number-3">2.23</span> Ruth 2:23</h3>
+<div class="outline-text-3" id="text-2-23">
+<p>
+Juncta est itaque puellis Booz : et tamdiu cum eis messuit, donec hordea et triticum in horreis conderentur.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org2557396" class="outline-2">
+<h2 id="org2557396"><span class="section-number-2">3</span> Ruth 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org1647ad9" class="outline-3">
+<h3 id="org1647ad9"><span class="section-number-3">3.1</span> Ruth 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+Postquam autem reversa est ad socrum suam, audivit ab ea : Filia mea, quæram tibi requiem, et providebo ut bene sit tibi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org27b6e30" class="outline-3">
+<h3 id="org27b6e30"><span class="section-number-3">3.2</span> Ruth 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+Booz iste, cujus puellis in agro juncta es, propinquus noster est, et hac nocte aream hordei ventilat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7fe3bf7" class="outline-3">
+<h3 id="org7fe3bf7"><span class="section-number-3">3.3</span> Ruth 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+Lavare igitur, et ungere, et induere cultioribus vestimentis, et descende in aream : non te videat homo, donec esum potumque finierit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge72b924" class="outline-3">
+<h3 id="orge72b924"><span class="section-number-3">3.4</span> Ruth 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+Quando autem ierit ad dormiendum, nota locum in quo dormiat : veniesque et discooperies pallium, quo operitur a parte pedum, et projicies te, et ibi jacebis : ipse autem dicet quid agere debeas.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org70bd4bf" class="outline-3">
+<h3 id="org70bd4bf"><span class="section-number-3">3.5</span> Ruth 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+Quæ respondit : Quidquid præceperis, faciam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org846868c" class="outline-3">
+<h3 id="org846868c"><span class="section-number-3">3.6</span> Ruth 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+Descenditque in aream, et fecit omnia quæ sibi imperaverat socrus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05281d9" class="outline-3">
+<h3 id="org05281d9"><span class="section-number-3">3.7</span> Ruth 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+Cumque comedisset Booz, et bibisset, et factus esset hilarior, issetque ad dormiendum juxta acervum manipulorum, venit abscondite, et discooperto pallio, a pedibus ejus se projecit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8710d43" class="outline-3">
+<h3 id="org8710d43"><span class="section-number-3">3.8</span> Ruth 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+Et ecce, nocte jam media expavit homo, et conturbatus est : viditque mulierem jacentem ad pedes suos,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org911013c" class="outline-3">
+<h3 id="org911013c"><span class="section-number-3">3.9</span> Ruth 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+et ait illi : Quæ es ? Illaque respondit : Ego sum Ruth ancilla tua : expande pallium tuum super famulam tuam, quia propinquus es.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org300c180" class="outline-3">
+<h3 id="org300c180"><span class="section-number-3">3.10</span> Ruth 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+Et ille : Benedicta, inquit, es a Domino, filia, et priorem misericordiam posteriore superasti : quia non est secuta juvenes, pauperes sive divites.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org143ff5a" class="outline-3">
+<h3 id="org143ff5a"><span class="section-number-3">3.11</span> Ruth 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+Noli ergo metuere, sed quidquid dixeris mihi, faciam tibi. Scit enim omnis populus, qui habitat intra portas urbis meæ, mulierem te esse virtutis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org477edbd" class="outline-3">
+<h3 id="org477edbd"><span class="section-number-3">3.12</span> Ruth 3:12</h3>
+<div class="outline-text-3" id="text-3-12">
+<p>
+Nec abnuo me propinquum, sed est alius me propinquior.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd2e98fa" class="outline-3">
+<h3 id="orgd2e98fa"><span class="section-number-3">3.13</span> Ruth 3:13</h3>
+<div class="outline-text-3" id="text-3-13">
+<p>
+Quiesce hac nocte : et facto mane, si te voluerit propinquitatis jure retinere, bene res acta est : sin autem ille noluerit, ego te absque ulla dubitatione suscipiam, vivit Dominus. Dormi usque mane.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0bba0e8" class="outline-3">
+<h3 id="org0bba0e8"><span class="section-number-3">3.14</span> Ruth 3:14</h3>
+<div class="outline-text-3" id="text-3-14">
+<p>
+Dormivit itaque ad pedes ejus, usque ad noctis abscessum. Surrexit itaque antequam homines se cognoscerent mutuo, et dixit Booz : Cave ne quis noverit quod huc veneris.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2af1875" class="outline-3">
+<h3 id="org2af1875"><span class="section-number-3">3.15</span> Ruth 3:15</h3>
+<div class="outline-text-3" id="text-3-15">
+<p>
+Et rursum : Expande, inquit, pallium tuum, quo operiris, et tene utraque manu. Qua extendente, et tenente, mensus est sex modios hordei, et posuit super eam. Quæ portans ingressa est civitatem,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7298300" class="outline-3">
+<h3 id="org7298300"><span class="section-number-3">3.16</span> Ruth 3:16</h3>
+<div class="outline-text-3" id="text-3-16">
+<p>
+et venit ad socrum suam. Quæ dixit ei : Quid egisti, filia ? Narravitque ei omnia, quæ sibi fecisset homo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga507a9c" class="outline-3">
+<h3 id="orga507a9c"><span class="section-number-3">3.17</span> Ruth 3:17</h3>
+<div class="outline-text-3" id="text-3-17">
+<p>
+Et ait : Ecce sex modios hordei dedit mihi, et ait : Nolo vacuam te reverti ad socrum tuam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb60d3a" class="outline-3">
+<h3 id="orgfb60d3a"><span class="section-number-3">3.18</span> Ruth 3:18</h3>
+<div class="outline-text-3" id="text-3-18">
+<p>
+Dixitque Noëmi : Expecta, filia, donec videamus quem res exitum habeat : neque enim cessabit homo, nisi compleverit quod locutus est.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org9c53f25" class="outline-2">
+<h2 id="org9c53f25"><span class="section-number-2">4</span> Ruth 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org63f2127" class="outline-3">
+<h3 id="org63f2127"><span class="section-number-3">4.1</span> Ruth 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Ascendit ergo Booz ad portam, et sedit ibi. Cumque vidisset propinquum præterire, de quo prius sermo habitus est, dixit ad eum : Declina paulisper, et sede hic : vocans eum nomine suo. Qui divertit, et sedit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org29eca78" class="outline-3">
+<h3 id="org29eca78"><span class="section-number-3">4.2</span> Ruth 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+Tollens autem Booz decem viros de senioribus civitatis, dixit ad eos : Sedete hic.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3e21ceb" class="outline-3">
+<h3 id="org3e21ceb"><span class="section-number-3">4.3</span> Ruth 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+Quibus sedentibus, locutus est ad propinquum : Partem agri fratris nostri Elimelech vendet Noëmi, quæ reversa est de regione Moabitide :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org70ccbed" class="outline-3">
+<h3 id="org70ccbed"><span class="section-number-3">4.4</span> Ruth 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+quod audire te volui, et tibi dicere coram cunctis sedentibus, et majoribus natu de populo meo. Si vis possidere jure propinquitatis, eme, et posside : sin autem displicet tibi, hoc ipsum indica mihi, ut sciam quid facere debeam : nullus enim est propinquus, excepto te, qui prior es, et me, qui secundus sum. At ille respondit : Ego agrum emam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4ffa1bb" class="outline-3">
+<h3 id="org4ffa1bb"><span class="section-number-3">4.5</span> Ruth 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+Cui dixit Booz : Quando emeris agrum de manu mulieris, Ruth quoque Moabitidem, quæ uxor defuncti fuit, debes accipere : ut suscites nomen propinqui tui in hæreditate sua.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9ec2212" class="outline-3">
+<h3 id="org9ec2212"><span class="section-number-3">4.6</span> Ruth 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+Qui respondit : Cedo juri propinquitatis : neque enim posteritatem familiæ meæ delere debeo : tu meo utere privilegio, quo me libenter carere profiteor.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6d91941" class="outline-3">
+<h3 id="org6d91941"><span class="section-number-3">4.7</span> Ruth 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+Hic autem erat mos antiquitus in Israël inter propinquos, ut siquando alter alteri suo juri cedebat, ut esset firma concessio, solvebat homo calceamentum suum, et dabat proximo suo : hoc erat testimonium cessionis in Israël.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1a92386" class="outline-3">
+<h3 id="org1a92386"><span class="section-number-3">4.8</span> Ruth 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+Dixit ergo propinquo suo Booz : Tolle calceamentum tuum. Quod statim solvit de pede suo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgee5edeb" class="outline-3">
+<h3 id="orgee5edeb"><span class="section-number-3">4.9</span> Ruth 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+At ille majoribus natu, et universo populo : Testes vos, inquit, estis hodie, quod possederim omnis quæ fuerunt Elimelech, et Chelion, et Mahalon, tradente Noëmi ;
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcc0b0f7" class="outline-3">
+<h3 id="orgcc0b0f7"><span class="section-number-3">4.10</span> Ruth 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+et Ruth Moabitidem, uxorem Mahalon, in conjugium sumpserim, ut suscitem nomen defuncti in hæreditate sua, ne vocabulum ejus de familia sua ac fratribus et populo deleatur. Vos, inquam, hujus rei testes estis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9ac01f0" class="outline-3">
+<h3 id="org9ac01f0"><span class="section-number-3">4.11</span> Ruth 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+Respondit omnis populus, qui erat in porta, et majores natu : Nos testes sumus : faciat Dominus hanc mulierem, quæ ingreditur domum tuam, sicut Rachel et Liam, quæ ædificaverunt domum Israël : ut sit exemplum virtutis in Ephratha, et habeat celebre nomen in Bethlehem :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org540e0df" class="outline-3">
+<h3 id="org540e0df"><span class="section-number-3">4.12</span> Ruth 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+fiatque domus tua sicut domus Phares, quem Thamar peperit Judæ, de semine quod tibi dederit Dominus ex hac puella.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0b1fabb" class="outline-3">
+<h3 id="org0b1fabb"><span class="section-number-3">4.13</span> Ruth 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+Tulit itaque Booz Ruth, et accepit uxorem : ingressusque est ad eam, et dedit illi Dominus ut conciperet, et pareret filium.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7786c60" class="outline-3">
+<h3 id="org7786c60"><span class="section-number-3">4.14</span> Ruth 4:14</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+Dixeruntque mulieres ad Noëmi : Benedictus Dominus, qui non est passus ut deficeret successor familiæ tuæ, et vocaretur nomen ejus in Israël :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgddfa440" class="outline-3">
+<h3 id="orgddfa440"><span class="section-number-3">4.15</span> Ruth 4:15</h3>
+<div class="outline-text-3" id="text-4-15">
+<p>
+et habeas qui consoletur animam tuam, et enutriat senectutem : de nuru enim tua natus est, quæ te diligit, et multo tibi melior est, quam si septem haberes filios.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b46761" class="outline-3">
+<h3 id="org4b46761"><span class="section-number-3">4.16</span> Ruth 4:16</h3>
+<div class="outline-text-3" id="text-4-16">
+<p>
+Susceptumque Noëmi puerum posuit in sinu suo, et nutricis ac gerulæ fungebatur officio.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6d9464e" class="outline-3">
+<h3 id="org6d9464e"><span class="section-number-3">4.17</span> Ruth 4:17</h3>
+<div class="outline-text-3" id="text-4-17">
+<p>
+Vicinæ autem mulieris congratulantes ei, et dicentes : Natus est filius Noëmi : vocaverunt nomen ejus Obed : hic est pater Isai, patris David.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b6ec0b" class="outline-3">
+<h3 id="org3b6ec0b"><span class="section-number-3">4.18</span> Ruth 4:18</h3>
+<div class="outline-text-3" id="text-4-18">
+<p>
+Hæ sunt generationes Phares : Phares genuit Esron,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1a07f18" class="outline-3">
+<h3 id="org1a07f18"><span class="section-number-3">4.19</span> Ruth 4:19</h3>
+<div class="outline-text-3" id="text-4-19">
+<p>
+Esron genuit Aram, Aram genuit Aminadab,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org87a66f2" class="outline-3">
+<h3 id="org87a66f2"><span class="section-number-3">4.20</span> Ruth 4:20</h3>
+<div class="outline-text-3" id="text-4-20">
+<p>
+Aminadab genuit Nahasson, Nahasson genuit Salmon,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org88b1d5a" class="outline-3">
+<h3 id="org88b1d5a"><span class="section-number-3">4.21</span> Ruth 4:21</h3>
+<div class="outline-text-3" id="text-4-21">
+<p>
+Salmon genuit Booz, Booz genuit Obed,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge1950a3" class="outline-3">
+<h3 id="orge1950a3"><span class="section-number-3">4.22</span> Ruth 4:22</h3>
+<div class="outline-text-3" id="text-4-22">
+<p>
+Obed genuit Isai, Isai genuit David.    
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:38</p>
+</div>
+</body>
+</html>

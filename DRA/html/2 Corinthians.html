@@ -1,0 +1,2917 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:36 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org41e2916">1. II Corinthians 1</a>
+<ul>
+<li><a href="#orga42a3da">1.1. II Corinthians 1:1</a></li>
+<li><a href="#org31fff58">1.2. II Corinthians 1:2</a></li>
+<li><a href="#orge89fc1f">1.3. II Corinthians 1:3</a></li>
+<li><a href="#org0088e59">1.4. II Corinthians 1:4</a></li>
+<li><a href="#orgd8b8807">1.5. II Corinthians 1:5</a></li>
+<li><a href="#org1492944">1.6. II Corinthians 1:6</a></li>
+<li><a href="#orgbbef8cd">1.7. II Corinthians 1:7</a></li>
+<li><a href="#orgd1a5775">1.8. II Corinthians 1:8</a></li>
+<li><a href="#orgbf5c4ae">1.9. II Corinthians 1:9</a></li>
+<li><a href="#orgcf0fd61">1.10. II Corinthians 1:10</a></li>
+<li><a href="#org7cd1405">1.11. II Corinthians 1:11</a></li>
+<li><a href="#org063bfb6">1.12. II Corinthians 1:12</a></li>
+<li><a href="#orga88e5b5">1.13. II Corinthians 1:13</a></li>
+<li><a href="#orge6003f9">1.14. II Corinthians 1:14</a></li>
+<li><a href="#org87e6f24">1.15. II Corinthians 1:15</a></li>
+<li><a href="#org3c2ee44">1.16. II Corinthians 1:16</a></li>
+<li><a href="#org6a0672c">1.17. II Corinthians 1:17</a></li>
+<li><a href="#org2e924e9">1.18. II Corinthians 1:18</a></li>
+<li><a href="#orgf617263">1.19. II Corinthians 1:19</a></li>
+<li><a href="#orge5e212d">1.20. II Corinthians 1:20</a></li>
+<li><a href="#org4ffaa56">1.21. II Corinthians 1:21</a></li>
+<li><a href="#org289413b">1.22. II Corinthians 1:22</a></li>
+<li><a href="#org7e0f395">1.23. II Corinthians 1:23</a></li>
+<li><a href="#orgc934394">1.24. II Corinthians 1:24</a></li>
+</ul>
+</li>
+<li><a href="#org455747e">2. II Corinthians 2</a>
+<ul>
+<li><a href="#org4f10ff9">2.1. II Corinthians 2:1</a></li>
+<li><a href="#orgcfb7e36">2.2. II Corinthians 2:2</a></li>
+<li><a href="#orgf4ba7fc">2.3. II Corinthians 2:3</a></li>
+<li><a href="#orgc450340">2.4. II Corinthians 2:4</a></li>
+<li><a href="#orgf78022e">2.5. II Corinthians 2:5</a></li>
+<li><a href="#orgc69b3af">2.6. II Corinthians 2:6</a></li>
+<li><a href="#orgae4cec5">2.7. II Corinthians 2:7</a></li>
+<li><a href="#orgb7e1c8d">2.8. II Corinthians 2:8</a></li>
+<li><a href="#org5623d93">2.9. II Corinthians 2:9</a></li>
+<li><a href="#org3292755">2.10. II Corinthians 2:10</a></li>
+<li><a href="#orgd19135d">2.11. II Corinthians 2:11</a></li>
+<li><a href="#org6632a8b">2.12. II Corinthians 2:12</a></li>
+<li><a href="#org56a66d7">2.13. II Corinthians 2:13</a></li>
+<li><a href="#org517a65d">2.14. II Corinthians 2:14</a></li>
+<li><a href="#orgc539439">2.15. II Corinthians 2:15</a></li>
+<li><a href="#org07031ce">2.16. II Corinthians 2:16</a></li>
+<li><a href="#org986e429">2.17. II Corinthians 2:17</a></li>
+</ul>
+</li>
+<li><a href="#org7d0f8af">3. II Corinthians 3</a>
+<ul>
+<li><a href="#org1f6418a">3.1. II Corinthians 3:1</a></li>
+<li><a href="#org2bc67cb">3.2. II Corinthians 3:2</a></li>
+<li><a href="#org460fdc5">3.3. II Corinthians 3:3</a></li>
+<li><a href="#org6c97e8e">3.4. II Corinthians 3:4</a></li>
+<li><a href="#orgf276656">3.5. II Corinthians 3:5</a></li>
+<li><a href="#org1052325">3.6. II Corinthians 3:6</a></li>
+<li><a href="#orge83c2c7">3.7. II Corinthians 3:7</a></li>
+<li><a href="#org3efb3fd">3.8. II Corinthians 3:8</a></li>
+<li><a href="#org0e5d9bc">3.9. II Corinthians 3:9</a></li>
+<li><a href="#orge086541">3.10. II Corinthians 3:10</a></li>
+<li><a href="#orgc8b7028">3.11. II Corinthians 3:11</a></li>
+<li><a href="#orgc9a7f9a">3.12. II Corinthians 3:12</a></li>
+<li><a href="#org45199bd">3.13. II Corinthians 3:13</a></li>
+<li><a href="#org311a645">3.14. II Corinthians 3:14</a></li>
+<li><a href="#orgf005c33">3.15. II Corinthians 3:15</a></li>
+<li><a href="#orgca7de66">3.16. II Corinthians 3:16</a></li>
+<li><a href="#orge725f50">3.17. II Corinthians 3:17</a></li>
+<li><a href="#org3644b0e">3.18. II Corinthians 3:18</a></li>
+</ul>
+</li>
+<li><a href="#orgbd14bba">4. II Corinthians 4</a>
+<ul>
+<li><a href="#org0346dff">4.1. II Corinthians 4:1</a></li>
+<li><a href="#org0c06cb8">4.2. II Corinthians 4:2</a></li>
+<li><a href="#orgbd2d8ae">4.3. II Corinthians 4:3</a></li>
+<li><a href="#org12bf3b3">4.4. II Corinthians 4:4</a></li>
+<li><a href="#orga4c9103">4.5. II Corinthians 4:5</a></li>
+<li><a href="#org44965e6">4.6. II Corinthians 4:6</a></li>
+<li><a href="#orgd8ac09c">4.7. II Corinthians 4:7</a></li>
+<li><a href="#orgf2a1bdb">4.8. II Corinthians 4:8</a></li>
+<li><a href="#org99311a1">4.9. II Corinthians 4:9</a></li>
+<li><a href="#org59a0995">4.10. II Corinthians 4:10</a></li>
+<li><a href="#org1c2633c">4.11. II Corinthians 4:11</a></li>
+<li><a href="#org8c17955">4.12. II Corinthians 4:12</a></li>
+<li><a href="#orgde03049">4.13. II Corinthians 4:13</a></li>
+<li><a href="#org93a59d6">4.14. II Corinthians 4:14</a></li>
+<li><a href="#org08244d0">4.15. II Corinthians 4:15</a></li>
+<li><a href="#org3b1c027">4.16. II Corinthians 4:16</a></li>
+<li><a href="#orga99e06b">4.17. II Corinthians 4:17</a></li>
+<li><a href="#org069700b">4.18. II Corinthians 4:18</a></li>
+</ul>
+</li>
+<li><a href="#org977ffea">5. II Corinthians 5</a>
+<ul>
+<li><a href="#org4c7e7cd">5.1. II Corinthians 5:1</a></li>
+<li><a href="#orgee83a13">5.2. II Corinthians 5:2</a></li>
+<li><a href="#orgd73c0fb">5.3. II Corinthians 5:3</a></li>
+<li><a href="#org2cd8977">5.4. II Corinthians 5:4</a></li>
+<li><a href="#orgf13a470">5.5. II Corinthians 5:5</a></li>
+<li><a href="#org77c6474">5.6. II Corinthians 5:6</a></li>
+<li><a href="#orgdf91352">5.7. II Corinthians 5:7</a></li>
+<li><a href="#orgb0c8bcf">5.8. II Corinthians 5:8</a></li>
+<li><a href="#orgd5e9c43">5.9. II Corinthians 5:9</a></li>
+<li><a href="#org6a8feac">5.10. II Corinthians 5:10</a></li>
+<li><a href="#org0e8a7ea">5.11. II Corinthians 5:11</a></li>
+<li><a href="#org9b75ac9">5.12. II Corinthians 5:12</a></li>
+<li><a href="#org1c0d9af">5.13. II Corinthians 5:13</a></li>
+<li><a href="#org74d02fd">5.14. II Corinthians 5:14</a></li>
+<li><a href="#org7d16738">5.15. II Corinthians 5:15</a></li>
+<li><a href="#org08d39b3">5.16. II Corinthians 5:16</a></li>
+<li><a href="#org39224da">5.17. II Corinthians 5:17</a></li>
+<li><a href="#org02a99b5">5.18. II Corinthians 5:18</a></li>
+<li><a href="#orgeb464dc">5.19. II Corinthians 5:19</a></li>
+<li><a href="#orge3a8abb">5.20. II Corinthians 5:20</a></li>
+<li><a href="#orgc238d70">5.21. II Corinthians 5:21</a></li>
+</ul>
+</li>
+<li><a href="#org9349675">6. II Corinthians 6</a>
+<ul>
+<li><a href="#orgbd02cc0">6.1. II Corinthians 6:1</a></li>
+<li><a href="#org7cde181">6.2. II Corinthians 6:2</a></li>
+<li><a href="#orga44173e">6.3. II Corinthians 6:3</a></li>
+<li><a href="#orgacd0db9">6.4. II Corinthians 6:4</a></li>
+<li><a href="#orgefc2baf">6.5. II Corinthians 6:5</a></li>
+<li><a href="#orgd5e32bb">6.6. II Corinthians 6:6</a></li>
+<li><a href="#org26172f5">6.7. II Corinthians 6:7</a></li>
+<li><a href="#org6c3ffa2">6.8. II Corinthians 6:8</a></li>
+<li><a href="#orgf8d46fa">6.9. II Corinthians 6:9</a></li>
+<li><a href="#org9c37256">6.10. II Corinthians 6:10</a></li>
+<li><a href="#orgc87a556">6.11. II Corinthians 6:11</a></li>
+<li><a href="#org5e85248">6.12. II Corinthians 6:12</a></li>
+<li><a href="#orgb4ca863">6.13. II Corinthians 6:13</a></li>
+<li><a href="#orgefcc96d">6.14. II Corinthians 6:14</a></li>
+<li><a href="#org320edba">6.15. II Corinthians 6:15</a></li>
+<li><a href="#org8329dbb">6.16. II Corinthians 6:16</a></li>
+<li><a href="#org71f6a55">6.17. II Corinthians 6:17</a></li>
+<li><a href="#org6de285a">6.18. II Corinthians 6:18</a></li>
+</ul>
+</li>
+<li><a href="#org58740ec">7. II Corinthians 7</a>
+<ul>
+<li><a href="#org1ff12b3">7.1. II Corinthians 7:1</a></li>
+<li><a href="#org3bb68b4">7.2. II Corinthians 7:2</a></li>
+<li><a href="#orge651286">7.3. II Corinthians 7:3</a></li>
+<li><a href="#orgbb25fb0">7.4. II Corinthians 7:4</a></li>
+<li><a href="#org8cff61e">7.5. II Corinthians 7:5</a></li>
+<li><a href="#org9a51814">7.6. II Corinthians 7:6</a></li>
+<li><a href="#org0dea4fc">7.7. II Corinthians 7:7</a></li>
+<li><a href="#org7d3c2c7">7.8. II Corinthians 7:8</a></li>
+<li><a href="#orgdb3cd66">7.9. II Corinthians 7:9</a></li>
+<li><a href="#org215d129">7.10. II Corinthians 7:10</a></li>
+<li><a href="#orgf243958">7.11. II Corinthians 7:11</a></li>
+<li><a href="#org8019a71">7.12. II Corinthians 7:12</a></li>
+<li><a href="#org907e3c6">7.13. II Corinthians 7:13</a></li>
+<li><a href="#org48c424f">7.14. II Corinthians 7:14</a></li>
+<li><a href="#org8527869">7.15. II Corinthians 7:15</a></li>
+<li><a href="#org576723b">7.16. II Corinthians 7:16</a></li>
+</ul>
+</li>
+<li><a href="#org70cdde1">8. II Corinthians 8</a>
+<ul>
+<li><a href="#orgefe8a1d">8.1. II Corinthians 8:1</a></li>
+<li><a href="#org3591f5e">8.2. II Corinthians 8:2</a></li>
+<li><a href="#org508cfb7">8.3. II Corinthians 8:3</a></li>
+<li><a href="#org7d5f97d">8.4. II Corinthians 8:4</a></li>
+<li><a href="#orge9337cb">8.5. II Corinthians 8:5</a></li>
+<li><a href="#org2cbc54b">8.6. II Corinthians 8:6</a></li>
+<li><a href="#orgfcfa22d">8.7. II Corinthians 8:7</a></li>
+<li><a href="#org1fb4977">8.8. II Corinthians 8:8</a></li>
+<li><a href="#orge5a94f5">8.9. II Corinthians 8:9</a></li>
+<li><a href="#orga81bcb5">8.10. II Corinthians 8:10</a></li>
+<li><a href="#org1475a11">8.11. II Corinthians 8:11</a></li>
+<li><a href="#org3310901">8.12. II Corinthians 8:12</a></li>
+<li><a href="#org14fc8b4">8.13. II Corinthians 8:13</a></li>
+<li><a href="#org104c16e">8.14. II Corinthians 8:14</a></li>
+<li><a href="#orgf6da7ce">8.15. II Corinthians 8:15</a></li>
+<li><a href="#orge175f71">8.16. II Corinthians 8:16</a></li>
+<li><a href="#orgebd5232">8.17. II Corinthians 8:17</a></li>
+<li><a href="#orgab4dc5d">8.18. II Corinthians 8:18</a></li>
+<li><a href="#orgdd1a36b">8.19. II Corinthians 8:19</a></li>
+<li><a href="#org871d4c4">8.20. II Corinthians 8:20</a></li>
+<li><a href="#org441b91d">8.21. II Corinthians 8:21</a></li>
+<li><a href="#orgb8f4e95">8.22. II Corinthians 8:22</a></li>
+<li><a href="#org35212d1">8.23. II Corinthians 8:23</a></li>
+<li><a href="#org7629a14">8.24. II Corinthians 8:24</a></li>
+</ul>
+</li>
+<li><a href="#orgb3372fc">9. II Corinthians 9</a>
+<ul>
+<li><a href="#org3fdd367">9.1. II Corinthians 9:1</a></li>
+<li><a href="#orgb6cafa7">9.2. II Corinthians 9:2</a></li>
+<li><a href="#orge0e9084">9.3. II Corinthians 9:3</a></li>
+<li><a href="#org03f1f0d">9.4. II Corinthians 9:4</a></li>
+<li><a href="#orgb6626f7">9.5. II Corinthians 9:5</a></li>
+<li><a href="#org5b7d176">9.6. II Corinthians 9:6</a></li>
+<li><a href="#orgf16e5af">9.7. II Corinthians 9:7</a></li>
+<li><a href="#orgf859983">9.8. II Corinthians 9:8</a></li>
+<li><a href="#orgd65ae40">9.9. II Corinthians 9:9</a></li>
+<li><a href="#orgd2eb3e2">9.10. II Corinthians 9:10</a></li>
+<li><a href="#org09c51af">9.11. II Corinthians 9:11</a></li>
+<li><a href="#org9791413">9.12. II Corinthians 9:12</a></li>
+<li><a href="#orgad363df">9.13. II Corinthians 9:13</a></li>
+<li><a href="#org4fc82a8">9.14. II Corinthians 9:14</a></li>
+<li><a href="#org4e4a6ac">9.15. II Corinthians 9:15</a></li>
+</ul>
+</li>
+<li><a href="#org0fe0bf3">10. II Corinthians 10</a>
+<ul>
+<li><a href="#org222474a">10.1. II Corinthians 10:1</a></li>
+<li><a href="#orgc4003b3">10.2. II Corinthians 10:2</a></li>
+<li><a href="#orgb94b124">10.3. II Corinthians 10:3</a></li>
+<li><a href="#org75ba7f5">10.4. II Corinthians 10:4</a></li>
+<li><a href="#org27eba66">10.5. II Corinthians 10:5</a></li>
+<li><a href="#org42f06da">10.6. II Corinthians 10:6</a></li>
+<li><a href="#org001f2ab">10.7. II Corinthians 10:7</a></li>
+<li><a href="#org695b4b5">10.8. II Corinthians 10:8</a></li>
+<li><a href="#orgd5895af">10.9. II Corinthians 10:9</a></li>
+<li><a href="#orge1b2aef">10.10. II Corinthians 10:10</a></li>
+<li><a href="#orgfa17174">10.11. II Corinthians 10:11</a></li>
+<li><a href="#orgd2ecb04">10.12. II Corinthians 10:12</a></li>
+<li><a href="#org237750c">10.13. II Corinthians 10:13</a></li>
+<li><a href="#orgb2d8634">10.14. II Corinthians 10:14</a></li>
+<li><a href="#org0e80716">10.15. II Corinthians 10:15</a></li>
+<li><a href="#orgbeb3b99">10.16. II Corinthians 10:16</a></li>
+<li><a href="#orgca51d65">10.17. II Corinthians 10:17</a></li>
+<li><a href="#org3712836">10.18. II Corinthians 10:18</a></li>
+</ul>
+</li>
+<li><a href="#orgcfc5439">11. II Corinthians 11</a>
+<ul>
+<li><a href="#org824dbfa">11.1. II Corinthians 11:1</a></li>
+<li><a href="#org270dbba">11.2. II Corinthians 11:2</a></li>
+<li><a href="#org046823a">11.3. II Corinthians 11:3</a></li>
+<li><a href="#org9adcf3e">11.4. II Corinthians 11:4</a></li>
+<li><a href="#orgf537aac">11.5. II Corinthians 11:5</a></li>
+<li><a href="#org05e38bf">11.6. II Corinthians 11:6</a></li>
+<li><a href="#org1a89d8f">11.7. II Corinthians 11:7</a></li>
+<li><a href="#org2dc4614">11.8. II Corinthians 11:8</a></li>
+<li><a href="#org5de1989">11.9. II Corinthians 11:9</a></li>
+<li><a href="#org5b79d15">11.10. II Corinthians 11:10</a></li>
+<li><a href="#orge560a99">11.11. II Corinthians 11:11</a></li>
+<li><a href="#org7bc1e5d">11.12. II Corinthians 11:12</a></li>
+<li><a href="#orgc01caab">11.13. II Corinthians 11:13</a></li>
+<li><a href="#org1e82ceb">11.14. II Corinthians 11:14</a></li>
+<li><a href="#org05e6156">11.15. II Corinthians 11:15</a></li>
+<li><a href="#orgd1d282e">11.16. II Corinthians 11:16</a></li>
+<li><a href="#org26a846b">11.17. II Corinthians 11:17</a></li>
+<li><a href="#org41ffd6d">11.18. II Corinthians 11:18</a></li>
+<li><a href="#orgf156dfa">11.19. II Corinthians 11:19</a></li>
+<li><a href="#org8ad1402">11.20. II Corinthians 11:20</a></li>
+<li><a href="#org21f2d1c">11.21. II Corinthians 11:21</a></li>
+<li><a href="#org1b6ad78">11.22. II Corinthians 11:22</a></li>
+<li><a href="#org7986e9b">11.23. II Corinthians 11:23</a></li>
+<li><a href="#orgbe75311">11.24. II Corinthians 11:24</a></li>
+<li><a href="#org508065c">11.25. II Corinthians 11:25</a></li>
+<li><a href="#org7302afc">11.26. II Corinthians 11:26</a></li>
+<li><a href="#org1ae521c">11.27. II Corinthians 11:27</a></li>
+<li><a href="#org0cf3644">11.28. II Corinthians 11:28</a></li>
+<li><a href="#org787edae">11.29. II Corinthians 11:29</a></li>
+<li><a href="#orga68f53f">11.30. II Corinthians 11:30</a></li>
+<li><a href="#org1c1c522">11.31. II Corinthians 11:31</a></li>
+<li><a href="#orgcddd705">11.32. II Corinthians 11:32</a></li>
+<li><a href="#orge9776db">11.33. II Corinthians 11:33</a></li>
+</ul>
+</li>
+<li><a href="#orgfb99146">12. II Corinthians 12</a>
+<ul>
+<li><a href="#orge8fedfe">12.1. II Corinthians 12:1</a></li>
+<li><a href="#orgd58d799">12.2. II Corinthians 12:2</a></li>
+<li><a href="#orgff1c5a1">12.3. II Corinthians 12:3</a></li>
+<li><a href="#org15cf6ea">12.4. II Corinthians 12:4</a></li>
+<li><a href="#orgb42ca45">12.5. II Corinthians 12:5</a></li>
+<li><a href="#org8cab14f">12.6. II Corinthians 12:6</a></li>
+<li><a href="#org8f5ccb4">12.7. II Corinthians 12:7</a></li>
+<li><a href="#org7a4c3cf">12.8. II Corinthians 12:8</a></li>
+<li><a href="#orgc124fd1">12.9. II Corinthians 12:9</a></li>
+<li><a href="#org4f91227">12.10. II Corinthians 12:10</a></li>
+<li><a href="#org79e0094">12.11. II Corinthians 12:11</a></li>
+<li><a href="#org7f240df">12.12. II Corinthians 12:12</a></li>
+<li><a href="#orgd35dce4">12.13. II Corinthians 12:13</a></li>
+<li><a href="#org0ef3ae1">12.14. II Corinthians 12:14</a></li>
+<li><a href="#org1dea7fb">12.15. II Corinthians 12:15</a></li>
+<li><a href="#org9026559">12.16. II Corinthians 12:16</a></li>
+<li><a href="#org051fa30">12.17. II Corinthians 12:17</a></li>
+<li><a href="#org2592e5a">12.18. II Corinthians 12:18</a></li>
+<li><a href="#orgc027707">12.19. II Corinthians 12:19</a></li>
+<li><a href="#org298fd0e">12.20. II Corinthians 12:20</a></li>
+<li><a href="#orgba16a0a">12.21. II Corinthians 12:21</a></li>
+</ul>
+</li>
+<li><a href="#orgc552981">13. II Corinthians 13</a>
+<ul>
+<li><a href="#org7fc5a6d">13.1. II Corinthians 13:1</a></li>
+<li><a href="#orge3e1d43">13.2. II Corinthians 13:2</a></li>
+<li><a href="#org59c043e">13.3. II Corinthians 13:3</a></li>
+<li><a href="#org8aef469">13.4. II Corinthians 13:4</a></li>
+<li><a href="#orgf28ab9a">13.5. II Corinthians 13:5</a></li>
+<li><a href="#org3df483a">13.6. II Corinthians 13:6</a></li>
+<li><a href="#org383f87e">13.7. II Corinthians 13:7</a></li>
+<li><a href="#org42e60ba">13.8. II Corinthians 13:8</a></li>
+<li><a href="#orgefd39c4">13.9. II Corinthians 13:9</a></li>
+<li><a href="#orgebe6676">13.10. II Corinthians 13:10</a></li>
+<li><a href="#orgf10cdc0">13.11. II Corinthians 13:11</a></li>
+<li><a href="#orgbaa70ca">13.12. II Corinthians 13:12</a></li>
+<li><a href="#orgb440096">13.13. II Corinthians 13:13</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org41e2916" class="outline-2">
+<h2 id="org41e2916"><span class="section-number-2">1</span> II Corinthians 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orga42a3da" class="outline-3">
+<h3 id="orga42a3da"><span class="section-number-3">1.1</span> II Corinthians 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother: to the church of God that is at Corinth, with all the saints that are in all Achaia:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org31fff58" class="outline-3">
+<h3 id="org31fff58"><span class="section-number-3">1.2</span> II Corinthians 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Grace unto you and peace from God our Father and from the Lord Jesus Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge89fc1f" class="outline-3">
+<h3 id="orge89fc1f"><span class="section-number-3">1.3</span> II Corinthians 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and the God of all comfort:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0088e59" class="outline-3">
+<h3 id="org0088e59"><span class="section-number-3">1.4</span> II Corinthians 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Who comforteth us in all our tribulation, that we also may be able to comfort them who are in all distress, by the exhortation wherewith we also are exhorted by God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd8b8807" class="outline-3">
+<h3 id="orgd8b8807"><span class="section-number-3">1.5</span> II Corinthians 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+For as the sufferings of Christ abound in us: so also by Christ doth our comfort abound.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1492944" class="outline-3">
+<h3 id="org1492944"><span class="section-number-3">1.6</span> II Corinthians 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Now whether we be in tribulation, it is for your exhortation and salvation: or whether we be comforted, it is for your consolation: or whether we be exhorted, it is for your exhortation and salvation, which worketh the enduring of the same sufferings which we also suffer.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbbef8cd" class="outline-3">
+<h3 id="orgbbef8cd"><span class="section-number-3">1.7</span> II Corinthians 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+That our hope for you may be steadfast: knowing that as you are partakers of the sufferings, so shall you be also of the consolation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd1a5775" class="outline-3">
+<h3 id="orgd1a5775"><span class="section-number-3">1.8</span> II Corinthians 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+For we would not have you ignorant, brethren, of our tribulation which came to us in Asia: that we were pressed out of measure above our strength, so that we were weary even of life.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbf5c4ae" class="outline-3">
+<h3 id="orgbf5c4ae"><span class="section-number-3">1.9</span> II Corinthians 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+But we had in ourselves the answer of death, that we should not trust in ourselves, but in God who raiseth the dead.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcf0fd61" class="outline-3">
+<h3 id="orgcf0fd61"><span class="section-number-3">1.10</span> II Corinthians 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+Who hath delivered and doth deliver us out of so great dangers: in whom we trust that he will yet also deliver us,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7cd1405" class="outline-3">
+<h3 id="org7cd1405"><span class="section-number-3">1.11</span> II Corinthians 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+You helping withal in prayer for us. That for this gift obtained for us, by the means of many persons, thanks may be given by many in our behalf.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org063bfb6" class="outline-3">
+<h3 id="org063bfb6"><span class="section-number-3">1.12</span> II Corinthians 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+For our glory is this: the testimony of our conscience, that in simplicity of heart and sincerity of God, and not in carnal wisdom, but in the grace of God, we have conversed in this world: and more abundantly towards you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga88e5b5" class="outline-3">
+<h3 id="orga88e5b5"><span class="section-number-3">1.13</span> II Corinthians 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+For we write no other things to you than what you have read and known. And I hope that you shall know unto the end.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge6003f9" class="outline-3">
+<h3 id="orge6003f9"><span class="section-number-3">1.14</span> II Corinthians 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+As also you have known us in part, that we are your glory: as you also are ours, in the day of our Lord Jesus Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org87e6f24" class="outline-3">
+<h3 id="org87e6f24"><span class="section-number-3">1.15</span> II Corinthians 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+And in this confidence I had a mind to come to you before, that you might have a second grace:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3c2ee44" class="outline-3">
+<h3 id="org3c2ee44"><span class="section-number-3">1.16</span> II Corinthians 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+And to pass by you into Macedonia: and again from Macedonia to come to you, and by you to be brought on my way towards Judea.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6a0672c" class="outline-3">
+<h3 id="org6a0672c"><span class="section-number-3">1.17</span> II Corinthians 1:17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+Whereas then I was thus minded, did I use lightness? Or, the things that I purpose, do I purpose according to the flesh, that there should be with me, It is, and It is not?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2e924e9" class="outline-3">
+<h3 id="org2e924e9"><span class="section-number-3">1.18</span> II Corinthians 1:18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+But God is faithful: for our preaching which was to you, was not, It is, and It is not.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf617263" class="outline-3">
+<h3 id="orgf617263"><span class="section-number-3">1.19</span> II Corinthians 1:19</h3>
+<div class="outline-text-3" id="text-1-19">
+<p>
+For the Son of God, Jesus Christ, who was preached among you by us, by me and Sylvanus and Timothy, was not: It is and It is not. But, It is, was in him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge5e212d" class="outline-3">
+<h3 id="orge5e212d"><span class="section-number-3">1.20</span> II Corinthians 1:20</h3>
+<div class="outline-text-3" id="text-1-20">
+<p>
+For all the promises of God are in him, It is. Therefore also by him, amen to God, unto our glory.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4ffaa56" class="outline-3">
+<h3 id="org4ffaa56"><span class="section-number-3">1.21</span> II Corinthians 1:21</h3>
+<div class="outline-text-3" id="text-1-21">
+<p>
+Now he that confirmeth us with you in Christ and that hath anointed us, is God:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org289413b" class="outline-3">
+<h3 id="org289413b"><span class="section-number-3">1.22</span> II Corinthians 1:22</h3>
+<div class="outline-text-3" id="text-1-22">
+<p>
+Who also hath sealed us and given the pledge of the Spirit in our hearts.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7e0f395" class="outline-3">
+<h3 id="org7e0f395"><span class="section-number-3">1.23</span> II Corinthians 1:23</h3>
+<div class="outline-text-3" id="text-1-23">
+<p>
+But I call God to witness upon my soul that to spare you, I came not any more to Corinth: not because we exercise dominion over your faith: but we are helpers of your joy. For in faith you stand. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc934394" class="outline-3">
+<h3 id="orgc934394"><span class="section-number-3">1.24</span> II Corinthians 1:24</h3>
+<div class="outline-text-3" id="text-1-24">
+<p>
+nil
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org455747e" class="outline-2">
+<h2 id="org455747e"><span class="section-number-2">2</span> II Corinthians 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org4f10ff9" class="outline-3">
+<h3 id="org4f10ff9"><span class="section-number-3">2.1</span> II Corinthians 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+But I determined this with myself, to come to you again in sorrow.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcfb7e36" class="outline-3">
+<h3 id="orgcfb7e36"><span class="section-number-3">2.2</span> II Corinthians 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+For if I make you sorrowful, who is he then that can make me glad, but the same who is made sorrowful by me?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf4ba7fc" class="outline-3">
+<h3 id="orgf4ba7fc"><span class="section-number-3">2.3</span> II Corinthians 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+And I wrote this same to you: that I may not, when I come, have sorrow upon sorrow from them of whom I ought to rejoice: having confidence in you all, that my joy is the joy of you all.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc450340" class="outline-3">
+<h3 id="orgc450340"><span class="section-number-3">2.4</span> II Corinthians 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+For out of much affliction and anguish of heart, I wrote to you with many tears: not that you should be made sorrowful: but that you might know the charity I have more abundantly towards you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf78022e" class="outline-3">
+<h3 id="orgf78022e"><span class="section-number-3">2.5</span> II Corinthians 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+And if any one have caused grief, he hath not grieved me: but in part, that I may not burden you all.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc69b3af" class="outline-3">
+<h3 id="orgc69b3af"><span class="section-number-3">2.6</span> II Corinthians 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+To him who is such a one, this rebuke is sufficient, which is given by many.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgae4cec5" class="outline-3">
+<h3 id="orgae4cec5"><span class="section-number-3">2.7</span> II Corinthians 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+So that on the contrary, you should rather forgive him and comfort him, lest perhaps such a one be swallowed up with overmuch sorrow.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb7e1c8d" class="outline-3">
+<h3 id="orgb7e1c8d"><span class="section-number-3">2.8</span> II Corinthians 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+Wherefore, I beseech you that you would confirm your charity towards him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5623d93" class="outline-3">
+<h3 id="org5623d93"><span class="section-number-3">2.9</span> II Corinthians 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+For to this end also did I write, that I may know the experiment of you, whether you be obedient in all things.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3292755" class="outline-3">
+<h3 id="org3292755"><span class="section-number-3">2.10</span> II Corinthians 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+And to whom you have pardoned any thing, I also. For, what I have pardoned, if I have pardoned any thing, for your sakes have I done it in the person of Christ:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd19135d" class="outline-3">
+<h3 id="orgd19135d"><span class="section-number-3">2.11</span> II Corinthians 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+That we be not overreached by Satan. For we are not ignorant of his devices.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6632a8b" class="outline-3">
+<h3 id="org6632a8b"><span class="section-number-3">2.12</span> II Corinthians 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+And when I was come to Troas for the gospel of Christ and a door was opened unto me in the Lord,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org56a66d7" class="outline-3">
+<h3 id="org56a66d7"><span class="section-number-3">2.13</span> II Corinthians 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+I had no rest in my spirit, because I found not Titus my brother: but bidding them farewell, I went into Macedonia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org517a65d" class="outline-3">
+<h3 id="org517a65d"><span class="section-number-3">2.14</span> II Corinthians 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+Now thanks be to God, who always maketh us to triumph in Christ Jesus and manifesteth the odour of his knowledge by us in every place.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc539439" class="outline-3">
+<h3 id="orgc539439"><span class="section-number-3">2.15</span> II Corinthians 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+For we are the good odour of Christ unto God, in them that are saved and in them that perish.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org07031ce" class="outline-3">
+<h3 id="org07031ce"><span class="section-number-3">2.16</span> II Corinthians 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+To the one indeed the odour of death unto death: but to the others the odour of life unto life. And for these things who is so sufficient?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org986e429" class="outline-3">
+<h3 id="org986e429"><span class="section-number-3">2.17</span> II Corinthians 2:17</h3>
+<div class="outline-text-3" id="text-2-17">
+<p>
+For we are not as many, adulterating the word of God: but with sincerity: but as from God, before God, in Christ we speak. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org7d0f8af" class="outline-2">
+<h2 id="org7d0f8af"><span class="section-number-2">3</span> II Corinthians 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org1f6418a" class="outline-3">
+<h3 id="org1f6418a"><span class="section-number-3">3.1</span> II Corinthians 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+Do we begin again to commend ourselves? Or do we need (as some do) epistles of commendation to you, or from you?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2bc67cb" class="outline-3">
+<h3 id="org2bc67cb"><span class="section-number-3">3.2</span> II Corinthians 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+You are our epistle, written in our hearts, which is known and read by all men:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org460fdc5" class="outline-3">
+<h3 id="org460fdc5"><span class="section-number-3">3.3</span> II Corinthians 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+Being manifested, that you are the epistle of Christ, ministered by us, and written: not with ink but with the Spirit of the living God: not in tables of stone but in the fleshly tables of the heart.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6c97e8e" class="outline-3">
+<h3 id="org6c97e8e"><span class="section-number-3">3.4</span> II Corinthians 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+And such confidence we have, through Christ, towards God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf276656" class="outline-3">
+<h3 id="orgf276656"><span class="section-number-3">3.5</span> II Corinthians 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+Not that we are sufficient to think any thing of ourselves, as of ourselves: but our sufficiency is from God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1052325" class="outline-3">
+<h3 id="org1052325"><span class="section-number-3">3.6</span> II Corinthians 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+Who also hath made us fit ministers of the new testament, not in the letter but in the spirit. For the letter killeth: but the spirit quickeneth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge83c2c7" class="outline-3">
+<h3 id="orge83c2c7"><span class="section-number-3">3.7</span> II Corinthians 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+Now if the ministration of death, engraven with letters upon stones, was glorious (so that the children of Israel could not steadfastly behold the face of Moses, for the glory of his countenance), which is made void:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3efb3fd" class="outline-3">
+<h3 id="org3efb3fd"><span class="section-number-3">3.8</span> II Corinthians 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+How shall not the ministration of the spirit be rather in glory?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0e5d9bc" class="outline-3">
+<h3 id="org0e5d9bc"><span class="section-number-3">3.9</span> II Corinthians 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+For if the ministration of condemnation be glory, much more the ministration of justice aboundeth in glory.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge086541" class="outline-3">
+<h3 id="orge086541"><span class="section-number-3">3.10</span> II Corinthians 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+For even that which was glorious in this part was not glorified by reason of the glory that excelleth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc8b7028" class="outline-3">
+<h3 id="orgc8b7028"><span class="section-number-3">3.11</span> II Corinthians 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+For if that which is done away was glorious, much more that which remaineth is in glory.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc9a7f9a" class="outline-3">
+<h3 id="orgc9a7f9a"><span class="section-number-3">3.12</span> II Corinthians 3:12</h3>
+<div class="outline-text-3" id="text-3-12">
+<p>
+Having therefore such hope, we use much confidence.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org45199bd" class="outline-3">
+<h3 id="org45199bd"><span class="section-number-3">3.13</span> II Corinthians 3:13</h3>
+<div class="outline-text-3" id="text-3-13">
+<p>
+And not as Moses put a veil upon his face, that the children of Israel might not steadfastly look on the face of that which is made void.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org311a645" class="outline-3">
+<h3 id="org311a645"><span class="section-number-3">3.14</span> II Corinthians 3:14</h3>
+<div class="outline-text-3" id="text-3-14">
+<p>
+But their senses were made dull. For, until this present day, the selfsame veil, in the reading of the old testament, remaineth not taken away (because in Christ it is made void).
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf005c33" class="outline-3">
+<h3 id="orgf005c33"><span class="section-number-3">3.15</span> II Corinthians 3:15</h3>
+<div class="outline-text-3" id="text-3-15">
+<p>
+But even until this day, when Moses is read, the veil is upon their heart.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgca7de66" class="outline-3">
+<h3 id="orgca7de66"><span class="section-number-3">3.16</span> II Corinthians 3:16</h3>
+<div class="outline-text-3" id="text-3-16">
+<p>
+But when they shall be converted to the Lord, the veil shall be taken away.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge725f50" class="outline-3">
+<h3 id="orge725f50"><span class="section-number-3">3.17</span> II Corinthians 3:17</h3>
+<div class="outline-text-3" id="text-3-17">
+<p>
+Now the Lord is a Spirit. And where the Spirit of the Lord is, there is liberty.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3644b0e" class="outline-3">
+<h3 id="org3644b0e"><span class="section-number-3">3.18</span> II Corinthians 3:18</h3>
+<div class="outline-text-3" id="text-3-18">
+<p>
+But we all, beholding the glory of the Lord with open face, are transformed into the same image from glory to glory, as by the Spirit of the Lord. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgbd14bba" class="outline-2">
+<h2 id="orgbd14bba"><span class="section-number-2">4</span> II Corinthians 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org0346dff" class="outline-3">
+<h3 id="org0346dff"><span class="section-number-3">4.1</span> II Corinthians 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Therefore seeing we have this ministration, according as we have obtained mercy, we faint not.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0c06cb8" class="outline-3">
+<h3 id="org0c06cb8"><span class="section-number-3">4.2</span> II Corinthians 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+But we renounce the hidden things of dishonesty, not walking in craftiness nor adulterating the word of God: but by manifestation of the truth commending ourselves to every man&rsquo;s conscience, in the sight of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbd2d8ae" class="outline-3">
+<h3 id="orgbd2d8ae"><span class="section-number-3">4.3</span> II Corinthians 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+And if our gospel be also hid, it is hid to them that are lost,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org12bf3b3" class="outline-3">
+<h3 id="org12bf3b3"><span class="section-number-3">4.4</span> II Corinthians 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+In whom the god of this world hath blinded the minds of unbelievers, that the light of the gospel of the glory of Christ, who is the image of God, should not shine unto them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga4c9103" class="outline-3">
+<h3 id="orga4c9103"><span class="section-number-3">4.5</span> II Corinthians 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+For we preach not ourselves, but Jesus Christ our Lord: and ourselves your servants through Jesus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org44965e6" class="outline-3">
+<h3 id="org44965e6"><span class="section-number-3">4.6</span> II Corinthians 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God, in the face of Christ Jesus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd8ac09c" class="outline-3">
+<h3 id="orgd8ac09c"><span class="section-number-3">4.7</span> II Corinthians 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+But we have this treasure in earthen vessels, that the excellency may be of the power of God and not of us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf2a1bdb" class="outline-3">
+<h3 id="orgf2a1bdb"><span class="section-number-3">4.8</span> II Corinthians 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+In all things we suffer tribulation: but are not distressed. We are straitened: but are not destitute.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org99311a1" class="outline-3">
+<h3 id="org99311a1"><span class="section-number-3">4.9</span> II Corinthians 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+We suffer persecution: but are not forsaken. We are cast down: but we perish not.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org59a0995" class="outline-3">
+<h3 id="org59a0995"><span class="section-number-3">4.10</span> II Corinthians 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+Always bearing about in our body the mortification of Jesus, that the life also of Jesus may be made manifest in our bodies.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1c2633c" class="outline-3">
+<h3 id="org1c2633c"><span class="section-number-3">4.11</span> II Corinthians 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+For we who live are always delivered unto death for Jesus&rsquo; sake: that the life also of Jesus may be made manifest in our mortal flesh.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c17955" class="outline-3">
+<h3 id="org8c17955"><span class="section-number-3">4.12</span> II Corinthians 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+So then death worketh in us: but life in you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde03049" class="outline-3">
+<h3 id="orgde03049"><span class="section-number-3">4.13</span> II Corinthians 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+But having the same spirit of faith, as it is written: I believed, for which cause I have spoken; we also believe. For which cause we speak also:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org93a59d6" class="outline-3">
+<h3 id="org93a59d6"><span class="section-number-3">4.14</span> II Corinthians 4:14</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+Knowing that he who raised up Jesus will raise us up also with Jesus and place us with you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org08244d0" class="outline-3">
+<h3 id="org08244d0"><span class="section-number-3">4.15</span> II Corinthians 4:15</h3>
+<div class="outline-text-3" id="text-4-15">
+<p>
+For all things are for your sakes: that the grace, abounding through many, may abound in thanksgiving unto the glory of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b1c027" class="outline-3">
+<h3 id="org3b1c027"><span class="section-number-3">4.16</span> II Corinthians 4:16</h3>
+<div class="outline-text-3" id="text-4-16">
+<p>
+For which cause we faint not: but though our outward man is corrupted, yet the inward man is renewed day by day.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga99e06b" class="outline-3">
+<h3 id="orga99e06b"><span class="section-number-3">4.17</span> II Corinthians 4:17</h3>
+<div class="outline-text-3" id="text-4-17">
+<p>
+For that which is at present momentary and light of our tribulation worketh for us above measure, exceedingly an eternal weight of glory.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org069700b" class="outline-3">
+<h3 id="org069700b"><span class="section-number-3">4.18</span> II Corinthians 4:18</h3>
+<div class="outline-text-3" id="text-4-18">
+<p>
+While we look not at the things which are seen, but at the things which are not seen. For the things which are seen are temporal: but the things which are not seen, are eternal. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org977ffea" class="outline-2">
+<h2 id="org977ffea"><span class="section-number-2">5</span> II Corinthians 5</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org4c7e7cd" class="outline-3">
+<h3 id="org4c7e7cd"><span class="section-number-3">5.1</span> II Corinthians 5:1</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+For we know, if our earthly house of this habitation be dissolved, that we have a building of God, a house not made with hands, eternal in heaven.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgee83a13" class="outline-3">
+<h3 id="orgee83a13"><span class="section-number-3">5.2</span> II Corinthians 5:2</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+For in this also we groan, desiring to be clothed upon with our habitation that is from heaven.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd73c0fb" class="outline-3">
+<h3 id="orgd73c0fb"><span class="section-number-3">5.3</span> II Corinthians 5:3</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+Yet so that we be found clothed, not naked.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2cd8977" class="outline-3">
+<h3 id="org2cd8977"><span class="section-number-3">5.4</span> II Corinthians 5:4</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+For we also, who are in this tabernacle, do groan, being burthened; because we would not be unclothed, but clothed upon, that that which is mortal may be swallowed up by life.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf13a470" class="outline-3">
+<h3 id="orgf13a470"><span class="section-number-3">5.5</span> II Corinthians 5:5</h3>
+<div class="outline-text-3" id="text-5-5">
+<p>
+Now he that maketh us for this very thing is God, who hath given us the pledge of the Spirit,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org77c6474" class="outline-3">
+<h3 id="org77c6474"><span class="section-number-3">5.6</span> II Corinthians 5:6</h3>
+<div class="outline-text-3" id="text-5-6">
+<p>
+Therefore having always confidence, knowing that while we are in the body we are absent from the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdf91352" class="outline-3">
+<h3 id="orgdf91352"><span class="section-number-3">5.7</span> II Corinthians 5:7</h3>
+<div class="outline-text-3" id="text-5-7">
+<p>
+(For we walk by faith and not by sight.)
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb0c8bcf" class="outline-3">
+<h3 id="orgb0c8bcf"><span class="section-number-3">5.8</span> II Corinthians 5:8</h3>
+<div class="outline-text-3" id="text-5-8">
+<p>
+But we are confident and have a good will to be absent rather from the body and to be present with the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd5e9c43" class="outline-3">
+<h3 id="orgd5e9c43"><span class="section-number-3">5.9</span> II Corinthians 5:9</h3>
+<div class="outline-text-3" id="text-5-9">
+<p>
+And therefore we labour, whether absent or present, to please him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6a8feac" class="outline-3">
+<h3 id="org6a8feac"><span class="section-number-3">5.10</span> II Corinthians 5:10</h3>
+<div class="outline-text-3" id="text-5-10">
+<p>
+For we must all be manifested before the judgment seat of Christ, that every one may receive the proper things of the body, according as he hath done, whether it be good or evil.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0e8a7ea" class="outline-3">
+<h3 id="org0e8a7ea"><span class="section-number-3">5.11</span> II Corinthians 5:11</h3>
+<div class="outline-text-3" id="text-5-11">
+<p>
+Knowing therefore the fear of the Lord, we use persuasion to men: but to God we are manifest. And I trust also that in your consciences we are manifest.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9b75ac9" class="outline-3">
+<h3 id="org9b75ac9"><span class="section-number-3">5.12</span> II Corinthians 5:12</h3>
+<div class="outline-text-3" id="text-5-12">
+<p>
+We commend not ourselves again to you, but give you occasion to glory in our behalf: that you may have somewhat to answer them who glory in face, and not in heart.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1c0d9af" class="outline-3">
+<h3 id="org1c0d9af"><span class="section-number-3">5.13</span> II Corinthians 5:13</h3>
+<div class="outline-text-3" id="text-5-13">
+<p>
+For whether we be transported in mind, it is to God: or whether we be sober, it is for you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org74d02fd" class="outline-3">
+<h3 id="org74d02fd"><span class="section-number-3">5.14</span> II Corinthians 5:14</h3>
+<div class="outline-text-3" id="text-5-14">
+<p>
+For the charity of Christ presseth us: judging this, that if one died for all, then all were dead.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7d16738" class="outline-3">
+<h3 id="org7d16738"><span class="section-number-3">5.15</span> II Corinthians 5:15</h3>
+<div class="outline-text-3" id="text-5-15">
+<p>
+And Christ died for all: that they also who live may not now live to themselves, but unto him who died for them and rose again.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org08d39b3" class="outline-3">
+<h3 id="org08d39b3"><span class="section-number-3">5.16</span> II Corinthians 5:16</h3>
+<div class="outline-text-3" id="text-5-16">
+<p>
+Wherefore henceforth, we know no man according to the flesh. And if we have known Christ according to the flesh: but now we know him so no longer.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org39224da" class="outline-3">
+<h3 id="org39224da"><span class="section-number-3">5.17</span> II Corinthians 5:17</h3>
+<div class="outline-text-3" id="text-5-17">
+<p>
+If then any be in Christ a new creature, the old things are passed away. Behold all things are made new.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02a99b5" class="outline-3">
+<h3 id="org02a99b5"><span class="section-number-3">5.18</span> II Corinthians 5:18</h3>
+<div class="outline-text-3" id="text-5-18">
+<p>
+But all things are of God, who hath reconciled us to himself by Christ and hath given to us the ministry of reconciliation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeb464dc" class="outline-3">
+<h3 id="orgeb464dc"><span class="section-number-3">5.19</span> II Corinthians 5:19</h3>
+<div class="outline-text-3" id="text-5-19">
+<p>
+For God indeed was in Christ, reconciling the world to himself, not imputing to them their sins. And he hath placed in us the word of reconciliation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge3a8abb" class="outline-3">
+<h3 id="orge3a8abb"><span class="section-number-3">5.20</span> II Corinthians 5:20</h3>
+<div class="outline-text-3" id="text-5-20">
+<p>
+For Christ therefore we are ambassadors, God as it were exhorting by us, for Christ, we beseech you, be reconciled to God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc238d70" class="outline-3">
+<h3 id="orgc238d70"><span class="section-number-3">5.21</span> II Corinthians 5:21</h3>
+<div class="outline-text-3" id="text-5-21">
+<p>
+Him, who knew no sin, he hath made sin for us: that we might be made the justice of God in him. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org9349675" class="outline-2">
+<h2 id="org9349675"><span class="section-number-2">6</span> II Corinthians 6</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-orgbd02cc0" class="outline-3">
+<h3 id="orgbd02cc0"><span class="section-number-3">6.1</span> II Corinthians 6:1</h3>
+<div class="outline-text-3" id="text-6-1">
+<p>
+And we helping do exhort you that you receive not the grace of God in vain.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7cde181" class="outline-3">
+<h3 id="org7cde181"><span class="section-number-3">6.2</span> II Corinthians 6:2</h3>
+<div class="outline-text-3" id="text-6-2">
+<p>
+For he saith: In an accepted time have I heard thee and in the day of salvation have I helped thee. Behold, now is the acceptable time: behold, now is the day of salvation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga44173e" class="outline-3">
+<h3 id="orga44173e"><span class="section-number-3">6.3</span> II Corinthians 6:3</h3>
+<div class="outline-text-3" id="text-6-3">
+<p>
+Giving no offence to any man, that our ministry be not blamed.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgacd0db9" class="outline-3">
+<h3 id="orgacd0db9"><span class="section-number-3">6.4</span> II Corinthians 6:4</h3>
+<div class="outline-text-3" id="text-6-4">
+<p>
+But in all things let us exhibit ourselves as the ministers of God, in much patience, in tribulation, in necessities, in distresses,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgefc2baf" class="outline-3">
+<h3 id="orgefc2baf"><span class="section-number-3">6.5</span> II Corinthians 6:5</h3>
+<div class="outline-text-3" id="text-6-5">
+<p>
+In stripes, in prisons, in seditions, in labours, in watchings, in fastings,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd5e32bb" class="outline-3">
+<h3 id="orgd5e32bb"><span class="section-number-3">6.6</span> II Corinthians 6:6</h3>
+<div class="outline-text-3" id="text-6-6">
+<p>
+In chastity, in knowledge, in longsuffering, in sweetness, in the Holy Ghost, in charity unfeigned,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org26172f5" class="outline-3">
+<h3 id="org26172f5"><span class="section-number-3">6.7</span> II Corinthians 6:7</h3>
+<div class="outline-text-3" id="text-6-7">
+<p>
+In the word of truth, in the power of God: by the armour of justice on the right hand and on the left:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6c3ffa2" class="outline-3">
+<h3 id="org6c3ffa2"><span class="section-number-3">6.8</span> II Corinthians 6:8</h3>
+<div class="outline-text-3" id="text-6-8">
+<p>
+By honour and dishonour: by evil report and good report: as deceivers and yet true: as unknown and yet known:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf8d46fa" class="outline-3">
+<h3 id="orgf8d46fa"><span class="section-number-3">6.9</span> II Corinthians 6:9</h3>
+<div class="outline-text-3" id="text-6-9">
+<p>
+As dying and behold we live: as chastised and not killed:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9c37256" class="outline-3">
+<h3 id="org9c37256"><span class="section-number-3">6.10</span> II Corinthians 6:10</h3>
+<div class="outline-text-3" id="text-6-10">
+<p>
+As sorrowful, yet always rejoicing: as needy, yet enriching many: as having nothing and possessing all things.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc87a556" class="outline-3">
+<h3 id="orgc87a556"><span class="section-number-3">6.11</span> II Corinthians 6:11</h3>
+<div class="outline-text-3" id="text-6-11">
+<p>
+Our mouth is open to you, O ye Corinthians: our heart is enlarged.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5e85248" class="outline-3">
+<h3 id="org5e85248"><span class="section-number-3">6.12</span> II Corinthians 6:12</h3>
+<div class="outline-text-3" id="text-6-12">
+<p>
+You are not straitened in us: but in your own bowels you are straitened.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb4ca863" class="outline-3">
+<h3 id="orgb4ca863"><span class="section-number-3">6.13</span> II Corinthians 6:13</h3>
+<div class="outline-text-3" id="text-6-13">
+<p>
+But having the same recompense (I speak as to my children): be you also enlarged.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgefcc96d" class="outline-3">
+<h3 id="orgefcc96d"><span class="section-number-3">6.14</span> II Corinthians 6:14</h3>
+<div class="outline-text-3" id="text-6-14">
+<p>
+Bear not the yoke with unbelievers. For what participation hath justice with injustice? Or what fellowship hath light with darkness?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org320edba" class="outline-3">
+<h3 id="org320edba"><span class="section-number-3">6.15</span> II Corinthians 6:15</h3>
+<div class="outline-text-3" id="text-6-15">
+<p>
+And what concord hath Christ with Belial? Or what part hath the faithful with the unbeliever?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8329dbb" class="outline-3">
+<h3 id="org8329dbb"><span class="section-number-3">6.16</span> II Corinthians 6:16</h3>
+<div class="outline-text-3" id="text-6-16">
+<p>
+And what agreement hath the temple of God with idols? For you are the temple of the living God: as God saith: I will dwell in them and walk among them. And I will be their God: and they shall be my people.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org71f6a55" class="outline-3">
+<h3 id="org71f6a55"><span class="section-number-3">6.17</span> II Corinthians 6:17</h3>
+<div class="outline-text-3" id="text-6-17">
+<p>
+Wherefore: Go out from among them and be ye separate, saith the Lord, and touch not the unclean thing:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6de285a" class="outline-3">
+<h3 id="org6de285a"><span class="section-number-3">6.18</span> II Corinthians 6:18</h3>
+<div class="outline-text-3" id="text-6-18">
+<p>
+And I will receive you. And will be a Father to you: and you shall be my sons and daughters, saith the Lord Almighty. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org58740ec" class="outline-2">
+<h2 id="org58740ec"><span class="section-number-2">7</span> II Corinthians 7</h2>
+<div class="outline-text-2" id="text-7">
+</div>
+<div id="outline-container-org1ff12b3" class="outline-3">
+<h3 id="org1ff12b3"><span class="section-number-3">7.1</span> II Corinthians 7:1</h3>
+<div class="outline-text-3" id="text-7-1">
+<p>
+Having therefore these promises, dearly beloved, let us cleanse ourselves from all defilement of the flesh and of the spirit, perfecting sanctification in the fear of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3bb68b4" class="outline-3">
+<h3 id="org3bb68b4"><span class="section-number-3">7.2</span> II Corinthians 7:2</h3>
+<div class="outline-text-3" id="text-7-2">
+<p>
+Receive us. We have injured no man: we have corrupted no man: we have overreached no man.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge651286" class="outline-3">
+<h3 id="orge651286"><span class="section-number-3">7.3</span> II Corinthians 7:3</h3>
+<div class="outline-text-3" id="text-7-3">
+<p>
+I speak not this to your condemnation. For we have said before that you are in our hearts: to die together and to live together.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbb25fb0" class="outline-3">
+<h3 id="orgbb25fb0"><span class="section-number-3">7.4</span> II Corinthians 7:4</h3>
+<div class="outline-text-3" id="text-7-4">
+<p>
+Great is my confidence for you: great is my glorying for you. I am filled with comfort: I exceedingly abound with joy in all our tribulation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8cff61e" class="outline-3">
+<h3 id="org8cff61e"><span class="section-number-3">7.5</span> II Corinthians 7:5</h3>
+<div class="outline-text-3" id="text-7-5">
+<p>
+For also, when we were come into Macedonia, our flesh had no rest: but we suffered all tribulation. Combats without: fears within.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9a51814" class="outline-3">
+<h3 id="org9a51814"><span class="section-number-3">7.6</span> II Corinthians 7:6</h3>
+<div class="outline-text-3" id="text-7-6">
+<p>
+But God, who comforteth the humble, comforted us by the coming of Titus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0dea4fc" class="outline-3">
+<h3 id="org0dea4fc"><span class="section-number-3">7.7</span> II Corinthians 7:7</h3>
+<div class="outline-text-3" id="text-7-7">
+<p>
+And not by his coming only, but also by the consolation wherewith he was comforted in you, relating to us your desire, your mourning, your zeal for me: so that I rejoiced the more.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7d3c2c7" class="outline-3">
+<h3 id="org7d3c2c7"><span class="section-number-3">7.8</span> II Corinthians 7:8</h3>
+<div class="outline-text-3" id="text-7-8">
+<p>
+For although I made you sorrowful by my epistle, I do not repent. And if I did repent, seeing that the same epistle (although but for a time) did make you sorrowful,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdb3cd66" class="outline-3">
+<h3 id="orgdb3cd66"><span class="section-number-3">7.9</span> II Corinthians 7:9</h3>
+<div class="outline-text-3" id="text-7-9">
+<p>
+Now I am glad: not because you were made sorrowful, but because you were made sorrowful unto penance. For you were made sorrowful according to God, that you might suffer damage by us in nothing.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org215d129" class="outline-3">
+<h3 id="org215d129"><span class="section-number-3">7.10</span> II Corinthians 7:10</h3>
+<div class="outline-text-3" id="text-7-10">
+<p>
+For the sorrow that is according to God worketh penance, steadfast unto salvation: but the sorrow of the world worketh death.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf243958" class="outline-3">
+<h3 id="orgf243958"><span class="section-number-3">7.11</span> II Corinthians 7:11</h3>
+<div class="outline-text-3" id="text-7-11">
+<p>
+For behold this selfsame thing, that you were made sorrowful according to God, how great carefulness it worketh in you: yea defence, yea indignation, yea fear, yea desire, yea zeal, yea revenge. In all things you have shewed yourselves to be undefiled in the matter.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8019a71" class="outline-3">
+<h3 id="org8019a71"><span class="section-number-3">7.12</span> II Corinthians 7:12</h3>
+<div class="outline-text-3" id="text-7-12">
+<p>
+Wherefore although I wrote to you, it was not for his sake that did the wrong, nor for him that suffered it: but to manifest our carefulness that we have for you
+</p>
+</div>
+</div>
+
+<div id="outline-container-org907e3c6" class="outline-3">
+<h3 id="org907e3c6"><span class="section-number-3">7.13</span> II Corinthians 7:13</h3>
+<div class="outline-text-3" id="text-7-13">
+<p>
+Before God: therefore we were comforted. But in our consolation we did the more abundantly rejoice for the joy of Titus, because his spirit was refreshed by you all.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org48c424f" class="outline-3">
+<h3 id="org48c424f"><span class="section-number-3">7.14</span> II Corinthians 7:14</h3>
+<div class="outline-text-3" id="text-7-14">
+<p>
+And if I have boasted any thing to him of you, I have not been put to shame: but as we have spoken all things to you in truth, so also our boasting that was made to Titus is found a truth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8527869" class="outline-3">
+<h3 id="org8527869"><span class="section-number-3">7.15</span> II Corinthians 7:15</h3>
+<div class="outline-text-3" id="text-7-15">
+<p>
+And his bowels are more abundantly towards you: remembering the obedience of you all, how with fear and trembling you received him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org576723b" class="outline-3">
+<h3 id="org576723b"><span class="section-number-3">7.16</span> II Corinthians 7:16</h3>
+<div class="outline-text-3" id="text-7-16">
+<p>
+I rejoice that in all things I have confidence in you. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org70cdde1" class="outline-2">
+<h2 id="org70cdde1"><span class="section-number-2">8</span> II Corinthians 8</h2>
+<div class="outline-text-2" id="text-8">
+</div>
+<div id="outline-container-orgefe8a1d" class="outline-3">
+<h3 id="orgefe8a1d"><span class="section-number-3">8.1</span> II Corinthians 8:1</h3>
+<div class="outline-text-3" id="text-8-1">
+<p>
+Now we make known unto you, brethren, the grace of God that hath been given in the churches of Macedonia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3591f5e" class="outline-3">
+<h3 id="org3591f5e"><span class="section-number-3">8.2</span> II Corinthians 8:2</h3>
+<div class="outline-text-3" id="text-8-2">
+<p>
+That in much experience of tribulation, they have had abundance of joy and their very deep poverty hath abounded unto the riches of their simplicity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org508cfb7" class="outline-3">
+<h3 id="org508cfb7"><span class="section-number-3">8.3</span> II Corinthians 8:3</h3>
+<div class="outline-text-3" id="text-8-3">
+<p>
+For according to their power (I bear them witness) and beyond their power, they were willing:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7d5f97d" class="outline-3">
+<h3 id="org7d5f97d"><span class="section-number-3">8.4</span> II Corinthians 8:4</h3>
+<div class="outline-text-3" id="text-8-4">
+<p>
+With much entreaty begging of us the grace and communication of the ministry that is done toward the saints.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge9337cb" class="outline-3">
+<h3 id="orge9337cb"><span class="section-number-3">8.5</span> II Corinthians 8:5</h3>
+<div class="outline-text-3" id="text-8-5">
+<p>
+And not as we hoped: but they gave their own selves, first to the Lord, then to us by the will of God;
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2cbc54b" class="outline-3">
+<h3 id="org2cbc54b"><span class="section-number-3">8.6</span> II Corinthians 8:6</h3>
+<div class="outline-text-3" id="text-8-6">
+<p>
+Insomuch, that we desired Titus, that, as he had begun, so also he would finish among you this same grace.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfcfa22d" class="outline-3">
+<h3 id="orgfcfa22d"><span class="section-number-3">8.7</span> II Corinthians 8:7</h3>
+<div class="outline-text-3" id="text-8-7">
+<p>
+That as in all things you abound in faith and word and knowledge and all carefulness, moreover also in your charity towards us: so in this grace also you may abound.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1fb4977" class="outline-3">
+<h3 id="org1fb4977"><span class="section-number-3">8.8</span> II Corinthians 8:8</h3>
+<div class="outline-text-3" id="text-8-8">
+<p>
+I speak not as commanding: but by the carefulness of others, approving also the good disposition of your charity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge5a94f5" class="outline-3">
+<h3 id="orge5a94f5"><span class="section-number-3">8.9</span> II Corinthians 8:9</h3>
+<div class="outline-text-3" id="text-8-9">
+<p>
+For you know the grace of our Lord Jesus Christ, that being rich he became poor for your sakes: that through his poverty you might be rich.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga81bcb5" class="outline-3">
+<h3 id="orga81bcb5"><span class="section-number-3">8.10</span> II Corinthians 8:10</h3>
+<div class="outline-text-3" id="text-8-10">
+<p>
+And herein I give my advice: for this is profitable for you who have begun not only to do but also to be willing, a year ago.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1475a11" class="outline-3">
+<h3 id="org1475a11"><span class="section-number-3">8.11</span> II Corinthians 8:11</h3>
+<div class="outline-text-3" id="text-8-11">
+<p>
+Now therefore perform ye it also in deed: that as your mind is forward to be willing, so it may be also to perform, out of that which you have.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3310901" class="outline-3">
+<h3 id="org3310901"><span class="section-number-3">8.12</span> II Corinthians 8:12</h3>
+<div class="outline-text-3" id="text-8-12">
+<p>
+For if the will be forward, it is accepted according to that which a man hath: not according to that which he hath not.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org14fc8b4" class="outline-3">
+<h3 id="org14fc8b4"><span class="section-number-3">8.13</span> II Corinthians 8:13</h3>
+<div class="outline-text-3" id="text-8-13">
+<p>
+For I mean not that others should be eased and you burdened, but by an equality.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org104c16e" class="outline-3">
+<h3 id="org104c16e"><span class="section-number-3">8.14</span> II Corinthians 8:14</h3>
+<div class="outline-text-3" id="text-8-14">
+<p>
+In this present time let your abundance supply their want, that their abundance also may supply your want: that there may be an equality,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf6da7ce" class="outline-3">
+<h3 id="orgf6da7ce"><span class="section-number-3">8.15</span> II Corinthians 8:15</h3>
+<div class="outline-text-3" id="text-8-15">
+<p>
+As it is written: He that had much had nothing over; and he that had little had no want.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge175f71" class="outline-3">
+<h3 id="orge175f71"><span class="section-number-3">8.16</span> II Corinthians 8:16</h3>
+<div class="outline-text-3" id="text-8-16">
+<p>
+And thanks be to God, who hath given the same carefulness for you in the heart of Titus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgebd5232" class="outline-3">
+<h3 id="orgebd5232"><span class="section-number-3">8.17</span> II Corinthians 8:17</h3>
+<div class="outline-text-3" id="text-8-17">
+<p>
+For indeed he accepted the exhortation: but, being more careful, of his own will he went unto you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgab4dc5d" class="outline-3">
+<h3 id="orgab4dc5d"><span class="section-number-3">8.18</span> II Corinthians 8:18</h3>
+<div class="outline-text-3" id="text-8-18">
+<p>
+We have sent also with him the brother whose praise is in the gospel through all the churches.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdd1a36b" class="outline-3">
+<h3 id="orgdd1a36b"><span class="section-number-3">8.19</span> II Corinthians 8:19</h3>
+<div class="outline-text-3" id="text-8-19">
+<p>
+And not that only: but he was also ordained by the churches companion of our travels, for this grace, which is administered by us, to the glory of the Lord and our determined will:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org871d4c4" class="outline-3">
+<h3 id="org871d4c4"><span class="section-number-3">8.20</span> II Corinthians 8:20</h3>
+<div class="outline-text-3" id="text-8-20">
+<p>
+Avoiding this, lest any man should blame us in this abundance which is administered by us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org441b91d" class="outline-3">
+<h3 id="org441b91d"><span class="section-number-3">8.21</span> II Corinthians 8:21</h3>
+<div class="outline-text-3" id="text-8-21">
+<p>
+For we forecast what may be good, not only before God but also before men.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb8f4e95" class="outline-3">
+<h3 id="orgb8f4e95"><span class="section-number-3">8.22</span> II Corinthians 8:22</h3>
+<div class="outline-text-3" id="text-8-22">
+<p>
+And we have sent with them our brother also, whom we have often proved diligent in many things, but now much more diligent: with much confidence in you,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org35212d1" class="outline-3">
+<h3 id="org35212d1"><span class="section-number-3">8.23</span> II Corinthians 8:23</h3>
+<div class="outline-text-3" id="text-8-23">
+<p>
+Either for Titus, who is my companion and fellow labourer towards you, or our brethren, the apostles of the churches, the glory of Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7629a14" class="outline-3">
+<h3 id="org7629a14"><span class="section-number-3">8.24</span> II Corinthians 8:24</h3>
+<div class="outline-text-3" id="text-8-24">
+<p>
+Wherefore shew ye to them, in the sight of the churches, the evidence of your charity and of our boasting on your behalf. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgb3372fc" class="outline-2">
+<h2 id="orgb3372fc"><span class="section-number-2">9</span> II Corinthians 9</h2>
+<div class="outline-text-2" id="text-9">
+</div>
+<div id="outline-container-org3fdd367" class="outline-3">
+<h3 id="org3fdd367"><span class="section-number-3">9.1</span> II Corinthians 9:1</h3>
+<div class="outline-text-3" id="text-9-1">
+<p>
+For concerning the ministry that is done towards the saints, it is superfluous for me to write unto you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb6cafa7" class="outline-3">
+<h3 id="orgb6cafa7"><span class="section-number-3">9.2</span> II Corinthians 9:2</h3>
+<div class="outline-text-3" id="text-9-2">
+<p>
+For I know your forward mind: for which I boast of you to the Macedonians, that Achaia also is ready from the year past. And your emulation hath provoked very many.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge0e9084" class="outline-3">
+<h3 id="orge0e9084"><span class="section-number-3">9.3</span> II Corinthians 9:3</h3>
+<div class="outline-text-3" id="text-9-3">
+<p>
+Now I have sent the brethren, that the thing which we boast of concerning you be not made void in this behalf, that (as I have said) you may be ready:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org03f1f0d" class="outline-3">
+<h3 id="org03f1f0d"><span class="section-number-3">9.4</span> II Corinthians 9:4</h3>
+<div class="outline-text-3" id="text-9-4">
+<p>
+Lest, when the Macedonians shall come with me and find you unprepared, we (not to say ye) should be ashamed in this matter.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb6626f7" class="outline-3">
+<h3 id="orgb6626f7"><span class="section-number-3">9.5</span> II Corinthians 9:5</h3>
+<div class="outline-text-3" id="text-9-5">
+<p>
+Therefore I thought it necessary to desire the brethren that they would go to you before and prepare this blessing before promised, to be ready, so as a blessing, not as covetousness.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5b7d176" class="outline-3">
+<h3 id="org5b7d176"><span class="section-number-3">9.6</span> II Corinthians 9:6</h3>
+<div class="outline-text-3" id="text-9-6">
+<p>
+Now this I say: He who soweth sparingly shall also reap sparingly: and he who soweth in blessings shall also reap blessings.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf16e5af" class="outline-3">
+<h3 id="orgf16e5af"><span class="section-number-3">9.7</span> II Corinthians 9:7</h3>
+<div class="outline-text-3" id="text-9-7">
+<p>
+Every one as he hath determined in his heart, not with sadness or of necessity: for God loveth a cheerful giver.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf859983" class="outline-3">
+<h3 id="orgf859983"><span class="section-number-3">9.8</span> II Corinthians 9:8</h3>
+<div class="outline-text-3" id="text-9-8">
+<p>
+And God is able to make all grace abound in you: that ye always, having all sufficiently in all things, may abound to every good work,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd65ae40" class="outline-3">
+<h3 id="orgd65ae40"><span class="section-number-3">9.9</span> II Corinthians 9:9</h3>
+<div class="outline-text-3" id="text-9-9">
+<p>
+As it is written: He hath dispersed abroad, he hath given to the poor: his justice remaineth for ever.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd2eb3e2" class="outline-3">
+<h3 id="orgd2eb3e2"><span class="section-number-3">9.10</span> II Corinthians 9:10</h3>
+<div class="outline-text-3" id="text-9-10">
+<p>
+And he that ministereth seed to the sower will both give you bread to eat and will multiply your seed and increase the growth of the fruits of your justice:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org09c51af" class="outline-3">
+<h3 id="org09c51af"><span class="section-number-3">9.11</span> II Corinthians 9:11</h3>
+<div class="outline-text-3" id="text-9-11">
+<p>
+That being enriched in all things, you may abound unto all simplicity which worketh through us thanksgiving to God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9791413" class="outline-3">
+<h3 id="org9791413"><span class="section-number-3">9.12</span> II Corinthians 9:12</h3>
+<div class="outline-text-3" id="text-9-12">
+<p>
+Because the administration of this office doth not only supply the want of the saints, but aboundeth also by many thanksgivings in the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgad363df" class="outline-3">
+<h3 id="orgad363df"><span class="section-number-3">9.13</span> II Corinthians 9:13</h3>
+<div class="outline-text-3" id="text-9-13">
+<p>
+By the proof of this ministry, glorifying God for the obedience of your confession unto the gospel of Christ and for the simplicity of your communicating unto them and unto all.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4fc82a8" class="outline-3">
+<h3 id="org4fc82a8"><span class="section-number-3">9.14</span> II Corinthians 9:14</h3>
+<div class="outline-text-3" id="text-9-14">
+<p>
+And in their praying for you, being desirous of you, because of the excellent grace of God in you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4e4a6ac" class="outline-3">
+<h3 id="org4e4a6ac"><span class="section-number-3">9.15</span> II Corinthians 9:15</h3>
+<div class="outline-text-3" id="text-9-15">
+<p>
+Thanks be to God for his unspeakable gift. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org0fe0bf3" class="outline-2">
+<h2 id="org0fe0bf3"><span class="section-number-2">10</span> II Corinthians 10</h2>
+<div class="outline-text-2" id="text-10">
+</div>
+<div id="outline-container-org222474a" class="outline-3">
+<h3 id="org222474a"><span class="section-number-3">10.1</span> II Corinthians 10:1</h3>
+<div class="outline-text-3" id="text-10-1">
+<p>
+Now I Paul, myself beseech you, by the mildness and modesty of Christ: who in presence indeed am lowly among you, but being absent am bold toward you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc4003b3" class="outline-3">
+<h3 id="orgc4003b3"><span class="section-number-3">10.2</span> II Corinthians 10:2</h3>
+<div class="outline-text-3" id="text-10-2">
+<p>
+But I beseech you, that I may not be bold when I am present with that confidence wherewith I am thought to be bold, against some who reckon us as if we walked according to the flesh.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb94b124" class="outline-3">
+<h3 id="orgb94b124"><span class="section-number-3">10.3</span> II Corinthians 10:3</h3>
+<div class="outline-text-3" id="text-10-3">
+<p>
+For though we walk in the flesh, we do not war according to the flesh.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75ba7f5" class="outline-3">
+<h3 id="org75ba7f5"><span class="section-number-3">10.4</span> II Corinthians 10:4</h3>
+<div class="outline-text-3" id="text-10-4">
+<p>
+For the weapons of our warfare are not carnal but mighty to God, unto the pulling down of fortifications, destroying counsels,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org27eba66" class="outline-3">
+<h3 id="org27eba66"><span class="section-number-3">10.5</span> II Corinthians 10:5</h3>
+<div class="outline-text-3" id="text-10-5">
+<p>
+And every height that exalteth itself against the knowledge of God: and bringing into captivity every understanding unto the obedience of Christ:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org42f06da" class="outline-3">
+<h3 id="org42f06da"><span class="section-number-3">10.6</span> II Corinthians 10:6</h3>
+<div class="outline-text-3" id="text-10-6">
+<p>
+And having in readiness to revenge all disobedience, when your obedience shall be fulfilled.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org001f2ab" class="outline-3">
+<h3 id="org001f2ab"><span class="section-number-3">10.7</span> II Corinthians 10:7</h3>
+<div class="outline-text-3" id="text-10-7">
+<p>
+See the things that are according to outward appearance. If any man trust to himself, that he is Christ&rsquo;s let him think this again with himself, that as he is Christ&rsquo;s, so are we also.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org695b4b5" class="outline-3">
+<h3 id="org695b4b5"><span class="section-number-3">10.8</span> II Corinthians 10:8</h3>
+<div class="outline-text-3" id="text-10-8">
+<p>
+For if also I should boast somewhat more of our power, which the Lord hath given us unto edification and not for your destruction, I should not be ashamed.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd5895af" class="outline-3">
+<h3 id="orgd5895af"><span class="section-number-3">10.9</span> II Corinthians 10:9</h3>
+<div class="outline-text-3" id="text-10-9">
+<p>
+But that I may not be thought as it were to terrify you by epistles,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge1b2aef" class="outline-3">
+<h3 id="orge1b2aef"><span class="section-number-3">10.10</span> II Corinthians 10:10</h3>
+<div class="outline-text-3" id="text-10-10">
+<p>
+(For his epistles indeed, say they, are weighty and strong; but his bodily presence is weak and his speech contemptible):
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfa17174" class="outline-3">
+<h3 id="orgfa17174"><span class="section-number-3">10.11</span> II Corinthians 10:11</h3>
+<div class="outline-text-3" id="text-10-11">
+<p>
+Let such a one think this, that such as we are in word by epistles when absent, such also we will be indeed when present.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd2ecb04" class="outline-3">
+<h3 id="orgd2ecb04"><span class="section-number-3">10.12</span> II Corinthians 10:12</h3>
+<div class="outline-text-3" id="text-10-12">
+<p>
+For we dare not match or compare ourselves with some that commend themselves: but we measure ourselves by ourselves and compare ourselves with ourselves.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org237750c" class="outline-3">
+<h3 id="org237750c"><span class="section-number-3">10.13</span> II Corinthians 10:13</h3>
+<div class="outline-text-3" id="text-10-13">
+<p>
+But we will not glory beyond our measure: but according to the measure of the rule which God hath measured to us, a measure to reach even unto you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb2d8634" class="outline-3">
+<h3 id="orgb2d8634"><span class="section-number-3">10.14</span> II Corinthians 10:14</h3>
+<div class="outline-text-3" id="text-10-14">
+<p>
+For we stretch not ourselves beyond our measure, as if we reached not unto you. For we are come as far as to you in the Gospel of Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0e80716" class="outline-3">
+<h3 id="org0e80716"><span class="section-number-3">10.15</span> II Corinthians 10:15</h3>
+<div class="outline-text-3" id="text-10-15">
+<p>
+Not glorying beyond measure in other men&rsquo;s labours: but having hope of your increasing faith, to be magnified in you according to our rule abundantly.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbeb3b99" class="outline-3">
+<h3 id="orgbeb3b99"><span class="section-number-3">10.16</span> II Corinthians 10:16</h3>
+<div class="outline-text-3" id="text-10-16">
+<p>
+Yea, unto those places that are beyond you to preach the gospel: not to glory in another man&rsquo;s rule, in those things that are made ready to our hand.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgca51d65" class="outline-3">
+<h3 id="orgca51d65"><span class="section-number-3">10.17</span> II Corinthians 10:17</h3>
+<div class="outline-text-3" id="text-10-17">
+<p>
+But he that glorieth, let him glory in the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3712836" class="outline-3">
+<h3 id="org3712836"><span class="section-number-3">10.18</span> II Corinthians 10:18</h3>
+<div class="outline-text-3" id="text-10-18">
+<p>
+For not he who commendeth himself is approved: but he, whom God commendeth. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgcfc5439" class="outline-2">
+<h2 id="orgcfc5439"><span class="section-number-2">11</span> II Corinthians 11</h2>
+<div class="outline-text-2" id="text-11">
+</div>
+<div id="outline-container-org824dbfa" class="outline-3">
+<h3 id="org824dbfa"><span class="section-number-3">11.1</span> II Corinthians 11:1</h3>
+<div class="outline-text-3" id="text-11-1">
+<p>
+Would to God you could bear with some little of my folly! But do bear with me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org270dbba" class="outline-3">
+<h3 id="org270dbba"><span class="section-number-3">11.2</span> II Corinthians 11:2</h3>
+<div class="outline-text-3" id="text-11-2">
+<p>
+For I am jealous of you with the jealousy of God. For I have espoused you to one husband, that I may present you as a chaste virgin to Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org046823a" class="outline-3">
+<h3 id="org046823a"><span class="section-number-3">11.3</span> II Corinthians 11:3</h3>
+<div class="outline-text-3" id="text-11-3">
+<p>
+But I fear lest, as the serpent seduced Eve by his subtilty, so your minds should be corrupted and fall from the simplicity that is in Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9adcf3e" class="outline-3">
+<h3 id="org9adcf3e"><span class="section-number-3">11.4</span> II Corinthians 11:4</h3>
+<div class="outline-text-3" id="text-11-4">
+<p>
+For if he that cometh preacheth another Christ, whom we have not preached; or if you receive another Spirit, whom you have not received; or another gospel, which you have not received: you might well bear with him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf537aac" class="outline-3">
+<h3 id="orgf537aac"><span class="section-number-3">11.5</span> II Corinthians 11:5</h3>
+<div class="outline-text-3" id="text-11-5">
+<p>
+For I suppose that I have done nothing less than the great apostles.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05e38bf" class="outline-3">
+<h3 id="org05e38bf"><span class="section-number-3">11.6</span> II Corinthians 11:6</h3>
+<div class="outline-text-3" id="text-11-6">
+<p>
+For although I be rude in speech, yet not in knowledge: but in all things we have been made manifest to you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1a89d8f" class="outline-3">
+<h3 id="org1a89d8f"><span class="section-number-3">11.7</span> II Corinthians 11:7</h3>
+<div class="outline-text-3" id="text-11-7">
+<p>
+Or did I commit a fault, humbling myself that you might be exalted, because I preached unto you the Gospel of God freely?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2dc4614" class="outline-3">
+<h3 id="org2dc4614"><span class="section-number-3">11.8</span> II Corinthians 11:8</h3>
+<div class="outline-text-3" id="text-11-8">
+<p>
+I have taken from other churches, receiving wages of them for your ministry.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5de1989" class="outline-3">
+<h3 id="org5de1989"><span class="section-number-3">11.9</span> II Corinthians 11:9</h3>
+<div class="outline-text-3" id="text-11-9">
+<p>
+And, when I was present with you and wanted, I was chargeable to no man: for that which was wanting to me, the brethren supplied who came from Macedonia. And in all things I have kept myself from being burthensome to you: and so I will keep myself.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5b79d15" class="outline-3">
+<h3 id="org5b79d15"><span class="section-number-3">11.10</span> II Corinthians 11:10</h3>
+<div class="outline-text-3" id="text-11-10">
+<p>
+The truth of Christ is in me, that this glorying shall not be broken off in me in the regions of Achaia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge560a99" class="outline-3">
+<h3 id="orge560a99"><span class="section-number-3">11.11</span> II Corinthians 11:11</h3>
+<div class="outline-text-3" id="text-11-11">
+<p>
+Wherefore? Because I love you not? God knoweth it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7bc1e5d" class="outline-3">
+<h3 id="org7bc1e5d"><span class="section-number-3">11.12</span> II Corinthians 11:12</h3>
+<div class="outline-text-3" id="text-11-12">
+<p>
+But what I do, that I will do: that I may cut off the occasion from them that desire occasion: that wherein they glory, they may be found even as we.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc01caab" class="outline-3">
+<h3 id="orgc01caab"><span class="section-number-3">11.13</span> II Corinthians 11:13</h3>
+<div class="outline-text-3" id="text-11-13">
+<p>
+For such false apostles are deceitful workmen, transforming themselves into the apostles of Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1e82ceb" class="outline-3">
+<h3 id="org1e82ceb"><span class="section-number-3">11.14</span> II Corinthians 11:14</h3>
+<div class="outline-text-3" id="text-11-14">
+<p>
+And no wonder: for Satan himself transformeth himself into an angel of light.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05e6156" class="outline-3">
+<h3 id="org05e6156"><span class="section-number-3">11.15</span> II Corinthians 11:15</h3>
+<div class="outline-text-3" id="text-11-15">
+<p>
+Therefore it is no great thing if his ministers be transformed as the ministers of justice, whose end shall be according to their works.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd1d282e" class="outline-3">
+<h3 id="orgd1d282e"><span class="section-number-3">11.16</span> II Corinthians 11:16</h3>
+<div class="outline-text-3" id="text-11-16">
+<p>
+I say again (Let no man think me to be foolish: otherwise take me as one foolish, that I also may glory a little):
+</p>
+</div>
+</div>
+
+<div id="outline-container-org26a846b" class="outline-3">
+<h3 id="org26a846b"><span class="section-number-3">11.17</span> II Corinthians 11:17</h3>
+<div class="outline-text-3" id="text-11-17">
+<p>
+That which I speak, I speak not according to God: but as it were in foolishness, in this matter of glorying.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org41ffd6d" class="outline-3">
+<h3 id="org41ffd6d"><span class="section-number-3">11.18</span> II Corinthians 11:18</h3>
+<div class="outline-text-3" id="text-11-18">
+<p>
+Seeing that many glory according to the flesh, I will glory also.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf156dfa" class="outline-3">
+<h3 id="orgf156dfa"><span class="section-number-3">11.19</span> II Corinthians 11:19</h3>
+<div class="outline-text-3" id="text-11-19">
+<p>
+For you gladly suffer the foolish: whereas yourselves are wise.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8ad1402" class="outline-3">
+<h3 id="org8ad1402"><span class="section-number-3">11.20</span> II Corinthians 11:20</h3>
+<div class="outline-text-3" id="text-11-20">
+<p>
+For you suffer if a man bring you into bondage, if a man devour you, if a man take from you, if a man be lifted up, if a man strike you on the face.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org21f2d1c" class="outline-3">
+<h3 id="org21f2d1c"><span class="section-number-3">11.21</span> II Corinthians 11:21</h3>
+<div class="outline-text-3" id="text-11-21">
+<p>
+I seek according to dishonour, as if we had been weak in this part. Wherein if any man dare (I speak foolishly), I dare also.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1b6ad78" class="outline-3">
+<h3 id="org1b6ad78"><span class="section-number-3">11.22</span> II Corinthians 11:22</h3>
+<div class="outline-text-3" id="text-11-22">
+<p>
+They are Hebrews: so am I. They are Israelites: so am I. They are the seed of Abraham: so am I.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7986e9b" class="outline-3">
+<h3 id="org7986e9b"><span class="section-number-3">11.23</span> II Corinthians 11:23</h3>
+<div class="outline-text-3" id="text-11-23">
+<p>
+They are the ministers of Christ (I speak as one less wise): I am more; in many more labours, in prisons more frequently, in stripes above measure, in deaths often.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbe75311" class="outline-3">
+<h3 id="orgbe75311"><span class="section-number-3">11.24</span> II Corinthians 11:24</h3>
+<div class="outline-text-3" id="text-11-24">
+<p>
+Of the Jews five times did I receive forty stripes save one.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org508065c" class="outline-3">
+<h3 id="org508065c"><span class="section-number-3">11.25</span> II Corinthians 11:25</h3>
+<div class="outline-text-3" id="text-11-25">
+<p>
+Thrice was I beaten with rods: once I was stoned: thrice I suffered shipwreck: a night and a day I was in the depth of the sea.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7302afc" class="outline-3">
+<h3 id="org7302afc"><span class="section-number-3">11.26</span> II Corinthians 11:26</h3>
+<div class="outline-text-3" id="text-11-26">
+<p>
+In journeying often, in perils of waters, in perils of robbers, in perils from my own nation, in perils from the Gentiles, in perils in the city, in perils in the wilderness, in perils in the sea, in perils from false brethren:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1ae521c" class="outline-3">
+<h3 id="org1ae521c"><span class="section-number-3">11.27</span> II Corinthians 11:27</h3>
+<div class="outline-text-3" id="text-11-27">
+<p>
+In labour and painfulness, in much watchings, in hunger and thirst, in fastings often, in cold and nakedness:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0cf3644" class="outline-3">
+<h3 id="org0cf3644"><span class="section-number-3">11.28</span> II Corinthians 11:28</h3>
+<div class="outline-text-3" id="text-11-28">
+<p>
+Besides those things which are without: my daily instance, the solicitude for all the churches.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org787edae" class="outline-3">
+<h3 id="org787edae"><span class="section-number-3">11.29</span> II Corinthians 11:29</h3>
+<div class="outline-text-3" id="text-11-29">
+<p>
+Who is weak, and I am not weak? Who is scandalized, and I am not on fire?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga68f53f" class="outline-3">
+<h3 id="orga68f53f"><span class="section-number-3">11.30</span> II Corinthians 11:30</h3>
+<div class="outline-text-3" id="text-11-30">
+<p>
+If I must needs glory, I will glory of the things that concern my infirmity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1c1c522" class="outline-3">
+<h3 id="org1c1c522"><span class="section-number-3">11.31</span> II Corinthians 11:31</h3>
+<div class="outline-text-3" id="text-11-31">
+<p>
+The God and Father of our Lord Jesus Christ, who is blessed for ever, knoweth that I lie not.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcddd705" class="outline-3">
+<h3 id="orgcddd705"><span class="section-number-3">11.32</span> II Corinthians 11:32</h3>
+<div class="outline-text-3" id="text-11-32">
+<p>
+At Damascus, the governor of the nation under Aretas the king, guarded the city of the Damascenes, to apprehend me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge9776db" class="outline-3">
+<h3 id="orge9776db"><span class="section-number-3">11.33</span> II Corinthians 11:33</h3>
+<div class="outline-text-3" id="text-11-33">
+<p>
+And through a window in a basket was I let down by the wall: and so escaped his hands. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgfb99146" class="outline-2">
+<h2 id="orgfb99146"><span class="section-number-2">12</span> II Corinthians 12</h2>
+<div class="outline-text-2" id="text-12">
+</div>
+<div id="outline-container-orge8fedfe" class="outline-3">
+<h3 id="orge8fedfe"><span class="section-number-3">12.1</span> II Corinthians 12:1</h3>
+<div class="outline-text-3" id="text-12-1">
+<p>
+If I must glory (it is not expedient indeed) but I will come to visions and revelations of the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd58d799" class="outline-3">
+<h3 id="orgd58d799"><span class="section-number-3">12.2</span> II Corinthians 12:2</h3>
+<div class="outline-text-3" id="text-12-2">
+<p>
+I know a man in Christ: above fourteen years ago (whether in the body, I know not, or out of the body, I know not: God knoweth), such a one caught up to the third heaven.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgff1c5a1" class="outline-3">
+<h3 id="orgff1c5a1"><span class="section-number-3">12.3</span> II Corinthians 12:3</h3>
+<div class="outline-text-3" id="text-12-3">
+<p>
+And I know such a man (whether in the body, or out of the body, I know not: God knoweth):
+</p>
+</div>
+</div>
+
+<div id="outline-container-org15cf6ea" class="outline-3">
+<h3 id="org15cf6ea"><span class="section-number-3">12.4</span> II Corinthians 12:4</h3>
+<div class="outline-text-3" id="text-12-4">
+<p>
+That he was caught up into paradise and heard secret words which it is not granted to man to utter.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb42ca45" class="outline-3">
+<h3 id="orgb42ca45"><span class="section-number-3">12.5</span> II Corinthians 12:5</h3>
+<div class="outline-text-3" id="text-12-5">
+<p>
+For such an one I will glory: but for myself I will glory nothing but in my infirmities.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8cab14f" class="outline-3">
+<h3 id="org8cab14f"><span class="section-number-3">12.6</span> II Corinthians 12:6</h3>
+<div class="outline-text-3" id="text-12-6">
+<p>
+For though I should have a mind to glory, I shall not be foolish: for I will say the truth. But I forbear, lest any man should think of me above that which he seeth in me, or any thing he heareth from me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8f5ccb4" class="outline-3">
+<h3 id="org8f5ccb4"><span class="section-number-3">12.7</span> II Corinthians 12:7</h3>
+<div class="outline-text-3" id="text-12-7">
+<p>
+And lest the greatness of the revelations should exalt me, there was given me a sting of my flesh, an angel of Satan, to buffet me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7a4c3cf" class="outline-3">
+<h3 id="org7a4c3cf"><span class="section-number-3">12.8</span> II Corinthians 12:8</h3>
+<div class="outline-text-3" id="text-12-8">
+<p>
+For which thing, thrice I besought the Lord that it might depart from me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc124fd1" class="outline-3">
+<h3 id="orgc124fd1"><span class="section-number-3">12.9</span> II Corinthians 12:9</h3>
+<div class="outline-text-3" id="text-12-9">
+<p>
+And he said to me: My grace is sufficient for thee: for power is made perfect in infirmity. Gladly therefore will I glory in my infirmities, that the power of Christ may dwell in me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4f91227" class="outline-3">
+<h3 id="org4f91227"><span class="section-number-3">12.10</span> II Corinthians 12:10</h3>
+<div class="outline-text-3" id="text-12-10">
+<p>
+For which cause I please myself in my infirmities, in reproaches, in necessities, in persecutions, in distresses, for Christ. For when I am weak, then am I powerful.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org79e0094" class="outline-3">
+<h3 id="org79e0094"><span class="section-number-3">12.11</span> II Corinthians 12:11</h3>
+<div class="outline-text-3" id="text-12-11">
+<p>
+I am become foolish. You have compelled me: for I ought to have been commended by you. For I have no way come short of them that are above measure apostles, although I be nothing.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f240df" class="outline-3">
+<h3 id="org7f240df"><span class="section-number-3">12.12</span> II Corinthians 12:12</h3>
+<div class="outline-text-3" id="text-12-12">
+<p>
+Yet the signs of my apostleship have been wrought on you, in all patience, in signs and wonders and mighty deeds.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd35dce4" class="outline-3">
+<h3 id="orgd35dce4"><span class="section-number-3">12.13</span> II Corinthians 12:13</h3>
+<div class="outline-text-3" id="text-12-13">
+<p>
+For what is there that you have had less than the other churches but that I myself was not burthensome to you? Pardon me this injury.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0ef3ae1" class="outline-3">
+<h3 id="org0ef3ae1"><span class="section-number-3">12.14</span> II Corinthians 12:14</h3>
+<div class="outline-text-3" id="text-12-14">
+<p>
+Behold now the third time I am ready to come to you and I will not be burthensome unto you. For I seek not the things that are yours, but you. For neither ought the children to lay up for the parents, but the parents for the children.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1dea7fb" class="outline-3">
+<h3 id="org1dea7fb"><span class="section-number-3">12.15</span> II Corinthians 12:15</h3>
+<div class="outline-text-3" id="text-12-15">
+<p>
+But I most gladly will spend and be spent myself for your souls: although loving you more, I be loved less.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9026559" class="outline-3">
+<h3 id="org9026559"><span class="section-number-3">12.16</span> II Corinthians 12:16</h3>
+<div class="outline-text-3" id="text-12-16">
+<p>
+But be it so: I did not burthen you: but being crafty, I caught you by guile.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org051fa30" class="outline-3">
+<h3 id="org051fa30"><span class="section-number-3">12.17</span> II Corinthians 12:17</h3>
+<div class="outline-text-3" id="text-12-17">
+<p>
+Did I overreach you by any of them whom I sent to you?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2592e5a" class="outline-3">
+<h3 id="org2592e5a"><span class="section-number-3">12.18</span> II Corinthians 12:18</h3>
+<div class="outline-text-3" id="text-12-18">
+<p>
+I desired Titus: and I sent with him a brother. Did Titus overreach you? Did we not walk with the same spirit? Did we not in the same steps?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc027707" class="outline-3">
+<h3 id="orgc027707"><span class="section-number-3">12.19</span> II Corinthians 12:19</h3>
+<div class="outline-text-3" id="text-12-19">
+<p>
+Of old, think you that we excuse ourselves to you? We speak before God in Christ: but all things, my dearly beloved, for your edification.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org298fd0e" class="outline-3">
+<h3 id="org298fd0e"><span class="section-number-3">12.20</span> II Corinthians 12:20</h3>
+<div class="outline-text-3" id="text-12-20">
+<p>
+For I fear lest perhaps, when I come, I shall not find you such as I would, and that I shall be found by you such as you would not. Lest perhaps contentions, envyings, animosities, dissensions, detractions, whisperings, swellings, seditions, be among you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgba16a0a" class="outline-3">
+<h3 id="orgba16a0a"><span class="section-number-3">12.21</span> II Corinthians 12:21</h3>
+<div class="outline-text-3" id="text-12-21">
+<p>
+Lest again, when I come, God humble me among you: and I mourn many of them that sinned before and have not done penance for the uncleanness and fornication and lasciviousness that they have committed. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgc552981" class="outline-2">
+<h2 id="orgc552981"><span class="section-number-2">13</span> II Corinthians 13</h2>
+<div class="outline-text-2" id="text-13">
+</div>
+<div id="outline-container-org7fc5a6d" class="outline-3">
+<h3 id="org7fc5a6d"><span class="section-number-3">13.1</span> II Corinthians 13:1</h3>
+<div class="outline-text-3" id="text-13-1">
+<p>
+Behold, this is the third time I am coming to you: In the mouth of two or three witnesses shall every word stand.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge3e1d43" class="outline-3">
+<h3 id="orge3e1d43"><span class="section-number-3">13.2</span> II Corinthians 13:2</h3>
+<div class="outline-text-3" id="text-13-2">
+<p>
+I have told before and foretell, as present and now absent, to them that sinned before and to all the rest, that if I come again, I will not spare.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org59c043e" class="outline-3">
+<h3 id="org59c043e"><span class="section-number-3">13.3</span> II Corinthians 13:3</h3>
+<div class="outline-text-3" id="text-13-3">
+<p>
+Do you seek a proof of Christ that speaketh in me, who towards you is not weak, but is mighty in you?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8aef469" class="outline-3">
+<h3 id="org8aef469"><span class="section-number-3">13.4</span> II Corinthians 13:4</h3>
+<div class="outline-text-3" id="text-13-4">
+<p>
+For although he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him: but we shall live with him by the power of God towards you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf28ab9a" class="outline-3">
+<h3 id="orgf28ab9a"><span class="section-number-3">13.5</span> II Corinthians 13:5</h3>
+<div class="outline-text-3" id="text-13-5">
+<p>
+Try your own selves if you be in the faith: prove ye yourselves. Know you not your own selves, that Christ Jesus is in you, unless perhaps you be reprobates?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3df483a" class="outline-3">
+<h3 id="org3df483a"><span class="section-number-3">13.6</span> II Corinthians 13:6</h3>
+<div class="outline-text-3" id="text-13-6">
+<p>
+But I trust that you shall know that we are not reprobates.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org383f87e" class="outline-3">
+<h3 id="org383f87e"><span class="section-number-3">13.7</span> II Corinthians 13:7</h3>
+<div class="outline-text-3" id="text-13-7">
+<p>
+Now we pray God that you may do no evil, not that we may appear approved, but that you may do that which is good and that we may be as reprobates.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org42e60ba" class="outline-3">
+<h3 id="org42e60ba"><span class="section-number-3">13.8</span> II Corinthians 13:8</h3>
+<div class="outline-text-3" id="text-13-8">
+<p>
+For we can do nothing against the truth: but for the truth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgefd39c4" class="outline-3">
+<h3 id="orgefd39c4"><span class="section-number-3">13.9</span> II Corinthians 13:9</h3>
+<div class="outline-text-3" id="text-13-9">
+<p>
+For we rejoice that we are weak and you are strong. This also we pray for, your perfection.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgebe6676" class="outline-3">
+<h3 id="orgebe6676"><span class="section-number-3">13.10</span> II Corinthians 13:10</h3>
+<div class="outline-text-3" id="text-13-10">
+<p>
+Therefore I write these things, being absent, that, being present, I may not deal more severely, according to the power which the Lord hath given me unto edification and not unto destruction.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf10cdc0" class="outline-3">
+<h3 id="orgf10cdc0"><span class="section-number-3">13.11</span> II Corinthians 13:11</h3>
+<div class="outline-text-3" id="text-13-11">
+<p>
+For the rest, brethren, rejoice, be perfect, take exhortation, be of one mind, have peace. And the God of grace and of love shall be with you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbaa70ca" class="outline-3">
+<h3 id="orgbaa70ca"><span class="section-number-3">13.12</span> II Corinthians 13:12</h3>
+<div class="outline-text-3" id="text-13-12">
+<p>
+Salute one another with a holy kiss. All the saints salute you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb440096" class="outline-3">
+<h3 id="orgb440096"><span class="section-number-3">13.13</span> II Corinthians 13:13</h3>
+<div class="outline-text-3" id="text-13-13">
+<p>
+The grace of our Lord Jesus Christ and the charity of God and the communication of the Holy Ghost be with you all. Amen.  
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:36</p>
+</div>
+</body>
+</html>

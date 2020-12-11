@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:37 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org28e367a">1. I Timothy 1</a>
+<ul>
+<li><a href="#org4cf753a">1.1. I Timothy 1:1</a></li>
+<li><a href="#orgfcb6a2f">1.2. I Timothy 1:2</a></li>
+<li><a href="#orgc660d9d">1.3. I Timothy 1:3</a></li>
+<li><a href="#org749ab15">1.4. I Timothy 1:4</a></li>
+<li><a href="#orgfce40c1">1.5. I Timothy 1:5</a></li>
+<li><a href="#org795c8ed">1.6. I Timothy 1:6</a></li>
+<li><a href="#orgeee3e81">1.7. I Timothy 1:7</a></li>
+<li><a href="#orgf8caf68">1.8. I Timothy 1:8</a></li>
+<li><a href="#orgbb1c8c4">1.9. I Timothy 1:9</a></li>
+<li><a href="#orgdc65ea7">1.10. I Timothy 1:10</a></li>
+<li><a href="#org0fbd041">1.11. I Timothy 1:11</a></li>
+<li><a href="#orgb7a932f">1.12. I Timothy 1:12</a></li>
+<li><a href="#org4699fcf">1.13. I Timothy 1:13</a></li>
+<li><a href="#org5b9b0f6">1.14. I Timothy 1:14</a></li>
+<li><a href="#orgae56f12">1.15. I Timothy 1:15</a></li>
+<li><a href="#org6e59489">1.16. I Timothy 1:16</a></li>
+<li><a href="#orge24315c">1.17. I Timothy 1:17</a></li>
+<li><a href="#orgd67ace3">1.18. I Timothy 1:18</a></li>
+<li><a href="#orgb3e4692">1.19. I Timothy 1:19</a></li>
+<li><a href="#org63d3ecd">1.20. I Timothy 1:20</a></li>
+</ul>
+</li>
+<li><a href="#org2eae8a2">2. I Timothy 2</a>
+<ul>
+<li><a href="#orgdd6f5fa">2.1. I Timothy 2:1</a></li>
+<li><a href="#orgc77854b">2.2. I Timothy 2:2</a></li>
+<li><a href="#org35bca56">2.3. I Timothy 2:3</a></li>
+<li><a href="#org4c3baa6">2.4. I Timothy 2:4</a></li>
+<li><a href="#org28cbc7b">2.5. I Timothy 2:5</a></li>
+<li><a href="#orgb007cd2">2.6. I Timothy 2:6</a></li>
+<li><a href="#orgde75633">2.7. I Timothy 2:7</a></li>
+<li><a href="#orge78c1e9">2.8. I Timothy 2:8</a></li>
+<li><a href="#org181b0f2">2.9. I Timothy 2:9</a></li>
+<li><a href="#org47b7525">2.10. I Timothy 2:10</a></li>
+<li><a href="#orgf7d797f">2.11. I Timothy 2:11</a></li>
+<li><a href="#org38134f6">2.12. I Timothy 2:12</a></li>
+<li><a href="#org485ba16">2.13. I Timothy 2:13</a></li>
+<li><a href="#orgbfbb482">2.14. I Timothy 2:14</a></li>
+<li><a href="#orgce36898">2.15. I Timothy 2:15</a></li>
+</ul>
+</li>
+<li><a href="#org181311e">3. I Timothy 3</a>
+<ul>
+<li><a href="#org5ee8650">3.1. I Timothy 3:1</a></li>
+<li><a href="#orgcc09a55">3.2. I Timothy 3:2</a></li>
+<li><a href="#orgfd92ab5">3.3. I Timothy 3:3</a></li>
+<li><a href="#org28fc037">3.4. I Timothy 3:4</a></li>
+<li><a href="#orgfefff4e">3.5. I Timothy 3:5</a></li>
+<li><a href="#orgdf83fed">3.6. I Timothy 3:6</a></li>
+<li><a href="#orgc20de82">3.7. I Timothy 3:7</a></li>
+<li><a href="#org9dcf7df">3.8. I Timothy 3:8</a></li>
+<li><a href="#orga06d334">3.9. I Timothy 3:9</a></li>
+<li><a href="#orgf02982a">3.10. I Timothy 3:10</a></li>
+<li><a href="#org7152eec">3.11. I Timothy 3:11</a></li>
+<li><a href="#orgb73cc39">3.12. I Timothy 3:12</a></li>
+<li><a href="#org3327762">3.13. I Timothy 3:13</a></li>
+<li><a href="#org02364e5">3.14. I Timothy 3:14</a></li>
+<li><a href="#orgefd0ac3">3.15. I Timothy 3:15</a></li>
+<li><a href="#org7823067">3.16. I Timothy 3:16</a></li>
+</ul>
+</li>
+<li><a href="#orge31f34a">4. I Timothy 4</a>
+<ul>
+<li><a href="#org975d5be">4.1. I Timothy 4:1</a></li>
+<li><a href="#orgec61d6b">4.2. I Timothy 4:2</a></li>
+<li><a href="#orgaf318f2">4.3. I Timothy 4:3</a></li>
+<li><a href="#orgf41807a">4.4. I Timothy 4:4</a></li>
+<li><a href="#org0beb5fe">4.5. I Timothy 4:5</a></li>
+<li><a href="#org86d10c2">4.6. I Timothy 4:6</a></li>
+<li><a href="#org001bbeb">4.7. I Timothy 4:7</a></li>
+<li><a href="#orgb7cdaf8">4.8. I Timothy 4:8</a></li>
+<li><a href="#orgafda8a8">4.9. I Timothy 4:9</a></li>
+<li><a href="#org785bf4d">4.10. I Timothy 4:10</a></li>
+<li><a href="#org1d63c76">4.11. I Timothy 4:11</a></li>
+<li><a href="#org1e1b44a">4.12. I Timothy 4:12</a></li>
+<li><a href="#org819378f">4.13. I Timothy 4:13</a></li>
+<li><a href="#org226b543">4.14. I Timothy 4:14</a></li>
+<li><a href="#org1952910">4.15. I Timothy 4:15</a></li>
+<li><a href="#org957faa7">4.16. I Timothy 4:16</a></li>
+</ul>
+</li>
+<li><a href="#org97d33a4">5. I Timothy 5</a>
+<ul>
+<li><a href="#org6974001">5.1. I Timothy 5:1</a></li>
+<li><a href="#orgee6b4fe">5.2. I Timothy 5:2</a></li>
+<li><a href="#orgd34f51b">5.3. I Timothy 5:3</a></li>
+<li><a href="#org4331edc">5.4. I Timothy 5:4</a></li>
+<li><a href="#org00ce4d9">5.5. I Timothy 5:5</a></li>
+<li><a href="#org0d80e9e">5.6. I Timothy 5:6</a></li>
+<li><a href="#org55bfe72">5.7. I Timothy 5:7</a></li>
+<li><a href="#org5407fbb">5.8. I Timothy 5:8</a></li>
+<li><a href="#orgcad2b82">5.9. I Timothy 5:9</a></li>
+<li><a href="#org154fa06">5.10. I Timothy 5:10</a></li>
+<li><a href="#org5877d0d">5.11. I Timothy 5:11</a></li>
+<li><a href="#org5ef4b4d">5.12. I Timothy 5:12</a></li>
+<li><a href="#org3a4c37f">5.13. I Timothy 5:13</a></li>
+<li><a href="#org04b25f2">5.14. I Timothy 5:14</a></li>
+<li><a href="#org79a2189">5.15. I Timothy 5:15</a></li>
+<li><a href="#orgd4de752">5.16. I Timothy 5:16</a></li>
+<li><a href="#orgdd8a594">5.17. I Timothy 5:17</a></li>
+<li><a href="#orgb3f21a1">5.18. I Timothy 5:18</a></li>
+<li><a href="#org33e2758">5.19. I Timothy 5:19</a></li>
+<li><a href="#org844e81f">5.20. I Timothy 5:20</a></li>
+<li><a href="#org77fdfe1">5.21. I Timothy 5:21</a></li>
+<li><a href="#org8e18392">5.22. I Timothy 5:22</a></li>
+<li><a href="#org0ff96f3">5.23. I Timothy 5:23</a></li>
+<li><a href="#orga21e11b">5.24. I Timothy 5:24</a></li>
+<li><a href="#org7dfba95">5.25. I Timothy 5:25</a></li>
+</ul>
+</li>
+<li><a href="#org4c46ff9">6. I Timothy 6</a>
+<ul>
+<li><a href="#org4829999">6.1. I Timothy 6:1</a></li>
+<li><a href="#org7b80ac6">6.2. I Timothy 6:2</a></li>
+<li><a href="#org0788c07">6.3. I Timothy 6:3</a></li>
+<li><a href="#orgd1e5991">6.4. I Timothy 6:4</a></li>
+<li><a href="#org0dd3263">6.5. I Timothy 6:5</a></li>
+<li><a href="#org9049f13">6.6. I Timothy 6:6</a></li>
+<li><a href="#org49a0955">6.7. I Timothy 6:7</a></li>
+<li><a href="#org0e32a94">6.8. I Timothy 6:8</a></li>
+<li><a href="#orgb19f901">6.9. I Timothy 6:9</a></li>
+<li><a href="#orga762f0e">6.10. I Timothy 6:10</a></li>
+<li><a href="#org7a0ff07">6.11. I Timothy 6:11</a></li>
+<li><a href="#orgb3da6b1">6.12. I Timothy 6:12</a></li>
+<li><a href="#orgf5156d0">6.13. I Timothy 6:13</a></li>
+<li><a href="#orgda89d63">6.14. I Timothy 6:14</a></li>
+<li><a href="#orgad4fbe2">6.15. I Timothy 6:15</a></li>
+<li><a href="#org5ef9f45">6.16. I Timothy 6:16</a></li>
+<li><a href="#org134863e">6.17. I Timothy 6:17</a></li>
+<li><a href="#org0746421">6.18. I Timothy 6:18</a></li>
+<li><a href="#org08ba920">6.19. I Timothy 6:19</a></li>
+<li><a href="#orgddee4a0">6.20. I Timothy 6:20</a></li>
+<li><a href="#org2db6436">6.21. I Timothy 6:21</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org28e367a" class="outline-2">
+<h2 id="org28e367a"><span class="section-number-2">1</span> I Timothy 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org4cf753a" class="outline-3">
+<h3 id="org4cf753a"><span class="section-number-3">1.1</span> I Timothy 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Paulus Apostolus Jesu Christi secundum imperium Dei Salvatoris nostri, et Christi Jesu spei nostræ,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfcb6a2f" class="outline-3">
+<h3 id="orgfcb6a2f"><span class="section-number-3">1.2</span> I Timothy 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Timotheo dilecto filio in fide. Gratia, misericordia, et pax a Deo Patre, et Christo Jesu Domino nostro.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc660d9d" class="outline-3">
+<h3 id="orgc660d9d"><span class="section-number-3">1.3</span> I Timothy 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Sicut rogavi te ut remaneres Ephesi cum irem in Macedoniam, ut denuntiares quibusdam ne aliter docerent,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org749ab15" class="outline-3">
+<h3 id="org749ab15"><span class="section-number-3">1.4</span> I Timothy 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+neque intenderent fabulis, et genealogiis interminatis : quæ quæstiones præstant magis quam ædificationem Dei, quæ est in fide.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfce40c1" class="outline-3">
+<h3 id="orgfce40c1"><span class="section-number-3">1.5</span> I Timothy 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Finis autem præcepti est caritas de corde puro, et conscientia bona, et fide non ficta.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org795c8ed" class="outline-3">
+<h3 id="org795c8ed"><span class="section-number-3">1.6</span> I Timothy 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+A quibus quidam aberrantes, conversi sunt in vaniloquium,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeee3e81" class="outline-3">
+<h3 id="orgeee3e81"><span class="section-number-3">1.7</span> I Timothy 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+volentes esse legis doctores, non intelligentes neque quæ loquuntur, neque de quibus affirmant.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf8caf68" class="outline-3">
+<h3 id="orgf8caf68"><span class="section-number-3">1.8</span> I Timothy 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+Scimus autem quia bona est lex si quis ea legitime utatur :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbb1c8c4" class="outline-3">
+<h3 id="orgbb1c8c4"><span class="section-number-3">1.9</span> I Timothy 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+sciens hoc quia lex justo non est posita, sed injustis, et non subditis, impiis, et peccatoribus, sceleratis, et contaminatis, parricidis, et matricidis, homicidis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdc65ea7" class="outline-3">
+<h3 id="orgdc65ea7"><span class="section-number-3">1.10</span> I Timothy 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+fornicariis, masculorum concubitoribus, plagiariis, mendacibus, et perjuris, et si quid aliud sanæ doctrinæ adversatur,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0fbd041" class="outline-3">
+<h3 id="org0fbd041"><span class="section-number-3">1.11</span> I Timothy 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+quæ est secundum Evangelium gloriæ beati Dei, quod creditum est mihi.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb7a932f" class="outline-3">
+<h3 id="orgb7a932f"><span class="section-number-3">1.12</span> I Timothy 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+Gratias ago ei, qui me confortavit, Christo Jesu Domino nostro, quia fidelem me existimavit, ponens in ministerio :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4699fcf" class="outline-3">
+<h3 id="org4699fcf"><span class="section-number-3">1.13</span> I Timothy 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+qui prius blasphemus fui, et persecutor, et contumeliosus : sed misericordiam Dei consecutus sum, quia ignorans feci in incredulitate.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5b9b0f6" class="outline-3">
+<h3 id="org5b9b0f6"><span class="section-number-3">1.14</span> I Timothy 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+Superabundavit autem gratia Domini nostri cum fide, et dilectione, quæ est in Christo Jesu.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgae56f12" class="outline-3">
+<h3 id="orgae56f12"><span class="section-number-3">1.15</span> I Timothy 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+Fidelis sermo, et omni acceptione dignus : quod Christus Jesus venit in hunc mundum peccatores salvos facere, quorum primus ego sum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6e59489" class="outline-3">
+<h3 id="org6e59489"><span class="section-number-3">1.16</span> I Timothy 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+Sed ideo misericordiam consecutus sum : ut in me primo ostenderet Christus Jesus omnem patientiam ad informationem eorum, qui credituri sunt illi, in vitam æternam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge24315c" class="outline-3">
+<h3 id="orge24315c"><span class="section-number-3">1.17</span> I Timothy 1:17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+Regi autem sæculorum immortali, invisibili, soli Deo honor et gloria in sæcula sæculorum. Amen.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd67ace3" class="outline-3">
+<h3 id="orgd67ace3"><span class="section-number-3">1.18</span> I Timothy 1:18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+Hoc præceptum commendo tibi, fili Timothee, secundum præcedentes in te prophetias, ut milites in illis bonam militiam,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb3e4692" class="outline-3">
+<h3 id="orgb3e4692"><span class="section-number-3">1.19</span> I Timothy 1:19</h3>
+<div class="outline-text-3" id="text-1-19">
+<p>
+habens fidem, et bonam conscientiam, quam quidam repellentes, circa fidem naufragaverunt :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org63d3ecd" class="outline-3">
+<h3 id="org63d3ecd"><span class="section-number-3">1.20</span> I Timothy 1:20</h3>
+<div class="outline-text-3" id="text-1-20">
+<p>
+ex quibus est Hymenæus, et Alexander : quos tradidi Satanæ, ut discant non blasphemare.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org2eae8a2" class="outline-2">
+<h2 id="org2eae8a2"><span class="section-number-2">2</span> I Timothy 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-orgdd6f5fa" class="outline-3">
+<h3 id="orgdd6f5fa"><span class="section-number-3">2.1</span> I Timothy 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Obsecro igitur primum omnium fieri obsecrationes, orationes, postulationes, gratiarum actiones, pro omnibus hominibus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc77854b" class="outline-3">
+<h3 id="orgc77854b"><span class="section-number-3">2.2</span> I Timothy 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+pro regibus, et omnibus qui in sublimitate sunt, ut quietam et tranquillam vitam agamus in omni pietate, et castitate :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org35bca56" class="outline-3">
+<h3 id="org35bca56"><span class="section-number-3">2.3</span> I Timothy 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+hoc enim bonum est, et acceptum coram Salvatore nostro Deo,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4c3baa6" class="outline-3">
+<h3 id="org4c3baa6"><span class="section-number-3">2.4</span> I Timothy 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+qui omnes homines vult salvos fieri, et ad agnitionem veritatis venire.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org28cbc7b" class="outline-3">
+<h3 id="org28cbc7b"><span class="section-number-3">2.5</span> I Timothy 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+Unus enim Deus, unus et mediator Dei et hominum homo Christus Jesus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb007cd2" class="outline-3">
+<h3 id="orgb007cd2"><span class="section-number-3">2.6</span> I Timothy 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+qui dedit redemptionem semetipsum pro omnibus, testimonium temporibus suis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde75633" class="outline-3">
+<h3 id="orgde75633"><span class="section-number-3">2.7</span> I Timothy 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+in quo positus sum ego prædicator, et Apostolus (veritatem dico, non mentior) doctor gentium in fide, et veritate.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge78c1e9" class="outline-3">
+<h3 id="orge78c1e9"><span class="section-number-3">2.8</span> I Timothy 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+Volo ergo viros orare in omni loco, levantes puras manus sine ira et disceptatione.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org181b0f2" class="outline-3">
+<h3 id="org181b0f2"><span class="section-number-3">2.9</span> I Timothy 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+Similiter et mulieres in habitu ornato, cum verecundia et sobrietate ornantes se, et non in tortis crinibus, aut auro, aut margaritis, vel veste pretiosa :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org47b7525" class="outline-3">
+<h3 id="org47b7525"><span class="section-number-3">2.10</span> I Timothy 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+sed quod decet mulieres, promittentes pietatem per opera bona.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf7d797f" class="outline-3">
+<h3 id="orgf7d797f"><span class="section-number-3">2.11</span> I Timothy 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+Mulier in silentio discat cum omni subjectione.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org38134f6" class="outline-3">
+<h3 id="org38134f6"><span class="section-number-3">2.12</span> I Timothy 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+Docere autem mulieri non permitto, neque dominari in virum : sed esse in silentio.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org485ba16" class="outline-3">
+<h3 id="org485ba16"><span class="section-number-3">2.13</span> I Timothy 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+Adam enim primus formatus est : deinde Heva :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfbb482" class="outline-3">
+<h3 id="orgbfbb482"><span class="section-number-3">2.14</span> I Timothy 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+et Adam non est seductus : mulier autem seducta in prævaricatione fuit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgce36898" class="outline-3">
+<h3 id="orgce36898"><span class="section-number-3">2.15</span> I Timothy 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+Salvabitur autem per filiorum generationem, si permanserit in fide, et dilectione, et sanctificatione cum sobrietate.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org181311e" class="outline-2">
+<h2 id="org181311e"><span class="section-number-2">3</span> I Timothy 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org5ee8650" class="outline-3">
+<h3 id="org5ee8650"><span class="section-number-3">3.1</span> I Timothy 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+Fidelis sermo : si quis episcopatum desiderat, bonum opus desiderat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcc09a55" class="outline-3">
+<h3 id="orgcc09a55"><span class="section-number-3">3.2</span> I Timothy 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+Oportet ergo episcopum irreprehensibilem esse, unius uxoris virum, sobrium, prudentem, ornatum, pudicum, hospitalem, doctorem,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfd92ab5" class="outline-3">
+<h3 id="orgfd92ab5"><span class="section-number-3">3.3</span> I Timothy 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+non vinolentum, non percussorem, sed modestum : non litigiosum, non cupidum, sed
+</p>
+</div>
+</div>
+
+<div id="outline-container-org28fc037" class="outline-3">
+<h3 id="org28fc037"><span class="section-number-3">3.4</span> I Timothy 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+suæ domui bene præpositum : filios habentem subditos cum omni castitate.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfefff4e" class="outline-3">
+<h3 id="orgfefff4e"><span class="section-number-3">3.5</span> I Timothy 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+Si quis autem domui suæ præesse nescit, quomodo ecclesiæ Dei diligentiam habebit ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdf83fed" class="outline-3">
+<h3 id="orgdf83fed"><span class="section-number-3">3.6</span> I Timothy 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+Non neophytum : ne in superbiam elatus, in judicium incidat diaboli.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc20de82" class="outline-3">
+<h3 id="orgc20de82"><span class="section-number-3">3.7</span> I Timothy 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+Oportet autem illum et testimonium habere bonum ab iis qui foris sunt, ut non in opprobrium incidat, et in laqueum diaboli.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9dcf7df" class="outline-3">
+<h3 id="org9dcf7df"><span class="section-number-3">3.8</span> I Timothy 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+Diaconos similiter pudicos, non bilingues, non multo vino deditos, non turpe lucrum sectantes :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga06d334" class="outline-3">
+<h3 id="orga06d334"><span class="section-number-3">3.9</span> I Timothy 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+habentes mysterium fidei in conscientia pura.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf02982a" class="outline-3">
+<h3 id="orgf02982a"><span class="section-number-3">3.10</span> I Timothy 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+Et hi autem probentur primum : et sic ministrent, nullum crimen habentes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7152eec" class="outline-3">
+<h3 id="org7152eec"><span class="section-number-3">3.11</span> I Timothy 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+Mulieres similiter pudicas, non detrahentes, sobrias, fideles in omnibus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb73cc39" class="outline-3">
+<h3 id="orgb73cc39"><span class="section-number-3">3.12</span> I Timothy 3:12</h3>
+<div class="outline-text-3" id="text-3-12">
+<p>
+Diaconi sint unius uxoris viri, qui filiis suis bene præsint, et suis domibus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3327762" class="outline-3">
+<h3 id="org3327762"><span class="section-number-3">3.13</span> I Timothy 3:13</h3>
+<div class="outline-text-3" id="text-3-13">
+<p>
+Qui enim bene ministraverint, gradum bonum sibi acquirent, et multam fiduciam in fide, quæ est in Christo Jesu.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02364e5" class="outline-3">
+<h3 id="org02364e5"><span class="section-number-3">3.14</span> I Timothy 3:14</h3>
+<div class="outline-text-3" id="text-3-14">
+<p>
+Hæc tibi scribo, sperans me ad te venire cito :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgefd0ac3" class="outline-3">
+<h3 id="orgefd0ac3"><span class="section-number-3">3.15</span> I Timothy 3:15</h3>
+<div class="outline-text-3" id="text-3-15">
+<p>
+si autem tardavero, ut scias quomodo oporteat te in domo Dei conversari, quæ est ecclesia Dei vivi, columna et firmamentum veritatis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7823067" class="outline-3">
+<h3 id="org7823067"><span class="section-number-3">3.16</span> I Timothy 3:16</h3>
+<div class="outline-text-3" id="text-3-16">
+<p>
+Et manifeste magnum est pietatis sacramentum, quod manifestatum est in carne, justificatum est in spiritu, apparuit angelis, prædicatum est gentibus, creditum est in mundo, assumptum est in gloria.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orge31f34a" class="outline-2">
+<h2 id="orge31f34a"><span class="section-number-2">4</span> I Timothy 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org975d5be" class="outline-3">
+<h3 id="org975d5be"><span class="section-number-3">4.1</span> I Timothy 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Spiritus autem manifeste dicit, quia in novissimis temporibus discedent quidam a fide, attendentes spiritibus erroris, et doctrinis dæmoniorum,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgec61d6b" class="outline-3">
+<h3 id="orgec61d6b"><span class="section-number-3">4.2</span> I Timothy 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+in hypocrisi loquentium mendacium, et cauteriatam habentium suam conscientiam,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaf318f2" class="outline-3">
+<h3 id="orgaf318f2"><span class="section-number-3">4.3</span> I Timothy 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+prohibentium nubere, abstinere a cibis, quod Deus creavit ad percipiendum cum gratiarum actione fidelibus, et iis qui cognoverunt veritatem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf41807a" class="outline-3">
+<h3 id="orgf41807a"><span class="section-number-3">4.4</span> I Timothy 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+Quia omnis creatura Dei bona est, et nihil rejiciendum quod cum gratiarum actione percipitur :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0beb5fe" class="outline-3">
+<h3 id="org0beb5fe"><span class="section-number-3">4.5</span> I Timothy 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+sanctificatur enim per verbum Dei, et orationem.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org86d10c2" class="outline-3">
+<h3 id="org86d10c2"><span class="section-number-3">4.6</span> I Timothy 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+Hæc proponens fratribus, bonus eris minister Christi Jesu enutritus verbis fidei, et bonæ doctrinæ, quam assecutus es.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org001bbeb" class="outline-3">
+<h3 id="org001bbeb"><span class="section-number-3">4.7</span> I Timothy 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+Ineptas autem, et aniles fabulas devita : exerce autem teipsum ad pietatem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb7cdaf8" class="outline-3">
+<h3 id="orgb7cdaf8"><span class="section-number-3">4.8</span> I Timothy 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+Nam corporalis exercitatio, ad modicum utilis est : pietas autem ad omnia utilis est, promissionem habens vitæ, quæ nunc est, et futuræ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgafda8a8" class="outline-3">
+<h3 id="orgafda8a8"><span class="section-number-3">4.9</span> I Timothy 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+Fidelis sermo, et omni acceptione dignus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org785bf4d" class="outline-3">
+<h3 id="org785bf4d"><span class="section-number-3">4.10</span> I Timothy 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+In hoc enim laboramus, et maledicimur, quia speramus in Deum vivum, qui est Salvator omnium hominum, maxime fidelium.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1d63c76" class="outline-3">
+<h3 id="org1d63c76"><span class="section-number-3">4.11</span> I Timothy 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+Præcipe hæc, et doce.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1e1b44a" class="outline-3">
+<h3 id="org1e1b44a"><span class="section-number-3">4.12</span> I Timothy 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+Nemo adolescentiam tuam contemnat : sed exemplum esto fidelium in verbo, in conversatione, in caritate, in fide, in castitate.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org819378f" class="outline-3">
+<h3 id="org819378f"><span class="section-number-3">4.13</span> I Timothy 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+Dum venio, attende lectioni, exhortationi, et doctrinæ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org226b543" class="outline-3">
+<h3 id="org226b543"><span class="section-number-3">4.14</span> I Timothy 4:14</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+Noli negligere gratiam, quæ in te est, quæ data est tibi per prophetiam, cum impositione manuum presbyterii.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1952910" class="outline-3">
+<h3 id="org1952910"><span class="section-number-3">4.15</span> I Timothy 4:15</h3>
+<div class="outline-text-3" id="text-4-15">
+<p>
+Hæc meditare, in his esto : ut profectus tuus manifestus sit omnibus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org957faa7" class="outline-3">
+<h3 id="org957faa7"><span class="section-number-3">4.16</span> I Timothy 4:16</h3>
+<div class="outline-text-3" id="text-4-16">
+<p>
+Attende tibi, et doctrinæ : insta in illis. Hoc enim faciens, et teipsum salvum facies, et eos qui te audiunt.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org97d33a4" class="outline-2">
+<h2 id="org97d33a4"><span class="section-number-2">5</span> I Timothy 5</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org6974001" class="outline-3">
+<h3 id="org6974001"><span class="section-number-3">5.1</span> I Timothy 5:1</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Seniorem ne increpaveris, sed obsecra ut patrem : juvenes, ut fratres :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgee6b4fe" class="outline-3">
+<h3 id="orgee6b4fe"><span class="section-number-3">5.2</span> I Timothy 5:2</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+anus, ut matres : juvenculas, ut sorores in omni castitate :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd34f51b" class="outline-3">
+<h3 id="orgd34f51b"><span class="section-number-3">5.3</span> I Timothy 5:3</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+viduas honora, quæ vere viduæ sunt.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4331edc" class="outline-3">
+<h3 id="org4331edc"><span class="section-number-3">5.4</span> I Timothy 5:4</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+Si qua autem vidua filios, aut nepotes habet : discat primum domum suam regere, et mutuam vicem reddere parentibus : hoc enim acceptum est coram Deo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org00ce4d9" class="outline-3">
+<h3 id="org00ce4d9"><span class="section-number-3">5.5</span> I Timothy 5:5</h3>
+<div class="outline-text-3" id="text-5-5">
+<p>
+Quæ autem vere vidua est, et desolata, speret in Deum, et instet obsecrationibus, et orationibus nocte ac die.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0d80e9e" class="outline-3">
+<h3 id="org0d80e9e"><span class="section-number-3">5.6</span> I Timothy 5:6</h3>
+<div class="outline-text-3" id="text-5-6">
+<p>
+Nam quæ in deliciis est, vivens mortua est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org55bfe72" class="outline-3">
+<h3 id="org55bfe72"><span class="section-number-3">5.7</span> I Timothy 5:7</h3>
+<div class="outline-text-3" id="text-5-7">
+<p>
+Et hoc præcipe, ut irreprehensibiles sint.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5407fbb" class="outline-3">
+<h3 id="org5407fbb"><span class="section-number-3">5.8</span> I Timothy 5:8</h3>
+<div class="outline-text-3" id="text-5-8">
+<p>
+Si quis autem suorum, et maxime domesticorum, curam non habet, fidem negavit, et est infideli deterior.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcad2b82" class="outline-3">
+<h3 id="orgcad2b82"><span class="section-number-3">5.9</span> I Timothy 5:9</h3>
+<div class="outline-text-3" id="text-5-9">
+<p>
+Vidua eligatur non minus sexaginta annorum, quæ fuerit unius viri uxor,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org154fa06" class="outline-3">
+<h3 id="org154fa06"><span class="section-number-3">5.10</span> I Timothy 5:10</h3>
+<div class="outline-text-3" id="text-5-10">
+<p>
+in operibus bonis testimonium habens, si filios educavit, si hospitio recepit, si sanctorum pedes lavit, si tribulationem patientibus subministravit, si omne opus bonum subsecuta est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5877d0d" class="outline-3">
+<h3 id="org5877d0d"><span class="section-number-3">5.11</span> I Timothy 5:11</h3>
+<div class="outline-text-3" id="text-5-11">
+<p>
+Adolescentiores autem viduas devita : cum enim luxuriatæ fuerint in Christo, nubere volunt :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5ef4b4d" class="outline-3">
+<h3 id="org5ef4b4d"><span class="section-number-3">5.12</span> I Timothy 5:12</h3>
+<div class="outline-text-3" id="text-5-12">
+<p>
+habentes damnationem, quia primam fidem irritam fecerunt ;
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3a4c37f" class="outline-3">
+<h3 id="org3a4c37f"><span class="section-number-3">5.13</span> I Timothy 5:13</h3>
+<div class="outline-text-3" id="text-5-13">
+<p>
+simul autem et otiosæ discunt circuire domos : non solum otiosæ, sed et verbosæ, et curiosæ, loquentes quæ non oportet.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org04b25f2" class="outline-3">
+<h3 id="org04b25f2"><span class="section-number-3">5.14</span> I Timothy 5:14</h3>
+<div class="outline-text-3" id="text-5-14">
+<p>
+Volo ergo juniores nubere, filios procreare, matresfamilias esse, nullam occasionem dare adversario maledicti gratia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org79a2189" class="outline-3">
+<h3 id="org79a2189"><span class="section-number-3">5.15</span> I Timothy 5:15</h3>
+<div class="outline-text-3" id="text-5-15">
+<p>
+Jam enim quædam conversæ sunt retro Satanam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd4de752" class="outline-3">
+<h3 id="orgd4de752"><span class="section-number-3">5.16</span> I Timothy 5:16</h3>
+<div class="outline-text-3" id="text-5-16">
+<p>
+Si quis fidelis habet viduas, subministret illis, et non gravetur ecclesia : ut iis quæ vere viduæ sunt, sufficiat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdd8a594" class="outline-3">
+<h3 id="orgdd8a594"><span class="section-number-3">5.17</span> I Timothy 5:17</h3>
+<div class="outline-text-3" id="text-5-17">
+<p>
+Qui bene præsunt presbyteri, duplici honore digni habeantur : maxime qui laborant in verbo et doctrina.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb3f21a1" class="outline-3">
+<h3 id="orgb3f21a1"><span class="section-number-3">5.18</span> I Timothy 5:18</h3>
+<div class="outline-text-3" id="text-5-18">
+<p>
+Dicit enim Scriptura : Non alligabis os bovi trituranti. Et : Dignus est operarius mercede sua.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org33e2758" class="outline-3">
+<h3 id="org33e2758"><span class="section-number-3">5.19</span> I Timothy 5:19</h3>
+<div class="outline-text-3" id="text-5-19">
+<p>
+Adversus presbyterum accusationem noli recipere, nisi sub duobus aut tribus testibus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org844e81f" class="outline-3">
+<h3 id="org844e81f"><span class="section-number-3">5.20</span> I Timothy 5:20</h3>
+<div class="outline-text-3" id="text-5-20">
+<p>
+Peccantes coram omnibus argue : ut et ceteri timorem habeant.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org77fdfe1" class="outline-3">
+<h3 id="org77fdfe1"><span class="section-number-3">5.21</span> I Timothy 5:21</h3>
+<div class="outline-text-3" id="text-5-21">
+<p>
+Testor coram Deo et Christo Jesu, et electis angelis, ut hæc custodias sine præjudicio, nihil faciens in alteram partem declinando.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8e18392" class="outline-3">
+<h3 id="org8e18392"><span class="section-number-3">5.22</span> I Timothy 5:22</h3>
+<div class="outline-text-3" id="text-5-22">
+<p>
+Manus cito nemini imposueris, neque communicaveris peccatis alienis. Teipsum castum custodi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0ff96f3" class="outline-3">
+<h3 id="org0ff96f3"><span class="section-number-3">5.23</span> I Timothy 5:23</h3>
+<div class="outline-text-3" id="text-5-23">
+<p>
+Noli adhuc aquam bibere, sed modico vino utere propter stomachum tuum, et frequentes tuas infirmitates.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga21e11b" class="outline-3">
+<h3 id="orga21e11b"><span class="section-number-3">5.24</span> I Timothy 5:24</h3>
+<div class="outline-text-3" id="text-5-24">
+<p>
+Quorumdam hominum peccata manifesta sunt, præcedentia ad judicium : quosdam autem et subsequuntur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7dfba95" class="outline-3">
+<h3 id="org7dfba95"><span class="section-number-3">5.25</span> I Timothy 5:25</h3>
+<div class="outline-text-3" id="text-5-25">
+<p>
+Similiter et facta bona, manifesta sunt : et quæ aliter se habent, abscondi non possunt.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org4c46ff9" class="outline-2">
+<h2 id="org4c46ff9"><span class="section-number-2">6</span> I Timothy 6</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-org4829999" class="outline-3">
+<h3 id="org4829999"><span class="section-number-3">6.1</span> I Timothy 6:1</h3>
+<div class="outline-text-3" id="text-6-1">
+<p>
+Quicumque sunt sub jugo servi, dominos suos omni honore dignos arbitrentur, ne nomen Domini et doctrina blasphemetur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7b80ac6" class="outline-3">
+<h3 id="org7b80ac6"><span class="section-number-3">6.2</span> I Timothy 6:2</h3>
+<div class="outline-text-3" id="text-6-2">
+<p>
+Qui autem fideles habent dominos, non contemnant, quia fratres sunt : sed magis serviant, quia fideles sunt et dilecti, qui beneficii participes sunt. Hæc doce, et exhortare.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0788c07" class="outline-3">
+<h3 id="org0788c07"><span class="section-number-3">6.3</span> I Timothy 6:3</h3>
+<div class="outline-text-3" id="text-6-3">
+<p>
+Si quis aliter docet, et non acquiescit sanis sermonibus Domini nostri Jesu Christi, et ei, quæ secundum pietatem est, doctrinæ :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd1e5991" class="outline-3">
+<h3 id="orgd1e5991"><span class="section-number-3">6.4</span> I Timothy 6:4</h3>
+<div class="outline-text-3" id="text-6-4">
+<p>
+superbus est, nihil sciens, sed languens circa quæstiones, et pugnas verborum : ex quibus oriuntur invidiæ, contentiones, blasphemiæ, suspiciones malæ,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0dd3263" class="outline-3">
+<h3 id="org0dd3263"><span class="section-number-3">6.5</span> I Timothy 6:5</h3>
+<div class="outline-text-3" id="text-6-5">
+<p>
+conflictationes hominum mente corruptorum, et qui veritate privati sunt, existimantium quæstum esse pietatem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9049f13" class="outline-3">
+<h3 id="org9049f13"><span class="section-number-3">6.6</span> I Timothy 6:6</h3>
+<div class="outline-text-3" id="text-6-6">
+<p>
+Est autem quæstus magnus pietas cum sufficientia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org49a0955" class="outline-3">
+<h3 id="org49a0955"><span class="section-number-3">6.7</span> I Timothy 6:7</h3>
+<div class="outline-text-3" id="text-6-7">
+<p>
+Nihil enim intulimus in hunc mundum : haud dubium quod nec auferre quid possumus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0e32a94" class="outline-3">
+<h3 id="org0e32a94"><span class="section-number-3">6.8</span> I Timothy 6:8</h3>
+<div class="outline-text-3" id="text-6-8">
+<p>
+Habentes autem alimenta, et quibus tegamur, his contenti simus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb19f901" class="outline-3">
+<h3 id="orgb19f901"><span class="section-number-3">6.9</span> I Timothy 6:9</h3>
+<div class="outline-text-3" id="text-6-9">
+<p>
+Nam qui volunt divites fieri, incidunt in tentationem, et in laqueum diaboli, et desideria multa inutilia, et nociva, quæ mergunt homines in interitum et perditionem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga762f0e" class="outline-3">
+<h3 id="orga762f0e"><span class="section-number-3">6.10</span> I Timothy 6:10</h3>
+<div class="outline-text-3" id="text-6-10">
+<p>
+Radix enim omnium malorum est cupiditas : quam quidam appetentes erraverunt a fide, et inseruerunt se doloribus multis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7a0ff07" class="outline-3">
+<h3 id="org7a0ff07"><span class="section-number-3">6.11</span> I Timothy 6:11</h3>
+<div class="outline-text-3" id="text-6-11">
+<p>
+Tu autem, o homo Dei, hæc fuge : sectare vero justitiam, pietatem, fidem, caritatem, patientiam, mansuetudinem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb3da6b1" class="outline-3">
+<h3 id="orgb3da6b1"><span class="section-number-3">6.12</span> I Timothy 6:12</h3>
+<div class="outline-text-3" id="text-6-12">
+<p>
+Certa bonum certamen fidei, apprehende vitam æternam, in qua vocatus es, et confessus bonam confessionem coram multis testibus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf5156d0" class="outline-3">
+<h3 id="orgf5156d0"><span class="section-number-3">6.13</span> I Timothy 6:13</h3>
+<div class="outline-text-3" id="text-6-13">
+<p>
+Præcipio tibi coram Deo, qui vivificat omnia, et Christo Jesu, qui testimonium reddidit sub Pontio Pilato, bonam confessionem,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda89d63" class="outline-3">
+<h3 id="orgda89d63"><span class="section-number-3">6.14</span> I Timothy 6:14</h3>
+<div class="outline-text-3" id="text-6-14">
+<p>
+ut serves mandatum sine macula, irreprehensibile usque in adventum Domini nostri Jesu Christi,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgad4fbe2" class="outline-3">
+<h3 id="orgad4fbe2"><span class="section-number-3">6.15</span> I Timothy 6:15</h3>
+<div class="outline-text-3" id="text-6-15">
+<p>
+quem suis temporibus ostendet beatus et solus potens, Rex regum, et Dominus dominantium :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5ef9f45" class="outline-3">
+<h3 id="org5ef9f45"><span class="section-number-3">6.16</span> I Timothy 6:16</h3>
+<div class="outline-text-3" id="text-6-16">
+<p>
+qui solus habet immortalitatem, et lucem inhabitat inaccessibilem : quem nullus hominum vidit, sed nec videre potest : cui honor, et imperium sempiternum. Amen.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org134863e" class="outline-3">
+<h3 id="org134863e"><span class="section-number-3">6.17</span> I Timothy 6:17</h3>
+<div class="outline-text-3" id="text-6-17">
+<p>
+Divitibus hujus sæculi præcipe non sublime sapere, neque sperare in incerto divitiarum, sed in Deo vivo (qui præstat nobis omnia abunde ad fruendum)
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0746421" class="outline-3">
+<h3 id="org0746421"><span class="section-number-3">6.18</span> I Timothy 6:18</h3>
+<div class="outline-text-3" id="text-6-18">
+<p>
+bene agere, divites fieri in bonis operibus, facile tribuere, communicare,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org08ba920" class="outline-3">
+<h3 id="org08ba920"><span class="section-number-3">6.19</span> I Timothy 6:19</h3>
+<div class="outline-text-3" id="text-6-19">
+<p>
+thesaurizare sibi fundamentum bonum in futurum, ut apprehendant veram vitam.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgddee4a0" class="outline-3">
+<h3 id="orgddee4a0"><span class="section-number-3">6.20</span> I Timothy 6:20</h3>
+<div class="outline-text-3" id="text-6-20">
+<p>
+O Timothee, depositum custodi, devitans profanas vocum novitates, et oppositiones falsi nominis scientiæ,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2db6436" class="outline-3">
+<h3 id="org2db6436"><span class="section-number-3">6.21</span> I Timothy 6:21</h3>
+<div class="outline-text-3" id="text-6-21">
+<p>
+quam quidam promittentes, circa fidem exciderunt. Gratia tecum. Amen.    
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:37</p>
+</div>
+</body>
+</html>

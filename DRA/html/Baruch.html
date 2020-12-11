@@ -1,0 +1,2424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:36 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org33a997c">1. Baruch 1</a>
+<ul>
+<li><a href="#org8ddd2fe">1.1. Baruch 1:1</a></li>
+<li><a href="#org133675f">1.2. Baruch 1:2</a></li>
+<li><a href="#org3f70144">1.3. Baruch 1:3</a></li>
+<li><a href="#orgf73dc92">1.4. Baruch 1:4</a></li>
+<li><a href="#orgea41e17">1.5. Baruch 1:5</a></li>
+<li><a href="#org75f762e">1.6. Baruch 1:6</a></li>
+<li><a href="#orgd487549">1.7. Baruch 1:7</a></li>
+<li><a href="#org41fede2">1.8. Baruch 1:8</a></li>
+<li><a href="#org7f8089f">1.9. Baruch 1:9</a></li>
+<li><a href="#orgf67b5a3">1.10. Baruch 1:10</a></li>
+<li><a href="#org2e3e99c">1.11. Baruch 1:11</a></li>
+<li><a href="#org802a2c3">1.12. Baruch 1:12</a></li>
+<li><a href="#org64cf185">1.13. Baruch 1:13</a></li>
+<li><a href="#orgb4a3818">1.14. Baruch 1:14</a></li>
+<li><a href="#org4f2fc95">1.15. Baruch 1:15</a></li>
+<li><a href="#org4c4c14a">1.16. Baruch 1:16</a></li>
+<li><a href="#org6e80a97">1.17. Baruch 1:17</a></li>
+<li><a href="#org1edffa7">1.18. Baruch 1:18</a></li>
+<li><a href="#org7121fd8">1.19. Baruch 1:19</a></li>
+<li><a href="#orgbe0fb6c">1.20. Baruch 1:20</a></li>
+<li><a href="#org4e72d30">1.21. Baruch 1:21</a></li>
+<li><a href="#org66b4325">1.22. Baruch 1:22</a></li>
+</ul>
+</li>
+<li><a href="#org511d294">2. Baruch 2</a>
+<ul>
+<li><a href="#orge187da5">2.1. Baruch 2:1</a></li>
+<li><a href="#org2f2686a">2.2. Baruch 2:2</a></li>
+<li><a href="#orgc5d4f43">2.3. Baruch 2:3</a></li>
+<li><a href="#org348fe74">2.4. Baruch 2:4</a></li>
+<li><a href="#org011da2f">2.5. Baruch 2:5</a></li>
+<li><a href="#org7a74389">2.6. Baruch 2:6</a></li>
+<li><a href="#org0b09597">2.7. Baruch 2:7</a></li>
+<li><a href="#org7c425eb">2.8. Baruch 2:8</a></li>
+<li><a href="#orge4c885e">2.9. Baruch 2:9</a></li>
+<li><a href="#orga0aa94c">2.10. Baruch 2:10</a></li>
+<li><a href="#orgde3198a">2.11. Baruch 2:11</a></li>
+<li><a href="#orgab78ffb">2.12. Baruch 2:12</a></li>
+<li><a href="#org792afa6">2.13. Baruch 2:13</a></li>
+<li><a href="#org110acd4">2.14. Baruch 2:14</a></li>
+<li><a href="#org2517533">2.15. Baruch 2:15</a></li>
+<li><a href="#org15bc647">2.16. Baruch 2:16</a></li>
+<li><a href="#org21b5683">2.17. Baruch 2:17</a></li>
+<li><a href="#orgdc4baf1">2.18. Baruch 2:18</a></li>
+<li><a href="#orgd72a83c">2.19. Baruch 2:19</a></li>
+<li><a href="#org6c53745">2.20. Baruch 2:20</a></li>
+<li><a href="#orgf19cc5a">2.21. Baruch 2:21</a></li>
+<li><a href="#org6193c3b">2.22. Baruch 2:22</a></li>
+<li><a href="#org2a14e58">2.23. Baruch 2:23</a></li>
+<li><a href="#orgf26bd92">2.24. Baruch 2:24</a></li>
+<li><a href="#org2f95564">2.25. Baruch 2:25</a></li>
+<li><a href="#orgf82207b">2.26. Baruch 2:26</a></li>
+<li><a href="#org26c8341">2.27. Baruch 2:27</a></li>
+<li><a href="#orgab7f685">2.28. Baruch 2:28</a></li>
+<li><a href="#orgab872bd">2.29. Baruch 2:29</a></li>
+<li><a href="#org9a01f3f">2.30. Baruch 2:30</a></li>
+<li><a href="#org4a93709">2.31. Baruch 2:31</a></li>
+<li><a href="#orgd11c0f2">2.32. Baruch 2:32</a></li>
+<li><a href="#orgfe55dbb">2.33. Baruch 2:33</a></li>
+<li><a href="#org4a8035b">2.34. Baruch 2:34</a></li>
+<li><a href="#org1635f98">2.35. Baruch 2:35</a></li>
+</ul>
+</li>
+<li><a href="#orgec6a6ed">3. Baruch 3</a>
+<ul>
+<li><a href="#org2852e5b">3.1. Baruch 3:1</a></li>
+<li><a href="#org6e6b0e3">3.2. Baruch 3:2</a></li>
+<li><a href="#org40adf73">3.3. Baruch 3:3</a></li>
+<li><a href="#orgb0b1e48">3.4. Baruch 3:4</a></li>
+<li><a href="#orgb6c1c5e">3.5. Baruch 3:5</a></li>
+<li><a href="#org54b5a16">3.6. Baruch 3:6</a></li>
+<li><a href="#org6d4db83">3.7. Baruch 3:7</a></li>
+<li><a href="#orga9da27b">3.8. Baruch 3:8</a></li>
+<li><a href="#org96bfcb5">3.9. Baruch 3:9</a></li>
+<li><a href="#org937a8b5">3.10. Baruch 3:10</a></li>
+<li><a href="#org48c320b">3.11. Baruch 3:11</a></li>
+<li><a href="#org2c0b4cb">3.12. Baruch 3:12</a></li>
+<li><a href="#org7934789">3.13. Baruch 3:13</a></li>
+<li><a href="#org49b357c">3.14. Baruch 3:14</a></li>
+<li><a href="#orgd5578f0">3.15. Baruch 3:15</a></li>
+<li><a href="#org0b3aabf">3.16. Baruch 3:16</a></li>
+<li><a href="#org475ac68">3.17. Baruch 3:17</a></li>
+<li><a href="#org0394bcd">3.18. Baruch 3:18</a></li>
+<li><a href="#org770b324">3.19. Baruch 3:19</a></li>
+<li><a href="#orgae83a22">3.20. Baruch 3:20</a></li>
+<li><a href="#org4ad4344">3.21. Baruch 3:21</a></li>
+<li><a href="#org294ff68">3.22. Baruch 3:22</a></li>
+<li><a href="#orga3c178a">3.23. Baruch 3:23</a></li>
+<li><a href="#orgfc7076e">3.24. Baruch 3:24</a></li>
+<li><a href="#orgd770620">3.25. Baruch 3:25</a></li>
+<li><a href="#orgb179f28">3.26. Baruch 3:26</a></li>
+<li><a href="#org521b201">3.27. Baruch 3:27</a></li>
+<li><a href="#orgc5a9da3">3.28. Baruch 3:28</a></li>
+<li><a href="#orga165269">3.29. Baruch 3:29</a></li>
+<li><a href="#org97e62b9">3.30. Baruch 3:30</a></li>
+<li><a href="#orgec8d1a1">3.31. Baruch 3:31</a></li>
+<li><a href="#org6146713">3.32. Baruch 3:32</a></li>
+<li><a href="#org3efc331">3.33. Baruch 3:33</a></li>
+<li><a href="#orgf2c5303">3.34. Baruch 3:34</a></li>
+<li><a href="#orgbb6a831">3.35. Baruch 3:35</a></li>
+<li><a href="#orgfaae69f">3.36. Baruch 3:36</a></li>
+<li><a href="#org0372b30">3.37. Baruch 3:37</a></li>
+<li><a href="#org138f60b">3.38. Baruch 3:38</a></li>
+</ul>
+</li>
+<li><a href="#orgac15f3a">4. Baruch 4</a>
+<ul>
+<li><a href="#orgcd2022f">4.1. Baruch 4:1</a></li>
+<li><a href="#org78b4f1c">4.2. Baruch 4:2</a></li>
+<li><a href="#org10db3e3">4.3. Baruch 4:3</a></li>
+<li><a href="#org5d2e414">4.4. Baruch 4:4</a></li>
+<li><a href="#org4c89294">4.5. Baruch 4:5</a></li>
+<li><a href="#orge0b89fa">4.6. Baruch 4:6</a></li>
+<li><a href="#orgdff13f6">4.7. Baruch 4:7</a></li>
+<li><a href="#org2fe2812">4.8. Baruch 4:8</a></li>
+<li><a href="#org9c78c20">4.9. Baruch 4:9</a></li>
+<li><a href="#org0ea95c0">4.10. Baruch 4:10</a></li>
+<li><a href="#orgb58c4d8">4.11. Baruch 4:11</a></li>
+<li><a href="#orgb773801">4.12. Baruch 4:12</a></li>
+<li><a href="#orgd357c2f">4.13. Baruch 4:13</a></li>
+<li><a href="#org10fd769">4.14. Baruch 4:14</a></li>
+<li><a href="#org3a8fb7e">4.15. Baruch 4:15</a></li>
+<li><a href="#orgfd889f1">4.16. Baruch 4:16</a></li>
+<li><a href="#orgafa9e70">4.17. Baruch 4:17</a></li>
+<li><a href="#orgd2ae2a1">4.18. Baruch 4:18</a></li>
+<li><a href="#org1f685bb">4.19. Baruch 4:19</a></li>
+<li><a href="#org0bb669a">4.20. Baruch 4:20</a></li>
+<li><a href="#org9f52dd2">4.21. Baruch 4:21</a></li>
+<li><a href="#org21c8408">4.22. Baruch 4:22</a></li>
+<li><a href="#orga59e4f9">4.23. Baruch 4:23</a></li>
+<li><a href="#org14922ac">4.24. Baruch 4:24</a></li>
+<li><a href="#orgc141d33">4.25. Baruch 4:25</a></li>
+<li><a href="#orgec81e97">4.26. Baruch 4:26</a></li>
+<li><a href="#org819a135">4.27. Baruch 4:27</a></li>
+<li><a href="#orgb1d11b3">4.28. Baruch 4:28</a></li>
+<li><a href="#org08d68c4">4.29. Baruch 4:29</a></li>
+<li><a href="#org2fd099b">4.30. Baruch 4:30</a></li>
+<li><a href="#orgdcbe98d">4.31. Baruch 4:31</a></li>
+<li><a href="#orgba45892">4.32. Baruch 4:32</a></li>
+<li><a href="#orgb454638">4.33. Baruch 4:33</a></li>
+<li><a href="#org1f0668f">4.34. Baruch 4:34</a></li>
+<li><a href="#orgc82876b">4.35. Baruch 4:35</a></li>
+<li><a href="#orgde037c5">4.36. Baruch 4:36</a></li>
+<li><a href="#orgd252595">4.37. Baruch 4:37</a></li>
+</ul>
+</li>
+<li><a href="#org0afd678">5. Baruch 5</a>
+<ul>
+<li><a href="#org95d5cc6">5.1. Baruch 5:1</a></li>
+<li><a href="#org979b82a">5.2. Baruch 5:2</a></li>
+<li><a href="#org914f163">5.3. Baruch 5:3</a></li>
+<li><a href="#orgae7b708">5.4. Baruch 5:4</a></li>
+<li><a href="#orgff8b70e">5.5. Baruch 5:5</a></li>
+<li><a href="#orgcd512ae">5.6. Baruch 5:6</a></li>
+<li><a href="#org1dd6b51">5.7. Baruch 5:7</a></li>
+<li><a href="#orga0ecd65">5.8. Baruch 5:8</a></li>
+<li><a href="#org8c097cd">5.9. Baruch 5:9</a></li>
+</ul>
+</li>
+<li><a href="#org1d5ea1b">6. Baruch 6</a>
+<ul>
+<li><a href="#orgbc83c66">6.1. Baruch 6:1</a></li>
+<li><a href="#orgb528e5e">6.2. Baruch 6:2</a></li>
+<li><a href="#org7e063b8">6.3. Baruch 6:3</a></li>
+<li><a href="#orgc723d63">6.4. Baruch 6:4</a></li>
+<li><a href="#org90d78dd">6.5. Baruch 6:5</a></li>
+<li><a href="#orge1756e8">6.6. Baruch 6:6</a></li>
+<li><a href="#org2b95333">6.7. Baruch 6:7</a></li>
+<li><a href="#org74bdbfc">6.8. Baruch 6:8</a></li>
+<li><a href="#org9dc09d1">6.9. Baruch 6:9</a></li>
+<li><a href="#org848f585">6.10. Baruch 6:10</a></li>
+<li><a href="#org079a446">6.11. Baruch 6:11</a></li>
+<li><a href="#org512cfa9">6.12. Baruch 6:12</a></li>
+<li><a href="#org2db8f1f">6.13. Baruch 6:13</a></li>
+<li><a href="#orgb7a9ebc">6.14. Baruch 6:14</a></li>
+<li><a href="#orgc9aa9f7">6.15. Baruch 6:15</a></li>
+<li><a href="#org5952680">6.16. Baruch 6:16</a></li>
+<li><a href="#org8f48477">6.17. Baruch 6:17</a></li>
+<li><a href="#org787f601">6.18. Baruch 6:18</a></li>
+<li><a href="#org9505e23">6.19. Baruch 6:19</a></li>
+<li><a href="#orgfb3e61b">6.20. Baruch 6:20</a></li>
+<li><a href="#org668c2f6">6.21. Baruch 6:21</a></li>
+<li><a href="#org47609dd">6.22. Baruch 6:22</a></li>
+<li><a href="#org4e4e4df">6.23. Baruch 6:23</a></li>
+<li><a href="#orgd9ab2da">6.24. Baruch 6:24</a></li>
+<li><a href="#org948d19c">6.25. Baruch 6:25</a></li>
+<li><a href="#org08f213c">6.26. Baruch 6:26</a></li>
+<li><a href="#org0578b4a">6.27. Baruch 6:27</a></li>
+<li><a href="#org94ee5c9">6.28. Baruch 6:28</a></li>
+<li><a href="#org4dab147">6.29. Baruch 6:29</a></li>
+<li><a href="#orgcaf7afd">6.30. Baruch 6:30</a></li>
+<li><a href="#org90a1afe">6.31. Baruch 6:31</a></li>
+<li><a href="#orgc972ed9">6.32. Baruch 6:32</a></li>
+<li><a href="#org0186792">6.33. Baruch 6:33</a></li>
+<li><a href="#orgb3f102b">6.34. Baruch 6:34</a></li>
+<li><a href="#orgf499d38">6.35. Baruch 6:35</a></li>
+<li><a href="#org695a18b">6.36. Baruch 6:36</a></li>
+<li><a href="#org8e00afb">6.37. Baruch 6:37</a></li>
+<li><a href="#org515df4c">6.38. Baruch 6:38</a></li>
+<li><a href="#org16329b5">6.39. Baruch 6:39</a></li>
+<li><a href="#org8edee94">6.40. Baruch 6:40</a></li>
+<li><a href="#org6a83094">6.41. Baruch 6:41</a></li>
+<li><a href="#org0cee237">6.42. Baruch 6:42</a></li>
+<li><a href="#orgc20fa17">6.43. Baruch 6:43</a></li>
+<li><a href="#org1cbd473">6.44. Baruch 6:44</a></li>
+<li><a href="#org877e658">6.45. Baruch 6:45</a></li>
+<li><a href="#orgac5f400">6.46. Baruch 6:46</a></li>
+<li><a href="#orgd17d9f8">6.47. Baruch 6:47</a></li>
+<li><a href="#org6f319d2">6.48. Baruch 6:48</a></li>
+<li><a href="#org46e3190">6.49. Baruch 6:49</a></li>
+<li><a href="#org477359f">6.50. Baruch 6:50</a></li>
+<li><a href="#orgfc40791">6.51. Baruch 6:51</a></li>
+<li><a href="#orgc35c49a">6.52. Baruch 6:52</a></li>
+<li><a href="#org4ba3aea">6.53. Baruch 6:53</a></li>
+<li><a href="#orge79b716">6.54. Baruch 6:54</a></li>
+<li><a href="#org6db68db">6.55. Baruch 6:55</a></li>
+<li><a href="#orgb053f79">6.56. Baruch 6:56</a></li>
+<li><a href="#orga404b02">6.57. Baruch 6:57</a></li>
+<li><a href="#org6b23f04">6.58. Baruch 6:58</a></li>
+<li><a href="#orgcb7feeb">6.59. Baruch 6:59</a></li>
+<li><a href="#org6da226a">6.60. Baruch 6:60</a></li>
+<li><a href="#orga83e24d">6.61. Baruch 6:61</a></li>
+<li><a href="#org36ca6b7">6.62. Baruch 6:62</a></li>
+<li><a href="#orgfff3cb7">6.63. Baruch 6:63</a></li>
+<li><a href="#orgf836dde">6.64. Baruch 6:64</a></li>
+<li><a href="#org9459d5f">6.65. Baruch 6:65</a></li>
+<li><a href="#orgb9934c8">6.66. Baruch 6:66</a></li>
+<li><a href="#org29f30d2">6.67. Baruch 6:67</a></li>
+<li><a href="#org42481be">6.68. Baruch 6:68</a></li>
+<li><a href="#orgefc3519">6.69. Baruch 6:69</a></li>
+<li><a href="#org80c76de">6.70. Baruch 6:70</a></li>
+<li><a href="#org8e2fe1b">6.71. Baruch 6:71</a></li>
+<li><a href="#org191b708">6.72. Baruch 6:72</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org33a997c" class="outline-2">
+<h2 id="org33a997c"><span class="section-number-2">1</span> Baruch 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org8ddd2fe" class="outline-3">
+<h3 id="org8ddd2fe"><span class="section-number-3">1.1</span> Baruch 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+And these are the words of the book, which Baruch the son of Nerias, the son of Maasias, the son of Sedecias, the son of Sedei, the son Helcias, wrote in Babylonia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org133675f" class="outline-3">
+<h3 id="org133675f"><span class="section-number-3">1.2</span> Baruch 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+In the fifth year, in the seventh day of the month, at the time that the Chaldeans took Jerusalem, and burnt it with fire.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f70144" class="outline-3">
+<h3 id="org3f70144"><span class="section-number-3">1.3</span> Baruch 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+And Baruch read the words of this book in the hearing of Jechonias the son of Joakim king of Juda, and in the hearing of all the people that came to hear the book.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf73dc92" class="outline-3">
+<h3 id="orgf73dc92"><span class="section-number-3">1.4</span> Baruch 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+And in the hearing of the nobles, the sons of the kings, and in the hearing of the ancients, and in the hearing of the people, from the least even to the greatest of them that dwelt in Babylonia, by the river Sedi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgea41e17" class="outline-3">
+<h3 id="orgea41e17"><span class="section-number-3">1.5</span> Baruch 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+And when they heard it they wept, and fasted, and prayed before the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75f762e" class="outline-3">
+<h3 id="org75f762e"><span class="section-number-3">1.6</span> Baruch 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+And they made a collection of money according to every man&rsquo;s power.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd487549" class="outline-3">
+<h3 id="orgd487549"><span class="section-number-3">1.7</span> Baruch 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+And they sent it to Jerusalem to Joakim the priest, the son of Helcias, the son of Salom, and to the priests, and to all the people, that were found with him in Jerusalem:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org41fede2" class="outline-3">
+<h3 id="org41fede2"><span class="section-number-3">1.8</span> Baruch 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+At the time when he received the vessels of the temple of the Lord, which had been taken away out of the temple, to return them into the land of Juda the tenth day of the month Sivan, the silver vessels, which Sedecias the son of Josias king of Juda had made,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f8089f" class="outline-3">
+<h3 id="org7f8089f"><span class="section-number-3">1.9</span> Baruch 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+After that Nabuchodonosor the king of Babylon had carried away Jechonias, and the princes, and all the powerful men, and the people of the land from Jerusalem, and brought them bound to Babylon.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf67b5a3" class="outline-3">
+<h3 id="orgf67b5a3"><span class="section-number-3">1.10</span> Baruch 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+And they said: Behold we have sent you money, buy with it holocausts, and frankincense, and make meat offerings, and offerings for sin at the altar of the Lord our God:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2e3e99c" class="outline-3">
+<h3 id="org2e3e99c"><span class="section-number-3">1.11</span> Baruch 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+And pray ye for the life of Nabuchodonosor the king of Babylon, and for the life of Balthasar his son, that their days may be upon earth as the days of heaven:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org802a2c3" class="outline-3">
+<h3 id="org802a2c3"><span class="section-number-3">1.12</span> Baruch 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+And that the Lord may give us strength, and enlighten our eyes, that we may live under the shadow of Nabuchodonosor the king of Babylon, and under the shadow of Balthasar his son, and may serve them many days, and may find favour in their sight.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org64cf185" class="outline-3">
+<h3 id="org64cf185"><span class="section-number-3">1.13</span> Baruch 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+And pray ye for us to the Lord our God: for we have sinned against the Lord our God, and his wrath is not turned away from us even to this day.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb4a3818" class="outline-3">
+<h3 id="orgb4a3818"><span class="section-number-3">1.14</span> Baruch 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+And read ye this book, which we have sent to you to be read in the temple of the Lord, on feasts, and proper days.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4f2fc95" class="outline-3">
+<h3 id="org4f2fc95"><span class="section-number-3">1.15</span> Baruch 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+And you shall say: To the Lord our God belongeth justice, but to us confusion of our face: as it is come to pass at this day to all Juda, and to the inhabitants of Jerusalem,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4c4c14a" class="outline-3">
+<h3 id="org4c4c14a"><span class="section-number-3">1.16</span> Baruch 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+To our kings, and to our princes, and to our priests, and to our prophets, and to our fathers.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6e80a97" class="outline-3">
+<h3 id="org6e80a97"><span class="section-number-3">1.17</span> Baruch 1:17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+We have sinned before the Lord our God, and have not believed him, nor put our trust in him:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1edffa7" class="outline-3">
+<h3 id="org1edffa7"><span class="section-number-3">1.18</span> Baruch 1:18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+And we were not obedient to him, and we have not hearkened to the voice of the Lord our God, to walk in his commandments which he hath given us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7121fd8" class="outline-3">
+<h3 id="org7121fd8"><span class="section-number-3">1.19</span> Baruch 1:19</h3>
+<div class="outline-text-3" id="text-1-19">
+<p>
+From the day that he brought our fathers out of the land of Egypt, even to this day, we were disobedient to the Lord our God: and going astray we turned away from hearing his voice.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbe0fb6c" class="outline-3">
+<h3 id="orgbe0fb6c"><span class="section-number-3">1.20</span> Baruch 1:20</h3>
+<div class="outline-text-3" id="text-1-20">
+<p>
+And many evils have cleaved to us, and the curses which the Lord foretold by Moses his servant: who brought our fathers out of the land of Egypt, to give us a land flowing with milk and honey, as at this day.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4e72d30" class="outline-3">
+<h3 id="org4e72d30"><span class="section-number-3">1.21</span> Baruch 1:21</h3>
+<div class="outline-text-3" id="text-1-21">
+<p>
+And we have not hearkened to the voice of the Lord our God according to all the words of the prophets whom he sent to us:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org66b4325" class="outline-3">
+<h3 id="org66b4325"><span class="section-number-3">1.22</span> Baruch 1:22</h3>
+<div class="outline-text-3" id="text-1-22">
+<p>
+And we have gone away every man after the inclinations of his own wicked heart, to serve strange gods, and to do evil in the sight of the Lord our God. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org511d294" class="outline-2">
+<h2 id="org511d294"><span class="section-number-2">2</span> Baruch 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-orge187da5" class="outline-3">
+<h3 id="orge187da5"><span class="section-number-3">2.1</span> Baruch 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Wherefore the Lord our God hath made good his word, that he spoke to us, and to our judges that have judged Israel, and to our kings, and to our princes, and to all Israel and Juda:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2f2686a" class="outline-3">
+<h3 id="org2f2686a"><span class="section-number-3">2.2</span> Baruch 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+That the Lord would bring upon us great evils, such as never happened under heaven, as they have come to pass in Jerusalem, according to the things that are written in the law of Moses:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc5d4f43" class="outline-3">
+<h3 id="orgc5d4f43"><span class="section-number-3">2.3</span> Baruch 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+That a man should eat the flesh of his own son, and the flesh of his own daughter.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org348fe74" class="outline-3">
+<h3 id="org348fe74"><span class="section-number-3">2.4</span> Baruch 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+And he hath delivered them up to be under the hand of all the kings that are round about us, to be a reproach, and desolation among all the people, among whom the Lord hath scattered us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org011da2f" class="outline-3">
+<h3 id="org011da2f"><span class="section-number-3">2.5</span> Baruch 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+And we are brought under, and are not uppermost: because we have sinned against the Lord our God, by not obeying his voice.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7a74389" class="outline-3">
+<h3 id="org7a74389"><span class="section-number-3">2.6</span> Baruch 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+To the Lord our God belongeth justice: but to us, and to our fathers confusion of face, as at this day.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0b09597" class="outline-3">
+<h3 id="org0b09597"><span class="section-number-3">2.7</span> Baruch 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+For the Lord hath pronounced against us all these evils that are come upon us:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7c425eb" class="outline-3">
+<h3 id="org7c425eb"><span class="section-number-3">2.8</span> Baruch 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+And we have not entreated the face of the Lord our God, that we might return every one of us from our most wicked ways.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge4c885e" class="outline-3">
+<h3 id="orge4c885e"><span class="section-number-3">2.9</span> Baruch 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+And the Lord hath watched over us for evil, and hath brought it upon us: for the Lord is just in all his works which he hath commanded us:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga0aa94c" class="outline-3">
+<h3 id="orga0aa94c"><span class="section-number-3">2.10</span> Baruch 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+And we have not hearkened to his voice to walk in the commandments of the Lord which he hath set before us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde3198a" class="outline-3">
+<h3 id="orgde3198a"><span class="section-number-3">2.11</span> Baruch 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+And now, O Lord God of Israel, who hast brought thy people out of the land of Egypt with a strong hand, and with signs, and with wonders, and with thy great power, and with a mighty arm, and hast made thee a name as at this day,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgab78ffb" class="outline-3">
+<h3 id="orgab78ffb"><span class="section-number-3">2.12</span> Baruch 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+We have sinned, we have done wickedly, we have acted unjustly, O Lord our God, against all thy justices.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org792afa6" class="outline-3">
+<h3 id="org792afa6"><span class="section-number-3">2.13</span> Baruch 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+Let thy wrath be turned away from us: for we are left a few among the nations where thou hast scattered us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org110acd4" class="outline-3">
+<h3 id="org110acd4"><span class="section-number-3">2.14</span> Baruch 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+Hear, O Lord, our prayers, and our petitions, and deliver us for thy own sake: and grant that we may find favour in the sight of them that have led us away:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2517533" class="outline-3">
+<h3 id="org2517533"><span class="section-number-3">2.15</span> Baruch 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+That all the earth may know that thou art the Lord our God, and that thy name is called upon Israel, and upon his posterity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org15bc647" class="outline-3">
+<h3 id="org15bc647"><span class="section-number-3">2.16</span> Baruch 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+Look down upon us, O Lord, from thy holy house, and incline thy ear, and hear us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org21b5683" class="outline-3">
+<h3 id="org21b5683"><span class="section-number-3">2.17</span> Baruch 2:17</h3>
+<div class="outline-text-3" id="text-2-17">
+<p>
+Open thy eyes, and behold: for the dead that are in hell, whose spirit is taken away from their bowels, shall not give glory and justice to the Lord:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdc4baf1" class="outline-3">
+<h3 id="orgdc4baf1"><span class="section-number-3">2.18</span> Baruch 2:18</h3>
+<div class="outline-text-3" id="text-2-18">
+<p>
+But the soul that is sorrowful for the greatness of evil she hath done, and goeth bowed down, and feeble, and the eyes that fail, and the hungry soul giveth glory and justice to thee the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd72a83c" class="outline-3">
+<h3 id="orgd72a83c"><span class="section-number-3">2.19</span> Baruch 2:19</h3>
+<div class="outline-text-3" id="text-2-19">
+<p>
+For it is not for the justices of our fathers that we pour out our prayers, and beg mercy in thy sight, O Lord our God:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6c53745" class="outline-3">
+<h3 id="org6c53745"><span class="section-number-3">2.20</span> Baruch 2:20</h3>
+<div class="outline-text-3" id="text-2-20">
+<p>
+But because thou hast sent out thy wrath, and thy indignation upon us, as thou hast spoken by the hand of thy servants the prophets, saying:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf19cc5a" class="outline-3">
+<h3 id="orgf19cc5a"><span class="section-number-3">2.21</span> Baruch 2:21</h3>
+<div class="outline-text-3" id="text-2-21">
+<p>
+Thus saith the Lord: Bow down your shoulder, and your neck, and serve the king of Babylon: and you shall remain in the land which I have given to your fathers.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6193c3b" class="outline-3">
+<h3 id="org6193c3b"><span class="section-number-3">2.22</span> Baruch 2:22</h3>
+<div class="outline-text-3" id="text-2-22">
+<p>
+But if you will not hearken to the voice of the Lord your God, to serve the king of Babylon: I will cause you to depart out of the cities of Juda, and from without Jerusalem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2a14e58" class="outline-3">
+<h3 id="org2a14e58"><span class="section-number-3">2.23</span> Baruch 2:23</h3>
+<div class="outline-text-3" id="text-2-23">
+<p>
+And I will take away from you the voice of mirth, and the voice of joy, and the voice of the bridegroom, and the voice of the bride, and all the land shall be without any footstep of inhabitants.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf26bd92" class="outline-3">
+<h3 id="orgf26bd92"><span class="section-number-3">2.24</span> Baruch 2:24</h3>
+<div class="outline-text-3" id="text-2-24">
+<p>
+And they hearkened not to thy voice, to serve the king of Babylon: and thou hast made good thy words, which thou spokest by the hands of thy servants the prophets, that the bones of our kings, and the bones of our fathers should be removed out of their place:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2f95564" class="outline-3">
+<h3 id="org2f95564"><span class="section-number-3">2.25</span> Baruch 2:25</h3>
+<div class="outline-text-3" id="text-2-25">
+<p>
+And behold they are cast out to the heat of the sun, and to the frost of the night: and they have died in grievous pains, by famine, and by the sword, and in banishment.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf82207b" class="outline-3">
+<h3 id="orgf82207b"><span class="section-number-3">2.26</span> Baruch 2:26</h3>
+<div class="outline-text-3" id="text-2-26">
+<p>
+And thou hast made the temple, in which thy name was called upon, as it is at this day, for the iniquity of the house of Israel, and the house of Juda.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org26c8341" class="outline-3">
+<h3 id="org26c8341"><span class="section-number-3">2.27</span> Baruch 2:27</h3>
+<div class="outline-text-3" id="text-2-27">
+<p>
+And thou hast dealt with us, O Lord our God, according to all thy goodness, and according to all that great mercy of thine:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgab7f685" class="outline-3">
+<h3 id="orgab7f685"><span class="section-number-3">2.28</span> Baruch 2:28</h3>
+<div class="outline-text-3" id="text-2-28">
+<p>
+As thou spokest by the hand of thy servant Moses, in the day when thou didst command him to write thy law before the children of Israel,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgab872bd" class="outline-3">
+<h3 id="orgab872bd"><span class="section-number-3">2.29</span> Baruch 2:29</h3>
+<div class="outline-text-3" id="text-2-29">
+<p>
+Saying: If you will not hear my voice, this great multitude shall be turned into a very small number among the nations, where I will scatter them:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9a01f3f" class="outline-3">
+<h3 id="org9a01f3f"><span class="section-number-3">2.30</span> Baruch 2:30</h3>
+<div class="outline-text-3" id="text-2-30">
+<p>
+For I know that the people will not hear me, for they are a people of a stiff neck: but they shall turn to their heart in the land of their captivity:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4a93709" class="outline-3">
+<h3 id="org4a93709"><span class="section-number-3">2.31</span> Baruch 2:31</h3>
+<div class="outline-text-3" id="text-2-31">
+<p>
+And they shall know that I am the Lord their God: and I will give them a heart, and they shall understand: and ears, and they shall hear.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd11c0f2" class="outline-3">
+<h3 id="orgd11c0f2"><span class="section-number-3">2.32</span> Baruch 2:32</h3>
+<div class="outline-text-3" id="text-2-32">
+<p>
+And they shall praise me in the land of their captivity, and shall be mindful of my name.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe55dbb" class="outline-3">
+<h3 id="orgfe55dbb"><span class="section-number-3">2.33</span> Baruch 2:33</h3>
+<div class="outline-text-3" id="text-2-33">
+<p>
+And they shall turn away themselves from their stiff neck, and from their wicked deeds: for they shall remember the way of their fathers, that sinned against me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4a8035b" class="outline-3">
+<h3 id="org4a8035b"><span class="section-number-3">2.34</span> Baruch 2:34</h3>
+<div class="outline-text-3" id="text-2-34">
+<p>
+And I will bring them back again into the land which I promised with an oath to their fathers, Abraham, Isaac, and Jacob, and they shall be masters thereof: and I will multiply them, and they shall not be diminished.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1635f98" class="outline-3">
+<h3 id="org1635f98"><span class="section-number-3">2.35</span> Baruch 2:35</h3>
+<div class="outline-text-3" id="text-2-35">
+<p>
+And I will make with them another covenant that shall be everlasting, to be their God, and they shall be my people: and I will no more remove my people, the children of Israel, out of the land that I have given them. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgec6a6ed" class="outline-2">
+<h2 id="orgec6a6ed"><span class="section-number-2">3</span> Baruch 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org2852e5b" class="outline-3">
+<h3 id="org2852e5b"><span class="section-number-3">3.1</span> Baruch 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+And now, O Lord Almighty, the God of Israel, the soul in anguish, and the troubled spirit crieth to thee:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6e6b0e3" class="outline-3">
+<h3 id="org6e6b0e3"><span class="section-number-3">3.2</span> Baruch 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+Hear, O Lord, and have mercy, for thou art a merciful God, and have pity on us: for we have sinned before thee.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org40adf73" class="outline-3">
+<h3 id="org40adf73"><span class="section-number-3">3.3</span> Baruch 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+For thou remainest for ever, and shall we perish everlastingly?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb0b1e48" class="outline-3">
+<h3 id="orgb0b1e48"><span class="section-number-3">3.4</span> Baruch 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+O Lord Almighty, the God of Israel, hear now the prayer of the dead of Israel, and of their children, that have sinned before thee, and have not hearkened to the voice of the Lord their God, wherefore evils have cleaved fast to us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb6c1c5e" class="outline-3">
+<h3 id="orgb6c1c5e"><span class="section-number-3">3.5</span> Baruch 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+Remember not the iniquities of our fathers, but think upon thy hand, and upon thy name at this time:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org54b5a16" class="outline-3">
+<h3 id="org54b5a16"><span class="section-number-3">3.6</span> Baruch 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+For thou art the Lord our God, and we will praise thee, O Lord:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6d4db83" class="outline-3">
+<h3 id="org6d4db83"><span class="section-number-3">3.7</span> Baruch 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+Because for this end thou hast put thy fear in our hearts, to the intent that we should call upon thy name, and praise thee in our captivity, for we are converted from the iniquity of our fathers, who sinned before thee.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga9da27b" class="outline-3">
+<h3 id="orga9da27b"><span class="section-number-3">3.8</span> Baruch 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+And behold we are at this day in our captivity, whereby thou hast scattered us to be a reproach, and a curse, and an offence, according to all the iniquities of our fathers, who departed from thee, O Lord our God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org96bfcb5" class="outline-3">
+<h3 id="org96bfcb5"><span class="section-number-3">3.9</span> Baruch 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+Hear, O Israel, the commandments of life: give ear, that thou mayst learn wisdom.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org937a8b5" class="outline-3">
+<h3 id="org937a8b5"><span class="section-number-3">3.10</span> Baruch 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+How happeneth it, O Israel, that thou art in thy enemies&rsquo; land?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org48c320b" class="outline-3">
+<h3 id="org48c320b"><span class="section-number-3">3.11</span> Baruch 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+Thou art grown old in a strange country, thou art defiled with the dead: thou art counted with them that go down into hell.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2c0b4cb" class="outline-3">
+<h3 id="org2c0b4cb"><span class="section-number-3">3.12</span> Baruch 3:12</h3>
+<div class="outline-text-3" id="text-3-12">
+<p>
+Thou hast forsaken the fountain of wisdom:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7934789" class="outline-3">
+<h3 id="org7934789"><span class="section-number-3">3.13</span> Baruch 3:13</h3>
+<div class="outline-text-3" id="text-3-13">
+<p>
+For if thou hadst walked in the way of God, thou hadst surely dwelt in peace for ever.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org49b357c" class="outline-3">
+<h3 id="org49b357c"><span class="section-number-3">3.14</span> Baruch 3:14</h3>
+<div class="outline-text-3" id="text-3-14">
+<p>
+Learn where is wisdom, where is strength, where is understanding: that thou mayst know also where is length of days and life, where is the light of the eyes, and peace.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd5578f0" class="outline-3">
+<h3 id="orgd5578f0"><span class="section-number-3">3.15</span> Baruch 3:15</h3>
+<div class="outline-text-3" id="text-3-15">
+<p>
+Who hath found out her place? and who hath gone in to her treasures?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0b3aabf" class="outline-3">
+<h3 id="org0b3aabf"><span class="section-number-3">3.16</span> Baruch 3:16</h3>
+<div class="outline-text-3" id="text-3-16">
+<p>
+Where are the princes of the nations, and they that rule over the beasts that are upon the earth?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org475ac68" class="outline-3">
+<h3 id="org475ac68"><span class="section-number-3">3.17</span> Baruch 3:17</h3>
+<div class="outline-text-3" id="text-3-17">
+<p>
+That take their diversion with the birds of the air.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0394bcd" class="outline-3">
+<h3 id="org0394bcd"><span class="section-number-3">3.18</span> Baruch 3:18</h3>
+<div class="outline-text-3" id="text-3-18">
+<p>
+That hoard up silver and gold, wherein men trust, and there is no end of their getting? who work in silver and are solicitous, and their works are unsearchable.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org770b324" class="outline-3">
+<h3 id="org770b324"><span class="section-number-3">3.19</span> Baruch 3:19</h3>
+<div class="outline-text-3" id="text-3-19">
+<p>
+They are cut off, and are gone down to hell, and others are risen up in their place.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgae83a22" class="outline-3">
+<h3 id="orgae83a22"><span class="section-number-3">3.20</span> Baruch 3:20</h3>
+<div class="outline-text-3" id="text-3-20">
+<p>
+Young men have seen the light, and dwelt upon the earth: but the way of knowledge they have not known,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4ad4344" class="outline-3">
+<h3 id="org4ad4344"><span class="section-number-3">3.21</span> Baruch 3:21</h3>
+<div class="outline-text-3" id="text-3-21">
+<p>
+Nor have they understood the paths thereof, neither have their children received it, it is far from their face.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org294ff68" class="outline-3">
+<h3 id="org294ff68"><span class="section-number-3">3.22</span> Baruch 3:22</h3>
+<div class="outline-text-3" id="text-3-22">
+<p>
+It hath not been heard of in the land of Chanaan, neither hath it been seen in Theman.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga3c178a" class="outline-3">
+<h3 id="orga3c178a"><span class="section-number-3">3.23</span> Baruch 3:23</h3>
+<div class="outline-text-3" id="text-3-23">
+<p>
+The children of Agar also, that search after the wisdom that is of the earth, the merchants of Merrha, and of Theman, and the tellers of fables, and searchers of prudence and understanding: but the way of wisdom they have not known, neither have they remembered her paths.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc7076e" class="outline-3">
+<h3 id="orgfc7076e"><span class="section-number-3">3.24</span> Baruch 3:24</h3>
+<div class="outline-text-3" id="text-3-24">
+<p>
+O Israel, how great is the house of God, and how vast is the place of his possession!
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd770620" class="outline-3">
+<h3 id="orgd770620"><span class="section-number-3">3.25</span> Baruch 3:25</h3>
+<div class="outline-text-3" id="text-3-25">
+<p>
+It is great, and hath no end: it is high and immense.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb179f28" class="outline-3">
+<h3 id="orgb179f28"><span class="section-number-3">3.26</span> Baruch 3:26</h3>
+<div class="outline-text-3" id="text-3-26">
+<p>
+There were the giants, those renowned men that were from the beginning, of great stature, expert in war.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org521b201" class="outline-3">
+<h3 id="org521b201"><span class="section-number-3">3.27</span> Baruch 3:27</h3>
+<div class="outline-text-3" id="text-3-27">
+<p>
+The Lord chose not them, neither did they find the way of knowledge: therefore did they perish.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc5a9da3" class="outline-3">
+<h3 id="orgc5a9da3"><span class="section-number-3">3.28</span> Baruch 3:28</h3>
+<div class="outline-text-3" id="text-3-28">
+<p>
+And because they had not wisdom, they perished through their folly.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga165269" class="outline-3">
+<h3 id="orga165269"><span class="section-number-3">3.29</span> Baruch 3:29</h3>
+<div class="outline-text-3" id="text-3-29">
+<p>
+Who hath gone up into heaven, and taken her, and brought her down from the clouds?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org97e62b9" class="outline-3">
+<h3 id="org97e62b9"><span class="section-number-3">3.30</span> Baruch 3:30</h3>
+<div class="outline-text-3" id="text-3-30">
+<p>
+Who hath passed over the sea, and found her, and brought her preferably to chosen gold?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgec8d1a1" class="outline-3">
+<h3 id="orgec8d1a1"><span class="section-number-3">3.31</span> Baruch 3:31</h3>
+<div class="outline-text-3" id="text-3-31">
+<p>
+There is none that is able to know her ways, nor that can search out her paths:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6146713" class="outline-3">
+<h3 id="org6146713"><span class="section-number-3">3.32</span> Baruch 3:32</h3>
+<div class="outline-text-3" id="text-3-32">
+<p>
+But he that knoweth all things, knoweth her, and hath found her out with his understanding: he that prepared the earth for evermore, and filled it with cattle and fourfooted beasts:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3efc331" class="outline-3">
+<h3 id="org3efc331"><span class="section-number-3">3.33</span> Baruch 3:33</h3>
+<div class="outline-text-3" id="text-3-33">
+<p>
+He that sendeth forth the light, and it goeth: and hath called it, and it obeyeth him with trembling.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf2c5303" class="outline-3">
+<h3 id="orgf2c5303"><span class="section-number-3">3.34</span> Baruch 3:34</h3>
+<div class="outline-text-3" id="text-3-34">
+<p>
+And the stars have given light in their watches, and rejoiced:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbb6a831" class="outline-3">
+<h3 id="orgbb6a831"><span class="section-number-3">3.35</span> Baruch 3:35</h3>
+<div class="outline-text-3" id="text-3-35">
+<p>
+They were called, and they said: Here we are: and with cheerfulness they have shined forth to him that made them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfaae69f" class="outline-3">
+<h3 id="orgfaae69f"><span class="section-number-3">3.36</span> Baruch 3:36</h3>
+<div class="outline-text-3" id="text-3-36">
+<p>
+This is our God, and there shall no other be accounted of in comparison of him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0372b30" class="outline-3">
+<h3 id="org0372b30"><span class="section-number-3">3.37</span> Baruch 3:37</h3>
+<div class="outline-text-3" id="text-3-37">
+<p>
+He found out all the way of knowledge, and gave it to Jacob his servant, and to Israel his beloved.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org138f60b" class="outline-3">
+<h3 id="org138f60b"><span class="section-number-3">3.38</span> Baruch 3:38</h3>
+<div class="outline-text-3" id="text-3-38">
+<p>
+Afterwards he was seen upon earth, and conversed with men. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgac15f3a" class="outline-2">
+<h2 id="orgac15f3a"><span class="section-number-2">4</span> Baruch 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-orgcd2022f" class="outline-3">
+<h3 id="orgcd2022f"><span class="section-number-3">4.1</span> Baruch 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+This is the book of the commandments of God, and the law, that is for ever: all they that keep it, shall come to life: but they that have forsaken it, to death.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org78b4f1c" class="outline-3">
+<h3 id="org78b4f1c"><span class="section-number-3">4.2</span> Baruch 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+Return, O Jacob, and take hold of it, walk in the way by its brightness, in the presence of the light thereof.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org10db3e3" class="outline-3">
+<h3 id="org10db3e3"><span class="section-number-3">4.3</span> Baruch 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+Give not thy honour to another, nor thy dignity to a strange nation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5d2e414" class="outline-3">
+<h3 id="org5d2e414"><span class="section-number-3">4.4</span> Baruch 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+We are happy, O Israel: because the things that are pleasing to God, are made known to us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4c89294" class="outline-3">
+<h3 id="org4c89294"><span class="section-number-3">4.5</span> Baruch 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+Be of good comfort, O people of God, the memorial of Israel:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge0b89fa" class="outline-3">
+<h3 id="orge0b89fa"><span class="section-number-3">4.6</span> Baruch 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+You have been sold to the Gentiles, not for your destruction: but because you provoked God to wrath, you are delivered to your adversaries.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdff13f6" class="outline-3">
+<h3 id="orgdff13f6"><span class="section-number-3">4.7</span> Baruch 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+For you have provoked him who made you, the eternal God, offering sacrifice to devils, and not to God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2fe2812" class="outline-3">
+<h3 id="org2fe2812"><span class="section-number-3">4.8</span> Baruch 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+For you have forgotten God, who brought you up, and you have grieved Jerusalem that nursed you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9c78c20" class="outline-3">
+<h3 id="org9c78c20"><span class="section-number-3">4.9</span> Baruch 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+For she saw the wrath of God coming upon you, and she said: Give ear, all you that dwell near Sion, for God hath brought upon me great mourning:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0ea95c0" class="outline-3">
+<h3 id="org0ea95c0"><span class="section-number-3">4.10</span> Baruch 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+For I have seen the captivity of my people, of my sons, and my daughters, which the Eternal hath brought upon them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb58c4d8" class="outline-3">
+<h3 id="orgb58c4d8"><span class="section-number-3">4.11</span> Baruch 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+For I nourished them with joy: but I sent them away with weeping and mourning.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb773801" class="outline-3">
+<h3 id="orgb773801"><span class="section-number-3">4.12</span> Baruch 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+Let no man rejoice over me, a widow, and desolate: I am forsaken of many for the sins of my children, because they departed from the law of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd357c2f" class="outline-3">
+<h3 id="orgd357c2f"><span class="section-number-3">4.13</span> Baruch 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+And they have not known his justices, nor walked by the ways of God&rsquo;s commandments, neither have they entered by the paths of his truth and justice.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org10fd769" class="outline-3">
+<h3 id="org10fd769"><span class="section-number-3">4.14</span> Baruch 4:14</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+Let them that dwell about Sion come, and remember the captivity of my sons and daughters, which the Eternal hath brought upon them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3a8fb7e" class="outline-3">
+<h3 id="org3a8fb7e"><span class="section-number-3">4.15</span> Baruch 4:15</h3>
+<div class="outline-text-3" id="text-4-15">
+<p>
+For he hath brought a nation upon them from afar, a wicked nation, and of a strange tongue:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfd889f1" class="outline-3">
+<h3 id="orgfd889f1"><span class="section-number-3">4.16</span> Baruch 4:16</h3>
+<div class="outline-text-3" id="text-4-16">
+<p>
+Who have neither reverenced the ancient, nor pitied children, and have carried away the beloved of the widow, and have left me all alone without children.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgafa9e70" class="outline-3">
+<h3 id="orgafa9e70"><span class="section-number-3">4.17</span> Baruch 4:17</h3>
+<div class="outline-text-3" id="text-4-17">
+<p>
+But as for me, what help can I give you?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd2ae2a1" class="outline-3">
+<h3 id="orgd2ae2a1"><span class="section-number-3">4.18</span> Baruch 4:18</h3>
+<div class="outline-text-3" id="text-4-18">
+<p>
+But he that hath brought the evils upon you, he will deliver you out of the hands of your enemies.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1f685bb" class="outline-3">
+<h3 id="org1f685bb"><span class="section-number-3">4.19</span> Baruch 4:19</h3>
+<div class="outline-text-3" id="text-4-19">
+<p>
+Go your way, my children, go your way: for I am left alone.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0bb669a" class="outline-3">
+<h3 id="org0bb669a"><span class="section-number-3">4.20</span> Baruch 4:20</h3>
+<div class="outline-text-3" id="text-4-20">
+<p>
+I have put off the robe of peace, and have put upon me the sackcloth of supplication, and I will cry to the most High in my days.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9f52dd2" class="outline-3">
+<h3 id="org9f52dd2"><span class="section-number-3">4.21</span> Baruch 4:21</h3>
+<div class="outline-text-3" id="text-4-21">
+<p>
+Be of good comfort, my children, cry to the Lord, and he will deliver you out of the hand of the princes your enemies.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org21c8408" class="outline-3">
+<h3 id="org21c8408"><span class="section-number-3">4.22</span> Baruch 4:22</h3>
+<div class="outline-text-3" id="text-4-22">
+<p>
+For my hope is in the Eternal that he will save you: and joy is come upon me from the Holy One, because of the mercy which shall come to you from our everlasting Saviour.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga59e4f9" class="outline-3">
+<h3 id="orga59e4f9"><span class="section-number-3">4.23</span> Baruch 4:23</h3>
+<div class="outline-text-3" id="text-4-23">
+<p>
+For I sent you forth with mourning and weeping: but the Lord will bring you back to me with joy and gladness for ever.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org14922ac" class="outline-3">
+<h3 id="org14922ac"><span class="section-number-3">4.24</span> Baruch 4:24</h3>
+<div class="outline-text-3" id="text-4-24">
+<p>
+For as the neighbours of Sion have now seen your captivity from God: so shall they also shortly see your salvation from God, which shall come upon you with great honour, and everlasting glory.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc141d33" class="outline-3">
+<h3 id="orgc141d33"><span class="section-number-3">4.25</span> Baruch 4:25</h3>
+<div class="outline-text-3" id="text-4-25">
+<p>
+My children, suffer patiently the wrath that is come upon you: for thy enemy hath persecuted thee, but thou shalt quickly see his destruction: and thou shalt get up upon his neck.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgec81e97" class="outline-3">
+<h3 id="orgec81e97"><span class="section-number-3">4.26</span> Baruch 4:26</h3>
+<div class="outline-text-3" id="text-4-26">
+<p>
+My delicate ones have walked rough ways, for they were taken away as a flock made a prey by the enemies.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org819a135" class="outline-3">
+<h3 id="org819a135"><span class="section-number-3">4.27</span> Baruch 4:27</h3>
+<div class="outline-text-3" id="text-4-27">
+<p>
+Be of good comfort, my children, and cry to the Lord: for you shall be remembered by him that hath led you away.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb1d11b3" class="outline-3">
+<h3 id="orgb1d11b3"><span class="section-number-3">4.28</span> Baruch 4:28</h3>
+<div class="outline-text-3" id="text-4-28">
+<p>
+For as it was your mind to go astray from God; so when you return again you shall seek him ten times as much.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org08d68c4" class="outline-3">
+<h3 id="org08d68c4"><span class="section-number-3">4.29</span> Baruch 4:29</h3>
+<div class="outline-text-3" id="text-4-29">
+<p>
+For he that hath brought evils upon you, shall bring you everlasting joy again with your salvation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2fd099b" class="outline-3">
+<h3 id="org2fd099b"><span class="section-number-3">4.30</span> Baruch 4:30</h3>
+<div class="outline-text-3" id="text-4-30">
+<p>
+Be of good heart, O Jerusalem: for he exhorteth thee, that named thee.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdcbe98d" class="outline-3">
+<h3 id="orgdcbe98d"><span class="section-number-3">4.31</span> Baruch 4:31</h3>
+<div class="outline-text-3" id="text-4-31">
+<p>
+The wicked that have afflicted thee, shall perish: and they that have rejoiced at thy ruin, shall be punished.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgba45892" class="outline-3">
+<h3 id="orgba45892"><span class="section-number-3">4.32</span> Baruch 4:32</h3>
+<div class="outline-text-3" id="text-4-32">
+<p>
+The cities which thy children have served, shall be punished: and she that received thy sons.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb454638" class="outline-3">
+<h3 id="orgb454638"><span class="section-number-3">4.33</span> Baruch 4:33</h3>
+<div class="outline-text-3" id="text-4-33">
+<p>
+For as she rejoiced at thy ruin, and was glad of thy fall: so shall she be grieved for her own desolation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1f0668f" class="outline-3">
+<h3 id="org1f0668f"><span class="section-number-3">4.34</span> Baruch 4:34</h3>
+<div class="outline-text-3" id="text-4-34">
+<p>
+And the joy of her multitude shall be cut off: and her gladness shall be turned to mourning.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc82876b" class="outline-3">
+<h3 id="orgc82876b"><span class="section-number-3">4.35</span> Baruch 4:35</h3>
+<div class="outline-text-3" id="text-4-35">
+<p>
+For fire shall come upon her from the Eternal, long to endure, and she shall be inhabited by devils for a great time.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde037c5" class="outline-3">
+<h3 id="orgde037c5"><span class="section-number-3">4.36</span> Baruch 4:36</h3>
+<div class="outline-text-3" id="text-4-36">
+<p>
+Look about thee, O Jerusalem, towards the east, and behold the joy that cometh to thee from God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd252595" class="outline-3">
+<h3 id="orgd252595"><span class="section-number-3">4.37</span> Baruch 4:37</h3>
+<div class="outline-text-3" id="text-4-37">
+<p>
+For behold thy children come, whom thou sentest away scattered, they come gathered together from the east even to the west, at the word of the Holy One rejoicing for the honour of God. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org0afd678" class="outline-2">
+<h2 id="org0afd678"><span class="section-number-2">5</span> Baruch 5</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org95d5cc6" class="outline-3">
+<h3 id="org95d5cc6"><span class="section-number-3">5.1</span> Baruch 5:1</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Put off, O Jerusalem, the garment of thy mourning, and affliction: and put on the beauty, and honour of that everlasting glory which thou hast from God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org979b82a" class="outline-3">
+<h3 id="org979b82a"><span class="section-number-3">5.2</span> Baruch 5:2</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+God will clothe thee with the double garment of justice, and will set a crown on thy head of everlasting honour.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org914f163" class="outline-3">
+<h3 id="org914f163"><span class="section-number-3">5.3</span> Baruch 5:3</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+For God will shew his brightness in thee, to every one under heaven.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgae7b708" class="outline-3">
+<h3 id="orgae7b708"><span class="section-number-3">5.4</span> Baruch 5:4</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+For thy name shall be named to thee by God for ever: the peace of justice, and honour of piety.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgff8b70e" class="outline-3">
+<h3 id="orgff8b70e"><span class="section-number-3">5.5</span> Baruch 5:5</h3>
+<div class="outline-text-3" id="text-5-5">
+<p>
+Arise, O Jerusalem, and stand on high: and look about towards the east, and behold thy children gathered together from the rising to the setting sun, by the word of the Holy One rejoicing in the remembrance of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcd512ae" class="outline-3">
+<h3 id="orgcd512ae"><span class="section-number-3">5.6</span> Baruch 5:6</h3>
+<div class="outline-text-3" id="text-5-6">
+<p>
+For they went out from thee on foot, led by the enemies: but the Lord will bring them to thee exalted with honour as children of the kingdom.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1dd6b51" class="outline-3">
+<h3 id="org1dd6b51"><span class="section-number-3">5.7</span> Baruch 5:7</h3>
+<div class="outline-text-3" id="text-5-7">
+<p>
+For God hath appointed to bring down every high mountain, and the everlasting rocks, and to fill up the valleys to make them even with the ground: that Israel may walk diligently to the honour of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga0ecd65" class="outline-3">
+<h3 id="orga0ecd65"><span class="section-number-3">5.8</span> Baruch 5:8</h3>
+<div class="outline-text-3" id="text-5-8">
+<p>
+Moreover the woods, and every sweetsmelling tree have overshadowed Israel by the commandment of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c097cd" class="outline-3">
+<h3 id="org8c097cd"><span class="section-number-3">5.9</span> Baruch 5:9</h3>
+<div class="outline-text-3" id="text-5-9">
+<p>
+For God will bring Israel with joy in the light of his majesty, with mercy, and justice, that cometh from him. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org1d5ea1b" class="outline-2">
+<h2 id="org1d5ea1b"><span class="section-number-2">6</span> Baruch 6</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-orgbc83c66" class="outline-3">
+<h3 id="orgbc83c66"><span class="section-number-3">6.1</span> Baruch 6:1</h3>
+<div class="outline-text-3" id="text-6-1">
+<p>
+For the sins that you have committed before God, you shall be carried away captives into Babylon by Nabuchodonosor the king of Babylon.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb528e5e" class="outline-3">
+<h3 id="orgb528e5e"><span class="section-number-3">6.2</span> Baruch 6:2</h3>
+<div class="outline-text-3" id="text-6-2">
+<p>
+And when you are come into Babylon, you shall be there many years, and for a long time, even to seven generations: and after that I will bring you away from thence with peace.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7e063b8" class="outline-3">
+<h3 id="org7e063b8"><span class="section-number-3">6.3</span> Baruch 6:3</h3>
+<div class="outline-text-3" id="text-6-3">
+<p>
+But now, you shall see in Babylon gods of gold, and of silver, and of stone, and of wood borne upon shoulders, causing fear to the Gentiles.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc723d63" class="outline-3">
+<h3 id="orgc723d63"><span class="section-number-3">6.4</span> Baruch 6:4</h3>
+<div class="outline-text-3" id="text-6-4">
+<p>
+Beware therefore that you imitate not the doings of others, and be afraid, and the fear of them should seize upon you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org90d78dd" class="outline-3">
+<h3 id="org90d78dd"><span class="section-number-3">6.5</span> Baruch 6:5</h3>
+<div class="outline-text-3" id="text-6-5">
+<p>
+But when you see the multitude behind, and before, adoring them, say you in your hearts: Thou oughtest to be adored, O Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge1756e8" class="outline-3">
+<h3 id="orge1756e8"><span class="section-number-3">6.6</span> Baruch 6:6</h3>
+<div class="outline-text-3" id="text-6-6">
+<p>
+For my angel is with you: And I myself will demand an account of your souls.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2b95333" class="outline-3">
+<h3 id="org2b95333"><span class="section-number-3">6.7</span> Baruch 6:7</h3>
+<div class="outline-text-3" id="text-6-7">
+<p>
+They shall not pity the widow, nor do good to the fatherless.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org74bdbfc" class="outline-3">
+<h3 id="org74bdbfc"><span class="section-number-3">6.8</span> Baruch 6:8</h3>
+<div class="outline-text-3" id="text-6-8">
+<p>
+And as if it were for a maiden that loveth to go gay: so do they take gold and make them up.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9dc09d1" class="outline-3">
+<h3 id="org9dc09d1"><span class="section-number-3">6.9</span> Baruch 6:9</h3>
+<div class="outline-text-3" id="text-6-9">
+<p>
+Their gods have golden crowns upon their heads: whereof the priests secretly convey away from them gold, and silver, and bestow it on themselves.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org848f585" class="outline-3">
+<h3 id="org848f585"><span class="section-number-3">6.10</span> Baruch 6:10</h3>
+<div class="outline-text-3" id="text-6-10">
+<p>
+Yea and they give thereof to prostitutes, and they dress out harlots: and again when they receive it of the harlots, they adorn their gods.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org079a446" class="outline-3">
+<h3 id="org079a446"><span class="section-number-3">6.11</span> Baruch 6:11</h3>
+<div class="outline-text-3" id="text-6-11">
+<p>
+And these gods cannot defend themselves from the rust, and the moth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org512cfa9" class="outline-3">
+<h3 id="org512cfa9"><span class="section-number-3">6.12</span> Baruch 6:12</h3>
+<div class="outline-text-3" id="text-6-12">
+<p>
+But when they have covered them with a purple garment, they wipe their face because of the dust of the house, which is very much among them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2db8f1f" class="outline-3">
+<h3 id="org2db8f1f"><span class="section-number-3">6.13</span> Baruch 6:13</h3>
+<div class="outline-text-3" id="text-6-13">
+<p>
+This holdeth a sceptre as a man, as a judge of the country, but cannot put to death one that offendeth him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb7a9ebc" class="outline-3">
+<h3 id="orgb7a9ebc"><span class="section-number-3">6.14</span> Baruch 6:14</h3>
+<div class="outline-text-3" id="text-6-14">
+<p>
+And this hath in his hand a sword, or an axe, but cannot save himself from war, or from robbers, whereby be it known to you, that they are not gods.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc9aa9f7" class="outline-3">
+<h3 id="orgc9aa9f7"><span class="section-number-3">6.15</span> Baruch 6:15</h3>
+<div class="outline-text-3" id="text-6-15">
+<p>
+Therefore fear them not. For as a vessel that a man uses when it is broken becometh useless, even so are their gods:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5952680" class="outline-3">
+<h3 id="org5952680"><span class="section-number-3">6.16</span> Baruch 6:16</h3>
+<div class="outline-text-3" id="text-6-16">
+<p>
+When they are placed in the house, their eyes are full of dust by the feet of them that go in.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8f48477" class="outline-3">
+<h3 id="org8f48477"><span class="section-number-3">6.17</span> Baruch 6:17</h3>
+<div class="outline-text-3" id="text-6-17">
+<p>
+And as the gates are made sure on every side upon one that hath offended the king, or like a dead man carried to the grave, so do the priests secure the doors with bars and locks, lest they be stripped by thieves.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org787f601" class="outline-3">
+<h3 id="org787f601"><span class="section-number-3">6.18</span> Baruch 6:18</h3>
+<div class="outline-text-3" id="text-6-18">
+<p>
+They light candles to them, and in great number, of which they cannot see one: but they are like beams in the house.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9505e23" class="outline-3">
+<h3 id="org9505e23"><span class="section-number-3">6.19</span> Baruch 6:19</h3>
+<div class="outline-text-3" id="text-6-19">
+<p>
+And they say that the creeping things which are of the earth, gnaw their hearts, while they eat them and their garments, and they feel it not.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb3e61b" class="outline-3">
+<h3 id="orgfb3e61b"><span class="section-number-3">6.20</span> Baruch 6:20</h3>
+<div class="outline-text-3" id="text-6-20">
+<p>
+Their faces are black with the smoke that is made in the house.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org668c2f6" class="outline-3">
+<h3 id="org668c2f6"><span class="section-number-3">6.21</span> Baruch 6:21</h3>
+<div class="outline-text-3" id="text-6-21">
+<p>
+Owls, and swallows, and other birds fly upon their bodies, and upon their heads, and cats in like manner.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org47609dd" class="outline-3">
+<h3 id="org47609dd"><span class="section-number-3">6.22</span> Baruch 6:22</h3>
+<div class="outline-text-3" id="text-6-22">
+<p>
+Whereby you may know that they are no gods. Therefore fear them not.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4e4e4df" class="outline-3">
+<h3 id="org4e4e4df"><span class="section-number-3">6.23</span> Baruch 6:23</h3>
+<div class="outline-text-3" id="text-6-23">
+<p>
+The gold also which they have, is for shew, but except a man wipe off the rust, they will not shine: for neither when they were molten, did they feel it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd9ab2da" class="outline-3">
+<h3 id="orgd9ab2da"><span class="section-number-3">6.24</span> Baruch 6:24</h3>
+<div class="outline-text-3" id="text-6-24">
+<p>
+Men buy them at a high price, whereas there is no breath in them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org948d19c" class="outline-3">
+<h3 id="org948d19c"><span class="section-number-3">6.25</span> Baruch 6:25</h3>
+<div class="outline-text-3" id="text-6-25">
+<p>
+And having not the use of feet they are carried upon shoulders, declaring to men how vile they are. Be they confounded also that worship them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org08f213c" class="outline-3">
+<h3 id="org08f213c"><span class="section-number-3">6.26</span> Baruch 6:26</h3>
+<div class="outline-text-3" id="text-6-26">
+<p>
+Therefore if they fall to the ground, they rise not up again of themselves, nor if a man set them upright, will they stand by themselves, but their gifts shall be set before them, as to the dead.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0578b4a" class="outline-3">
+<h3 id="org0578b4a"><span class="section-number-3">6.27</span> Baruch 6:27</h3>
+<div class="outline-text-3" id="text-6-27">
+<p>
+The things that are sacrificed to them, their priests sell and abuse: in like manner also their wives take part of them, but give nothing of it either to the sick, or to the poor.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org94ee5c9" class="outline-3">
+<h3 id="org94ee5c9"><span class="section-number-3">6.28</span> Baruch 6:28</h3>
+<div class="outline-text-3" id="text-6-28">
+<p>
+The childbearing and menstruous women touch their sacrifices: knowing, therefore, by these things that they are not gods, fear them not.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4dab147" class="outline-3">
+<h3 id="org4dab147"><span class="section-number-3">6.29</span> Baruch 6:29</h3>
+<div class="outline-text-3" id="text-6-29">
+<p>
+For how can they be called gods? because women set offerings before the gods of silver, and of gold, and of wood:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcaf7afd" class="outline-3">
+<h3 id="orgcaf7afd"><span class="section-number-3">6.30</span> Baruch 6:30</h3>
+<div class="outline-text-3" id="text-6-30">
+<p>
+And priests sit in their temples, having their garments rent, and their heads and beards shaven, and nothing upon their heads.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org90a1afe" class="outline-3">
+<h3 id="org90a1afe"><span class="section-number-3">6.31</span> Baruch 6:31</h3>
+<div class="outline-text-3" id="text-6-31">
+<p>
+And they roar and cry before their gods, as men do at the feast when one is dead.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc972ed9" class="outline-3">
+<h3 id="orgc972ed9"><span class="section-number-3">6.32</span> Baruch 6:32</h3>
+<div class="outline-text-3" id="text-6-32">
+<p>
+The priests take away their garments, and clothe their wives and their children.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0186792" class="outline-3">
+<h3 id="org0186792"><span class="section-number-3">6.33</span> Baruch 6:33</h3>
+<div class="outline-text-3" id="text-6-33">
+<p>
+And whether it be evil that one doth unto them, or good, they are not able to recompense it: neither can they set up a king, nor put him down:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb3f102b" class="outline-3">
+<h3 id="orgb3f102b"><span class="section-number-3">6.34</span> Baruch 6:34</h3>
+<div class="outline-text-3" id="text-6-34">
+<p>
+In like manner they can neither give riches, nor requite evil. If a man make a vow to them, and perform it not: they cannot require it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf499d38" class="outline-3">
+<h3 id="orgf499d38"><span class="section-number-3">6.35</span> Baruch 6:35</h3>
+<div class="outline-text-3" id="text-6-35">
+<p>
+They cannot deliver a man from death, nor save the weak from the mighty.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org695a18b" class="outline-3">
+<h3 id="org695a18b"><span class="section-number-3">6.36</span> Baruch 6:36</h3>
+<div class="outline-text-3" id="text-6-36">
+<p>
+They cannot restore the blind man to his sight: nor deliver a man from distress.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8e00afb" class="outline-3">
+<h3 id="org8e00afb"><span class="section-number-3">6.37</span> Baruch 6:37</h3>
+<div class="outline-text-3" id="text-6-37">
+<p>
+nil
+</p>
+</div>
+</div>
+
+<div id="outline-container-org515df4c" class="outline-3">
+<h3 id="org515df4c"><span class="section-number-3">6.38</span> Baruch 6:38</h3>
+<div class="outline-text-3" id="text-6-38">
+<p>
+Their gods, of wood, and of stone, and of gold, and of silver, are like the stones that are hewn out of the mountains: and they that worship them shall be confounded.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org16329b5" class="outline-3">
+<h3 id="org16329b5"><span class="section-number-3">6.39</span> Baruch 6:39</h3>
+<div class="outline-text-3" id="text-6-39">
+<p>
+How then is it to be supposed, or to be said, that they are gods?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8edee94" class="outline-3">
+<h3 id="org8edee94"><span class="section-number-3">6.40</span> Baruch 6:40</h3>
+<div class="outline-text-3" id="text-6-40">
+<p>
+Even the Chaldeans themselves dishonor them: who when they hear of one dumb that cannot speak, they present him to Bel, entreating him, that he may speak.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6a83094" class="outline-3">
+<h3 id="org6a83094"><span class="section-number-3">6.41</span> Baruch 6:41</h3>
+<div class="outline-text-3" id="text-6-41">
+<p>
+As though they could be sensible that have no motion themselves: and they, when they shall perceive this, will leave them: for their gods themselves have no sense.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0cee237" class="outline-3">
+<h3 id="org0cee237"><span class="section-number-3">6.42</span> Baruch 6:42</h3>
+<div class="outline-text-3" id="text-6-42">
+<p>
+The women also, with cords about them, sit in the ways, burning olive-stones.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc20fa17" class="outline-3">
+<h3 id="orgc20fa17"><span class="section-number-3">6.43</span> Baruch 6:43</h3>
+<div class="outline-text-3" id="text-6-43">
+<p>
+And when any one of them, drawn away by some passenger, lieth with him, she upbraideth her neighbor, that she was not thought as worthy as herself, nor her cord broken.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1cbd473" class="outline-3">
+<h3 id="org1cbd473"><span class="section-number-3">6.44</span> Baruch 6:44</h3>
+<div class="outline-text-3" id="text-6-44">
+<p>
+But all things that are done about them, are false: how is it then to be thought, or to be said, that they are gods?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org877e658" class="outline-3">
+<h3 id="org877e658"><span class="section-number-3">6.45</span> Baruch 6:45</h3>
+<div class="outline-text-3" id="text-6-45">
+<p>
+And they are made by workmen, and by goldsmiths. They shall be nothing else but what the priests will have them to be.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgac5f400" class="outline-3">
+<h3 id="orgac5f400"><span class="section-number-3">6.46</span> Baruch 6:46</h3>
+<div class="outline-text-3" id="text-6-46">
+<p>
+For the artificers themselves that make them, are of no long continuance. Can those things then that are made by them, be gods?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd17d9f8" class="outline-3">
+<h3 id="orgd17d9f8"><span class="section-number-3">6.47</span> Baruch 6:47</h3>
+<div class="outline-text-3" id="text-6-47">
+<p>
+But they have left false things and reproach to them that come after.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6f319d2" class="outline-3">
+<h3 id="org6f319d2"><span class="section-number-3">6.48</span> Baruch 6:48</h3>
+<div class="outline-text-3" id="text-6-48">
+<p>
+For when war cometh upon them , or evils: the priests consult with themselves, where they may hide themselves with them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org46e3190" class="outline-3">
+<h3 id="org46e3190"><span class="section-number-3">6.49</span> Baruch 6:49</h3>
+<div class="outline-text-3" id="text-6-49">
+<p>
+How then can they be thought to be gods, that can neither deliver themselves from war, nor save themselves from evils?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org477359f" class="outline-3">
+<h3 id="org477359f"><span class="section-number-3">6.50</span> Baruch 6:50</h3>
+<div class="outline-text-3" id="text-6-50">
+<p>
+For seeing they are but of wood, and laid over with gold, and with silver, it shall be known hereafter that they are false things, by all nations, and kings: and it shall be manifest that they are no gods, but the work of men&rsquo;s hands, and that there is no work of God in them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc40791" class="outline-3">
+<h3 id="orgfc40791"><span class="section-number-3">6.51</span> Baruch 6:51</h3>
+<div class="outline-text-3" id="text-6-51">
+<p>
+Whence, therefore, is it known that they are not gods, but the work of men&rsquo;s hands, and no work of God is in them?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc35c49a" class="outline-3">
+<h3 id="orgc35c49a"><span class="section-number-3">6.52</span> Baruch 6:52</h3>
+<div class="outline-text-3" id="text-6-52">
+<p>
+They cannot set up a king over the land, nor give rain to men.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4ba3aea" class="outline-3">
+<h3 id="org4ba3aea"><span class="section-number-3">6.53</span> Baruch 6:53</h3>
+<div class="outline-text-3" id="text-6-53">
+<p>
+They determine no causes, nor deliver countries from oppression: because they can do nothing, and are as daws between heaven and earth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge79b716" class="outline-3">
+<h3 id="orge79b716"><span class="section-number-3">6.54</span> Baruch 6:54</h3>
+<div class="outline-text-3" id="text-6-54">
+<p>
+For when fire shall fall upon the house of these gods of wood, and of silver, and of gold, their priests indeed will flee away, and be saved: but they themselves shall be burnt in the midst like beams.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6db68db" class="outline-3">
+<h3 id="org6db68db"><span class="section-number-3">6.55</span> Baruch 6:55</h3>
+<div class="outline-text-3" id="text-6-55">
+<p>
+And they cannot withstand a king and war. How then can it be supposed, or admitted, that they are gods?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb053f79" class="outline-3">
+<h3 id="orgb053f79"><span class="section-number-3">6.56</span> Baruch 6:56</h3>
+<div class="outline-text-3" id="text-6-56">
+<p>
+Neither are these gods of wood, and of stone, and laid over with gold, and with silver, able to deliver themselves from thieves or robbers: they that are stronger than them,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga404b02" class="outline-3">
+<h3 id="orga404b02"><span class="section-number-3">6.57</span> Baruch 6:57</h3>
+<div class="outline-text-3" id="text-6-57">
+<p>
+Shall take from them the gold, and silver, and the raiment wherewith they are clothed, and shall go their way, neither shall they help themselves.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6b23f04" class="outline-3">
+<h3 id="org6b23f04"><span class="section-number-3">6.58</span> Baruch 6:58</h3>
+<div class="outline-text-3" id="text-6-58">
+<p>
+Therefore it is better to be a king that sheweth his power: or else a profitable vessel in the house, with which the owner thereof will be well satisfied: or a door in the house, to keep things safe that are therein, than such false gods.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcb7feeb" class="outline-3">
+<h3 id="orgcb7feeb"><span class="section-number-3">6.59</span> Baruch 6:59</h3>
+<div class="outline-text-3" id="text-6-59">
+<p>
+The sun, and the moon, and the stars being bright, and sent forth for profitable uses, are obedient.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6da226a" class="outline-3">
+<h3 id="org6da226a"><span class="section-number-3">6.60</span> Baruch 6:60</h3>
+<div class="outline-text-3" id="text-6-60">
+<p>
+In like manner the lightning, when it breaketh forth, is easy to be seen: and after the same manner the wind bloweth in every country.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga83e24d" class="outline-3">
+<h3 id="orga83e24d"><span class="section-number-3">6.61</span> Baruch 6:61</h3>
+<div class="outline-text-3" id="text-6-61">
+<p>
+And the clouds, when God commandeth them to go over the whole world, do that which is commanded them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org36ca6b7" class="outline-3">
+<h3 id="org36ca6b7"><span class="section-number-3">6.62</span> Baruch 6:62</h3>
+<div class="outline-text-3" id="text-6-62">
+<p>
+The fire also being sent from above to consume mountains, and woods, doth as it is commanded. But these neither in shew, nor in power, are alike to any one of them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfff3cb7" class="outline-3">
+<h3 id="orgfff3cb7"><span class="section-number-3">6.63</span> Baruch 6:63</h3>
+<div class="outline-text-3" id="text-6-63">
+<p>
+Wherefore it is neither to be thought, nor to be said, that they are gods: since they are neither able to judge causes, nor to do any good to men.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf836dde" class="outline-3">
+<h3 id="orgf836dde"><span class="section-number-3">6.64</span> Baruch 6:64</h3>
+<div class="outline-text-3" id="text-6-64">
+<p>
+Knowing, therefore, that they are not gods, fear them not.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9459d5f" class="outline-3">
+<h3 id="org9459d5f"><span class="section-number-3">6.65</span> Baruch 6:65</h3>
+<div class="outline-text-3" id="text-6-65">
+<p>
+For neither can they curse kings, nor bless them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb9934c8" class="outline-3">
+<h3 id="orgb9934c8"><span class="section-number-3">6.66</span> Baruch 6:66</h3>
+<div class="outline-text-3" id="text-6-66">
+<p>
+Neither do they shew signs in the heaven to the nations, nor shine as the sun, nor give light as the moon.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org29f30d2" class="outline-3">
+<h3 id="org29f30d2"><span class="section-number-3">6.67</span> Baruch 6:67</h3>
+<div class="outline-text-3" id="text-6-67">
+<p>
+Beasts are better than they, which can fly under a covert, and help themselves.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org42481be" class="outline-3">
+<h3 id="org42481be"><span class="section-number-3">6.68</span> Baruch 6:68</h3>
+<div class="outline-text-3" id="text-6-68">
+<p>
+Therefore there is no manner of appearance that they are gods: so fear them not.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgefc3519" class="outline-3">
+<h3 id="orgefc3519"><span class="section-number-3">6.69</span> Baruch 6:69</h3>
+<div class="outline-text-3" id="text-6-69">
+<p>
+For as a scarecrow in a garden of cucumbers keepeth nothing, so are their gods of wood, and of silver, and laid over with gold.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org80c76de" class="outline-3">
+<h3 id="org80c76de"><span class="section-number-3">6.70</span> Baruch 6:70</h3>
+<div class="outline-text-3" id="text-6-70">
+<p>
+They are no better than a white thorn in a garden, upon which every bird sitteth. In like manner also their gods of wood, and laid over with gold, and with silver, are like to a dead body cast forth in the dark.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8e2fe1b" class="outline-3">
+<h3 id="org8e2fe1b"><span class="section-number-3">6.71</span> Baruch 6:71</h3>
+<div class="outline-text-3" id="text-6-71">
+<p>
+By the purple also and the scarlet which are motheaten upon them, you shall know that they are not gods. And they themselves at last are consumed, and shall be a reproach in the country.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org191b708" class="outline-3">
+<h3 id="org191b708"><span class="section-number-3">6.72</span> Baruch 6:72</h3>
+<div class="outline-text-3" id="text-6-72">
+<p>
+Better, therefore, is the just man that hath no idols: for he shall be far from reproach.  
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:36</p>
+</div>
+</body>
+</html>

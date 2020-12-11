@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:37 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgdb4b7fb">1. Philemon 1</a>
+<ul>
+<li><a href="#orgdae4856">1.1. Philemon 1:1</a></li>
+<li><a href="#orgcea0e39">1.2. Philemon 1:2</a></li>
+<li><a href="#org9bc11b9">1.3. Philemon 1:3</a></li>
+<li><a href="#org8eefdef">1.4. Philemon 1:4</a></li>
+<li><a href="#orge50c64a">1.5. Philemon 1:5</a></li>
+<li><a href="#org21bf785">1.6. Philemon 1:6</a></li>
+<li><a href="#org0d042d9">1.7. Philemon 1:7</a></li>
+<li><a href="#orgb207b11">1.8. Philemon 1:8</a></li>
+<li><a href="#orgc32d918">1.9. Philemon 1:9</a></li>
+<li><a href="#org02ae671">1.10. Philemon 1:10</a></li>
+<li><a href="#orgc1a79fe">1.11. Philemon 1:11</a></li>
+<li><a href="#orge8c8bbb">1.12. Philemon 1:12</a></li>
+<li><a href="#org074636d">1.13. Philemon 1:13</a></li>
+<li><a href="#orgf4063cf">1.14. Philemon 1:14</a></li>
+<li><a href="#org6694ef7">1.15. Philemon 1:15</a></li>
+<li><a href="#orge5e3aa7">1.16. Philemon 1:16</a></li>
+<li><a href="#org86416a6">1.17. Philemon 1:17</a></li>
+<li><a href="#org3c04b3d">1.18. Philemon 1:18</a></li>
+<li><a href="#orgfb1ac88">1.19. Philemon 1:19</a></li>
+<li><a href="#orgcbed85a">1.20. Philemon 1:20</a></li>
+<li><a href="#org13b26e8">1.21. Philemon 1:21</a></li>
+<li><a href="#org9c0a6d7">1.22. Philemon 1:22</a></li>
+<li><a href="#org700c54b">1.23. Philemon 1:23</a></li>
+<li><a href="#org71ed960">1.24. Philemon 1:24</a></li>
+<li><a href="#orgc343cab">1.25. Philemon 1:25</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgdb4b7fb" class="outline-2">
+<h2 id="orgdb4b7fb"><span class="section-number-2">1</span> Philemon 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgdae4856" class="outline-3">
+<h3 id="orgdae4856"><span class="section-number-3">1.1</span> Philemon 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Paul, a prisoner of Christ Jesus, and Timothy, a brother: to Philemon, our beloved and fellow labourer,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcea0e39" class="outline-3">
+<h3 id="orgcea0e39"><span class="section-number-3">1.2</span> Philemon 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+And to Appia, our dearest sister, and to Archippus, our fellow soldier, and to the church which is in thy house.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9bc11b9" class="outline-3">
+<h3 id="org9bc11b9"><span class="section-number-3">1.3</span> Philemon 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Grace to you and peace, from God our Father and from the Lord Jesus Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8eefdef" class="outline-3">
+<h3 id="org8eefdef"><span class="section-number-3">1.4</span> Philemon 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+I give thanks to my God, always making a remembrance of thee in my prayers.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge50c64a" class="outline-3">
+<h3 id="orge50c64a"><span class="section-number-3">1.5</span> Philemon 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Hearing of thy charity and faith, which thou hast in the Lord Jesus and towards all the saints:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org21bf785" class="outline-3">
+<h3 id="org21bf785"><span class="section-number-3">1.6</span> Philemon 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+That the communication of thy faith may be made evident in the acknowledgment of every good work that is in you in Christ Jesus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0d042d9" class="outline-3">
+<h3 id="org0d042d9"><span class="section-number-3">1.7</span> Philemon 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+For I have had great joy and consolation in thy charity, because the bowels of the saints have been refreshed by thee, brother.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb207b11" class="outline-3">
+<h3 id="orgb207b11"><span class="section-number-3">1.8</span> Philemon 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+Wherefore, though I have much confidence in Christ Jesus to command thee that which is to the purpose:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc32d918" class="outline-3">
+<h3 id="orgc32d918"><span class="section-number-3">1.9</span> Philemon 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+For charity sake I rather beseech, whereas thou art such a one, as Paul, an old man and now a prisoner also of Jesus Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02ae671" class="outline-3">
+<h3 id="org02ae671"><span class="section-number-3">1.10</span> Philemon 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+I beseech thee for my son, whom I have begotten in my bands, Onesimus,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc1a79fe" class="outline-3">
+<h3 id="orgc1a79fe"><span class="section-number-3">1.11</span> Philemon 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+Who hath been heretofore unprofitable to thee but now is profitable both to me and thee:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge8c8bbb" class="outline-3">
+<h3 id="orge8c8bbb"><span class="section-number-3">1.12</span> Philemon 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+Whom I have sent back to thee. And do thou receive him as my own bowels.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org074636d" class="outline-3">
+<h3 id="org074636d"><span class="section-number-3">1.13</span> Philemon 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+Whom I would have retained with me, that in thy stead he might have ministered to me in the bands of the gospel.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf4063cf" class="outline-3">
+<h3 id="orgf4063cf"><span class="section-number-3">1.14</span> Philemon 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+But without thy counsel I would do nothing: that thy good deed might not be as it were of necessity, but voluntary.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6694ef7" class="outline-3">
+<h3 id="org6694ef7"><span class="section-number-3">1.15</span> Philemon 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+For perhaps he therefore departed for a season from thee that thou mightest receive him again for ever:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge5e3aa7" class="outline-3">
+<h3 id="orge5e3aa7"><span class="section-number-3">1.16</span> Philemon 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+Not now as a servant, but instead of a servant, a most dear brother, especially to me. But how much more to thee, both in the flesh and in the Lord?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org86416a6" class="outline-3">
+<h3 id="org86416a6"><span class="section-number-3">1.17</span> Philemon 1:17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+If therefore thou count me a partner, receive him as myself.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3c04b3d" class="outline-3">
+<h3 id="org3c04b3d"><span class="section-number-3">1.18</span> Philemon 1:18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+And if he hath wronged thee in any thing or is in thy debt, put that to my account.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb1ac88" class="outline-3">
+<h3 id="orgfb1ac88"><span class="section-number-3">1.19</span> Philemon 1:19</h3>
+<div class="outline-text-3" id="text-1-19">
+<p>
+I Paul have written it with my own hand: I will repay it: not to say to thee that thou owest me thy own self also.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcbed85a" class="outline-3">
+<h3 id="orgcbed85a"><span class="section-number-3">1.20</span> Philemon 1:20</h3>
+<div class="outline-text-3" id="text-1-20">
+<p>
+Yea, brother. May I enjoy thee in the Lord! Refresh my bowels in the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org13b26e8" class="outline-3">
+<h3 id="org13b26e8"><span class="section-number-3">1.21</span> Philemon 1:21</h3>
+<div class="outline-text-3" id="text-1-21">
+<p>
+Trusting in thy obedience, I have written to thee: knowing that thou wilt also do more than I say.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9c0a6d7" class="outline-3">
+<h3 id="org9c0a6d7"><span class="section-number-3">1.22</span> Philemon 1:22</h3>
+<div class="outline-text-3" id="text-1-22">
+<p>
+But withal prepare me also a lodging. For I hope that through your prayers I shall be given unto you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org700c54b" class="outline-3">
+<h3 id="org700c54b"><span class="section-number-3">1.23</span> Philemon 1:23</h3>
+<div class="outline-text-3" id="text-1-23">
+<p>
+There salute thee Epaphras, my fellow prisoner in Christ Jesus:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org71ed960" class="outline-3">
+<h3 id="org71ed960"><span class="section-number-3">1.24</span> Philemon 1:24</h3>
+<div class="outline-text-3" id="text-1-24">
+<p>
+Mark, Aristarchus, Demas and Luke, my fellow labourers.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc343cab" class="outline-3">
+<h3 id="orgc343cab"><span class="section-number-3">1.25</span> Philemon 1:25</h3>
+<div class="outline-text-3" id="text-1-25">
+<p>
+The grace of our Lord Jesus Christ be with your spirit. Amen.  
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:37</p>
+</div>
+</body>
+</html>

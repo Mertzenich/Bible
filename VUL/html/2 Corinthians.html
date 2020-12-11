@@ -1,0 +1,2917 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:37 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org7491cc2">1. II Corinthians 1</a>
+<ul>
+<li><a href="#org8f730a5">1.1. II Corinthians 1:1</a></li>
+<li><a href="#org81db5b5">1.2. II Corinthians 1:2</a></li>
+<li><a href="#org7622fdb">1.3. II Corinthians 1:3</a></li>
+<li><a href="#org2ae3678">1.4. II Corinthians 1:4</a></li>
+<li><a href="#orgcac7de2">1.5. II Corinthians 1:5</a></li>
+<li><a href="#org3a93b46">1.6. II Corinthians 1:6</a></li>
+<li><a href="#org46253be">1.7. II Corinthians 1:7</a></li>
+<li><a href="#orgd307802">1.8. II Corinthians 1:8</a></li>
+<li><a href="#org62cccfa">1.9. II Corinthians 1:9</a></li>
+<li><a href="#orgf698038">1.10. II Corinthians 1:10</a></li>
+<li><a href="#org9214c15">1.11. II Corinthians 1:11</a></li>
+<li><a href="#org5d2efd5">1.12. II Corinthians 1:12</a></li>
+<li><a href="#org716ce30">1.13. II Corinthians 1:13</a></li>
+<li><a href="#org3a073ee">1.14. II Corinthians 1:14</a></li>
+<li><a href="#orgb91dc04">1.15. II Corinthians 1:15</a></li>
+<li><a href="#org75fa1e5">1.16. II Corinthians 1:16</a></li>
+<li><a href="#orgc999541">1.17. II Corinthians 1:17</a></li>
+<li><a href="#org10a5e19">1.18. II Corinthians 1:18</a></li>
+<li><a href="#org95450fb">1.19. II Corinthians 1:19</a></li>
+<li><a href="#orgc0dca08">1.20. II Corinthians 1:20</a></li>
+<li><a href="#orgb263078">1.21. II Corinthians 1:21</a></li>
+<li><a href="#org9435fd7">1.22. II Corinthians 1:22</a></li>
+<li><a href="#orgac64c38">1.23. II Corinthians 1:23</a></li>
+<li><a href="#org54d4b40">1.24. II Corinthians 1:24</a></li>
+</ul>
+</li>
+<li><a href="#orga2d97bd">2. II Corinthians 2</a>
+<ul>
+<li><a href="#org2b0be86">2.1. II Corinthians 2:1</a></li>
+<li><a href="#orgb8b5c2f">2.2. II Corinthians 2:2</a></li>
+<li><a href="#orgfeeada4">2.3. II Corinthians 2:3</a></li>
+<li><a href="#org14fa67e">2.4. II Corinthians 2:4</a></li>
+<li><a href="#org1f7dbae">2.5. II Corinthians 2:5</a></li>
+<li><a href="#org11431fe">2.6. II Corinthians 2:6</a></li>
+<li><a href="#orge3b5643">2.7. II Corinthians 2:7</a></li>
+<li><a href="#org768c9b9">2.8. II Corinthians 2:8</a></li>
+<li><a href="#org72108f6">2.9. II Corinthians 2:9</a></li>
+<li><a href="#orgf9fa99f">2.10. II Corinthians 2:10</a></li>
+<li><a href="#org16ffdaf">2.11. II Corinthians 2:11</a></li>
+<li><a href="#org096c4d4">2.12. II Corinthians 2:12</a></li>
+<li><a href="#org314a892">2.13. II Corinthians 2:13</a></li>
+<li><a href="#orgcabbb4f">2.14. II Corinthians 2:14</a></li>
+<li><a href="#org01c805f">2.15. II Corinthians 2:15</a></li>
+<li><a href="#org41f970d">2.16. II Corinthians 2:16</a></li>
+<li><a href="#orge3aca40">2.17. II Corinthians 2:17</a></li>
+</ul>
+</li>
+<li><a href="#orgffa9f87">3. II Corinthians 3</a>
+<ul>
+<li><a href="#org6622701">3.1. II Corinthians 3:1</a></li>
+<li><a href="#orgab7b360">3.2. II Corinthians 3:2</a></li>
+<li><a href="#org067e75c">3.3. II Corinthians 3:3</a></li>
+<li><a href="#org4121fa1">3.4. II Corinthians 3:4</a></li>
+<li><a href="#org07d82cb">3.5. II Corinthians 3:5</a></li>
+<li><a href="#orgfca50d7">3.6. II Corinthians 3:6</a></li>
+<li><a href="#org69dd62f">3.7. II Corinthians 3:7</a></li>
+<li><a href="#orge28d9a1">3.8. II Corinthians 3:8</a></li>
+<li><a href="#orgbd95061">3.9. II Corinthians 3:9</a></li>
+<li><a href="#orgce583a6">3.10. II Corinthians 3:10</a></li>
+<li><a href="#orgfc9bc33">3.11. II Corinthians 3:11</a></li>
+<li><a href="#orga3aa6c6">3.12. II Corinthians 3:12</a></li>
+<li><a href="#orgaf8c412">3.13. II Corinthians 3:13</a></li>
+<li><a href="#org8072a2a">3.14. II Corinthians 3:14</a></li>
+<li><a href="#orgbf62569">3.15. II Corinthians 3:15</a></li>
+<li><a href="#org8816538">3.16. II Corinthians 3:16</a></li>
+<li><a href="#orgd7ba2cd">3.17. II Corinthians 3:17</a></li>
+<li><a href="#orgac5a899">3.18. II Corinthians 3:18</a></li>
+</ul>
+</li>
+<li><a href="#org4c86889">4. II Corinthians 4</a>
+<ul>
+<li><a href="#org150379f">4.1. II Corinthians 4:1</a></li>
+<li><a href="#org593c676">4.2. II Corinthians 4:2</a></li>
+<li><a href="#org2e0a293">4.3. II Corinthians 4:3</a></li>
+<li><a href="#org4663fd0">4.4. II Corinthians 4:4</a></li>
+<li><a href="#orge3f96c7">4.5. II Corinthians 4:5</a></li>
+<li><a href="#org34409e4">4.6. II Corinthians 4:6</a></li>
+<li><a href="#orgdc875a7">4.7. II Corinthians 4:7</a></li>
+<li><a href="#orgedf52c3">4.8. II Corinthians 4:8</a></li>
+<li><a href="#orge5260d2">4.9. II Corinthians 4:9</a></li>
+<li><a href="#org41cdf75">4.10. II Corinthians 4:10</a></li>
+<li><a href="#orga2a9fa7">4.11. II Corinthians 4:11</a></li>
+<li><a href="#org019de30">4.12. II Corinthians 4:12</a></li>
+<li><a href="#org9329846">4.13. II Corinthians 4:13</a></li>
+<li><a href="#org3cfe011">4.14. II Corinthians 4:14</a></li>
+<li><a href="#orge697cf6">4.15. II Corinthians 4:15</a></li>
+<li><a href="#org089ae2f">4.16. II Corinthians 4:16</a></li>
+<li><a href="#orge915bfa">4.17. II Corinthians 4:17</a></li>
+<li><a href="#orgc95ad6d">4.18. II Corinthians 4:18</a></li>
+</ul>
+</li>
+<li><a href="#org228c946">5. II Corinthians 5</a>
+<ul>
+<li><a href="#org47ba478">5.1. II Corinthians 5:1</a></li>
+<li><a href="#orgd39826e">5.2. II Corinthians 5:2</a></li>
+<li><a href="#org7891d74">5.3. II Corinthians 5:3</a></li>
+<li><a href="#orgfe81f2e">5.4. II Corinthians 5:4</a></li>
+<li><a href="#org8900e72">5.5. II Corinthians 5:5</a></li>
+<li><a href="#org08d0720">5.6. II Corinthians 5:6</a></li>
+<li><a href="#org9846ca1">5.7. II Corinthians 5:7</a></li>
+<li><a href="#orge53f531">5.8. II Corinthians 5:8</a></li>
+<li><a href="#org4f94126">5.9. II Corinthians 5:9</a></li>
+<li><a href="#org35b813b">5.10. II Corinthians 5:10</a></li>
+<li><a href="#orge0fec74">5.11. II Corinthians 5:11</a></li>
+<li><a href="#orge991e83">5.12. II Corinthians 5:12</a></li>
+<li><a href="#org07fbc96">5.13. II Corinthians 5:13</a></li>
+<li><a href="#org0f6c271">5.14. II Corinthians 5:14</a></li>
+<li><a href="#orgac9c382">5.15. II Corinthians 5:15</a></li>
+<li><a href="#org52245e6">5.16. II Corinthians 5:16</a></li>
+<li><a href="#orgf218e4d">5.17. II Corinthians 5:17</a></li>
+<li><a href="#org2d50497">5.18. II Corinthians 5:18</a></li>
+<li><a href="#org7cff61c">5.19. II Corinthians 5:19</a></li>
+<li><a href="#orgee78fe1">5.20. II Corinthians 5:20</a></li>
+<li><a href="#org24cfa62">5.21. II Corinthians 5:21</a></li>
+</ul>
+</li>
+<li><a href="#orgca686a1">6. II Corinthians 6</a>
+<ul>
+<li><a href="#org5871f85">6.1. II Corinthians 6:1</a></li>
+<li><a href="#orgf2f8b11">6.2. II Corinthians 6:2</a></li>
+<li><a href="#orgbb7bb63">6.3. II Corinthians 6:3</a></li>
+<li><a href="#orgc79bc6f">6.4. II Corinthians 6:4</a></li>
+<li><a href="#org8e2a890">6.5. II Corinthians 6:5</a></li>
+<li><a href="#orgc2167a1">6.6. II Corinthians 6:6</a></li>
+<li><a href="#orgd4e9e22">6.7. II Corinthians 6:7</a></li>
+<li><a href="#org507de51">6.8. II Corinthians 6:8</a></li>
+<li><a href="#orga8c81cd">6.9. II Corinthians 6:9</a></li>
+<li><a href="#orga2594fb">6.10. II Corinthians 6:10</a></li>
+<li><a href="#orgc49ce45">6.11. II Corinthians 6:11</a></li>
+<li><a href="#orgc4cf809">6.12. II Corinthians 6:12</a></li>
+<li><a href="#orgc2dbf93">6.13. II Corinthians 6:13</a></li>
+<li><a href="#orga7209d9">6.14. II Corinthians 6:14</a></li>
+<li><a href="#org28f9559">6.15. II Corinthians 6:15</a></li>
+<li><a href="#org1033dbc">6.16. II Corinthians 6:16</a></li>
+<li><a href="#org07fcce4">6.17. II Corinthians 6:17</a></li>
+<li><a href="#org8c6ebd6">6.18. II Corinthians 6:18</a></li>
+</ul>
+</li>
+<li><a href="#org483f579">7. II Corinthians 7</a>
+<ul>
+<li><a href="#org1004a51">7.1. II Corinthians 7:1</a></li>
+<li><a href="#org2d25422">7.2. II Corinthians 7:2</a></li>
+<li><a href="#orgfcc407e">7.3. II Corinthians 7:3</a></li>
+<li><a href="#org859f725">7.4. II Corinthians 7:4</a></li>
+<li><a href="#org2feaba1">7.5. II Corinthians 7:5</a></li>
+<li><a href="#orgcaf9713">7.6. II Corinthians 7:6</a></li>
+<li><a href="#org24ed2db">7.7. II Corinthians 7:7</a></li>
+<li><a href="#org4359d7c">7.8. II Corinthians 7:8</a></li>
+<li><a href="#orga9a3d92">7.9. II Corinthians 7:9</a></li>
+<li><a href="#org43eed8c">7.10. II Corinthians 7:10</a></li>
+<li><a href="#org64106e0">7.11. II Corinthians 7:11</a></li>
+<li><a href="#org82a2f8d">7.12. II Corinthians 7:12</a></li>
+<li><a href="#org59784be">7.13. II Corinthians 7:13</a></li>
+<li><a href="#org4d89078">7.14. II Corinthians 7:14</a></li>
+<li><a href="#org00874d5">7.15. II Corinthians 7:15</a></li>
+<li><a href="#org2c252ff">7.16. II Corinthians 7:16</a></li>
+</ul>
+</li>
+<li><a href="#org8d86ed9">8. II Corinthians 8</a>
+<ul>
+<li><a href="#orge29243f">8.1. II Corinthians 8:1</a></li>
+<li><a href="#org3684ccb">8.2. II Corinthians 8:2</a></li>
+<li><a href="#orgf0f1386">8.3. II Corinthians 8:3</a></li>
+<li><a href="#org7d641bc">8.4. II Corinthians 8:4</a></li>
+<li><a href="#orga019475">8.5. II Corinthians 8:5</a></li>
+<li><a href="#orge1c6620">8.6. II Corinthians 8:6</a></li>
+<li><a href="#orgd90d63e">8.7. II Corinthians 8:7</a></li>
+<li><a href="#orgecf11e4">8.8. II Corinthians 8:8</a></li>
+<li><a href="#orgf8ecb76">8.9. II Corinthians 8:9</a></li>
+<li><a href="#orgc090ab8">8.10. II Corinthians 8:10</a></li>
+<li><a href="#orgfc67a11">8.11. II Corinthians 8:11</a></li>
+<li><a href="#org41a7078">8.12. II Corinthians 8:12</a></li>
+<li><a href="#org76c4fd8">8.13. II Corinthians 8:13</a></li>
+<li><a href="#org26fc863">8.14. II Corinthians 8:14</a></li>
+<li><a href="#orgd0aff67">8.15. II Corinthians 8:15</a></li>
+<li><a href="#orge3aa1d9">8.16. II Corinthians 8:16</a></li>
+<li><a href="#org8f5d2e7">8.17. II Corinthians 8:17</a></li>
+<li><a href="#org9033a39">8.18. II Corinthians 8:18</a></li>
+<li><a href="#orga21f784">8.19. II Corinthians 8:19</a></li>
+<li><a href="#org7175dd5">8.20. II Corinthians 8:20</a></li>
+<li><a href="#org0dd6aa6">8.21. II Corinthians 8:21</a></li>
+<li><a href="#org63fc243">8.22. II Corinthians 8:22</a></li>
+<li><a href="#org482f201">8.23. II Corinthians 8:23</a></li>
+<li><a href="#org0a82156">8.24. II Corinthians 8:24</a></li>
+</ul>
+</li>
+<li><a href="#orgc7fcf1c">9. II Corinthians 9</a>
+<ul>
+<li><a href="#org484002b">9.1. II Corinthians 9:1</a></li>
+<li><a href="#org7f2b0c0">9.2. II Corinthians 9:2</a></li>
+<li><a href="#org7f5ab5e">9.3. II Corinthians 9:3</a></li>
+<li><a href="#org588ccf7">9.4. II Corinthians 9:4</a></li>
+<li><a href="#org1e93d98">9.5. II Corinthians 9:5</a></li>
+<li><a href="#org6414ef4">9.6. II Corinthians 9:6</a></li>
+<li><a href="#orgcf402a4">9.7. II Corinthians 9:7</a></li>
+<li><a href="#org71e00b4">9.8. II Corinthians 9:8</a></li>
+<li><a href="#org07dfd1d">9.9. II Corinthians 9:9</a></li>
+<li><a href="#org6247360">9.10. II Corinthians 9:10</a></li>
+<li><a href="#orgbb018e1">9.11. II Corinthians 9:11</a></li>
+<li><a href="#org8cfb051">9.12. II Corinthians 9:12</a></li>
+<li><a href="#org96684b0">9.13. II Corinthians 9:13</a></li>
+<li><a href="#org91f9d0a">9.14. II Corinthians 9:14</a></li>
+<li><a href="#org4faca85">9.15. II Corinthians 9:15</a></li>
+</ul>
+</li>
+<li><a href="#orga312146">10. II Corinthians 10</a>
+<ul>
+<li><a href="#orgc6c7dc8">10.1. II Corinthians 10:1</a></li>
+<li><a href="#org14c9a55">10.2. II Corinthians 10:2</a></li>
+<li><a href="#org6e8e02d">10.3. II Corinthians 10:3</a></li>
+<li><a href="#org5e95615">10.4. II Corinthians 10:4</a></li>
+<li><a href="#org7f43eef">10.5. II Corinthians 10:5</a></li>
+<li><a href="#org1d03aeb">10.6. II Corinthians 10:6</a></li>
+<li><a href="#orgf461305">10.7. II Corinthians 10:7</a></li>
+<li><a href="#orgd01d59b">10.8. II Corinthians 10:8</a></li>
+<li><a href="#orgf150dc9">10.9. II Corinthians 10:9</a></li>
+<li><a href="#org80ad294">10.10. II Corinthians 10:10</a></li>
+<li><a href="#org02d57b3">10.11. II Corinthians 10:11</a></li>
+<li><a href="#orgc8aa948">10.12. II Corinthians 10:12</a></li>
+<li><a href="#org4012472">10.13. II Corinthians 10:13</a></li>
+<li><a href="#org7422f87">10.14. II Corinthians 10:14</a></li>
+<li><a href="#orgf57f6f5">10.15. II Corinthians 10:15</a></li>
+<li><a href="#org870d913">10.16. II Corinthians 10:16</a></li>
+<li><a href="#orgd6b671c">10.17. II Corinthians 10:17</a></li>
+<li><a href="#orge64a7f2">10.18. II Corinthians 10:18</a></li>
+</ul>
+</li>
+<li><a href="#org981c814">11. II Corinthians 11</a>
+<ul>
+<li><a href="#org1032ed7">11.1. II Corinthians 11:1</a></li>
+<li><a href="#org253451c">11.2. II Corinthians 11:2</a></li>
+<li><a href="#org49baf7d">11.3. II Corinthians 11:3</a></li>
+<li><a href="#orge91995a">11.4. II Corinthians 11:4</a></li>
+<li><a href="#orgcf01e06">11.5. II Corinthians 11:5</a></li>
+<li><a href="#org47c77e6">11.6. II Corinthians 11:6</a></li>
+<li><a href="#orgee898bc">11.7. II Corinthians 11:7</a></li>
+<li><a href="#org449cb73">11.8. II Corinthians 11:8</a></li>
+<li><a href="#org4a03932">11.9. II Corinthians 11:9</a></li>
+<li><a href="#org5b2567d">11.10. II Corinthians 11:10</a></li>
+<li><a href="#org8874ad2">11.11. II Corinthians 11:11</a></li>
+<li><a href="#org303eb10">11.12. II Corinthians 11:12</a></li>
+<li><a href="#org94fb344">11.13. II Corinthians 11:13</a></li>
+<li><a href="#org8be019d">11.14. II Corinthians 11:14</a></li>
+<li><a href="#org2bc0bd4">11.15. II Corinthians 11:15</a></li>
+<li><a href="#org267c17e">11.16. II Corinthians 11:16</a></li>
+<li><a href="#orga65e5e0">11.17. II Corinthians 11:17</a></li>
+<li><a href="#org2b3ec30">11.18. II Corinthians 11:18</a></li>
+<li><a href="#org1ca3431">11.19. II Corinthians 11:19</a></li>
+<li><a href="#org89b8235">11.20. II Corinthians 11:20</a></li>
+<li><a href="#org038efbf">11.21. II Corinthians 11:21</a></li>
+<li><a href="#org15cba69">11.22. II Corinthians 11:22</a></li>
+<li><a href="#org0369b15">11.23. II Corinthians 11:23</a></li>
+<li><a href="#org90387bc">11.24. II Corinthians 11:24</a></li>
+<li><a href="#org5a028fd">11.25. II Corinthians 11:25</a></li>
+<li><a href="#orge586956">11.26. II Corinthians 11:26</a></li>
+<li><a href="#orgcbb7f2f">11.27. II Corinthians 11:27</a></li>
+<li><a href="#orgfc70fa2">11.28. II Corinthians 11:28</a></li>
+<li><a href="#orgc8af402">11.29. II Corinthians 11:29</a></li>
+<li><a href="#orgfe0be65">11.30. II Corinthians 11:30</a></li>
+<li><a href="#org3fe2902">11.31. II Corinthians 11:31</a></li>
+<li><a href="#orgf4108d6">11.32. II Corinthians 11:32</a></li>
+<li><a href="#orga8c7944">11.33. II Corinthians 11:33</a></li>
+</ul>
+</li>
+<li><a href="#orgcc81900">12. II Corinthians 12</a>
+<ul>
+<li><a href="#org3e929c3">12.1. II Corinthians 12:1</a></li>
+<li><a href="#org39091ae">12.2. II Corinthians 12:2</a></li>
+<li><a href="#orgcdda3c0">12.3. II Corinthians 12:3</a></li>
+<li><a href="#org451244f">12.4. II Corinthians 12:4</a></li>
+<li><a href="#orgc868e0e">12.5. II Corinthians 12:5</a></li>
+<li><a href="#org8b0ba5d">12.6. II Corinthians 12:6</a></li>
+<li><a href="#org889cd4c">12.7. II Corinthians 12:7</a></li>
+<li><a href="#org2cb812a">12.8. II Corinthians 12:8</a></li>
+<li><a href="#org703b488">12.9. II Corinthians 12:9</a></li>
+<li><a href="#org87af854">12.10. II Corinthians 12:10</a></li>
+<li><a href="#org5f1991d">12.11. II Corinthians 12:11</a></li>
+<li><a href="#orgaad24c0">12.12. II Corinthians 12:12</a></li>
+<li><a href="#org3bb36f5">12.13. II Corinthians 12:13</a></li>
+<li><a href="#org8931256">12.14. II Corinthians 12:14</a></li>
+<li><a href="#orgbafa9e4">12.15. II Corinthians 12:15</a></li>
+<li><a href="#org49ef0bd">12.16. II Corinthians 12:16</a></li>
+<li><a href="#org12a6052">12.17. II Corinthians 12:17</a></li>
+<li><a href="#orgbc0cddd">12.18. II Corinthians 12:18</a></li>
+<li><a href="#org39fc548">12.19. II Corinthians 12:19</a></li>
+<li><a href="#org89eb9c7">12.20. II Corinthians 12:20</a></li>
+<li><a href="#org86d15be">12.21. II Corinthians 12:21</a></li>
+</ul>
+</li>
+<li><a href="#org247f6da">13. II Corinthians 13</a>
+<ul>
+<li><a href="#org21534c9">13.1. II Corinthians 13:1</a></li>
+<li><a href="#orgc6dee08">13.2. II Corinthians 13:2</a></li>
+<li><a href="#org88628f6">13.3. II Corinthians 13:3</a></li>
+<li><a href="#orgca8aabe">13.4. II Corinthians 13:4</a></li>
+<li><a href="#org81b5fff">13.5. II Corinthians 13:5</a></li>
+<li><a href="#orgcb1136f">13.6. II Corinthians 13:6</a></li>
+<li><a href="#org7df4fb1">13.7. II Corinthians 13:7</a></li>
+<li><a href="#orgf7f40b2">13.8. II Corinthians 13:8</a></li>
+<li><a href="#org53fba70">13.9. II Corinthians 13:9</a></li>
+<li><a href="#orga0fd5bd">13.10. II Corinthians 13:10</a></li>
+<li><a href="#org9ad925d">13.11. II Corinthians 13:11</a></li>
+<li><a href="#org3b51ad5">13.12. II Corinthians 13:12</a></li>
+<li><a href="#orgcd7202a">13.13. II Corinthians 13:13</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org7491cc2" class="outline-2">
+<h2 id="org7491cc2"><span class="section-number-2">1</span> II Corinthians 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org8f730a5" class="outline-3">
+<h3 id="org8f730a5"><span class="section-number-3">1.1</span> II Corinthians 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Paulus, Apostolus Jesu Christi per voluntatem Dei, et Timotheus frater, ecclesiæ Dei, quæ est Corinthi cum omnibus sanctis, qui sunt in universa Achaia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org81db5b5" class="outline-3">
+<h3 id="org81db5b5"><span class="section-number-3">1.2</span> II Corinthians 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7622fdb" class="outline-3">
+<h3 id="org7622fdb"><span class="section-number-3">1.3</span> II Corinthians 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Benedictus Deus et Pater Domini nostri Jesu Christi, Pater misericordiarum, et Deus totius consolationis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2ae3678" class="outline-3">
+<h3 id="org2ae3678"><span class="section-number-3">1.4</span> II Corinthians 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+qui consolatur nos in omni tribulatione nostra : ut possimus et ipsi consolari eos qui in omni pressura sunt, per exhortationem, qua exhortamur et ipsi a Deo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcac7de2" class="outline-3">
+<h3 id="orgcac7de2"><span class="section-number-3">1.5</span> II Corinthians 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Quoniam sicut abundant passiones Christi in nobis : ita et per Christum abundat consolatio nostra.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3a93b46" class="outline-3">
+<h3 id="org3a93b46"><span class="section-number-3">1.6</span> II Corinthians 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Sive autem tribulamur pro vestra exhortatione et salute, sive consolamur pro vestra consolatione, sive exhortamur pro vestra exhortatione et salute, quæ operatur tolerantiam earumdem passionum, quas et nos patimur :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org46253be" class="outline-3">
+<h3 id="org46253be"><span class="section-number-3">1.7</span> II Corinthians 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+ut spes nostra firma sit pro vobis : scientes quod sicut socii passionum estis, sic eritis et consolationis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd307802" class="outline-3">
+<h3 id="orgd307802"><span class="section-number-3">1.8</span> II Corinthians 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+Non enim volumus ignorare vos, fratres, de tribulatione nostra, quæ facta est in Asia, quoniam supra modum gravati sumus supra virtutem, ita ut tæderet nos etiam vivere.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org62cccfa" class="outline-3">
+<h3 id="org62cccfa"><span class="section-number-3">1.9</span> II Corinthians 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+Sed ipsi in nobismetipsis responsum mortis habuimus, ut non simus fidentes in nobis, sed in Deo, qui suscitat mortuos :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf698038" class="outline-3">
+<h3 id="orgf698038"><span class="section-number-3">1.10</span> II Corinthians 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+qui de tantis periculis nos eripuit, et eruit : in quem speramus quoniam et adhuc eripiet,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9214c15" class="outline-3">
+<h3 id="org9214c15"><span class="section-number-3">1.11</span> II Corinthians 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+adjuvantibus et vobis in oratione pro nobis : ut ex multorum personis, ejus quæ in nobis est donationis, per multos gratiæ agantur pro nobis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5d2efd5" class="outline-3">
+<h3 id="org5d2efd5"><span class="section-number-3">1.12</span> II Corinthians 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+Nam gloria nostra hæc est : testimonium conscientiæ nostræ, quod in simplicitate cordis et sinceritate Dei, et non in sapientia carnali, sed in gratia Dei, conversati sumus in hoc mundo : abundantius autem ad vos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org716ce30" class="outline-3">
+<h3 id="org716ce30"><span class="section-number-3">1.13</span> II Corinthians 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+Non enim alia scribimus vobis, quam quæ legistis, et cognovistis. Spero autem quod usque in finem cognoscetis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3a073ee" class="outline-3">
+<h3 id="org3a073ee"><span class="section-number-3">1.14</span> II Corinthians 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+sicut et cognovistis nos ex parte, quod gloria vestra sumus, sicut et vos nostra, in die Domini nostri Jesu Christi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb91dc04" class="outline-3">
+<h3 id="orgb91dc04"><span class="section-number-3">1.15</span> II Corinthians 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+Et hac confidentia volui prius venire ad vos, ut secundam gratiam haberetis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75fa1e5" class="outline-3">
+<h3 id="org75fa1e5"><span class="section-number-3">1.16</span> II Corinthians 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+et per vos transire in Macedoniam, et iterum a Macedonia venire ad vos, et a vobis deduci in Judæam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc999541" class="outline-3">
+<h3 id="orgc999541"><span class="section-number-3">1.17</span> II Corinthians 1:17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+Cum ergo hoc voluissem, numquid levitate usus sum ? aut quæ cogito, secundum carnem cogito, ut sit apud me Est et Non ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org10a5e19" class="outline-3">
+<h3 id="org10a5e19"><span class="section-number-3">1.18</span> II Corinthians 1:18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+Fidelis autem Deus, quia sermo noster, qui fuit apud vos, non est in illo Est et Non.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org95450fb" class="outline-3">
+<h3 id="org95450fb"><span class="section-number-3">1.19</span> II Corinthians 1:19</h3>
+<div class="outline-text-3" id="text-1-19">
+<p>
+Dei enim Filius Jesus Christus, qui in vobis per nos prædicatus est, per me, et Silvanum, et Timotheum, non fuit Est et Non, sed Est in illo fuit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc0dca08" class="outline-3">
+<h3 id="orgc0dca08"><span class="section-number-3">1.20</span> II Corinthians 1:20</h3>
+<div class="outline-text-3" id="text-1-20">
+<p>
+Quotquot enim promissiones Dei sunt, in illo Est : ideo et per ipsum Amen Deo ad gloriam nostram.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb263078" class="outline-3">
+<h3 id="orgb263078"><span class="section-number-3">1.21</span> II Corinthians 1:21</h3>
+<div class="outline-text-3" id="text-1-21">
+<p>
+Qui autem confirmat nos vobiscum in Christo, et qui unxit nos Deus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9435fd7" class="outline-3">
+<h3 id="org9435fd7"><span class="section-number-3">1.22</span> II Corinthians 1:22</h3>
+<div class="outline-text-3" id="text-1-22">
+<p>
+qui et signavit nos, et dedit pignus Spiritus in cordibus nostris.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgac64c38" class="outline-3">
+<h3 id="orgac64c38"><span class="section-number-3">1.23</span> II Corinthians 1:23</h3>
+<div class="outline-text-3" id="text-1-23">
+<p>
+Ego autem testem Deum invoco in animam meam, quod parcens vobis, non veni ultra Corinthum : non quia dominamur fidei vestæ, sed adjutores sumus gaudii vestri : nam fide statis.   
+</p>
+</div>
+</div>
+
+<div id="outline-container-org54d4b40" class="outline-3">
+<h3 id="org54d4b40"><span class="section-number-3">1.24</span> II Corinthians 1:24</h3>
+<div class="outline-text-3" id="text-1-24">
+<p>
+nil
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga2d97bd" class="outline-2">
+<h2 id="orga2d97bd"><span class="section-number-2">2</span> II Corinthians 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org2b0be86" class="outline-3">
+<h3 id="org2b0be86"><span class="section-number-3">2.1</span> II Corinthians 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Statui autem hoc ipsum apud me, ne iterum in tristitia venirem ad vos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb8b5c2f" class="outline-3">
+<h3 id="orgb8b5c2f"><span class="section-number-3">2.2</span> II Corinthians 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Si enim ego contristo vos : et quis est, qui me lætificet, nisi qui contristatur ex me ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfeeada4" class="outline-3">
+<h3 id="orgfeeada4"><span class="section-number-3">2.3</span> II Corinthians 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+Et hoc ipsum scripsi vobis, ut non cum venero, tristitiam super tristitiam habeam, de quibus oportuerat me gaudere : confidens in omnibus vobis, quia meum gaudium, omnium vestrum est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org14fa67e" class="outline-3">
+<h3 id="org14fa67e"><span class="section-number-3">2.4</span> II Corinthians 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+Nam ex multa tribulatione et angustia cordis scripsi vobis per multas lacrimas : non ut contristemini, sed ut sciatis, quam caritatem habeam abundantius in vobis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1f7dbae" class="outline-3">
+<h3 id="org1f7dbae"><span class="section-number-3">2.5</span> II Corinthians 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+Si quis autem contristavit, non me contristavit : sed ex parte, ut non onerem omnes vos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org11431fe" class="outline-3">
+<h3 id="org11431fe"><span class="section-number-3">2.6</span> II Corinthians 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+Sufficit illi, qui ejusmodi est, objurgatio hæc, quæ fit a pluribus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge3b5643" class="outline-3">
+<h3 id="orge3b5643"><span class="section-number-3">2.7</span> II Corinthians 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+ita ut e contrario magis donetis, et consolemini, ne forte abundantiori tristitia absorbeatur qui ejusmodi est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org768c9b9" class="outline-3">
+<h3 id="org768c9b9"><span class="section-number-3">2.8</span> II Corinthians 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+Propter quod obsecro vos, ut confirmetis in illum caritatem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org72108f6" class="outline-3">
+<h3 id="org72108f6"><span class="section-number-3">2.9</span> II Corinthians 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+Ideo enim et scripsi, ut cognoscam experimentum vestrum, an in omnibus obedientes sitis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf9fa99f" class="outline-3">
+<h3 id="orgf9fa99f"><span class="section-number-3">2.10</span> II Corinthians 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+Cui autem aliquid donastis, et ego : nam et ego quod donavi, si quid donavi, propter vos in persona Christi,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org16ffdaf" class="outline-3">
+<h3 id="org16ffdaf"><span class="section-number-3">2.11</span> II Corinthians 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+ut non circumveniamur a Satana : non enim ignoramus cogitationes ejus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org096c4d4" class="outline-3">
+<h3 id="org096c4d4"><span class="section-number-3">2.12</span> II Corinthians 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+Cum venissem autem Troadem propter Evangelium Christi, et ostium mihi apertum esset in Domino,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org314a892" class="outline-3">
+<h3 id="org314a892"><span class="section-number-3">2.13</span> II Corinthians 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+non habui requiem spiritui meo, eo quod non invenerim Titum fratrem meum, sed valefaciens eis, profectus sum in Macedoniam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcabbb4f" class="outline-3">
+<h3 id="orgcabbb4f"><span class="section-number-3">2.14</span> II Corinthians 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+Deo autem gratias, qui semper triumphat nos in Christo Jesu, et odorem notitiæ suæ manifestat per nos in omni loco :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org01c805f" class="outline-3">
+<h3 id="org01c805f"><span class="section-number-3">2.15</span> II Corinthians 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+quia Christi bonus odor sumus Deo in iis qui salvi fiunt, et in iis qui pereunt :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org41f970d" class="outline-3">
+<h3 id="org41f970d"><span class="section-number-3">2.16</span> II Corinthians 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+aliis quidem odor mortis in mortem : aliis autem odor vitæ in vitam. Et ad hæc quis tam idoneus ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge3aca40" class="outline-3">
+<h3 id="orge3aca40"><span class="section-number-3">2.17</span> II Corinthians 2:17</h3>
+<div class="outline-text-3" id="text-2-17">
+<p>
+non enim sumus sicut plurimi, adulterantes verbum Dei, sed ex sinceritate, sed sicut ex Deo, coram Deo, in Christo loquimur.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgffa9f87" class="outline-2">
+<h2 id="orgffa9f87"><span class="section-number-2">3</span> II Corinthians 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org6622701" class="outline-3">
+<h3 id="org6622701"><span class="section-number-3">3.1</span> II Corinthians 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+Incipimus iterum nosmetipsos commendare ? aut numquid egemus (sicut quidam) commendatitiis epistolis ad vos, aut ex vobis ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgab7b360" class="outline-3">
+<h3 id="orgab7b360"><span class="section-number-3">3.2</span> II Corinthians 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+Epistola nostra vos estis, scripta in cordibus nostris, quæ scitur, et legitur ab omnibus hominibus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org067e75c" class="outline-3">
+<h3 id="org067e75c"><span class="section-number-3">3.3</span> II Corinthians 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+manifestati quod epistola estis Christi, ministrata a nobis, et scripta non atramento, sed Spiritu Dei vivi : non in tabulis lapideis, sed in tabulis cordis carnalibus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4121fa1" class="outline-3">
+<h3 id="org4121fa1"><span class="section-number-3">3.4</span> II Corinthians 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+Fiduciam autem talem habemus per Christum ad Deum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org07d82cb" class="outline-3">
+<h3 id="org07d82cb"><span class="section-number-3">3.5</span> II Corinthians 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+non quod sufficientes simus cogitare aliquid a nobis, quasi ex nobis : sed sufficientia nostra ex Deo est :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfca50d7" class="outline-3">
+<h3 id="orgfca50d7"><span class="section-number-3">3.6</span> II Corinthians 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+qui et idoneos nos fecit ministros novi testamenti : non littera, sed Spiritu : littera enim occidit, Spiritus autem vivificat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org69dd62f" class="outline-3">
+<h3 id="org69dd62f"><span class="section-number-3">3.7</span> II Corinthians 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+Quod si ministratio mortis litteris deformata in lapidibus fuit in gloria, ita ut non possent intendere filii Israël in faciem Moysi propter gloriam vultus ejus, quæ evacuatur :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge28d9a1" class="outline-3">
+<h3 id="orge28d9a1"><span class="section-number-3">3.8</span> II Corinthians 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+quomodo non magis ministratio Spiritus erit in gloria ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbd95061" class="outline-3">
+<h3 id="orgbd95061"><span class="section-number-3">3.9</span> II Corinthians 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+Nam si ministratio damnationis gloria est : multo magis abundat ministerium justitiæ in gloria.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgce583a6" class="outline-3">
+<h3 id="orgce583a6"><span class="section-number-3">3.10</span> II Corinthians 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+Nam nec glorificatum est, quod claruit in hac parte, propter excellentem gloriam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc9bc33" class="outline-3">
+<h3 id="orgfc9bc33"><span class="section-number-3">3.11</span> II Corinthians 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+Si enim quod evacuatur, per gloriam est : multo magis quod manet, in gloria est.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga3aa6c6" class="outline-3">
+<h3 id="orga3aa6c6"><span class="section-number-3">3.12</span> II Corinthians 3:12</h3>
+<div class="outline-text-3" id="text-3-12">
+<p>
+Habentes igitur talem spem, multa fiducia utimur :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaf8c412" class="outline-3">
+<h3 id="orgaf8c412"><span class="section-number-3">3.13</span> II Corinthians 3:13</h3>
+<div class="outline-text-3" id="text-3-13">
+<p>
+et non sicut Moyses ponebat velamen super faciem suam, ut non intenderent filii Israël in faciem ejus, quod evacuatur,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8072a2a" class="outline-3">
+<h3 id="org8072a2a"><span class="section-number-3">3.14</span> II Corinthians 3:14</h3>
+<div class="outline-text-3" id="text-3-14">
+<p>
+sed obtusi sunt sensus eorum. Usque in hodiernum enim diem, idipsum velamen in lectione veteris testamenti manet non revelatum (quoniam in Christo evacuatur),
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbf62569" class="outline-3">
+<h3 id="orgbf62569"><span class="section-number-3">3.15</span> II Corinthians 3:15</h3>
+<div class="outline-text-3" id="text-3-15">
+<p>
+sed usque in hodiernum diem, cum legitur Moyses, velamen positum est super cor eorum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8816538" class="outline-3">
+<h3 id="org8816538"><span class="section-number-3">3.16</span> II Corinthians 3:16</h3>
+<div class="outline-text-3" id="text-3-16">
+<p>
+Cum autem conversus fuerit ad Dominum, auferetur velamen.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd7ba2cd" class="outline-3">
+<h3 id="orgd7ba2cd"><span class="section-number-3">3.17</span> II Corinthians 3:17</h3>
+<div class="outline-text-3" id="text-3-17">
+<p>
+Dominus autem Spiritus est : ubi autem Spiritus Domini, ibi libertas.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgac5a899" class="outline-3">
+<h3 id="orgac5a899"><span class="section-number-3">3.18</span> II Corinthians 3:18</h3>
+<div class="outline-text-3" id="text-3-18">
+<p>
+Nos vero omnes, revelata facie gloriam Domini speculantes, in eamdem imaginem transformamur a claritate in claritatem, tamquam a Domini Spiritu.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org4c86889" class="outline-2">
+<h2 id="org4c86889"><span class="section-number-2">4</span> II Corinthians 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org150379f" class="outline-3">
+<h3 id="org150379f"><span class="section-number-3">4.1</span> II Corinthians 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Ideo habentes administrationem, juxta quod misericordiam consecuti sumus, non deficimus,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org593c676" class="outline-3">
+<h3 id="org593c676"><span class="section-number-3">4.2</span> II Corinthians 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+sed abdicamus occulta dedecoris, non ambulantes in astutia, neque adulterantes verbum Dei, sed in manifestatione veritatis commendantes nosmetipsos ad omnem conscientiam hominum coram Deo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2e0a293" class="outline-3">
+<h3 id="org2e0a293"><span class="section-number-3">4.3</span> II Corinthians 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+Quod si etiam opertum est Evangelium nostrum, in iis, qui pereunt, est opertum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4663fd0" class="outline-3">
+<h3 id="org4663fd0"><span class="section-number-3">4.4</span> II Corinthians 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+in quibus Deus hujus sæculi excæcavit mentes infidelium, ut non fulgeat illis illuminatio Evangelii gloriæ Christi, qui est imago Dei.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge3f96c7" class="outline-3">
+<h3 id="orge3f96c7"><span class="section-number-3">4.5</span> II Corinthians 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+Non enim nosmetipsos prædicamus, sed Jesum Christum Dominum nostrum : nos autem servos vestros per Jesum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org34409e4" class="outline-3">
+<h3 id="org34409e4"><span class="section-number-3">4.6</span> II Corinthians 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+quoniam Deus, qui dixit de tenebris lucem splendescere, ipse illuxit in cordibus nostris ad illuminationem scientiæ claritatis Dei, in facie Christi Jesu.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdc875a7" class="outline-3">
+<h3 id="orgdc875a7"><span class="section-number-3">4.7</span> II Corinthians 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+Habemus autem thesaurum istum in vasis fictilibus : ut sublimitas sit virtutis Dei, et non ex nobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgedf52c3" class="outline-3">
+<h3 id="orgedf52c3"><span class="section-number-3">4.8</span> II Corinthians 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+In omnibus tribulationem patimur, sed non angustiamur : aporiamur, sed non destituimur :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge5260d2" class="outline-3">
+<h3 id="orge5260d2"><span class="section-number-3">4.9</span> II Corinthians 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+persecutionem patimur, sed non derelinquimur : dejicimur, sed non perimus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org41cdf75" class="outline-3">
+<h3 id="org41cdf75"><span class="section-number-3">4.10</span> II Corinthians 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+semper mortificationem Jesu in corpore nostro circumferentes, ut et vita Jesu manifestetur in corporibus nostris.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga2a9fa7" class="outline-3">
+<h3 id="orga2a9fa7"><span class="section-number-3">4.11</span> II Corinthians 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+Semper enim nos, qui vivimus, in mortem tradimur propter Jesum : ut et vita Jesu manifestetur in carne nostra mortali.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org019de30" class="outline-3">
+<h3 id="org019de30"><span class="section-number-3">4.12</span> II Corinthians 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+Ergo mors in nobis operatur, vita autem in vobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9329846" class="outline-3">
+<h3 id="org9329846"><span class="section-number-3">4.13</span> II Corinthians 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+Habentes autem eumdem spiritum fidei, sicut scriptum est : Credidi, propter quod locutus sum : et nos credimus, propter quod et loquimur :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3cfe011" class="outline-3">
+<h3 id="org3cfe011"><span class="section-number-3">4.14</span> II Corinthians 4:14</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+scientes quoniam qui suscitavit Jesum, et nos cum Jesu suscitabit, et constituet vobiscum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge697cf6" class="outline-3">
+<h3 id="orge697cf6"><span class="section-number-3">4.15</span> II Corinthians 4:15</h3>
+<div class="outline-text-3" id="text-4-15">
+<p>
+Omnia enim propter vos : ut gratia abundans, per multos in gratiarum actione, abundet in gloriam Dei.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org089ae2f" class="outline-3">
+<h3 id="org089ae2f"><span class="section-number-3">4.16</span> II Corinthians 4:16</h3>
+<div class="outline-text-3" id="text-4-16">
+<p>
+Propter quod non deficimus : sed licet is, qui foris est, noster homo corrumpatur, tamen is, qui intus est, renovatur de die in diem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge915bfa" class="outline-3">
+<h3 id="orge915bfa"><span class="section-number-3">4.17</span> II Corinthians 4:17</h3>
+<div class="outline-text-3" id="text-4-17">
+<p>
+Id enim, quod in præsenti est momentaneum et leve tribulationis nostræ, supra modum in sublimitate æternum gloriæ pondus operatur in nobis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc95ad6d" class="outline-3">
+<h3 id="orgc95ad6d"><span class="section-number-3">4.18</span> II Corinthians 4:18</h3>
+<div class="outline-text-3" id="text-4-18">
+<p>
+non contemplantibus nobis quæ videntur, sed quæ non videntur. Quæ enim videntur, temporalia sunt : quæ autem non videntur, æterna sunt.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org228c946" class="outline-2">
+<h2 id="org228c946"><span class="section-number-2">5</span> II Corinthians 5</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org47ba478" class="outline-3">
+<h3 id="org47ba478"><span class="section-number-3">5.1</span> II Corinthians 5:1</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Scimus enim quoniam si terrestris domus nostra hujus habitationis dissolvatur, quod ædificationem ex Deo habemus, domum non manufactam, æternam in cælis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd39826e" class="outline-3">
+<h3 id="orgd39826e"><span class="section-number-3">5.2</span> II Corinthians 5:2</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Nam et in hoc ingemiscimus, habitationem nostram, quæ de cælo est, superindui cupientes :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7891d74" class="outline-3">
+<h3 id="org7891d74"><span class="section-number-3">5.3</span> II Corinthians 5:3</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+si tamen vestiti, non nudi inveniamur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe81f2e" class="outline-3">
+<h3 id="orgfe81f2e"><span class="section-number-3">5.4</span> II Corinthians 5:4</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+Nam et qui sumus in hoc tabernaculo, ingemiscimus gravati : eo quod nolumus expoliari, sed supervestiri, ut absorbeatur quod mortale est, a vita.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8900e72" class="outline-3">
+<h3 id="org8900e72"><span class="section-number-3">5.5</span> II Corinthians 5:5</h3>
+<div class="outline-text-3" id="text-5-5">
+<p>
+Qui autem efficit nos in hoc ipsum, Deus, qui dedit nobis pignus Spiritus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org08d0720" class="outline-3">
+<h3 id="org08d0720"><span class="section-number-3">5.6</span> II Corinthians 5:6</h3>
+<div class="outline-text-3" id="text-5-6">
+<p>
+Audentes igitur semper, scientes quoniam dum sumus in corpore, peregrinamur a Domino
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9846ca1" class="outline-3">
+<h3 id="org9846ca1"><span class="section-number-3">5.7</span> II Corinthians 5:7</h3>
+<div class="outline-text-3" id="text-5-7">
+<p>
+(per fidem enim ambulamus, et non per speciem) :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge53f531" class="outline-3">
+<h3 id="orge53f531"><span class="section-number-3">5.8</span> II Corinthians 5:8</h3>
+<div class="outline-text-3" id="text-5-8">
+<p>
+audemus autem, et bonam voluntatem habemus magis peregrinari a corpore, et præsentes esse ad Dominum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4f94126" class="outline-3">
+<h3 id="org4f94126"><span class="section-number-3">5.9</span> II Corinthians 5:9</h3>
+<div class="outline-text-3" id="text-5-9">
+<p>
+Et ideo contendimus, sive absentes, sive præsentes, placere illi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org35b813b" class="outline-3">
+<h3 id="org35b813b"><span class="section-number-3">5.10</span> II Corinthians 5:10</h3>
+<div class="outline-text-3" id="text-5-10">
+<p>
+Omnes enim nos manifestari oportet ante tribunal Christi, ut referat unusquisque propria corporis, prout gessit, sive bonum, sive malum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge0fec74" class="outline-3">
+<h3 id="orge0fec74"><span class="section-number-3">5.11</span> II Corinthians 5:11</h3>
+<div class="outline-text-3" id="text-5-11">
+<p>
+Scientes ergo timorem Domini, hominibus suademus, Deo autem manifesti sumus. Spero autem et in conscientiis vestris manifestos nos esse.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge991e83" class="outline-3">
+<h3 id="orge991e83"><span class="section-number-3">5.12</span> II Corinthians 5:12</h3>
+<div class="outline-text-3" id="text-5-12">
+<p>
+Non iterum commendamus nos vobis, sed occasionem damus vobis gloriandi pro nobis : ut habeatis ad eos qui in facie gloriantur, et non in corde.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org07fbc96" class="outline-3">
+<h3 id="org07fbc96"><span class="section-number-3">5.13</span> II Corinthians 5:13</h3>
+<div class="outline-text-3" id="text-5-13">
+<p>
+Sive enim mente excedimus Deo : sive sobrii sumus, vobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0f6c271" class="outline-3">
+<h3 id="org0f6c271"><span class="section-number-3">5.14</span> II Corinthians 5:14</h3>
+<div class="outline-text-3" id="text-5-14">
+<p>
+Caritas enim Christi urget nos : æstimantes hoc, quoniam si unus pro omnibus mortuus est, ergo omnes mortui sunt :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgac9c382" class="outline-3">
+<h3 id="orgac9c382"><span class="section-number-3">5.15</span> II Corinthians 5:15</h3>
+<div class="outline-text-3" id="text-5-15">
+<p>
+et pro omnibus mortuus est Christus : ut, et qui vivunt, jam non sibi vivant, sed ei qui pro ipsis mortuus est et resurrexit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org52245e6" class="outline-3">
+<h3 id="org52245e6"><span class="section-number-3">5.16</span> II Corinthians 5:16</h3>
+<div class="outline-text-3" id="text-5-16">
+<p>
+Itaque nos ex hoc neminem novimus secundum carnem. Et si cognovimus secundum carnem Christum, sed nunc jam non novimus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf218e4d" class="outline-3">
+<h3 id="orgf218e4d"><span class="section-number-3">5.17</span> II Corinthians 5:17</h3>
+<div class="outline-text-3" id="text-5-17">
+<p>
+Si qua ergo in Christo nova creatura, vetera transierunt : ecce facta sunt omnia nova.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2d50497" class="outline-3">
+<h3 id="org2d50497"><span class="section-number-3">5.18</span> II Corinthians 5:18</h3>
+<div class="outline-text-3" id="text-5-18">
+<p>
+Omnia autem ex Deo, qui nos reconciliavit sibi per Christum : et dedit nobis ministerium reconciliationis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7cff61c" class="outline-3">
+<h3 id="org7cff61c"><span class="section-number-3">5.19</span> II Corinthians 5:19</h3>
+<div class="outline-text-3" id="text-5-19">
+<p>
+quoniam quidem Deus erat in Christo mundum reconcilians sibi, non reputans illis delicta ipsorum, et posuit in nobis verbum reconciliationis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgee78fe1" class="outline-3">
+<h3 id="orgee78fe1"><span class="section-number-3">5.20</span> II Corinthians 5:20</h3>
+<div class="outline-text-3" id="text-5-20">
+<p>
+Pro Christo ergo legatione fungimur, tamquam Deo exhortante per nos. Obsecramus pro Christo, reconciliamini Deo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org24cfa62" class="outline-3">
+<h3 id="org24cfa62"><span class="section-number-3">5.21</span> II Corinthians 5:21</h3>
+<div class="outline-text-3" id="text-5-21">
+<p>
+Eum, qui non noverat peccatum, pro nobis peccatum fecit, ut nos efficeremur justitia Dei in ipso.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgca686a1" class="outline-2">
+<h2 id="orgca686a1"><span class="section-number-2">6</span> II Corinthians 6</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-org5871f85" class="outline-3">
+<h3 id="org5871f85"><span class="section-number-3">6.1</span> II Corinthians 6:1</h3>
+<div class="outline-text-3" id="text-6-1">
+<p>
+Adjuvantes autem exhortamur ne in vacuum gratiam Dei recipiatis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf2f8b11" class="outline-3">
+<h3 id="orgf2f8b11"><span class="section-number-3">6.2</span> II Corinthians 6:2</h3>
+<div class="outline-text-3" id="text-6-2">
+<p>
+Ait enim : Tempore accepto exaudivi te, et in die salutis adjuvi te. Ecce nunc tempus acceptabile, ecce nunc dies salutis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbb7bb63" class="outline-3">
+<h3 id="orgbb7bb63"><span class="section-number-3">6.3</span> II Corinthians 6:3</h3>
+<div class="outline-text-3" id="text-6-3">
+<p>
+Nemini dantes ullam offensionem, ut non vituperetur ministerium nostrum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc79bc6f" class="outline-3">
+<h3 id="orgc79bc6f"><span class="section-number-3">6.4</span> II Corinthians 6:4</h3>
+<div class="outline-text-3" id="text-6-4">
+<p>
+sed in omnibus exhibeamus nosmetipsos sicut Dei ministros in multa patientia, in tribulationibus, in necessitatibus, in angustiis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8e2a890" class="outline-3">
+<h3 id="org8e2a890"><span class="section-number-3">6.5</span> II Corinthians 6:5</h3>
+<div class="outline-text-3" id="text-6-5">
+<p>
+in plagis, in carceribus, in seditionibus, in laboribus, in vigiliis, in jejuniis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc2167a1" class="outline-3">
+<h3 id="orgc2167a1"><span class="section-number-3">6.6</span> II Corinthians 6:6</h3>
+<div class="outline-text-3" id="text-6-6">
+<p>
+in castitate, in scientia, in longanimitate, in suavitate, in Spiritu Sancto, in caritate non ficta,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd4e9e22" class="outline-3">
+<h3 id="orgd4e9e22"><span class="section-number-3">6.7</span> II Corinthians 6:7</h3>
+<div class="outline-text-3" id="text-6-7">
+<p>
+in verbo veritatis, in virtute Dei, per arma justitiæ a dextris et a sinistris,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org507de51" class="outline-3">
+<h3 id="org507de51"><span class="section-number-3">6.8</span> II Corinthians 6:8</h3>
+<div class="outline-text-3" id="text-6-8">
+<p>
+per gloriam, et ignobilitatem, per infamiam, et bonam famam : ut seductores, et veraces, sicut qui ignoti, et cogniti :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga8c81cd" class="outline-3">
+<h3 id="orga8c81cd"><span class="section-number-3">6.9</span> II Corinthians 6:9</h3>
+<div class="outline-text-3" id="text-6-9">
+<p>
+quasi morientes, et ecce vivimus : ut castigati, et non mortificati :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga2594fb" class="outline-3">
+<h3 id="orga2594fb"><span class="section-number-3">6.10</span> II Corinthians 6:10</h3>
+<div class="outline-text-3" id="text-6-10">
+<p>
+quasi tristes, semper autem gaudentes : sicut egentes, multos autem locupletantes : tamquam nihil habentes, et omnia possidentes.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc49ce45" class="outline-3">
+<h3 id="orgc49ce45"><span class="section-number-3">6.11</span> II Corinthians 6:11</h3>
+<div class="outline-text-3" id="text-6-11">
+<p>
+Os nostrum patet ad vos, o Corinthii ; cor nostrum dilatatum est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc4cf809" class="outline-3">
+<h3 id="orgc4cf809"><span class="section-number-3">6.12</span> II Corinthians 6:12</h3>
+<div class="outline-text-3" id="text-6-12">
+<p>
+Non angustiamini in nobis : angustiamini autem in visceribus vestris :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc2dbf93" class="outline-3">
+<h3 id="orgc2dbf93"><span class="section-number-3">6.13</span> II Corinthians 6:13</h3>
+<div class="outline-text-3" id="text-6-13">
+<p>
+eamdem autem habentes remunerationem, tamquam filiis dico, dilatamini et vos.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga7209d9" class="outline-3">
+<h3 id="orga7209d9"><span class="section-number-3">6.14</span> II Corinthians 6:14</h3>
+<div class="outline-text-3" id="text-6-14">
+<p>
+Nolite jugum ducere cum infidelibus. Quæ enim participatio justitiæ cum iniquitate ? aut quæ societas luci ad tenebras ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org28f9559" class="outline-3">
+<h3 id="org28f9559"><span class="section-number-3">6.15</span> II Corinthians 6:15</h3>
+<div class="outline-text-3" id="text-6-15">
+<p>
+quæ autem conventio Christi ad Belial ? aut quæ pars fideli cum infideli ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1033dbc" class="outline-3">
+<h3 id="org1033dbc"><span class="section-number-3">6.16</span> II Corinthians 6:16</h3>
+<div class="outline-text-3" id="text-6-16">
+<p>
+qui autem consensus templo Dei cum idolis ? vos enim estis templum Dei vivi, sicut dicit Deus :   Quoniam inhabitabo in illis, et inambulabo inter eos,  et ero illorum Deus, et ipsi erunt mihi populus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org07fcce4" class="outline-3">
+<h3 id="org07fcce4"><span class="section-number-3">6.17</span> II Corinthians 6:17</h3>
+<div class="outline-text-3" id="text-6-17">
+<p>
+Propter quod exite de medio eorum,  et separamini, dicit Dominus,  et immundum ne tetigeritis : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c6ebd6" class="outline-3">
+<h3 id="org8c6ebd6"><span class="section-number-3">6.18</span> II Corinthians 6:18</h3>
+<div class="outline-text-3" id="text-6-18">
+<p>
+et ego recipiam vos :  et ero vobis in patrem,  et vos eritis mihi in filios et filias,  dicit Dominus omnipotens.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org483f579" class="outline-2">
+<h2 id="org483f579"><span class="section-number-2">7</span> II Corinthians 7</h2>
+<div class="outline-text-2" id="text-7">
+</div>
+<div id="outline-container-org1004a51" class="outline-3">
+<h3 id="org1004a51"><span class="section-number-3">7.1</span> II Corinthians 7:1</h3>
+<div class="outline-text-3" id="text-7-1">
+<p>
+Has ergo habentes promissiones, carissimi, mundemus nos ab omni inquinamento carnis et spiritus, perficientes sanctificationem in timore Dei.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2d25422" class="outline-3">
+<h3 id="org2d25422"><span class="section-number-3">7.2</span> II Corinthians 7:2</h3>
+<div class="outline-text-3" id="text-7-2">
+<p>
+Capite nos. Neminem læsimus, neminem corrupimus, neminem circumvenimus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfcc407e" class="outline-3">
+<h3 id="orgfcc407e"><span class="section-number-3">7.3</span> II Corinthians 7:3</h3>
+<div class="outline-text-3" id="text-7-3">
+<p>
+Non ad condemnationem vestram dico : prædiximus enim quod in cordibus nostris estis ad commoriendum et ad convivendum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org859f725" class="outline-3">
+<h3 id="org859f725"><span class="section-number-3">7.4</span> II Corinthians 7:4</h3>
+<div class="outline-text-3" id="text-7-4">
+<p>
+Multa mihi fiducia est apud vos, multa mihi gloriatio pro vobis : repletus sum consolatione ; superabundo gaudio in omni tribulatione nostra.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2feaba1" class="outline-3">
+<h3 id="org2feaba1"><span class="section-number-3">7.5</span> II Corinthians 7:5</h3>
+<div class="outline-text-3" id="text-7-5">
+<p>
+Nam et cum venissemus in Macedoniam, nullam requiem habuit caro nostra, sed omnem tribulationem passi sumus : foris pugnæ, intus timores.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcaf9713" class="outline-3">
+<h3 id="orgcaf9713"><span class="section-number-3">7.6</span> II Corinthians 7:6</h3>
+<div class="outline-text-3" id="text-7-6">
+<p>
+Sed qui consolatur humiles, consolatus est nos Deus in adventu Titi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org24ed2db" class="outline-3">
+<h3 id="org24ed2db"><span class="section-number-3">7.7</span> II Corinthians 7:7</h3>
+<div class="outline-text-3" id="text-7-7">
+<p>
+Non solum autem in adventu ejus, sed etiam in consolatione, qua consolatus est in vobis, referens nobis vestrum desiderium, vestrum fletum, vestram æmulationem pro me, ita ut magis gauderem.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4359d7c" class="outline-3">
+<h3 id="org4359d7c"><span class="section-number-3">7.8</span> II Corinthians 7:8</h3>
+<div class="outline-text-3" id="text-7-8">
+<p>
+Quoniam etsi contristavi vos in epistola, non me pœnitet : etsi pœniteret, videns quod epistola illa (etsi ad horam) vos contristavit,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga9a3d92" class="outline-3">
+<h3 id="orga9a3d92"><span class="section-number-3">7.9</span> II Corinthians 7:9</h3>
+<div class="outline-text-3" id="text-7-9">
+<p>
+nunc gaudeo : non quia contristati estis, sed quia contristati estis ad pœnitentiam. Contristati enim estis ad Deum, ut in nullo detrimentum patiamini ex nobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org43eed8c" class="outline-3">
+<h3 id="org43eed8c"><span class="section-number-3">7.10</span> II Corinthians 7:10</h3>
+<div class="outline-text-3" id="text-7-10">
+<p>
+Quæ enim secundum Deum tristitia est, pœnitentiam in salutem stabilem operatur : sæculi autem tristitia mortem operatur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org64106e0" class="outline-3">
+<h3 id="org64106e0"><span class="section-number-3">7.11</span> II Corinthians 7:11</h3>
+<div class="outline-text-3" id="text-7-11">
+<p>
+Ecce enim hoc ipsum, secundum Deum contristari vos, quantam in vobis operatur sollicitudinem : sed defensionem, sed indignationem, sed timorem, sed desiderium, sed æmulationem, sed vindictam : in omnibus exhibuistis vos incontaminatos esse negotio.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org82a2f8d" class="outline-3">
+<h3 id="org82a2f8d"><span class="section-number-3">7.12</span> II Corinthians 7:12</h3>
+<div class="outline-text-3" id="text-7-12">
+<p>
+Igitur, etsi scripsi vobis, non propter eum qui fecit injuriam, nec propter eum qui passus est : sed ad manifestandam sollicitudinem nostram, quam habemus pro vobis
+</p>
+</div>
+</div>
+
+<div id="outline-container-org59784be" class="outline-3">
+<h3 id="org59784be"><span class="section-number-3">7.13</span> II Corinthians 7:13</h3>
+<div class="outline-text-3" id="text-7-13">
+<p>
+coram Deo : ideo consolati sumus. In consolatione autem nostra, abundantius magis gavisi sumus super gaudio Titi, quia refectus est spiritus ejus ab omnibus vobis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4d89078" class="outline-3">
+<h3 id="org4d89078"><span class="section-number-3">7.14</span> II Corinthians 7:14</h3>
+<div class="outline-text-3" id="text-7-14">
+<p>
+et si quid apud illum de vobis gloriatus sum, non sum confusus : sed sicut omnia vobis in veritate locuti sumus, ita et gloriatio nostra, quæ fuit ad Titum, veritas facta est,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org00874d5" class="outline-3">
+<h3 id="org00874d5"><span class="section-number-3">7.15</span> II Corinthians 7:15</h3>
+<div class="outline-text-3" id="text-7-15">
+<p>
+et viscera ejus abundantius in vobis sunt, reminiscentis omnium vestrum obedientiam : quomodo cum timore et tremore excepistis illum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2c252ff" class="outline-3">
+<h3 id="org2c252ff"><span class="section-number-3">7.16</span> II Corinthians 7:16</h3>
+<div class="outline-text-3" id="text-7-16">
+<p>
+Gaudeo quod in omnibus confido in vobis.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org8d86ed9" class="outline-2">
+<h2 id="org8d86ed9"><span class="section-number-2">8</span> II Corinthians 8</h2>
+<div class="outline-text-2" id="text-8">
+</div>
+<div id="outline-container-orge29243f" class="outline-3">
+<h3 id="orge29243f"><span class="section-number-3">8.1</span> II Corinthians 8:1</h3>
+<div class="outline-text-3" id="text-8-1">
+<p>
+Notam autem facimus vobis, fratres, gratiam Dei, quæ data est in ecclesiis Macedoniæ :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3684ccb" class="outline-3">
+<h3 id="org3684ccb"><span class="section-number-3">8.2</span> II Corinthians 8:2</h3>
+<div class="outline-text-3" id="text-8-2">
+<p>
+quod in multo experimento tribulationis abundantia gaudii ipsorum fuit, et altissima paupertas eorum, abundavit in divitias simplicitatis eorum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf0f1386" class="outline-3">
+<h3 id="orgf0f1386"><span class="section-number-3">8.3</span> II Corinthians 8:3</h3>
+<div class="outline-text-3" id="text-8-3">
+<p>
+quia secundum virtutem testimonium illis reddo, et supra virtutem voluntarii fuerunt,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7d641bc" class="outline-3">
+<h3 id="org7d641bc"><span class="section-number-3">8.4</span> II Corinthians 8:4</h3>
+<div class="outline-text-3" id="text-8-4">
+<p>
+cum multa exhortatione obsecrantes nos gratiam, et communicationem ministerii, quod fit in sanctos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga019475" class="outline-3">
+<h3 id="orga019475"><span class="section-number-3">8.5</span> II Corinthians 8:5</h3>
+<div class="outline-text-3" id="text-8-5">
+<p>
+Et non sicut speravimus, sed semetipsos dederunt primum Domino, deinde nobis per voluntatem Dei,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge1c6620" class="outline-3">
+<h3 id="orge1c6620"><span class="section-number-3">8.6</span> II Corinthians 8:6</h3>
+<div class="outline-text-3" id="text-8-6">
+<p>
+ita ut rogaremus Titum, ut quemadmodum cœpit, ita et perficiat in vobis etiam gratiam istam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd90d63e" class="outline-3">
+<h3 id="orgd90d63e"><span class="section-number-3">8.7</span> II Corinthians 8:7</h3>
+<div class="outline-text-3" id="text-8-7">
+<p>
+Sed sicut in omnibus abundatis fide, et sermone, et scientia, et omni sollicitudine, insuper et caritate vestra in nos, ut et in hac gratia abundetis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgecf11e4" class="outline-3">
+<h3 id="orgecf11e4"><span class="section-number-3">8.8</span> II Corinthians 8:8</h3>
+<div class="outline-text-3" id="text-8-8">
+<p>
+Non quasi imperans dico : sed per aliorum sollicitudinem, etiam vestræ caritatis ingenium bonum comprobans.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf8ecb76" class="outline-3">
+<h3 id="orgf8ecb76"><span class="section-number-3">8.9</span> II Corinthians 8:9</h3>
+<div class="outline-text-3" id="text-8-9">
+<p>
+Scitis enim gratiam Domini nostri Jesu Christi, quoniam propter vos egenus factus est, cum esset dives, ut illius inopia vos divites essetis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc090ab8" class="outline-3">
+<h3 id="orgc090ab8"><span class="section-number-3">8.10</span> II Corinthians 8:10</h3>
+<div class="outline-text-3" id="text-8-10">
+<p>
+Et consilium in hoc do : hoc enim vobis utile est, qui non solum facere, sed et velle cœpistis ab anno priore :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc67a11" class="outline-3">
+<h3 id="orgfc67a11"><span class="section-number-3">8.11</span> II Corinthians 8:11</h3>
+<div class="outline-text-3" id="text-8-11">
+<p>
+nunc vero et facto perficite : ut quemadmodum promptus est animus voluntatis, ita sit et perficiendi ex eo quod habetis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org41a7078" class="outline-3">
+<h3 id="org41a7078"><span class="section-number-3">8.12</span> II Corinthians 8:12</h3>
+<div class="outline-text-3" id="text-8-12">
+<p>
+Si enim voluntas prompta est, secundum id quod habet, accepta est, non secundum id quod non habet.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org76c4fd8" class="outline-3">
+<h3 id="org76c4fd8"><span class="section-number-3">8.13</span> II Corinthians 8:13</h3>
+<div class="outline-text-3" id="text-8-13">
+<p>
+Non enim ut aliis sit remissio, vobis autem tribulatio, sed ex æqualitate.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org26fc863" class="outline-3">
+<h3 id="org26fc863"><span class="section-number-3">8.14</span> II Corinthians 8:14</h3>
+<div class="outline-text-3" id="text-8-14">
+<p>
+In præsenti tempore vestra abundantia illorum inopiam suppleat : ut et illorum abundantia vestræ inopiæ sit supplementum, ut fiat æqualitas, sicut scriptum est :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd0aff67" class="outline-3">
+<h3 id="orgd0aff67"><span class="section-number-3">8.15</span> II Corinthians 8:15</h3>
+<div class="outline-text-3" id="text-8-15">
+<p>
+Qui multum, non abundavit : et qui modicum, non minoravit.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge3aa1d9" class="outline-3">
+<h3 id="orge3aa1d9"><span class="section-number-3">8.16</span> II Corinthians 8:16</h3>
+<div class="outline-text-3" id="text-8-16">
+<p>
+Gratias autem Deo, qui dedit eamdem sollicitudinem pro vobis in corde Titi,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8f5d2e7" class="outline-3">
+<h3 id="org8f5d2e7"><span class="section-number-3">8.17</span> II Corinthians 8:17</h3>
+<div class="outline-text-3" id="text-8-17">
+<p>
+quoniam exhortationem quidem suscepit : sed cum sollicitior esset, sua voluntate profectus est ad vos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9033a39" class="outline-3">
+<h3 id="org9033a39"><span class="section-number-3">8.18</span> II Corinthians 8:18</h3>
+<div class="outline-text-3" id="text-8-18">
+<p>
+Misimus etiam cum illo fratrem, cujus laus est in Evangelio per omnes ecclesias :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga21f784" class="outline-3">
+<h3 id="orga21f784"><span class="section-number-3">8.19</span> II Corinthians 8:19</h3>
+<div class="outline-text-3" id="text-8-19">
+<p>
+non solum autem, sed et ordinatus est ab ecclesiis comes peregrinationis nostræ in hanc gratiam, quæ ministratur a nobis ad Domini gloriam, et destinatam voluntatem nostram :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7175dd5" class="outline-3">
+<h3 id="org7175dd5"><span class="section-number-3">8.20</span> II Corinthians 8:20</h3>
+<div class="outline-text-3" id="text-8-20">
+<p>
+devitantes hoc, ne quis nos vituperet in hac plenitudine, quæ ministratur a nobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0dd6aa6" class="outline-3">
+<h3 id="org0dd6aa6"><span class="section-number-3">8.21</span> II Corinthians 8:21</h3>
+<div class="outline-text-3" id="text-8-21">
+<p>
+Providemus enim bona non solum coram Deo, sed etiam coram hominibus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org63fc243" class="outline-3">
+<h3 id="org63fc243"><span class="section-number-3">8.22</span> II Corinthians 8:22</h3>
+<div class="outline-text-3" id="text-8-22">
+<p>
+Misimus autem cum illis et fratrem nostrum, quem probavimus in multis sæpe sollicitum esse : nunc autem multo sollicitiorem, confidentia multa in vos,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org482f201" class="outline-3">
+<h3 id="org482f201"><span class="section-number-3">8.23</span> II Corinthians 8:23</h3>
+<div class="outline-text-3" id="text-8-23">
+<p>
+sive pro Tito, qui est socius meus, et in vos adjutor, sive fratres nostri, Apostoli ecclesiarum, gloria Christi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0a82156" class="outline-3">
+<h3 id="org0a82156"><span class="section-number-3">8.24</span> II Corinthians 8:24</h3>
+<div class="outline-text-3" id="text-8-24">
+<p>
+Ostensionem ergo, quæ est caritatis vestræ, et nostræ gloriæ pro vobis, in illos ostendite in faciem ecclesiarum.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgc7fcf1c" class="outline-2">
+<h2 id="orgc7fcf1c"><span class="section-number-2">9</span> II Corinthians 9</h2>
+<div class="outline-text-2" id="text-9">
+</div>
+<div id="outline-container-org484002b" class="outline-3">
+<h3 id="org484002b"><span class="section-number-3">9.1</span> II Corinthians 9:1</h3>
+<div class="outline-text-3" id="text-9-1">
+<p>
+Nam de ministerio, quod fit in sanctos ex abundanti est mihi scribere vobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f2b0c0" class="outline-3">
+<h3 id="org7f2b0c0"><span class="section-number-3">9.2</span> II Corinthians 9:2</h3>
+<div class="outline-text-3" id="text-9-2">
+<p>
+Scio enim promptum animum vestrum : pro quo de vobis glorior apud Macedones. Quoniam et Achaia parata est ab anno præterito, et vestra æmulatio provocavit plurimos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f5ab5e" class="outline-3">
+<h3 id="org7f5ab5e"><span class="section-number-3">9.3</span> II Corinthians 9:3</h3>
+<div class="outline-text-3" id="text-9-3">
+<p>
+Misi autem fratres : ut ne quod gloriamur de vobis, evacuetur in hac parte, ut (quemadmodum dixi) parati sitis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org588ccf7" class="outline-3">
+<h3 id="org588ccf7"><span class="section-number-3">9.4</span> II Corinthians 9:4</h3>
+<div class="outline-text-3" id="text-9-4">
+<p>
+ne cum venerint Macedones mecum, et invenerint vos imparatos, erubescamus nos (ut non dicamus vos) in hac substantia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1e93d98" class="outline-3">
+<h3 id="org1e93d98"><span class="section-number-3">9.5</span> II Corinthians 9:5</h3>
+<div class="outline-text-3" id="text-9-5">
+<p>
+Necessarium ergo existimavi rogare fratres, ut præveniant ad vos, et præparent repromissam benedictionem hanc paratam esse sic, quasi benedictionem, non tamquam avaritiam.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6414ef4" class="outline-3">
+<h3 id="org6414ef4"><span class="section-number-3">9.6</span> II Corinthians 9:6</h3>
+<div class="outline-text-3" id="text-9-6">
+<p>
+Hoc autem dico : qui parce seminat, parce et metet : et qui seminat in benedictionibus, de benedictionibus et metet.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcf402a4" class="outline-3">
+<h3 id="orgcf402a4"><span class="section-number-3">9.7</span> II Corinthians 9:7</h3>
+<div class="outline-text-3" id="text-9-7">
+<p>
+Unusquisque, prout destinavit in corde suo, non ex tristitia, aut ex necessitate : hilarem enim datorem diligit Deus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org71e00b4" class="outline-3">
+<h3 id="org71e00b4"><span class="section-number-3">9.8</span> II Corinthians 9:8</h3>
+<div class="outline-text-3" id="text-9-8">
+<p>
+Potens est autem Deus omnem gratiam abundare facere in vobis : ut in omnibus semper omnem sufficientiam habentes, abundetis in omne opus bonum,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org07dfd1d" class="outline-3">
+<h3 id="org07dfd1d"><span class="section-number-3">9.9</span> II Corinthians 9:9</h3>
+<div class="outline-text-3" id="text-9-9">
+<p>
+sicut scriptum est : Dispersit, dedit pauperibus : justitia ejus manet in sæculum sæculi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6247360" class="outline-3">
+<h3 id="org6247360"><span class="section-number-3">9.10</span> II Corinthians 9:10</h3>
+<div class="outline-text-3" id="text-9-10">
+<p>
+Qui autem administrat semen seminanti : et panem ad manducandum præstabit, et multiplicabit semen vestrum, et augebit incrementa frugum justitiæ vestræ :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbb018e1" class="outline-3">
+<h3 id="orgbb018e1"><span class="section-number-3">9.11</span> II Corinthians 9:11</h3>
+<div class="outline-text-3" id="text-9-11">
+<p>
+ut in omnibus locupletati abundetis in omnem simplicitatem, quæ operatur per nos gratiarum actionem Deo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8cfb051" class="outline-3">
+<h3 id="org8cfb051"><span class="section-number-3">9.12</span> II Corinthians 9:12</h3>
+<div class="outline-text-3" id="text-9-12">
+<p>
+Quoniam ministerium hujus officii non solum supplet ea quæ desunt sanctis, sed etiam abundat per multas gratiarum actiones in Domino,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org96684b0" class="outline-3">
+<h3 id="org96684b0"><span class="section-number-3">9.13</span> II Corinthians 9:13</h3>
+<div class="outline-text-3" id="text-9-13">
+<p>
+per probationem ministerii hujus, glorificantes Deum in obedientia confessionis vestræ, in Evangelium Christi, et simplicitate communicationis in illos, et in omnes,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org91f9d0a" class="outline-3">
+<h3 id="org91f9d0a"><span class="section-number-3">9.14</span> II Corinthians 9:14</h3>
+<div class="outline-text-3" id="text-9-14">
+<p>
+et in ipsorum obsecratione pro vobis, desiderantium vos propter eminentem gratiam Dei in vobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4faca85" class="outline-3">
+<h3 id="org4faca85"><span class="section-number-3">9.15</span> II Corinthians 9:15</h3>
+<div class="outline-text-3" id="text-9-15">
+<p>
+Gratias Deo super inenarrabili dono ejus.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga312146" class="outline-2">
+<h2 id="orga312146"><span class="section-number-2">10</span> II Corinthians 10</h2>
+<div class="outline-text-2" id="text-10">
+</div>
+<div id="outline-container-orgc6c7dc8" class="outline-3">
+<h3 id="orgc6c7dc8"><span class="section-number-3">10.1</span> II Corinthians 10:1</h3>
+<div class="outline-text-3" id="text-10-1">
+<p>
+Ipse autem ego Paulus obsecro vos per mansuetudinem et modestiam Christi, qui in facie quidem humilis sum inter vos, absens autem confido in vos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org14c9a55" class="outline-3">
+<h3 id="org14c9a55"><span class="section-number-3">10.2</span> II Corinthians 10:2</h3>
+<div class="outline-text-3" id="text-10-2">
+<p>
+Rogo autem vos ne præsens audeam per eam confidentiam, qua existimor audere in quosdam, qui arbitrantur nos tamquam secundum carnem ambulemus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6e8e02d" class="outline-3">
+<h3 id="org6e8e02d"><span class="section-number-3">10.3</span> II Corinthians 10:3</h3>
+<div class="outline-text-3" id="text-10-3">
+<p>
+In carne enim ambulantes, non secundum carnem militamus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5e95615" class="outline-3">
+<h3 id="org5e95615"><span class="section-number-3">10.4</span> II Corinthians 10:4</h3>
+<div class="outline-text-3" id="text-10-4">
+<p>
+Nam arma militiæ nostræ non carnalia sunt, sed potentia Deo ad destructionem munitionum, consilia destruentes,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f43eef" class="outline-3">
+<h3 id="org7f43eef"><span class="section-number-3">10.5</span> II Corinthians 10:5</h3>
+<div class="outline-text-3" id="text-10-5">
+<p>
+et omnem altitudinem extollentem se adversus scientiam Dei, et in captivitatem redigentes omnem intellectum in obsequium Christi,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1d03aeb" class="outline-3">
+<h3 id="org1d03aeb"><span class="section-number-3">10.6</span> II Corinthians 10:6</h3>
+<div class="outline-text-3" id="text-10-6">
+<p>
+et in promptu habentes ulcisci omnem inobedientiam, cum impleta fuerit vestra obedientia.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf461305" class="outline-3">
+<h3 id="orgf461305"><span class="section-number-3">10.7</span> II Corinthians 10:7</h3>
+<div class="outline-text-3" id="text-10-7">
+<p>
+Quæ secundum faciem sunt, videte. Si quis confidit sibi Christi se esse, hoc cogitet iterum apud se : quia sicut ipse Christi est, ita et nos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd01d59b" class="outline-3">
+<h3 id="orgd01d59b"><span class="section-number-3">10.8</span> II Corinthians 10:8</h3>
+<div class="outline-text-3" id="text-10-8">
+<p>
+Nam etsi amplius aliquid gloriatus fuero de potestate nostra, quam dedit nobis Dominus in ædificationem, et non in destructionem vestram, non erubescam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf150dc9" class="outline-3">
+<h3 id="orgf150dc9"><span class="section-number-3">10.9</span> II Corinthians 10:9</h3>
+<div class="outline-text-3" id="text-10-9">
+<p>
+Ut autem non existimer tamquam terrere vos per epistolas :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org80ad294" class="outline-3">
+<h3 id="org80ad294"><span class="section-number-3">10.10</span> II Corinthians 10:10</h3>
+<div class="outline-text-3" id="text-10-10">
+<p>
+quoniam quidem epistolæ, inquiunt, graves sunt et fortes : præsentia autem corporis infirma, et sermo contemptibilis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02d57b3" class="outline-3">
+<h3 id="org02d57b3"><span class="section-number-3">10.11</span> II Corinthians 10:11</h3>
+<div class="outline-text-3" id="text-10-11">
+<p>
+hoc cogitet qui ejusmodi est, quia quales sumus verbo per epistolas absentes, tales et præsentes in facto.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc8aa948" class="outline-3">
+<h3 id="orgc8aa948"><span class="section-number-3">10.12</span> II Corinthians 10:12</h3>
+<div class="outline-text-3" id="text-10-12">
+<p>
+Non enim audemus inserere, aut comparare nos quibusdam, qui seipsos commendant : sed ipsi in nobis nosmetipsos metientes, et comparantes nosmetipsos nobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4012472" class="outline-3">
+<h3 id="org4012472"><span class="section-number-3">10.13</span> II Corinthians 10:13</h3>
+<div class="outline-text-3" id="text-10-13">
+<p>
+Nos autem non in immensum gloriabimur, sed secundum mensuram regulæ, qua mensus est nobis Deus, mensuram pertingendi usque ad vos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7422f87" class="outline-3">
+<h3 id="org7422f87"><span class="section-number-3">10.14</span> II Corinthians 10:14</h3>
+<div class="outline-text-3" id="text-10-14">
+<p>
+Non enim quasi non pertingentes ad vos, superextendimus nos : usque ad vos enim pervenimus in Evangelio Christi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf57f6f5" class="outline-3">
+<h3 id="orgf57f6f5"><span class="section-number-3">10.15</span> II Corinthians 10:15</h3>
+<div class="outline-text-3" id="text-10-15">
+<p>
+Non in immensum gloriantes in alienis laboribus : spem autem habentes crescentis fidei vestræ, in vobis magnificari secundum regulam nostram in abundantiam,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org870d913" class="outline-3">
+<h3 id="org870d913"><span class="section-number-3">10.16</span> II Corinthians 10:16</h3>
+<div class="outline-text-3" id="text-10-16">
+<p>
+etiam in illa, quæ ultra vos sunt, evangelizare, non in aliena regula in iis quæ præparata sunt gloriari.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd6b671c" class="outline-3">
+<h3 id="orgd6b671c"><span class="section-number-3">10.17</span> II Corinthians 10:17</h3>
+<div class="outline-text-3" id="text-10-17">
+<p>
+Qui autem gloriatur, in Domino glorietur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge64a7f2" class="outline-3">
+<h3 id="orge64a7f2"><span class="section-number-3">10.18</span> II Corinthians 10:18</h3>
+<div class="outline-text-3" id="text-10-18">
+<p>
+Non enim qui seipsum commendat, ille probatus est : sed quem Deus commendat.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org981c814" class="outline-2">
+<h2 id="org981c814"><span class="section-number-2">11</span> II Corinthians 11</h2>
+<div class="outline-text-2" id="text-11">
+</div>
+<div id="outline-container-org1032ed7" class="outline-3">
+<h3 id="org1032ed7"><span class="section-number-3">11.1</span> II Corinthians 11:1</h3>
+<div class="outline-text-3" id="text-11-1">
+<p>
+Utinam sustineretis modicum quid insipientiæ meæ, sed et supportare me :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org253451c" class="outline-3">
+<h3 id="org253451c"><span class="section-number-3">11.2</span> II Corinthians 11:2</h3>
+<div class="outline-text-3" id="text-11-2">
+<p>
+æmulor enim vos Dei æmulatione. Despondi enim vos uni viro, virginem castam exhibere Christo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org49baf7d" class="outline-3">
+<h3 id="org49baf7d"><span class="section-number-3">11.3</span> II Corinthians 11:3</h3>
+<div class="outline-text-3" id="text-11-3">
+<p>
+Timeo autem ne sicut serpens Hevam seduxit astutia sua, ita corrumpantur sensus vestri, et excidant a simplicitate, quæ est in Christo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge91995a" class="outline-3">
+<h3 id="orge91995a"><span class="section-number-3">11.4</span> II Corinthians 11:4</h3>
+<div class="outline-text-3" id="text-11-4">
+<p>
+Nam si is qui venit, alium Christum prædicat, quem non prædicavimus, aut alium spiritum accipitis, quem non accepistis : aut aliud Evangelium, quod non recepistis : recte pateremini.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcf01e06" class="outline-3">
+<h3 id="orgcf01e06"><span class="section-number-3">11.5</span> II Corinthians 11:5</h3>
+<div class="outline-text-3" id="text-11-5">
+<p>
+Existimo enim nihil me minus fecisse a magnis Apostolis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org47c77e6" class="outline-3">
+<h3 id="org47c77e6"><span class="section-number-3">11.6</span> II Corinthians 11:6</h3>
+<div class="outline-text-3" id="text-11-6">
+<p>
+Nam etsi imperitus sermone, sed non scientia, in omnibus autem manifestati sumus vobis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgee898bc" class="outline-3">
+<h3 id="orgee898bc"><span class="section-number-3">11.7</span> II Corinthians 11:7</h3>
+<div class="outline-text-3" id="text-11-7">
+<p>
+Aut numquid peccatum feci, meipsum humilians, ut vos exaltemini ? quoniam gratis Evangelium Dei evangelizavi vobis ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org449cb73" class="outline-3">
+<h3 id="org449cb73"><span class="section-number-3">11.8</span> II Corinthians 11:8</h3>
+<div class="outline-text-3" id="text-11-8">
+<p>
+Alias ecclesias expoliavi, accipiens stipendium ad ministerium vestrum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4a03932" class="outline-3">
+<h3 id="org4a03932"><span class="section-number-3">11.9</span> II Corinthians 11:9</h3>
+<div class="outline-text-3" id="text-11-9">
+<p>
+Et cum essem apud vos, et egerem, nulli onerosus fui : nam quod mihi deerat, suppleverunt fratres, qui venerunt a Macedonia : et in omnibus sine onere me vobis servavi, et servabo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5b2567d" class="outline-3">
+<h3 id="org5b2567d"><span class="section-number-3">11.10</span> II Corinthians 11:10</h3>
+<div class="outline-text-3" id="text-11-10">
+<p>
+Est veritas Christi in me, quoniam hæc gloriatio non infringetur in me in regionibus Achaiæ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8874ad2" class="outline-3">
+<h3 id="org8874ad2"><span class="section-number-3">11.11</span> II Corinthians 11:11</h3>
+<div class="outline-text-3" id="text-11-11">
+<p>
+Quare ? quia non diligo vos ? Deus scit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org303eb10" class="outline-3">
+<h3 id="org303eb10"><span class="section-number-3">11.12</span> II Corinthians 11:12</h3>
+<div class="outline-text-3" id="text-11-12">
+<p>
+Quod autem facio, et faciam : ut amputem occasionem eorum qui volunt occasionem, ut in quo gloriantur, inveniantur sicut et nos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org94fb344" class="outline-3">
+<h3 id="org94fb344"><span class="section-number-3">11.13</span> II Corinthians 11:13</h3>
+<div class="outline-text-3" id="text-11-13">
+<p>
+Nam ejusmodi pseudoapostoli sunt operarii subdoli, transfigurantes se in apostolos Christi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8be019d" class="outline-3">
+<h3 id="org8be019d"><span class="section-number-3">11.14</span> II Corinthians 11:14</h3>
+<div class="outline-text-3" id="text-11-14">
+<p>
+Et non mirum : ipse enim Satanas transfigurat se in angelum lucis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2bc0bd4" class="outline-3">
+<h3 id="org2bc0bd4"><span class="section-number-3">11.15</span> II Corinthians 11:15</h3>
+<div class="outline-text-3" id="text-11-15">
+<p>
+Non est ergo magnum, si ministri ejus transfigurentur velut ministri justitiæ : quorum finis erit secundum opera ipsorum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org267c17e" class="outline-3">
+<h3 id="org267c17e"><span class="section-number-3">11.16</span> II Corinthians 11:16</h3>
+<div class="outline-text-3" id="text-11-16">
+<p>
+Iterum dico (ne quis me putet insipientem esse, alioquin velut insipientem accipite me, ut et ego modicum quid glorier),
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga65e5e0" class="outline-3">
+<h3 id="orga65e5e0"><span class="section-number-3">11.17</span> II Corinthians 11:17</h3>
+<div class="outline-text-3" id="text-11-17">
+<p>
+quod loquor, non loquor secundum Deum, sed quasi in insipientia, in hac substantia gloriæ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2b3ec30" class="outline-3">
+<h3 id="org2b3ec30"><span class="section-number-3">11.18</span> II Corinthians 11:18</h3>
+<div class="outline-text-3" id="text-11-18">
+<p>
+Quoniam multi gloriantur secundum carnem : et ego gloriabor.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1ca3431" class="outline-3">
+<h3 id="org1ca3431"><span class="section-number-3">11.19</span> II Corinthians 11:19</h3>
+<div class="outline-text-3" id="text-11-19">
+<p>
+Libenter enim suffertis insipientes, cum sitis ipsi sapientes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org89b8235" class="outline-3">
+<h3 id="org89b8235"><span class="section-number-3">11.20</span> II Corinthians 11:20</h3>
+<div class="outline-text-3" id="text-11-20">
+<p>
+Sustinetis enim si quis vos in servitutem redigit, si quis devorat, si quis accipit, si quis extollitur, si quis in faciem vos cædit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org038efbf" class="outline-3">
+<h3 id="org038efbf"><span class="section-number-3">11.21</span> II Corinthians 11:21</h3>
+<div class="outline-text-3" id="text-11-21">
+<p>
+Secundum ignobilitatem dico, quasi nos infirmi fuerimus in hac parte. In quo quis audet (in insipientia dico) audeo et ego :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org15cba69" class="outline-3">
+<h3 id="org15cba69"><span class="section-number-3">11.22</span> II Corinthians 11:22</h3>
+<div class="outline-text-3" id="text-11-22">
+<p>
+Hebræi sunt, et ego : Israëlitæ sunt, et ego : semen Abrahæ sunt, et ego.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0369b15" class="outline-3">
+<h3 id="org0369b15"><span class="section-number-3">11.23</span> II Corinthians 11:23</h3>
+<div class="outline-text-3" id="text-11-23">
+<p>
+Ministri Christi sunt (ut minus sapiens dico), plus ego : in laboribus plurimis, in carceribus abundantius, in plagis supra modum, in mortibus frequenter.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org90387bc" class="outline-3">
+<h3 id="org90387bc"><span class="section-number-3">11.24</span> II Corinthians 11:24</h3>
+<div class="outline-text-3" id="text-11-24">
+<p>
+A Judæis quinquies, quadragenas, una minus, accepi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5a028fd" class="outline-3">
+<h3 id="org5a028fd"><span class="section-number-3">11.25</span> II Corinthians 11:25</h3>
+<div class="outline-text-3" id="text-11-25">
+<p>
+Ter virgis cæsus sum, semel lapidatus sum : ter naufragium feci, nocte et die in profundo maris fui,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge586956" class="outline-3">
+<h3 id="orge586956"><span class="section-number-3">11.26</span> II Corinthians 11:26</h3>
+<div class="outline-text-3" id="text-11-26">
+<p>
+in itineribus sæpe, periculis fluminum, periculis latronum, periculis ex genere, periculis ex gentibus, periculis in civitate, periculis in solitudine, periculis in mari, periculis in falsis fratribus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcbb7f2f" class="outline-3">
+<h3 id="orgcbb7f2f"><span class="section-number-3">11.27</span> II Corinthians 11:27</h3>
+<div class="outline-text-3" id="text-11-27">
+<p>
+in labore et ærumna, in vigiliis multis, in fame et siti, in jejuniis multis, in frigore et nuditate,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc70fa2" class="outline-3">
+<h3 id="orgfc70fa2"><span class="section-number-3">11.28</span> II Corinthians 11:28</h3>
+<div class="outline-text-3" id="text-11-28">
+<p>
+præter illa quæ extrinsecus sunt, instantia mea quotidiana, sollicitudo omnium ecclesiarum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc8af402" class="outline-3">
+<h3 id="orgc8af402"><span class="section-number-3">11.29</span> II Corinthians 11:29</h3>
+<div class="outline-text-3" id="text-11-29">
+<p>
+Quis infirmatur, et ego non infirmor ? quis scandalizatur, et ego non uror ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe0be65" class="outline-3">
+<h3 id="orgfe0be65"><span class="section-number-3">11.30</span> II Corinthians 11:30</h3>
+<div class="outline-text-3" id="text-11-30">
+<p>
+Si gloriari oportet, quæ infirmitatis meæ sunt, gloriabor.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3fe2902" class="outline-3">
+<h3 id="org3fe2902"><span class="section-number-3">11.31</span> II Corinthians 11:31</h3>
+<div class="outline-text-3" id="text-11-31">
+<p>
+Deus et Pater Domini nostri Jesu Christi, qui est benedictus in sæcula, scit quod non mentior.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf4108d6" class="outline-3">
+<h3 id="orgf4108d6"><span class="section-number-3">11.32</span> II Corinthians 11:32</h3>
+<div class="outline-text-3" id="text-11-32">
+<p>
+Damasci præpositus gentis Aretæ regis custodiebat civitatem Damascenorum ut me comprehenderet :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga8c7944" class="outline-3">
+<h3 id="orga8c7944"><span class="section-number-3">11.33</span> II Corinthians 11:33</h3>
+<div class="outline-text-3" id="text-11-33">
+<p>
+et per fenestram in sporta dimissus sum per murum, et sic effugi manus ejus.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgcc81900" class="outline-2">
+<h2 id="orgcc81900"><span class="section-number-2">12</span> II Corinthians 12</h2>
+<div class="outline-text-2" id="text-12">
+</div>
+<div id="outline-container-org3e929c3" class="outline-3">
+<h3 id="org3e929c3"><span class="section-number-3">12.1</span> II Corinthians 12:1</h3>
+<div class="outline-text-3" id="text-12-1">
+<p>
+Si gloriari oportet (non expedit quidem), veniam autem ad visiones et revelationes Domini.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org39091ae" class="outline-3">
+<h3 id="org39091ae"><span class="section-number-3">12.2</span> II Corinthians 12:2</h3>
+<div class="outline-text-3" id="text-12-2">
+<p>
+Scio hominem in Christo ante annos quatuordecim, sive in corpore nescio, sive extra corpus nescio, Deus scit, raptum hujusmodi usque ad tertium cælum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcdda3c0" class="outline-3">
+<h3 id="orgcdda3c0"><span class="section-number-3">12.3</span> II Corinthians 12:3</h3>
+<div class="outline-text-3" id="text-12-3">
+<p>
+Et scio hujusmodi hominem sive in corpore, sive extra corpus nescio, Deus scit :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org451244f" class="outline-3">
+<h3 id="org451244f"><span class="section-number-3">12.4</span> II Corinthians 12:4</h3>
+<div class="outline-text-3" id="text-12-4">
+<p>
+quoniam raptus est in paradisum : et audivit arcana verba, quæ non licet homini loqui.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc868e0e" class="outline-3">
+<h3 id="orgc868e0e"><span class="section-number-3">12.5</span> II Corinthians 12:5</h3>
+<div class="outline-text-3" id="text-12-5">
+<p>
+Pro hujusmodi gloriabor : pro me autem nihil gloriabor nisi in infirmitatibus meis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8b0ba5d" class="outline-3">
+<h3 id="org8b0ba5d"><span class="section-number-3">12.6</span> II Corinthians 12:6</h3>
+<div class="outline-text-3" id="text-12-6">
+<p>
+Nam etsi voluero gloriari, non ero insipiens : veritatem enim dicam : parco autem, ne quis me existimet supra id quod videt in me, aut aliquid audit ex me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org889cd4c" class="outline-3">
+<h3 id="org889cd4c"><span class="section-number-3">12.7</span> II Corinthians 12:7</h3>
+<div class="outline-text-3" id="text-12-7">
+<p>
+Et ne magnitudo revelationum extollat me, datus est mihi stimulus carnis meæ angelus Satanæ, qui me colaphizet.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2cb812a" class="outline-3">
+<h3 id="org2cb812a"><span class="section-number-3">12.8</span> II Corinthians 12:8</h3>
+<div class="outline-text-3" id="text-12-8">
+<p>
+Propter quod ter Dominum rogavi ut discederet a me :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org703b488" class="outline-3">
+<h3 id="org703b488"><span class="section-number-3">12.9</span> II Corinthians 12:9</h3>
+<div class="outline-text-3" id="text-12-9">
+<p>
+et dixit mihi : Sufficit tibi gratia mea : nam virtus in infirmitate perficitur. Libenter igitur gloriabor in infirmitatibus meis, ut inhabitet in me virtus Christi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org87af854" class="outline-3">
+<h3 id="org87af854"><span class="section-number-3">12.10</span> II Corinthians 12:10</h3>
+<div class="outline-text-3" id="text-12-10">
+<p>
+Propter quod placeo mihi in infirmitatibus meis, in contumeliis, in necessitatibus, in persecutionibus, in angustiis pro Christo : cum enim infirmor, tunc potens sum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5f1991d" class="outline-3">
+<h3 id="org5f1991d"><span class="section-number-3">12.11</span> II Corinthians 12:11</h3>
+<div class="outline-text-3" id="text-12-11">
+<p>
+Factus sum insipiens, vos me coëgistis. Ego enim a vobis debui commendari : nihil enim minus fui ab iis, qui sunt supra modum Apostoli : tametsi nihil sum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaad24c0" class="outline-3">
+<h3 id="orgaad24c0"><span class="section-number-3">12.12</span> II Corinthians 12:12</h3>
+<div class="outline-text-3" id="text-12-12">
+<p>
+signa tamen apostolatus mei facta sunt super vos in omni patientia, in signis, et prodigiis, et virtutibus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3bb36f5" class="outline-3">
+<h3 id="org3bb36f5"><span class="section-number-3">12.13</span> II Corinthians 12:13</h3>
+<div class="outline-text-3" id="text-12-13">
+<p>
+Quid est enim, quod minus habuistis præ ceteris ecclesiis, nisi quod ego ipse non gravavi vos ? donate mihi hanc injuriam.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8931256" class="outline-3">
+<h3 id="org8931256"><span class="section-number-3">12.14</span> II Corinthians 12:14</h3>
+<div class="outline-text-3" id="text-12-14">
+<p>
+Ecce tertio hoc paratus sum venire ad vos : et non ero gravis vobis. Non enim quæro quæ vestra sunt, sed vos. Nec enim debent filii parentibus thesaurizare, sed parentes filiis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbafa9e4" class="outline-3">
+<h3 id="orgbafa9e4"><span class="section-number-3">12.15</span> II Corinthians 12:15</h3>
+<div class="outline-text-3" id="text-12-15">
+<p>
+Ego autem libentissime impendam, et super impendar ipse pro animabus vestris : licet plus vos diligens, minus diligar.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org49ef0bd" class="outline-3">
+<h3 id="org49ef0bd"><span class="section-number-3">12.16</span> II Corinthians 12:16</h3>
+<div class="outline-text-3" id="text-12-16">
+<p>
+Sed esto : ego vos non gravavi : sed cum essem astutus, dolo vos cepi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org12a6052" class="outline-3">
+<h3 id="org12a6052"><span class="section-number-3">12.17</span> II Corinthians 12:17</h3>
+<div class="outline-text-3" id="text-12-17">
+<p>
+Numquid per aliquem eorum, quod misi ad vos, circumveni vos ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbc0cddd" class="outline-3">
+<h3 id="orgbc0cddd"><span class="section-number-3">12.18</span> II Corinthians 12:18</h3>
+<div class="outline-text-3" id="text-12-18">
+<p>
+Rogavi Titum, et misi cum illo fratrem. Numquid Titus vos circumvenit ? nonne eodem spiritu ambulavimus ? nonne iisdem vestigiis ?  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org39fc548" class="outline-3">
+<h3 id="org39fc548"><span class="section-number-3">12.19</span> II Corinthians 12:19</h3>
+<div class="outline-text-3" id="text-12-19">
+<p>
+Olim putatis quod excusemus nos apud vos ? coram Deo in Christo loquimur : omnia autem, carissimi, propter ædificationem vestram.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org89eb9c7" class="outline-3">
+<h3 id="org89eb9c7"><span class="section-number-3">12.20</span> II Corinthians 12:20</h3>
+<div class="outline-text-3" id="text-12-20">
+<p>
+Timeo enim ne forte cum venero, non quales volo, inveniam vos : et ego inveniar a vobis, qualem non vultis : ne forte contentiones, æmulationes, animositates, dissensiones, detractiones, susurrationes, inflationes, seditiones sint inter vos :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org86d15be" class="outline-3">
+<h3 id="org86d15be"><span class="section-number-3">12.21</span> II Corinthians 12:21</h3>
+<div class="outline-text-3" id="text-12-21">
+<p>
+ne iterum cum venero, humiliet me Deus apud vos, et lugeam multos ex iis qui ante peccaverunt, et non egerunt pœnitentiam super immunditia, et fornicatione, et impudicitia, quam gesserunt.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org247f6da" class="outline-2">
+<h2 id="org247f6da"><span class="section-number-2">13</span> II Corinthians 13</h2>
+<div class="outline-text-2" id="text-13">
+</div>
+<div id="outline-container-org21534c9" class="outline-3">
+<h3 id="org21534c9"><span class="section-number-3">13.1</span> II Corinthians 13:1</h3>
+<div class="outline-text-3" id="text-13-1">
+<p>
+Ecce tertio hoc venio ad vos : in ore duorum vel trium testium stabit omne verbum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc6dee08" class="outline-3">
+<h3 id="orgc6dee08"><span class="section-number-3">13.2</span> II Corinthians 13:2</h3>
+<div class="outline-text-3" id="text-13-2">
+<p>
+Prædixi, et prædico, ut præsens, et nunc absens iis qui ante peccaverunt, et ceteris omnibus, quoniam si venero iterum, non parcam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org88628f6" class="outline-3">
+<h3 id="org88628f6"><span class="section-number-3">13.3</span> II Corinthians 13:3</h3>
+<div class="outline-text-3" id="text-13-3">
+<p>
+An experimentum quæritis ejus, qui in me loquitur Christus, qui in vobis non infirmatur, sed potens est in vobis ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgca8aabe" class="outline-3">
+<h3 id="orgca8aabe"><span class="section-number-3">13.4</span> II Corinthians 13:4</h3>
+<div class="outline-text-3" id="text-13-4">
+<p>
+Nam etsi crucifixus est ex infirmitate : sed vivit ex virtute Dei. Nam et nos infirmi sumus in illo : sed vivemus cum eo ex virtute Dei in vobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org81b5fff" class="outline-3">
+<h3 id="org81b5fff"><span class="section-number-3">13.5</span> II Corinthians 13:5</h3>
+<div class="outline-text-3" id="text-13-5">
+<p>
+Vosmetipsos tentate si estis in fide : ipsi vos probate. An non cognoscitis vosmetipsos quia Christus Jesus in vobis est ? nisi forte reprobi estis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcb1136f" class="outline-3">
+<h3 id="orgcb1136f"><span class="section-number-3">13.6</span> II Corinthians 13:6</h3>
+<div class="outline-text-3" id="text-13-6">
+<p>
+Spero autem quod cognoscetis, quia nos non sumus reprobi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7df4fb1" class="outline-3">
+<h3 id="org7df4fb1"><span class="section-number-3">13.7</span> II Corinthians 13:7</h3>
+<div class="outline-text-3" id="text-13-7">
+<p>
+Oramus autem Deum ut nihil mali faciatis, non ut nos probati appareamus, sed ut vos quod bonum est faciatis : nos autem ut reprobi simus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf7f40b2" class="outline-3">
+<h3 id="orgf7f40b2"><span class="section-number-3">13.8</span> II Corinthians 13:8</h3>
+<div class="outline-text-3" id="text-13-8">
+<p>
+Non enim possumus aliquid adversus veritatem, sed pro veritate.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org53fba70" class="outline-3">
+<h3 id="org53fba70"><span class="section-number-3">13.9</span> II Corinthians 13:9</h3>
+<div class="outline-text-3" id="text-13-9">
+<p>
+Gaudemus enim, quoniam nos infirmi sumus, vos autem potentes estis. Hoc et oramus, vestram consummationem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga0fd5bd" class="outline-3">
+<h3 id="orga0fd5bd"><span class="section-number-3">13.10</span> II Corinthians 13:10</h3>
+<div class="outline-text-3" id="text-13-10">
+<p>
+Ideo hæc absens scribo, ut non præsens durius agam secundum potestatem, quam Dominus dedit mihi in ædificationem, et non in destructionem.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9ad925d" class="outline-3">
+<h3 id="org9ad925d"><span class="section-number-3">13.11</span> II Corinthians 13:11</h3>
+<div class="outline-text-3" id="text-13-11">
+<p>
+De cetero, fratres, gaudete, perfecti estote, exhortamini, idem sapite, pacem habete, et Deus pacis et dilectionis erit vobiscum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b51ad5" class="outline-3">
+<h3 id="org3b51ad5"><span class="section-number-3">13.12</span> II Corinthians 13:12</h3>
+<div class="outline-text-3" id="text-13-12">
+<p>
+Salutate invicem in osculo sancto. Salutant vos omnes sancti.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcd7202a" class="outline-3">
+<h3 id="orgcd7202a"><span class="section-number-3">13.13</span> II Corinthians 13:13</h3>
+<div class="outline-text-3" id="text-13-13">
+<p>
+Gratia Domini nostri Jesu Christi, et caritas Dei, et communicatio Sancti Spiritus sit cum omnibus vobis. Amen.    
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:37</p>
+</div>
+</body>
+</html>

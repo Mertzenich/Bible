@@ -1,0 +1,1825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:38 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org3408a5a">1. Lamentations 1</a>
+<ul>
+<li><a href="#org6b391c8">1.1. Lamentations 1:1</a></li>
+<li><a href="#org7546cf8">1.2. Lamentations 1:2</a></li>
+<li><a href="#orgf718743">1.3. Lamentations 1:3</a></li>
+<li><a href="#org114dafb">1.4. Lamentations 1:4</a></li>
+<li><a href="#org60a9405">1.5. Lamentations 1:5</a></li>
+<li><a href="#orgb93962a">1.6. Lamentations 1:6</a></li>
+<li><a href="#orgff751c0">1.7. Lamentations 1:7</a></li>
+<li><a href="#orgb59db8a">1.8. Lamentations 1:8</a></li>
+<li><a href="#org63aa848">1.9. Lamentations 1:9</a></li>
+<li><a href="#orgc65498b">1.10. Lamentations 1:10</a></li>
+<li><a href="#org418c7f6">1.11. Lamentations 1:11</a></li>
+<li><a href="#orgfd3290c">1.12. Lamentations 1:12</a></li>
+<li><a href="#orgf0061b6">1.13. Lamentations 1:13</a></li>
+<li><a href="#orgf9b7b35">1.14. Lamentations 1:14</a></li>
+<li><a href="#org02adc70">1.15. Lamentations 1:15</a></li>
+<li><a href="#org6b90b0d">1.16. Lamentations 1:16</a></li>
+<li><a href="#org3b208f7">1.17. Lamentations 1:17</a></li>
+<li><a href="#orgd37a62b">1.18. Lamentations 1:18</a></li>
+<li><a href="#org405529f">1.19. Lamentations 1:19</a></li>
+<li><a href="#orgdff7d52">1.20. Lamentations 1:20</a></li>
+<li><a href="#org11decab">1.21. Lamentations 1:21</a></li>
+<li><a href="#org4329c40">1.22. Lamentations 1:22</a></li>
+</ul>
+</li>
+<li><a href="#org9d69498">2. Lamentations 2</a>
+<ul>
+<li><a href="#org94829d8">2.1. Lamentations 2:1</a></li>
+<li><a href="#orgb34f4f2">2.2. Lamentations 2:2</a></li>
+<li><a href="#org6e01025">2.3. Lamentations 2:3</a></li>
+<li><a href="#orgb4a95eb">2.4. Lamentations 2:4</a></li>
+<li><a href="#orgf4aa7e1">2.5. Lamentations 2:5</a></li>
+<li><a href="#orgb3b32f4">2.6. Lamentations 2:6</a></li>
+<li><a href="#org9b5513e">2.7. Lamentations 2:7</a></li>
+<li><a href="#org4b31a20">2.8. Lamentations 2:8</a></li>
+<li><a href="#org2c9499c">2.9. Lamentations 2:9</a></li>
+<li><a href="#org799011b">2.10. Lamentations 2:10</a></li>
+<li><a href="#org25c8cd7">2.11. Lamentations 2:11</a></li>
+<li><a href="#orgf74230b">2.12. Lamentations 2:12</a></li>
+<li><a href="#org5993a33">2.13. Lamentations 2:13</a></li>
+<li><a href="#org5ffc839">2.14. Lamentations 2:14</a></li>
+<li><a href="#orgd406890">2.15. Lamentations 2:15</a></li>
+<li><a href="#org3c1694c">2.16. Lamentations 2:16</a></li>
+<li><a href="#orgcc4dc3c">2.17. Lamentations 2:17</a></li>
+<li><a href="#org9b572ad">2.18. Lamentations 2:18</a></li>
+<li><a href="#org4b0120e">2.19. Lamentations 2:19</a></li>
+<li><a href="#orgeb1cf30">2.20. Lamentations 2:20</a></li>
+<li><a href="#org70ad7b9">2.21. Lamentations 2:21</a></li>
+<li><a href="#org3f9a476">2.22. Lamentations 2:22</a></li>
+</ul>
+</li>
+<li><a href="#org4ba07a1">3. Lamentations 3</a>
+<ul>
+<li><a href="#org1866a09">3.1. Lamentations 3:1</a></li>
+<li><a href="#org65569f7">3.2. Lamentations 3:2</a></li>
+<li><a href="#orga3beecb">3.3. Lamentations 3:3</a></li>
+<li><a href="#org98b3676">3.4. Lamentations 3:4</a></li>
+<li><a href="#org29b8634">3.5. Lamentations 3:5</a></li>
+<li><a href="#orgeb93878">3.6. Lamentations 3:6</a></li>
+<li><a href="#orgc8d0a79">3.7. Lamentations 3:7</a></li>
+<li><a href="#orgd84b031">3.8. Lamentations 3:8</a></li>
+<li><a href="#org2b2a0e0">3.9. Lamentations 3:9</a></li>
+<li><a href="#org97e292d">3.10. Lamentations 3:10</a></li>
+<li><a href="#org92d1846">3.11. Lamentations 3:11</a></li>
+<li><a href="#org3923181">3.12. Lamentations 3:12</a></li>
+<li><a href="#orgf40bfb9">3.13. Lamentations 3:13</a></li>
+<li><a href="#orgcf25416">3.14. Lamentations 3:14</a></li>
+<li><a href="#org45e3817">3.15. Lamentations 3:15</a></li>
+<li><a href="#org2a218f7">3.16. Lamentations 3:16</a></li>
+<li><a href="#orga8e1ff2">3.17. Lamentations 3:17</a></li>
+<li><a href="#org8d26fe6">3.18. Lamentations 3:18</a></li>
+<li><a href="#orgdc07bc9">3.19. Lamentations 3:19</a></li>
+<li><a href="#orgf5b6005">3.20. Lamentations 3:20</a></li>
+<li><a href="#org563bcd0">3.21. Lamentations 3:21</a></li>
+<li><a href="#org5f68999">3.22. Lamentations 3:22</a></li>
+<li><a href="#orgfa48902">3.23. Lamentations 3:23</a></li>
+<li><a href="#orge5a68b8">3.24. Lamentations 3:24</a></li>
+<li><a href="#org0e8a3d3">3.25. Lamentations 3:25</a></li>
+<li><a href="#orgb6c7962">3.26. Lamentations 3:26</a></li>
+<li><a href="#org157c8c5">3.27. Lamentations 3:27</a></li>
+<li><a href="#orgfcedd2d">3.28. Lamentations 3:28</a></li>
+<li><a href="#orgc9acdfa">3.29. Lamentations 3:29</a></li>
+<li><a href="#orgbcfe2f7">3.30. Lamentations 3:30</a></li>
+<li><a href="#org64ce199">3.31. Lamentations 3:31</a></li>
+<li><a href="#org3e80cdb">3.32. Lamentations 3:32</a></li>
+<li><a href="#orgfe62d00">3.33. Lamentations 3:33</a></li>
+<li><a href="#org7373ab4">3.34. Lamentations 3:34</a></li>
+<li><a href="#orgf5bebd0">3.35. Lamentations 3:35</a></li>
+<li><a href="#orgf663cc4">3.36. Lamentations 3:36</a></li>
+<li><a href="#orga30c2fa">3.37. Lamentations 3:37</a></li>
+<li><a href="#orgc3f8f0b">3.38. Lamentations 3:38</a></li>
+<li><a href="#org054f169">3.39. Lamentations 3:39</a></li>
+<li><a href="#org6991192">3.40. Lamentations 3:40</a></li>
+<li><a href="#org3877154">3.41. Lamentations 3:41</a></li>
+<li><a href="#org6a89f44">3.42. Lamentations 3:42</a></li>
+<li><a href="#org5c6d2fd">3.43. Lamentations 3:43</a></li>
+<li><a href="#org6686824">3.44. Lamentations 3:44</a></li>
+<li><a href="#org8816575">3.45. Lamentations 3:45</a></li>
+<li><a href="#org6390c4e">3.46. Lamentations 3:46</a></li>
+<li><a href="#org9a374cb">3.47. Lamentations 3:47</a></li>
+<li><a href="#org7a7e69b">3.48. Lamentations 3:48</a></li>
+<li><a href="#orge5d521f">3.49. Lamentations 3:49</a></li>
+<li><a href="#org2374700">3.50. Lamentations 3:50</a></li>
+<li><a href="#org92cda4a">3.51. Lamentations 3:51</a></li>
+<li><a href="#org85627a3">3.52. Lamentations 3:52</a></li>
+<li><a href="#org0403110">3.53. Lamentations 3:53</a></li>
+<li><a href="#orgc93d0a4">3.54. Lamentations 3:54</a></li>
+<li><a href="#orga8b784c">3.55. Lamentations 3:55</a></li>
+<li><a href="#org1d2d512">3.56. Lamentations 3:56</a></li>
+<li><a href="#orgf32d898">3.57. Lamentations 3:57</a></li>
+<li><a href="#orge4347d8">3.58. Lamentations 3:58</a></li>
+<li><a href="#orgf606692">3.59. Lamentations 3:59</a></li>
+<li><a href="#org84430a4">3.60. Lamentations 3:60</a></li>
+<li><a href="#org0efd355">3.61. Lamentations 3:61</a></li>
+<li><a href="#orge1f1b15">3.62. Lamentations 3:62</a></li>
+<li><a href="#orgefe5c41">3.63. Lamentations 3:63</a></li>
+<li><a href="#org3b294bc">3.64. Lamentations 3:64</a></li>
+<li><a href="#orga074696">3.65. Lamentations 3:65</a></li>
+<li><a href="#org49cc8d6">3.66. Lamentations 3:66</a></li>
+</ul>
+</li>
+<li><a href="#org07742ed">4. Lamentations 4</a>
+<ul>
+<li><a href="#org621feb4">4.1. Lamentations 4:1</a></li>
+<li><a href="#orgb0f0294">4.2. Lamentations 4:2</a></li>
+<li><a href="#org5ef11e9">4.3. Lamentations 4:3</a></li>
+<li><a href="#org2cb6753">4.4. Lamentations 4:4</a></li>
+<li><a href="#orgbae22eb">4.5. Lamentations 4:5</a></li>
+<li><a href="#orgef5ccd9">4.6. Lamentations 4:6</a></li>
+<li><a href="#org7d8025f">4.7. Lamentations 4:7</a></li>
+<li><a href="#org445930a">4.8. Lamentations 4:8</a></li>
+<li><a href="#org89f9de8">4.9. Lamentations 4:9</a></li>
+<li><a href="#org909a959">4.10. Lamentations 4:10</a></li>
+<li><a href="#orgd7ede2b">4.11. Lamentations 4:11</a></li>
+<li><a href="#org8112d6d">4.12. Lamentations 4:12</a></li>
+<li><a href="#orgd63d24d">4.13. Lamentations 4:13</a></li>
+<li><a href="#org432b6a3">4.14. Lamentations 4:14</a></li>
+<li><a href="#org5f646ee">4.15. Lamentations 4:15</a></li>
+<li><a href="#org4a001aa">4.16. Lamentations 4:16</a></li>
+<li><a href="#org5ca44ff">4.17. Lamentations 4:17</a></li>
+<li><a href="#org70f8a32">4.18. Lamentations 4:18</a></li>
+<li><a href="#orgd3519d2">4.19. Lamentations 4:19</a></li>
+<li><a href="#orgbe6d80f">4.20. Lamentations 4:20</a></li>
+<li><a href="#orgde53cf3">4.21. Lamentations 4:21</a></li>
+<li><a href="#org62db769">4.22. Lamentations 4:22</a></li>
+</ul>
+</li>
+<li><a href="#org0f19978">5. Lamentations 5</a>
+<ul>
+<li><a href="#org1b9f892">5.1. Lamentations 5:1</a></li>
+<li><a href="#org1015c8e">5.2. Lamentations 5:2</a></li>
+<li><a href="#org5076250">5.3. Lamentations 5:3</a></li>
+<li><a href="#org4dbc7c3">5.4. Lamentations 5:4</a></li>
+<li><a href="#orgd6744b3">5.5. Lamentations 5:5</a></li>
+<li><a href="#orgfe275a5">5.6. Lamentations 5:6</a></li>
+<li><a href="#org090a18c">5.7. Lamentations 5:7</a></li>
+<li><a href="#orgb482e8d">5.8. Lamentations 5:8</a></li>
+<li><a href="#org0aedacc">5.9. Lamentations 5:9</a></li>
+<li><a href="#org35ee5fc">5.10. Lamentations 5:10</a></li>
+<li><a href="#org136a554">5.11. Lamentations 5:11</a></li>
+<li><a href="#org87081ad">5.12. Lamentations 5:12</a></li>
+<li><a href="#org043d269">5.13. Lamentations 5:13</a></li>
+<li><a href="#orgfd859ea">5.14. Lamentations 5:14</a></li>
+<li><a href="#org267f8a9">5.15. Lamentations 5:15</a></li>
+<li><a href="#org8c4c401">5.16. Lamentations 5:16</a></li>
+<li><a href="#orgdd14a37">5.17. Lamentations 5:17</a></li>
+<li><a href="#org81db14c">5.18. Lamentations 5:18</a></li>
+<li><a href="#orgd36991e">5.19. Lamentations 5:19</a></li>
+<li><a href="#org4c33ee0">5.20. Lamentations 5:20</a></li>
+<li><a href="#org4a0db0a">5.21. Lamentations 5:21</a></li>
+<li><a href="#orge32a629">5.22. Lamentations 5:22</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org3408a5a" class="outline-2">
+<h2 id="org3408a5a"><span class="section-number-2">1</span> Lamentations 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org6b391c8" class="outline-3">
+<h3 id="org6b391c8"><span class="section-number-3">1.1</span> Lamentations 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Quomodo sedet sola  civitas plena populo !  Facta est quasi vidua  domina gentium ;  princeps provinciarum  facta est sub tributo.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7546cf8" class="outline-3">
+<h3 id="org7546cf8"><span class="section-number-3">1.2</span> Lamentations 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Plorans ploravit in nocte,  et lacrimæ ejus in maxillis ejus :  non est qui consoletur eam  ex omnibus caris ejus ;  omnes amici ejus spreverunt eam,  et facti sunt ei inimici.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf718743" class="outline-3">
+<h3 id="orgf718743"><span class="section-number-3">1.3</span> Lamentations 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Migravit Judas propter afflictionem,  et multitudinem servitutis ;  habitavit inter gentes,  nec invenit requiem :  omnes persecutores ejus apprehenderunt eam  inter angustias.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org114dafb" class="outline-3">
+<h3 id="org114dafb"><span class="section-number-3">1.4</span> Lamentations 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Viæ Sion lugent, eo quod non sint  qui veniant ad solemnitatem :  omnes portæ ejus destructæ,  sacerdotes ejus gementes ;  virgines ejus squalidæ,  et ipsa oppressa amaritudine.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org60a9405" class="outline-3">
+<h3 id="org60a9405"><span class="section-number-3">1.5</span> Lamentations 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Facti sunt hostes ejus in capite ;  inimici ejus locupletati sunt :  quia Dominus locutus est super eam  propter multitudinem iniquitatum ejus.  Parvuli ejus ducti sunt in captivitatem  ante faciem tribulantis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb93962a" class="outline-3">
+<h3 id="orgb93962a"><span class="section-number-3">1.6</span> Lamentations 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Et egressus est a filia Sion  omnis decor ejus ;  facti sunt principes ejus velut arietes  non invenientes pascua,  et abierunt absque fortitudine  ante faciem subsequentis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgff751c0" class="outline-3">
+<h3 id="orgff751c0"><span class="section-number-3">1.7</span> Lamentations 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+Recordata est Jerusalem dierum afflictionis suæ,  et prævaricationis,  omnium desiderabilium suorum,  quæ habuerat a diebus antiquis,  cum caderet populus ejus in manu hostili,  et non esset auxiliator :  viderunt eam hostes,  et deriserunt sabbata ejus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb59db8a" class="outline-3">
+<h3 id="orgb59db8a"><span class="section-number-3">1.8</span> Lamentations 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+Peccatum peccavit Jerusalem,  propterea instabilis facta est ;  omnes qui glorificabant eam spreverunt illam,  quia viderunt ignominiam ejus :  ipsa autem gemens  conversa est retrorsum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org63aa848" class="outline-3">
+<h3 id="org63aa848"><span class="section-number-3">1.9</span> Lamentations 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+Sordes ejus in pedibus ejus,  nec recordata est finis sui ;  deposita est vehementer,  non habens consolatorem.  Vide, Domine, afflictionem meam,  quoniam erectus est inimicus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc65498b" class="outline-3">
+<h3 id="orgc65498b"><span class="section-number-3">1.10</span> Lamentations 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+Manum suam misit hostis  ad omnia desiderabilia ejus,  quia vidit gentes  ingressas sanctuarium suum,  de quibus præceperas  ne intrarent in ecclesiam tuam.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org418c7f6" class="outline-3">
+<h3 id="org418c7f6"><span class="section-number-3">1.11</span> Lamentations 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+Omnis populus ejus gemens,  et quærens panem ;  dederunt pretiosa quæque pro cibo  ad refocillandam animam.  Vide, Domine, et considera  quoniam facta sum vilis !  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfd3290c" class="outline-3">
+<h3 id="orgfd3290c"><span class="section-number-3">1.12</span> Lamentations 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+O vos omnes qui transitis per viam,  attendite, et videte  si est dolor sicut dolor meus !  quoniam vindemiavit me,  ut locutus est Dominus,  in die iræ furoris sui.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf0061b6" class="outline-3">
+<h3 id="orgf0061b6"><span class="section-number-3">1.13</span> Lamentations 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+De excelso misit ignem in ossibus meis,  et erudivit me :  expandit rete pedibus meis,  convertit me retrorsum ;  posuit me desolatam,  tota die mœrore confectam.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf9b7b35" class="outline-3">
+<h3 id="orgf9b7b35"><span class="section-number-3">1.14</span> Lamentations 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+Vigilavit jugum iniquitatum mearum ;  in manu ejus convolutæ sunt,  et impositæ collo meo.  Infirmata est virtus mea :  dedit me Dominus in manu  de qua non potero surgere.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02adc70" class="outline-3">
+<h3 id="org02adc70"><span class="section-number-3">1.15</span> Lamentations 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+Abstulit omnes magnificos meos Dominus  de medio mei ;  vocavit adversum me tempus  ut contereret electos meos.  Torcular calcavit Dominus  virgini filiæ Juda.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6b90b0d" class="outline-3">
+<h3 id="org6b90b0d"><span class="section-number-3">1.16</span> Lamentations 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+Idcirco ego plorans,  et oculus meus deducens aquas,  quia longe factus est a me consolator,  convertens animam meam.  Facti sunt filii mei perditi,  quoniam invaluit inimicus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b208f7" class="outline-3">
+<h3 id="org3b208f7"><span class="section-number-3">1.17</span> Lamentations 1:17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+Expandit Sion manus suas ;  non est qui consoletur eam.  Mandavit Dominus adversum Jacob  in circuitu ejus hostes ejus ;  facta est Jerusalem  quasi polluta menstruis inter eos.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd37a62b" class="outline-3">
+<h3 id="orgd37a62b"><span class="section-number-3">1.18</span> Lamentations 1:18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+Justus est Dominus,  quia os ejus ad iracundiam provocavi.  Audite, obsecro, universi populi,  et videte dolorem meum :  virgines meæ et juvenes mei abierunt  in captivitatem.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org405529f" class="outline-3">
+<h3 id="org405529f"><span class="section-number-3">1.19</span> Lamentations 1:19</h3>
+<div class="outline-text-3" id="text-1-19">
+<p>
+Vocavi amicos meos,  et ipsi deceperunt me ;  sacerdotes mei et senes mei  in urbe consumpti sunt,  quia quæsierunt cibum sibi  ut refocillarent animam suam.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdff7d52" class="outline-3">
+<h3 id="orgdff7d52"><span class="section-number-3">1.20</span> Lamentations 1:20</h3>
+<div class="outline-text-3" id="text-1-20">
+<p>
+Vide, Domine, quoniam tribulor :  conturbatus est venter meus,  subversum est cor meum in memetipsa,  quoniam amaritudine plena sum.  Foris interfecit gladius,  et domi mors similis est.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org11decab" class="outline-3">
+<h3 id="org11decab"><span class="section-number-3">1.21</span> Lamentations 1:21</h3>
+<div class="outline-text-3" id="text-1-21">
+<p>
+Audierunt quia ingemisco ego,  et non est qui consoletur me ;  omnes inimici mei audierunt malum meum,  lætati sunt quoniam tu fecisti :  adduxisti diem consolationis,  et fient similes mei.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4329c40" class="outline-3">
+<h3 id="org4329c40"><span class="section-number-3">1.22</span> Lamentations 1:22</h3>
+<div class="outline-text-3" id="text-1-22">
+<p>
+Ingrediatur omne malum eorum coram te :  et vindemia eos, sicut vindemiasti me  propter omnes iniquitates meas :  multi enim gemitus mei,  et cor meum mœrens.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org9d69498" class="outline-2">
+<h2 id="org9d69498"><span class="section-number-2">2</span> Lamentations 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org94829d8" class="outline-3">
+<h3 id="org94829d8"><span class="section-number-3">2.1</span> Lamentations 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Quomodo obtexit caligine in furore suo  Dominus filiam Sion ;  projecit de cælo in terram  inclytam Israël,  et non est recordatus scabelli pedum suorum  in die furoris sui !  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb34f4f2" class="outline-3">
+<h3 id="orgb34f4f2"><span class="section-number-3">2.2</span> Lamentations 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Præcipitavit Dominus, nec pepercit  omnia speciosa Jacob :  destruxit in furore suo  munitiones virginis Juda,  et dejecit in terram ;  polluit regnum et principes ejus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6e01025" class="outline-3">
+<h3 id="org6e01025"><span class="section-number-3">2.3</span> Lamentations 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+Confregit in ira furoris sui  omne cornu Israël ;  avertit retrorsum dexteram suam  a facie inimici,  et succendit in Jacob quasi ignem  flammæ devorantis in gyro.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb4a95eb" class="outline-3">
+<h3 id="orgb4a95eb"><span class="section-number-3">2.4</span> Lamentations 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+Tetendit arcum suum quasi inimicus,  firmavit dexteram suam quasi hostis,  et occidit omne quod pulchrum erat visu  in tabernaculo filiæ Sion ;  effudit quasi ignem  indignationem suam.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf4aa7e1" class="outline-3">
+<h3 id="orgf4aa7e1"><span class="section-number-3">2.5</span> Lamentations 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+Factus est Dominus velut inimicus,  præcipitavit Israël :  præcipitavit omnia mœnia ejus,  dissipavit munitiones ejus,  et replevit in filia Juda  humiliatum et humiliatam.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb3b32f4" class="outline-3">
+<h3 id="orgb3b32f4"><span class="section-number-3">2.6</span> Lamentations 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+Et dissipavit quasi hortum tentorium suum ;  demolitus est tabernaculum suum.  Oblivioni tradidit Dominus in Sion  festivitatem et sabbatum ;  et in opprobrium, et in indignationem furoris sui,  regem et sacerdotem.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9b5513e" class="outline-3">
+<h3 id="org9b5513e"><span class="section-number-3">2.7</span> Lamentations 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+Repulit Dominus altare suum ;  maledixit sanctificationi suæ :  tradidit in manu inimici  muros turrium ejus.  Vocem dederunt in domo Domini  sicut in die solemni.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b31a20" class="outline-3">
+<h3 id="org4b31a20"><span class="section-number-3">2.8</span> Lamentations 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+Cogitavit Dominus dissipare  murum filiæ Sion ;  tetendit funiculum suum,  et non avertit manum suam a perditione :  luxitque antemurale,  et murus pariter dissipatus est.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2c9499c" class="outline-3">
+<h3 id="org2c9499c"><span class="section-number-3">2.9</span> Lamentations 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+Defixæ sunt in terra portæ ejus,  perdidit et contrivit vectes ejus ;  regem ejus et principes ejus in gentibus :  non est lex,  et prophetæ ejus non invenerunt  visionem a Domino.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org799011b" class="outline-3">
+<h3 id="org799011b"><span class="section-number-3">2.10</span> Lamentations 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+Sederunt in terra, conticuerunt  senes filiæ Sion ;  consperserunt cinere capita sua,  accincti sunt ciliciis :  abjecerunt in terram capita sua  virgines Jerusalem.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org25c8cd7" class="outline-3">
+<h3 id="org25c8cd7"><span class="section-number-3">2.11</span> Lamentations 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+Defecerunt præ lacrimis oculi mei,  conturbata sunt viscera mea ;  effusum est in terra jecur meum  super contritione filiæ populi mei,  cum deficeret parvulus et lactens  in plateis oppidi.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf74230b" class="outline-3">
+<h3 id="orgf74230b"><span class="section-number-3">2.12</span> Lamentations 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+Matribus suis dixerunt :  Ubi est triticum et vinum ?  cum deficerent quasi vulnerati  in plateis civitatis,  cum exhalarent animas suas  in sinu matrum suarum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5993a33" class="outline-3">
+<h3 id="org5993a33"><span class="section-number-3">2.13</span> Lamentations 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+Cui comparabo te, vel cui assimilabo te,  filia Jerusalem ?  cui exæquabo te, et consolabor te,  virgo, filia Sion ?  magna est enim velut mare contritio tua :  quis medebitur tui ?  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5ffc839" class="outline-3">
+<h3 id="org5ffc839"><span class="section-number-3">2.14</span> Lamentations 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+Prophetæ tui viderunt tibi  falsa et stulta ;  nec aperiebant iniquitatem tuam,  ut te ad pœnitentiam provocarent ;  viderunt autem tibi assumptiones falsas,  et ejectiones.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd406890" class="outline-3">
+<h3 id="orgd406890"><span class="section-number-3">2.15</span> Lamentations 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+Plauserunt super te manibus  omnes transeuntes per viam ;  sibilaverunt et moverunt caput suum  super filiam Jerusalem :  Hæccine est urbs, dicentes, perfecti decoris,  gaudium universæ terræ ?  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3c1694c" class="outline-3">
+<h3 id="org3c1694c"><span class="section-number-3">2.16</span> Lamentations 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+Aperuerunt super te os suum  omnes inimici tui :  sibilaverunt, et fremuerunt dentibus,  et dixerunt : Devorabimus :  en ista est dies quam exspectabamus ;  invenimus, vidimus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcc4dc3c" class="outline-3">
+<h3 id="orgcc4dc3c"><span class="section-number-3">2.17</span> Lamentations 2:17</h3>
+<div class="outline-text-3" id="text-2-17">
+<p>
+Fecit Dominus quæ cogitavit ;  complevit sermonem suum,  quem præceperat a diebus antiquis :  destruxit, et non pepercit,  et lætificavit super te inimicum,  et exaltavit cornu hostium tuorum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9b572ad" class="outline-3">
+<h3 id="org9b572ad"><span class="section-number-3">2.18</span> Lamentations 2:18</h3>
+<div class="outline-text-3" id="text-2-18">
+<p>
+Clamavit cor eorum ad Dominum  super muros filiæ Sion :  Deduc quasi torrentem lacrimas  per diem et noctem ;  non des requiem tibi,  neque taceat pupilla oculi tui.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b0120e" class="outline-3">
+<h3 id="org4b0120e"><span class="section-number-3">2.19</span> Lamentations 2:19</h3>
+<div class="outline-text-3" id="text-2-19">
+<p>
+Consurge, lauda in nocte,  in principio vigiliarum ;  effunde sicut aquam cor tuum  ante conspectum Domini :  leva ad eum manus tuas  pro anima parvulorum tuorum,  qui defecerunt in fame  in capite omnium compitorum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeb1cf30" class="outline-3">
+<h3 id="orgeb1cf30"><span class="section-number-3">2.20</span> Lamentations 2:20</h3>
+<div class="outline-text-3" id="text-2-20">
+<p>
+Vide, Domine, et considera  quem vindemiaveris ita.  Ergone comedent mulieres fructum suum,  parvulos ad mensuram palmæ ?  si occiditur in sanctuario Domini  sacerdos et propheta ?  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org70ad7b9" class="outline-3">
+<h3 id="org70ad7b9"><span class="section-number-3">2.21</span> Lamentations 2:21</h3>
+<div class="outline-text-3" id="text-2-21">
+<p>
+Jacuerunt in terra foris  puer et senex ;  virgines meæ et juvenes mei  ceciderunt in gladio :  interfecisti in die furoris tui,  percussisti, nec misertus es.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f9a476" class="outline-3">
+<h3 id="org3f9a476"><span class="section-number-3">2.22</span> Lamentations 2:22</h3>
+<div class="outline-text-3" id="text-2-22">
+<p>
+Vocasti quasi ad diem solemnem,  qui terrerent me de circuitu ;  et non fuit in die furoris Domini qui effugeret,  et relinqueretur :  quos educavi et enutrivi,  inimicus meus consumpsit eos.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org4ba07a1" class="outline-2">
+<h2 id="org4ba07a1"><span class="section-number-2">3</span> Lamentations 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org1866a09" class="outline-3">
+<h3 id="org1866a09"><span class="section-number-3">3.1</span> Lamentations 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+Ego vir videns paupertatem meam  in virga indignationis ejus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org65569f7" class="outline-3">
+<h3 id="org65569f7"><span class="section-number-3">3.2</span> Lamentations 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+Me minavit, et adduxit in tenebras,  et non in lucem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga3beecb" class="outline-3">
+<h3 id="orga3beecb"><span class="section-number-3">3.3</span> Lamentations 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+Tantum in me vertit et convertit  manum suam tota die.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org98b3676" class="outline-3">
+<h3 id="org98b3676"><span class="section-number-3">3.4</span> Lamentations 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+Vetustam fecit pellem meam et carnem meam ;  contrivit ossa mea. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org29b8634" class="outline-3">
+<h3 id="org29b8634"><span class="section-number-3">3.5</span> Lamentations 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+Ædificavit in gyro meo, et circumdedit me  felle et labore. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeb93878" class="outline-3">
+<h3 id="orgeb93878"><span class="section-number-3">3.6</span> Lamentations 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+In tenebrosis collocavit me,  quasi mortuos sempiternos.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc8d0a79" class="outline-3">
+<h3 id="orgc8d0a79"><span class="section-number-3">3.7</span> Lamentations 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+Circumædificavit adversum me, ut non egrediar ;  aggravavit compedem meum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd84b031" class="outline-3">
+<h3 id="orgd84b031"><span class="section-number-3">3.8</span> Lamentations 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+Sed et cum clamavero, et rogavero,  exclusit orationem meam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2b2a0e0" class="outline-3">
+<h3 id="org2b2a0e0"><span class="section-number-3">3.9</span> Lamentations 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+Conclusit vias meas lapidibus quadris ;  semitas meas subvertit.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org97e292d" class="outline-3">
+<h3 id="org97e292d"><span class="section-number-3">3.10</span> Lamentations 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+Ursus insidians factus est mihi,  leo in absconditis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org92d1846" class="outline-3">
+<h3 id="org92d1846"><span class="section-number-3">3.11</span> Lamentations 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+Semitas meas subvertit, et confregit me ;  posuit me desolatam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3923181" class="outline-3">
+<h3 id="org3923181"><span class="section-number-3">3.12</span> Lamentations 3:12</h3>
+<div class="outline-text-3" id="text-3-12">
+<p>
+Tetendit arcum suum, et posuit me  quasi signum ad sagittam.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf40bfb9" class="outline-3">
+<h3 id="orgf40bfb9"><span class="section-number-3">3.13</span> Lamentations 3:13</h3>
+<div class="outline-text-3" id="text-3-13">
+<p>
+Misit in renibus meis  filias pharetræ suæ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcf25416" class="outline-3">
+<h3 id="orgcf25416"><span class="section-number-3">3.14</span> Lamentations 3:14</h3>
+<div class="outline-text-3" id="text-3-14">
+<p>
+Factus sum in derisum omni populo meo,  canticum eorum tota die. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org45e3817" class="outline-3">
+<h3 id="org45e3817"><span class="section-number-3">3.15</span> Lamentations 3:15</h3>
+<div class="outline-text-3" id="text-3-15">
+<p>
+Replevit me amaritudinibus ;  inebriavit me absinthio.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2a218f7" class="outline-3">
+<h3 id="org2a218f7"><span class="section-number-3">3.16</span> Lamentations 3:16</h3>
+<div class="outline-text-3" id="text-3-16">
+<p>
+Et fregit ad numerum dentes meos ;  cibavit me cinere. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga8e1ff2" class="outline-3">
+<h3 id="orga8e1ff2"><span class="section-number-3">3.17</span> Lamentations 3:17</h3>
+<div class="outline-text-3" id="text-3-17">
+<p>
+Et repulsa est a pace anima mea ;  oblitus sum bonorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8d26fe6" class="outline-3">
+<h3 id="org8d26fe6"><span class="section-number-3">3.18</span> Lamentations 3:18</h3>
+<div class="outline-text-3" id="text-3-18">
+<p>
+Et dixi : Periit finis meus,  et spes mea a Domino.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdc07bc9" class="outline-3">
+<h3 id="orgdc07bc9"><span class="section-number-3">3.19</span> Lamentations 3:19</h3>
+<div class="outline-text-3" id="text-3-19">
+<p>
+Recordare paupertatis, et transgressionis meæ,  absinthii et fellis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf5b6005" class="outline-3">
+<h3 id="orgf5b6005"><span class="section-number-3">3.20</span> Lamentations 3:20</h3>
+<div class="outline-text-3" id="text-3-20">
+<p>
+Memoria memor ero, et tabescet  in me anima mea. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org563bcd0" class="outline-3">
+<h3 id="org563bcd0"><span class="section-number-3">3.21</span> Lamentations 3:21</h3>
+<div class="outline-text-3" id="text-3-21">
+<p>
+Hæc recolens in corde meo,  ideo sperabo.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5f68999" class="outline-3">
+<h3 id="org5f68999"><span class="section-number-3">3.22</span> Lamentations 3:22</h3>
+<div class="outline-text-3" id="text-3-22">
+<p>
+Misericordiæ Domini, quia non sumus consumpti ;  quia non defecerunt miserationes ejus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfa48902" class="outline-3">
+<h3 id="orgfa48902"><span class="section-number-3">3.23</span> Lamentations 3:23</h3>
+<div class="outline-text-3" id="text-3-23">
+<p>
+Novi diluculo,  multa est fides tua. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge5a68b8" class="outline-3">
+<h3 id="orge5a68b8"><span class="section-number-3">3.24</span> Lamentations 3:24</h3>
+<div class="outline-text-3" id="text-3-24">
+<p>
+Pars mea Dominus, dixit anima mea ;  propterea exspectabo eum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0e8a3d3" class="outline-3">
+<h3 id="org0e8a3d3"><span class="section-number-3">3.25</span> Lamentations 3:25</h3>
+<div class="outline-text-3" id="text-3-25">
+<p>
+Bonus est Dominus sperantibus in eum,  animæ quærenti illum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb6c7962" class="outline-3">
+<h3 id="orgb6c7962"><span class="section-number-3">3.26</span> Lamentations 3:26</h3>
+<div class="outline-text-3" id="text-3-26">
+<p>
+Bonum est præstolari cum silentio  salutare Dei. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org157c8c5" class="outline-3">
+<h3 id="org157c8c5"><span class="section-number-3">3.27</span> Lamentations 3:27</h3>
+<div class="outline-text-3" id="text-3-27">
+<p>
+Bonum est viro cum portaverit jugum  ab adolescentia sua.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfcedd2d" class="outline-3">
+<h3 id="orgfcedd2d"><span class="section-number-3">3.28</span> Lamentations 3:28</h3>
+<div class="outline-text-3" id="text-3-28">
+<p>
+Sedebit solitarius, et tacebit,  quia levavit super se. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc9acdfa" class="outline-3">
+<h3 id="orgc9acdfa"><span class="section-number-3">3.29</span> Lamentations 3:29</h3>
+<div class="outline-text-3" id="text-3-29">
+<p>
+Ponet in pulvere os suum,  si forte sit spes. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbcfe2f7" class="outline-3">
+<h3 id="orgbcfe2f7"><span class="section-number-3">3.30</span> Lamentations 3:30</h3>
+<div class="outline-text-3" id="text-3-30">
+<p>
+Dabit percutienti se maxillam :  saturabitur opprobriis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org64ce199" class="outline-3">
+<h3 id="org64ce199"><span class="section-number-3">3.31</span> Lamentations 3:31</h3>
+<div class="outline-text-3" id="text-3-31">
+<p>
+Quia non repellet  in sempiternum Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3e80cdb" class="outline-3">
+<h3 id="org3e80cdb"><span class="section-number-3">3.32</span> Lamentations 3:32</h3>
+<div class="outline-text-3" id="text-3-32">
+<p>
+Quia si abjecit, et miserebitur,  secundum multitudinem misericordiarum suarum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe62d00" class="outline-3">
+<h3 id="orgfe62d00"><span class="section-number-3">3.33</span> Lamentations 3:33</h3>
+<div class="outline-text-3" id="text-3-33">
+<p>
+Non enim humiliavit ex corde suo  et abjecit filios hominum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7373ab4" class="outline-3">
+<h3 id="org7373ab4"><span class="section-number-3">3.34</span> Lamentations 3:34</h3>
+<div class="outline-text-3" id="text-3-34">
+<p>
+Ut conteret sub pedibus suis  omnes vinctos terræ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf5bebd0" class="outline-3">
+<h3 id="orgf5bebd0"><span class="section-number-3">3.35</span> Lamentations 3:35</h3>
+<div class="outline-text-3" id="text-3-35">
+<p>
+Ut declinaret judicium viri  in conspectu vultus Altissimi. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf663cc4" class="outline-3">
+<h3 id="orgf663cc4"><span class="section-number-3">3.36</span> Lamentations 3:36</h3>
+<div class="outline-text-3" id="text-3-36">
+<p>
+Ut perverteret hominem in judicio suo ;  Dominus ignoravit.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga30c2fa" class="outline-3">
+<h3 id="orga30c2fa"><span class="section-number-3">3.37</span> Lamentations 3:37</h3>
+<div class="outline-text-3" id="text-3-37">
+<p>
+Quis est iste qui dixit ut fieret,  Domino non jubente ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc3f8f0b" class="outline-3">
+<h3 id="orgc3f8f0b"><span class="section-number-3">3.38</span> Lamentations 3:38</h3>
+<div class="outline-text-3" id="text-3-38">
+<p>
+Ex ore Altissimi non egredientur  nec mala nec bona ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org054f169" class="outline-3">
+<h3 id="org054f169"><span class="section-number-3">3.39</span> Lamentations 3:39</h3>
+<div class="outline-text-3" id="text-3-39">
+<p>
+Quid murmuravit homo vivens,  vir pro peccatis suis ?  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6991192" class="outline-3">
+<h3 id="org6991192"><span class="section-number-3">3.40</span> Lamentations 3:40</h3>
+<div class="outline-text-3" id="text-3-40">
+<p>
+Scrutemur vias nostras, et quæramus,  et revertamur ad Dominum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3877154" class="outline-3">
+<h3 id="org3877154"><span class="section-number-3">3.41</span> Lamentations 3:41</h3>
+<div class="outline-text-3" id="text-3-41">
+<p>
+Levemus corda nostra cum manibus  ad Dominum in cælos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6a89f44" class="outline-3">
+<h3 id="org6a89f44"><span class="section-number-3">3.42</span> Lamentations 3:42</h3>
+<div class="outline-text-3" id="text-3-42">
+<p>
+Nos inique egimus, et ad iracundiam provocavimus ;  idcirco tu inexorabilis es.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5c6d2fd" class="outline-3">
+<h3 id="org5c6d2fd"><span class="section-number-3">3.43</span> Lamentations 3:43</h3>
+<div class="outline-text-3" id="text-3-43">
+<p>
+Operuisti in furore, et percussisti nos ;  occidisti, nec pepercisti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6686824" class="outline-3">
+<h3 id="org6686824"><span class="section-number-3">3.44</span> Lamentations 3:44</h3>
+<div class="outline-text-3" id="text-3-44">
+<p>
+Opposuisti nubem tibi,  ne transeat oratio. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8816575" class="outline-3">
+<h3 id="org8816575"><span class="section-number-3">3.45</span> Lamentations 3:45</h3>
+<div class="outline-text-3" id="text-3-45">
+<p>
+Eradicationem et abjectionem posuisti me  in medio populorum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6390c4e" class="outline-3">
+<h3 id="org6390c4e"><span class="section-number-3">3.46</span> Lamentations 3:46</h3>
+<div class="outline-text-3" id="text-3-46">
+<p>
+Aperuerunt super nos os suum  omnes inimici. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9a374cb" class="outline-3">
+<h3 id="org9a374cb"><span class="section-number-3">3.47</span> Lamentations 3:47</h3>
+<div class="outline-text-3" id="text-3-47">
+<p>
+Formido et laqueus facta est nobis  vaticinatio, et contritio. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7a7e69b" class="outline-3">
+<h3 id="org7a7e69b"><span class="section-number-3">3.48</span> Lamentations 3:48</h3>
+<div class="outline-text-3" id="text-3-48">
+<p>
+Divisiones aquarum deduxit oculus meus,  in contritione filiæ populi mei.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge5d521f" class="outline-3">
+<h3 id="orge5d521f"><span class="section-number-3">3.49</span> Lamentations 3:49</h3>
+<div class="outline-text-3" id="text-3-49">
+<p>
+Oculus meus afflictus est, nec tacuit,  eo quod non esset requies. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2374700" class="outline-3">
+<h3 id="org2374700"><span class="section-number-3">3.50</span> Lamentations 3:50</h3>
+<div class="outline-text-3" id="text-3-50">
+<p>
+Donec respiceret et videret  Dominus de cælis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org92cda4a" class="outline-3">
+<h3 id="org92cda4a"><span class="section-number-3">3.51</span> Lamentations 3:51</h3>
+<div class="outline-text-3" id="text-3-51">
+<p>
+Oculus meus deprædatus est animam meam  in cunctis filiabus urbis meæ.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org85627a3" class="outline-3">
+<h3 id="org85627a3"><span class="section-number-3">3.52</span> Lamentations 3:52</h3>
+<div class="outline-text-3" id="text-3-52">
+<p>
+Venatione ceperunt me quasi avem  inimici mei gratis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0403110" class="outline-3">
+<h3 id="org0403110"><span class="section-number-3">3.53</span> Lamentations 3:53</h3>
+<div class="outline-text-3" id="text-3-53">
+<p>
+Lapsa est in lacum vita mea,  et posuerunt lapidem super me. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc93d0a4" class="outline-3">
+<h3 id="orgc93d0a4"><span class="section-number-3">3.54</span> Lamentations 3:54</h3>
+<div class="outline-text-3" id="text-3-54">
+<p>
+Inundaverunt aquæ super caput meum ;  dixi : Perii.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga8b784c" class="outline-3">
+<h3 id="orga8b784c"><span class="section-number-3">3.55</span> Lamentations 3:55</h3>
+<div class="outline-text-3" id="text-3-55">
+<p>
+Invocavi nomen tuum, Domine,  de lacu novissimo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1d2d512" class="outline-3">
+<h3 id="org1d2d512"><span class="section-number-3">3.56</span> Lamentations 3:56</h3>
+<div class="outline-text-3" id="text-3-56">
+<p>
+Vocem meam audisti ; ne avertas aurem tuam  a singultu meo et clamoribus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf32d898" class="outline-3">
+<h3 id="orgf32d898"><span class="section-number-3">3.57</span> Lamentations 3:57</h3>
+<div class="outline-text-3" id="text-3-57">
+<p>
+Appropinquasti in die quando invocavi te ;  dixisti : Ne timeas.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge4347d8" class="outline-3">
+<h3 id="orge4347d8"><span class="section-number-3">3.58</span> Lamentations 3:58</h3>
+<div class="outline-text-3" id="text-3-58">
+<p>
+Judicasti, Domine, causam animæ meæ,  redemptor vitæ meæ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf606692" class="outline-3">
+<h3 id="orgf606692"><span class="section-number-3">3.59</span> Lamentations 3:59</h3>
+<div class="outline-text-3" id="text-3-59">
+<p>
+Vidisti, Domine, iniquitatem illorum adversum me :  judica judicium meum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org84430a4" class="outline-3">
+<h3 id="org84430a4"><span class="section-number-3">3.60</span> Lamentations 3:60</h3>
+<div class="outline-text-3" id="text-3-60">
+<p>
+Vidisti omnem furorem,  universas cogitationes eorum adversum me.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0efd355" class="outline-3">
+<h3 id="org0efd355"><span class="section-number-3">3.61</span> Lamentations 3:61</h3>
+<div class="outline-text-3" id="text-3-61">
+<p>
+Audisti opprobrium eorum, Domine,  omnes cogitationes eorum adversum me. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge1f1b15" class="outline-3">
+<h3 id="orge1f1b15"><span class="section-number-3">3.62</span> Lamentations 3:62</h3>
+<div class="outline-text-3" id="text-3-62">
+<p>
+Labia insurgentium mihi, et meditationes eorum  adversum me tota die. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgefe5c41" class="outline-3">
+<h3 id="orgefe5c41"><span class="section-number-3">3.63</span> Lamentations 3:63</h3>
+<div class="outline-text-3" id="text-3-63">
+<p>
+Sessionem eorum et resurrectionem eorum vide ;  ego sum psalmus eorum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b294bc" class="outline-3">
+<h3 id="org3b294bc"><span class="section-number-3">3.64</span> Lamentations 3:64</h3>
+<div class="outline-text-3" id="text-3-64">
+<p>
+Redes eis vicem, Domine,  juxta opera manuum suarum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga074696" class="outline-3">
+<h3 id="orga074696"><span class="section-number-3">3.65</span> Lamentations 3:65</h3>
+<div class="outline-text-3" id="text-3-65">
+<p>
+Dabis eis scutum cordis,  laborem tuum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org49cc8d6" class="outline-3">
+<h3 id="org49cc8d6"><span class="section-number-3">3.66</span> Lamentations 3:66</h3>
+<div class="outline-text-3" id="text-3-66">
+<p>
+Persequeris in furore, et conteres eos  sub cælis, Domine.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org07742ed" class="outline-2">
+<h2 id="org07742ed"><span class="section-number-2">4</span> Lamentations 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org621feb4" class="outline-3">
+<h3 id="org621feb4"><span class="section-number-3">4.1</span> Lamentations 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Quomodo obscuratum est aurum,  mutatus est color optimus !  dispersi sunt lapides sanctuarii  in capite omnium platearum !  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb0f0294" class="outline-3">
+<h3 id="orgb0f0294"><span class="section-number-3">4.2</span> Lamentations 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+Filii Sion inclyti,  et amicti auro primo :  quomodo reputati sunt in vasa testea,  opus manuum figuli !  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5ef11e9" class="outline-3">
+<h3 id="org5ef11e9"><span class="section-number-3">4.3</span> Lamentations 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+Sed et lamiæ nudaverunt mammam,  lactaverunt catulos suos :  filia populi mei crudelis  quasi struthio in deserto.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2cb6753" class="outline-3">
+<h3 id="org2cb6753"><span class="section-number-3">4.4</span> Lamentations 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+Adhæsit lingua lactentis  ad palatum ejus in siti ;  parvuli petierunt panem,  et non erat qui frangeret eis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbae22eb" class="outline-3">
+<h3 id="orgbae22eb"><span class="section-number-3">4.5</span> Lamentations 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+Qui vescebantur voluptuose,  interierunt in viis ;  qui nutriebantur in croceis,  amplexati sunt stercora.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgef5ccd9" class="outline-3">
+<h3 id="orgef5ccd9"><span class="section-number-3">4.6</span> Lamentations 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+Et major effecta est iniquitas filiæ populi mei  peccato Sodomorum,  quæ subversa est in momento,  et non ceperunt in ea manus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7d8025f" class="outline-3">
+<h3 id="org7d8025f"><span class="section-number-3">4.7</span> Lamentations 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+Candidiores Nazaræi ejus nive,  nitidiores lacte,  rubicundiores ebore antiquo,  sapphiro pulchriores.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org445930a" class="outline-3">
+<h3 id="org445930a"><span class="section-number-3">4.8</span> Lamentations 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+Denigrata est super carbones facies eorum  et non sunt cogniti in plateis ;  adhæsit cutis eorum ossibus :  aruit, et facta est quasi lignum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org89f9de8" class="outline-3">
+<h3 id="org89f9de8"><span class="section-number-3">4.9</span> Lamentations 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+Melius fuit occisis gladio  quam interfectis fame,  quoniam isti extabuerunt consumpti  a sterilitate terræ.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org909a959" class="outline-3">
+<h3 id="org909a959"><span class="section-number-3">4.10</span> Lamentations 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+Manus mulierum misericordium  coxerunt filios suos ;  facti sunt cibus earum  in contritione filiæ populi mei.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd7ede2b" class="outline-3">
+<h3 id="orgd7ede2b"><span class="section-number-3">4.11</span> Lamentations 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+Complevit Dominus furorem suum,  effudit iram indignationis suæ :  et succendit ignem in Sion,  et devoravit fundamenta ejus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8112d6d" class="outline-3">
+<h3 id="org8112d6d"><span class="section-number-3">4.12</span> Lamentations 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+Non crediderunt reges terræ,  et universi habitatores orbis,  quoniam ingrederetur hostis et inimicus  per portas Jerusalem.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd63d24d" class="outline-3">
+<h3 id="orgd63d24d"><span class="section-number-3">4.13</span> Lamentations 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+Propter peccata prophetarum ejus,  et iniquitates sacerdotum ejus,  qui effuderunt in medio ejus  sanguinem justorum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org432b6a3" class="outline-3">
+<h3 id="org432b6a3"><span class="section-number-3">4.14</span> Lamentations 4:14</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+Erraverunt cæci in plateis,  polluti sunt in sanguine ;  cumque non possent,  tenuerunt lacinias suas.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5f646ee" class="outline-3">
+<h3 id="org5f646ee"><span class="section-number-3">4.15</span> Lamentations 4:15</h3>
+<div class="outline-text-3" id="text-4-15">
+<p>
+Recedite polluti, clamaverunt eis ;  recedite, abite, nolite tangere :  jurgati quippe sunt, et commoti dixerunt inter gentes :  Non addet ultra ut habitet in eis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4a001aa" class="outline-3">
+<h3 id="org4a001aa"><span class="section-number-3">4.16</span> Lamentations 4:16</h3>
+<div class="outline-text-3" id="text-4-16">
+<p>
+Facies Domini divisit eos,  non addet ut respiciat eos ;  facies sacerdotum non erubuerunt,  neque senum miserti sunt.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5ca44ff" class="outline-3">
+<h3 id="org5ca44ff"><span class="section-number-3">4.17</span> Lamentations 4:17</h3>
+<div class="outline-text-3" id="text-4-17">
+<p>
+Cum adhuc subsisteremus, defecerunt oculi nostri  ad auxilium nostrum vanum ;  cum respiceremus attenti ad gentem  quæ salvare non poterat.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org70f8a32" class="outline-3">
+<h3 id="org70f8a32"><span class="section-number-3">4.18</span> Lamentations 4:18</h3>
+<div class="outline-text-3" id="text-4-18">
+<p>
+Lubricaverunt vestigia nostra  in itinere platearum nostrarum ;  appropinquavit finis noster, completi sunt dies nostri,  quia venit finis noster.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd3519d2" class="outline-3">
+<h3 id="orgd3519d2"><span class="section-number-3">4.19</span> Lamentations 4:19</h3>
+<div class="outline-text-3" id="text-4-19">
+<p>
+Velociores fuerunt persecutores nostri  aquilis cæli ;  super montes persecuti sunt nos,  in deserto insidiati sunt nobis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbe6d80f" class="outline-3">
+<h3 id="orgbe6d80f"><span class="section-number-3">4.20</span> Lamentations 4:20</h3>
+<div class="outline-text-3" id="text-4-20">
+<p>
+Spiritus oris nostri, christus Dominus,  captus est in peccatis nostris,  cui diximus : In umbra tua  vivemus in gentibus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde53cf3" class="outline-3">
+<h3 id="orgde53cf3"><span class="section-number-3">4.21</span> Lamentations 4:21</h3>
+<div class="outline-text-3" id="text-4-21">
+<p>
+Gaude et lætare, filia Edom,  quæ habitas in terra Hus !  ad te quoque perveniet calix : inebriaberis,  atque nudaberis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org62db769" class="outline-3">
+<h3 id="org62db769"><span class="section-number-3">4.22</span> Lamentations 4:22</h3>
+<div class="outline-text-3" id="text-4-22">
+<p>
+Completa est iniquitas tua, filia Sion :  non addet ultra ut transmigret te.  Visitavit iniquitatem tuam, filia Edom ;  discooperuit peccata tua.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org0f19978" class="outline-2">
+<h2 id="org0f19978"><span class="section-number-2">5</span> Lamentations 5</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org1b9f892" class="outline-3">
+<h3 id="org1b9f892"><span class="section-number-3">5.1</span> Lamentations 5:1</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Recordare, Domine, quid acciderit nobis ;  intuere et respice opprobrium nostrum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1015c8e" class="outline-3">
+<h3 id="org1015c8e"><span class="section-number-3">5.2</span> Lamentations 5:2</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Hæreditas nostra versa est ad alienos,  domus nostræ ad extraneos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5076250" class="outline-3">
+<h3 id="org5076250"><span class="section-number-3">5.3</span> Lamentations 5:3</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+Pupilli facti sumus absque patre,  matres nostræ quasi viduæ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4dbc7c3" class="outline-3">
+<h3 id="org4dbc7c3"><span class="section-number-3">5.4</span> Lamentations 5:4</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+Aquam nostram pecunia bibimus ;  ligna nostra pretio comparavimus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd6744b3" class="outline-3">
+<h3 id="orgd6744b3"><span class="section-number-3">5.5</span> Lamentations 5:5</h3>
+<div class="outline-text-3" id="text-5-5">
+<p>
+Cervicibus nostris minabamur,  lassis non dabatur requies. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe275a5" class="outline-3">
+<h3 id="orgfe275a5"><span class="section-number-3">5.6</span> Lamentations 5:6</h3>
+<div class="outline-text-3" id="text-5-6">
+<p>
+Ægypto dedimus manum et Assyriis,  ut saturaremur pane. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org090a18c" class="outline-3">
+<h3 id="org090a18c"><span class="section-number-3">5.7</span> Lamentations 5:7</h3>
+<div class="outline-text-3" id="text-5-7">
+<p>
+Patres nostri peccaverunt, et non sunt :  et nos iniquitates eorum portavimus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb482e8d" class="outline-3">
+<h3 id="orgb482e8d"><span class="section-number-3">5.8</span> Lamentations 5:8</h3>
+<div class="outline-text-3" id="text-5-8">
+<p>
+Servi dominati sunt nostri :  non fuit qui redimeret de manu eorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0aedacc" class="outline-3">
+<h3 id="org0aedacc"><span class="section-number-3">5.9</span> Lamentations 5:9</h3>
+<div class="outline-text-3" id="text-5-9">
+<p>
+In animabus nostris afferebamus panem nobis,  a facie gladii in deserto. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org35ee5fc" class="outline-3">
+<h3 id="org35ee5fc"><span class="section-number-3">5.10</span> Lamentations 5:10</h3>
+<div class="outline-text-3" id="text-5-10">
+<p>
+Pellis nostra quasi clibanus exusta est,  a facie tempestatum famis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org136a554" class="outline-3">
+<h3 id="org136a554"><span class="section-number-3">5.11</span> Lamentations 5:11</h3>
+<div class="outline-text-3" id="text-5-11">
+<p>
+Mulieres in Sion humiliaverunt,  et virgines in civitatibus Juda. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org87081ad" class="outline-3">
+<h3 id="org87081ad"><span class="section-number-3">5.12</span> Lamentations 5:12</h3>
+<div class="outline-text-3" id="text-5-12">
+<p>
+Principes manu suspensi sunt ;  facies senum non erubuerunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org043d269" class="outline-3">
+<h3 id="org043d269"><span class="section-number-3">5.13</span> Lamentations 5:13</h3>
+<div class="outline-text-3" id="text-5-13">
+<p>
+Adolescentibus impudice abusi sunt,  et pueri in ligno corruerunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfd859ea" class="outline-3">
+<h3 id="orgfd859ea"><span class="section-number-3">5.14</span> Lamentations 5:14</h3>
+<div class="outline-text-3" id="text-5-14">
+<p>
+Senes defecerunt de portis,  juvenes de choro psallentium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org267f8a9" class="outline-3">
+<h3 id="org267f8a9"><span class="section-number-3">5.15</span> Lamentations 5:15</h3>
+<div class="outline-text-3" id="text-5-15">
+<p>
+Defecit gaudium cordis nostri ;  versus est in luctum chorus noster. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c4c401" class="outline-3">
+<h3 id="org8c4c401"><span class="section-number-3">5.16</span> Lamentations 5:16</h3>
+<div class="outline-text-3" id="text-5-16">
+<p>
+Cecidit corona capitis nostri :  væ nobis, quia peccavimus ! 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdd14a37" class="outline-3">
+<h3 id="orgdd14a37"><span class="section-number-3">5.17</span> Lamentations 5:17</h3>
+<div class="outline-text-3" id="text-5-17">
+<p>
+Propterea mœstum factum est cor nostrum ;  ideo contenebrati sunt oculi nostri, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org81db14c" class="outline-3">
+<h3 id="org81db14c"><span class="section-number-3">5.18</span> Lamentations 5:18</h3>
+<div class="outline-text-3" id="text-5-18">
+<p>
+propter montem Sion quia disperiit ;  vulpes ambulaverunt in eo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd36991e" class="outline-3">
+<h3 id="orgd36991e"><span class="section-number-3">5.19</span> Lamentations 5:19</h3>
+<div class="outline-text-3" id="text-5-19">
+<p>
+Tu autem, Domine, in æternum permanebis,  solium tuum in generationem et generationem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4c33ee0" class="outline-3">
+<h3 id="org4c33ee0"><span class="section-number-3">5.20</span> Lamentations 5:20</h3>
+<div class="outline-text-3" id="text-5-20">
+<p>
+Quare in perpetuum oblivisceris nostri,  derelinques nos in longitudine dierum ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4a0db0a" class="outline-3">
+<h3 id="org4a0db0a"><span class="section-number-3">5.21</span> Lamentations 5:21</h3>
+<div class="outline-text-3" id="text-5-21">
+<p>
+Converte nos, Domine, ad te, et convertemur ;  innova dies nostros, sicut a principio. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge32a629" class="outline-3">
+<h3 id="orge32a629"><span class="section-number-3">5.22</span> Lamentations 5:22</h3>
+<div class="outline-text-3" id="text-5-22">
+<p>
+Sed projiciens repulisti nos :  iratus es contra nos vehementer.    
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:38</p>
+</div>
+</body>
+</html>

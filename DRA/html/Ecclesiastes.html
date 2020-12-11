@@ -1,0 +1,2568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:36 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgb1f3650">1. Ecclesiastes 1</a>
+<ul>
+<li><a href="#org0d675c9">1.1. Ecclesiastes 1:1</a></li>
+<li><a href="#org835fadf">1.2. Ecclesiastes 1:2</a></li>
+<li><a href="#org8e93c62">1.3. Ecclesiastes 1:3</a></li>
+<li><a href="#org4e0b7fe">1.4. Ecclesiastes 1:4</a></li>
+<li><a href="#orga791e78">1.5. Ecclesiastes 1:5</a></li>
+<li><a href="#org8558185">1.6. Ecclesiastes 1:6</a></li>
+<li><a href="#orgaf2719a">1.7. Ecclesiastes 1:7</a></li>
+<li><a href="#orgfcd7ec2">1.8. Ecclesiastes 1:8</a></li>
+<li><a href="#orgfd86f37">1.9. Ecclesiastes 1:9</a></li>
+<li><a href="#org4d69fa2">1.10. Ecclesiastes 1:10</a></li>
+<li><a href="#org91b7ad1">1.11. Ecclesiastes 1:11</a></li>
+<li><a href="#org147f97b">1.12. Ecclesiastes 1:12</a></li>
+<li><a href="#org33c3798">1.13. Ecclesiastes 1:13</a></li>
+<li><a href="#org678e225">1.14. Ecclesiastes 1:14</a></li>
+<li><a href="#orga4b03f8">1.15. Ecclesiastes 1:15</a></li>
+<li><a href="#orgca7c95f">1.16. Ecclesiastes 1:16</a></li>
+<li><a href="#org986f38e">1.17. Ecclesiastes 1:17</a></li>
+<li><a href="#org64b5310">1.18. Ecclesiastes 1:18</a></li>
+</ul>
+</li>
+<li><a href="#orgd667ce9">2. Ecclesiastes 2</a>
+<ul>
+<li><a href="#org5e186db">2.1. Ecclesiastes 2:1</a></li>
+<li><a href="#orgfb8c2ee">2.2. Ecclesiastes 2:2</a></li>
+<li><a href="#orge9af6fe">2.3. Ecclesiastes 2:3</a></li>
+<li><a href="#org0152a4c">2.4. Ecclesiastes 2:4</a></li>
+<li><a href="#org226c375">2.5. Ecclesiastes 2:5</a></li>
+<li><a href="#org12b974f">2.6. Ecclesiastes 2:6</a></li>
+<li><a href="#orgfb3aa04">2.7. Ecclesiastes 2:7</a></li>
+<li><a href="#orgd1350d7">2.8. Ecclesiastes 2:8</a></li>
+<li><a href="#orgfa4dcb4">2.9. Ecclesiastes 2:9</a></li>
+<li><a href="#orgd31a9d3">2.10. Ecclesiastes 2:10</a></li>
+<li><a href="#org206fed7">2.11. Ecclesiastes 2:11</a></li>
+<li><a href="#org8378079">2.12. Ecclesiastes 2:12</a></li>
+<li><a href="#orgbf16e5d">2.13. Ecclesiastes 2:13</a></li>
+<li><a href="#org5d90976">2.14. Ecclesiastes 2:14</a></li>
+<li><a href="#orge60730d">2.15. Ecclesiastes 2:15</a></li>
+<li><a href="#org9cb61d2">2.16. Ecclesiastes 2:16</a></li>
+<li><a href="#orgd11e56a">2.17. Ecclesiastes 2:17</a></li>
+<li><a href="#orgfb5327e">2.18. Ecclesiastes 2:18</a></li>
+<li><a href="#orga48bd81">2.19. Ecclesiastes 2:19</a></li>
+<li><a href="#org011625b">2.20. Ecclesiastes 2:20</a></li>
+<li><a href="#org567cb6e">2.21. Ecclesiastes 2:21</a></li>
+<li><a href="#org7ef989f">2.22. Ecclesiastes 2:22</a></li>
+<li><a href="#org72b2701">2.23. Ecclesiastes 2:23</a></li>
+<li><a href="#org1887a36">2.24. Ecclesiastes 2:24</a></li>
+<li><a href="#org7fd6dc7">2.25. Ecclesiastes 2:25</a></li>
+<li><a href="#org208ded7">2.26. Ecclesiastes 2:26</a></li>
+</ul>
+</li>
+<li><a href="#org32a8c32">3. Ecclesiastes 3</a>
+<ul>
+<li><a href="#orga1c7137">3.1. Ecclesiastes 3:1</a></li>
+<li><a href="#orgdf639f8">3.2. Ecclesiastes 3:2</a></li>
+<li><a href="#org3f8ad40">3.3. Ecclesiastes 3:3</a></li>
+<li><a href="#org8831b79">3.4. Ecclesiastes 3:4</a></li>
+<li><a href="#org4ced87a">3.5. Ecclesiastes 3:5</a></li>
+<li><a href="#orgfad93c8">3.6. Ecclesiastes 3:6</a></li>
+<li><a href="#orgc53854d">3.7. Ecclesiastes 3:7</a></li>
+<li><a href="#orgfd1521a">3.8. Ecclesiastes 3:8</a></li>
+<li><a href="#org8271b9a">3.9. Ecclesiastes 3:9</a></li>
+<li><a href="#orgb35581b">3.10. Ecclesiastes 3:10</a></li>
+<li><a href="#orga854662">3.11. Ecclesiastes 3:11</a></li>
+<li><a href="#org1eb7a7d">3.12. Ecclesiastes 3:12</a></li>
+<li><a href="#org20bd694">3.13. Ecclesiastes 3:13</a></li>
+<li><a href="#org4efc250">3.14. Ecclesiastes 3:14</a></li>
+<li><a href="#orgd6e5dba">3.15. Ecclesiastes 3:15</a></li>
+<li><a href="#orga19c217">3.16. Ecclesiastes 3:16</a></li>
+<li><a href="#org3f872d2">3.17. Ecclesiastes 3:17</a></li>
+<li><a href="#orgde162b3">3.18. Ecclesiastes 3:18</a></li>
+<li><a href="#org5f520c3">3.19. Ecclesiastes 3:19</a></li>
+<li><a href="#org6053b66">3.20. Ecclesiastes 3:20</a></li>
+<li><a href="#org9d9e643">3.21. Ecclesiastes 3:21</a></li>
+<li><a href="#org077c25e">3.22. Ecclesiastes 3:22</a></li>
+</ul>
+</li>
+<li><a href="#orgbc722a1">4. Ecclesiastes 4</a>
+<ul>
+<li><a href="#org0030695">4.1. Ecclesiastes 4:1</a></li>
+<li><a href="#org4523521">4.2. Ecclesiastes 4:2</a></li>
+<li><a href="#org3541068">4.3. Ecclesiastes 4:3</a></li>
+<li><a href="#orgbb29384">4.4. Ecclesiastes 4:4</a></li>
+<li><a href="#org1a00636">4.5. Ecclesiastes 4:5</a></li>
+<li><a href="#org67fd95c">4.6. Ecclesiastes 4:6</a></li>
+<li><a href="#orgb9e5867">4.7. Ecclesiastes 4:7</a></li>
+<li><a href="#org198a70c">4.8. Ecclesiastes 4:8</a></li>
+<li><a href="#org23f9c6d">4.9. Ecclesiastes 4:9</a></li>
+<li><a href="#org85894b0">4.10. Ecclesiastes 4:10</a></li>
+<li><a href="#org1c0f559">4.11. Ecclesiastes 4:11</a></li>
+<li><a href="#org2adba4c">4.12. Ecclesiastes 4:12</a></li>
+<li><a href="#org4759c0b">4.13. Ecclesiastes 4:13</a></li>
+<li><a href="#org9bc127b">4.14. Ecclesiastes 4:14</a></li>
+<li><a href="#orgd262292">4.15. Ecclesiastes 4:15</a></li>
+<li><a href="#org00af6c2">4.16. Ecclesiastes 4:16</a></li>
+<li><a href="#org4ce1c11">4.17. Ecclesiastes 4:17</a></li>
+</ul>
+</li>
+<li><a href="#orgc6b21c9">5. Ecclesiastes 5</a>
+<ul>
+<li><a href="#org23317e0">5.1. Ecclesiastes 5:1</a></li>
+<li><a href="#org9cff73c">5.2. Ecclesiastes 5:2</a></li>
+<li><a href="#org96e1c69">5.3. Ecclesiastes 5:3</a></li>
+<li><a href="#org3f078ad">5.4. Ecclesiastes 5:4</a></li>
+<li><a href="#org85dc63e">5.5. Ecclesiastes 5:5</a></li>
+<li><a href="#orgc0e260d">5.6. Ecclesiastes 5:6</a></li>
+<li><a href="#orgc397867">5.7. Ecclesiastes 5:7</a></li>
+<li><a href="#orgbeadfe9">5.8. Ecclesiastes 5:8</a></li>
+<li><a href="#org83cb36c">5.9. Ecclesiastes 5:9</a></li>
+<li><a href="#org56446b1">5.10. Ecclesiastes 5:10</a></li>
+<li><a href="#org61e8161">5.11. Ecclesiastes 5:11</a></li>
+<li><a href="#org18b2894">5.12. Ecclesiastes 5:12</a></li>
+<li><a href="#org90bb573">5.13. Ecclesiastes 5:13</a></li>
+<li><a href="#org45e4afa">5.14. Ecclesiastes 5:14</a></li>
+<li><a href="#orgde4cbf1">5.15. Ecclesiastes 5:15</a></li>
+<li><a href="#org066fdab">5.16. Ecclesiastes 5:16</a></li>
+<li><a href="#orgae91088">5.17. Ecclesiastes 5:17</a></li>
+<li><a href="#org623a2e5">5.18. Ecclesiastes 5:18</a></li>
+<li><a href="#orgcc6f433">5.19. Ecclesiastes 5:19</a></li>
+</ul>
+</li>
+<li><a href="#org9610a45">6. Ecclesiastes 6</a>
+<ul>
+<li><a href="#org55fd26a">6.1. Ecclesiastes 6:1</a></li>
+<li><a href="#org54b840b">6.2. Ecclesiastes 6:2</a></li>
+<li><a href="#orgd916153">6.3. Ecclesiastes 6:3</a></li>
+<li><a href="#orgff81e5e">6.4. Ecclesiastes 6:4</a></li>
+<li><a href="#org56eec12">6.5. Ecclesiastes 6:5</a></li>
+<li><a href="#org0e53a5d">6.6. Ecclesiastes 6:6</a></li>
+<li><a href="#org57cb170">6.7. Ecclesiastes 6:7</a></li>
+<li><a href="#org649dbc4">6.8. Ecclesiastes 6:8</a></li>
+<li><a href="#org7defb1c">6.9. Ecclesiastes 6:9</a></li>
+<li><a href="#orgc97951d">6.10. Ecclesiastes 6:10</a></li>
+<li><a href="#org86aa212">6.11. Ecclesiastes 6:11</a></li>
+</ul>
+</li>
+<li><a href="#org2c8f41e">7. Ecclesiastes 7</a>
+<ul>
+<li><a href="#org7858ae2">7.1. Ecclesiastes 7:1</a></li>
+<li><a href="#org4feb73b">7.2. Ecclesiastes 7:2</a></li>
+<li><a href="#orgbf4722b">7.3. Ecclesiastes 7:3</a></li>
+<li><a href="#org02264a7">7.4. Ecclesiastes 7:4</a></li>
+<li><a href="#org189f996">7.5. Ecclesiastes 7:5</a></li>
+<li><a href="#org0f7b568">7.6. Ecclesiastes 7:6</a></li>
+<li><a href="#org1a979f4">7.7. Ecclesiastes 7:7</a></li>
+<li><a href="#org297e3c8">7.8. Ecclesiastes 7:8</a></li>
+<li><a href="#orgaae8f5c">7.9. Ecclesiastes 7:9</a></li>
+<li><a href="#orgc2ae03a">7.10. Ecclesiastes 7:10</a></li>
+<li><a href="#org5543baa">7.11. Ecclesiastes 7:11</a></li>
+<li><a href="#orgbf3d8cd">7.12. Ecclesiastes 7:12</a></li>
+<li><a href="#orgc8aacf3">7.13. Ecclesiastes 7:13</a></li>
+<li><a href="#org7126cf6">7.14. Ecclesiastes 7:14</a></li>
+<li><a href="#org1624899">7.15. Ecclesiastes 7:15</a></li>
+<li><a href="#org6a3af3f">7.16. Ecclesiastes 7:16</a></li>
+<li><a href="#org2b2934c">7.17. Ecclesiastes 7:17</a></li>
+<li><a href="#org3d843fc">7.18. Ecclesiastes 7:18</a></li>
+<li><a href="#org6eba964">7.19. Ecclesiastes 7:19</a></li>
+<li><a href="#org0101f6f">7.20. Ecclesiastes 7:20</a></li>
+<li><a href="#orgeff0b9c">7.21. Ecclesiastes 7:21</a></li>
+<li><a href="#org8663dfe">7.22. Ecclesiastes 7:22</a></li>
+<li><a href="#org5fb5220">7.23. Ecclesiastes 7:23</a></li>
+<li><a href="#org80c4454">7.24. Ecclesiastes 7:24</a></li>
+<li><a href="#orgd5fa1f8">7.25. Ecclesiastes 7:25</a></li>
+<li><a href="#orgade3cce">7.26. Ecclesiastes 7:26</a></li>
+<li><a href="#org6b77fe4">7.27. Ecclesiastes 7:27</a></li>
+<li><a href="#org54e22e1">7.28. Ecclesiastes 7:28</a></li>
+<li><a href="#org441194c">7.29. Ecclesiastes 7:29</a></li>
+<li><a href="#orgd0842bb">7.30. Ecclesiastes 7:30</a></li>
+</ul>
+</li>
+<li><a href="#orgd3a6cf2">8. Ecclesiastes 8</a>
+<ul>
+<li><a href="#orgc033295">8.1. Ecclesiastes 8:1</a></li>
+<li><a href="#org6bb8387">8.2. Ecclesiastes 8:2</a></li>
+<li><a href="#org959a1da">8.3. Ecclesiastes 8:3</a></li>
+<li><a href="#org151fd8c">8.4. Ecclesiastes 8:4</a></li>
+<li><a href="#org0cd7be6">8.5. Ecclesiastes 8:5</a></li>
+<li><a href="#org9b82b80">8.6. Ecclesiastes 8:6</a></li>
+<li><a href="#orgc529bde">8.7. Ecclesiastes 8:7</a></li>
+<li><a href="#org03ddb98">8.8. Ecclesiastes 8:8</a></li>
+<li><a href="#org8dd4ab5">8.9. Ecclesiastes 8:9</a></li>
+<li><a href="#org05cf084">8.10. Ecclesiastes 8:10</a></li>
+<li><a href="#orgaab3a67">8.11. Ecclesiastes 8:11</a></li>
+<li><a href="#org290cb44">8.12. Ecclesiastes 8:12</a></li>
+<li><a href="#org7374ea6">8.13. Ecclesiastes 8:13</a></li>
+<li><a href="#org733bb12">8.14. Ecclesiastes 8:14</a></li>
+<li><a href="#orgb7382d4">8.15. Ecclesiastes 8:15</a></li>
+<li><a href="#org53970ff">8.16. Ecclesiastes 8:16</a></li>
+<li><a href="#org510c0f2">8.17. Ecclesiastes 8:17</a></li>
+</ul>
+</li>
+<li><a href="#org466854b">9. Ecclesiastes 9</a>
+<ul>
+<li><a href="#orgc2d7a4b">9.1. Ecclesiastes 9:1</a></li>
+<li><a href="#org195088a">9.2. Ecclesiastes 9:2</a></li>
+<li><a href="#org597d6c1">9.3. Ecclesiastes 9:3</a></li>
+<li><a href="#org63923a6">9.4. Ecclesiastes 9:4</a></li>
+<li><a href="#org3f83b6a">9.5. Ecclesiastes 9:5</a></li>
+<li><a href="#orgc3c6001">9.6. Ecclesiastes 9:6</a></li>
+<li><a href="#orgd9d1d7b">9.7. Ecclesiastes 9:7</a></li>
+<li><a href="#orgd516382">9.8. Ecclesiastes 9:8</a></li>
+<li><a href="#orga26fe34">9.9. Ecclesiastes 9:9</a></li>
+<li><a href="#orgc63217b">9.10. Ecclesiastes 9:10</a></li>
+<li><a href="#orgd9020d4">9.11. Ecclesiastes 9:11</a></li>
+<li><a href="#org5801dc2">9.12. Ecclesiastes 9:12</a></li>
+<li><a href="#orgccb5900">9.13. Ecclesiastes 9:13</a></li>
+<li><a href="#org43e1c69">9.14. Ecclesiastes 9:14</a></li>
+<li><a href="#org9e92761">9.15. Ecclesiastes 9:15</a></li>
+<li><a href="#orgf9cead9">9.16. Ecclesiastes 9:16</a></li>
+<li><a href="#orgb5b3947">9.17. Ecclesiastes 9:17</a></li>
+<li><a href="#org3485951">9.18. Ecclesiastes 9:18</a></li>
+</ul>
+</li>
+<li><a href="#org84e78ec">10. Ecclesiastes 10</a>
+<ul>
+<li><a href="#orgdf00f0a">10.1. Ecclesiastes 10:1</a></li>
+<li><a href="#org56e1e05">10.2. Ecclesiastes 10:2</a></li>
+<li><a href="#org969326c">10.3. Ecclesiastes 10:3</a></li>
+<li><a href="#org58df9bb">10.4. Ecclesiastes 10:4</a></li>
+<li><a href="#org8935773">10.5. Ecclesiastes 10:5</a></li>
+<li><a href="#org1a67676">10.6. Ecclesiastes 10:6</a></li>
+<li><a href="#org1774bc3">10.7. Ecclesiastes 10:7</a></li>
+<li><a href="#orgea75ff2">10.8. Ecclesiastes 10:8</a></li>
+<li><a href="#org1f736fa">10.9. Ecclesiastes 10:9</a></li>
+<li><a href="#org7cc8237">10.10. Ecclesiastes 10:10</a></li>
+<li><a href="#org1eb08e7">10.11. Ecclesiastes 10:11</a></li>
+<li><a href="#org5bf62b2">10.12. Ecclesiastes 10:12</a></li>
+<li><a href="#org80caebe">10.13. Ecclesiastes 10:13</a></li>
+<li><a href="#orgbefd5fa">10.14. Ecclesiastes 10:14</a></li>
+<li><a href="#org899e630">10.15. Ecclesiastes 10:15</a></li>
+<li><a href="#org1d435b7">10.16. Ecclesiastes 10:16</a></li>
+<li><a href="#orgd005d4a">10.17. Ecclesiastes 10:17</a></li>
+<li><a href="#orgdbc6c2c">10.18. Ecclesiastes 10:18</a></li>
+<li><a href="#orgda51436">10.19. Ecclesiastes 10:19</a></li>
+<li><a href="#org2821491">10.20. Ecclesiastes 10:20</a></li>
+</ul>
+</li>
+<li><a href="#orga18487d">11. Ecclesiastes 11</a>
+<ul>
+<li><a href="#orgaadbe27">11.1. Ecclesiastes 11:1</a></li>
+<li><a href="#orgecb5770">11.2. Ecclesiastes 11:2</a></li>
+<li><a href="#orgf757d29">11.3. Ecclesiastes 11:3</a></li>
+<li><a href="#org728dcdf">11.4. Ecclesiastes 11:4</a></li>
+<li><a href="#org6110bc4">11.5. Ecclesiastes 11:5</a></li>
+<li><a href="#org2434c1b">11.6. Ecclesiastes 11:6</a></li>
+<li><a href="#org51da1b0">11.7. Ecclesiastes 11:7</a></li>
+<li><a href="#orgdfb77e6">11.8. Ecclesiastes 11:8</a></li>
+<li><a href="#orgf06e2f8">11.9. Ecclesiastes 11:9</a></li>
+<li><a href="#org4748f21">11.10. Ecclesiastes 11:10</a></li>
+</ul>
+</li>
+<li><a href="#org5e55941">12. Ecclesiastes 12</a>
+<ul>
+<li><a href="#org0bc6b69">12.1. Ecclesiastes 12:1</a></li>
+<li><a href="#orgaf47d50">12.2. Ecclesiastes 12:2</a></li>
+<li><a href="#org36c1f16">12.3. Ecclesiastes 12:3</a></li>
+<li><a href="#org6253c7d">12.4. Ecclesiastes 12:4</a></li>
+<li><a href="#org653d6ea">12.5. Ecclesiastes 12:5</a></li>
+<li><a href="#org3c6f106">12.6. Ecclesiastes 12:6</a></li>
+<li><a href="#orgb0d1f96">12.7. Ecclesiastes 12:7</a></li>
+<li><a href="#orgded0ef0">12.8. Ecclesiastes 12:8</a></li>
+<li><a href="#org2f4496b">12.9. Ecclesiastes 12:9</a></li>
+<li><a href="#org2d36a99">12.10. Ecclesiastes 12:10</a></li>
+<li><a href="#orgf63f678">12.11. Ecclesiastes 12:11</a></li>
+<li><a href="#orgedd1247">12.12. Ecclesiastes 12:12</a></li>
+<li><a href="#org6c8fb84">12.13. Ecclesiastes 12:13</a></li>
+<li><a href="#orgb78eeef">12.14. Ecclesiastes 12:14</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgb1f3650" class="outline-2">
+<h2 id="orgb1f3650"><span class="section-number-2">1</span> Ecclesiastes 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org0d675c9" class="outline-3">
+<h3 id="org0d675c9"><span class="section-number-3">1.1</span> Ecclesiastes 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+The words of Ecclesiastes, the son of David, king of Jerusalem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org835fadf" class="outline-3">
+<h3 id="org835fadf"><span class="section-number-3">1.2</span> Ecclesiastes 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Vanity of vanities, said Ecclesiastes: vanity of vanities, and all is vanity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8e93c62" class="outline-3">
+<h3 id="org8e93c62"><span class="section-number-3">1.3</span> Ecclesiastes 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+What hath a man more of all his labour, that he taketh under the sun?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4e0b7fe" class="outline-3">
+<h3 id="org4e0b7fe"><span class="section-number-3">1.4</span> Ecclesiastes 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+One generation passeth away, and another generation cometh: but the earth standeth for ever.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga791e78" class="outline-3">
+<h3 id="orga791e78"><span class="section-number-3">1.5</span> Ecclesiastes 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+The sun riseth, and goeth down, and returneth to his place: and there rising again,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8558185" class="outline-3">
+<h3 id="org8558185"><span class="section-number-3">1.6</span> Ecclesiastes 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Maketh his round by the south, and turneth again to the north: the spirit goeth forward surveying all places round about, and returneth to his circuits.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaf2719a" class="outline-3">
+<h3 id="orgaf2719a"><span class="section-number-3">1.7</span> Ecclesiastes 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+All the rivers run into the sea, yet the sea doth not overflow: unto the place from whence the rivers come, they return, to flow again.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfcd7ec2" class="outline-3">
+<h3 id="orgfcd7ec2"><span class="section-number-3">1.8</span> Ecclesiastes 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+All things are hard: man cannot explain them by word. The eye is not filled with seeing, neither is the ear filled with hearing.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfd86f37" class="outline-3">
+<h3 id="orgfd86f37"><span class="section-number-3">1.9</span> Ecclesiastes 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+What is it that hath been? the same thing that shall be. What is it that hath been done? the same that shall be done.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4d69fa2" class="outline-3">
+<h3 id="org4d69fa2"><span class="section-number-3">1.10</span> Ecclesiastes 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+Nothing under the sun is new, neither is any man able to say: Behold this is new: for it hath already gone before in the ages that were before us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org91b7ad1" class="outline-3">
+<h3 id="org91b7ad1"><span class="section-number-3">1.11</span> Ecclesiastes 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+There is no remembrance of former things: nor indeed of those things which hereafter are to come, shall there be any remembrance with them that shall be in the latter end.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org147f97b" class="outline-3">
+<h3 id="org147f97b"><span class="section-number-3">1.12</span> Ecclesiastes 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+I Ecclesiastes was king over Israel in Jerusalem,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org33c3798" class="outline-3">
+<h3 id="org33c3798"><span class="section-number-3">1.13</span> Ecclesiastes 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+And I proposed in my mind to seek and search out wisely concerning all things that are done under the sun. This painful occupation hath God given to the children of men, to be exercised therein.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org678e225" class="outline-3">
+<h3 id="org678e225"><span class="section-number-3">1.14</span> Ecclesiastes 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+I have seen all things that are done under the sun, and behold all is vanity, and vexation of spirit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga4b03f8" class="outline-3">
+<h3 id="orga4b03f8"><span class="section-number-3">1.15</span> Ecclesiastes 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+The perverse are hard to be corrected, and the number of fools is infinite.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgca7c95f" class="outline-3">
+<h3 id="orgca7c95f"><span class="section-number-3">1.16</span> Ecclesiastes 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+I have spoken in my heart, saying: Behold I am become great, and have gone beyond all in wisdom, that were before me in Jerusalem: and my mind hath contemplated many things wisely, and I have learned.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org986f38e" class="outline-3">
+<h3 id="org986f38e"><span class="section-number-3">1.17</span> Ecclesiastes 1:17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+And I have given my heart to know prudence, and learning, and errors, and folly: and I have perceived that in these also there was labour, and vexation of spirit,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org64b5310" class="outline-3">
+<h3 id="org64b5310"><span class="section-number-3">1.18</span> Ecclesiastes 1:18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+Because in much wisdom there is much indignation: and he that addeth knowledge, addeth also labour. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd667ce9" class="outline-2">
+<h2 id="orgd667ce9"><span class="section-number-2">2</span> Ecclesiastes 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org5e186db" class="outline-3">
+<h3 id="org5e186db"><span class="section-number-3">2.1</span> Ecclesiastes 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+I said in my heart: I will go, and abound with delights, and enjoy good things. And I saw that this also was vanity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb8c2ee" class="outline-3">
+<h3 id="orgfb8c2ee"><span class="section-number-3">2.2</span> Ecclesiastes 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Laughter I counted error: and to mirth I said: Why art thou vainly deceived?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge9af6fe" class="outline-3">
+<h3 id="orge9af6fe"><span class="section-number-3">2.3</span> Ecclesiastes 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+I thought in my heart, to withdraw my flesh from wine, that I might turn my mind to wisdom, and might avoid folly, till I might see what was profitable for the children of men: and what they ought to do under the sun, all the days of their life.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0152a4c" class="outline-3">
+<h3 id="org0152a4c"><span class="section-number-3">2.4</span> Ecclesiastes 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+I made me great works, I built me houses, and planted vineyards,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org226c375" class="outline-3">
+<h3 id="org226c375"><span class="section-number-3">2.5</span> Ecclesiastes 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+I made gardens, and orchards, and set them with trees of all kinds,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org12b974f" class="outline-3">
+<h3 id="org12b974f"><span class="section-number-3">2.6</span> Ecclesiastes 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+And I made me ponds of water, to water therewith the wood of the young trees,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb3aa04" class="outline-3">
+<h3 id="orgfb3aa04"><span class="section-number-3">2.7</span> Ecclesiastes 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+I got me menservants, and maidservants, and had a great family: and herds of oxen, and great flocks of sheep, above all that were before me in Jerusalem:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd1350d7" class="outline-3">
+<h3 id="orgd1350d7"><span class="section-number-3">2.8</span> Ecclesiastes 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+I heaped together for myself silver and gold, and the wealth of kings, and provinces: I made me singing men, and singing women, and the delights of the sons of men, cups and vessels to serve to pour out wine:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfa4dcb4" class="outline-3">
+<h3 id="orgfa4dcb4"><span class="section-number-3">2.9</span> Ecclesiastes 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+And I surpassed in riches all that were before me in Jerusalem: my wisdom also remained with me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd31a9d3" class="outline-3">
+<h3 id="orgd31a9d3"><span class="section-number-3">2.10</span> Ecclesiastes 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+And whatsoever my eyes desired, I refused them not: and I withheld not my heart from enjoying every pleasure, and delighting itself in the things which I had prepared: and esteemed this my portion, to make use of my own labour.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org206fed7" class="outline-3">
+<h3 id="org206fed7"><span class="section-number-3">2.11</span> Ecclesiastes 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+And when I turned myself to all the works which my hands had wrought, and to the labours wherein I had laboured in vain, I saw in all things vanity, and vexation of mind, and that nothing was lasting under the sun.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8378079" class="outline-3">
+<h3 id="org8378079"><span class="section-number-3">2.12</span> Ecclesiastes 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+I passed further to behold wisdom, and errors and folly, (What is man, said I that he can follow the King his maker?)
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbf16e5d" class="outline-3">
+<h3 id="orgbf16e5d"><span class="section-number-3">2.13</span> Ecclesiastes 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+And I saw that wisdom excelled folly, as much as light differeth from darkness.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5d90976" class="outline-3">
+<h3 id="org5d90976"><span class="section-number-3">2.14</span> Ecclesiastes 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+The eyes of a wise man are in his head: the fool walketh in darkness: and I learned that they were to die both alike.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge60730d" class="outline-3">
+<h3 id="orge60730d"><span class="section-number-3">2.15</span> Ecclesiastes 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+And I said in my heart: If the death of the fool and mine shall be one, what doth it avail me, that I have applied myself more to the study of wisdom? And speaking with my own mind, I perceived that this also was vanity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9cb61d2" class="outline-3">
+<h3 id="org9cb61d2"><span class="section-number-3">2.16</span> Ecclesiastes 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+For there shall be no remembrance of the wise no more than of the fool forever, and the times to come shall cover all things together with oblivion: the learned dieth in like manner as the unlearned.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd11e56a" class="outline-3">
+<h3 id="orgd11e56a"><span class="section-number-3">2.17</span> Ecclesiastes 2:17</h3>
+<div class="outline-text-3" id="text-2-17">
+<p>
+And therefore I was weary of my life, when I saw that all things under the sun are evil, and all vanity and vexation of spirit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb5327e" class="outline-3">
+<h3 id="orgfb5327e"><span class="section-number-3">2.18</span> Ecclesiastes 2:18</h3>
+<div class="outline-text-3" id="text-2-18">
+<p>
+Again I hated all my application wherewith I had earnestly laboured under the sun, being like to have an heir after me,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga48bd81" class="outline-3">
+<h3 id="orga48bd81"><span class="section-number-3">2.19</span> Ecclesiastes 2:19</h3>
+<div class="outline-text-3" id="text-2-19">
+<p>
+Whom I know not whether he will be a wise man or a fool, and he shall have rule over all my labours with which I have laboured and been solicitous: and is there anything so vain?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org011625b" class="outline-3">
+<h3 id="org011625b"><span class="section-number-3">2.20</span> Ecclesiastes 2:20</h3>
+<div class="outline-text-3" id="text-2-20">
+<p>
+Wherefore I left off and my heart renounced labouring anymore under the sun.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org567cb6e" class="outline-3">
+<h3 id="org567cb6e"><span class="section-number-3">2.21</span> Ecclesiastes 2:21</h3>
+<div class="outline-text-3" id="text-2-21">
+<p>
+For when a man laboureth in wisdom, and knowledge, and carefulness, he leaveth what he hath gotten to an idle man: so this also is vanity, and a great evil.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7ef989f" class="outline-3">
+<h3 id="org7ef989f"><span class="section-number-3">2.22</span> Ecclesiastes 2:22</h3>
+<div class="outline-text-3" id="text-2-22">
+<p>
+For what profit shall a man have of all his labour, and vexation of spirit, with which he hath been tormented under the sun?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org72b2701" class="outline-3">
+<h3 id="org72b2701"><span class="section-number-3">2.23</span> Ecclesiastes 2:23</h3>
+<div class="outline-text-3" id="text-2-23">
+<p>
+All his days are full of sorrows and miseries, even in the night he doth not rest in mind: and is not this vanity?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1887a36" class="outline-3">
+<h3 id="org1887a36"><span class="section-number-3">2.24</span> Ecclesiastes 2:24</h3>
+<div class="outline-text-3" id="text-2-24">
+<p>
+Is it not better to eat and drink, and to shew his soul good things of his labours? and this is from the hand of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7fd6dc7" class="outline-3">
+<h3 id="org7fd6dc7"><span class="section-number-3">2.25</span> Ecclesiastes 2:25</h3>
+<div class="outline-text-3" id="text-2-25">
+<p>
+Who shall so feast and abound with delights as I?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org208ded7" class="outline-3">
+<h3 id="org208ded7"><span class="section-number-3">2.26</span> Ecclesiastes 2:26</h3>
+<div class="outline-text-3" id="text-2-26">
+<p>
+God hath given to a man that is good in his sight, wisdom, and knowledge, and joy: but to the sinner he hath given vexation, and superfluous care, to heap up and to gather together, and to give it to him that hath pleased God: but this also is vanity, and a fruitless solicitude of the mind. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org32a8c32" class="outline-2">
+<h2 id="org32a8c32"><span class="section-number-2">3</span> Ecclesiastes 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-orga1c7137" class="outline-3">
+<h3 id="orga1c7137"><span class="section-number-3">3.1</span> Ecclesiastes 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+All things have their season, and in their times all things pass under heaven.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdf639f8" class="outline-3">
+<h3 id="orgdf639f8"><span class="section-number-3">3.2</span> Ecclesiastes 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+A time to be born and a time to die. A time to plant, and a time to pluck up that which is planted.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f8ad40" class="outline-3">
+<h3 id="org3f8ad40"><span class="section-number-3">3.3</span> Ecclesiastes 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+A time to kill, and a time to heal. A time to destroy, and a time to build.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8831b79" class="outline-3">
+<h3 id="org8831b79"><span class="section-number-3">3.4</span> Ecclesiastes 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+A time to weep, and a time to laugh. A time to mourn, and a time to dance.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4ced87a" class="outline-3">
+<h3 id="org4ced87a"><span class="section-number-3">3.5</span> Ecclesiastes 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+A time to scatter stones, and a time to gather. A time to embrace, and a time to be far from embraces.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfad93c8" class="outline-3">
+<h3 id="orgfad93c8"><span class="section-number-3">3.6</span> Ecclesiastes 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+A time to get, and a time to lose. A time to keep, and a time to cast away.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc53854d" class="outline-3">
+<h3 id="orgc53854d"><span class="section-number-3">3.7</span> Ecclesiastes 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+A time to rend, and a time to sew. A time to keep silence, and a time to speak.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfd1521a" class="outline-3">
+<h3 id="orgfd1521a"><span class="section-number-3">3.8</span> Ecclesiastes 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+A time of love, and a time of hatred. A time of war, and a time of peace.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8271b9a" class="outline-3">
+<h3 id="org8271b9a"><span class="section-number-3">3.9</span> Ecclesiastes 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+What hath man more of his labour?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb35581b" class="outline-3">
+<h3 id="orgb35581b"><span class="section-number-3">3.10</span> Ecclesiastes 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+I have seen the trouble, which God hath given the sons of men to be exercised in it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga854662" class="outline-3">
+<h3 id="orga854662"><span class="section-number-3">3.11</span> Ecclesiastes 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+He hath made all things good in their time, and hath delivered the world to their consideration, so that man cannot find out the work which God hath made from the beginning to the end.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1eb7a7d" class="outline-3">
+<h3 id="org1eb7a7d"><span class="section-number-3">3.12</span> Ecclesiastes 3:12</h3>
+<div class="outline-text-3" id="text-3-12">
+<p>
+And I have known that there was no better thing than to rejoice, and to do well in this life.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org20bd694" class="outline-3">
+<h3 id="org20bd694"><span class="section-number-3">3.13</span> Ecclesiastes 3:13</h3>
+<div class="outline-text-3" id="text-3-13">
+<p>
+For every man that eateth and drinketh, and seeth good of his labour, this is the gift of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4efc250" class="outline-3">
+<h3 id="org4efc250"><span class="section-number-3">3.14</span> Ecclesiastes 3:14</h3>
+<div class="outline-text-3" id="text-3-14">
+<p>
+I have learned that all the works which God hath made, continue for ever: we cannot add any thing, nor take away from those things which God hath made that he may be feared.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd6e5dba" class="outline-3">
+<h3 id="orgd6e5dba"><span class="section-number-3">3.15</span> Ecclesiastes 3:15</h3>
+<div class="outline-text-3" id="text-3-15">
+<p>
+That which hath been made, the same continueth: the things that shall be, have already been: and God restoreth that which is past.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga19c217" class="outline-3">
+<h3 id="orga19c217"><span class="section-number-3">3.16</span> Ecclesiastes 3:16</h3>
+<div class="outline-text-3" id="text-3-16">
+<p>
+I saw under the sun in the place of judgment wickedness, and in the place of justice iniquity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f872d2" class="outline-3">
+<h3 id="org3f872d2"><span class="section-number-3">3.17</span> Ecclesiastes 3:17</h3>
+<div class="outline-text-3" id="text-3-17">
+<p>
+And I said in my heart: God shall judge both the just and the wicked, and then shall be the time of every thing.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde162b3" class="outline-3">
+<h3 id="orgde162b3"><span class="section-number-3">3.18</span> Ecclesiastes 3:18</h3>
+<div class="outline-text-3" id="text-3-18">
+<p>
+I said in my heart concerning the sons of men, that God would prove them, and shew them to be like beasts.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5f520c3" class="outline-3">
+<h3 id="org5f520c3"><span class="section-number-3">3.19</span> Ecclesiastes 3:19</h3>
+<div class="outline-text-3" id="text-3-19">
+<p>
+Therefore the death of man, and of beasts is one, and the condition of them both is equal: as man dieth, so they also die: all things breathe alike, and man hath nothing more than beast: all things are subject to vanity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6053b66" class="outline-3">
+<h3 id="org6053b66"><span class="section-number-3">3.20</span> Ecclesiastes 3:20</h3>
+<div class="outline-text-3" id="text-3-20">
+<p>
+And all things go to one place: of earth they were made, and into earth they return together.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9d9e643" class="outline-3">
+<h3 id="org9d9e643"><span class="section-number-3">3.21</span> Ecclesiastes 3:21</h3>
+<div class="outline-text-3" id="text-3-21">
+<p>
+Who knoweth if the spirit of the children of Adam ascend upward, and if the spirit of the beasts descend downward?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org077c25e" class="outline-3">
+<h3 id="org077c25e"><span class="section-number-3">3.22</span> Ecclesiastes 3:22</h3>
+<div class="outline-text-3" id="text-3-22">
+<p>
+And I have found that nothing is better than for a man to rejoice in his work, and that this is his portion. For who shall bring him to know the things that shall be after him? 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgbc722a1" class="outline-2">
+<h2 id="orgbc722a1"><span class="section-number-2">4</span> Ecclesiastes 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org0030695" class="outline-3">
+<h3 id="org0030695"><span class="section-number-3">4.1</span> Ecclesiastes 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+I turned myself to other things, and I saw the oppressions that are done under the sun, and the tears of the innocent, and they had no comforter; and they were not able to resist their violence, being destitute of help from any.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4523521" class="outline-3">
+<h3 id="org4523521"><span class="section-number-3">4.2</span> Ecclesiastes 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+And I praised the dead rather than the living:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3541068" class="outline-3">
+<h3 id="org3541068"><span class="section-number-3">4.3</span> Ecclesiastes 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+And I judged him happier than them both, that is not yet born, nor hath seen the evils that are done under the sun.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbb29384" class="outline-3">
+<h3 id="orgbb29384"><span class="section-number-3">4.4</span> Ecclesiastes 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+Again I considered all the labours of men, and I remarked that their industries are exposed to the envy of their neighbour: so in this also there is vanity, and fruitless care.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1a00636" class="outline-3">
+<h3 id="org1a00636"><span class="section-number-3">4.5</span> Ecclesiastes 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+The fool foldeth his hands together, and eateth his own flesh, saying:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org67fd95c" class="outline-3">
+<h3 id="org67fd95c"><span class="section-number-3">4.6</span> Ecclesiastes 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+Better is a handful with rest, than both hands full with labour, and vexation of mind.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb9e5867" class="outline-3">
+<h3 id="orgb9e5867"><span class="section-number-3">4.7</span> Ecclesiastes 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+Considering I found also another vanity under the sun:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org198a70c" class="outline-3">
+<h3 id="org198a70c"><span class="section-number-3">4.8</span> Ecclesiastes 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+There is but one, and he hath not a second, no child, no brother, and yet he ceaseth not to labour, neither are his eyes satisfied with riches, neither doth he reflect, saying: For whom do I labour, and defraud my soul of good things? in this also is vanity, and a grievous vexation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org23f9c6d" class="outline-3">
+<h3 id="org23f9c6d"><span class="section-number-3">4.9</span> Ecclesiastes 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+It is better therefore that two should be together, than one: for they have the advantage of their society:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org85894b0" class="outline-3">
+<h3 id="org85894b0"><span class="section-number-3">4.10</span> Ecclesiastes 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+If one fall he shall be supported by the other: woe to him that is alone, for when he falleth, he hath none to lift him up.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1c0f559" class="outline-3">
+<h3 id="org1c0f559"><span class="section-number-3">4.11</span> Ecclesiastes 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+And if two lie together, they shall warm one another: how shall one alone be warmed?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2adba4c" class="outline-3">
+<h3 id="org2adba4c"><span class="section-number-3">4.12</span> Ecclesiastes 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+And if a man prevail against one, two shall withstand him: a threefold cord is not easily broken.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4759c0b" class="outline-3">
+<h3 id="org4759c0b"><span class="section-number-3">4.13</span> Ecclesiastes 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+Better is a child that is poor and wise, than a king that is old and foolish, who knoweth not to foresee for hereafter.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9bc127b" class="outline-3">
+<h3 id="org9bc127b"><span class="section-number-3">4.14</span> Ecclesiastes 4:14</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+Because out of prison and chains sometimes a man cometh forth to a kingdom: and another born king is consumed with poverty.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd262292" class="outline-3">
+<h3 id="orgd262292"><span class="section-number-3">4.15</span> Ecclesiastes 4:15</h3>
+<div class="outline-text-3" id="text-4-15">
+<p>
+I saw all men living, that walk under the sun with the second young man, who shall rise up in his place.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org00af6c2" class="outline-3">
+<h3 id="org00af6c2"><span class="section-number-3">4.16</span> Ecclesiastes 4:16</h3>
+<div class="outline-text-3" id="text-4-16">
+<p>
+The number of the people, of all that were before him is infinite: and they that shall come afterwards, shall not rejoice in him: but this also is vanity, and vexation of spirit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4ce1c11" class="outline-3">
+<h3 id="org4ce1c11"><span class="section-number-3">4.17</span> Ecclesiastes 4:17</h3>
+<div class="outline-text-3" id="text-4-17">
+<p>
+Keep thy foot, when thou goest into the house of God, and draw nigh to hear. For much better is obedience, than the victims of fools, who know not what evil they do. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgc6b21c9" class="outline-2">
+<h2 id="orgc6b21c9"><span class="section-number-2">5</span> Ecclesiastes 5</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org23317e0" class="outline-3">
+<h3 id="org23317e0"><span class="section-number-3">5.1</span> Ecclesiastes 5:1</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Speak not any thing rashly, and let not thy heart be hasty to utter a word before God. For God is in heaven, and thou upon earth: therefore let thy words be few.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9cff73c" class="outline-3">
+<h3 id="org9cff73c"><span class="section-number-3">5.2</span> Ecclesiastes 5:2</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Dreams follow many cares: and in many words shall be found folly.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org96e1c69" class="outline-3">
+<h3 id="org96e1c69"><span class="section-number-3">5.3</span> Ecclesiastes 5:3</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+If thou hast vowed any thing to God, defer not to pay it: for an unfaithful and foolish promise displeaseth him: but whatsoever thou hast vowed, pay it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f078ad" class="outline-3">
+<h3 id="org3f078ad"><span class="section-number-3">5.4</span> Ecclesiastes 5:4</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+And it is much better not to vow, than after a vow not to perform the things promised.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org85dc63e" class="outline-3">
+<h3 id="org85dc63e"><span class="section-number-3">5.5</span> Ecclesiastes 5:5</h3>
+<div class="outline-text-3" id="text-5-5">
+<p>
+Give not thy mouth to cause thy flesh to sin: and say not before the angel: There is no providence: lest God be angry at thy words, and destroy all the works of thy hands.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc0e260d" class="outline-3">
+<h3 id="orgc0e260d"><span class="section-number-3">5.6</span> Ecclesiastes 5:6</h3>
+<div class="outline-text-3" id="text-5-6">
+<p>
+Where there are many dreams, there are many vanities, and words without number: but do thou fear God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc397867" class="outline-3">
+<h3 id="orgc397867"><span class="section-number-3">5.7</span> Ecclesiastes 5:7</h3>
+<div class="outline-text-3" id="text-5-7">
+<p>
+If thou shalt see the oppressions of the poor, and violent judgments, and justice perverted in the province, wonder not at this matter: for he that is high hath another higher, and there are others still higher than these:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbeadfe9" class="outline-3">
+<h3 id="orgbeadfe9"><span class="section-number-3">5.8</span> Ecclesiastes 5:8</h3>
+<div class="outline-text-3" id="text-5-8">
+<p>
+Moreover there is the king that reigneth over all the land subject to him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org83cb36c" class="outline-3">
+<h3 id="org83cb36c"><span class="section-number-3">5.9</span> Ecclesiastes 5:9</h3>
+<div class="outline-text-3" id="text-5-9">
+<p>
+A covetous man shall not be satisfied with money: and he that loveth riches shall reap no fruit from them: so this also is vanity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org56446b1" class="outline-3">
+<h3 id="org56446b1"><span class="section-number-3">5.10</span> Ecclesiastes 5:10</h3>
+<div class="outline-text-3" id="text-5-10">
+<p>
+Where there are great riches, there are also many to eat them. And what doth it profit the owner, but that he seeth the riches with his eyes?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org61e8161" class="outline-3">
+<h3 id="org61e8161"><span class="section-number-3">5.11</span> Ecclesiastes 5:11</h3>
+<div class="outline-text-3" id="text-5-11">
+<p>
+Sleep is sweet to a labouring man, whether he eat little or much: but the fulness of the rich will not suffer him to sleep.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org18b2894" class="outline-3">
+<h3 id="org18b2894"><span class="section-number-3">5.12</span> Ecclesiastes 5:12</h3>
+<div class="outline-text-3" id="text-5-12">
+<p>
+There is also another grievous evil, which I have seen under the sun: riches kept to the hurt of the owner.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org90bb573" class="outline-3">
+<h3 id="org90bb573"><span class="section-number-3">5.13</span> Ecclesiastes 5:13</h3>
+<div class="outline-text-3" id="text-5-13">
+<p>
+For they are lost with very great affliction: he hath begotten a son, who shall be in extremity of want.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org45e4afa" class="outline-3">
+<h3 id="org45e4afa"><span class="section-number-3">5.14</span> Ecclesiastes 5:14</h3>
+<div class="outline-text-3" id="text-5-14">
+<p>
+As he came forth naked from his mother&rsquo;s womb, so shall he return, and shall take nothing away with him of his labour.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde4cbf1" class="outline-3">
+<h3 id="orgde4cbf1"><span class="section-number-3">5.15</span> Ecclesiastes 5:15</h3>
+<div class="outline-text-3" id="text-5-15">
+<p>
+A most deplorable evil: as he came, so shall he return. What then doth it profit him that he hath laboured for the wind?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org066fdab" class="outline-3">
+<h3 id="org066fdab"><span class="section-number-3">5.16</span> Ecclesiastes 5:16</h3>
+<div class="outline-text-3" id="text-5-16">
+<p>
+All the days of his life he eateth in darkness, and in many cares, and in misery, and sorrow.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgae91088" class="outline-3">
+<h3 id="orgae91088"><span class="section-number-3">5.17</span> Ecclesiastes 5:17</h3>
+<div class="outline-text-3" id="text-5-17">
+<p>
+This therefore hath seemed good to me, that a man should eat and drink, and enjoy the fruit of his labour, wherewith he hath laboured under the sun, all the days of his life, which God hath given him: and this is his portion.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org623a2e5" class="outline-3">
+<h3 id="org623a2e5"><span class="section-number-3">5.18</span> Ecclesiastes 5:18</h3>
+<div class="outline-text-3" id="text-5-18">
+<p>
+And every man to whom God hath given riches, and substance, and hath given him power to eat thereof, and to enjoy his portion, and to rejoice of his labour: this is the gift of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcc6f433" class="outline-3">
+<h3 id="orgcc6f433"><span class="section-number-3">5.19</span> Ecclesiastes 5:19</h3>
+<div class="outline-text-3" id="text-5-19">
+<p>
+For he shall not much remember the days of his life, because God entertaineth his heart with delight. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org9610a45" class="outline-2">
+<h2 id="org9610a45"><span class="section-number-2">6</span> Ecclesiastes 6</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-org55fd26a" class="outline-3">
+<h3 id="org55fd26a"><span class="section-number-3">6.1</span> Ecclesiastes 6:1</h3>
+<div class="outline-text-3" id="text-6-1">
+<p>
+There is also another evil, which I have seen under the sun, and that frequent among men:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org54b840b" class="outline-3">
+<h3 id="org54b840b"><span class="section-number-3">6.2</span> Ecclesiastes 6:2</h3>
+<div class="outline-text-3" id="text-6-2">
+<p>
+A man to whom God hath given riches, and substance, and honour, and his soul wanteth nothing of all that he desireth: yet God doth not give him power to eat thereof, but a stranger shall eat it up. This is vanity and a great misery.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd916153" class="outline-3">
+<h3 id="orgd916153"><span class="section-number-3">6.3</span> Ecclesiastes 6:3</h3>
+<div class="outline-text-3" id="text-6-3">
+<p>
+If a man beget a hundred children, and live many years, and attain to a great age, and his soul make no use of the goods of his substance, and he be without burial: of this man I pronounce, that the untimely born is better than he.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgff81e5e" class="outline-3">
+<h3 id="orgff81e5e"><span class="section-number-3">6.4</span> Ecclesiastes 6:4</h3>
+<div class="outline-text-3" id="text-6-4">
+<p>
+For he came in vain, and goeth to darkness, and his name shall be wholly forgotten.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org56eec12" class="outline-3">
+<h3 id="org56eec12"><span class="section-number-3">6.5</span> Ecclesiastes 6:5</h3>
+<div class="outline-text-3" id="text-6-5">
+<p>
+He hath not seen the sun, nor known the distance of good and evil:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0e53a5d" class="outline-3">
+<h3 id="org0e53a5d"><span class="section-number-3">6.6</span> Ecclesiastes 6:6</h3>
+<div class="outline-text-3" id="text-6-6">
+<p>
+Although he lived two thousand years, and hath not enjoyed good things: do not all make haste to one place?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org57cb170" class="outline-3">
+<h3 id="org57cb170"><span class="section-number-3">6.7</span> Ecclesiastes 6:7</h3>
+<div class="outline-text-3" id="text-6-7">
+<p>
+All the labour of man is for his mouth, but his soul shall not be filled.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org649dbc4" class="outline-3">
+<h3 id="org649dbc4"><span class="section-number-3">6.8</span> Ecclesiastes 6:8</h3>
+<div class="outline-text-3" id="text-6-8">
+<p>
+What hath the wise man more than the fool? and what the poor man, but to go thither, where there is life?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7defb1c" class="outline-3">
+<h3 id="org7defb1c"><span class="section-number-3">6.9</span> Ecclesiastes 6:9</h3>
+<div class="outline-text-3" id="text-6-9">
+<p>
+Better it is to see what thou mayst desire, than to desire that which thou canst not know. But this also is vanity, and presumption of spirit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc97951d" class="outline-3">
+<h3 id="orgc97951d"><span class="section-number-3">6.10</span> Ecclesiastes 6:10</h3>
+<div class="outline-text-3" id="text-6-10">
+<p>
+He that shall be, his name is already called: and it is known, that he is a man, and cannot contend in judgment with him that is stronger than himself.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org86aa212" class="outline-3">
+<h3 id="org86aa212"><span class="section-number-3">6.11</span> Ecclesiastes 6:11</h3>
+<div class="outline-text-3" id="text-6-11">
+<p>
+There are many words that have much vanity in disputing. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org2c8f41e" class="outline-2">
+<h2 id="org2c8f41e"><span class="section-number-2">7</span> Ecclesiastes 7</h2>
+<div class="outline-text-2" id="text-7">
+</div>
+<div id="outline-container-org7858ae2" class="outline-3">
+<h3 id="org7858ae2"><span class="section-number-3">7.1</span> Ecclesiastes 7:1</h3>
+<div class="outline-text-3" id="text-7-1">
+<p>
+What needeth a man to seek things that are above him, whereas he knoweth not what is profitable for him in his life, in all the days of his pilgrimage, and the time that passeth like a shadow? Or who can tell him what shall be after him under the sun?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4feb73b" class="outline-3">
+<h3 id="org4feb73b"><span class="section-number-3">7.2</span> Ecclesiastes 7:2</h3>
+<div class="outline-text-3" id="text-7-2">
+<p>
+A good name is better than precious ointments: and the day of death than the day of one&rsquo;s birth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbf4722b" class="outline-3">
+<h3 id="orgbf4722b"><span class="section-number-3">7.3</span> Ecclesiastes 7:3</h3>
+<div class="outline-text-3" id="text-7-3">
+<p>
+It is better to go to the house of mourning, than to the house of feasting: for in that we are put in mind of the end of all, and the living thinketh what is to come.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02264a7" class="outline-3">
+<h3 id="org02264a7"><span class="section-number-3">7.4</span> Ecclesiastes 7:4</h3>
+<div class="outline-text-3" id="text-7-4">
+<p>
+Anger is better than laughter: because by the sadness of the countenance the mind of the offender is corrected.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org189f996" class="outline-3">
+<h3 id="org189f996"><span class="section-number-3">7.5</span> Ecclesiastes 7:5</h3>
+<div class="outline-text-3" id="text-7-5">
+<p>
+The heart of the wise is where there is mourning, and the heart of fools where there is mirth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0f7b568" class="outline-3">
+<h3 id="org0f7b568"><span class="section-number-3">7.6</span> Ecclesiastes 7:6</h3>
+<div class="outline-text-3" id="text-7-6">
+<p>
+It is better to be rebuked by a wise man, than to be deceived by the flattery of fools.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1a979f4" class="outline-3">
+<h3 id="org1a979f4"><span class="section-number-3">7.7</span> Ecclesiastes 7:7</h3>
+<div class="outline-text-3" id="text-7-7">
+<p>
+For as the crackling of thorns burning under a pot, so is the laughter of a fool: now this also is vanity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org297e3c8" class="outline-3">
+<h3 id="org297e3c8"><span class="section-number-3">7.8</span> Ecclesiastes 7:8</h3>
+<div class="outline-text-3" id="text-7-8">
+<p>
+Oppression troubleth the wise, and shall destroy the strength of his heart.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaae8f5c" class="outline-3">
+<h3 id="orgaae8f5c"><span class="section-number-3">7.9</span> Ecclesiastes 7:9</h3>
+<div class="outline-text-3" id="text-7-9">
+<p>
+Better is the end of a speech than the beginning. Better is the patient man than the presumptuous.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc2ae03a" class="outline-3">
+<h3 id="orgc2ae03a"><span class="section-number-3">7.10</span> Ecclesiastes 7:10</h3>
+<div class="outline-text-3" id="text-7-10">
+<p>
+Be not quickly angry: for anger resteth in the bosom of a fool.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5543baa" class="outline-3">
+<h3 id="org5543baa"><span class="section-number-3">7.11</span> Ecclesiastes 7:11</h3>
+<div class="outline-text-3" id="text-7-11">
+<p>
+Say not: What thinkest thou is the cause that former times were better than they are now? for this manner of question is foolish.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbf3d8cd" class="outline-3">
+<h3 id="orgbf3d8cd"><span class="section-number-3">7.12</span> Ecclesiastes 7:12</h3>
+<div class="outline-text-3" id="text-7-12">
+<p>
+Wisdom with riches is more profitable, and bringeth more advantage to them that see the sun.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc8aacf3" class="outline-3">
+<h3 id="orgc8aacf3"><span class="section-number-3">7.13</span> Ecclesiastes 7:13</h3>
+<div class="outline-text-3" id="text-7-13">
+<p>
+For as wisdom is a defence, so money is a defence: but learning and wisdom excel in this, that they give life to him that possesseth them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7126cf6" class="outline-3">
+<h3 id="org7126cf6"><span class="section-number-3">7.14</span> Ecclesiastes 7:14</h3>
+<div class="outline-text-3" id="text-7-14">
+<p>
+Consider the works of God, that no man can correct whom he hath despised.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1624899" class="outline-3">
+<h3 id="org1624899"><span class="section-number-3">7.15</span> Ecclesiastes 7:15</h3>
+<div class="outline-text-3" id="text-7-15">
+<p>
+In the good day enjoy good things, and beware beforehand of the evil day: for God hath made both the one and the other, that man may not find against him any just complaint.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6a3af3f" class="outline-3">
+<h3 id="org6a3af3f"><span class="section-number-3">7.16</span> Ecclesiastes 7:16</h3>
+<div class="outline-text-3" id="text-7-16">
+<p>
+These things also I saw in the days of my vanity: A just man perisheth in his justice, and a wicked man liveth a long time in his wickedness.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2b2934c" class="outline-3">
+<h3 id="org2b2934c"><span class="section-number-3">7.17</span> Ecclesiastes 7:17</h3>
+<div class="outline-text-3" id="text-7-17">
+<p>
+Be not over just: and be not more wise than is necessary, lest thou become stupid.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3d843fc" class="outline-3">
+<h3 id="org3d843fc"><span class="section-number-3">7.18</span> Ecclesiastes 7:18</h3>
+<div class="outline-text-3" id="text-7-18">
+<p>
+Be not overmuch wicked: and be not foolish, lest thou die before thy time.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6eba964" class="outline-3">
+<h3 id="org6eba964"><span class="section-number-3">7.19</span> Ecclesiastes 7:19</h3>
+<div class="outline-text-3" id="text-7-19">
+<p>
+It is good that thou shouldst hold up the just, yea and from him withdraw not thy hand: for he that feareth God, neglecteth nothing.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0101f6f" class="outline-3">
+<h3 id="org0101f6f"><span class="section-number-3">7.20</span> Ecclesiastes 7:20</h3>
+<div class="outline-text-3" id="text-7-20">
+<p>
+Wisdom hath strengthened the wise more than ten princes of the city.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeff0b9c" class="outline-3">
+<h3 id="orgeff0b9c"><span class="section-number-3">7.21</span> Ecclesiastes 7:21</h3>
+<div class="outline-text-3" id="text-7-21">
+<p>
+For there is no just man upon earth, that doth good, and sinneth not.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8663dfe" class="outline-3">
+<h3 id="org8663dfe"><span class="section-number-3">7.22</span> Ecclesiastes 7:22</h3>
+<div class="outline-text-3" id="text-7-22">
+<p>
+But do not apply thy heart to all words that are spoken: lest perhaps thou hear thy servant reviling thee.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5fb5220" class="outline-3">
+<h3 id="org5fb5220"><span class="section-number-3">7.23</span> Ecclesiastes 7:23</h3>
+<div class="outline-text-3" id="text-7-23">
+<p>
+For thy conscience knoweth that thou also hast often spoken evil of others.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org80c4454" class="outline-3">
+<h3 id="org80c4454"><span class="section-number-3">7.24</span> Ecclesiastes 7:24</h3>
+<div class="outline-text-3" id="text-7-24">
+<p>
+I have tried all things in wisdom. I have said: I will be wise: and it departed farther from me,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd5fa1f8" class="outline-3">
+<h3 id="orgd5fa1f8"><span class="section-number-3">7.25</span> Ecclesiastes 7:25</h3>
+<div class="outline-text-3" id="text-7-25">
+<p>
+Much more than it was: it is a great depth, who shall find it out?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgade3cce" class="outline-3">
+<h3 id="orgade3cce"><span class="section-number-3">7.26</span> Ecclesiastes 7:26</h3>
+<div class="outline-text-3" id="text-7-26">
+<p>
+I have surveyed all things with my mind, to know, and consider, and seek out wisdom and reason: and to know the wickedness of the fool, and the error of the imprudent:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6b77fe4" class="outline-3">
+<h3 id="org6b77fe4"><span class="section-number-3">7.27</span> Ecclesiastes 7:27</h3>
+<div class="outline-text-3" id="text-7-27">
+<p>
+And I have found a woman more bitter than death, who is the hunter&rsquo;s snare, and her heart is a net, and her hands are bands. He that pleaseth God shall escape from her: but he that is a sinner, shall be caught by her.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org54e22e1" class="outline-3">
+<h3 id="org54e22e1"><span class="section-number-3">7.28</span> Ecclesiastes 7:28</h3>
+<div class="outline-text-3" id="text-7-28">
+<p>
+Lo this have I found, said Ecclesiastes, weighing one thing after another, that I might find out the account,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org441194c" class="outline-3">
+<h3 id="org441194c"><span class="section-number-3">7.29</span> Ecclesiastes 7:29</h3>
+<div class="outline-text-3" id="text-7-29">
+<p>
+Which yet my soul seeketh, and I have not found it. One man among a thousand I have found, a woman among them all I have not found.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd0842bb" class="outline-3">
+<h3 id="orgd0842bb"><span class="section-number-3">7.30</span> Ecclesiastes 7:30</h3>
+<div class="outline-text-3" id="text-7-30">
+<p>
+Only this I have found, that God made man right, and he hath entangled himself with an infinity of questions. Who is as the wise man? and who hath known the resolution of the word? 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd3a6cf2" class="outline-2">
+<h2 id="orgd3a6cf2"><span class="section-number-2">8</span> Ecclesiastes 8</h2>
+<div class="outline-text-2" id="text-8">
+</div>
+<div id="outline-container-orgc033295" class="outline-3">
+<h3 id="orgc033295"><span class="section-number-3">8.1</span> Ecclesiastes 8:1</h3>
+<div class="outline-text-3" id="text-8-1">
+<p>
+The wisdom of a man shineth in his countenance, and the most mighty will change his face.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6bb8387" class="outline-3">
+<h3 id="org6bb8387"><span class="section-number-3">8.2</span> Ecclesiastes 8:2</h3>
+<div class="outline-text-3" id="text-8-2">
+<p>
+I observe the mouth of the king, and the commandments of the oath of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org959a1da" class="outline-3">
+<h3 id="org959a1da"><span class="section-number-3">8.3</span> Ecclesiastes 8:3</h3>
+<div class="outline-text-3" id="text-8-3">
+<p>
+Be not hasty to depart from his face, and do not continue in an evil work: for he will do all that pleaseth him:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org151fd8c" class="outline-3">
+<h3 id="org151fd8c"><span class="section-number-3">8.4</span> Ecclesiastes 8:4</h3>
+<div class="outline-text-3" id="text-8-4">
+<p>
+And his word is full of power: neither can any man say to him: Why dost thou so?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0cd7be6" class="outline-3">
+<h3 id="org0cd7be6"><span class="section-number-3">8.5</span> Ecclesiastes 8:5</h3>
+<div class="outline-text-3" id="text-8-5">
+<p>
+He that keepeth the commandment, shall find no evil. The heart of a wiser man understandeth time and answer.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9b82b80" class="outline-3">
+<h3 id="org9b82b80"><span class="section-number-3">8.6</span> Ecclesiastes 8:6</h3>
+<div class="outline-text-3" id="text-8-6">
+<p>
+There is a time and opportunity for every business, and great affliction for man:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc529bde" class="outline-3">
+<h3 id="orgc529bde"><span class="section-number-3">8.7</span> Ecclesiastes 8:7</h3>
+<div class="outline-text-3" id="text-8-7">
+<p>
+Because he is ignorant of things past, and things to come he cannot know by any messenger.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org03ddb98" class="outline-3">
+<h3 id="org03ddb98"><span class="section-number-3">8.8</span> Ecclesiastes 8:8</h3>
+<div class="outline-text-3" id="text-8-8">
+<p>
+It is not in man&rsquo;s power to stop the spirit, neither hath he power in the day of death, neither is he suffered to rest when war is at hand, neither shall wickedness save the wicked.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8dd4ab5" class="outline-3">
+<h3 id="org8dd4ab5"><span class="section-number-3">8.9</span> Ecclesiastes 8:9</h3>
+<div class="outline-text-3" id="text-8-9">
+<p>
+All these things I have considered, and applied my heart to all the works that are done under the sun. Sometimes one man ruleth over another to his own hurt.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05cf084" class="outline-3">
+<h3 id="org05cf084"><span class="section-number-3">8.10</span> Ecclesiastes 8:10</h3>
+<div class="outline-text-3" id="text-8-10">
+<p>
+I saw the wicked buried: who also when they were yet living were in the holy place, and were praised in the city as men of just works: but this also is vanity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaab3a67" class="outline-3">
+<h3 id="orgaab3a67"><span class="section-number-3">8.11</span> Ecclesiastes 8:11</h3>
+<div class="outline-text-3" id="text-8-11">
+<p>
+For because sentence is not speedily pronounced against the evil, the children of men commit evils without any fear.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org290cb44" class="outline-3">
+<h3 id="org290cb44"><span class="section-number-3">8.12</span> Ecclesiastes 8:12</h3>
+<div class="outline-text-3" id="text-8-12">
+<p>
+But though a sinner do evil a hundred times, and by patience be borne withal, I know from thence that it shall be well with them that fear God, who dread his face.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7374ea6" class="outline-3">
+<h3 id="org7374ea6"><span class="section-number-3">8.13</span> Ecclesiastes 8:13</h3>
+<div class="outline-text-3" id="text-8-13">
+<p>
+But let it not be well with the wicked, neither let his days be prolonged, but as a shadow let them pass away that fear not the face of the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org733bb12" class="outline-3">
+<h3 id="org733bb12"><span class="section-number-3">8.14</span> Ecclesiastes 8:14</h3>
+<div class="outline-text-3" id="text-8-14">
+<p>
+There is also another vanity, which is done upon the earth. There are just men to whom evils happen, as though they had done the works of the wicked: and there are wicked men, who are as secure as though they had the deeds of the just: but this also I judge most vain.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb7382d4" class="outline-3">
+<h3 id="orgb7382d4"><span class="section-number-3">8.15</span> Ecclesiastes 8:15</h3>
+<div class="outline-text-3" id="text-8-15">
+<p>
+Therefore I commended mirth, because there was no good for a man under the sun, but to eat, and drink, and be merry, and that he should take nothing else with him of his labour in the days of his life, which God hath given him under the sun.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org53970ff" class="outline-3">
+<h3 id="org53970ff"><span class="section-number-3">8.16</span> Ecclesiastes 8:16</h3>
+<div class="outline-text-3" id="text-8-16">
+<p>
+And I applied my heart to know wisdom, and to understand the distraction that is upon earth: for there are some that day and night take no sleep with their eyes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org510c0f2" class="outline-3">
+<h3 id="org510c0f2"><span class="section-number-3">8.17</span> Ecclesiastes 8:17</h3>
+<div class="outline-text-3" id="text-8-17">
+<p>
+And I understood that man can find no reason of all those works of God that are done under the sun: and the more he shall labour to seek, so much the less shall he find: yea, though the wise man shall say, that he knoweth it, he shall not be able to find it. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org466854b" class="outline-2">
+<h2 id="org466854b"><span class="section-number-2">9</span> Ecclesiastes 9</h2>
+<div class="outline-text-2" id="text-9">
+</div>
+<div id="outline-container-orgc2d7a4b" class="outline-3">
+<h3 id="orgc2d7a4b"><span class="section-number-3">9.1</span> Ecclesiastes 9:1</h3>
+<div class="outline-text-3" id="text-9-1">
+<p>
+All these things have I considered in my heart, that I might carefully understand them: there are just men and wise men, and their works are in the hand of God: and yet man knoweth not whether he be worthy of love, or hatred:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org195088a" class="outline-3">
+<h3 id="org195088a"><span class="section-number-3">9.2</span> Ecclesiastes 9:2</h3>
+<div class="outline-text-3" id="text-9-2">
+<p>
+But all things are kept uncertain for the time to come, because all things equally happen to the just and to the wicked, to the good and to the evil, to the clean and to the unclean, to him that offereth victims, and to him that despiseth sacrifices. As the good is, so also is the sinner: as the perjured, so he also that sweareth truth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org597d6c1" class="outline-3">
+<h3 id="org597d6c1"><span class="section-number-3">9.3</span> Ecclesiastes 9:3</h3>
+<div class="outline-text-3" id="text-9-3">
+<p>
+This is a very great evil among all things that are done under the sun, that the same things happen to all men: whereby also the hearts of the children of men are filled with evil, and with contempt while they live, and afterwards they shall be brought down to hell.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org63923a6" class="outline-3">
+<h3 id="org63923a6"><span class="section-number-3">9.4</span> Ecclesiastes 9:4</h3>
+<div class="outline-text-3" id="text-9-4">
+<p>
+There is no man that liveth always, or that hopeth for this: a living dog is better than a dead lion.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f83b6a" class="outline-3">
+<h3 id="org3f83b6a"><span class="section-number-3">9.5</span> Ecclesiastes 9:5</h3>
+<div class="outline-text-3" id="text-9-5">
+<p>
+For the living know that they shall die, but the dead know nothing more, neither have they a reward any more: for the memory of them is forgotten.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc3c6001" class="outline-3">
+<h3 id="orgc3c6001"><span class="section-number-3">9.6</span> Ecclesiastes 9:6</h3>
+<div class="outline-text-3" id="text-9-6">
+<p>
+Their love also, and their hatred, and their envy are all perished, neither have they any part in this world, and in the work that is done under the sun.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd9d1d7b" class="outline-3">
+<h3 id="orgd9d1d7b"><span class="section-number-3">9.7</span> Ecclesiastes 9:7</h3>
+<div class="outline-text-3" id="text-9-7">
+<p>
+Go then, and eat thy bread with joy, and drink thy wine with gladness: because thy works please God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd516382" class="outline-3">
+<h3 id="orgd516382"><span class="section-number-3">9.8</span> Ecclesiastes 9:8</h3>
+<div class="outline-text-3" id="text-9-8">
+<p>
+At all times let thy garments be white, and let not oil depart from thy head.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga26fe34" class="outline-3">
+<h3 id="orga26fe34"><span class="section-number-3">9.9</span> Ecclesiastes 9:9</h3>
+<div class="outline-text-3" id="text-9-9">
+<p>
+Live joyfully with the wife whom thou lovest, all the days of thy unsteady life, which are given to thee under the sun, all the time of thy vanity: for this is thy portion in life, and in thy labour wherewith thou labourest under the sun.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc63217b" class="outline-3">
+<h3 id="orgc63217b"><span class="section-number-3">9.10</span> Ecclesiastes 9:10</h3>
+<div class="outline-text-3" id="text-9-10">
+<p>
+Whatsoever thy hand is able to do, do it earnestly: for neither work, nor reason, nor wisdom, nor knowledge shall be in hell, whither thou art hastening.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd9020d4" class="outline-3">
+<h3 id="orgd9020d4"><span class="section-number-3">9.11</span> Ecclesiastes 9:11</h3>
+<div class="outline-text-3" id="text-9-11">
+<p>
+I turned me to another thing, and I saw that under the sun, the race is not to the swift, nor the battle to the strong, nor bread to the wise, nor riches to the learned, nor favour to the skilful: but time and chance in all.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5801dc2" class="outline-3">
+<h3 id="org5801dc2"><span class="section-number-3">9.12</span> Ecclesiastes 9:12</h3>
+<div class="outline-text-3" id="text-9-12">
+<p>
+Man knoweth not his own end: but as fishes are taken with the hook, and as birds are caught with the snare, so men are taken in the evil time, when it shall suddenly come upon them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgccb5900" class="outline-3">
+<h3 id="orgccb5900"><span class="section-number-3">9.13</span> Ecclesiastes 9:13</h3>
+<div class="outline-text-3" id="text-9-13">
+<p>
+This wisdom also I have seen under the sun, and it seemed to me to be very great:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org43e1c69" class="outline-3">
+<h3 id="org43e1c69"><span class="section-number-3">9.14</span> Ecclesiastes 9:14</h3>
+<div class="outline-text-3" id="text-9-14">
+<p>
+A little city, and few men in it: there came against it a great king, and invested it, and built bulwarks round about it, and the siege was perfect.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e92761" class="outline-3">
+<h3 id="org9e92761"><span class="section-number-3">9.15</span> Ecclesiastes 9:15</h3>
+<div class="outline-text-3" id="text-9-15">
+<p>
+Now there was found in it a man poor and wise, and he delivered the city by his wisdom, and no man afterward remembered that poor man.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf9cead9" class="outline-3">
+<h3 id="orgf9cead9"><span class="section-number-3">9.16</span> Ecclesiastes 9:16</h3>
+<div class="outline-text-3" id="text-9-16">
+<p>
+And I said that wisdom is better than strength: how then is the wisdom of the poor man slighted, and his words not heard?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb5b3947" class="outline-3">
+<h3 id="orgb5b3947"><span class="section-number-3">9.17</span> Ecclesiastes 9:17</h3>
+<div class="outline-text-3" id="text-9-17">
+<p>
+The words of the wise are heard in silence, more than the cry of a prince among fools.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3485951" class="outline-3">
+<h3 id="org3485951"><span class="section-number-3">9.18</span> Ecclesiastes 9:18</h3>
+<div class="outline-text-3" id="text-9-18">
+<p>
+Better is wisdom, than weapons of war: and he that shall offend in one, shall lose many good things. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org84e78ec" class="outline-2">
+<h2 id="org84e78ec"><span class="section-number-2">10</span> Ecclesiastes 10</h2>
+<div class="outline-text-2" id="text-10">
+</div>
+<div id="outline-container-orgdf00f0a" class="outline-3">
+<h3 id="orgdf00f0a"><span class="section-number-3">10.1</span> Ecclesiastes 10:1</h3>
+<div class="outline-text-3" id="text-10-1">
+<p>
+Dying flies spoil the sweetness of the ointment. Wisdom and glory is more precious than a small and shortlived folly.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org56e1e05" class="outline-3">
+<h3 id="org56e1e05"><span class="section-number-3">10.2</span> Ecclesiastes 10:2</h3>
+<div class="outline-text-3" id="text-10-2">
+<p>
+The heart of a wise man is in his right hand, and the heart of a fool is in his left hand.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org969326c" class="outline-3">
+<h3 id="org969326c"><span class="section-number-3">10.3</span> Ecclesiastes 10:3</h3>
+<div class="outline-text-3" id="text-10-3">
+<p>
+Yea, and the fool when he walketh in the way, whereas he himself is a fool, esteemeth all men fools.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org58df9bb" class="outline-3">
+<h3 id="org58df9bb"><span class="section-number-3">10.4</span> Ecclesiastes 10:4</h3>
+<div class="outline-text-3" id="text-10-4">
+<p>
+If the spirit of him that hath power, ascend upon thee, leave not thy place: because care will make the greatest sins to cease.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8935773" class="outline-3">
+<h3 id="org8935773"><span class="section-number-3">10.5</span> Ecclesiastes 10:5</h3>
+<div class="outline-text-3" id="text-10-5">
+<p>
+There is an evil that I have seen under the sun, as it were by an error proceeding from the face of the prince:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1a67676" class="outline-3">
+<h3 id="org1a67676"><span class="section-number-3">10.6</span> Ecclesiastes 10:6</h3>
+<div class="outline-text-3" id="text-10-6">
+<p>
+A fool set in high dignity, and the rich sitting beneath.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1774bc3" class="outline-3">
+<h3 id="org1774bc3"><span class="section-number-3">10.7</span> Ecclesiastes 10:7</h3>
+<div class="outline-text-3" id="text-10-7">
+<p>
+I have seen servants upon horses: and princes walking on the ground as servants.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgea75ff2" class="outline-3">
+<h3 id="orgea75ff2"><span class="section-number-3">10.8</span> Ecclesiastes 10:8</h3>
+<div class="outline-text-3" id="text-10-8">
+<p>
+He that diggeth a pit, shall fall into it: and he that breaketh a hedge, a serpent shall bite him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1f736fa" class="outline-3">
+<h3 id="org1f736fa"><span class="section-number-3">10.9</span> Ecclesiastes 10:9</h3>
+<div class="outline-text-3" id="text-10-9">
+<p>
+He that removeth stones, shall be hurt by them: and he that cutteth trees, shall be wounded by them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7cc8237" class="outline-3">
+<h3 id="org7cc8237"><span class="section-number-3">10.10</span> Ecclesiastes 10:10</h3>
+<div class="outline-text-3" id="text-10-10">
+<p>
+If the iron be blunt, and be not as before, but be made blunt, with much labour it shall be sharpened: and after industry shall follow wisdom.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1eb08e7" class="outline-3">
+<h3 id="org1eb08e7"><span class="section-number-3">10.11</span> Ecclesiastes 10:11</h3>
+<div class="outline-text-3" id="text-10-11">
+<p>
+If a serpent bite in silence, he is nothing better that backbiteth secretly.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5bf62b2" class="outline-3">
+<h3 id="org5bf62b2"><span class="section-number-3">10.12</span> Ecclesiastes 10:12</h3>
+<div class="outline-text-3" id="text-10-12">
+<p>
+The words of the mouth of a wise man are grace: but the lips of a fool shall throw him down headlong.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org80caebe" class="outline-3">
+<h3 id="org80caebe"><span class="section-number-3">10.13</span> Ecclesiastes 10:13</h3>
+<div class="outline-text-3" id="text-10-13">
+<p>
+The beginning of his words is folly, and the end of his talk is a mischievous error.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbefd5fa" class="outline-3">
+<h3 id="orgbefd5fa"><span class="section-number-3">10.14</span> Ecclesiastes 10:14</h3>
+<div class="outline-text-3" id="text-10-14">
+<p>
+A fool multiplieth words. A man cannot tell what hath been before him: and what shall be after him, who can tell him?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org899e630" class="outline-3">
+<h3 id="org899e630"><span class="section-number-3">10.15</span> Ecclesiastes 10:15</h3>
+<div class="outline-text-3" id="text-10-15">
+<p>
+The labour of fools shall afflict them that know not how to go to the city.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1d435b7" class="outline-3">
+<h3 id="org1d435b7"><span class="section-number-3">10.16</span> Ecclesiastes 10:16</h3>
+<div class="outline-text-3" id="text-10-16">
+<p>
+Woe to thee, O land, when thy king is a child, and when the princes eat in the morning.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd005d4a" class="outline-3">
+<h3 id="orgd005d4a"><span class="section-number-3">10.17</span> Ecclesiastes 10:17</h3>
+<div class="outline-text-3" id="text-10-17">
+<p>
+Blessed is the land, whose king is noble, and whose princes eat in due season for refreshment, and not for riotousness.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdbc6c2c" class="outline-3">
+<h3 id="orgdbc6c2c"><span class="section-number-3">10.18</span> Ecclesiastes 10:18</h3>
+<div class="outline-text-3" id="text-10-18">
+<p>
+By slothfulness a building shall be brought down, and through the weakness of hands, the house shall drop through.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda51436" class="outline-3">
+<h3 id="orgda51436"><span class="section-number-3">10.19</span> Ecclesiastes 10:19</h3>
+<div class="outline-text-3" id="text-10-19">
+<p>
+For laughter they make bread, and wine that the living may feast: and all things obey money.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2821491" class="outline-3">
+<h3 id="org2821491"><span class="section-number-3">10.20</span> Ecclesiastes 10:20</h3>
+<div class="outline-text-3" id="text-10-20">
+<p>
+Detract not the king, no not in thy thought; and speak not evil of the rich man in thy private chamber: because even the birds of the air will carry thy voice, and he that hath wings will tell what thou hast said. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga18487d" class="outline-2">
+<h2 id="orga18487d"><span class="section-number-2">11</span> Ecclesiastes 11</h2>
+<div class="outline-text-2" id="text-11">
+</div>
+<div id="outline-container-orgaadbe27" class="outline-3">
+<h3 id="orgaadbe27"><span class="section-number-3">11.1</span> Ecclesiastes 11:1</h3>
+<div class="outline-text-3" id="text-11-1">
+<p>
+Cast thy bread upon the running waters: for after a long time thou shalt find it again.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgecb5770" class="outline-3">
+<h3 id="orgecb5770"><span class="section-number-3">11.2</span> Ecclesiastes 11:2</h3>
+<div class="outline-text-3" id="text-11-2">
+<p>
+Give a portion to seven, and also to eight: for thou knowest not what evil shall be upon the earth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf757d29" class="outline-3">
+<h3 id="orgf757d29"><span class="section-number-3">11.3</span> Ecclesiastes 11:3</h3>
+<div class="outline-text-3" id="text-11-3">
+<p>
+If the clouds be full, they will pour out rain upon the earth. If the tree fall to the south, or to the north, in what place soever it shall fall, there shall it be.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org728dcdf" class="outline-3">
+<h3 id="org728dcdf"><span class="section-number-3">11.4</span> Ecclesiastes 11:4</h3>
+<div class="outline-text-3" id="text-11-4">
+<p>
+He that observeth the wind, shall not sow: and he that considereth the clouds, shall never reap.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6110bc4" class="outline-3">
+<h3 id="org6110bc4"><span class="section-number-3">11.5</span> Ecclesiastes 11:5</h3>
+<div class="outline-text-3" id="text-11-5">
+<p>
+As thou knowest not what is the way of the spirit, nor how the bones are joined together in the womb of her that is with child: so thou knowest not the works of God, who is the maker of all.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2434c1b" class="outline-3">
+<h3 id="org2434c1b"><span class="section-number-3">11.6</span> Ecclesiastes 11:6</h3>
+<div class="outline-text-3" id="text-11-6">
+<p>
+In the morning sow thy seed, and in the evening let not thy hand cease: for thou knowest not which may rather spring up, this or that: and if both together, it shall be the better.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org51da1b0" class="outline-3">
+<h3 id="org51da1b0"><span class="section-number-3">11.7</span> Ecclesiastes 11:7</h3>
+<div class="outline-text-3" id="text-11-7">
+<p>
+The light is sweet, and it is delightful for the eyes to see the sun.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdfb77e6" class="outline-3">
+<h3 id="orgdfb77e6"><span class="section-number-3">11.8</span> Ecclesiastes 11:8</h3>
+<div class="outline-text-3" id="text-11-8">
+<p>
+If a man live many years, and have rejoiced in them all, he must remember the darksome time, and the many days: which when they shall come, the things past shall be accused of vanity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf06e2f8" class="outline-3">
+<h3 id="orgf06e2f8"><span class="section-number-3">11.9</span> Ecclesiastes 11:9</h3>
+<div class="outline-text-3" id="text-11-9">
+<p>
+Rejoice therefore, O young man, in thy youth, and let thy heart be in that which is good in the days of thy youth, and walk in the ways of thy heart, and in the sight of thy eyes: and know that for all these God will bring thee into judgment.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4748f21" class="outline-3">
+<h3 id="org4748f21"><span class="section-number-3">11.10</span> Ecclesiastes 11:10</h3>
+<div class="outline-text-3" id="text-11-10">
+<p>
+Remove anger from thy heart, and put away evil from thy flesh. For youth and pleasure are vain. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org5e55941" class="outline-2">
+<h2 id="org5e55941"><span class="section-number-2">12</span> Ecclesiastes 12</h2>
+<div class="outline-text-2" id="text-12">
+</div>
+<div id="outline-container-org0bc6b69" class="outline-3">
+<h3 id="org0bc6b69"><span class="section-number-3">12.1</span> Ecclesiastes 12:1</h3>
+<div class="outline-text-3" id="text-12-1">
+<p>
+Remember thy Creator in the days of thy youth, before the time of affliction come, and the years draw nigh of which thou shalt say: They please me not:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaf47d50" class="outline-3">
+<h3 id="orgaf47d50"><span class="section-number-3">12.2</span> Ecclesiastes 12:2</h3>
+<div class="outline-text-3" id="text-12-2">
+<p>
+Before the sun, and the light, and the moon, and the stars be darkened, and the clouds return after the rain:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org36c1f16" class="outline-3">
+<h3 id="org36c1f16"><span class="section-number-3">12.3</span> Ecclesiastes 12:3</h3>
+<div class="outline-text-3" id="text-12-3">
+<p>
+When the keepers of the house shall tremble, and the strong men shall stagger, and the grinders shall be idle in a small number, and they that look through the holes shall be darkened:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6253c7d" class="outline-3">
+<h3 id="org6253c7d"><span class="section-number-3">12.4</span> Ecclesiastes 12:4</h3>
+<div class="outline-text-3" id="text-12-4">
+<p>
+And they shall shut the doors in the street, when the grinder&rsquo;s voice shall be low, and they shall rise up at the voice of the bird, and all the daughters of music shall grow deaf.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org653d6ea" class="outline-3">
+<h3 id="org653d6ea"><span class="section-number-3">12.5</span> Ecclesiastes 12:5</h3>
+<div class="outline-text-3" id="text-12-5">
+<p>
+And they shall fear high things, and they shall be afraid in the way, the almond tree shall flourish, the locust shall be made fat, and the caper tree shall be destroyed: because man shall go into the house of his eternity, and the mourners shall go round about in the street.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3c6f106" class="outline-3">
+<h3 id="org3c6f106"><span class="section-number-3">12.6</span> Ecclesiastes 12:6</h3>
+<div class="outline-text-3" id="text-12-6">
+<p>
+Before the silver cord be broken, and the golden fillet shrink back, and the pitcher be crushed at the fountain, and the wheel be broken upon the cistern,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb0d1f96" class="outline-3">
+<h3 id="orgb0d1f96"><span class="section-number-3">12.7</span> Ecclesiastes 12:7</h3>
+<div class="outline-text-3" id="text-12-7">
+<p>
+And the dust return into its earth, from whence it was, and the spirit return to God, who gave it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgded0ef0" class="outline-3">
+<h3 id="orgded0ef0"><span class="section-number-3">12.8</span> Ecclesiastes 12:8</h3>
+<div class="outline-text-3" id="text-12-8">
+<p>
+Vanity of vanities, said Ecclesiastes, and all things are vanity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2f4496b" class="outline-3">
+<h3 id="org2f4496b"><span class="section-number-3">12.9</span> Ecclesiastes 12:9</h3>
+<div class="outline-text-3" id="text-12-9">
+<p>
+And whereas Ecclesiastes was very wise, he taught the people, and declared the things that he had done: and seeking out, he set forth many parables.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2d36a99" class="outline-3">
+<h3 id="org2d36a99"><span class="section-number-3">12.10</span> Ecclesiastes 12:10</h3>
+<div class="outline-text-3" id="text-12-10">
+<p>
+He sought profitable words, and wrote words most right, and full of truth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf63f678" class="outline-3">
+<h3 id="orgf63f678"><span class="section-number-3">12.11</span> Ecclesiastes 12:11</h3>
+<div class="outline-text-3" id="text-12-11">
+<p>
+The words of the wise are as goads, and as nails deeply fastened in, which by the counsel of masters are given from one shepherd.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgedd1247" class="outline-3">
+<h3 id="orgedd1247"><span class="section-number-3">12.12</span> Ecclesiastes 12:12</h3>
+<div class="outline-text-3" id="text-12-12">
+<p>
+More than these, my son, require not. Of making many books there is no end: and much study is an affliction of the flesh.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6c8fb84" class="outline-3">
+<h3 id="org6c8fb84"><span class="section-number-3">12.13</span> Ecclesiastes 12:13</h3>
+<div class="outline-text-3" id="text-12-13">
+<p>
+Let us all hear together the conclusion of the discourse. Fear God, and keep his commandments: for this is all man:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb78eeef" class="outline-3">
+<h3 id="orgb78eeef"><span class="section-number-3">12.14</span> Ecclesiastes 12:14</h3>
+<div class="outline-text-3" id="text-12-14">
+<p>
+And all things that are done, God will bring into judgment for every error, whether it be good or evil.  
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:36</p>
+</div>
+</body>
+</html>

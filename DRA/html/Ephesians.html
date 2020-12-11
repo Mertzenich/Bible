@@ -1,0 +1,1844 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:36 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org158cef5">1. Ephesians 1</a>
+<ul>
+<li><a href="#org111b78e">1.1. Ephesians 1:1</a></li>
+<li><a href="#org464abba">1.2. Ephesians 1:2</a></li>
+<li><a href="#org9e27644">1.3. Ephesians 1:3</a></li>
+<li><a href="#orge49c472">1.4. Ephesians 1:4</a></li>
+<li><a href="#org7f27156">1.5. Ephesians 1:5</a></li>
+<li><a href="#org93940d7">1.6. Ephesians 1:6</a></li>
+<li><a href="#org0fcd21d">1.7. Ephesians 1:7</a></li>
+<li><a href="#orgf5ade11">1.8. Ephesians 1:8</a></li>
+<li><a href="#org60ae1b6">1.9. Ephesians 1:9</a></li>
+<li><a href="#orgcfad05b">1.10. Ephesians 1:10</a></li>
+<li><a href="#org8cf85d3">1.11. Ephesians 1:11</a></li>
+<li><a href="#orgb801535">1.12. Ephesians 1:12</a></li>
+<li><a href="#orgfbd9034">1.13. Ephesians 1:13</a></li>
+<li><a href="#orga7c47e4">1.14. Ephesians 1:14</a></li>
+<li><a href="#org3e55dee">1.15. Ephesians 1:15</a></li>
+<li><a href="#orged7f382">1.16. Ephesians 1:16</a></li>
+<li><a href="#orgeb636ca">1.17. Ephesians 1:17</a></li>
+<li><a href="#org6b08b07">1.18. Ephesians 1:18</a></li>
+<li><a href="#org4affb58">1.19. Ephesians 1:19</a></li>
+<li><a href="#org2157fba">1.20. Ephesians 1:20</a></li>
+<li><a href="#orgd4c6447">1.21. Ephesians 1:21</a></li>
+<li><a href="#orgb4f9eeb">1.22. Ephesians 1:22</a></li>
+<li><a href="#org75992a1">1.23. Ephesians 1:23</a></li>
+</ul>
+</li>
+<li><a href="#orgcc0dda5">2. Ephesians 2</a>
+<ul>
+<li><a href="#org179c123">2.1. Ephesians 2:1</a></li>
+<li><a href="#orgb1869f5">2.2. Ephesians 2:2</a></li>
+<li><a href="#orgee281b8">2.3. Ephesians 2:3</a></li>
+<li><a href="#org187d7c4">2.4. Ephesians 2:4</a></li>
+<li><a href="#org2e139fd">2.5. Ephesians 2:5</a></li>
+<li><a href="#orgc160f0d">2.6. Ephesians 2:6</a></li>
+<li><a href="#org2760944">2.7. Ephesians 2:7</a></li>
+<li><a href="#org12e0e0d">2.8. Ephesians 2:8</a></li>
+<li><a href="#orgedd4b6f">2.9. Ephesians 2:9</a></li>
+<li><a href="#org6f0c50d">2.10. Ephesians 2:10</a></li>
+<li><a href="#org843dcdf">2.11. Ephesians 2:11</a></li>
+<li><a href="#org50cc39c">2.12. Ephesians 2:12</a></li>
+<li><a href="#org316d749">2.13. Ephesians 2:13</a></li>
+<li><a href="#org691c64f">2.14. Ephesians 2:14</a></li>
+<li><a href="#org8c38a5b">2.15. Ephesians 2:15</a></li>
+<li><a href="#org0ccc923">2.16. Ephesians 2:16</a></li>
+<li><a href="#org0b75a20">2.17. Ephesians 2:17</a></li>
+<li><a href="#org22f8dc9">2.18. Ephesians 2:18</a></li>
+<li><a href="#org3e4077e">2.19. Ephesians 2:19</a></li>
+<li><a href="#org9134964">2.20. Ephesians 2:20</a></li>
+<li><a href="#orgd3be5f4">2.21. Ephesians 2:21</a></li>
+<li><a href="#orgddde576">2.22. Ephesians 2:22</a></li>
+</ul>
+</li>
+<li><a href="#org33e9a77">3. Ephesians 3</a>
+<ul>
+<li><a href="#org2cecbb7">3.1. Ephesians 3:1</a></li>
+<li><a href="#org667f842">3.2. Ephesians 3:2</a></li>
+<li><a href="#orga1f8b88">3.3. Ephesians 3:3</a></li>
+<li><a href="#orgcf17f46">3.4. Ephesians 3:4</a></li>
+<li><a href="#org93b9db7">3.5. Ephesians 3:5</a></li>
+<li><a href="#orgb4d8288">3.6. Ephesians 3:6</a></li>
+<li><a href="#orga832f50">3.7. Ephesians 3:7</a></li>
+<li><a href="#org561f65f">3.8. Ephesians 3:8</a></li>
+<li><a href="#orge9d51ee">3.9. Ephesians 3:9</a></li>
+<li><a href="#org0041f8d">3.10. Ephesians 3:10</a></li>
+<li><a href="#org0f44596">3.11. Ephesians 3:11</a></li>
+<li><a href="#org54325b7">3.12. Ephesians 3:12</a></li>
+<li><a href="#orgadb2a35">3.13. Ephesians 3:13</a></li>
+<li><a href="#orga20b44d">3.14. Ephesians 3:14</a></li>
+<li><a href="#org4bd5ec1">3.15. Ephesians 3:15</a></li>
+<li><a href="#org6d7edb5">3.16. Ephesians 3:16</a></li>
+<li><a href="#orgb0d12a9">3.17. Ephesians 3:17</a></li>
+<li><a href="#org51e037f">3.18. Ephesians 3:18</a></li>
+<li><a href="#org7d40b91">3.19. Ephesians 3:19</a></li>
+<li><a href="#org202cc1b">3.20. Ephesians 3:20</a></li>
+<li><a href="#orgf568265">3.21. Ephesians 3:21</a></li>
+</ul>
+</li>
+<li><a href="#org2f9b824">4. Ephesians 4</a>
+<ul>
+<li><a href="#org5697ed1">4.1. Ephesians 4:1</a></li>
+<li><a href="#org57002af">4.2. Ephesians 4:2</a></li>
+<li><a href="#org9e5bd67">4.3. Ephesians 4:3</a></li>
+<li><a href="#orgf98f0c4">4.4. Ephesians 4:4</a></li>
+<li><a href="#org1643440">4.5. Ephesians 4:5</a></li>
+<li><a href="#org692d8b6">4.6. Ephesians 4:6</a></li>
+<li><a href="#org25d931d">4.7. Ephesians 4:7</a></li>
+<li><a href="#org20f3c48">4.8. Ephesians 4:8</a></li>
+<li><a href="#orgeb7ca56">4.9. Ephesians 4:9</a></li>
+<li><a href="#org8cb715e">4.10. Ephesians 4:10</a></li>
+<li><a href="#org8b75ad3">4.11. Ephesians 4:11</a></li>
+<li><a href="#org3e2d367">4.12. Ephesians 4:12</a></li>
+<li><a href="#org4da16e5">4.13. Ephesians 4:13</a></li>
+<li><a href="#org4539fcd">4.14. Ephesians 4:14</a></li>
+<li><a href="#org093bdd8">4.15. Ephesians 4:15</a></li>
+<li><a href="#org3c43c9f">4.16. Ephesians 4:16</a></li>
+<li><a href="#org95b4462">4.17. Ephesians 4:17</a></li>
+<li><a href="#org4d5cc5f">4.18. Ephesians 4:18</a></li>
+<li><a href="#orgf38524d">4.19. Ephesians 4:19</a></li>
+<li><a href="#orgaa27661">4.20. Ephesians 4:20</a></li>
+<li><a href="#orgf2346e3">4.21. Ephesians 4:21</a></li>
+<li><a href="#org18d90d0">4.22. Ephesians 4:22</a></li>
+<li><a href="#orgda779b0">4.23. Ephesians 4:23</a></li>
+<li><a href="#org34bdee8">4.24. Ephesians 4:24</a></li>
+<li><a href="#orgd4493f2">4.25. Ephesians 4:25</a></li>
+<li><a href="#orgcb4a696">4.26. Ephesians 4:26</a></li>
+<li><a href="#orgfc3aaac">4.27. Ephesians 4:27</a></li>
+<li><a href="#org41f1582">4.28. Ephesians 4:28</a></li>
+<li><a href="#orgd680150">4.29. Ephesians 4:29</a></li>
+<li><a href="#org5213355">4.30. Ephesians 4:30</a></li>
+<li><a href="#orgce9a463">4.31. Ephesians 4:31</a></li>
+<li><a href="#org9320591">4.32. Ephesians 4:32</a></li>
+</ul>
+</li>
+<li><a href="#org82c14e1">5. Ephesians 5</a>
+<ul>
+<li><a href="#org5f6b9ca">5.1. Ephesians 5:1</a></li>
+<li><a href="#org33b07ec">5.2. Ephesians 5:2</a></li>
+<li><a href="#org0dc183c">5.3. Ephesians 5:3</a></li>
+<li><a href="#org9855bb2">5.4. Ephesians 5:4</a></li>
+<li><a href="#org0851937">5.5. Ephesians 5:5</a></li>
+<li><a href="#org3b01c54">5.6. Ephesians 5:6</a></li>
+<li><a href="#orgc632d88">5.7. Ephesians 5:7</a></li>
+<li><a href="#orgb4786ac">5.8. Ephesians 5:8</a></li>
+<li><a href="#org1decea1">5.9. Ephesians 5:9</a></li>
+<li><a href="#org0e8a4b7">5.10. Ephesians 5:10</a></li>
+<li><a href="#org1aac8c7">5.11. Ephesians 5:11</a></li>
+<li><a href="#orgb73d8ef">5.12. Ephesians 5:12</a></li>
+<li><a href="#org74b1806">5.13. Ephesians 5:13</a></li>
+<li><a href="#orga21f95e">5.14. Ephesians 5:14</a></li>
+<li><a href="#orgff54786">5.15. Ephesians 5:15</a></li>
+<li><a href="#orgff644d4">5.16. Ephesians 5:16</a></li>
+<li><a href="#org598b75b">5.17. Ephesians 5:17</a></li>
+<li><a href="#org693a1b2">5.18. Ephesians 5:18</a></li>
+<li><a href="#org156830e">5.19. Ephesians 5:19</a></li>
+<li><a href="#orgd96ade5">5.20. Ephesians 5:20</a></li>
+<li><a href="#org80412cb">5.21. Ephesians 5:21</a></li>
+<li><a href="#org31af90b">5.22. Ephesians 5:22</a></li>
+<li><a href="#org7120672">5.23. Ephesians 5:23</a></li>
+<li><a href="#org7d25cd4">5.24. Ephesians 5:24</a></li>
+<li><a href="#org1c1169e">5.25. Ephesians 5:25</a></li>
+<li><a href="#org6ffaf0e">5.26. Ephesians 5:26</a></li>
+<li><a href="#org7bb0c3f">5.27. Ephesians 5:27</a></li>
+<li><a href="#orgc1eb553">5.28. Ephesians 5:28</a></li>
+<li><a href="#orgce28466">5.29. Ephesians 5:29</a></li>
+<li><a href="#org013039f">5.30. Ephesians 5:30</a></li>
+<li><a href="#org7189faa">5.31. Ephesians 5:31</a></li>
+<li><a href="#orgc96a708">5.32. Ephesians 5:32</a></li>
+<li><a href="#org3c881f3">5.33. Ephesians 5:33</a></li>
+</ul>
+</li>
+<li><a href="#orgc8f6c5f">6. Ephesians 6</a>
+<ul>
+<li><a href="#org22a1f7e">6.1. Ephesians 6:1</a></li>
+<li><a href="#org560ae6c">6.2. Ephesians 6:2</a></li>
+<li><a href="#org783e23e">6.3. Ephesians 6:3</a></li>
+<li><a href="#orge11c8e7">6.4. Ephesians 6:4</a></li>
+<li><a href="#org2de27a3">6.5. Ephesians 6:5</a></li>
+<li><a href="#org3eedc5f">6.6. Ephesians 6:6</a></li>
+<li><a href="#org1fd9c72">6.7. Ephesians 6:7</a></li>
+<li><a href="#org7af8233">6.8. Ephesians 6:8</a></li>
+<li><a href="#orge43e228">6.9. Ephesians 6:9</a></li>
+<li><a href="#org72b97a9">6.10. Ephesians 6:10</a></li>
+<li><a href="#org0b32162">6.11. Ephesians 6:11</a></li>
+<li><a href="#org8691e4a">6.12. Ephesians 6:12</a></li>
+<li><a href="#org8e5d394">6.13. Ephesians 6:13</a></li>
+<li><a href="#orge16396c">6.14. Ephesians 6:14</a></li>
+<li><a href="#org55f7b25">6.15. Ephesians 6:15</a></li>
+<li><a href="#org639f310">6.16. Ephesians 6:16</a></li>
+<li><a href="#orged85c4d">6.17. Ephesians 6:17</a></li>
+<li><a href="#org10f0d8e">6.18. Ephesians 6:18</a></li>
+<li><a href="#orgec1a241">6.19. Ephesians 6:19</a></li>
+<li><a href="#org7e81eab">6.20. Ephesians 6:20</a></li>
+<li><a href="#org0ffda94">6.21. Ephesians 6:21</a></li>
+<li><a href="#org4ec2d13">6.22. Ephesians 6:22</a></li>
+<li><a href="#org6b46cfd">6.23. Ephesians 6:23</a></li>
+<li><a href="#org4377fd0">6.24. Ephesians 6:24</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org158cef5" class="outline-2">
+<h2 id="org158cef5"><span class="section-number-2">1</span> Ephesians 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org111b78e" class="outline-3">
+<h3 id="org111b78e"><span class="section-number-3">1.1</span> Ephesians 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Paul, an apostle of Jesus Christ, by the will of God, to all the saints who are at Ephesus and to the faithful in Christ Jesus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org464abba" class="outline-3">
+<h3 id="org464abba"><span class="section-number-3">1.2</span> Ephesians 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Grace be to you and peace, from God the Father and from the Lord Jesus Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e27644" class="outline-3">
+<h3 id="org9e27644"><span class="section-number-3">1.3</span> Ephesians 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with spiritual blessings in heavenly places, in Christ:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge49c472" class="outline-3">
+<h3 id="orge49c472"><span class="section-number-3">1.4</span> Ephesians 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+As he chose us in him before the foundation of the world, that we should be holy and unspotted in his sight in charity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f27156" class="outline-3">
+<h3 id="org7f27156"><span class="section-number-3">1.5</span> Ephesians 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Who hath predestinated us unto the adoption of children through Jesus Christ unto himself: according to the purpose of his will:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org93940d7" class="outline-3">
+<h3 id="org93940d7"><span class="section-number-3">1.6</span> Ephesians 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Unto the praise of the glory of his grace, in which he hath graced us, in his beloved son.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0fcd21d" class="outline-3">
+<h3 id="org0fcd21d"><span class="section-number-3">1.7</span> Ephesians 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+In whom we have redemption through his blood, the remission of sins, according to the riches of his, grace,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf5ade11" class="outline-3">
+<h3 id="orgf5ade11"><span class="section-number-3">1.8</span> Ephesians 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+Which hath superabounded in us, in all wisdom and prudence,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org60ae1b6" class="outline-3">
+<h3 id="org60ae1b6"><span class="section-number-3">1.9</span> Ephesians 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+That he might make known unto us the mystery of his will, according to his good pleasure, which he hath purposed in him,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcfad05b" class="outline-3">
+<h3 id="orgcfad05b"><span class="section-number-3">1.10</span> Ephesians 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+In the dispensation of the fulness of times, to re-establish all things in Christ, that are in heaven and on earth, in him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8cf85d3" class="outline-3">
+<h3 id="org8cf85d3"><span class="section-number-3">1.11</span> Ephesians 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+In whom we also are called by lot, being predestinated according to the purpose of him who worketh all things according to the counsel of his will.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb801535" class="outline-3">
+<h3 id="orgb801535"><span class="section-number-3">1.12</span> Ephesians 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+That we may be unto the praise of his glory: we who before hoped in Christ:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfbd9034" class="outline-3">
+<h3 id="orgfbd9034"><span class="section-number-3">1.13</span> Ephesians 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+In whom you also, after you had heard the word of truth (the gospel of your salvation), in whom also believing, you were signed with the holy Spirit of promise.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga7c47e4" class="outline-3">
+<h3 id="orga7c47e4"><span class="section-number-3">1.14</span> Ephesians 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+Who is the pledge of our inheritance, unto the redemption of acquisition, unto the praise of his glory.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3e55dee" class="outline-3">
+<h3 id="org3e55dee"><span class="section-number-3">1.15</span> Ephesians 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+Wherefore, I also, hearing of your faith that is in the Lord Jesus and of your love towards all the saints,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orged7f382" class="outline-3">
+<h3 id="orged7f382"><span class="section-number-3">1.16</span> Ephesians 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+Cease not to give thanks for you, making commemoration of you in my prayers,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeb636ca" class="outline-3">
+<h3 id="orgeb636ca"><span class="section-number-3">1.17</span> Ephesians 1:17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and of revelation, in the knowledge of him:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6b08b07" class="outline-3">
+<h3 id="org6b08b07"><span class="section-number-3">1.18</span> Ephesians 1:18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+The eyes of your heart enlightened that you may know what the hope is of his calling and what are the riches of the glory of his inheritance in the saints.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4affb58" class="outline-3">
+<h3 id="org4affb58"><span class="section-number-3">1.19</span> Ephesians 1:19</h3>
+<div class="outline-text-3" id="text-1-19">
+<p>
+And what is the exceeding greatness of his power towards us, who believe according to the operation of the might of his power,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2157fba" class="outline-3">
+<h3 id="org2157fba"><span class="section-number-3">1.20</span> Ephesians 1:20</h3>
+<div class="outline-text-3" id="text-1-20">
+<p>
+Which he wrought in Christ, raising him up from the dead and setting him on his right hand in the heavenly places.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd4c6447" class="outline-3">
+<h3 id="orgd4c6447"><span class="section-number-3">1.21</span> Ephesians 1:21</h3>
+<div class="outline-text-3" id="text-1-21">
+<p>
+Above all principality and power and virtue and dominion and every name that is named, not only in this world, but also in that which is to come.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb4f9eeb" class="outline-3">
+<h3 id="orgb4f9eeb"><span class="section-number-3">1.22</span> Ephesians 1:22</h3>
+<div class="outline-text-3" id="text-1-22">
+<p>
+And he hath subjected all things under his feet and hath made him head over all the church,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75992a1" class="outline-3">
+<h3 id="org75992a1"><span class="section-number-3">1.23</span> Ephesians 1:23</h3>
+<div class="outline-text-3" id="text-1-23">
+<p>
+Which is his body and the fulness of him who is filled all in all. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgcc0dda5" class="outline-2">
+<h2 id="orgcc0dda5"><span class="section-number-2">2</span> Ephesians 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org179c123" class="outline-3">
+<h3 id="org179c123"><span class="section-number-3">2.1</span> Ephesians 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+And you, when you were dead in your offences and sins,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb1869f5" class="outline-3">
+<h3 id="orgb1869f5"><span class="section-number-3">2.2</span> Ephesians 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Wherein in time past you walked according to the course of this world, according to the prince of the power of this air, of the spirit that now worketh on the children of unbelief:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgee281b8" class="outline-3">
+<h3 id="orgee281b8"><span class="section-number-3">2.3</span> Ephesians 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+In which also we all conversed in time past, in the desires of our flesh, fulfilling the will of the flesh and of our thoughts, and were by nature children of wrath, even as the rest:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org187d7c4" class="outline-3">
+<h3 id="org187d7c4"><span class="section-number-3">2.4</span> Ephesians 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+But God (who is rich in mercy) for his exceeding charity wherewith he loved us
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2e139fd" class="outline-3">
+<h3 id="org2e139fd"><span class="section-number-3">2.5</span> Ephesians 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+Even when we were dead in sins, hath quickened us together in Christ (by whose grace you are saved)
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc160f0d" class="outline-3">
+<h3 id="orgc160f0d"><span class="section-number-3">2.6</span> Ephesians 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+And hath raised us up together and hath made us sit together in the heavenly places, through Christ Jesus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2760944" class="outline-3">
+<h3 id="org2760944"><span class="section-number-3">2.7</span> Ephesians 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+That he might shew in the ages to come the abundant riches of his grace, in his bounty towards us in Christ Jesus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org12e0e0d" class="outline-3">
+<h3 id="org12e0e0d"><span class="section-number-3">2.8</span> Ephesians 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+For by grace you are saved through faith: and that not of yourselves, for it is the gift of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgedd4b6f" class="outline-3">
+<h3 id="orgedd4b6f"><span class="section-number-3">2.9</span> Ephesians 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+Not of works, that no man may glory.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6f0c50d" class="outline-3">
+<h3 id="org6f0c50d"><span class="section-number-3">2.10</span> Ephesians 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+For we are his workmanship, created in Christ Jesus in good works, which God hath prepared that we should walk in them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org843dcdf" class="outline-3">
+<h3 id="org843dcdf"><span class="section-number-3">2.11</span> Ephesians 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+For which cause be mindful that you, being heretofore gentiles is the flesh, who are called uncircumcision by that which is called circumcision in the flesh, made by hands:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org50cc39c" class="outline-3">
+<h3 id="org50cc39c"><span class="section-number-3">2.12</span> Ephesians 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+That you were at that time without Christ, being aliens from the conversation of Israel and strangers to the testament, having no hope of the promise and without God in this world.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org316d749" class="outline-3">
+<h3 id="org316d749"><span class="section-number-3">2.13</span> Ephesians 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+But now in Christ Jesus, you, who some time were afar off, are made nigh by the blood of Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org691c64f" class="outline-3">
+<h3 id="org691c64f"><span class="section-number-3">2.14</span> Ephesians 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+For he is our peace, who hath made both one, and breaking down the middle wall of partition, the enmities in his flesh:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c38a5b" class="outline-3">
+<h3 id="org8c38a5b"><span class="section-number-3">2.15</span> Ephesians 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+Making void the law of commandments contained in decrees: that he might make the two in himself into one new man, making peace
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0ccc923" class="outline-3">
+<h3 id="org0ccc923"><span class="section-number-3">2.16</span> Ephesians 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+And might reconcile both to God in one body by the cross, killing the enmities in himself.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0b75a20" class="outline-3">
+<h3 id="org0b75a20"><span class="section-number-3">2.17</span> Ephesians 2:17</h3>
+<div class="outline-text-3" id="text-2-17">
+<p>
+And coming, he preached peace to you that were afar off: and peace to them that were nigh.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org22f8dc9" class="outline-3">
+<h3 id="org22f8dc9"><span class="section-number-3">2.18</span> Ephesians 2:18</h3>
+<div class="outline-text-3" id="text-2-18">
+<p>
+For by him we have access both in one Spirit to the Father.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3e4077e" class="outline-3">
+<h3 id="org3e4077e"><span class="section-number-3">2.19</span> Ephesians 2:19</h3>
+<div class="outline-text-3" id="text-2-19">
+<p>
+Now therefore you are no more strangers and foreigners: but you are fellow citizens with the saints and the domestics of God,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9134964" class="outline-3">
+<h3 id="org9134964"><span class="section-number-3">2.20</span> Ephesians 2:20</h3>
+<div class="outline-text-3" id="text-2-20">
+<p>
+Built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd3be5f4" class="outline-3">
+<h3 id="orgd3be5f4"><span class="section-number-3">2.21</span> Ephesians 2:21</h3>
+<div class="outline-text-3" id="text-2-21">
+<p>
+In whom all the building, being framed together, groweth up into an holy temple in the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgddde576" class="outline-3">
+<h3 id="orgddde576"><span class="section-number-3">2.22</span> Ephesians 2:22</h3>
+<div class="outline-text-3" id="text-2-22">
+<p>
+In whom you also are built together into an habitation of God in the Spirit. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org33e9a77" class="outline-2">
+<h2 id="org33e9a77"><span class="section-number-2">3</span> Ephesians 3</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org2cecbb7" class="outline-3">
+<h3 id="org2cecbb7"><span class="section-number-3">3.1</span> Ephesians 3:1</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+For this cause, I Paul, the prisoner of Jesus Christ, for you Gentiles:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org667f842" class="outline-3">
+<h3 id="org667f842"><span class="section-number-3">3.2</span> Ephesians 3:2</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+If yet you have heard of the dispensation of the grace of God which is given me towards you:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga1f8b88" class="outline-3">
+<h3 id="orga1f8b88"><span class="section-number-3">3.3</span> Ephesians 3:3</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+How that, according to revelation, the mystery has been made known to me, as I have written above in a few words:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcf17f46" class="outline-3">
+<h3 id="orgcf17f46"><span class="section-number-3">3.4</span> Ephesians 3:4</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+As you reading, may understand my knowledge in the mystery of Christ,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org93b9db7" class="outline-3">
+<h3 id="org93b9db7"><span class="section-number-3">3.5</span> Ephesians 3:5</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+Which in other generations was not known to the sons of men, as it is now revealed to his holy apostles and prophets in the Spirit:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb4d8288" class="outline-3">
+<h3 id="orgb4d8288"><span class="section-number-3">3.6</span> Ephesians 3:6</h3>
+<div class="outline-text-3" id="text-3-6">
+<p>
+That the Gentiles should be fellow heirs and of the same body: and copartners of his promise in Christ Jesus, by the gospel
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga832f50" class="outline-3">
+<h3 id="orga832f50"><span class="section-number-3">3.7</span> Ephesians 3:7</h3>
+<div class="outline-text-3" id="text-3-7">
+<p>
+Of which I am made a minister, according to the gift of the grace of God, which is given to me according to the operation of his power.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org561f65f" class="outline-3">
+<h3 id="org561f65f"><span class="section-number-3">3.8</span> Ephesians 3:8</h3>
+<div class="outline-text-3" id="text-3-8">
+<p>
+To me, the least of all the saints, is given this grace, to preach among the Gentiles the unsearchable riches of Christ:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge9d51ee" class="outline-3">
+<h3 id="orge9d51ee"><span class="section-number-3">3.9</span> Ephesians 3:9</h3>
+<div class="outline-text-3" id="text-3-9">
+<p>
+And to enlighten all men, that they may see what is the dispensation of the mystery which hath been hidden from eternity in God who created all things:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0041f8d" class="outline-3">
+<h3 id="org0041f8d"><span class="section-number-3">3.10</span> Ephesians 3:10</h3>
+<div class="outline-text-3" id="text-3-10">
+<p>
+That the manifold wisdom of God may be made known to the principalities and powers in heavenly places through the church,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0f44596" class="outline-3">
+<h3 id="org0f44596"><span class="section-number-3">3.11</span> Ephesians 3:11</h3>
+<div class="outline-text-3" id="text-3-11">
+<p>
+According to the eternal purpose which he made in Christ Jesus our Lord:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org54325b7" class="outline-3">
+<h3 id="org54325b7"><span class="section-number-3">3.12</span> Ephesians 3:12</h3>
+<div class="outline-text-3" id="text-3-12">
+<p>
+In whom we have boldness and access with confidence by the faith of him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgadb2a35" class="outline-3">
+<h3 id="orgadb2a35"><span class="section-number-3">3.13</span> Ephesians 3:13</h3>
+<div class="outline-text-3" id="text-3-13">
+<p>
+Wherefore I pray you not to faint at my tribulations for you, which is your glory.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga20b44d" class="outline-3">
+<h3 id="orga20b44d"><span class="section-number-3">3.14</span> Ephesians 3:14</h3>
+<div class="outline-text-3" id="text-3-14">
+<p>
+For this cause I bow my knees to the Father of our Lord Jesus Christ,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4bd5ec1" class="outline-3">
+<h3 id="org4bd5ec1"><span class="section-number-3">3.15</span> Ephesians 3:15</h3>
+<div class="outline-text-3" id="text-3-15">
+<p>
+Of whom all paternity in heaven and earth is named:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6d7edb5" class="outline-3">
+<h3 id="org6d7edb5"><span class="section-number-3">3.16</span> Ephesians 3:16</h3>
+<div class="outline-text-3" id="text-3-16">
+<p>
+That he would grant you, according to the riches of his glory, to be strengthened by his Spirit with might unto the inward man:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb0d12a9" class="outline-3">
+<h3 id="orgb0d12a9"><span class="section-number-3">3.17</span> Ephesians 3:17</h3>
+<div class="outline-text-3" id="text-3-17">
+<p>
+That Christ may dwell by faith in your hearts: that, being rooted and founded in charity,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org51e037f" class="outline-3">
+<h3 id="org51e037f"><span class="section-number-3">3.18</span> Ephesians 3:18</h3>
+<div class="outline-text-3" id="text-3-18">
+<p>
+You may be able to comprehend, with all the saints, what is the breadth and length and height and depth,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7d40b91" class="outline-3">
+<h3 id="org7d40b91"><span class="section-number-3">3.19</span> Ephesians 3:19</h3>
+<div class="outline-text-3" id="text-3-19">
+<p>
+To know also the charity of Christ, which surpasseth all knowledge: that you may be filled unto all the fulness of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org202cc1b" class="outline-3">
+<h3 id="org202cc1b"><span class="section-number-3">3.20</span> Ephesians 3:20</h3>
+<div class="outline-text-3" id="text-3-20">
+<p>
+Now to him who is able to do all things more abundantly than we desire or understand, according to the power that worketh in us:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf568265" class="outline-3">
+<h3 id="orgf568265"><span class="section-number-3">3.21</span> Ephesians 3:21</h3>
+<div class="outline-text-3" id="text-3-21">
+<p>
+To him be glory in the church and in Christ Jesus, unto all generations, world without end. Amen. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org2f9b824" class="outline-2">
+<h2 id="org2f9b824"><span class="section-number-2">4</span> Ephesians 4</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org5697ed1" class="outline-3">
+<h3 id="org5697ed1"><span class="section-number-3">4.1</span> Ephesians 4:1</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+I therefore, a prisoner in the Lord, beseech you that you walk worthy of the vocation in which you are called:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org57002af" class="outline-3">
+<h3 id="org57002af"><span class="section-number-3">4.2</span> Ephesians 4:2</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+With all humility and mildness, with patience, supporting one another in charity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e5bd67" class="outline-3">
+<h3 id="org9e5bd67"><span class="section-number-3">4.3</span> Ephesians 4:3</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+Careful to keep the unity of the Spirit in the bond of peace.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf98f0c4" class="outline-3">
+<h3 id="orgf98f0c4"><span class="section-number-3">4.4</span> Ephesians 4:4</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+One body and one Spirit: as you are called in one hope of your calling.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1643440" class="outline-3">
+<h3 id="org1643440"><span class="section-number-3">4.5</span> Ephesians 4:5</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+One Lord, one faith, one baptism.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org692d8b6" class="outline-3">
+<h3 id="org692d8b6"><span class="section-number-3">4.6</span> Ephesians 4:6</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+One God and Father of all, who is above all, and through all, and in us all.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org25d931d" class="outline-3">
+<h3 id="org25d931d"><span class="section-number-3">4.7</span> Ephesians 4:7</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+But to every one of us is given grace, according to the measure of the giving of Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org20f3c48" class="outline-3">
+<h3 id="org20f3c48"><span class="section-number-3">4.8</span> Ephesians 4:8</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+Wherefore he saith: Ascending on high, he led captivity captive: he gave gifts to men.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeb7ca56" class="outline-3">
+<h3 id="orgeb7ca56"><span class="section-number-3">4.9</span> Ephesians 4:9</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+Now that he ascended, what is it, but because he also descended first into the lower parts of the earth?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8cb715e" class="outline-3">
+<h3 id="org8cb715e"><span class="section-number-3">4.10</span> Ephesians 4:10</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+He that descended is the same also that ascended above all the heavens: that he might fill all things.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8b75ad3" class="outline-3">
+<h3 id="org8b75ad3"><span class="section-number-3">4.11</span> Ephesians 4:11</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+And he gave some apostles, and some prophets, and other some evangelists, and other some pastors and doctors:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3e2d367" class="outline-3">
+<h3 id="org3e2d367"><span class="section-number-3">4.12</span> Ephesians 4:12</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+For the perfecting of the saints, for the word of the ministry, for the edifying of the body of Christ:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4da16e5" class="outline-3">
+<h3 id="org4da16e5"><span class="section-number-3">4.13</span> Ephesians 4:13</h3>
+<div class="outline-text-3" id="text-4-13">
+<p>
+Until we all meet into the unity of faith and of the knowledge of the Son of God, unto a perfect man, unto the measure of the age of the fulness of Christ:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4539fcd" class="outline-3">
+<h3 id="org4539fcd"><span class="section-number-3">4.14</span> Ephesians 4:14</h3>
+<div class="outline-text-3" id="text-4-14">
+<p>
+That henceforth we be no more children tossed to and fro and carried about with every wind of doctrine, by the wickedness of men, by cunning craftiness by which they lie in wait to deceive.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org093bdd8" class="outline-3">
+<h3 id="org093bdd8"><span class="section-number-3">4.15</span> Ephesians 4:15</h3>
+<div class="outline-text-3" id="text-4-15">
+<p>
+But doing the truth in charity, we may in all things grow up in him who is the head, even Christ:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3c43c9f" class="outline-3">
+<h3 id="org3c43c9f"><span class="section-number-3">4.16</span> Ephesians 4:16</h3>
+<div class="outline-text-3" id="text-4-16">
+<p>
+From whom the whole body, being compacted and fitly joined together, by what every joint supplieth, according to the operation in the measure of every part, maketh increase of the body, unto the edifying of itself in charity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org95b4462" class="outline-3">
+<h3 id="org95b4462"><span class="section-number-3">4.17</span> Ephesians 4:17</h3>
+<div class="outline-text-3" id="text-4-17">
+<p>
+This then I say and testify in the Lord: That henceforward you walk not as also the Gentiles walk in the vanity of their mind:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4d5cc5f" class="outline-3">
+<h3 id="org4d5cc5f"><span class="section-number-3">4.18</span> Ephesians 4:18</h3>
+<div class="outline-text-3" id="text-4-18">
+<p>
+Having their understanding darkened: being alienated from the life of God through the ignorance that is in them, because of the blindness of their hearts.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf38524d" class="outline-3">
+<h3 id="orgf38524d"><span class="section-number-3">4.19</span> Ephesians 4:19</h3>
+<div class="outline-text-3" id="text-4-19">
+<p>
+Who despairing have given themselves up to lasciviousness, unto the working of all uncleanness, unto covetousness.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaa27661" class="outline-3">
+<h3 id="orgaa27661"><span class="section-number-3">4.20</span> Ephesians 4:20</h3>
+<div class="outline-text-3" id="text-4-20">
+<p>
+But you have not so learned Christ:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf2346e3" class="outline-3">
+<h3 id="orgf2346e3"><span class="section-number-3">4.21</span> Ephesians 4:21</h3>
+<div class="outline-text-3" id="text-4-21">
+<p>
+If so be that you have heard him and have been taught in him, as the truth is in Jesus:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org18d90d0" class="outline-3">
+<h3 id="org18d90d0"><span class="section-number-3">4.22</span> Ephesians 4:22</h3>
+<div class="outline-text-3" id="text-4-22">
+<p>
+To put off, according to former conversation, the old man, who is corrupted according to the desire of error.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda779b0" class="outline-3">
+<h3 id="orgda779b0"><span class="section-number-3">4.23</span> Ephesians 4:23</h3>
+<div class="outline-text-3" id="text-4-23">
+<p>
+And be renewed in spirit of your mind:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org34bdee8" class="outline-3">
+<h3 id="org34bdee8"><span class="section-number-3">4.24</span> Ephesians 4:24</h3>
+<div class="outline-text-3" id="text-4-24">
+<p>
+And put on the new man, who according to God is created in justice and holiness of truth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd4493f2" class="outline-3">
+<h3 id="orgd4493f2"><span class="section-number-3">4.25</span> Ephesians 4:25</h3>
+<div class="outline-text-3" id="text-4-25">
+<p>
+Wherefore, putting away lying, speak ye the truth, every man with his neighbour. For we are members one of another.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcb4a696" class="outline-3">
+<h3 id="orgcb4a696"><span class="section-number-3">4.26</span> Ephesians 4:26</h3>
+<div class="outline-text-3" id="text-4-26">
+<p>
+Be angry: and sin not. Let not the sun go down upon your anger.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc3aaac" class="outline-3">
+<h3 id="orgfc3aaac"><span class="section-number-3">4.27</span> Ephesians 4:27</h3>
+<div class="outline-text-3" id="text-4-27">
+<p>
+Give not place to the devil.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org41f1582" class="outline-3">
+<h3 id="org41f1582"><span class="section-number-3">4.28</span> Ephesians 4:28</h3>
+<div class="outline-text-3" id="text-4-28">
+<p>
+He that stole, let him now steal no more: but rather let him labour, working with his hands the thing which is good, that he may have something to give to him that suffereth need.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd680150" class="outline-3">
+<h3 id="orgd680150"><span class="section-number-3">4.29</span> Ephesians 4:29</h3>
+<div class="outline-text-3" id="text-4-29">
+<p>
+Let no evil speech proceed from your mouth: but that which is good, to the edification of faith: that it may administer grace to the hearers.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5213355" class="outline-3">
+<h3 id="org5213355"><span class="section-number-3">4.30</span> Ephesians 4:30</h3>
+<div class="outline-text-3" id="text-4-30">
+<p>
+And grieve not the holy Spirit of God: whereby you are sealed unto the day of redemption.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgce9a463" class="outline-3">
+<h3 id="orgce9a463"><span class="section-number-3">4.31</span> Ephesians 4:31</h3>
+<div class="outline-text-3" id="text-4-31">
+<p>
+Let all bitterness and anger and indignation and clamour and blasphemy be put away from you, with all malice.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9320591" class="outline-3">
+<h3 id="org9320591"><span class="section-number-3">4.32</span> Ephesians 4:32</h3>
+<div class="outline-text-3" id="text-4-32">
+<p>
+And be ye kind one to another: merciful, forgiving one another, even as God hath forgiven you in Christ. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org82c14e1" class="outline-2">
+<h2 id="org82c14e1"><span class="section-number-2">5</span> Ephesians 5</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org5f6b9ca" class="outline-3">
+<h3 id="org5f6b9ca"><span class="section-number-3">5.1</span> Ephesians 5:1</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Be ye therefore followers of God, as most dear children:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org33b07ec" class="outline-3">
+<h3 id="org33b07ec"><span class="section-number-3">5.2</span> Ephesians 5:2</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+And walk in love, as Christ also hath loved us and hath delivered himself for us, an oblation and a sacrifice to God for an odour of sweetness.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0dc183c" class="outline-3">
+<h3 id="org0dc183c"><span class="section-number-3">5.3</span> Ephesians 5:3</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+But fornication and all uncleanness or covetousness, let it not so much as be named among you, as becometh saints:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9855bb2" class="outline-3">
+<h3 id="org9855bb2"><span class="section-number-3">5.4</span> Ephesians 5:4</h3>
+<div class="outline-text-3" id="text-5-4">
+<p>
+Or obscenity or foolish talking or scurrility, which is to no purpose: but rather giving of thanks.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0851937" class="outline-3">
+<h3 id="org0851937"><span class="section-number-3">5.5</span> Ephesians 5:5</h3>
+<div class="outline-text-3" id="text-5-5">
+<p>
+For know you this and understand: That no fornicator or unclean or covetous person (which is a serving of idols) hath inheritance in the kingdom of Christ and of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b01c54" class="outline-3">
+<h3 id="org3b01c54"><span class="section-number-3">5.6</span> Ephesians 5:6</h3>
+<div class="outline-text-3" id="text-5-6">
+<p>
+Let no man deceive you with vain words. For because of these things cometh the anger of God upon the children of unbelief.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc632d88" class="outline-3">
+<h3 id="orgc632d88"><span class="section-number-3">5.7</span> Ephesians 5:7</h3>
+<div class="outline-text-3" id="text-5-7">
+<p>
+Be ye not therefore partakers with them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb4786ac" class="outline-3">
+<h3 id="orgb4786ac"><span class="section-number-3">5.8</span> Ephesians 5:8</h3>
+<div class="outline-text-3" id="text-5-8">
+<p>
+For you were heretofore darkness, but now light in the Lord. Walk then as children of the light.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1decea1" class="outline-3">
+<h3 id="org1decea1"><span class="section-number-3">5.9</span> Ephesians 5:9</h3>
+<div class="outline-text-3" id="text-5-9">
+<p>
+For the fruit of the light is in all goodness and justice and truth:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0e8a4b7" class="outline-3">
+<h3 id="org0e8a4b7"><span class="section-number-3">5.10</span> Ephesians 5:10</h3>
+<div class="outline-text-3" id="text-5-10">
+<p>
+Proving what is well pleasing to God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1aac8c7" class="outline-3">
+<h3 id="org1aac8c7"><span class="section-number-3">5.11</span> Ephesians 5:11</h3>
+<div class="outline-text-3" id="text-5-11">
+<p>
+And have no fellowship with the unfruitful works of darkness: but rather reprove them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb73d8ef" class="outline-3">
+<h3 id="orgb73d8ef"><span class="section-number-3">5.12</span> Ephesians 5:12</h3>
+<div class="outline-text-3" id="text-5-12">
+<p>
+For the things that are done by them in secret, it is a shame even to speak of.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org74b1806" class="outline-3">
+<h3 id="org74b1806"><span class="section-number-3">5.13</span> Ephesians 5:13</h3>
+<div class="outline-text-3" id="text-5-13">
+<p>
+But all things that are reproved are made manifest by the light: for all that is made manifest is light.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga21f95e" class="outline-3">
+<h3 id="orga21f95e"><span class="section-number-3">5.14</span> Ephesians 5:14</h3>
+<div class="outline-text-3" id="text-5-14">
+<p>
+Wherefore he saith: Rise, thou that sleepest, and arise from the dead: and Christ shall enlighten thee.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgff54786" class="outline-3">
+<h3 id="orgff54786"><span class="section-number-3">5.15</span> Ephesians 5:15</h3>
+<div class="outline-text-3" id="text-5-15">
+<p>
+See therefore, brethren, how you walk circumspectly: not as unwise,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgff644d4" class="outline-3">
+<h3 id="orgff644d4"><span class="section-number-3">5.16</span> Ephesians 5:16</h3>
+<div class="outline-text-3" id="text-5-16">
+<p>
+But as wise: redeeming the time, because the days are evil.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org598b75b" class="outline-3">
+<h3 id="org598b75b"><span class="section-number-3">5.17</span> Ephesians 5:17</h3>
+<div class="outline-text-3" id="text-5-17">
+<p>
+Wherefore, become not unwise: but understanding what is the will of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org693a1b2" class="outline-3">
+<h3 id="org693a1b2"><span class="section-number-3">5.18</span> Ephesians 5:18</h3>
+<div class="outline-text-3" id="text-5-18">
+<p>
+And be not drunk with wine, wherein is luxury: but be ye filled with the Holy Spirit,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org156830e" class="outline-3">
+<h3 id="org156830e"><span class="section-number-3">5.19</span> Ephesians 5:19</h3>
+<div class="outline-text-3" id="text-5-19">
+<p>
+Speaking to yourselves in psalms and hymns and spiritual canticles, singing and making melody in your hearts to the Lord:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd96ade5" class="outline-3">
+<h3 id="orgd96ade5"><span class="section-number-3">5.20</span> Ephesians 5:20</h3>
+<div class="outline-text-3" id="text-5-20">
+<p>
+Giving thanks always for all things, in the name of our Lord Jesus Christ, to God and the Father:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org80412cb" class="outline-3">
+<h3 id="org80412cb"><span class="section-number-3">5.21</span> Ephesians 5:21</h3>
+<div class="outline-text-3" id="text-5-21">
+<p>
+Being subject one to another, in the fear of Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org31af90b" class="outline-3">
+<h3 id="org31af90b"><span class="section-number-3">5.22</span> Ephesians 5:22</h3>
+<div class="outline-text-3" id="text-5-22">
+<p>
+Let women be subject to their husbands, as to the Lord:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7120672" class="outline-3">
+<h3 id="org7120672"><span class="section-number-3">5.23</span> Ephesians 5:23</h3>
+<div class="outline-text-3" id="text-5-23">
+<p>
+Because the husband is the head of the wife, as Christ is the head of the church. He is the saviour of his body.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7d25cd4" class="outline-3">
+<h3 id="org7d25cd4"><span class="section-number-3">5.24</span> Ephesians 5:24</h3>
+<div class="outline-text-3" id="text-5-24">
+<p>
+Therefore as the church is subject to Christ: so also let the wives be to their husbands in all things.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1c1169e" class="outline-3">
+<h3 id="org1c1169e"><span class="section-number-3">5.25</span> Ephesians 5:25</h3>
+<div class="outline-text-3" id="text-5-25">
+<p>
+Husbands, love your wives, as Christ also loved the church and delivered himself up for it:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6ffaf0e" class="outline-3">
+<h3 id="org6ffaf0e"><span class="section-number-3">5.26</span> Ephesians 5:26</h3>
+<div class="outline-text-3" id="text-5-26">
+<p>
+That he might sanctify it, cleansing it by the laver of water in the word of life:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7bb0c3f" class="outline-3">
+<h3 id="org7bb0c3f"><span class="section-number-3">5.27</span> Ephesians 5:27</h3>
+<div class="outline-text-3" id="text-5-27">
+<p>
+That he might present it to himself, a glorious church, not having spot or wrinkle or any such thing; but that it should be holy and without blemish.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc1eb553" class="outline-3">
+<h3 id="orgc1eb553"><span class="section-number-3">5.28</span> Ephesians 5:28</h3>
+<div class="outline-text-3" id="text-5-28">
+<p>
+So also ought men to love their wives as their own bodies. He that loveth his wife loveth himself.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgce28466" class="outline-3">
+<h3 id="orgce28466"><span class="section-number-3">5.29</span> Ephesians 5:29</h3>
+<div class="outline-text-3" id="text-5-29">
+<p>
+For no man ever hated his own flesh, but nourisheth and cherisheth it, as also Christ doth the church:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org013039f" class="outline-3">
+<h3 id="org013039f"><span class="section-number-3">5.30</span> Ephesians 5:30</h3>
+<div class="outline-text-3" id="text-5-30">
+<p>
+Because we are members of him, body, of his flesh and of his bones.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7189faa" class="outline-3">
+<h3 id="org7189faa"><span class="section-number-3">5.31</span> Ephesians 5:31</h3>
+<div class="outline-text-3" id="text-5-31">
+<p>
+For this cause shall a man leave his father and mother: and shall cleave to his wife. And they shall be two in one flesh.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc96a708" class="outline-3">
+<h3 id="orgc96a708"><span class="section-number-3">5.32</span> Ephesians 5:32</h3>
+<div class="outline-text-3" id="text-5-32">
+<p>
+This is a great sacrament: but I speak in Christ and in the church.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3c881f3" class="outline-3">
+<h3 id="org3c881f3"><span class="section-number-3">5.33</span> Ephesians 5:33</h3>
+<div class="outline-text-3" id="text-5-33">
+<p>
+Nevertheless, let every one of you in particular love for his wife as himself: And let the wife fear her husband. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgc8f6c5f" class="outline-2">
+<h2 id="orgc8f6c5f"><span class="section-number-2">6</span> Ephesians 6</h2>
+<div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-org22a1f7e" class="outline-3">
+<h3 id="org22a1f7e"><span class="section-number-3">6.1</span> Ephesians 6:1</h3>
+<div class="outline-text-3" id="text-6-1">
+<p>
+Children, obey your parents in the Lord: for this is just.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org560ae6c" class="outline-3">
+<h3 id="org560ae6c"><span class="section-number-3">6.2</span> Ephesians 6:2</h3>
+<div class="outline-text-3" id="text-6-2">
+<p>
+Honour thy father and thy mother, which is the first commandment with a promise:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org783e23e" class="outline-3">
+<h3 id="org783e23e"><span class="section-number-3">6.3</span> Ephesians 6:3</h3>
+<div class="outline-text-3" id="text-6-3">
+<p>
+That it may be well with thee, and thou mayest be long lived upon earth.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge11c8e7" class="outline-3">
+<h3 id="orge11c8e7"><span class="section-number-3">6.4</span> Ephesians 6:4</h3>
+<div class="outline-text-3" id="text-6-4">
+<p>
+And you, fathers, provoke not your children to anger: but bring them up in the discipline and correction of the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2de27a3" class="outline-3">
+<h3 id="org2de27a3"><span class="section-number-3">6.5</span> Ephesians 6:5</h3>
+<div class="outline-text-3" id="text-6-5">
+<p>
+Servants, be obedient to them that are your lords according to the flesh, with fear and trembling, in the simplicity of your heart, as to Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3eedc5f" class="outline-3">
+<h3 id="org3eedc5f"><span class="section-number-3">6.6</span> Ephesians 6:6</h3>
+<div class="outline-text-3" id="text-6-6">
+<p>
+Not serving to the eye, as it were pleasing men: but, as the servants of Christ, doing the will of God from the heart.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1fd9c72" class="outline-3">
+<h3 id="org1fd9c72"><span class="section-number-3">6.7</span> Ephesians 6:7</h3>
+<div class="outline-text-3" id="text-6-7">
+<p>
+With a good will serving, as to the Lord, and not to men.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7af8233" class="outline-3">
+<h3 id="org7af8233"><span class="section-number-3">6.8</span> Ephesians 6:8</h3>
+<div class="outline-text-3" id="text-6-8">
+<p>
+Knowing that whatsoever good thing any man shall do, the same shall he receive from the Lord, whether he be bond or free.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge43e228" class="outline-3">
+<h3 id="orge43e228"><span class="section-number-3">6.9</span> Ephesians 6:9</h3>
+<div class="outline-text-3" id="text-6-9">
+<p>
+And you, masters, do the same things to them, forbearing threatenings: knowing that the Lord both of them and you is in heaven. And there is no respect of persons with him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org72b97a9" class="outline-3">
+<h3 id="org72b97a9"><span class="section-number-3">6.10</span> Ephesians 6:10</h3>
+<div class="outline-text-3" id="text-6-10">
+<p>
+Finally, brethren, be strengthened in the Lord and in the might of his power.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0b32162" class="outline-3">
+<h3 id="org0b32162"><span class="section-number-3">6.11</span> Ephesians 6:11</h3>
+<div class="outline-text-3" id="text-6-11">
+<p>
+Put you on the armour of God, that you may be able to stand against the deceits of the devil.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8691e4a" class="outline-3">
+<h3 id="org8691e4a"><span class="section-number-3">6.12</span> Ephesians 6:12</h3>
+<div class="outline-text-3" id="text-6-12">
+<p>
+For our wrestling is not against flesh and blood; but against principalities and powers, against the rulers of the world of this darkness, against the spirits of wickedness in the high places.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8e5d394" class="outline-3">
+<h3 id="org8e5d394"><span class="section-number-3">6.13</span> Ephesians 6:13</h3>
+<div class="outline-text-3" id="text-6-13">
+<p>
+Therefore, take unto you the armour of God, that you may be able to resist in the evil day and to stand in all things perfect.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge16396c" class="outline-3">
+<h3 id="orge16396c"><span class="section-number-3">6.14</span> Ephesians 6:14</h3>
+<div class="outline-text-3" id="text-6-14">
+<p>
+Stand therefore, having your loins girt about with truth and having on the breastplate of justice:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org55f7b25" class="outline-3">
+<h3 id="org55f7b25"><span class="section-number-3">6.15</span> Ephesians 6:15</h3>
+<div class="outline-text-3" id="text-6-15">
+<p>
+And your feet shod with the preparation of the gospel of peace.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org639f310" class="outline-3">
+<h3 id="org639f310"><span class="section-number-3">6.16</span> Ephesians 6:16</h3>
+<div class="outline-text-3" id="text-6-16">
+<p>
+In all things taking the shield of faith, wherewith you may be able to extinguish all the fiery darts of the most wicked one.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orged85c4d" class="outline-3">
+<h3 id="orged85c4d"><span class="section-number-3">6.17</span> Ephesians 6:17</h3>
+<div class="outline-text-3" id="text-6-17">
+<p>
+And take unto you the helmet of salvation and the sword of the Spirit (which is the word of God).
+</p>
+</div>
+</div>
+
+<div id="outline-container-org10f0d8e" class="outline-3">
+<h3 id="org10f0d8e"><span class="section-number-3">6.18</span> Ephesians 6:18</h3>
+<div class="outline-text-3" id="text-6-18">
+<p>
+By all prayer and supplication praying at all times in the spirit: and in the same watching with all instance and supplication for all the saints:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgec1a241" class="outline-3">
+<h3 id="orgec1a241"><span class="section-number-3">6.19</span> Ephesians 6:19</h3>
+<div class="outline-text-3" id="text-6-19">
+<p>
+And for me, that speech may be given me, that I may open my mouth with confidence, to make known the mystery of the gospel,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7e81eab" class="outline-3">
+<h3 id="org7e81eab"><span class="section-number-3">6.20</span> Ephesians 6:20</h3>
+<div class="outline-text-3" id="text-6-20">
+<p>
+For which I am an ambassador in a chain: so that therein I may be bold to speak according as I ought.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0ffda94" class="outline-3">
+<h3 id="org0ffda94"><span class="section-number-3">6.21</span> Ephesians 6:21</h3>
+<div class="outline-text-3" id="text-6-21">
+<p>
+But that you also may know the things that concern me and what I am doing, Tychicus, my dearest brother and faithful minister in the Lord, will make known to you all things:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4ec2d13" class="outline-3">
+<h3 id="org4ec2d13"><span class="section-number-3">6.22</span> Ephesians 6:22</h3>
+<div class="outline-text-3" id="text-6-22">
+<p>
+Whom I have sent to you for this same purpose: that you may know the things concerning us, and that he may comfort your hearts.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6b46cfd" class="outline-3">
+<h3 id="org6b46cfd"><span class="section-number-3">6.23</span> Ephesians 6:23</h3>
+<div class="outline-text-3" id="text-6-23">
+<p>
+Peace be to the brethren and charity with faith, from God the Father and the Lord Jesus Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4377fd0" class="outline-3">
+<h3 id="org4377fd0"><span class="section-number-3">6.24</span> Ephesians 6:24</h3>
+<div class="outline-text-3" id="text-6-24">
+<p>
+Grace be with all them that love our Lord Jesus Christ in incorruption. Amen.  
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:36</p>
+</div>
+</body>
+</html>

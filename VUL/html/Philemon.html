@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:38 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org3c9fec2">1. Philemon 1</a>
+<ul>
+<li><a href="#orgb1da086">1.1. Philemon 1:1</a></li>
+<li><a href="#org78bce1b">1.2. Philemon 1:2</a></li>
+<li><a href="#orgec1f7f5">1.3. Philemon 1:3</a></li>
+<li><a href="#org7c615fc">1.4. Philemon 1:4</a></li>
+<li><a href="#orgcebbd5d">1.5. Philemon 1:5</a></li>
+<li><a href="#orgc986f97">1.6. Philemon 1:6</a></li>
+<li><a href="#org4518773">1.7. Philemon 1:7</a></li>
+<li><a href="#orga8d8f88">1.8. Philemon 1:8</a></li>
+<li><a href="#orgb6d6b1e">1.9. Philemon 1:9</a></li>
+<li><a href="#org36d691a">1.10. Philemon 1:10</a></li>
+<li><a href="#org37067b1">1.11. Philemon 1:11</a></li>
+<li><a href="#org23273aa">1.12. Philemon 1:12</a></li>
+<li><a href="#orga9d13c0">1.13. Philemon 1:13</a></li>
+<li><a href="#orgb267dab">1.14. Philemon 1:14</a></li>
+<li><a href="#orgfb101b4">1.15. Philemon 1:15</a></li>
+<li><a href="#org706e4de">1.16. Philemon 1:16</a></li>
+<li><a href="#org41a3792">1.17. Philemon 1:17</a></li>
+<li><a href="#org3150638">1.18. Philemon 1:18</a></li>
+<li><a href="#orgdb3c8c9">1.19. Philemon 1:19</a></li>
+<li><a href="#org369a26f">1.20. Philemon 1:20</a></li>
+<li><a href="#org82c84ec">1.21. Philemon 1:21</a></li>
+<li><a href="#orgc9a155a">1.22. Philemon 1:22</a></li>
+<li><a href="#orgef470bf">1.23. Philemon 1:23</a></li>
+<li><a href="#orga3a6a66">1.24. Philemon 1:24</a></li>
+<li><a href="#org2d3f8a7">1.25. Philemon 1:25</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org3c9fec2" class="outline-2">
+<h2 id="org3c9fec2"><span class="section-number-2">1</span> Philemon 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgb1da086" class="outline-3">
+<h3 id="orgb1da086"><span class="section-number-3">1.1</span> Philemon 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Paulus vinctus Christi Jesu, et Timotheus frater, Philemoni dilecto, et adjutori nostro,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org78bce1b" class="outline-3">
+<h3 id="org78bce1b"><span class="section-number-3">1.2</span> Philemon 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+et Appiæ sorori carissimæ, et Archippo commilitoni nostro, et ecclesiæ, quæ in domo tua est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgec1f7f5" class="outline-3">
+<h3 id="orgec1f7f5"><span class="section-number-3">1.3</span> Philemon 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7c615fc" class="outline-3">
+<h3 id="org7c615fc"><span class="section-number-3">1.4</span> Philemon 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Gratias ago Deo meo, semper memoriam tui faciens in orationibus meis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcebbd5d" class="outline-3">
+<h3 id="orgcebbd5d"><span class="section-number-3">1.5</span> Philemon 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+audiens caritatem tuam, et fidem, quam habes in Domino Jesu, et in omnes sanctos :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc986f97" class="outline-3">
+<h3 id="orgc986f97"><span class="section-number-3">1.6</span> Philemon 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+ut communicatio fidei tuæ evidens fiat in agnitione omnis operis boni, quod est in vobis in Christo Jesu.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4518773" class="outline-3">
+<h3 id="org4518773"><span class="section-number-3">1.7</span> Philemon 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+Gaudium enim magnum habui, et consolationem in caritate tua : quia viscera sanctorum requieverunt per te, frater.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga8d8f88" class="outline-3">
+<h3 id="orga8d8f88"><span class="section-number-3">1.8</span> Philemon 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+Propter quod multam fiduciam habens in Christo Jesu imperandi tibi quod ad rem pertinet :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb6d6b1e" class="outline-3">
+<h3 id="orgb6d6b1e"><span class="section-number-3">1.9</span> Philemon 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+propter caritatem magis obsecro, cum sis talis, ut Paulus senex, nunc autem et vinctus Jesu Christi :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org36d691a" class="outline-3">
+<h3 id="org36d691a"><span class="section-number-3">1.10</span> Philemon 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+obsecro te pro meo filio, quem genui in vinculis, Onesimo,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org37067b1" class="outline-3">
+<h3 id="org37067b1"><span class="section-number-3">1.11</span> Philemon 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+qui tibi aliquando inutilis fuit, nunc autem et mihi et tibi utilis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org23273aa" class="outline-3">
+<h3 id="org23273aa"><span class="section-number-3">1.12</span> Philemon 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+quem remisi tibi. Tu autem illum, ut mea viscera, suscipe :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga9d13c0" class="outline-3">
+<h3 id="orga9d13c0"><span class="section-number-3">1.13</span> Philemon 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+quem ego volueram mecum detinere, ut pro te mihi ministraret in vinculis Evangelii :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb267dab" class="outline-3">
+<h3 id="orgb267dab"><span class="section-number-3">1.14</span> Philemon 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+sine consilio autem tuo nihil volui facere, uti ne velut ex necessitate bonum tuum esset, sed voluntarium.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb101b4" class="outline-3">
+<h3 id="orgfb101b4"><span class="section-number-3">1.15</span> Philemon 1:15</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+Forsitan enim ideo discessit ad horam a te, ut æternum illum reciperes :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org706e4de" class="outline-3">
+<h3 id="org706e4de"><span class="section-number-3">1.16</span> Philemon 1:16</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+jam non ut servum, sed pro servo carissimum fratrem, maxime mihi : quanto autem magis tibi et in carne, et in Domino ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org41a3792" class="outline-3">
+<h3 id="org41a3792"><span class="section-number-3">1.17</span> Philemon 1:17</h3>
+<div class="outline-text-3" id="text-1-17">
+<p>
+Si ergo habes me socium, suscipe illum sicut me :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3150638" class="outline-3">
+<h3 id="org3150638"><span class="section-number-3">1.18</span> Philemon 1:18</h3>
+<div class="outline-text-3" id="text-1-18">
+<p>
+si autem aliquid nocuit tibi, aut debet, hoc mihi imputa.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdb3c8c9" class="outline-3">
+<h3 id="orgdb3c8c9"><span class="section-number-3">1.19</span> Philemon 1:19</h3>
+<div class="outline-text-3" id="text-1-19">
+<p>
+Ego Paulus scripsi mea manu : ego reddam, ut non dicam tibi, quod et teipsum mihi debes :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org369a26f" class="outline-3">
+<h3 id="org369a26f"><span class="section-number-3">1.20</span> Philemon 1:20</h3>
+<div class="outline-text-3" id="text-1-20">
+<p>
+ita, frater. Ego te fruar in Domino : refice viscera mea in Domino.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org82c84ec" class="outline-3">
+<h3 id="org82c84ec"><span class="section-number-3">1.21</span> Philemon 1:21</h3>
+<div class="outline-text-3" id="text-1-21">
+<p>
+Confidens in obedientia tua scripsi tibi : sciens quoniam et super id, quod dico, facies.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc9a155a" class="outline-3">
+<h3 id="orgc9a155a"><span class="section-number-3">1.22</span> Philemon 1:22</h3>
+<div class="outline-text-3" id="text-1-22">
+<p>
+Simul autem et para mihi hospitium : nam spero per orationes vestras donari me vobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgef470bf" class="outline-3">
+<h3 id="orgef470bf"><span class="section-number-3">1.23</span> Philemon 1:23</h3>
+<div class="outline-text-3" id="text-1-23">
+<p>
+Salutat te Epaphras concaptivus meus in Christo Jesu,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga3a6a66" class="outline-3">
+<h3 id="orga3a6a66"><span class="section-number-3">1.24</span> Philemon 1:24</h3>
+<div class="outline-text-3" id="text-1-24">
+<p>
+Marcus, Aristarchus, Demas, et Lucas, adjutores mei.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2d3f8a7" class="outline-3">
+<h3 id="org2d3f8a7"><span class="section-number-3">1.25</span> Philemon 1:25</h3>
+<div class="outline-text-3" id="text-1-25">
+<p>
+Gratia Domini nostri Jesu Christi cum spiritu vestro. Amen.    
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:38</p>
+</div>
+</body>
+</html>

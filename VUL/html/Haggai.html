@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-12-11 Fri 11:38 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Adam Mertzenich" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orga751b08">1. Haggai 1</a>
+<ul>
+<li><a href="#orgc9ae093">1.1. Haggai 1:1</a></li>
+<li><a href="#org3152130">1.2. Haggai 1:2</a></li>
+<li><a href="#orgdbc436b">1.3. Haggai 1:3</a></li>
+<li><a href="#orgdc348ef">1.4. Haggai 1:4</a></li>
+<li><a href="#org28a8c75">1.5. Haggai 1:5</a></li>
+<li><a href="#org4dc9abc">1.6. Haggai 1:6</a></li>
+<li><a href="#org71fdfbb">1.7. Haggai 1:7</a></li>
+<li><a href="#org9e1e91e">1.8. Haggai 1:8</a></li>
+<li><a href="#org87c5ceb">1.9. Haggai 1:9</a></li>
+<li><a href="#orgfcb8da9">1.10. Haggai 1:10</a></li>
+<li><a href="#orgfbb7010">1.11. Haggai 1:11</a></li>
+<li><a href="#orgb380bc8">1.12. Haggai 1:12</a></li>
+<li><a href="#org0c45bc3">1.13. Haggai 1:13</a></li>
+<li><a href="#org5994ddb">1.14. Haggai 1:14</a></li>
+</ul>
+</li>
+<li><a href="#org91651e1">2. Haggai 2</a>
+<ul>
+<li><a href="#orgaacef9c">2.1. Haggai 2:1</a></li>
+<li><a href="#org181f106">2.2. Haggai 2:2</a></li>
+<li><a href="#orgefe0791">2.3. Haggai 2:3</a></li>
+<li><a href="#orgb65fb57">2.4. Haggai 2:4</a></li>
+<li><a href="#org535a5b9">2.5. Haggai 2:5</a></li>
+<li><a href="#orgd214a63">2.6. Haggai 2:6</a></li>
+<li><a href="#orgd8bdbc0">2.7. Haggai 2:7</a></li>
+<li><a href="#orgc514add">2.8. Haggai 2:8</a></li>
+<li><a href="#orga61e8e1">2.9. Haggai 2:9</a></li>
+<li><a href="#org542cfdd">2.10. Haggai 2:10</a></li>
+<li><a href="#orgd304640">2.11. Haggai 2:11</a></li>
+<li><a href="#org8d6a9b2">2.12. Haggai 2:12</a></li>
+<li><a href="#orgc94c233">2.13. Haggai 2:13</a></li>
+<li><a href="#org052d05d">2.14. Haggai 2:14</a></li>
+<li><a href="#orgd8fd32e">2.15. Haggai 2:15</a></li>
+<li><a href="#org8caa72f">2.16. Haggai 2:16</a></li>
+<li><a href="#orgac2a7e5">2.17. Haggai 2:17</a></li>
+<li><a href="#org0467d26">2.18. Haggai 2:18</a></li>
+<li><a href="#org3d04486">2.19. Haggai 2:19</a></li>
+<li><a href="#orgeff7ee7">2.20. Haggai 2:20</a></li>
+<li><a href="#org48f4cf0">2.21. Haggai 2:21</a></li>
+<li><a href="#orgfb108de">2.22. Haggai 2:22</a></li>
+<li><a href="#orgcf209cd">2.23. Haggai 2:23</a></li>
+<li><a href="#orgca8e06d">2.24. Haggai 2:24</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orga751b08" class="outline-2">
+<h2 id="orga751b08"><span class="section-number-2">1</span> Haggai 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgc9ae093" class="outline-3">
+<h3 id="orgc9ae093"><span class="section-number-3">1.1</span> Haggai 1:1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+In anno secundo Darii regis, in mense sexto, in die una mensis, factum est verbum Domini in manu Aggæi prophetæ, ad Zorobabel, filium Salathiel, ducem Juda, et ad Jesum, filium Josedec, sacerdotem magnum, dicens :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3152130" class="outline-3">
+<h3 id="org3152130"><span class="section-number-3">1.2</span> Haggai 1:2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Hæc ait Dominus exercituum, dicens : Populus iste dicit : Nondum venit tempus domus Domini ædificandæ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdbc436b" class="outline-3">
+<h3 id="orgdbc436b"><span class="section-number-3">1.3</span> Haggai 1:3</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Et factum est verbum Domini in manu Aggæi prophetæ, dicens :  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdc348ef" class="outline-3">
+<h3 id="orgdc348ef"><span class="section-number-3">1.4</span> Haggai 1:4</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Numquid tempus vobis est ut habitetis in domibus laqueatis,  et domus ista deserta ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org28a8c75" class="outline-3">
+<h3 id="org28a8c75"><span class="section-number-3">1.5</span> Haggai 1:5</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Et nunc hæc dicit Dominus exercituum :  Ponite corda vestra super vias vestras. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4dc9abc" class="outline-3">
+<h3 id="org4dc9abc"><span class="section-number-3">1.6</span> Haggai 1:6</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Seminastis multum, et intulistis parum ;  comedistis, et non estis satiati ;  bibistis, et non estis inebriati ;  operuistis vos, et non estis calefacti ;  et qui mercedes congregavit, misit eas in sacculum pertusum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org71fdfbb" class="outline-3">
+<h3 id="org71fdfbb"><span class="section-number-3">1.7</span> Haggai 1:7</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+Hæc dicit Dominus exercituum :  Ponite corda vestra super vias vestras ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e1e91e" class="outline-3">
+<h3 id="org9e1e91e"><span class="section-number-3">1.8</span> Haggai 1:8</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+ascendite in montem, portate ligna, et ædificate domum :  et acceptabilis mihi erit, et glorificabor, dicit Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org87c5ceb" class="outline-3">
+<h3 id="org87c5ceb"><span class="section-number-3">1.9</span> Haggai 1:9</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+Respexistis ad amplius, et ecce factum est minus ;  et intulistis in domum, et exsufflavi illud :  quam ob causam ? dicit Dominus exercituum :  quia domus mea deserta est,  et vos festinatis unusquisque in domum suam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfcb8da9" class="outline-3">
+<h3 id="orgfcb8da9"><span class="section-number-3">1.10</span> Haggai 1:10</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+Propter hoc super vos prohibiti sunt cæli ne darent rorem,  et terra prohibita est ne daret germen suum : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfbb7010" class="outline-3">
+<h3 id="orgfbb7010"><span class="section-number-3">1.11</span> Haggai 1:11</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+et vocavi siccitatem super terram, et super montes,  et super triticum, et super vinum, et super oleum,  et quæcumque profert humus,  et super homines, et super jumenta,  et super omnem laborem manuum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb380bc8" class="outline-3">
+<h3 id="orgb380bc8"><span class="section-number-3">1.12</span> Haggai 1:12</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+Et audivit Zorobabel, filius Salathiel, et Jesus, filius Josedec, sacerdos magnus, et omnes reliquiæ populi, vocem Domini Dei sui, et verba Aggæi prophetæ, sicut misit eum Dominus Deus eorum ad eos, et timuit populus a facie Domini.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0c45bc3" class="outline-3">
+<h3 id="org0c45bc3"><span class="section-number-3">1.13</span> Haggai 1:13</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+Et dixit Aggæus, nuntius Domini de nuntiis Domini, populo dicens : Ego vobiscum sum, dicit Dominus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5994ddb" class="outline-3">
+<h3 id="org5994ddb"><span class="section-number-3">1.14</span> Haggai 1:14</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+Et suscitavit Dominus spiritum Zorobabel, filii Salathiel, ducis Juda, et spiritum Jesu, filii Josedec, sacerdotis magni, et spiritum reliquorum de omni populo : et ingressi sunt, et faciebant opus in domo Domini exercituum, Dei sui.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org91651e1" class="outline-2">
+<h2 id="org91651e1"><span class="section-number-2">2</span> Haggai 2</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-orgaacef9c" class="outline-3">
+<h3 id="orgaacef9c"><span class="section-number-3">2.1</span> Haggai 2:1</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org181f106" class="outline-3">
+<h3 id="org181f106"><span class="section-number-3">2.2</span> Haggai 2:2</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+In septimo mense, vigesima et prima mensis, factum est verbum Domini in manu Aggæi prophetæ, dicens :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgefe0791" class="outline-3">
+<h3 id="orgefe0791"><span class="section-number-3">2.3</span> Haggai 2:3</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+Loquere ad Zorobabel, filium Salathiel, ducem Juda, et ad Jesum, filium Josedec, sacerdotem magnum, et ad reliquos populi, dicens :  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb65fb57" class="outline-3">
+<h3 id="orgb65fb57"><span class="section-number-3">2.4</span> Haggai 2:4</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+Quis in vobis est derelictus,  qui vidit domum istam in gloria sua prima ?  et quid vos videtis hanc nunc ?  numquid non ita est, quasi non sit in oculis vestris ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org535a5b9" class="outline-3">
+<h3 id="org535a5b9"><span class="section-number-3">2.5</span> Haggai 2:5</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+Et nunc confortare, Zorobabel, dicit Dominus ;  et confortare, Jesu, fili Josedec, sacerdos magne ;  et confortare, omnis populus terræ, dicit Dominus exercituum :  et facite (quoniam ego vobiscum sum, dicit Dominus exercituum) 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd214a63" class="outline-3">
+<h3 id="orgd214a63"><span class="section-number-3">2.6</span> Haggai 2:6</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+verbum quod pepigi vobiscum cum egrederemini de terra Ægypti :  et spiritus meus erit in medio vestrum : nolite timere. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd8bdbc0" class="outline-3">
+<h3 id="orgd8bdbc0"><span class="section-number-3">2.7</span> Haggai 2:7</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+Quia hæc dicit Dominus exercituum :  Adhuc unum modicum est,  et ego commovebo cælum, et terram, et mare, et aridam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc514add" class="outline-3">
+<h3 id="orgc514add"><span class="section-number-3">2.8</span> Haggai 2:8</h3>
+<div class="outline-text-3" id="text-2-8">
+<p>
+Et movebo omnes gentes,  et veniet desideratus cunctis gentibus :  et implebo domum istam gloria,  dicit Dominus exercituum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga61e8e1" class="outline-3">
+<h3 id="orga61e8e1"><span class="section-number-3">2.9</span> Haggai 2:9</h3>
+<div class="outline-text-3" id="text-2-9">
+<p>
+Meum est argentum, et meum est aurum,  dicit Dominus exercituum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org542cfdd" class="outline-3">
+<h3 id="org542cfdd"><span class="section-number-3">2.10</span> Haggai 2:10</h3>
+<div class="outline-text-3" id="text-2-10">
+<p>
+Magna erit gloria domus istius novissimæ plus quam primæ,  dicit Dominus exercituum :  et in loco isto dabo pacem,  dicit Dominus exercituum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd304640" class="outline-3">
+<h3 id="orgd304640"><span class="section-number-3">2.11</span> Haggai 2:11</h3>
+<div class="outline-text-3" id="text-2-11">
+<p>
+In vigesima et quarta noni mensis, in anno secundo Darii regis, factum est verbum Domini ad Aggæum prophetam, dicens :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8d6a9b2" class="outline-3">
+<h3 id="org8d6a9b2"><span class="section-number-3">2.12</span> Haggai 2:12</h3>
+<div class="outline-text-3" id="text-2-12">
+<p>
+Hæc dicit Dominus exercituum : Interroga sacerdotes legem, dicens :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc94c233" class="outline-3">
+<h3 id="orgc94c233"><span class="section-number-3">2.13</span> Haggai 2:13</h3>
+<div class="outline-text-3" id="text-2-13">
+<p>
+Si tulerit homo carnem sanctificatam in ora vestimenti sui, et tetigerit de summitate ejus panem, aut pulmentum, aut vinum, aut oleum, aut omnem cibum, numquid sanctificabitur ? Respondentes autem sacerdotes, dixerunt : Non.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org052d05d" class="outline-3">
+<h3 id="org052d05d"><span class="section-number-3">2.14</span> Haggai 2:14</h3>
+<div class="outline-text-3" id="text-2-14">
+<p>
+Et dixit Aggæus : Si tetigerit pollutus in anima ex omnibus his, numquid contaminabitur ? Et responderunt sacerdotes, et dixerunt : Contaminabitur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd8fd32e" class="outline-3">
+<h3 id="orgd8fd32e"><span class="section-number-3">2.15</span> Haggai 2:15</h3>
+<div class="outline-text-3" id="text-2-15">
+<p>
+Et respondit Aggæus, et dixit :   Sic populus iste,  et sic gens ista ante faciem meam, dicit Dominus,  et sic omne opus manuum eorum :  et omnia quæ obtulerunt ibi, contaminata erunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8caa72f" class="outline-3">
+<h3 id="org8caa72f"><span class="section-number-3">2.16</span> Haggai 2:16</h3>
+<div class="outline-text-3" id="text-2-16">
+<p>
+Et nunc ponite corda vestra a die hac et supra,  antequam poneretur lapis super lapidem in templo Domini. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgac2a7e5" class="outline-3">
+<h3 id="orgac2a7e5"><span class="section-number-3">2.17</span> Haggai 2:17</h3>
+<div class="outline-text-3" id="text-2-17">
+<p>
+Cum accederetis ad acervum viginti modiorum,  et fierent decem ;  et intraretis ad torcular, ut exprimeretis quinquaginta lagenas,  et fiebant viginti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0467d26" class="outline-3">
+<h3 id="org0467d26"><span class="section-number-3">2.18</span> Haggai 2:18</h3>
+<div class="outline-text-3" id="text-2-18">
+<p>
+Percussi vos vento urente, et aurugine,  et grandine omnia opera manuum vestrarum :  et non fuit in vobis qui reverteretur ad me, dicit Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3d04486" class="outline-3">
+<h3 id="org3d04486"><span class="section-number-3">2.19</span> Haggai 2:19</h3>
+<div class="outline-text-3" id="text-2-19">
+<p>
+Ponite corda vestra ex die ista, et in futurum,  a die vigesima et quarta noni mensis :  a die qua fundamenta jacta sunt templi Domini,  ponite super cor vestrum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeff7ee7" class="outline-3">
+<h3 id="orgeff7ee7"><span class="section-number-3">2.20</span> Haggai 2:20</h3>
+<div class="outline-text-3" id="text-2-20">
+<p>
+Numquid jam semen in germine est,  et adhuc vinea, et ficus,  et malogranatum, et lignum olivæ non floruit ? ex die ista benedicam.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org48f4cf0" class="outline-3">
+<h3 id="org48f4cf0"><span class="section-number-3">2.21</span> Haggai 2:21</h3>
+<div class="outline-text-3" id="text-2-21">
+<p>
+Et factum est verbum Domini secundo ad Aggæum in vigesima et quarta mensis, dicens :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb108de" class="outline-3">
+<h3 id="orgfb108de"><span class="section-number-3">2.22</span> Haggai 2:22</h3>
+<div class="outline-text-3" id="text-2-22">
+<p>
+Loquere ad Zorobabel ducem Juda, dicens :   Ego movebo cælum pariter et terram, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcf209cd" class="outline-3">
+<h3 id="orgcf209cd"><span class="section-number-3">2.23</span> Haggai 2:23</h3>
+<div class="outline-text-3" id="text-2-23">
+<p>
+et subvertam solium regnorum,  et conteram fortitudinem regni gentium :  et subvertam quadrigam et ascensorem ejus,  et descendent equi, et ascensores eorum,  vir in gladio fratris sui. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgca8e06d" class="outline-3">
+<h3 id="orgca8e06d"><span class="section-number-3">2.24</span> Haggai 2:24</h3>
+<div class="outline-text-3" id="text-2-24">
+<p>
+In die illa, dicit Dominus exercituum, assumam te,  Zorobabel, fili Salathiel, serve meus, dicit Dominus :  et ponam te quasi signaculum,  quia te elegi, dicit Dominus exercituum.    
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Mertzenich</p>
+<p class="date">Created: 2020-12-11 Fri 11:38</p>
+</div>
+</body>
+</html>
