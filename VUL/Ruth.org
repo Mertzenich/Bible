@@ -1,3 +1,5 @@
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup 
+
 * Ruth 1
 
 ** Ruth 1:1

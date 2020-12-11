@@ -1,3 +1,5 @@
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup 
+
 ** Wisdom 1
 
 *** Wisdom 1:1

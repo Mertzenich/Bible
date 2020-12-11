@@ -1,3 +1,5 @@
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup 
+
 * I Timothy 1
 
 ** I Timothy 1:1

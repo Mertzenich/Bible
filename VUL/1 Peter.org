@@ -1,3 +1,5 @@
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup 
+
 * I Peter 1
 
 ** I Peter 1:1

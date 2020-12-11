@@ -1,3 +1,5 @@
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup 
+
 ** Micah 1
 
 *** Micah 1:1
