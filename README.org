@@ -4,7 +4,9 @@
 This project is a set of translations of the Holy Bible in a convenient Emacs ORG mode format.
 
 * How it's made
-This project was made possible by using [[https://github.com/alphapapa/sword-to-org][sword-to-org]] with some slight modifications.
+This project was made possible by using a fork of [[https://github.com/alphapapa/sword-to-org][sword-to-org]] with some slight modifications.
+
+https://github.com/Mertzenich/bible-to-org
 
 ** How to make your own
 
@@ -86,37 +88,7 @@ touch "Genesis.org" \
 "Jude.org" \
 "Revelation.org"
 #+END_SRC
-4. Next I use a modified version of sword-to-org to allow me to quickly operate on each file appropriatly. Below is the source code for the modified function. Comments I have added are marked by ';;!'. Make sure you edit the substring to get the file name properly. If theres a better way of doing this let me know, I am sure there is.
-   #+BEGIN_SRC emacs-lisp
-(defun sword-to-org-insert-outline (module key)
-    "Insert Org outline in current buffer for Sword MODULE and KEY.
-    The buffer will be switched to `text-mode' before inserting, to
-    improve performance, and then switched back to `org-mode' if
-    it was active."
-    (interactive (list (if (or current-prefix-arg
-                                (not sword-to-org-default-module))
-                            (completing-read "Module: " (sword-to-org--diatheke-get-modules))
-                        sword-to-org-default-module)
-                        (substring (buffer-file-name) 44 -4))) ;;! hard coded file name grabber, probably a better way to do this but it works.
-    (let ((was-org-mode (eq major-mode 'org-mode)))
-        (when was-org-mode
-        (text-mode))
-        (cl-loop with last-book
-                with last-chapter
-                for passage in (sword-to-org--diatheke-parse-text
-                                (sword-to-org--diatheke-get-text module key))
-                do (-let (((&plist :book book :chapter chapter :verse verse :text text) passage))
-                    ;; (unless (equal book last-book) ;;! commented out stuff i dont want to show up in each file since this is being used as an entire book of the bible rather than inserting outlines of selected passages.
-                    ;;   (insert (format "%s\n\n" book))
-                    ;;   (setq last-chapter nil)
-                    ;;   (setq last-book book))
-                    (unless (equal chapter last-chapter)
-                        (insert (format "* %s %s\n\n" book chapter)) ;;! removed one * to format correctly with above commented out code
-                        (setq last-chapter chapter))
-                    (insert (format "** %s %s:%s\n\n%s\n\n" book chapter verse text))))
-        (when was-org-mode
-        (org-mode))))
-    #+END_SRC
+4. Get my [[https://github.com/Mertzenich/bible-to-org][fork of sword-to-org]] which will automatically create an outline from the buffer name (buffer title is "Genesis.org" it will insert an outline for Genesis).
 5. Open every org file in emacs using the command "emacs *" when in the right directory.
 6. Load your modified sword-to-org (load-file)
 7. Run ibuffer and mark every book. Now you can run "ibuffer-do-eval" to run a command on every single buffer selected.
