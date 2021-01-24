@@ -1,3 +1,4 @@
+#+TITLE: [[[../index.org][Index]]] Book: Malachi
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+OPTIONS: num:nil
 
