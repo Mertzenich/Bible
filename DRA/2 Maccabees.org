@@ -1,4 +1,4 @@
-#+TITLE: [[[../index.org][Index]]] Book: 2 Maccabees
+#+TITLE: [[[../][Index]]] Book: 2 Maccabees
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+OPTIONS: num:nil
 

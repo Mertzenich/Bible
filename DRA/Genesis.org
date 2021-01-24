@@ -1,4 +1,4 @@
-#+TITLE: [[[../index.org][Index]]] Book: Genesis
+#+TITLE: [[[../][Index]]] Book: Genesis
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+OPTIONS: num:nil
 
@@ -126,7 +126,7 @@ And to all beasts of the earth, and to every fowl of the air, and to all that mo
 
 *** Genesis 1:31
 
-And God saw all the things that he had made, and they were very good. And the evening and morning were the sixth day. 
+And God saw all the things that he had made, and they were very good. And the evening and morning were the sixth day.
 
 ** Genesis 2
 
@@ -228,7 +228,7 @@ Wherefore a man shall leave father and mother, and shall cleave to his wife: and
 
 *** Genesis 2:25
 
-And they were both naked: to wit, Adam and his wife: and were not ashamed. 
+And they were both naked: to wit, Adam and his wife: and were not ashamed.
 
 ** Genesis 3
 
@@ -326,7 +326,7 @@ And the Lord God sent him out of the paradise of pleasure, to till the earth fro
 
 *** Genesis 3:24
 
-And he cast out Adam: and placed before the paradise of pleasure Cherubims, and a flaming sword, turning every way, to keep the way of the tree of life. 
+And he cast out Adam: and placed before the paradise of pleasure Cherubims, and a flaming sword, turning every way, to keep the way of the tree of life.
 
 ** Genesis 4
 
@@ -432,7 +432,7 @@ Adam also knew his wife again: and she brought forth a son, and called his name 
 
 *** Genesis 4:26
 
-But to Seth also was born a son, whom he called Enos: this man began to call upon the name of the Lord. 
+But to Seth also was born a son, whom he called Enos: this man began to call upon the name of the Lord.
 
 ** Genesis 5
 
@@ -558,7 +558,7 @@ And Lamech lived after he begot Noe, five hundred and ninety-five years, and beg
 
 *** Genesis 5:31
 
-And all the days of Lamech came to seven hundred and seventy-seven years, and he died. And Noe, when he was five hundred years old, begot Sem, Cham, and Japheth. 
+And all the days of Lamech came to seven hundred and seventy-seven years, and he died. And Noe, when he was five hundred years old, begot Sem, Cham, and Japheth.
 
 ** Genesis 6
 
@@ -648,7 +648,7 @@ Thou shalt take unto thee of all food that may be eaten, and thou shalt lay it u
 
 *** Genesis 6:22
 
-And Noe did all things which God commanded him. 
+And Noe did all things which God commanded him.
 
 ** Genesis 7
 
@@ -746,7 +746,7 @@ And he destroyed all the substance that was upon the earth, from man even to bea
 
 *** Genesis 7:24
 
-And the waters prevailed upon the earth a hundred and fifty days. 
+And the waters prevailed upon the earth a hundred and fifty days.
 
 ** Genesis 8
 
@@ -836,7 +836,7 @@ And the Lord smelled a sweet savour, and said: I will no more curse the earth fo
 
 *** Genesis 8:22
 
-All the days of the earth, seedtime and harvest, cold and heat, summer and winter, night and day, shall not cease. 
+All the days of the earth, seedtime and harvest, cold and heat, summer and winter, night and day, shall not cease.
 
 ** Genesis 9
 
@@ -954,7 +954,7 @@ And Noe lived after the flood three hundred and fifty years.
 
 *** Genesis 9:29
 
-And all his days were in the whole nine hundred and fifty years: and he died. 
+And all his days were in the whole nine hundred and fifty years: and he died.
 
 ** Genesis 10
 
@@ -1084,7 +1084,7 @@ These are the children of Sem according to their kindreds and tongues, and count
 
 *** Genesis 10:32
 
-These are the families of Noe, according to their people and nations. By these were the nations divided on the earth after the flood. 
+These are the families of Noe, according to their people and nations. By these were the nations divided on the earth after the flood.
 
 ** Genesis 11
 
@@ -1214,7 +1214,7 @@ And Thare took Abram his son, and Lot the son of Aran, his son's son, and Sarai 
 
 *** Genesis 11:32
 
-And the days of Thare were two hundred and five years, and he died in Haran. 
+And the days of Thare were two hundred and five years, and he died in Haran.
 
 ** Genesis 12
 
@@ -1296,7 +1296,7 @@ For what cause didst thou say, she was thy sister, that I might take her to my w
 
 *** Genesis 12:20
 
-And Pharao gave his men orders concerning Abram: and they led him away and his wife, and all that he had. 
+And Pharao gave his men orders concerning Abram: and they led him away and his wife, and all that he had.
 
 ** Genesis 13
 
@@ -1370,7 +1370,7 @@ Arise and walk through the land in the length, and the breadth thereof: for I wi
 
 *** Genesis 13:18
 
-So Abram removing his tent, came, and dwelt by the vale of Mambre, which is in Hebron: and he built there an altar to the Lord. 
+So Abram removing his tent, came, and dwelt by the vale of Mambre, which is in Hebron: and he built there an altar to the Lord.
 
 ** Genesis 14
 
@@ -1468,7 +1468,7 @@ That from the very woof thread unto the shoe latchet, I will not take of any thi
 
 *** Genesis 14:24
 
-Except such things as the young men have eaten, and the shares of the men that came with me, Aner, Escol, and Mambre: these shall take their shares. 
+Except such things as the young men have eaten, and the shares of the men that came with me, Aner, Escol, and Mambre: these shall take their shares.
 
 ** Genesis 15
 
@@ -1554,7 +1554,7 @@ And the Hethites, and the Pherezites, the Raphaim also,
 
 *** Genesis 15:21
 
-And the Amorrhites, and the Chanaanites, and the Gergesites, and the Jebusites. 
+And the Amorrhites, and the Chanaanites, and the Gergesites, and the Jebusites.
 
 ** Genesis 16
 
@@ -1620,7 +1620,7 @@ And Agar brought forth a son to Abram: who called his name Ismael.
 
 *** Genesis 16:16
 
-Abram was four score and six years old when Agar brought him forth Ismael. 
+Abram was four score and six years old when Agar brought him forth Ismael.
 
 ** Genesis 17
 
@@ -1730,7 +1730,7 @@ The self-same day was Abraham circumcised and Ismael his son.
 
 *** Genesis 17:27
 
-And all the men of his house, as well they that were born in his house, as the bought servants and strangers, were circumcised with him. 
+And all the men of his house, as well they that were born in his house, as the bought servants and strangers, were circumcised with him.
 
 ** Genesis 18
 
@@ -1864,7 +1864,7 @@ I beseech thee, saith he, be not angry, Lord, if I speak yet once more: What if 
 
 *** Genesis 18:33
 
-And the Lord departed, after he had left speaking to Abraham: and Abraham returned to his place. 
+And the Lord departed, after he had left speaking to Abraham: and Abraham returned to his place.
 
 ** Genesis 19
 
@@ -2018,7 +2018,7 @@ And the elder bore a son, and she called his name Moab: he is the father of the 
 
 *** Genesis 19:38
 
-The younger also bore a son, and she called his name Ammon; that is, the son of my people: he is the father of the Ammonites unto this day. 
+The younger also bore a son, and she called his name Ammon; that is, the son of my people: he is the father of the Ammonites unto this day.
 
 ** Genesis 20
 
@@ -2092,7 +2092,7 @@ And when Abraham prayed, God healed Abimelech and his wife, and his handmaids, a
 
 *** Genesis 20:18
 
-For the Lord had closed up every womb of the house of Abimelech, on account of Sara, Abraham's wife. 
+For the Lord had closed up every womb of the house of Abimelech, on account of Sara, Abraham's wife.
 
 ** Genesis 21
 
@@ -2230,7 +2230,7 @@ And Abimelech and Phicol, the general of his army, arose and returned to the lan
 
 *** Genesis 21:34
 
-And he was a sojourner in the land of the Palestines many days. 
+And he was a sojourner in the land of the Palestines many days.
 
 ** Genesis 22
 
@@ -2328,7 +2328,7 @@ And Bathuel, of whom was born Rebecca: these eight did Melcha bear to Nachor, Ab
 
 *** Genesis 22:24
 
-And his concubine, named Roma, bore Tabee, and Gaham, and Tahas, and Maacha. 
+And his concubine, named Roma, bore Tabee, and Gaham, and Tahas, and Maacha.
 
 ** Genesis 23
 
@@ -2410,7 +2410,7 @@ And so Abraham buried Sara, his wife, in the double cave of the field, that look
 
 *** Genesis 23:20
 
-And the field was made sure to Abraham, and the cave that was in it, for a possession to bury in, by the children of Heth. 
+And the field was made sure to Abraham, and the cave that was in it, for a possession to bury in, by the children of Heth.
 
 ** Genesis 24
 
@@ -2680,7 +2680,7 @@ And the servant told Isaac all that he had done.
 
 *** Genesis 24:67
 
-Who brought her into the tent of Sara his mother, and took her to wife: and he loved her so much, that it moderated the sorrow which was occasioned by his mother's death. 
+Who brought her into the tent of Sara his mother, and took her to wife: and he loved her so much, that it moderated the sorrow which was occasioned by his mother's death.
 
 ** Genesis 25
 
@@ -2818,7 +2818,7 @@ Jacob said: Swear therefore to me. Esau swore to him, and sold his first birthri
 
 *** Genesis 25:34
 
-And so taking bread and the pottage of lentils, he ate, and drank, and went on his way; making little account of having sold his first birthright. 
+And so taking bread and the pottage of lentils, he ate, and drank, and went on his way; making little account of having sold his first birthright.
 
 ** Genesis 26
 
@@ -2960,7 +2960,7 @@ And Esau being forty years old, married wives, Judith, the daughter of Beeri, th
 
 *** Genesis 26:35
 
-And they both offended the mind of Isaac and Rebecca. 
+And they both offended the mind of Isaac and Rebecca.
 
 ** Genesis 27
 
@@ -3146,7 +3146,7 @@ And his indignation cease, and he forget the things thou hast done to him: after
 
 *** Genesis 27:46
 
-And Rebecca said to Isaac: I am weary of my life, because of the daughters of Heth: if Jacob take a wife of the stock of this land, I choose not to live. 
+And Rebecca said to Isaac: I am weary of my life, because of the daughters of Heth: if Jacob take a wife of the stock of this land, I choose not to live.
 
 ** Genesis 28
 
@@ -3236,7 +3236,7 @@ And I shall return prosperously to my father's house: the Lord shall be my God:
 
 *** Genesis 28:22
 
-And this stone, which I have set up for a title, shall be called the house of God: and of all things that thou shalt give to me, I will offer tithes to thee. 
+And this stone, which I have set up for a title, shall be called the house of God: and of all things that thou shalt give to me, I will offer tithes to thee.
 
 ** Genesis 29
 
@@ -3378,7 +3378,7 @@ And she conceived the third time, and bore another son, and said: Now also my hu
 
 *** Genesis 29:35
 
-The fourth time she conceived and bore a son, and said: Now will I praise the Lord: and for this she called him Juda. And she left bearing. 
+The fourth time she conceived and bore a son, and said: Now will I praise the Lord: and for this she called him Juda. And she left bearing.
 
 ** Genesis 30
 
@@ -3552,7 +3552,7 @@ But when the later coming was, and the last conceiving, he did not put them. And
 
 *** Genesis 30:43
 
-And the man was enriched exceedingly, and he had many flocks, maid-servants and men-servants, camels and asses. 
+And the man was enriched exceedingly, and he had many flocks, maid-servants and men-servants, camels and asses.
 
 ** Genesis 31
 
@@ -3774,7 +3774,7 @@ And after he had offered sacrifices in the mountain, he called his brethren to e
 
 *** Genesis 31:55
 
-But Laban arose in the night, and kissed his sons and daughters, and blessed them: and returned to his place. 
+But Laban arose in the night, and kissed his sons and daughters, and blessed them: and returned to his place.
 
 ** Genesis 32
 
@@ -3904,7 +3904,7 @@ And immediately the sun rose upon him, after he was past Phanuel; but he halted 
 
 *** Genesis 32:32
 
-Therefore the children of Israel, unto this day, eat not the sinew, that shrank in Jacob's thigh: because he touched the sinew of his thigh and it shrank. 
+Therefore the children of Israel, unto this day, eat not the sinew, that shrank in Jacob's thigh: because he touched the sinew of his thigh and it shrank.
 
 ** Genesis 33
 
@@ -3986,7 +3986,7 @@ And he bought that part of the field, in which he pitched his tents, of the chil
 
 *** Genesis 33:20
 
-And raising an altar there, he invoked upon it the most mighty God of Israel. 
+And raising an altar there, he invoked upon it the most mighty God of Israel.
 
 ** Genesis 34
 
@@ -4112,7 +4112,7 @@ And when they had boldly perpetrated these things, Jacob said to Simeon and Levi
 
 *** Genesis 34:31
 
-They answered: Should they abuse our sister as a strumpet? 
+They answered: Should they abuse our sister as a strumpet?
 
 ** Genesis 35
 
@@ -4230,7 +4230,7 @@ And the days of Isaac were a hundred and eighty years.
 
 *** Genesis 35:29
 
-And being spent with age he died, and was gathered to his people, being old and full of days: and his sons Esau and Jacob buried him. 
+And being spent with age he died, and was gathered to his people, being old and full of days: and his sons Esau and Jacob buried him.
 
 ** Genesis 36
 
@@ -4404,7 +4404,7 @@ Duke Cenez, duke Theman, duke Mabsar,
 
 *** Genesis 36:43
 
-Duke Magdiel, duke Hiram: these are the dukes of Edom dwelling in the land of their government; the same is Esau, the father of the Edomites. 
+Duke Magdiel, duke Hiram: these are the dukes of Edom dwelling in the land of their government; the same is Esau, the father of the Edomites.
 
 ** Genesis 37
 
@@ -4550,7 +4550,7 @@ And all his children being gathered together to comfort their father in his sorr
 
 *** Genesis 37:36
 
-The Madianites sold Joseph in Egypt to Putiphar, an eunuch of Pharao, captain of the soldiers. 
+The Madianites sold Joseph in Egypt to Putiphar, an eunuch of Pharao, captain of the soldiers.
 
 ** Genesis 38
 
@@ -4672,7 +4672,7 @@ But he drawing back his hand, the other came forth: and the woman said: Why is t
 
 *** Genesis 38:30
 
-Afterwards his brother came out, on whose hand was the scarlet thread: and she called his name Zara. 
+Afterwards his brother came out, on whose hand was the scarlet thread: and she called his name Zara.
 
 ** Genesis 39
 
@@ -4766,7 +4766,7 @@ Who delivered into his hand all the prisoners that were kept in custody: and wha
 
 *** Genesis 39:23
 
-Neither did he himself know any thing, having committed all things to him: for the Lord was with him, and made all that he did to prosper. 
+Neither did he himself know any thing, having committed all things to him: for the Lord was with him, and made all that he did to prosper.
 
 ** Genesis 40
 
@@ -4860,7 +4860,7 @@ The other he hanged on a gibbet, that the truth of the interpreter might be shew
 
 *** Genesis 40:23
 
-But the chief butler, when things prospered with him, forgot his interpreter. 
+But the chief butler, when things prospered with him, forgot his interpreter.
 
 ** Genesis 41
 
@@ -5090,7 +5090,7 @@ And the famine increased daily in all the land: and Joseph opened all the barns,
 
 *** Genesis 41:57
 
-And all provinces came into Egypt, to buy food, and to seek some relief of their want. 
+And all provinces came into Egypt, to buy food, and to seek some relief of their want.
 
 ** Genesis 42
 
@@ -5244,7 +5244,7 @@ And Ruben answered him: Kill my two sons, if I bring him not again to thee: deli
 
 *** Genesis 42:38
 
-But he said: My son shall not go down with you: his brother is dead, and he is left alone: if any mischief befall him in the land to which you go, you will bring down my grey hairs with sorrow to hell. 
+But he said: My son shall not go down with you: his brother is dead, and he is left alone: if any mischief befall him in the land to which you go, you will bring down my grey hairs with sorrow to hell.
 
 ** Genesis 43
 
@@ -5382,7 +5382,7 @@ They sat before him, the firstborn according to his birthright, and the youngest
 
 *** Genesis 43:34
 
-Taking the messes which they received of him: and the greater mess came to Benjamin, so that it exceeded by five parts. And they drank, and were merry with him. 
+Taking the messes which they received of him: and the greater mess came to Benjamin, so that it exceeded by five parts. And they drank, and were merry with him.
 
 ** Genesis 44
 
@@ -5520,7 +5520,7 @@ Therefore I, thy servant, will stay instead of the boy in the service of my lord
 
 *** Genesis 44:34
 
-For I cannot return to my father without the boy, lest I be a witness of the calamity that will oppress my father. 
+For I cannot return to my father without the boy, lest I be a witness of the calamity that will oppress my father.
 
 ** Genesis 45
 
@@ -5634,7 +5634,7 @@ They, on the other side, told the whole order of the thing. And when he saw the 
 
 *** Genesis 45:28
 
-And he said: It is enough for me if Joseph, my son, be yet living: I will go and see him before I die. 
+And he said: It is enough for me if Joseph, my son, be yet living: I will go and see him before I die.
 
 ** Genesis 46
 
@@ -5772,7 +5772,7 @@ And when he shall call you, and shall say: What is your occupation?
 
 *** Genesis 46:34
 
-You shall answer: We, thy servants, are shepherds, from our infancy until now, both we and our fathers. And this you shall say, that you may dwell in the land of Gessen, because the Egyptians have all shepherds in abomination. 
+You shall answer: We, thy servants, are shepherds, from our infancy until now, both we and our fathers. And this you shall say, that you may dwell in the land of Gessen, because the Egyptians have all shepherds in abomination.
 
 ** Genesis 47
 
@@ -5898,7 +5898,7 @@ But I will sleep with my fathers, and thou shalt take me away out of this land, 
 
 *** Genesis 47:31
 
-And he said: Swear then to me. And as he was swearing, Israel adored God, turning to the bed's head. 
+And he said: Swear then to me. And as he was swearing, Israel adored God, turning to the bed's head.
 
 ** Genesis 48
 
@@ -5988,7 +5988,7 @@ And he said to Joseph, his son: Behold I die, and God will be with you, and will
 
 *** Genesis 48:22
 
-I give thee a portion above thy brethren, which I took out of the hand of the Amorrhite with my sword and bow. 
+I give thee a portion above thy brethren, which I took out of the hand of the Amorrhite with my sword and bow.
 
 ** Genesis 49
 
@@ -6118,7 +6118,7 @@ There they buried him, and Sara his wife: there was Isaac buried with Rebecca, h
 
 *** Genesis 49:32
 
-And when he had ended the commandments, wherewith he instructed his sons, he drew up his feet upon the bed, and died: and he was gathered to his people. 
+And when he had ended the commandments, wherewith he instructed his sons, he drew up his feet upon the bed, and died: and he was gathered to his people.
 
 ** Genesis 50
 
@@ -6220,4 +6220,4 @@ And he made them swear to him, saying: God will visit you, carry my bones with y
 
 *** Genesis 50:25
 
-And he died, being a hundred and ten years old. And being embalmed, he was laid in a coffin in Egypt.  
+And he died, being a hundred and ten years old. And being embalmed, he was laid in a coffin in Egypt.

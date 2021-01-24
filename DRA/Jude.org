@@ -1,4 +1,4 @@
-#+TITLE: [[[../index.org][Index]]] Book: Jude
+#+TITLE: [[[../][Index]]] Book: Jude
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+OPTIONS: num:nil
 
