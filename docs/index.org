@@ -1,2 +1,236 @@
-#+TITLE: Index
+#+TITLE: bible.org project
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: num:nil
+
+* Welcome
+This is a project designed to bring the Holy Bible to Emacs org-mode. This site contains each of the 73 books of the Bible converted to HTML. You can visit the GitHub project page here:
+
+[[https://github.com/Mertzenich/bible.org]]
+
+If there is anything else you want added, such as more translations, go ahead and create an issue on the GitHub page (or do it yourself 😄).
+
+* Translations
+- Douay-Rheims = DRA
+- Latin Vulgate = VUL
+* Table of Contents
+** Old Testament
+*** Genesis
+- [[./DRA/Genesis.html][DRA]]
+- [[./VUL/Genesis.html][VUL]]
+*** Exodus
+- [[./DRA/Exodus.html][DRA]]
+- [[./VUL/Exodus.html][VUL]]
+*** Leviticus
+- [[./DRA/Leviticus.html][DRA]]
+- [[./VUL/Leviticus.html][VUL]]
+*** Numbers
+- [[./DRA/Numbers.html][DRA]]
+- [[./VUL/Numbers.html][VUL]]
+*** Deuteronomy
+- [[./DRA/Deuteronomy.html][DRA]]
+- [[./VUL/Deuteronomy.html][VUL]]
+*** Joshua
+- [[./DRA/Joshua.html][DRA]]
+- [[./VUL/Joshua.html][VUL]]
+*** Judges
+- [[./DRA/Judges.html][DRA]]
+- [[./VUL/Judges.html][VUL]]
+*** Ruth
+- [[./DRA/Ruth.html][DRA]]
+- [[./VUL/Ruth.html][VUL]]
+*** 1 Samuel
+- [[./DRA/1 Samuel.html][DRA]]
+- [[./VUL/1 Samuel.html][VUL]]
+*** 2 Samuel
+- [[./DRA/2 Samuel.html][DRA]]
+- [[./VUL/2 Samuel.html][VUL]]
+*** 1 Kings
+- [[./DRA/1 Kings.html][DRA]]
+- [[./VUL/1 Kings.html][VUL]]
+*** 2 Kings
+- [[./DRA/2 Kings.html][DRA]]
+- [[./VUL/2 Kings.html][VUL]]
+*** 1 Chronicles
+- [[./DRA/1 Chronicles.html][DRA]]
+- [[./VUL/1 Chronicles.html][VUL]]
+*** 2 Chronicles
+- [[./DRA/2 Chronicles.html][DRA]]
+- [[./VUL/2 Chronicles.html][VUL]]
+*** Ezra
+- [[./DRA/Ezra.html][DRA]]
+- [[./VUL/Ezra.html][VUL]]
+*** Nehemiah
+- [[./DRA/Nehemiah.html][DRA]]
+- [[./VUL/Nehemiah.html][VUL]]
+*** Tobit
+- [[./DRA/Tobit.html][DRA]]
+- [[./VUL/Tobit.html][VUL]]
+*** Judith
+- [[./DRA/Judith.html][DRA]]
+- [[./VUL/Judith.html][VUL]]
+*** Esther
+- [[./DRA/Esther.html][DRA]]
+- [[./VUL/Esther.html][VUL]]
+*** 1 Maccabees
+- [[./DRA/1 Maccabees.html][DRA]]
+- [[./VUL/1 Maccabees.html][VUL]]
+*** 2 Maccabees
+- [[./DRA/2 Maccabees.html][DRA]]
+- [[./VUL/2 Maccabees.html][VUL]]
+*** Job
+- [[./DRA/Job.html][DRA]]
+- [[./VUL/Job.html][VUL]]
+*** Psalms
+- [[./DRA/Psalms.html][DRA]]
+- [[./VUL/Psalms.html][VUL]]
+*** Proverbs
+- [[./DRA/Proverbs.html][DRA]]
+- [[./VUL/Proverbs.html][VUL]]
+*** Ecclesiastes
+- [[./DRA/Ecclesiastes.html][DRA]]
+- [[./VUL/Ecclesiastes.html][VUL]]
+*** Song of Songs
+- [[./DRA/Song of Songs.html][DRA]]
+- [[./VUL/Song of Songs.html][VUL]]
+*** Wisdom
+- [[./DRA/Wisdom.html][DRA]]
+- [[./VUL/Wisdom.html][VUL]]
+*** Sirach
+- [[./DRA/Sirach.html][DRA]]
+- [[./VUL/Sirach.html][VUL]]
+*** Isaiah
+- [[./DRA/Isaiah.html][DRA]]
+- [[./VUL/Isaiah.html][VUL]]
+*** Jeremiah
+- [[./DRA/Jeremiah.html][DRA]]
+- [[./VUL/Jeremiah.html][VUL]]
+*** Lamentations
+- [[./DRA/Lamentations.html][DRA]]
+- [[./VUL/Lamentations.html][VUL]]
+*** Baruch
+- [[./DRA/Baruch.html][DRA]]
+- [[./VUL/Baruch.html][VUL]]
+*** Ezekiel
+- [[./DRA/Ezekiel.html][DRA]]
+- [[./VUL/Ezekiel.html][VUL]]
+*** Daniel
+- [[./DRA/Daniel.html][DRA]]
+- [[./VUL/Daniel.html][VUL]]
+*** Hosea
+- [[./DRA/Hosea.html][DRA]]
+- [[./VUL/Hosea.html][VUL]]
+*** Joel
+- [[./DRA/Joel.html][DRA]]
+- [[./VUL/Joel.html][VUL]]
+*** Amos
+- [[./DRA/Amos.html][DRA]]
+- [[./VUL/Amos.html][VUL]]
+*** Obadiah
+- [[./DRA/Obadiah.html][DRA]]
+- [[./VUL/Obadiah.html][VUL]]
+*** Jonah
+- [[./DRA/Jonah.html][DRA]]
+- [[./VUL/Jonah.html][VUL]]
+*** Micah
+- [[./DRA/Micah.html][DRA]]
+- [[./VUL/Micah.html][VUL]]
+*** Nahum
+- [[./DRA/Nahum.html][DRA]]
+- [[./VUL/Nahum.html][VUL]]
+*** Habakkuk
+- [[./DRA/Habakkuk.html][DRA]]
+- [[./VUL/Habakkuk.html][VUL]]
+*** Zephaniah
+- [[./DRA/Zephaniah.html][DRA]]
+- [[./VUL/Zephaniah.html][VUL]]
+*** Haggai
+- [[./DRA/Haggai.html][DRA]]
+- [[./VUL/Haggai.html][VUL]]
+*** Zechariah
+- [[./DRA/Zechariah.html][DRA]]
+- [[./VUL/Zechariah.html][VUL]]
+*** Malachi
+- [[./DRA/Malachi.html][DRA]]
+- [[./VUL/Malachi.html][VUL]]
+** New Testament
+*** Matthew
+- [[./DRA/Matthew.html][DRA]]
+- [[./VUL/Matthew.html][VUL]]
+*** Mark
+- [[./DRA/Mark.html][DRA]]
+- [[./VUL/Mark.html][VUL]]
+*** Luke
+- [[./DRA/Luke.html][DRA]]
+- [[./VUL/Luke.html][VUL]]
+*** John
+- [[./DRA/John.html][DRA]]
+- [[./VUL/John.html][VUL]]
+*** Acts of the Apostles
+- [[./DRA/Acts of the Apostles.html][DRA]]
+- [[./VUL/Acts of the Apostles.html][VUL]]
+*** Romans
+- [[./DRA/Romans.html][DRA]]
+- [[./VUL/Romans.html][VUL]]
+*** 1 Corinthians
+- [[./DRA/1 Corinthians.html][DRA]]
+- [[./VUL/1 Corinthians.html][VUL]]
+*** 2 Corinthians
+- [[./DRA/2 Corinthians.html][DRA]]
+- [[./VUL/2 Corinthians.html][VUL]]
+*** Galatians
+- [[./DRA/Galatians.html][DRA]]
+- [[./VUL/Galatians.html][VUL]]
+*** Ephesians
+- [[./DRA/Ephesians.html][DRA]]
+- [[./VUL/Ephesians.html][VUL]]
+*** Philippians
+- [[./DRA/Philippians.html][DRA]]
+- [[./VUL/Philippians.html][VUL]]
+*** Colossians
+- [[./DRA/Colossians.html][DRA]]
+- [[./VUL/Colossians.html][VUL]]
+*** 1 Thessalonians
+- [[./DRA/1 Thessalonians.html][DRA]]
+- [[./VUL/1 Thessalonians.html][VUL]]
+*** 2 Thessalonians
+- [[./DRA/2 Thessalonians.html][DRA]]
+- [[./VUL/2 Thessalonians.html][VUL]]
+*** 1 Timothy
+- [[./DRA/1 Timothy.html][DRA]]
+- [[./VUL/1 Timothy.html][VUL]]
+*** 2 Timothy
+- [[./DRA/2 Timothy.html][DRA]]
+- [[./VUL/2 Timothy.html][VUL]]
+*** Titus
+- [[./DRA/Titus.html][DRA]]
+- [[./VUL/Titus.html][VUL]]
+*** Philemon
+- [[./DRA/Philemon.html][DRA]]
+- [[./VUL/Philemon.html][VUL]]
+*** Hebrews
+- [[./DRA/Hebrews.html][DRA]]
+- [[./VUL/Hebrews.html][VUL]]
+*** James
+- [[./DRA/James.html][DRA]]
+- [[./VUL/James.html][VUL]]
+*** 1 Peter
+- [[./DRA/1 Peter.html][DRA]]
+- [[./VUL/1 Peter.html][VUL]]
+*** 2 Peter
+- [[./DRA/2 Peter.html][DRA]]
+- [[./VUL/2 Peter.html][VUL]]
+*** 1 John
+- [[./DRA/1 John.html][DRA]]
+- [[./VUL/1 John.html][VUL]]
+*** 2 John
+- [[./DRA/2 John.html][DRA]]
+- [[./VUL/2 John.html][VUL]]
+*** 3 John
+- [[./DRA/3 John.html][DRA]]
+- [[./VUL/3 John.html][VUL]]
+*** Jude
+- [[./DRA/Jude.html][DRA]]
+- [[./VUL/Jude.html][VUL]]
+*** Revelation
+- [[./DRA/Revelation.html][DRA]]
+- [[./VUL/Revelation.html][VUL]]
