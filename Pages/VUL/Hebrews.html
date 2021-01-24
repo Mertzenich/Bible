@@ -1,0 +1,3386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2021-01-24 Sun 11:14 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>[<a href="../index.html">Index</a>] Book: Hebrews</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">[<a href="../index.html">Index</a>] Book: Hebrews</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org3dafab9">Hebrews 1</a>
+<ul>
+<li><a href="#orgd2050ae">Hebrews 1:1</a></li>
+<li><a href="#orgc5ebfee">Hebrews 1:2</a></li>
+<li><a href="#org7dd1dc7">Hebrews 1:3</a></li>
+<li><a href="#org8952448">Hebrews 1:4</a></li>
+<li><a href="#org05e2a3f">Hebrews 1:5</a></li>
+<li><a href="#orgfc90d9e">Hebrews 1:6</a></li>
+<li><a href="#org0f37f17">Hebrews 1:7</a></li>
+<li><a href="#orgd980369">Hebrews 1:8</a></li>
+<li><a href="#orgbd589c9">Hebrews 1:9</a></li>
+<li><a href="#orgb7fc9ef">Hebrews 1:10</a></li>
+<li><a href="#org6d38297">Hebrews 1:11</a></li>
+<li><a href="#orgbc11a68">Hebrews 1:12</a></li>
+<li><a href="#orgc5a846c">Hebrews 1:13</a></li>
+<li><a href="#org883eeff">Hebrews 1:14</a></li>
+</ul>
+</li>
+<li><a href="#org8b51a66">Hebrews 2</a>
+<ul>
+<li><a href="#orge0e6448">Hebrews 2:1</a></li>
+<li><a href="#org1493a5f">Hebrews 2:2</a></li>
+<li><a href="#orge319cf5">Hebrews 2:3</a></li>
+<li><a href="#orgd407807">Hebrews 2:4</a></li>
+<li><a href="#orgb8ed07f">Hebrews 2:5</a></li>
+<li><a href="#org2bd2719">Hebrews 2:6</a></li>
+<li><a href="#org985deef">Hebrews 2:7</a></li>
+<li><a href="#org3f4893e">Hebrews 2:8</a></li>
+<li><a href="#org92e489d">Hebrews 2:9</a></li>
+<li><a href="#org3b0b437">Hebrews 2:10</a></li>
+<li><a href="#orgefd7872">Hebrews 2:11</a></li>
+<li><a href="#org8910e5c">Hebrews 2:12</a></li>
+<li><a href="#orge8568d9">Hebrews 2:13</a></li>
+<li><a href="#org5d39ca1">Hebrews 2:14</a></li>
+<li><a href="#orgeeec9cd">Hebrews 2:15</a></li>
+<li><a href="#orgc7a7942">Hebrews 2:16</a></li>
+<li><a href="#org38dd8eb">Hebrews 2:17</a></li>
+<li><a href="#org688bed0">Hebrews 2:18</a></li>
+</ul>
+</li>
+<li><a href="#org7aa64a7">Hebrews 3</a>
+<ul>
+<li><a href="#org292fd4b">Hebrews 3:1</a></li>
+<li><a href="#org94e7c5e">Hebrews 3:2</a></li>
+<li><a href="#org0319277">Hebrews 3:3</a></li>
+<li><a href="#org7ebc00c">Hebrews 3:4</a></li>
+<li><a href="#org679ce53">Hebrews 3:5</a></li>
+<li><a href="#orgbed1c8e">Hebrews 3:6</a></li>
+<li><a href="#org42e2ef0">Hebrews 3:7</a></li>
+<li><a href="#org5272920">Hebrews 3:8</a></li>
+<li><a href="#org983a343">Hebrews 3:9</a></li>
+<li><a href="#org1168a0f">Hebrews 3:10</a></li>
+<li><a href="#org0f4136a">Hebrews 3:11</a></li>
+<li><a href="#orge5676eb">Hebrews 3:12</a></li>
+<li><a href="#orgd9950f5">Hebrews 3:13</a></li>
+<li><a href="#org9494cd9">Hebrews 3:14</a></li>
+<li><a href="#org707f7b0">Hebrews 3:15</a></li>
+<li><a href="#orgbff4549">Hebrews 3:16</a></li>
+<li><a href="#org3301815">Hebrews 3:17</a></li>
+<li><a href="#org1dcb60e">Hebrews 3:18</a></li>
+<li><a href="#org3d17efe">Hebrews 3:19</a></li>
+</ul>
+</li>
+<li><a href="#org9ff219e">Hebrews 4</a>
+<ul>
+<li><a href="#org6c06589">Hebrews 4:1</a></li>
+<li><a href="#orgd5f6a6d">Hebrews 4:2</a></li>
+<li><a href="#orge88b51d">Hebrews 4:3</a></li>
+<li><a href="#orge9dc3c5">Hebrews 4:4</a></li>
+<li><a href="#org58a6717">Hebrews 4:5</a></li>
+<li><a href="#orgec86f51">Hebrews 4:6</a></li>
+<li><a href="#orgede7213">Hebrews 4:7</a></li>
+<li><a href="#orgfa5dea5">Hebrews 4:8</a></li>
+<li><a href="#org46167e7">Hebrews 4:9</a></li>
+<li><a href="#org5047baf">Hebrews 4:10</a></li>
+<li><a href="#org54e5dbd">Hebrews 4:11</a></li>
+<li><a href="#org4769995">Hebrews 4:12</a></li>
+<li><a href="#org901caa9">Hebrews 4:13</a></li>
+<li><a href="#org2b1245d">Hebrews 4:14</a></li>
+<li><a href="#org821039c">Hebrews 4:15</a></li>
+<li><a href="#org4db199d">Hebrews 4:16</a></li>
+</ul>
+</li>
+<li><a href="#org1e006db">Hebrews 5</a>
+<ul>
+<li><a href="#org8dadfca">Hebrews 5:1</a></li>
+<li><a href="#org5ac7d37">Hebrews 5:2</a></li>
+<li><a href="#org439e822">Hebrews 5:3</a></li>
+<li><a href="#org279b8cf">Hebrews 5:4</a></li>
+<li><a href="#org30cfaa8">Hebrews 5:5</a></li>
+<li><a href="#org5af54b4">Hebrews 5:6</a></li>
+<li><a href="#org59fb4d0">Hebrews 5:7</a></li>
+<li><a href="#org89490ef">Hebrews 5:8</a></li>
+<li><a href="#orga6bdb33">Hebrews 5:9</a></li>
+<li><a href="#org64ca3d2">Hebrews 5:10</a></li>
+<li><a href="#org6603ef9">Hebrews 5:11</a></li>
+<li><a href="#org5666844">Hebrews 5:12</a></li>
+<li><a href="#orge7ea7c3">Hebrews 5:13</a></li>
+<li><a href="#org06daecc">Hebrews 5:14</a></li>
+</ul>
+</li>
+<li><a href="#org6ec7602">Hebrews 6</a>
+<ul>
+<li><a href="#org817d749">Hebrews 6:1</a></li>
+<li><a href="#orgf9e024a">Hebrews 6:2</a></li>
+<li><a href="#org23820a3">Hebrews 6:3</a></li>
+<li><a href="#orgdacaa91">Hebrews 6:4</a></li>
+<li><a href="#orgba01bcc">Hebrews 6:5</a></li>
+<li><a href="#org953a614">Hebrews 6:6</a></li>
+<li><a href="#org37e7ec3">Hebrews 6:7</a></li>
+<li><a href="#orge1e4d10">Hebrews 6:8</a></li>
+<li><a href="#org0ea3178">Hebrews 6:9</a></li>
+<li><a href="#org5409749">Hebrews 6:10</a></li>
+<li><a href="#orgaec3c1b">Hebrews 6:11</a></li>
+<li><a href="#org3450bdd">Hebrews 6:12</a></li>
+<li><a href="#org7109cc6">Hebrews 6:13</a></li>
+<li><a href="#org7074377">Hebrews 6:14</a></li>
+<li><a href="#org54b6944">Hebrews 6:15</a></li>
+<li><a href="#org9e1e757">Hebrews 6:16</a></li>
+<li><a href="#org7081989">Hebrews 6:17</a></li>
+<li><a href="#orgf478a83">Hebrews 6:18</a></li>
+<li><a href="#org38e8665">Hebrews 6:19</a></li>
+<li><a href="#orgfc7200e">Hebrews 6:20</a></li>
+</ul>
+</li>
+<li><a href="#org663f391">Hebrews 7</a>
+<ul>
+<li><a href="#orgca8c1b8">Hebrews 7:1</a></li>
+<li><a href="#org6d110ae">Hebrews 7:2</a></li>
+<li><a href="#org104e6e9">Hebrews 7:3</a></li>
+<li><a href="#org2566dcc">Hebrews 7:4</a></li>
+<li><a href="#orgbab577f">Hebrews 7:5</a></li>
+<li><a href="#orgbfdf682">Hebrews 7:6</a></li>
+<li><a href="#orge50a773">Hebrews 7:7</a></li>
+<li><a href="#org607c87d">Hebrews 7:8</a></li>
+<li><a href="#org8997742">Hebrews 7:9</a></li>
+<li><a href="#orgedf75b5">Hebrews 7:10</a></li>
+<li><a href="#orgb86fd7e">Hebrews 7:11</a></li>
+<li><a href="#org66e3612">Hebrews 7:12</a></li>
+<li><a href="#orgf7b0341">Hebrews 7:13</a></li>
+<li><a href="#org1941763">Hebrews 7:14</a></li>
+<li><a href="#org85968b3">Hebrews 7:15</a></li>
+<li><a href="#orga0827b0">Hebrews 7:16</a></li>
+<li><a href="#orgbee58aa">Hebrews 7:17</a></li>
+<li><a href="#orgb60b2be">Hebrews 7:18</a></li>
+<li><a href="#orgd7c2cf2">Hebrews 7:19</a></li>
+<li><a href="#orgb3fa261">Hebrews 7:20</a></li>
+<li><a href="#org1f85f3d">Hebrews 7:21</a></li>
+<li><a href="#orgfbac9ee">Hebrews 7:22</a></li>
+<li><a href="#orgb209563">Hebrews 7:23</a></li>
+<li><a href="#org9065853">Hebrews 7:24</a></li>
+<li><a href="#org474030f">Hebrews 7:25</a></li>
+<li><a href="#org2de0110">Hebrews 7:26</a></li>
+<li><a href="#org5a80e6c">Hebrews 7:27</a></li>
+<li><a href="#orgdc8c6b2">Hebrews 7:28</a></li>
+</ul>
+</li>
+<li><a href="#org6221ddb">Hebrews 8</a>
+<ul>
+<li><a href="#org6752dee">Hebrews 8:1</a></li>
+<li><a href="#org9dc5d17">Hebrews 8:2</a></li>
+<li><a href="#org6f9e20b">Hebrews 8:3</a></li>
+<li><a href="#org4b20cfa">Hebrews 8:4</a></li>
+<li><a href="#org68d8d2a">Hebrews 8:5</a></li>
+<li><a href="#orgbdef425">Hebrews 8:6</a></li>
+<li><a href="#org8911c9f">Hebrews 8:7</a></li>
+<li><a href="#org1327c63">Hebrews 8:8</a></li>
+<li><a href="#orgdd4df2b">Hebrews 8:9</a></li>
+<li><a href="#orgd2ab405">Hebrews 8:10</a></li>
+<li><a href="#orgad818a5">Hebrews 8:11</a></li>
+<li><a href="#orgb06d017">Hebrews 8:12</a></li>
+<li><a href="#orgcc45711">Hebrews 8:13</a></li>
+</ul>
+</li>
+<li><a href="#orgf1126ad">Hebrews 9</a>
+<ul>
+<li><a href="#orgfba410f">Hebrews 9:1</a></li>
+<li><a href="#orgc584d16">Hebrews 9:2</a></li>
+<li><a href="#org64f3dcd">Hebrews 9:3</a></li>
+<li><a href="#org8c8bd30">Hebrews 9:4</a></li>
+<li><a href="#org5df1365">Hebrews 9:5</a></li>
+<li><a href="#org5dd3865">Hebrews 9:6</a></li>
+<li><a href="#orgf29e8d2">Hebrews 9:7</a></li>
+<li><a href="#org6fb6197">Hebrews 9:8</a></li>
+<li><a href="#orgb19d552">Hebrews 9:9</a></li>
+<li><a href="#org72119ef">Hebrews 9:10</a></li>
+<li><a href="#orgd0939fe">Hebrews 9:11</a></li>
+<li><a href="#org8e9ed54">Hebrews 9:12</a></li>
+<li><a href="#orgb981e22">Hebrews 9:13</a></li>
+<li><a href="#orgb1bf884">Hebrews 9:14</a></li>
+<li><a href="#org07fade6">Hebrews 9:15</a></li>
+<li><a href="#org758522d">Hebrews 9:16</a></li>
+<li><a href="#org7aa40e7">Hebrews 9:17</a></li>
+<li><a href="#orgd431cba">Hebrews 9:18</a></li>
+<li><a href="#org4b4f506">Hebrews 9:19</a></li>
+<li><a href="#orge3bdc5e">Hebrews 9:20</a></li>
+<li><a href="#orgb6cb134">Hebrews 9:21</a></li>
+<li><a href="#orgd990f56">Hebrews 9:22</a></li>
+<li><a href="#orgec653fa">Hebrews 9:23</a></li>
+<li><a href="#org7ab7fd7">Hebrews 9:24</a></li>
+<li><a href="#org05cee3f">Hebrews 9:25</a></li>
+<li><a href="#org3ae2c13">Hebrews 9:26</a></li>
+<li><a href="#org3417f0c">Hebrews 9:27</a></li>
+<li><a href="#org5f20016">Hebrews 9:28</a></li>
+</ul>
+</li>
+<li><a href="#org0f62ea1">Hebrews 10</a>
+<ul>
+<li><a href="#orga7f18d0">Hebrews 10:1</a></li>
+<li><a href="#org0c266ff">Hebrews 10:2</a></li>
+<li><a href="#org3de16d4">Hebrews 10:3</a></li>
+<li><a href="#org5976955">Hebrews 10:4</a></li>
+<li><a href="#orgd4402fb">Hebrews 10:5</a></li>
+<li><a href="#orgf29dae8">Hebrews 10:6</a></li>
+<li><a href="#org8cf178d">Hebrews 10:7</a></li>
+<li><a href="#orga23d620">Hebrews 10:8</a></li>
+<li><a href="#org4781576">Hebrews 10:9</a></li>
+<li><a href="#org07ed6b1">Hebrews 10:10</a></li>
+<li><a href="#org46f0b66">Hebrews 10:11</a></li>
+<li><a href="#orgc04b3c0">Hebrews 10:12</a></li>
+<li><a href="#orgb4b00b9">Hebrews 10:13</a></li>
+<li><a href="#org394a45b">Hebrews 10:14</a></li>
+<li><a href="#org11f19a6">Hebrews 10:15</a></li>
+<li><a href="#orgbb25b12">Hebrews 10:16</a></li>
+<li><a href="#orgc89faeb">Hebrews 10:17</a></li>
+<li><a href="#org3717a31">Hebrews 10:18</a></li>
+<li><a href="#org1eb3486">Hebrews 10:19</a></li>
+<li><a href="#org6e5d52a">Hebrews 10:20</a></li>
+<li><a href="#org3f50b70">Hebrews 10:21</a></li>
+<li><a href="#orgc35ec99">Hebrews 10:22</a></li>
+<li><a href="#orgd283227">Hebrews 10:23</a></li>
+<li><a href="#orgfe86b3e">Hebrews 10:24</a></li>
+<li><a href="#orgbf6a087">Hebrews 10:25</a></li>
+<li><a href="#org8de94f3">Hebrews 10:26</a></li>
+<li><a href="#org561c675">Hebrews 10:27</a></li>
+<li><a href="#orge6676b3">Hebrews 10:28</a></li>
+<li><a href="#orgf8dded4">Hebrews 10:29</a></li>
+<li><a href="#org75c4d7a">Hebrews 10:30</a></li>
+<li><a href="#org4aeb881">Hebrews 10:31</a></li>
+<li><a href="#org4aca557">Hebrews 10:32</a></li>
+<li><a href="#orgc233f54">Hebrews 10:33</a></li>
+<li><a href="#org9220585">Hebrews 10:34</a></li>
+<li><a href="#org3b02860">Hebrews 10:35</a></li>
+<li><a href="#org2eba33b">Hebrews 10:36</a></li>
+<li><a href="#orgbd6dfb3">Hebrews 10:37</a></li>
+<li><a href="#org575510f">Hebrews 10:38</a></li>
+<li><a href="#org3b36a5f">Hebrews 10:39</a></li>
+</ul>
+</li>
+<li><a href="#org3958202">Hebrews 11</a>
+<ul>
+<li><a href="#orgacf5162">Hebrews 11:1</a></li>
+<li><a href="#org830b666">Hebrews 11:2</a></li>
+<li><a href="#orga14be0f">Hebrews 11:3</a></li>
+<li><a href="#orgd56be0a">Hebrews 11:4</a></li>
+<li><a href="#orge31798d">Hebrews 11:5</a></li>
+<li><a href="#org24c1ff1">Hebrews 11:6</a></li>
+<li><a href="#orgfdb7ead">Hebrews 11:7</a></li>
+<li><a href="#org265f0e6">Hebrews 11:8</a></li>
+<li><a href="#org9d411ec">Hebrews 11:9</a></li>
+<li><a href="#orgd5ca0b2">Hebrews 11:10</a></li>
+<li><a href="#orgec465c7">Hebrews 11:11</a></li>
+<li><a href="#org2473d9d">Hebrews 11:12</a></li>
+<li><a href="#org78e1d88">Hebrews 11:13</a></li>
+<li><a href="#org4b1e7c7">Hebrews 11:14</a></li>
+<li><a href="#orgd1074fb">Hebrews 11:15</a></li>
+<li><a href="#orgc9ed3f7">Hebrews 11:16</a></li>
+<li><a href="#orgfc93bf8">Hebrews 11:17</a></li>
+<li><a href="#org146496a">Hebrews 11:18</a></li>
+<li><a href="#orga812308">Hebrews 11:19</a></li>
+<li><a href="#org66b5332">Hebrews 11:20</a></li>
+<li><a href="#org4a95064">Hebrews 11:21</a></li>
+<li><a href="#org30d5e95">Hebrews 11:22</a></li>
+<li><a href="#org53d19a0">Hebrews 11:23</a></li>
+<li><a href="#org328962a">Hebrews 11:24</a></li>
+<li><a href="#orgd3c62fe">Hebrews 11:25</a></li>
+<li><a href="#orgad30008">Hebrews 11:26</a></li>
+<li><a href="#orgc199bf6">Hebrews 11:27</a></li>
+<li><a href="#orgce2aec3">Hebrews 11:28</a></li>
+<li><a href="#org0788c5e">Hebrews 11:29</a></li>
+<li><a href="#org6e87cb5">Hebrews 11:30</a></li>
+<li><a href="#org67accdd">Hebrews 11:31</a></li>
+<li><a href="#org1d70627">Hebrews 11:32</a></li>
+<li><a href="#org504129f">Hebrews 11:33</a></li>
+<li><a href="#org3afc523">Hebrews 11:34</a></li>
+<li><a href="#orga0e45e6">Hebrews 11:35</a></li>
+<li><a href="#orge2ff903">Hebrews 11:36</a></li>
+<li><a href="#orgada7c50">Hebrews 11:37</a></li>
+<li><a href="#orga1b4588">Hebrews 11:38</a></li>
+<li><a href="#orga8ca287">Hebrews 11:39</a></li>
+<li><a href="#orgd60d774">Hebrews 11:40</a></li>
+</ul>
+</li>
+<li><a href="#org450aec9">Hebrews 12</a>
+<ul>
+<li><a href="#orgf7046be">Hebrews 12:1</a></li>
+<li><a href="#org1cb91c8">Hebrews 12:2</a></li>
+<li><a href="#org43a68d2">Hebrews 12:3</a></li>
+<li><a href="#org963bce0">Hebrews 12:4</a></li>
+<li><a href="#org4287783">Hebrews 12:5</a></li>
+<li><a href="#org5744227">Hebrews 12:6</a></li>
+<li><a href="#orgd2954d2">Hebrews 12:7</a></li>
+<li><a href="#org40c197f">Hebrews 12:8</a></li>
+<li><a href="#org9fd002d">Hebrews 12:9</a></li>
+<li><a href="#org20b78ea">Hebrews 12:10</a></li>
+<li><a href="#org5d9ff2c">Hebrews 12:11</a></li>
+<li><a href="#orgca99f8e">Hebrews 12:12</a></li>
+<li><a href="#orge43db69">Hebrews 12:13</a></li>
+<li><a href="#org9ffca0f">Hebrews 12:14</a></li>
+<li><a href="#org6471840">Hebrews 12:15</a></li>
+<li><a href="#orge54d569">Hebrews 12:16</a></li>
+<li><a href="#org6f6dc8f">Hebrews 12:17</a></li>
+<li><a href="#orgbc41ecd">Hebrews 12:18</a></li>
+<li><a href="#org514bb1a">Hebrews 12:19</a></li>
+<li><a href="#org14188ed">Hebrews 12:20</a></li>
+<li><a href="#org81821e3">Hebrews 12:21</a></li>
+<li><a href="#org6953836">Hebrews 12:22</a></li>
+<li><a href="#org4ac777b">Hebrews 12:23</a></li>
+<li><a href="#org12a5a2a">Hebrews 12:24</a></li>
+<li><a href="#orgbbf29e0">Hebrews 12:25</a></li>
+<li><a href="#org86477d4">Hebrews 12:26</a></li>
+<li><a href="#org491d2ac">Hebrews 12:27</a></li>
+<li><a href="#orga2c10b0">Hebrews 12:28</a></li>
+<li><a href="#org8fee62e">Hebrews 12:29</a></li>
+</ul>
+</li>
+<li><a href="#org8d394c5">Hebrews 13</a>
+<ul>
+<li><a href="#orgd467fec">Hebrews 13:1</a></li>
+<li><a href="#org9fd950f">Hebrews 13:2</a></li>
+<li><a href="#org1209432">Hebrews 13:3</a></li>
+<li><a href="#orga2e4de2">Hebrews 13:4</a></li>
+<li><a href="#org32a4783">Hebrews 13:5</a></li>
+<li><a href="#org3206bf8">Hebrews 13:6</a></li>
+<li><a href="#org7770206">Hebrews 13:7</a></li>
+<li><a href="#org4534e90">Hebrews 13:8</a></li>
+<li><a href="#org40bbfef">Hebrews 13:9</a></li>
+<li><a href="#orgb865cdd">Hebrews 13:10</a></li>
+<li><a href="#orgc0c728c">Hebrews 13:11</a></li>
+<li><a href="#orgb0c9404">Hebrews 13:12</a></li>
+<li><a href="#orge270d98">Hebrews 13:13</a></li>
+<li><a href="#orgbb3fb94">Hebrews 13:14</a></li>
+<li><a href="#orgdedeb6d">Hebrews 13:15</a></li>
+<li><a href="#org3e8db37">Hebrews 13:16</a></li>
+<li><a href="#org2288fe9">Hebrews 13:17</a></li>
+<li><a href="#org137cb22">Hebrews 13:18</a></li>
+<li><a href="#orgb8b2cd5">Hebrews 13:19</a></li>
+<li><a href="#orgacc2bdd">Hebrews 13:20</a></li>
+<li><a href="#orgc6d5942">Hebrews 13:21</a></li>
+<li><a href="#org3a140b7">Hebrews 13:22</a></li>
+<li><a href="#orgb03b912">Hebrews 13:23</a></li>
+<li><a href="#orga2db2fb">Hebrews 13:24</a></li>
+<li><a href="#org9a517d3">Hebrews 13:25</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org3dafab9" class="outline-2">
+<h2 id="org3dafab9">Hebrews 1</h2>
+<div class="outline-text-2" id="text-org3dafab9">
+</div>
+<div id="outline-container-orgd2050ae" class="outline-3">
+<h3 id="orgd2050ae">Hebrews 1:1</h3>
+<div class="outline-text-3" id="text-orgd2050ae">
+<p>
+Multifariam, multisque modis olim Deus loquens patribus in prophetis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc5ebfee" class="outline-3">
+<h3 id="orgc5ebfee">Hebrews 1:2</h3>
+<div class="outline-text-3" id="text-orgc5ebfee">
+<p>
+novissime, diebus istis locutus est nobis in Filio, quem constituit hæredem universorum, per quem fecit et sæcula :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7dd1dc7" class="outline-3">
+<h3 id="org7dd1dc7">Hebrews 1:3</h3>
+<div class="outline-text-3" id="text-org7dd1dc7">
+<p>
+qui cum sit splendor gloriæ, et figura substantiæ ejus, portansque omnia verbo virtutis suæ, purgationem peccatorum faciens, sedet ad dexteram majestatis in excelsis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8952448" class="outline-3">
+<h3 id="org8952448">Hebrews 1:4</h3>
+<div class="outline-text-3" id="text-org8952448">
+<p>
+tanto melior angelis effectus, quanto differentius præ illis nomen hæreditavit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05e2a3f" class="outline-3">
+<h3 id="org05e2a3f">Hebrews 1:5</h3>
+<div class="outline-text-3" id="text-org05e2a3f">
+<p>
+Cui enim dixit aliquando angelorum : Filius meus es tu, ego hodie genui te ? Et rursum : Ego ero illi in patrem, et ipse erit mihi in filium ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc90d9e" class="outline-3">
+<h3 id="orgfc90d9e">Hebrews 1:6</h3>
+<div class="outline-text-3" id="text-orgfc90d9e">
+<p>
+Et cum iterum introducit primogenitum in orbem terræ, dicit : Et adorent eum omnes angeli Dei.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0f37f17" class="outline-3">
+<h3 id="org0f37f17">Hebrews 1:7</h3>
+<div class="outline-text-3" id="text-org0f37f17">
+<p>
+Et ad angelos quidem dicit : Qui facit angelos suos spiritus, et ministros suos flammam ignis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd980369" class="outline-3">
+<h3 id="orgd980369">Hebrews 1:8</h3>
+<div class="outline-text-3" id="text-orgd980369">
+<p>
+Ad Filium autem : Thronus tuus Deus in sæculum sæculi : virga æquitatis, virga regni tui.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbd589c9" class="outline-3">
+<h3 id="orgbd589c9">Hebrews 1:9</h3>
+<div class="outline-text-3" id="text-orgbd589c9">
+<p>
+Dilexisti justitiam, et odisti iniquitatem : propterea unxit te Deus, Deus tuus, oleo exultationis præ participibus tuis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb7fc9ef" class="outline-3">
+<h3 id="orgb7fc9ef">Hebrews 1:10</h3>
+<div class="outline-text-3" id="text-orgb7fc9ef">
+<p>
+Et : Tu in principio, Domine, terram fundasti : et opera manuum tuarum sunt cæli.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6d38297" class="outline-3">
+<h3 id="org6d38297">Hebrews 1:11</h3>
+<div class="outline-text-3" id="text-org6d38297">
+<p>
+Ipsi peribunt, tu autem permanebis, et omnes ut vestimentum veterascent :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbc11a68" class="outline-3">
+<h3 id="orgbc11a68">Hebrews 1:12</h3>
+<div class="outline-text-3" id="text-orgbc11a68">
+<p>
+et velut amictum mutabis eos, et mutabuntur : tu autem idem ipse es, et anni tui non deficient.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc5a846c" class="outline-3">
+<h3 id="orgc5a846c">Hebrews 1:13</h3>
+<div class="outline-text-3" id="text-orgc5a846c">
+<p>
+Ad quem autem angelorum dixit aliquando : Sede a dextris meis, quoadusque ponam inimicos tuos scabellum pedum tuorum ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org883eeff" class="outline-3">
+<h3 id="org883eeff">Hebrews 1:14</h3>
+<div class="outline-text-3" id="text-org883eeff">
+<p>
+Nonne omnes sunt administratorii spiritus, in ministerium missi propter eos, qui hæreditatem capient salutis ?   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org8b51a66" class="outline-2">
+<h2 id="org8b51a66">Hebrews 2</h2>
+<div class="outline-text-2" id="text-org8b51a66">
+</div>
+<div id="outline-container-orge0e6448" class="outline-3">
+<h3 id="orge0e6448">Hebrews 2:1</h3>
+<div class="outline-text-3" id="text-orge0e6448">
+<p>
+Propterea abundantius oportet observare nos ea quæ audivimus, ne forte pereffluamus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1493a5f" class="outline-3">
+<h3 id="org1493a5f">Hebrews 2:2</h3>
+<div class="outline-text-3" id="text-org1493a5f">
+<p>
+Si enim qui per angelos dictus est sermo, factus est firmus, et omnis prævaricatio, et inobedientia accepit justam mercedis retributionem :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge319cf5" class="outline-3">
+<h3 id="orge319cf5">Hebrews 2:3</h3>
+<div class="outline-text-3" id="text-orge319cf5">
+<p>
+quomodo nos effugiemus si tantam neglexerimus salutem ? quæ cum initium accepisset enarrari per Dominum ab eis, qui audierunt, in nos confirmata est,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd407807" class="outline-3">
+<h3 id="orgd407807">Hebrews 2:4</h3>
+<div class="outline-text-3" id="text-orgd407807">
+<p>
+contestante Deo signis et portentis, et variis virtutibus, et Spiritus Sancti distributionibus secundum suam voluntatem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb8ed07f" class="outline-3">
+<h3 id="orgb8ed07f">Hebrews 2:5</h3>
+<div class="outline-text-3" id="text-orgb8ed07f">
+<p>
+Non enim angelis subjecit Deus orbem terræ futurum, de quo loquimur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2bd2719" class="outline-3">
+<h3 id="org2bd2719">Hebrews 2:6</h3>
+<div class="outline-text-3" id="text-org2bd2719">
+<p>
+Testatus est autem in quodam loco quis, dicens : Quid est homo quod memor es ejus, aut filius hominis quoniam visitas eum ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org985deef" class="outline-3">
+<h3 id="org985deef">Hebrews 2:7</h3>
+<div class="outline-text-3" id="text-org985deef">
+<p>
+Minuisti eum paulo minus ab angelis : gloria et honore coronasti eum : et constituisti eum super opera manuum tuarum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f4893e" class="outline-3">
+<h3 id="org3f4893e">Hebrews 2:8</h3>
+<div class="outline-text-3" id="text-org3f4893e">
+<p>
+Omnia subjecisti sub pedibus ejus. In eo enim quod omnia ei subjecit, nihil dimisit non subjectum ei. Nunc autem necdum videmus omnia subjecta ei.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org92e489d" class="outline-3">
+<h3 id="org92e489d">Hebrews 2:9</h3>
+<div class="outline-text-3" id="text-org92e489d">
+<p>
+Eum autem, qui modico quam angeli minoratus est, videmus Jesum propter passionem mortis, gloria et honore coronatum : ut, gratia Dei, pro omnibus gustaret mortem.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b0b437" class="outline-3">
+<h3 id="org3b0b437">Hebrews 2:10</h3>
+<div class="outline-text-3" id="text-org3b0b437">
+<p>
+Decebat enim eum, propter quem omnia, et per quem omnia, qui multos filios in gloriam adduxerat, auctorem salutis eorum per passionem consummare.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgefd7872" class="outline-3">
+<h3 id="orgefd7872">Hebrews 2:11</h3>
+<div class="outline-text-3" id="text-orgefd7872">
+<p>
+Qui enim sanctificat, et qui sanctificantur, ex uno omnes. Propter quam causam non confunditur fratres eos vocare, dicens :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8910e5c" class="outline-3">
+<h3 id="org8910e5c">Hebrews 2:12</h3>
+<div class="outline-text-3" id="text-org8910e5c">
+<p>
+Nuntiabo nomen tuum fratribus meis : in medio ecclesiæ laudabo te.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge8568d9" class="outline-3">
+<h3 id="orge8568d9">Hebrews 2:13</h3>
+<div class="outline-text-3" id="text-orge8568d9">
+<p>
+Et iterum : Ego ero fidens in eum. Et iterum : Ecce ego, et pueri mei, quos dedit mihi Deus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5d39ca1" class="outline-3">
+<h3 id="org5d39ca1">Hebrews 2:14</h3>
+<div class="outline-text-3" id="text-org5d39ca1">
+<p>
+Quia ergo pueri communicaverunt carni, et sanguini, et ipse similiter participavit eisdem : ut per mortem destrueret eum qui habebat mortis imperium, id est, diabolum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeeec9cd" class="outline-3">
+<h3 id="orgeeec9cd">Hebrews 2:15</h3>
+<div class="outline-text-3" id="text-orgeeec9cd">
+<p>
+et liberaret eos qui timore mortis per totam vitam obnoxii erant servituti.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc7a7942" class="outline-3">
+<h3 id="orgc7a7942">Hebrews 2:16</h3>
+<div class="outline-text-3" id="text-orgc7a7942">
+<p>
+Nusquam enim angelos apprehendit, sed semen Abrahæ apprehendit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org38dd8eb" class="outline-3">
+<h3 id="org38dd8eb">Hebrews 2:17</h3>
+<div class="outline-text-3" id="text-org38dd8eb">
+<p>
+Unde debuit per omnia fratribus similari, ut misericors fieret, et fidelis pontifex ad Deum, ut repropitiaret delicta populi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org688bed0" class="outline-3">
+<h3 id="org688bed0">Hebrews 2:18</h3>
+<div class="outline-text-3" id="text-org688bed0">
+<p>
+In eo enim, in quo passus est ipse et tentatus, potens est et eis, qui tentantur, auxiliari.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org7aa64a7" class="outline-2">
+<h2 id="org7aa64a7">Hebrews 3</h2>
+<div class="outline-text-2" id="text-org7aa64a7">
+</div>
+<div id="outline-container-org292fd4b" class="outline-3">
+<h3 id="org292fd4b">Hebrews 3:1</h3>
+<div class="outline-text-3" id="text-org292fd4b">
+<p>
+Unde, fratres sancti, vocationis cælestis participes, considerate Apostolum, et pontificem confessionis nostræ Jesum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org94e7c5e" class="outline-3">
+<h3 id="org94e7c5e">Hebrews 3:2</h3>
+<div class="outline-text-3" id="text-org94e7c5e">
+<p>
+qui fidelis est ei, qui fecit illum, sicut et Moyses in omni domo ejus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0319277" class="outline-3">
+<h3 id="org0319277">Hebrews 3:3</h3>
+<div class="outline-text-3" id="text-org0319277">
+<p>
+Amplioris enim gloriæ iste præ Moyse dignus est habitus, quanto ampliorem honorem habet domus, qui fabricavit illam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7ebc00c" class="outline-3">
+<h3 id="org7ebc00c">Hebrews 3:4</h3>
+<div class="outline-text-3" id="text-org7ebc00c">
+<p>
+Omnis namque domus fabricatur ab aliquo : qui autem omnia creavit, Deus est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org679ce53" class="outline-3">
+<h3 id="org679ce53">Hebrews 3:5</h3>
+<div class="outline-text-3" id="text-org679ce53">
+<p>
+Et Moyses quidem fidelis erat in tota domo ejus tamquam famulus, in testimonium eorum, quæ dicenda erant :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbed1c8e" class="outline-3">
+<h3 id="orgbed1c8e">Hebrews 3:6</h3>
+<div class="outline-text-3" id="text-orgbed1c8e">
+<p>
+Christus vero tamquam filius in domo sua : quæ domus sumus nos, si fiduciam, et gloriam spei usque ad finem, firmam retineamus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org42e2ef0" class="outline-3">
+<h3 id="org42e2ef0">Hebrews 3:7</h3>
+<div class="outline-text-3" id="text-org42e2ef0">
+<p>
+Quapropter sicut dicit Spiritus Sanctus : Hodie si vocem ejus audieritis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5272920" class="outline-3">
+<h3 id="org5272920">Hebrews 3:8</h3>
+<div class="outline-text-3" id="text-org5272920">
+<p>
+nolite obdurare corda vestra, sicut in exacerbatione secundum diem tentationis in deserto,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org983a343" class="outline-3">
+<h3 id="org983a343">Hebrews 3:9</h3>
+<div class="outline-text-3" id="text-org983a343">
+<p>
+ubi tentaverunt me patres vestri : probaverunt, et viderunt opera mea
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1168a0f" class="outline-3">
+<h3 id="org1168a0f">Hebrews 3:10</h3>
+<div class="outline-text-3" id="text-org1168a0f">
+<p>
+quadraginta annis : propter quod infensus fui generationi huic, et dixi : Semper errant corde. Ipsi autem non cognoverunt vias meas,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0f4136a" class="outline-3">
+<h3 id="org0f4136a">Hebrews 3:11</h3>
+<div class="outline-text-3" id="text-org0f4136a">
+<p>
+sicut juravi in ira mea : Si introibunt in requiem meam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge5676eb" class="outline-3">
+<h3 id="orge5676eb">Hebrews 3:12</h3>
+<div class="outline-text-3" id="text-orge5676eb">
+<p>
+Videte fratres, ne forte sit in aliquo vestrum cor malum incredulitatis, discedendi a Deo vivo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd9950f5" class="outline-3">
+<h3 id="orgd9950f5">Hebrews 3:13</h3>
+<div class="outline-text-3" id="text-orgd9950f5">
+<p>
+sed adhortamini vosmetipsos per singulos dies, donec hodie cognominatur, ut non obduretur quis ex vobis fallacia peccati.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9494cd9" class="outline-3">
+<h3 id="org9494cd9">Hebrews 3:14</h3>
+<div class="outline-text-3" id="text-org9494cd9">
+<p>
+Participes enim Christi effecti sumus, si tamen initium substantiæ ejus usque ad finem firmum retineamus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org707f7b0" class="outline-3">
+<h3 id="org707f7b0">Hebrews 3:15</h3>
+<div class="outline-text-3" id="text-org707f7b0">
+<p>
+Dum dicitur : Hodie si vocem ejus audieritis, nolite obdurare corda vestra, quemadmodum in illa exacerbatione.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbff4549" class="outline-3">
+<h3 id="orgbff4549">Hebrews 3:16</h3>
+<div class="outline-text-3" id="text-orgbff4549">
+<p>
+Quidam enim audientes exacerbaverunt : sed non universi qui profecti sunt ex Ægypto per Moysen.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3301815" class="outline-3">
+<h3 id="org3301815">Hebrews 3:17</h3>
+<div class="outline-text-3" id="text-org3301815">
+<p>
+Quibus autem infensus est quadraginta annis ? nonne illis qui peccaverunt, quorum cadavera prostrata sunt in deserto ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1dcb60e" class="outline-3">
+<h3 id="org1dcb60e">Hebrews 3:18</h3>
+<div class="outline-text-3" id="text-org1dcb60e">
+<p>
+Quibus autem juravit non introire in requiem ipsius, nisi illis qui increduli fuerunt ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3d17efe" class="outline-3">
+<h3 id="org3d17efe">Hebrews 3:19</h3>
+<div class="outline-text-3" id="text-org3d17efe">
+<p>
+Et videmus, quia non potuerunt introire propter incredulitatem.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org9ff219e" class="outline-2">
+<h2 id="org9ff219e">Hebrews 4</h2>
+<div class="outline-text-2" id="text-org9ff219e">
+</div>
+<div id="outline-container-org6c06589" class="outline-3">
+<h3 id="org6c06589">Hebrews 4:1</h3>
+<div class="outline-text-3" id="text-org6c06589">
+<p>
+Timeamus ergo ne forte relicta pollicitatione introëundi in requiem ejus, existimetur aliquis ex vobis deesse.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd5f6a6d" class="outline-3">
+<h3 id="orgd5f6a6d">Hebrews 4:2</h3>
+<div class="outline-text-3" id="text-orgd5f6a6d">
+<p>
+Etenim et nobis nuntiatum est, quemadmodum et illis : sed non profuit illis sermo auditus, non admistus fidei ex iis quæ audierunt.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge88b51d" class="outline-3">
+<h3 id="orge88b51d">Hebrews 4:3</h3>
+<div class="outline-text-3" id="text-orge88b51d">
+<p>
+Ingrediemur enim in requiem, qui credidimus : quemadmodum dixit : Sicut juravi in ira mea : Si introibunt in requiem meam : et quidem operibus ab institutione mundi perfectis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge9dc3c5" class="outline-3">
+<h3 id="orge9dc3c5">Hebrews 4:4</h3>
+<div class="outline-text-3" id="text-orge9dc3c5">
+<p>
+Dixit enim in quodam loco de die septima sic : Et requievit Deus die septima ab omnibus operibus suis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org58a6717" class="outline-3">
+<h3 id="org58a6717">Hebrews 4:5</h3>
+<div class="outline-text-3" id="text-org58a6717">
+<p>
+Et in isto rursum : Si introibunt in requiem meam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgec86f51" class="outline-3">
+<h3 id="orgec86f51">Hebrews 4:6</h3>
+<div class="outline-text-3" id="text-orgec86f51">
+<p>
+Quoniam ergo superest introire quosdam in illam, et ii, quibus prioribus annuntiatum est, non introierunt propter incredulitatem :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgede7213" class="outline-3">
+<h3 id="orgede7213">Hebrews 4:7</h3>
+<div class="outline-text-3" id="text-orgede7213">
+<p>
+iterum terminat diem quemdam, Hodie, in David dicendo, post tantum temporis, sicut supra dictum est : Hodie si vocem ejus audieritis, nolite obdurare corda vestra.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfa5dea5" class="outline-3">
+<h3 id="orgfa5dea5">Hebrews 4:8</h3>
+<div class="outline-text-3" id="text-orgfa5dea5">
+<p>
+Nam si eis Jesus requiem præstitisset, numquam de alia loqueretur, posthac, die.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org46167e7" class="outline-3">
+<h3 id="org46167e7">Hebrews 4:9</h3>
+<div class="outline-text-3" id="text-org46167e7">
+<p>
+Itaque relinquitur sabbatismus populo Dei.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5047baf" class="outline-3">
+<h3 id="org5047baf">Hebrews 4:10</h3>
+<div class="outline-text-3" id="text-org5047baf">
+<p>
+Qui enim ingressus est in requiem ejus, etiam ipse requievit ab operibus suis, sicut a suis Deus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org54e5dbd" class="outline-3">
+<h3 id="org54e5dbd">Hebrews 4:11</h3>
+<div class="outline-text-3" id="text-org54e5dbd">
+<p>
+Festinemus ergo ingredi in illam requiem : ut ne in idipsum quis incidat incredulitatis exemplum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4769995" class="outline-3">
+<h3 id="org4769995">Hebrews 4:12</h3>
+<div class="outline-text-3" id="text-org4769995">
+<p>
+Vivus est enim sermo Dei, et efficax et penetrabilior omni gladio ancipiti : et pertingens usque ad divisionem animæ ac spiritus : compagum quoque ac medullarum, et discretor cogitationum et intentionum cordis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org901caa9" class="outline-3">
+<h3 id="org901caa9">Hebrews 4:13</h3>
+<div class="outline-text-3" id="text-org901caa9">
+<p>
+Et non est ulla creatura invisibilis in conspectu ejus : omnia autem nuda et aperta sunt oculis ejus, ad quem nobis sermo.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2b1245d" class="outline-3">
+<h3 id="org2b1245d">Hebrews 4:14</h3>
+<div class="outline-text-3" id="text-org2b1245d">
+<p>
+Habentes ergo pontificem magnum qui penetravit cælos, Jesum Filium Dei, teneamus confessionem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org821039c" class="outline-3">
+<h3 id="org821039c">Hebrews 4:15</h3>
+<div class="outline-text-3" id="text-org821039c">
+<p>
+Non enim habemus pontificem qui non possit compati infirmitatibus nostris : tentatum autem per omnia pro similitudine absque peccato.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4db199d" class="outline-3">
+<h3 id="org4db199d">Hebrews 4:16</h3>
+<div class="outline-text-3" id="text-org4db199d">
+<p>
+Adeamus ergo cum fiducia ad thronum gratiæ : ut misericordiam consequamur, et gratiam inveniamus in auxilio opportuno.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org1e006db" class="outline-2">
+<h2 id="org1e006db">Hebrews 5</h2>
+<div class="outline-text-2" id="text-org1e006db">
+</div>
+<div id="outline-container-org8dadfca" class="outline-3">
+<h3 id="org8dadfca">Hebrews 5:1</h3>
+<div class="outline-text-3" id="text-org8dadfca">
+<p>
+Omnis namque pontifex ex hominibus assumptus, pro hominibus constituitur in iis quæ sunt ad Deum, ut offerat dona, et sacrificia pro peccatis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5ac7d37" class="outline-3">
+<h3 id="org5ac7d37">Hebrews 5:2</h3>
+<div class="outline-text-3" id="text-org5ac7d37">
+<p>
+qui condolere possit iis qui ignorant et errant : quoniam et ipse circumdatus est infirmitate :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org439e822" class="outline-3">
+<h3 id="org439e822">Hebrews 5:3</h3>
+<div class="outline-text-3" id="text-org439e822">
+<p>
+et propterea debet, quemadmodum pro populo, ita etiam et pro semetipso offerre pro peccatis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org279b8cf" class="outline-3">
+<h3 id="org279b8cf">Hebrews 5:4</h3>
+<div class="outline-text-3" id="text-org279b8cf">
+<p>
+Nec quisquam sumit sibi honorem, sed qui vocatur a Deo, tamquam Aaron.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org30cfaa8" class="outline-3">
+<h3 id="org30cfaa8">Hebrews 5:5</h3>
+<div class="outline-text-3" id="text-org30cfaa8">
+<p>
+Sic et Christus non semetipsum clarificavit ut pontifex fieret : sed qui locutus est ad eum : Filius meus es tu, ego hodie genui te.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5af54b4" class="outline-3">
+<h3 id="org5af54b4">Hebrews 5:6</h3>
+<div class="outline-text-3" id="text-org5af54b4">
+<p>
+Quemadmodum et in alio loco dicit : Tu es sacerdos in æternum, secundum ordinem Melchisedech.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org59fb4d0" class="outline-3">
+<h3 id="org59fb4d0">Hebrews 5:7</h3>
+<div class="outline-text-3" id="text-org59fb4d0">
+<p>
+Qui in diebus carnis suæ preces, supplicationesque ad eum qui possit illum salvum facere a morte cum clamore valido, et lacrimis offerens, exauditus est pro sua reverentia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org89490ef" class="outline-3">
+<h3 id="org89490ef">Hebrews 5:8</h3>
+<div class="outline-text-3" id="text-org89490ef">
+<p>
+Et quidem cum esset Filius Dei, didicit ex iis, quæ passus est, obedientiam :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga6bdb33" class="outline-3">
+<h3 id="orga6bdb33">Hebrews 5:9</h3>
+<div class="outline-text-3" id="text-orga6bdb33">
+<p>
+et consummatus, factus est omnibus obtemperantibus sibi, causa salutis æternæ,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org64ca3d2" class="outline-3">
+<h3 id="org64ca3d2">Hebrews 5:10</h3>
+<div class="outline-text-3" id="text-org64ca3d2">
+<p>
+appellatus a Deo pontifex juxta ordinem Melchisedech.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6603ef9" class="outline-3">
+<h3 id="org6603ef9">Hebrews 5:11</h3>
+<div class="outline-text-3" id="text-org6603ef9">
+<p>
+De quo nobis grandis sermo, et ininterpretabilis ad dicendum : quoniam imbecilles facti estis ad audiendum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5666844" class="outline-3">
+<h3 id="org5666844">Hebrews 5:12</h3>
+<div class="outline-text-3" id="text-org5666844">
+<p>
+Etenim cum deberetis magistri esse propter tempus, rursum indigetis ut vos doceamini quæ sint elementa exordii sermonum Dei : et facti estis quibus lacte opus sit, non solido cibo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge7ea7c3" class="outline-3">
+<h3 id="orge7ea7c3">Hebrews 5:13</h3>
+<div class="outline-text-3" id="text-orge7ea7c3">
+<p>
+Omnis enim, qui lactis est particeps, expers est sermonis justitiæ : parvulus enim est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org06daecc" class="outline-3">
+<h3 id="org06daecc">Hebrews 5:14</h3>
+<div class="outline-text-3" id="text-org06daecc">
+<p>
+Perfectorum autem est solidus cibus : eorum, qui pro consuetudine exercitatos habent sensus ad discretionem boni ac mali.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org6ec7602" class="outline-2">
+<h2 id="org6ec7602">Hebrews 6</h2>
+<div class="outline-text-2" id="text-org6ec7602">
+</div>
+<div id="outline-container-org817d749" class="outline-3">
+<h3 id="org817d749">Hebrews 6:1</h3>
+<div class="outline-text-3" id="text-org817d749">
+<p>
+Quapropter intermittentes inchoationis Christi sermonem, ad perfectiora feramur, non rursum jacientes fundamentum pœnitentiæ ab operibus mortuis, et fidei ad Deum,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf9e024a" class="outline-3">
+<h3 id="orgf9e024a">Hebrews 6:2</h3>
+<div class="outline-text-3" id="text-orgf9e024a">
+<p>
+baptismatum doctrinæ, impositionis quoque manuum, ac resurrectionis mortuorum, et judicii æterni.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org23820a3" class="outline-3">
+<h3 id="org23820a3">Hebrews 6:3</h3>
+<div class="outline-text-3" id="text-org23820a3">
+<p>
+Et hoc faciemus, si quidem permiserit Deus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdacaa91" class="outline-3">
+<h3 id="orgdacaa91">Hebrews 6:4</h3>
+<div class="outline-text-3" id="text-orgdacaa91">
+<p>
+Impossibile est enim eos qui semel sunt illuminati, gustaverunt etiam donum cæleste, et participes facti sunt Spiritus Sancti,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgba01bcc" class="outline-3">
+<h3 id="orgba01bcc">Hebrews 6:5</h3>
+<div class="outline-text-3" id="text-orgba01bcc">
+<p>
+gustaverunt nihilominus bonum Dei verbum, virtutesque sæculi venturi,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org953a614" class="outline-3">
+<h3 id="org953a614">Hebrews 6:6</h3>
+<div class="outline-text-3" id="text-org953a614">
+<p>
+et prolapsi sunt ; rursus renovari ad pœnitentiam, rursum crucifigentes sibimetipsis Filium Dei, et ostentui habentes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org37e7ec3" class="outline-3">
+<h3 id="org37e7ec3">Hebrews 6:7</h3>
+<div class="outline-text-3" id="text-org37e7ec3">
+<p>
+Terra enim sæpe venientem super se bibens imbrem, et generans herbam opportunam illis, a quibus colitur, accipit benedictionem a Deo :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge1e4d10" class="outline-3">
+<h3 id="orge1e4d10">Hebrews 6:8</h3>
+<div class="outline-text-3" id="text-orge1e4d10">
+<p>
+proferens autem spinas ac tribulos, reproba est, et maledicto proxima : cujus consummatio in combustionem.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0ea3178" class="outline-3">
+<h3 id="org0ea3178">Hebrews 6:9</h3>
+<div class="outline-text-3" id="text-org0ea3178">
+<p>
+Confidimus autem de vobis dilectissimi meliora, et viciniora saluti : tametsi ita loquimur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5409749" class="outline-3">
+<h3 id="org5409749">Hebrews 6:10</h3>
+<div class="outline-text-3" id="text-org5409749">
+<p>
+Non enim injustus Deus, ut obliviscatur operis vestri, et dilectionis, quam ostendistis in nomine ipsius, qui ministrastis sanctis, et ministratis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaec3c1b" class="outline-3">
+<h3 id="orgaec3c1b">Hebrews 6:11</h3>
+<div class="outline-text-3" id="text-orgaec3c1b">
+<p>
+Cupimus autem unumquemque vestrum eamdem ostentare sollicitudinem ad expletionem spei usque in finem :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3450bdd" class="outline-3">
+<h3 id="org3450bdd">Hebrews 6:12</h3>
+<div class="outline-text-3" id="text-org3450bdd">
+<p>
+ut non segnes efficiamini, verum imitatores eorum, qui fide, et patientia hæreditabunt promissiones.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7109cc6" class="outline-3">
+<h3 id="org7109cc6">Hebrews 6:13</h3>
+<div class="outline-text-3" id="text-org7109cc6">
+<p>
+Abrahæ namque promittens Deus, quoniam neminem habuit, per quem juraret, majorem, juravit per semetipsum,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7074377" class="outline-3">
+<h3 id="org7074377">Hebrews 6:14</h3>
+<div class="outline-text-3" id="text-org7074377">
+<p>
+dicens : Nisi benedicens benedicam te, et multiplicans multiplicabo te.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org54b6944" class="outline-3">
+<h3 id="org54b6944">Hebrews 6:15</h3>
+<div class="outline-text-3" id="text-org54b6944">
+<p>
+Et sic longanimiter ferens, adeptus est repromissionem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e1e757" class="outline-3">
+<h3 id="org9e1e757">Hebrews 6:16</h3>
+<div class="outline-text-3" id="text-org9e1e757">
+<p>
+Homines enim per majorem sui jurant : et omnis controversiæ eorum finis, ad confirmationem, est juramentum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7081989" class="outline-3">
+<h3 id="org7081989">Hebrews 6:17</h3>
+<div class="outline-text-3" id="text-org7081989">
+<p>
+In quo abundantius volens Deus ostendere pollicitationis hæredibus, immobilitatem consilii sui, interposuit jusjurandum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf478a83" class="outline-3">
+<h3 id="orgf478a83">Hebrews 6:18</h3>
+<div class="outline-text-3" id="text-orgf478a83">
+<p>
+ut per duas res immobiles, quibus impossibile est mentiri Deum, fortissimum solatium habeamus, qui confugimus ad tenendam propositam spem,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org38e8665" class="outline-3">
+<h3 id="org38e8665">Hebrews 6:19</h3>
+<div class="outline-text-3" id="text-org38e8665">
+<p>
+quam sicut anchoram habemus animæ tutam ac firmam, et incedentem usque ad interiora velaminis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc7200e" class="outline-3">
+<h3 id="orgfc7200e">Hebrews 6:20</h3>
+<div class="outline-text-3" id="text-orgfc7200e">
+<p>
+ubi præcursor pro nobis introivit Jesus, secundum ordinem Melchisedech pontifex factus in æternum.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org663f391" class="outline-2">
+<h2 id="org663f391">Hebrews 7</h2>
+<div class="outline-text-2" id="text-org663f391">
+</div>
+<div id="outline-container-orgca8c1b8" class="outline-3">
+<h3 id="orgca8c1b8">Hebrews 7:1</h3>
+<div class="outline-text-3" id="text-orgca8c1b8">
+<p>
+Hic enim Melchisedech, rex Salem, sacerdos Dei summi, qui obviavit Abrahæ regresso a cæde regum, et benedixit ei :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6d110ae" class="outline-3">
+<h3 id="org6d110ae">Hebrews 7:2</h3>
+<div class="outline-text-3" id="text-org6d110ae">
+<p>
+cui et decimas omnium divisit Abraham : primum quidem qui interpretatur rex justitiæ : deinde autem et rex Salem, quod est, rex pacis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org104e6e9" class="outline-3">
+<h3 id="org104e6e9">Hebrews 7:3</h3>
+<div class="outline-text-3" id="text-org104e6e9">
+<p>
+sine patre, sine matre, sine genealogia, neque initium dierum, neque finem vitæ habens, assimilatus autem Filio Dei, manet sacerdos in perpetuum.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2566dcc" class="outline-3">
+<h3 id="org2566dcc">Hebrews 7:4</h3>
+<div class="outline-text-3" id="text-org2566dcc">
+<p>
+Intuemini autem quantus sit hic, cui et decimas dedit de præcipuis Abraham patriarcha.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbab577f" class="outline-3">
+<h3 id="orgbab577f">Hebrews 7:5</h3>
+<div class="outline-text-3" id="text-orgbab577f">
+<p>
+Et quidem de filiis Levi sacerdotium accipientes, mandatum habent decimas sumere a populo secundum legem, id est, a fratribus suis : quamquam et ipsi exierint de lumbis Abrahæ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfdf682" class="outline-3">
+<h3 id="orgbfdf682">Hebrews 7:6</h3>
+<div class="outline-text-3" id="text-orgbfdf682">
+<p>
+Cujus autem generatio non annumeratur in eis, decimas sumpsit ab Abraham, et hunc, qui habebat repromissiones, benedixit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge50a773" class="outline-3">
+<h3 id="orge50a773">Hebrews 7:7</h3>
+<div class="outline-text-3" id="text-orge50a773">
+<p>
+Sine ulla autem contradictione, quod minus est, a meliore benedicitur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org607c87d" class="outline-3">
+<h3 id="org607c87d">Hebrews 7:8</h3>
+<div class="outline-text-3" id="text-org607c87d">
+<p>
+Et hic quidem, decimas morientes homines accipiunt : ibi autem contestatur, quia vivit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8997742" class="outline-3">
+<h3 id="org8997742">Hebrews 7:9</h3>
+<div class="outline-text-3" id="text-org8997742">
+<p>
+Et (ut ita dictum sit) per Abraham, et Levi, qui decimas accepit, decimatus est :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgedf75b5" class="outline-3">
+<h3 id="orgedf75b5">Hebrews 7:10</h3>
+<div class="outline-text-3" id="text-orgedf75b5">
+<p>
+adhuc enim in lumbis patris erat, quando obviavit ei Melchisedech.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb86fd7e" class="outline-3">
+<h3 id="orgb86fd7e">Hebrews 7:11</h3>
+<div class="outline-text-3" id="text-orgb86fd7e">
+<p>
+Si ergo consummatio per sacerdotium Leviticum erat (populus enim sub ipso legem accepit) quid adhuc necessarium fuit secundum ordinem Melchisedech, alium surgere sacerdotem, et non secundum ordinem Aaron dici ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org66e3612" class="outline-3">
+<h3 id="org66e3612">Hebrews 7:12</h3>
+<div class="outline-text-3" id="text-org66e3612">
+<p>
+Translato enim sacerdotio, necesse est ut et legis translatio fiat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf7b0341" class="outline-3">
+<h3 id="orgf7b0341">Hebrews 7:13</h3>
+<div class="outline-text-3" id="text-orgf7b0341">
+<p>
+In quo enim hæc dicuntur, de alia tribu est, de qua nullus altari præsto fuit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1941763" class="outline-3">
+<h3 id="org1941763">Hebrews 7:14</h3>
+<div class="outline-text-3" id="text-org1941763">
+<p>
+Manifestum est enim quod ex Juda ortus sit Dominus noster : in qua tribu nihil de sacerdotibus Moyses locutus est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org85968b3" class="outline-3">
+<h3 id="org85968b3">Hebrews 7:15</h3>
+<div class="outline-text-3" id="text-org85968b3">
+<p>
+Et amplius adhuc manifestum est : si secundum similitudinem Melchisedech exsurgat alius sacerdos,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga0827b0" class="outline-3">
+<h3 id="orga0827b0">Hebrews 7:16</h3>
+<div class="outline-text-3" id="text-orga0827b0">
+<p>
+qui non secundum legem mandati carnalis factus est, sed secundum virtutem vitæ insolubilis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbee58aa" class="outline-3">
+<h3 id="orgbee58aa">Hebrews 7:17</h3>
+<div class="outline-text-3" id="text-orgbee58aa">
+<p>
+Contestatur enim : Quoniam tu es sacerdos in æternum, secundum ordinem Melchisedech.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb60b2be" class="outline-3">
+<h3 id="orgb60b2be">Hebrews 7:18</h3>
+<div class="outline-text-3" id="text-orgb60b2be">
+<p>
+Reprobatio quidem fit præcedentis mandati, propter infirmitatem ejus, et inutilitatem :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd7c2cf2" class="outline-3">
+<h3 id="orgd7c2cf2">Hebrews 7:19</h3>
+<div class="outline-text-3" id="text-orgd7c2cf2">
+<p>
+nihil enim ad perfectum adduxit lex : introductio vero melioris spei, per quam proximamus ad Deum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb3fa261" class="outline-3">
+<h3 id="orgb3fa261">Hebrews 7:20</h3>
+<div class="outline-text-3" id="text-orgb3fa261">
+<p>
+Et quantum est non sine jurejurando (alii quidem sine jurejurando sacerdotes facti sunt,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1f85f3d" class="outline-3">
+<h3 id="org1f85f3d">Hebrews 7:21</h3>
+<div class="outline-text-3" id="text-org1f85f3d">
+<p>
+hic autem cum jurejurando per eum, qui dixit ad illum : Juravit Dominus, et non pœnitebit eum : tu es sacerdos in æternum) :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfbac9ee" class="outline-3">
+<h3 id="orgfbac9ee">Hebrews 7:22</h3>
+<div class="outline-text-3" id="text-orgfbac9ee">
+<p>
+in tantum melioris testamenti sponsor factus est Jesus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb209563" class="outline-3">
+<h3 id="orgb209563">Hebrews 7:23</h3>
+<div class="outline-text-3" id="text-orgb209563">
+<p>
+Et alii quidem plures facti sunt sacerdotes, idcirco quod morte prohiberentur permanere :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9065853" class="outline-3">
+<h3 id="org9065853">Hebrews 7:24</h3>
+<div class="outline-text-3" id="text-org9065853">
+<p>
+hic autem eo quod maneat in æternum, sempiternum habet sacerdotium.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org474030f" class="outline-3">
+<h3 id="org474030f">Hebrews 7:25</h3>
+<div class="outline-text-3" id="text-org474030f">
+<p>
+Unde et salvare in perpetuum potest accedentes per semetipsum ad Deum : semper vivens ad interpellandum pro nobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2de0110" class="outline-3">
+<h3 id="org2de0110">Hebrews 7:26</h3>
+<div class="outline-text-3" id="text-org2de0110">
+<p>
+Talis enim decebat ut nobis esset pontifex, sanctus, innocens, impollutus, segregatus a peccatoribus, et excelsior cælis factus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5a80e6c" class="outline-3">
+<h3 id="org5a80e6c">Hebrews 7:27</h3>
+<div class="outline-text-3" id="text-org5a80e6c">
+<p>
+qui non habet necessitatem quotidie, quemadmodum sacerdotes, prius pro suis delictis hostias offerre, deinde pro populi : hoc enim fecit semel, seipsum offerendo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdc8c6b2" class="outline-3">
+<h3 id="orgdc8c6b2">Hebrews 7:28</h3>
+<div class="outline-text-3" id="text-orgdc8c6b2">
+<p>
+Lex enim homines constituit sacerdotes infirmitatem habentes : sermo autem jurisjurandi, qui post legem est, Filium in æternum perfectum.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org6221ddb" class="outline-2">
+<h2 id="org6221ddb">Hebrews 8</h2>
+<div class="outline-text-2" id="text-org6221ddb">
+</div>
+<div id="outline-container-org6752dee" class="outline-3">
+<h3 id="org6752dee">Hebrews 8:1</h3>
+<div class="outline-text-3" id="text-org6752dee">
+<p>
+Capitulum autem super ea quæ dicuntur : Talem habemus pontificem, qui consedit in dextera sedis magnitudinis in cælis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9dc5d17" class="outline-3">
+<h3 id="org9dc5d17">Hebrews 8:2</h3>
+<div class="outline-text-3" id="text-org9dc5d17">
+<p>
+sanctorum minister, et tabernaculi veri, quod fixit Dominus, et non homo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6f9e20b" class="outline-3">
+<h3 id="org6f9e20b">Hebrews 8:3</h3>
+<div class="outline-text-3" id="text-org6f9e20b">
+<p>
+Omnis enim pontifex ad offerendum munera, et hostias constituitur : unde necesse est et hunc habere aliquid, quod offerat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b20cfa" class="outline-3">
+<h3 id="org4b20cfa">Hebrews 8:4</h3>
+<div class="outline-text-3" id="text-org4b20cfa">
+<p>
+Si ergo esset super terram, nec esset sacerdos : cum essent qui offerent secundum legem munera,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org68d8d2a" class="outline-3">
+<h3 id="org68d8d2a">Hebrews 8:5</h3>
+<div class="outline-text-3" id="text-org68d8d2a">
+<p>
+qui exemplari, et umbræ deserviunt cælestium. Sicut responsum est Moysi, cum consummaret tabernaculum : Vide (inquit) omnia facito secundum exemplar, quod tibi ostensum est in monte.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbdef425" class="outline-3">
+<h3 id="orgbdef425">Hebrews 8:6</h3>
+<div class="outline-text-3" id="text-orgbdef425">
+<p>
+Nunc autem melius sortitus est ministerium, quanto et melioris testamenti mediator est, quod in melioribus repromissionibus sancitum est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8911c9f" class="outline-3">
+<h3 id="org8911c9f">Hebrews 8:7</h3>
+<div class="outline-text-3" id="text-org8911c9f">
+<p>
+Nam si illud prius culpa vacasset, non utique secundi locus inquireretur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1327c63" class="outline-3">
+<h3 id="org1327c63">Hebrews 8:8</h3>
+<div class="outline-text-3" id="text-org1327c63">
+<p>
+Vituperans enim eos dicit : Ecce dies venient, dicit Dominus : et consummabo super domum Israël, et super domum Juda, testamentum novum,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdd4df2b" class="outline-3">
+<h3 id="orgdd4df2b">Hebrews 8:9</h3>
+<div class="outline-text-3" id="text-orgdd4df2b">
+<p>
+non secundum testamentum quod feci patribus eorum in die qua apprehendi manum eorum ut educerem illos de terra Ægypti : quoniam ipsi non permanserunt in testamento meo : et ego neglexi eos, dicit Dominus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd2ab405" class="outline-3">
+<h3 id="orgd2ab405">Hebrews 8:10</h3>
+<div class="outline-text-3" id="text-orgd2ab405">
+<p>
+Quia hoc est testamentum quod disponam domui Israël post dies illos, dicit Dominus : dando leges meas in mentem eorum, et in corde eorum superscribam eas : et ero eis in Deum, et ipsi erunt mihi in populum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgad818a5" class="outline-3">
+<h3 id="orgad818a5">Hebrews 8:11</h3>
+<div class="outline-text-3" id="text-orgad818a5">
+<p>
+et non docebit unusquisque proximum suum, et unusquisque fratrem suum, dicens : Cognosce Dominum : quoniam omnes scient me a minore usque ad majorem eorum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb06d017" class="outline-3">
+<h3 id="orgb06d017">Hebrews 8:12</h3>
+<div class="outline-text-3" id="text-orgb06d017">
+<p>
+quia propitius ero iniquitatibus eorum, et peccatorum eorum jam non memorabor.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcc45711" class="outline-3">
+<h3 id="orgcc45711">Hebrews 8:13</h3>
+<div class="outline-text-3" id="text-orgcc45711">
+<p>
+Dicendo autem novum : veteravit prius. Quod autem antiquatur, et senescit, prope interitum est.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgf1126ad" class="outline-2">
+<h2 id="orgf1126ad">Hebrews 9</h2>
+<div class="outline-text-2" id="text-orgf1126ad">
+</div>
+<div id="outline-container-orgfba410f" class="outline-3">
+<h3 id="orgfba410f">Hebrews 9:1</h3>
+<div class="outline-text-3" id="text-orgfba410f">
+<p>
+Habuit quidem et prius justificationes culturæ, et Sanctum sæculare.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc584d16" class="outline-3">
+<h3 id="orgc584d16">Hebrews 9:2</h3>
+<div class="outline-text-3" id="text-orgc584d16">
+<p>
+Tabernaculum enim factum est primum, in quo erant candelabra, et mensa, et propositio panum, quæ dicitur Sancta.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org64f3dcd" class="outline-3">
+<h3 id="org64f3dcd">Hebrews 9:3</h3>
+<div class="outline-text-3" id="text-org64f3dcd">
+<p>
+Post velamentum autem secundum, tabernaculum, quod dicitur Sancta sanctorum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c8bd30" class="outline-3">
+<h3 id="org8c8bd30">Hebrews 9:4</h3>
+<div class="outline-text-3" id="text-org8c8bd30">
+<p>
+aureum habens thuribulum, et arcam testamenti circumtectam ex omni parte auro, in qua urna aurea habens manna, et virga Aaron, quæ fronduerat, et tabulæ testamenti,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5df1365" class="outline-3">
+<h3 id="org5df1365">Hebrews 9:5</h3>
+<div class="outline-text-3" id="text-org5df1365">
+<p>
+superque eam erant cherubim gloriæ obumbrantia propitiatorium : de quibus non est modo dicendum per singula.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5dd3865" class="outline-3">
+<h3 id="org5dd3865">Hebrews 9:6</h3>
+<div class="outline-text-3" id="text-org5dd3865">
+<p>
+His vero ita compositis, in priori quidem tabernaculo semper introibant sacerdotes, sacrificiorum officia consummantes :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf29e8d2" class="outline-3">
+<h3 id="orgf29e8d2">Hebrews 9:7</h3>
+<div class="outline-text-3" id="text-orgf29e8d2">
+<p>
+in secundo autem semel in anno solus pontifex non sine sanguine, quem offert pro sua et populi ignorantia :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6fb6197" class="outline-3">
+<h3 id="org6fb6197">Hebrews 9:8</h3>
+<div class="outline-text-3" id="text-org6fb6197">
+<p>
+hoc significante Spiritu Sancto, nondum propalatam esse sanctorum viam, adhuc priore tabernaculo habente statum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb19d552" class="outline-3">
+<h3 id="orgb19d552">Hebrews 9:9</h3>
+<div class="outline-text-3" id="text-orgb19d552">
+<p>
+quæ parabola est temporis instantis : juxta quam munera, et hostiæ offeruntur, quæ non possunt juxta conscientiam perfectum facere servientem, solummodo in cibis, et in potibus,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org72119ef" class="outline-3">
+<h3 id="org72119ef">Hebrews 9:10</h3>
+<div class="outline-text-3" id="text-org72119ef">
+<p>
+et variis baptismatibus, et justitiis carnis usque ad tempus correctionis impositis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd0939fe" class="outline-3">
+<h3 id="orgd0939fe">Hebrews 9:11</h3>
+<div class="outline-text-3" id="text-orgd0939fe">
+<p>
+Christus autem assistens pontifex futurorum bonorum, per amplius et perfectius tabernaculum, non manufactum, id est, non hujus creationis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8e9ed54" class="outline-3">
+<h3 id="org8e9ed54">Hebrews 9:12</h3>
+<div class="outline-text-3" id="text-org8e9ed54">
+<p>
+neque per sanguinem hircorum aut vitulorum, sed per proprium sanguinem introivit semel in Sancta, æterna redemptione inventa.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb981e22" class="outline-3">
+<h3 id="orgb981e22">Hebrews 9:13</h3>
+<div class="outline-text-3" id="text-orgb981e22">
+<p>
+Si enim sanguis hircorum et taurorum, et cinis vitulæ aspersus inquinatos sanctificat ad emundationem carnis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb1bf884" class="outline-3">
+<h3 id="orgb1bf884">Hebrews 9:14</h3>
+<div class="outline-text-3" id="text-orgb1bf884">
+<p>
+quanto magis sanguis Christi, qui per Spiritum Sanctum semetipsum obtulit immaculatum Deo, emundabit conscientiam nostram ab operibus mortuis, ad serviendum Deo viventi ?  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org07fade6" class="outline-3">
+<h3 id="org07fade6">Hebrews 9:15</h3>
+<div class="outline-text-3" id="text-org07fade6">
+<p>
+Et ideo novi testamenti mediator est : ut morte intercedente, in redemptionem earum prævaricationum, quæ erant sub priori testamento, repromissionem accipiant qui vocati sunt æternæ hæreditatis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org758522d" class="outline-3">
+<h3 id="org758522d">Hebrews 9:16</h3>
+<div class="outline-text-3" id="text-org758522d">
+<p>
+Ubi enim testamentum est, mors necesse est intercedat testatoris.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7aa40e7" class="outline-3">
+<h3 id="org7aa40e7">Hebrews 9:17</h3>
+<div class="outline-text-3" id="text-org7aa40e7">
+<p>
+Testamentum enim in mortuis confirmatum est : alioquin nondum valet, dum vivit qui testatus est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd431cba" class="outline-3">
+<h3 id="orgd431cba">Hebrews 9:18</h3>
+<div class="outline-text-3" id="text-orgd431cba">
+<p>
+Unde nec primum quidem sine sanguine dedicatum est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b4f506" class="outline-3">
+<h3 id="org4b4f506">Hebrews 9:19</h3>
+<div class="outline-text-3" id="text-org4b4f506">
+<p>
+Lecto enim omni mandato legis a Moyse universo populo, accipiens sanguinem vitulorum et hircorum cum aqua, et lana coccinea, et hyssopo, ipsum quoque librum, et omnem populum aspersit,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge3bdc5e" class="outline-3">
+<h3 id="orge3bdc5e">Hebrews 9:20</h3>
+<div class="outline-text-3" id="text-orge3bdc5e">
+<p>
+dicens : Hic sanguis testamenti, quod mandavit ad vos Deus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb6cb134" class="outline-3">
+<h3 id="orgb6cb134">Hebrews 9:21</h3>
+<div class="outline-text-3" id="text-orgb6cb134">
+<p>
+Etiam tabernaculum et omnia vasa ministerii sanguine similiter aspersit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd990f56" class="outline-3">
+<h3 id="orgd990f56">Hebrews 9:22</h3>
+<div class="outline-text-3" id="text-orgd990f56">
+<p>
+Et omnia pene in sanguine secundum legem mundantur : et sine sanguinis effusione non fit remissio.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgec653fa" class="outline-3">
+<h3 id="orgec653fa">Hebrews 9:23</h3>
+<div class="outline-text-3" id="text-orgec653fa">
+<p>
+Necesse est ergo exemplaria quidem cælestium his mundari : ipsa autem cælestia melioribus hostiis quam istis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7ab7fd7" class="outline-3">
+<h3 id="org7ab7fd7">Hebrews 9:24</h3>
+<div class="outline-text-3" id="text-org7ab7fd7">
+<p>
+Non enim in manufacta Sancta Jesus introivit exemplaria verorum : sed in ipsum cælum, ut appareat nunc vultui Dei pro nobis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05cee3f" class="outline-3">
+<h3 id="org05cee3f">Hebrews 9:25</h3>
+<div class="outline-text-3" id="text-org05cee3f">
+<p>
+neque ut sæpe offerat semetipsum, quemadmodum pontifex intrat in Sancta per singulos annos in sanguine alieno :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3ae2c13" class="outline-3">
+<h3 id="org3ae2c13">Hebrews 9:26</h3>
+<div class="outline-text-3" id="text-org3ae2c13">
+<p>
+alioquin oportebat eum frequenter pati ab origine mundi : nunc autem semel in consummatione sæculorum, ad destitutionem peccati, per hostiam suam apparuit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3417f0c" class="outline-3">
+<h3 id="org3417f0c">Hebrews 9:27</h3>
+<div class="outline-text-3" id="text-org3417f0c">
+<p>
+Et quemadmodum statutum est hominibus semel mori, post hoc autem judicium :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5f20016" class="outline-3">
+<h3 id="org5f20016">Hebrews 9:28</h3>
+<div class="outline-text-3" id="text-org5f20016">
+<p>
+sic et Christus semel oblatus est ad multorum exhaurienda peccata : secundo sine peccato apparebit exspectantibus se, in salutem.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org0f62ea1" class="outline-2">
+<h2 id="org0f62ea1">Hebrews 10</h2>
+<div class="outline-text-2" id="text-org0f62ea1">
+</div>
+<div id="outline-container-orga7f18d0" class="outline-3">
+<h3 id="orga7f18d0">Hebrews 10:1</h3>
+<div class="outline-text-3" id="text-orga7f18d0">
+<p>
+Umbram enim habens lex futurorum bonorum, non ipsam imaginem rerum : per singulos annos, eisdem ipsis hostiis quas offerunt indesinenter, numquam potest accedentes perfectos facere :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0c266ff" class="outline-3">
+<h3 id="org0c266ff">Hebrews 10:2</h3>
+<div class="outline-text-3" id="text-org0c266ff">
+<p>
+alioquin cessassent offerri : ideo quod nullam haberent ultra conscientiam peccati, cultores semel mundati :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3de16d4" class="outline-3">
+<h3 id="org3de16d4">Hebrews 10:3</h3>
+<div class="outline-text-3" id="text-org3de16d4">
+<p>
+sed in ipsis commemoratio peccatorum per singulos annos fit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5976955" class="outline-3">
+<h3 id="org5976955">Hebrews 10:4</h3>
+<div class="outline-text-3" id="text-org5976955">
+<p>
+Impossibile enim est sanguine taurorum et hircorum auferri peccata.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd4402fb" class="outline-3">
+<h3 id="orgd4402fb">Hebrews 10:5</h3>
+<div class="outline-text-3" id="text-orgd4402fb">
+<p>
+Ideo ingrediens mundum dicit : Hostiam et oblationem noluisti : corpus autem aptasti mihi :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf29dae8" class="outline-3">
+<h3 id="orgf29dae8">Hebrews 10:6</h3>
+<div class="outline-text-3" id="text-orgf29dae8">
+<p>
+holocautomata pro peccato non tibi placuerunt.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8cf178d" class="outline-3">
+<h3 id="org8cf178d">Hebrews 10:7</h3>
+<div class="outline-text-3" id="text-org8cf178d">
+<p>
+Tunc dixi : Ecce venio : in capite libri scriptum est de me : Ut faciam, Deus, voluntatem tuam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga23d620" class="outline-3">
+<h3 id="orga23d620">Hebrews 10:8</h3>
+<div class="outline-text-3" id="text-orga23d620">
+<p>
+Superius dicens : Quia hostias, et oblationes, et holocautomata pro peccato noluisti, nec placita sunt tibi, quæ secundum legem offeruntur,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4781576" class="outline-3">
+<h3 id="org4781576">Hebrews 10:9</h3>
+<div class="outline-text-3" id="text-org4781576">
+<p>
+tunc dixi : Ecce venio, ut faciam, Deus, voluntatem tuam : aufert primum, ut sequens statuat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org07ed6b1" class="outline-3">
+<h3 id="org07ed6b1">Hebrews 10:10</h3>
+<div class="outline-text-3" id="text-org07ed6b1">
+<p>
+In qua voluntate sanctificati sumus per oblationem corporis Jesu Christi semel.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org46f0b66" class="outline-3">
+<h3 id="org46f0b66">Hebrews 10:11</h3>
+<div class="outline-text-3" id="text-org46f0b66">
+<p>
+Et omnis quidem sacerdos præsto est quotidie ministrans, et easdem sæpe offerens hostias, quæ numquam possunt auferre peccata :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc04b3c0" class="outline-3">
+<h3 id="orgc04b3c0">Hebrews 10:12</h3>
+<div class="outline-text-3" id="text-orgc04b3c0">
+<p>
+hic autem unam pro peccatis offerens hostiam, in sempiternum sedet in dextera Dei,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb4b00b9" class="outline-3">
+<h3 id="orgb4b00b9">Hebrews 10:13</h3>
+<div class="outline-text-3" id="text-orgb4b00b9">
+<p>
+de cetero exspectans donec ponantur inimici ejus scabellum pedum ejus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org394a45b" class="outline-3">
+<h3 id="org394a45b">Hebrews 10:14</h3>
+<div class="outline-text-3" id="text-org394a45b">
+<p>
+Una enim oblatione, consummavit in sempiternum sanctificatos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org11f19a6" class="outline-3">
+<h3 id="org11f19a6">Hebrews 10:15</h3>
+<div class="outline-text-3" id="text-org11f19a6">
+<p>
+Contestatur autem nos et Spiritus Sanctus. Postquam enim dixit :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbb25b12" class="outline-3">
+<h3 id="orgbb25b12">Hebrews 10:16</h3>
+<div class="outline-text-3" id="text-orgbb25b12">
+<p>
+Hoc autem testamentum, quod testabor ad illos post dies illos, dicit Dominus, dando leges meas in cordibus eorum, et in mentibus eorum superscribam eas :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc89faeb" class="outline-3">
+<h3 id="orgc89faeb">Hebrews 10:17</h3>
+<div class="outline-text-3" id="text-orgc89faeb">
+<p>
+et peccatorum, et iniquitatum eorum jam non recordabor amplius.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3717a31" class="outline-3">
+<h3 id="org3717a31">Hebrews 10:18</h3>
+<div class="outline-text-3" id="text-org3717a31">
+<p>
+Ubi autem horum remissio : jam non est oblatio pro peccato.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1eb3486" class="outline-3">
+<h3 id="org1eb3486">Hebrews 10:19</h3>
+<div class="outline-text-3" id="text-org1eb3486">
+<p>
+Habentes itaque, fratres, fiduciam in introitu sanctorum in sanguine Christi,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6e5d52a" class="outline-3">
+<h3 id="org6e5d52a">Hebrews 10:20</h3>
+<div class="outline-text-3" id="text-org6e5d52a">
+<p>
+quam initiavit nobis viam novam, et viventem per velamen, id est, carnem suam,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f50b70" class="outline-3">
+<h3 id="org3f50b70">Hebrews 10:21</h3>
+<div class="outline-text-3" id="text-org3f50b70">
+<p>
+et sacerdotem magnum super domum Dei :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc35ec99" class="outline-3">
+<h3 id="orgc35ec99">Hebrews 10:22</h3>
+<div class="outline-text-3" id="text-orgc35ec99">
+<p>
+accedamus cum vero corde in plenitudine fidei, aspersi corda a conscientia mala, et abluti corpus aqua munda,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd283227" class="outline-3">
+<h3 id="orgd283227">Hebrews 10:23</h3>
+<div class="outline-text-3" id="text-orgd283227">
+<p>
+teneamus spei nostræ confessionem indeclinabilem (fidelis enim est qui repromisit),
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe86b3e" class="outline-3">
+<h3 id="orgfe86b3e">Hebrews 10:24</h3>
+<div class="outline-text-3" id="text-orgfe86b3e">
+<p>
+et consideremus invicem in provocationem caritatis, et bonorum operum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbf6a087" class="outline-3">
+<h3 id="orgbf6a087">Hebrews 10:25</h3>
+<div class="outline-text-3" id="text-orgbf6a087">
+<p>
+non deserentes collectionem nostram, sicut consuetudinis est quibusdam, sed consolantes, et tanto magis quanto videritis appropinquantem diem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8de94f3" class="outline-3">
+<h3 id="org8de94f3">Hebrews 10:26</h3>
+<div class="outline-text-3" id="text-org8de94f3">
+<p>
+Voluntarie enim peccantibus nobis post acceptam notitiam veritatis, jam non relinquitur pro peccatis hostia,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org561c675" class="outline-3">
+<h3 id="org561c675">Hebrews 10:27</h3>
+<div class="outline-text-3" id="text-org561c675">
+<p>
+terribilis autem quædam exspectatio judicii, et ignis æmulatio, quæ consumptura est adversarios.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge6676b3" class="outline-3">
+<h3 id="orge6676b3">Hebrews 10:28</h3>
+<div class="outline-text-3" id="text-orge6676b3">
+<p>
+Irritam quis faciens legem Moysi, sine ulla miseratione duobus vel tribus testibus moritur :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf8dded4" class="outline-3">
+<h3 id="orgf8dded4">Hebrews 10:29</h3>
+<div class="outline-text-3" id="text-orgf8dded4">
+<p>
+quanto magis putatis deteriora mereri supplicia qui Filium Dei conculcaverit, et sanguinem testamenti pollutum duxerit, in quo sanctificatus est, et spiritui gratiæ contumeliam fecerit ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75c4d7a" class="outline-3">
+<h3 id="org75c4d7a">Hebrews 10:30</h3>
+<div class="outline-text-3" id="text-org75c4d7a">
+<p>
+Scimus enim qui dixit : Mihi vindicta, et ego retribuam. Et iterum : Quia judicabit Dominus populum suum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4aeb881" class="outline-3">
+<h3 id="org4aeb881">Hebrews 10:31</h3>
+<div class="outline-text-3" id="text-org4aeb881">
+<p>
+Horrendum est incidere in manus Dei viventis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4aca557" class="outline-3">
+<h3 id="org4aca557">Hebrews 10:32</h3>
+<div class="outline-text-3" id="text-org4aca557">
+<p>
+Rememoramini autem pristinos dies, in quibus illuminati, magnum certamen sustinuistis passionum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc233f54" class="outline-3">
+<h3 id="orgc233f54">Hebrews 10:33</h3>
+<div class="outline-text-3" id="text-orgc233f54">
+<p>
+et in altero quidem opprobriis et tribulationibus spectaculum facti : in altero autem socii taliter conversantium effecti.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9220585" class="outline-3">
+<h3 id="org9220585">Hebrews 10:34</h3>
+<div class="outline-text-3" id="text-org9220585">
+<p>
+Nam et vinctis compassi estis, et rapinam bonorum vestrorum cum gaudio suscepistis, cognoscentes vos habere meliorem et manentem substantiam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b02860" class="outline-3">
+<h3 id="org3b02860">Hebrews 10:35</h3>
+<div class="outline-text-3" id="text-org3b02860">
+<p>
+Nolite itaque amittere confidentiam vestram, quæ magnam habet remunerationem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2eba33b" class="outline-3">
+<h3 id="org2eba33b">Hebrews 10:36</h3>
+<div class="outline-text-3" id="text-org2eba33b">
+<p>
+Patientia enim vobis necessaria est : ut voluntatem Dei facientes, reportetis promissionem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbd6dfb3" class="outline-3">
+<h3 id="orgbd6dfb3">Hebrews 10:37</h3>
+<div class="outline-text-3" id="text-orgbd6dfb3">
+<p>
+Adhuc enim modicum aliquantulum, qui venturus est, veniet, et non tardabit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org575510f" class="outline-3">
+<h3 id="org575510f">Hebrews 10:38</h3>
+<div class="outline-text-3" id="text-org575510f">
+<p>
+Justus autem meus ex fide vivit : quod si subtraxerit se, non placebit animæ meæ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3b36a5f" class="outline-3">
+<h3 id="org3b36a5f">Hebrews 10:39</h3>
+<div class="outline-text-3" id="text-org3b36a5f">
+<p>
+Nos autem non sumus subtractionis filii in perditionem, sed fidei in acquisitionem animæ.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org3958202" class="outline-2">
+<h2 id="org3958202">Hebrews 11</h2>
+<div class="outline-text-2" id="text-org3958202">
+</div>
+<div id="outline-container-orgacf5162" class="outline-3">
+<h3 id="orgacf5162">Hebrews 11:1</h3>
+<div class="outline-text-3" id="text-orgacf5162">
+<p>
+Est autem fides sperandarum substantia rerum, argumentum non apparentium.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org830b666" class="outline-3">
+<h3 id="org830b666">Hebrews 11:2</h3>
+<div class="outline-text-3" id="text-org830b666">
+<p>
+In hac enim testimonium consecuti sunt senes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga14be0f" class="outline-3">
+<h3 id="orga14be0f">Hebrews 11:3</h3>
+<div class="outline-text-3" id="text-orga14be0f">
+<p>
+Fide intelligimus aptata esse sæcula verbo Dei : ut ex invisibilibus visibilia fierent.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd56be0a" class="outline-3">
+<h3 id="orgd56be0a">Hebrews 11:4</h3>
+<div class="outline-text-3" id="text-orgd56be0a">
+<p>
+Fide plurimam hostiam Abel, quam Cain, obtulit Deo, per quam testimonium consecutus est esse justus, testimonium perhibente muneribus ejus Deo, et per illam defunctus adhuc loquitur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge31798d" class="outline-3">
+<h3 id="orge31798d">Hebrews 11:5</h3>
+<div class="outline-text-3" id="text-orge31798d">
+<p>
+Fide Henoch translatus est ne videret mortem, et non inveniebatur, quia transtulit illum Deus : ante translationem enim testimonium habuit placuisse Deo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org24c1ff1" class="outline-3">
+<h3 id="org24c1ff1">Hebrews 11:6</h3>
+<div class="outline-text-3" id="text-org24c1ff1">
+<p>
+Sine fide autem impossibile est placere Deo. Credere enim oportet accedentem ad Deum quia est, et inquirentibus se remunerator sit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfdb7ead" class="outline-3">
+<h3 id="orgfdb7ead">Hebrews 11:7</h3>
+<div class="outline-text-3" id="text-orgfdb7ead">
+<p>
+Fide Noë responso accepto de iis quæ adhuc non videbantur, metuens aptavit arcam in salutem domus suæ, per quam damnavit mundum : et justitiæ, quæ per fidem est, hæres est institutus.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org265f0e6" class="outline-3">
+<h3 id="org265f0e6">Hebrews 11:8</h3>
+<div class="outline-text-3" id="text-org265f0e6">
+<p>
+Fide qui vocatur Abraham obedivit in locum exire, quem accepturus erat in hæreditatem : et exiit, nesciens quo iret.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9d411ec" class="outline-3">
+<h3 id="org9d411ec">Hebrews 11:9</h3>
+<div class="outline-text-3" id="text-org9d411ec">
+<p>
+Fide demoratus est in terra repromissionis, tamquam in aliena, in casulis habitando cum Isaac et Jacob cohæredibus repromissionis ejusdem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd5ca0b2" class="outline-3">
+<h3 id="orgd5ca0b2">Hebrews 11:10</h3>
+<div class="outline-text-3" id="text-orgd5ca0b2">
+<p>
+Exspectabat enim fundamenta habentem civitatem : cujus artifex et conditor Deus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgec465c7" class="outline-3">
+<h3 id="orgec465c7">Hebrews 11:11</h3>
+<div class="outline-text-3" id="text-orgec465c7">
+<p>
+Fide et ipsa Sara sterilis virtutem in conceptionem seminis accepit, etiam præter tempus ætatis : quoniam fidelem credidit esse eum qui repromiserat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2473d9d" class="outline-3">
+<h3 id="org2473d9d">Hebrews 11:12</h3>
+<div class="outline-text-3" id="text-org2473d9d">
+<p>
+Propter quod et ab uno orti sunt (et hoc emortuo) tamquam sidera cæli in multitudinem, et sicut arena, quæ est ad oram maris, innumerabilis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org78e1d88" class="outline-3">
+<h3 id="org78e1d88">Hebrews 11:13</h3>
+<div class="outline-text-3" id="text-org78e1d88">
+<p>
+Juxta fidem defuncti sunt omnes isti, non acceptis repromissionibus, sed a longe eas aspicientes, et salutantes, et confitentes quia peregrini et hospites sunt super terram.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b1e7c7" class="outline-3">
+<h3 id="org4b1e7c7">Hebrews 11:14</h3>
+<div class="outline-text-3" id="text-org4b1e7c7">
+<p>
+Qui enim hæc dicunt, significant se patriam inquirere.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd1074fb" class="outline-3">
+<h3 id="orgd1074fb">Hebrews 11:15</h3>
+<div class="outline-text-3" id="text-orgd1074fb">
+<p>
+Et si quidem ipsius meminissent de qua exierunt, habebant utique tempus revertendi :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc9ed3f7" class="outline-3">
+<h3 id="orgc9ed3f7">Hebrews 11:16</h3>
+<div class="outline-text-3" id="text-orgc9ed3f7">
+<p>
+nunc autem meliorem appetunt, id est, cælestem. Ideo non confunditur Deus vocari Deus eorum : paravit enim illis civitatem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc93bf8" class="outline-3">
+<h3 id="orgfc93bf8">Hebrews 11:17</h3>
+<div class="outline-text-3" id="text-orgfc93bf8">
+<p>
+Fide obtulit Abraham Isaac, cum tentaretur, et unigenitum offerebat, qui susceperat repromissiones :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org146496a" class="outline-3">
+<h3 id="org146496a">Hebrews 11:18</h3>
+<div class="outline-text-3" id="text-org146496a">
+<p>
+ad quem dictum est : Quia in Isaac vocabitur tibi semen :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga812308" class="outline-3">
+<h3 id="orga812308">Hebrews 11:19</h3>
+<div class="outline-text-3" id="text-orga812308">
+<p>
+arbitrans quia et a mortuis suscitare potens est Deus : unde eum et in parabolam accepit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org66b5332" class="outline-3">
+<h3 id="org66b5332">Hebrews 11:20</h3>
+<div class="outline-text-3" id="text-org66b5332">
+<p>
+Fide et de futuris benedixit Isaac Jacob et Esau.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4a95064" class="outline-3">
+<h3 id="org4a95064">Hebrews 11:21</h3>
+<div class="outline-text-3" id="text-org4a95064">
+<p>
+Fide Jacob, moriens, singulos filiorum Joseph benedixit : et adoravit fastigium virgæ ejus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org30d5e95" class="outline-3">
+<h3 id="org30d5e95">Hebrews 11:22</h3>
+<div class="outline-text-3" id="text-org30d5e95">
+<p>
+Fide Joseph, moriens, de profectione filiorum Israël memoratus est, et de ossibus suis mandavit.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org53d19a0" class="outline-3">
+<h3 id="org53d19a0">Hebrews 11:23</h3>
+<div class="outline-text-3" id="text-org53d19a0">
+<p>
+Fide Moyses, natus, occultatus est mensibus tribus a parentibus suis, eo quod vidissent elegantem infantem, et non timuerunt regis edictum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org328962a" class="outline-3">
+<h3 id="org328962a">Hebrews 11:24</h3>
+<div class="outline-text-3" id="text-org328962a">
+<p>
+Fide Moyses grandis factus negavit se esse filium filiæ Pharaonis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd3c62fe" class="outline-3">
+<h3 id="orgd3c62fe">Hebrews 11:25</h3>
+<div class="outline-text-3" id="text-orgd3c62fe">
+<p>
+magis eligens affligi cum populo Dei, quam temporalis peccati habere jucunditatem,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgad30008" class="outline-3">
+<h3 id="orgad30008">Hebrews 11:26</h3>
+<div class="outline-text-3" id="text-orgad30008">
+<p>
+majores divitias æstimans thesauro Ægyptiorum, improperium Christi : aspiciebat enim in remunerationem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc199bf6" class="outline-3">
+<h3 id="orgc199bf6">Hebrews 11:27</h3>
+<div class="outline-text-3" id="text-orgc199bf6">
+<p>
+Fide reliquit Ægyptum, non veritus animositatem regis : invisibilem enim tamquam videns sustinuit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgce2aec3" class="outline-3">
+<h3 id="orgce2aec3">Hebrews 11:28</h3>
+<div class="outline-text-3" id="text-orgce2aec3">
+<p>
+Fide celebravit Pascha, et sanguinis effusionem : ne qui vastabat primitiva, tangeret eos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0788c5e" class="outline-3">
+<h3 id="org0788c5e">Hebrews 11:29</h3>
+<div class="outline-text-3" id="text-org0788c5e">
+<p>
+Fide transierunt mare Rubrum tamquam per aridam terram : quod experti Ægyptii, devorati sunt.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6e87cb5" class="outline-3">
+<h3 id="org6e87cb5">Hebrews 11:30</h3>
+<div class="outline-text-3" id="text-org6e87cb5">
+<p>
+Fide muri Jericho corruerunt, circuitu dierum septem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org67accdd" class="outline-3">
+<h3 id="org67accdd">Hebrews 11:31</h3>
+<div class="outline-text-3" id="text-org67accdd">
+<p>
+Fide Rahab meretrix non periit cum incredulis, excipiens exploratores cum pace.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1d70627" class="outline-3">
+<h3 id="org1d70627">Hebrews 11:32</h3>
+<div class="outline-text-3" id="text-org1d70627">
+<p>
+Et quid adhuc dicam ? deficiet enim me tempus enarrantem de Gedeon, Barac, Samson, Jephte, David, Samuel, et prophetis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org504129f" class="outline-3">
+<h3 id="org504129f">Hebrews 11:33</h3>
+<div class="outline-text-3" id="text-org504129f">
+<p>
+qui per fidem vicerunt regna, operati sunt justitiam, adepti sunt repromissiones, obturaverunt ora leonum,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3afc523" class="outline-3">
+<h3 id="org3afc523">Hebrews 11:34</h3>
+<div class="outline-text-3" id="text-org3afc523">
+<p>
+extinxerunt impetum ignis, effugerunt aciem gladii, convaluerunt de infirmitate, fortes facti sunt in bello, castra verterunt exterorum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga0e45e6" class="outline-3">
+<h3 id="orga0e45e6">Hebrews 11:35</h3>
+<div class="outline-text-3" id="text-orga0e45e6">
+<p>
+acceperunt mulieres de resurrectione mortuos suos : alii autem distenti sunt non suscipientes redemptionem ut meliorem invenirent resurrectionem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge2ff903" class="outline-3">
+<h3 id="orge2ff903">Hebrews 11:36</h3>
+<div class="outline-text-3" id="text-orge2ff903">
+<p>
+Alii vero ludibria, et verbera experti, insuper et vincula, et carceres :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgada7c50" class="outline-3">
+<h3 id="orgada7c50">Hebrews 11:37</h3>
+<div class="outline-text-3" id="text-orgada7c50">
+<p>
+lapidati sunt, secti sunt, tentati sunt, in occisione gladii mortui sunt, circuierunt in melotis, in pellibus caprinis, egentes, angustiati, afflicti :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga1b4588" class="outline-3">
+<h3 id="orga1b4588">Hebrews 11:38</h3>
+<div class="outline-text-3" id="text-orga1b4588">
+<p>
+quibus dignus non erat mundus : in solitudinibus errantes, in montibus, in speluncis, et in cavernis terræ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga8ca287" class="outline-3">
+<h3 id="orga8ca287">Hebrews 11:39</h3>
+<div class="outline-text-3" id="text-orga8ca287">
+<p>
+Et hi omnes testimonio fidei probati, non acceperunt repromissionem,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd60d774" class="outline-3">
+<h3 id="orgd60d774">Hebrews 11:40</h3>
+<div class="outline-text-3" id="text-orgd60d774">
+<p>
+Deo pro nobis melius aliquid providente, ut non sine nobis consummarentur.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org450aec9" class="outline-2">
+<h2 id="org450aec9">Hebrews 12</h2>
+<div class="outline-text-2" id="text-org450aec9">
+</div>
+<div id="outline-container-orgf7046be" class="outline-3">
+<h3 id="orgf7046be">Hebrews 12:1</h3>
+<div class="outline-text-3" id="text-orgf7046be">
+<p>
+Ideoque et nos tantam habentes impositam nubem testium, deponentes omne pondus, et circumstans nos peccatum, per patientiam curramus ad propositum nobis certamen :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1cb91c8" class="outline-3">
+<h3 id="org1cb91c8">Hebrews 12:2</h3>
+<div class="outline-text-3" id="text-org1cb91c8">
+<p>
+aspicientes in auctorem fidei, et consummatorem Jesum, qui proposito sibi gaudio sustinuit crucem, confusione contempta, atque in dextera sedis Dei sedet.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org43a68d2" class="outline-3">
+<h3 id="org43a68d2">Hebrews 12:3</h3>
+<div class="outline-text-3" id="text-org43a68d2">
+<p>
+Recogitate enim eum qui talem sustinuit a peccatoribus adversum semetipsum contradictionem : ut ne fatigemini, animis vestris deficientes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org963bce0" class="outline-3">
+<h3 id="org963bce0">Hebrews 12:4</h3>
+<div class="outline-text-3" id="text-org963bce0">
+<p>
+Nondum enim usque ad sanguinem restitistis, adversus peccatum repugnantes :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4287783" class="outline-3">
+<h3 id="org4287783">Hebrews 12:5</h3>
+<div class="outline-text-3" id="text-org4287783">
+<p>
+et obliti estis consolationis, quæ vobis tamquam filiis loquitur, dicens : Fili mi, noli negligere disciplinam Domini : neque fatigeris dum ab eo argueris.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5744227" class="outline-3">
+<h3 id="org5744227">Hebrews 12:6</h3>
+<div class="outline-text-3" id="text-org5744227">
+<p>
+Quem enim diligit Dominus, castigat : flagellat autem omnem filium, quem recipit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd2954d2" class="outline-3">
+<h3 id="orgd2954d2">Hebrews 12:7</h3>
+<div class="outline-text-3" id="text-orgd2954d2">
+<p>
+In disciplina perseverate. Tamquam filiis vobis offert se Deus : quis enim filius, quem non corripit pater ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org40c197f" class="outline-3">
+<h3 id="org40c197f">Hebrews 12:8</h3>
+<div class="outline-text-3" id="text-org40c197f">
+<p>
+quod si extra disciplinam estis, cujus participes facti sunt omnes : ergo adulteri, et non filii estis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9fd002d" class="outline-3">
+<h3 id="org9fd002d">Hebrews 12:9</h3>
+<div class="outline-text-3" id="text-org9fd002d">
+<p>
+Deinde patres quidem carnis nostræ, eruditores habuimus, et reverebamur eos, non multo magis obtemperabimus Patri spirituum, et vivemus ?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org20b78ea" class="outline-3">
+<h3 id="org20b78ea">Hebrews 12:10</h3>
+<div class="outline-text-3" id="text-org20b78ea">
+<p>
+Et illi quidem in tempore paucorum dierum, secundum voluntatem suam erudiebant nos : hic autem ad id quod utile est in recipiendo sanctificationem ejus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5d9ff2c" class="outline-3">
+<h3 id="org5d9ff2c">Hebrews 12:11</h3>
+<div class="outline-text-3" id="text-org5d9ff2c">
+<p>
+Omnis autem disciplina in præsenti quidem videtur non esse gaudii, sed mœroris : postea autem fructum pacatissimum exercitatis per eam, reddet justitiæ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgca99f8e" class="outline-3">
+<h3 id="orgca99f8e">Hebrews 12:12</h3>
+<div class="outline-text-3" id="text-orgca99f8e">
+<p>
+Propter quod remissas manus, et soluta genua erigite,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge43db69" class="outline-3">
+<h3 id="orge43db69">Hebrews 12:13</h3>
+<div class="outline-text-3" id="text-orge43db69">
+<p>
+et gressus rectos facite pedibus vestris : ut non claudicans quis erret, magis autem sanetur.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9ffca0f" class="outline-3">
+<h3 id="org9ffca0f">Hebrews 12:14</h3>
+<div class="outline-text-3" id="text-org9ffca0f">
+<p>
+Pacem sequimini cum omnibus, et sanctimoniam, sine qua nemo videbit Deum :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6471840" class="outline-3">
+<h3 id="org6471840">Hebrews 12:15</h3>
+<div class="outline-text-3" id="text-org6471840">
+<p>
+contemplantes nequis desit gratiæ Dei : ne qua radix amaritudinis sursum germinans impediat, et per illam inquinentur multi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge54d569" class="outline-3">
+<h3 id="orge54d569">Hebrews 12:16</h3>
+<div class="outline-text-3" id="text-orge54d569">
+<p>
+Ne quis fornicator, aut profanus ut Esau : qui propter unam escam vendidit primitiva sua :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6f6dc8f" class="outline-3">
+<h3 id="org6f6dc8f">Hebrews 12:17</h3>
+<div class="outline-text-3" id="text-org6f6dc8f">
+<p>
+scitote enim quoniam et postea cupiens hæreditare benedictionem, reprobatus est : non enim invenit pœnitentiæ locum, quamquam cum lacrimis inquisisset eam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbc41ecd" class="outline-3">
+<h3 id="orgbc41ecd">Hebrews 12:18</h3>
+<div class="outline-text-3" id="text-orgbc41ecd">
+<p>
+Non enim accessistis ad tractabilem montem, et accensibilem ignem, et turbinem, et caliginem, et procellam,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org514bb1a" class="outline-3">
+<h3 id="org514bb1a">Hebrews 12:19</h3>
+<div class="outline-text-3" id="text-org514bb1a">
+<p>
+et tubæ sonum, et vocem verborum, quam qui audierunt, excusaverunt se, ne eis fieret verbum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org14188ed" class="outline-3">
+<h3 id="org14188ed">Hebrews 12:20</h3>
+<div class="outline-text-3" id="text-org14188ed">
+<p>
+Non enim portabant quod dicebatur : Et si bestia tetigerit montem, lapidabitur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org81821e3" class="outline-3">
+<h3 id="org81821e3">Hebrews 12:21</h3>
+<div class="outline-text-3" id="text-org81821e3">
+<p>
+Et ita terribile erat quod videbatur. Moyses dixit : Exterritus sum, et tremebundus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6953836" class="outline-3">
+<h3 id="org6953836">Hebrews 12:22</h3>
+<div class="outline-text-3" id="text-org6953836">
+<p>
+Sed accessistis ad Sion montem, et civitatem Dei viventis, Jerusalem cælestem, et multorum millium angelorum frequentiam,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4ac777b" class="outline-3">
+<h3 id="org4ac777b">Hebrews 12:23</h3>
+<div class="outline-text-3" id="text-org4ac777b">
+<p>
+et ecclesiam primitivorum, qui conscripti sunt in cælis, et judicem omnium Deum, et spiritus justorum perfectorum,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org12a5a2a" class="outline-3">
+<h3 id="org12a5a2a">Hebrews 12:24</h3>
+<div class="outline-text-3" id="text-org12a5a2a">
+<p>
+et testamenti novi mediatorem Jesum, et sanguinis aspersionem melius loquentem quam Abel.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbbf29e0" class="outline-3">
+<h3 id="orgbbf29e0">Hebrews 12:25</h3>
+<div class="outline-text-3" id="text-orgbbf29e0">
+<p>
+Videte ne recusetis loquentem. Si enim illi non effugerunt, recusantes eum, qui super terram loquebatur : multo magis nos, qui de cælis loquentem nobis avertimus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org86477d4" class="outline-3">
+<h3 id="org86477d4">Hebrews 12:26</h3>
+<div class="outline-text-3" id="text-org86477d4">
+<p>
+Cujus vox movit terram tunc : nunc autem repromittit, dicens : Adhuc semel, et ego movebo non solum terram, sed et cælum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org491d2ac" class="outline-3">
+<h3 id="org491d2ac">Hebrews 12:27</h3>
+<div class="outline-text-3" id="text-org491d2ac">
+<p>
+Quod autem, Adhuc semel, dicit : declarat mobilium translationem tamquam factorum, ut maneant ea quæ sunt immobilia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga2c10b0" class="outline-3">
+<h3 id="orga2c10b0">Hebrews 12:28</h3>
+<div class="outline-text-3" id="text-orga2c10b0">
+<p>
+Itaque regnum immobile suscipientes, habemus gratiam : per quam serviamus placentes Deo, cum metu et reverentia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8fee62e" class="outline-3">
+<h3 id="org8fee62e">Hebrews 12:29</h3>
+<div class="outline-text-3" id="text-org8fee62e">
+<p>
+Etenim Deus noster ignis consumens est.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org8d394c5" class="outline-2">
+<h2 id="org8d394c5">Hebrews 13</h2>
+<div class="outline-text-2" id="text-org8d394c5">
+</div>
+<div id="outline-container-orgd467fec" class="outline-3">
+<h3 id="orgd467fec">Hebrews 13:1</h3>
+<div class="outline-text-3" id="text-orgd467fec">
+<p>
+Caritas fraternitatis maneat in vobis,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9fd950f" class="outline-3">
+<h3 id="org9fd950f">Hebrews 13:2</h3>
+<div class="outline-text-3" id="text-org9fd950f">
+<p>
+et hospitalitatem nolite oblivisci : per hanc enim latuerunt quidam, angelis hospitio receptis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1209432" class="outline-3">
+<h3 id="org1209432">Hebrews 13:3</h3>
+<div class="outline-text-3" id="text-org1209432">
+<p>
+Mementote vinctorum, tamquam simul vincti : et laborantium, tamquam et ipsi in corpore morantes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga2e4de2" class="outline-3">
+<h3 id="orga2e4de2">Hebrews 13:4</h3>
+<div class="outline-text-3" id="text-orga2e4de2">
+<p>
+Honorabile connubium in omnibus, et thorus immaculatus. Fornicatores enim, et adulteros judicabit Deus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org32a4783" class="outline-3">
+<h3 id="org32a4783">Hebrews 13:5</h3>
+<div class="outline-text-3" id="text-org32a4783">
+<p>
+Sint mores sine avaritia, contenti præsentibus : ipse enim dixit : Non te deseram, neque derelinquam :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3206bf8" class="outline-3">
+<h3 id="org3206bf8">Hebrews 13:6</h3>
+<div class="outline-text-3" id="text-org3206bf8">
+<p>
+ita ut confidenter dicamus : Dominus mihi adjutor : non timebo quid faciat mihi homo.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7770206" class="outline-3">
+<h3 id="org7770206">Hebrews 13:7</h3>
+<div class="outline-text-3" id="text-org7770206">
+<p>
+Mementote præpositorum vestrorum, qui vobis locuti sunt verbum Dei : quorum intuentes exitum conversationis, imitamini fidem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4534e90" class="outline-3">
+<h3 id="org4534e90">Hebrews 13:8</h3>
+<div class="outline-text-3" id="text-org4534e90">
+<p>
+Jesus Christus heri, et hodie : ipse et in sæcula.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org40bbfef" class="outline-3">
+<h3 id="org40bbfef">Hebrews 13:9</h3>
+<div class="outline-text-3" id="text-org40bbfef">
+<p>
+Doctrinis variis et peregrinis nolite abduci. Optimum est enim gratia stabilire cor, non escis : quæ non profuerunt ambulantibus in eis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb865cdd" class="outline-3">
+<h3 id="orgb865cdd">Hebrews 13:10</h3>
+<div class="outline-text-3" id="text-orgb865cdd">
+<p>
+Habemus altare, de quo edere non habent potestatem, qui tabernaculo deserviunt.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc0c728c" class="outline-3">
+<h3 id="orgc0c728c">Hebrews 13:11</h3>
+<div class="outline-text-3" id="text-orgc0c728c">
+<p>
+Quorum enim animalium infertur sanguis pro peccato in Sancta per pontificem, horum corpora cremantur extra castra.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb0c9404" class="outline-3">
+<h3 id="orgb0c9404">Hebrews 13:12</h3>
+<div class="outline-text-3" id="text-orgb0c9404">
+<p>
+Propter quod et Jesus, ut sanctificaret per suum sanguinem populum, extra portam passus est.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge270d98" class="outline-3">
+<h3 id="orge270d98">Hebrews 13:13</h3>
+<div class="outline-text-3" id="text-orge270d98">
+<p>
+Exeamus igitur ad eum extra castra, improperium ejus portantes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbb3fb94" class="outline-3">
+<h3 id="orgbb3fb94">Hebrews 13:14</h3>
+<div class="outline-text-3" id="text-orgbb3fb94">
+<p>
+Non enim habemus hic manentem civitatem, sed futuram inquirimus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdedeb6d" class="outline-3">
+<h3 id="orgdedeb6d">Hebrews 13:15</h3>
+<div class="outline-text-3" id="text-orgdedeb6d">
+<p>
+Per ipsum ergo offeramus hostiam laudis semper Deo, id est, fructum labiorum confitentium nomini ejus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3e8db37" class="outline-3">
+<h3 id="org3e8db37">Hebrews 13:16</h3>
+<div class="outline-text-3" id="text-org3e8db37">
+<p>
+Beneficentiæ autem et communionis nolite oblivisci : talibus enim hostiis promeretur Deus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2288fe9" class="outline-3">
+<h3 id="org2288fe9">Hebrews 13:17</h3>
+<div class="outline-text-3" id="text-org2288fe9">
+<p>
+Obedite præpositis vestris, et subjacete eis. Ipsi enim pervigilant quasi rationem pro animabus vestris reddituri, ut cum gaudio hoc faciant, et non gementes : hoc enim non expedit vobis.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org137cb22" class="outline-3">
+<h3 id="org137cb22">Hebrews 13:18</h3>
+<div class="outline-text-3" id="text-org137cb22">
+<p>
+Orate pro nobis : confidimus enim quia bonam conscientiam habemus in omnibus bene volentes conversari.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb8b2cd5" class="outline-3">
+<h3 id="orgb8b2cd5">Hebrews 13:19</h3>
+<div class="outline-text-3" id="text-orgb8b2cd5">
+<p>
+Amplius autem deprecor vos hoc facere, quo celerius restituar vobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgacc2bdd" class="outline-3">
+<h3 id="orgacc2bdd">Hebrews 13:20</h3>
+<div class="outline-text-3" id="text-orgacc2bdd">
+<p>
+Deus autem pacis, qui eduxit de mortuis pastorem magnum ovium, in sanguine testamenti æterni, Dominum nostrum Jesum Christum,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc6d5942" class="outline-3">
+<h3 id="orgc6d5942">Hebrews 13:21</h3>
+<div class="outline-text-3" id="text-orgc6d5942">
+<p>
+aptet vos in omni bono, ut faciatis ejus voluntatem : faciens in vobis quod placeat coram se per Jesum Christum : cui est gloria in sæcula sæculorum. Amen.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3a140b7" class="outline-3">
+<h3 id="org3a140b7">Hebrews 13:22</h3>
+<div class="outline-text-3" id="text-org3a140b7">
+<p>
+Rogo autem vos fratres, ut sufferatis verbum solatii. Etenim perpaucis scripsi vobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb03b912" class="outline-3">
+<h3 id="orgb03b912">Hebrews 13:23</h3>
+<div class="outline-text-3" id="text-orgb03b912">
+<p>
+Cognoscite fratrem nostrum Timotheum dimissum : cum quo (si celerius venerit) videbo vos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga2db2fb" class="outline-3">
+<h3 id="orga2db2fb">Hebrews 13:24</h3>
+<div class="outline-text-3" id="text-orga2db2fb">
+<p>
+Salutate omnes præpositos vestros, et omnes sanctos. Salutant vos de Italia fratres.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9a517d3" class="outline-3">
+<h3 id="org9a517d3">Hebrews 13:25</h3>
+<div class="outline-text-3" id="text-org9a517d3">
+<p>
+Gratia cum omnibus vobis. Amen.    
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2021-01-24 Sun 11:14</p>
+</div>
+</body>
+</html>

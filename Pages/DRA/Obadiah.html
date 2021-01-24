@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2021-01-24 Sun 11:23 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>[<a href="../index.html">Index</a>] Book: Obadiah</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">[<a href="../index.html">Index</a>] Book: Obadiah</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org661c2eb">Obadiah 1</a>
+<ul>
+<li><a href="#orgbb78cbe">Obadiah 1:1</a></li>
+<li><a href="#orgda0c5bd">Obadiah 1:2</a></li>
+<li><a href="#org8030afa">Obadiah 1:3</a></li>
+<li><a href="#org80eca03">Obadiah 1:4</a></li>
+<li><a href="#org507fd85">Obadiah 1:5</a></li>
+<li><a href="#org9eb24fc">Obadiah 1:6</a></li>
+<li><a href="#org33ff002">Obadiah 1:7</a></li>
+<li><a href="#org444b9c1">Obadiah 1:8</a></li>
+<li><a href="#org262f871">Obadiah 1:9</a></li>
+<li><a href="#org73ae66f">Obadiah 1:10</a></li>
+<li><a href="#org241b0ac">Obadiah 1:11</a></li>
+<li><a href="#org308da73">Obadiah 1:12</a></li>
+<li><a href="#orge73469d">Obadiah 1:13</a></li>
+<li><a href="#org40b7fde">Obadiah 1:14</a></li>
+<li><a href="#orgc04ff5b">Obadiah 1:15</a></li>
+<li><a href="#org58ea15d">Obadiah 1:16</a></li>
+<li><a href="#orgd8ee4f2">Obadiah 1:17</a></li>
+<li><a href="#org732155c">Obadiah 1:18</a></li>
+<li><a href="#org79f4add">Obadiah 1:19</a></li>
+<li><a href="#org57cdd6a">Obadiah 1:20</a></li>
+<li><a href="#orgeaefe92">Obadiah 1:21</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org661c2eb" class="outline-2">
+<h2 id="org661c2eb">Obadiah 1</h2>
+<div class="outline-text-2" id="text-org661c2eb">
+</div>
+<div id="outline-container-orgbb78cbe" class="outline-3">
+<h3 id="orgbb78cbe">Obadiah 1:1</h3>
+<div class="outline-text-3" id="text-orgbb78cbe">
+<p>
+The vision of Obadiah. Thus saith the Lord God to Edom: We have heard a rumour from the Lord, and he hath sent an ambassador to the nations: Arise, and let us rise up to battle against him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda0c5bd" class="outline-3">
+<h3 id="orgda0c5bd">Obadiah 1:2</h3>
+<div class="outline-text-3" id="text-orgda0c5bd">
+<p>
+Behold I have made thee small among the nations: thou art exceeding contemptible.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8030afa" class="outline-3">
+<h3 id="org8030afa">Obadiah 1:3</h3>
+<div class="outline-text-3" id="text-org8030afa">
+<p>
+The pride of thy heart hath lifted thee up, who dwellest in the clefts of the rocks, and settest up thy throne on high: who sayest in thy heart: Who shall bring me down to the ground?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org80eca03" class="outline-3">
+<h3 id="org80eca03">Obadiah 1:4</h3>
+<div class="outline-text-3" id="text-org80eca03">
+<p>
+Though thou be exalted as an eagle, and though thou set thy nest among the stars: thence will I bring thee down, saith the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org507fd85" class="outline-3">
+<h3 id="org507fd85">Obadiah 1:5</h3>
+<div class="outline-text-3" id="text-org507fd85">
+<p>
+If thieves had gone in to thee, if robbers by night, how wouldst thou have held thy peace? would they not have stolen till they had enough? if the grapegatherers had come in to thee, would they not have left thee at the least a cluster?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9eb24fc" class="outline-3">
+<h3 id="org9eb24fc">Obadiah 1:6</h3>
+<div class="outline-text-3" id="text-org9eb24fc">
+<p>
+How have they searched Esau, how have they sought out his hidden things?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org33ff002" class="outline-3">
+<h3 id="org33ff002">Obadiah 1:7</h3>
+<div class="outline-text-3" id="text-org33ff002">
+<p>
+They have sent thee out even to the border: all the men of thy confederacy have deceived thee: the men of thy peace have prevailed against thee: they that eat with thee shall lay snares under thee: there is no wisdom in him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org444b9c1" class="outline-3">
+<h3 id="org444b9c1">Obadiah 1:8</h3>
+<div class="outline-text-3" id="text-org444b9c1">
+<p>
+Shall not I in that day, saith the Lord, destroy the wise out of Edom, and understanding out of the mount of Esau?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org262f871" class="outline-3">
+<h3 id="org262f871">Obadiah 1:9</h3>
+<div class="outline-text-3" id="text-org262f871">
+<p>
+And thy valiant men of the south shall be afraid, that man may be cut off from the mount of Esau.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org73ae66f" class="outline-3">
+<h3 id="org73ae66f">Obadiah 1:10</h3>
+<div class="outline-text-3" id="text-org73ae66f">
+<p>
+For the slaughter, and for the iniquity against thy brother Jacob, confusion shall cover thee, and thou shalt perish for ever.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org241b0ac" class="outline-3">
+<h3 id="org241b0ac">Obadiah 1:11</h3>
+<div class="outline-text-3" id="text-org241b0ac">
+<p>
+In the day when thou stoodest against him, when strangers carried away his army captive, and foreigners entered into his gates, and cast lots upon Jerusalem: thou also wast as one of them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org308da73" class="outline-3">
+<h3 id="org308da73">Obadiah 1:12</h3>
+<div class="outline-text-3" id="text-org308da73">
+<p>
+But thou shalt not look on in the day of thy brother, in the day of his leaving his country: and thou shalt not rejoice over the children of Juda, in the day of their destruction: and thou shalt not magnify thy mouth in the day of distress.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge73469d" class="outline-3">
+<h3 id="orge73469d">Obadiah 1:13</h3>
+<div class="outline-text-3" id="text-orge73469d">
+<p>
+Neither shalt thou enter into the gate of my people in the day of their ruin: neither shalt thou also look on in his evils in the day of his calamity: and thou shalt not be sent out against his army in the day of his desolation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org40b7fde" class="outline-3">
+<h3 id="org40b7fde">Obadiah 1:14</h3>
+<div class="outline-text-3" id="text-org40b7fde">
+<p>
+Neither shalt thou stand in the crossways to kill them that flee: and thou shalt not shut up them that remain of him in the day of tribulation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc04ff5b" class="outline-3">
+<h3 id="orgc04ff5b">Obadiah 1:15</h3>
+<div class="outline-text-3" id="text-orgc04ff5b">
+<p>
+For the day of the Lord is at hand upon all nations: as thou hast done, so shall it be done to thee: he will turn thy reward upon thy own head.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org58ea15d" class="outline-3">
+<h3 id="org58ea15d">Obadiah 1:16</h3>
+<div class="outline-text-3" id="text-org58ea15d">
+<p>
+For as you have drunk upon my holy mountain, so all nations shall drink continually: and they shall drink, and sup up, and they shall be as though they were not.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd8ee4f2" class="outline-3">
+<h3 id="orgd8ee4f2">Obadiah 1:17</h3>
+<div class="outline-text-3" id="text-orgd8ee4f2">
+<p>
+And in mount Sion shall be salvation, and it shall be holy, and the house of Jacob shall possess those that possessed them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org732155c" class="outline-3">
+<h3 id="org732155c">Obadiah 1:18</h3>
+<div class="outline-text-3" id="text-org732155c">
+<p>
+And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau stubble: and they shall be kindled in them, and shall devour them: and there shall be no remains of the house of Esau, for the Lord hath spoken it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org79f4add" class="outline-3">
+<h3 id="org79f4add">Obadiah 1:19</h3>
+<div class="outline-text-3" id="text-org79f4add">
+<p>
+And they that are toward the south, shall inherit the mount of Esau, and they that are in the plains, the Philistines: and they shall possess the country of Ephraim, and the country of Samaria: and Benjamin shall possess Galaad.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org57cdd6a" class="outline-3">
+<h3 id="org57cdd6a">Obadiah 1:20</h3>
+<div class="outline-text-3" id="text-org57cdd6a">
+<p>
+And the captivity of this host of the children of Israel, all the places of the Chanaanites even to Sarepta: and the captivity of Jerusalem that is in Bosphorus, shall possess the cities of the south.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeaefe92" class="outline-3">
+<h3 id="orgeaefe92">Obadiah 1:21</h3>
+<div class="outline-text-3" id="text-orgeaefe92">
+<p>
+And saviours shall come up into mount Sion to judge the mount of Esau: and the kingdom shall be for the Lord.  
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2021-01-24 Sun 11:23</p>
+</div>
+</body>
+</html>

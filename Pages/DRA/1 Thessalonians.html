@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2021-01-24 Sun 11:23 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>[<a href="../index.html">Index</a>] Book: 1 Thessalonians</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">[<a href="../index.html">Index</a>] Book: 1 Thessalonians</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org76c0b4c">I Thessalonians 1</a>
+<ul>
+<li><a href="#orgd8e2fb3">I Thessalonians 1:1</a></li>
+<li><a href="#org14358b6">I Thessalonians 1:2</a></li>
+<li><a href="#org385d113">I Thessalonians 1:3</a></li>
+<li><a href="#org6a3d7c7">I Thessalonians 1:4</a></li>
+<li><a href="#org70a792b">I Thessalonians 1:5</a></li>
+<li><a href="#org23194ac">I Thessalonians 1:6</a></li>
+<li><a href="#org4895da4">I Thessalonians 1:7</a></li>
+<li><a href="#org49f4e3a">I Thessalonians 1:8</a></li>
+<li><a href="#orgc566347">I Thessalonians 1:9</a></li>
+<li><a href="#orgb2412d0">I Thessalonians 1:10</a></li>
+</ul>
+</li>
+<li><a href="#org5555792">I Thessalonians 2</a>
+<ul>
+<li><a href="#org7362f78">I Thessalonians 2:1</a></li>
+<li><a href="#org3c692bf">I Thessalonians 2:2</a></li>
+<li><a href="#org9d4c14a">I Thessalonians 2:3</a></li>
+<li><a href="#org8b0fef8">I Thessalonians 2:4</a></li>
+<li><a href="#orgd96a0aa">I Thessalonians 2:5</a></li>
+<li><a href="#orgecc0960">I Thessalonians 2:6</a></li>
+<li><a href="#org2ce9d82">I Thessalonians 2:7</a></li>
+<li><a href="#org0996b13">I Thessalonians 2:8</a></li>
+<li><a href="#org882ee50">I Thessalonians 2:9</a></li>
+<li><a href="#org175a369">I Thessalonians 2:10</a></li>
+<li><a href="#orga67ffdd">I Thessalonians 2:11</a></li>
+<li><a href="#org57e93b9">I Thessalonians 2:12</a></li>
+<li><a href="#orgc6e5c4d">I Thessalonians 2:13</a></li>
+<li><a href="#org6f8c981">I Thessalonians 2:14</a></li>
+<li><a href="#org8eb6e79">I Thessalonians 2:15</a></li>
+<li><a href="#orgeadecbf">I Thessalonians 2:16</a></li>
+<li><a href="#org4415751">I Thessalonians 2:17</a></li>
+<li><a href="#org0de79b0">I Thessalonians 2:18</a></li>
+<li><a href="#org13c2d1e">I Thessalonians 2:19</a></li>
+<li><a href="#org6b6ea31">I Thessalonians 2:20</a></li>
+</ul>
+</li>
+<li><a href="#org9d7a851">I Thessalonians 3</a>
+<ul>
+<li><a href="#org4d0b369">I Thessalonians 3:1</a></li>
+<li><a href="#orgc8629e3">I Thessalonians 3:2</a></li>
+<li><a href="#orga70bd36">I Thessalonians 3:3</a></li>
+<li><a href="#orgec888b8">I Thessalonians 3:4</a></li>
+<li><a href="#org8f21b6f">I Thessalonians 3:5</a></li>
+<li><a href="#org8ae9c20">I Thessalonians 3:6</a></li>
+<li><a href="#orgda39d3a">I Thessalonians 3:7</a></li>
+<li><a href="#org6688872">I Thessalonians 3:8</a></li>
+<li><a href="#orga8d35df">I Thessalonians 3:9</a></li>
+<li><a href="#org8893d42">I Thessalonians 3:10</a></li>
+<li><a href="#org0a3a0c8">I Thessalonians 3:11</a></li>
+<li><a href="#org385431e">I Thessalonians 3:12</a></li>
+<li><a href="#orgf4a983e">I Thessalonians 3:13</a></li>
+</ul>
+</li>
+<li><a href="#org923791e">I Thessalonians 4</a>
+<ul>
+<li><a href="#org60bd348">I Thessalonians 4:1</a></li>
+<li><a href="#org922c33c">I Thessalonians 4:2</a></li>
+<li><a href="#org7b99651">I Thessalonians 4:3</a></li>
+<li><a href="#orgc360705">I Thessalonians 4:4</a></li>
+<li><a href="#orgbe4a435">I Thessalonians 4:5</a></li>
+<li><a href="#org0a60531">I Thessalonians 4:6</a></li>
+<li><a href="#org485b81f">I Thessalonians 4:7</a></li>
+<li><a href="#org46a0b02">I Thessalonians 4:8</a></li>
+<li><a href="#org6d5c157">I Thessalonians 4:9</a></li>
+<li><a href="#org06d8b91">I Thessalonians 4:10</a></li>
+<li><a href="#org87c0c2c">I Thessalonians 4:11</a></li>
+<li><a href="#org2074301">I Thessalonians 4:12</a></li>
+<li><a href="#org718a622">I Thessalonians 4:13</a></li>
+<li><a href="#org809f7cf">I Thessalonians 4:14</a></li>
+<li><a href="#org40deaf4">I Thessalonians 4:15</a></li>
+<li><a href="#orgf68ddef">I Thessalonians 4:16</a></li>
+<li><a href="#org9b40f7f">I Thessalonians 4:17</a></li>
+<li><a href="#org7cee24a">I Thessalonians 4:18</a></li>
+</ul>
+</li>
+<li><a href="#org5046413">I Thessalonians 5</a>
+<ul>
+<li><a href="#org9b6d96b">I Thessalonians 5:1</a></li>
+<li><a href="#org1692c28">I Thessalonians 5:2</a></li>
+<li><a href="#org6deb870">I Thessalonians 5:3</a></li>
+<li><a href="#orge84372a">I Thessalonians 5:4</a></li>
+<li><a href="#org27dcb27">I Thessalonians 5:5</a></li>
+<li><a href="#org063661d">I Thessalonians 5:6</a></li>
+<li><a href="#orgad9c444">I Thessalonians 5:7</a></li>
+<li><a href="#orgb90d6c6">I Thessalonians 5:8</a></li>
+<li><a href="#org008aab9">I Thessalonians 5:9</a></li>
+<li><a href="#org76c87b1">I Thessalonians 5:10</a></li>
+<li><a href="#orgb5f3f50">I Thessalonians 5:11</a></li>
+<li><a href="#orgf6ced40">I Thessalonians 5:12</a></li>
+<li><a href="#orgbfc86a3">I Thessalonians 5:13</a></li>
+<li><a href="#orgcfc4110">I Thessalonians 5:14</a></li>
+<li><a href="#org534c794">I Thessalonians 5:15</a></li>
+<li><a href="#orgce9fa75">I Thessalonians 5:16</a></li>
+<li><a href="#org0ae71f7">I Thessalonians 5:17</a></li>
+<li><a href="#orga44af90">I Thessalonians 5:18</a></li>
+<li><a href="#orgb5e667a">I Thessalonians 5:19</a></li>
+<li><a href="#org8fbe930">I Thessalonians 5:20</a></li>
+<li><a href="#org0f1b4e8">I Thessalonians 5:21</a></li>
+<li><a href="#orga2bb070">I Thessalonians 5:22</a></li>
+<li><a href="#org116e918">I Thessalonians 5:23</a></li>
+<li><a href="#orgc2efdb3">I Thessalonians 5:24</a></li>
+<li><a href="#orga06b987">I Thessalonians 5:25</a></li>
+<li><a href="#orgb37b726">I Thessalonians 5:26</a></li>
+<li><a href="#orga5e026e">I Thessalonians 5:27</a></li>
+<li><a href="#org4c96145">I Thessalonians 5:28</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org76c0b4c" class="outline-2">
+<h2 id="org76c0b4c">I Thessalonians 1</h2>
+<div class="outline-text-2" id="text-org76c0b4c">
+</div>
+<div id="outline-container-orgd8e2fb3" class="outline-3">
+<h3 id="orgd8e2fb3">I Thessalonians 1:1</h3>
+<div class="outline-text-3" id="text-orgd8e2fb3">
+<p>
+Paul and Sylvanus and Timothy to the church of the Thessalonians: in God the Father and in the Lord Jesus Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org14358b6" class="outline-3">
+<h3 id="org14358b6">I Thessalonians 1:2</h3>
+<div class="outline-text-3" id="text-org14358b6">
+<p>
+Grace be to you and peace. We give thanks to God always for you all: making a remembrance of you in our prayers without ceasing,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org385d113" class="outline-3">
+<h3 id="org385d113">I Thessalonians 1:3</h3>
+<div class="outline-text-3" id="text-org385d113">
+<p>
+Being mindful of the work of your faith and labour and charity: and of the enduring of the hope of our Lord Jesus Christ before God and our Father.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6a3d7c7" class="outline-3">
+<h3 id="org6a3d7c7">I Thessalonians 1:4</h3>
+<div class="outline-text-3" id="text-org6a3d7c7">
+<p>
+Knowing, brethren, beloved of God, your election:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org70a792b" class="outline-3">
+<h3 id="org70a792b">I Thessalonians 1:5</h3>
+<div class="outline-text-3" id="text-org70a792b">
+<p>
+For our gospel hath not been unto you in word only, but in power also: and in the Holy Ghost and in much fulness, as you know what manner of men we have been among you for your sakes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org23194ac" class="outline-3">
+<h3 id="org23194ac">I Thessalonians 1:6</h3>
+<div class="outline-text-3" id="text-org23194ac">
+<p>
+And you became followers of us and of the Lord: receiving the word in much tribulation, with joy of the Holy Ghost:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4895da4" class="outline-3">
+<h3 id="org4895da4">I Thessalonians 1:7</h3>
+<div class="outline-text-3" id="text-org4895da4">
+<p>
+So that you were made a pattern to all that believe in Macedonia and in Achaia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org49f4e3a" class="outline-3">
+<h3 id="org49f4e3a">I Thessalonians 1:8</h3>
+<div class="outline-text-3" id="text-org49f4e3a">
+<p>
+For from you was spread abroad the word of the Lord not only in Macedonia and in Achaia but also in every place: your faith which is towards God, is gone forth, so that we need not to speak any thing.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc566347" class="outline-3">
+<h3 id="orgc566347">I Thessalonians 1:9</h3>
+<div class="outline-text-3" id="text-orgc566347">
+<p>
+For they themselves relate of us, what manner of entering in we had unto you: and how you turned to God from idols to serve the living and true God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb2412d0" class="outline-3">
+<h3 id="orgb2412d0">I Thessalonians 1:10</h3>
+<div class="outline-text-3" id="text-orgb2412d0">
+<p>
+And to wait for his Son from heaven (whom he raised up from the dead), Jesus, who hath delivered us from the wrath to come. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org5555792" class="outline-2">
+<h2 id="org5555792">I Thessalonians 2</h2>
+<div class="outline-text-2" id="text-org5555792">
+</div>
+<div id="outline-container-org7362f78" class="outline-3">
+<h3 id="org7362f78">I Thessalonians 2:1</h3>
+<div class="outline-text-3" id="text-org7362f78">
+<p>
+For yourselves know, brethren, our entrance in unto you, that it was not in vain:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3c692bf" class="outline-3">
+<h3 id="org3c692bf">I Thessalonians 2:2</h3>
+<div class="outline-text-3" id="text-org3c692bf">
+<p>
+But having suffered many things before and been shamefully treated, (as you know) at Philippi, we had confidence in our God, to speak unto you the gospel of God in much carefulness.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9d4c14a" class="outline-3">
+<h3 id="org9d4c14a">I Thessalonians 2:3</h3>
+<div class="outline-text-3" id="text-org9d4c14a">
+<p>
+For our exhortation was not of error, nor of uncleanness, nor in deceit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8b0fef8" class="outline-3">
+<h3 id="org8b0fef8">I Thessalonians 2:4</h3>
+<div class="outline-text-3" id="text-org8b0fef8">
+<p>
+But as we were approved by God that the gospel should be committed to us: even so we speak, not as pleasing men but God, who proveth our hearts.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd96a0aa" class="outline-3">
+<h3 id="orgd96a0aa">I Thessalonians 2:5</h3>
+<div class="outline-text-3" id="text-orgd96a0aa">
+<p>
+For neither have we used at any time the speech of flattery, as you know: nor taken an occasion of covetousness (God is witness):
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgecc0960" class="outline-3">
+<h3 id="orgecc0960">I Thessalonians 2:6</h3>
+<div class="outline-text-3" id="text-orgecc0960">
+<p>
+Nor sought we glory of men, neither of you, nor of others.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2ce9d82" class="outline-3">
+<h3 id="org2ce9d82">I Thessalonians 2:7</h3>
+<div class="outline-text-3" id="text-org2ce9d82">
+<p>
+Whereas we might have been burdensome to you, as the apostles of Christ: but we became little ones in the midst of you, as if a nurse should cherish her children:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0996b13" class="outline-3">
+<h3 id="org0996b13">I Thessalonians 2:8</h3>
+<div class="outline-text-3" id="text-org0996b13">
+<p>
+So desirous of you, we would gladly impart unto you not only the gospel of God but also our own souls: because you were become most dear unto us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org882ee50" class="outline-3">
+<h3 id="org882ee50">I Thessalonians 2:9</h3>
+<div class="outline-text-3" id="text-org882ee50">
+<p>
+For you remember, brethren, our labour and toil: working night and day, lest we should be chargeable to any of you, we preached among you the gospel of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org175a369" class="outline-3">
+<h3 id="org175a369">I Thessalonians 2:10</h3>
+<div class="outline-text-3" id="text-org175a369">
+<p>
+You are witnesses, and God also, how holily and justly and without blame we have been to you that have believed:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga67ffdd" class="outline-3">
+<h3 id="orga67ffdd">I Thessalonians 2:11</h3>
+<div class="outline-text-3" id="text-orga67ffdd">
+<p>
+As you know in what manner, entreating and comforting you (as a father doth his children),
+</p>
+</div>
+</div>
+
+<div id="outline-container-org57e93b9" class="outline-3">
+<h3 id="org57e93b9">I Thessalonians 2:12</h3>
+<div class="outline-text-3" id="text-org57e93b9">
+<p>
+We testified to every one of you that you would walk worthy of God, who hath called you unto his kingdom and glory.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc6e5c4d" class="outline-3">
+<h3 id="orgc6e5c4d">I Thessalonians 2:13</h3>
+<div class="outline-text-3" id="text-orgc6e5c4d">
+<p>
+Therefore, we also give thanks to God without ceasing: because, that when you had received of us the word of the hearing of God, you received it not as the word of men, but (as it is indeed) the word of God, who worketh in you that have believed.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6f8c981" class="outline-3">
+<h3 id="org6f8c981">I Thessalonians 2:14</h3>
+<div class="outline-text-3" id="text-org6f8c981">
+<p>
+For you, brethren, are become followers of the churches of God which are in Judea, in Christ Jesus: for you also have suffered the same things from your own countrymen, even as they have from the Jews:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8eb6e79" class="outline-3">
+<h3 id="org8eb6e79">I Thessalonians 2:15</h3>
+<div class="outline-text-3" id="text-org8eb6e79">
+<p>
+Who both killed the Lord Jesus, and the prophets, and have persecuted us, and please not God, and are adversaries to all men;
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeadecbf" class="outline-3">
+<h3 id="orgeadecbf">I Thessalonians 2:16</h3>
+<div class="outline-text-3" id="text-orgeadecbf">
+<p>
+Prohibiting us to speak to the Gentiles, that they may be saved, to fill up their sins always: for the wrath of God is come upon them to the end.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4415751" class="outline-3">
+<h3 id="org4415751">I Thessalonians 2:17</h3>
+<div class="outline-text-3" id="text-org4415751">
+<p>
+But we, brethren, being taken away from you for a short time, in sight, not in heart, have hastened the more abundantly to see your face with great desire.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0de79b0" class="outline-3">
+<h3 id="org0de79b0">I Thessalonians 2:18</h3>
+<div class="outline-text-3" id="text-org0de79b0">
+<p>
+For we would have come unto you, I Paul indeed, once and again: but Satan hath hindered us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org13c2d1e" class="outline-3">
+<h3 id="org13c2d1e">I Thessalonians 2:19</h3>
+<div class="outline-text-3" id="text-org13c2d1e">
+<p>
+For what is our hope or joy or crown of glory? Are not you, in the presence of our Lord Jesus Christ at his coming?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6b6ea31" class="outline-3">
+<h3 id="org6b6ea31">I Thessalonians 2:20</h3>
+<div class="outline-text-3" id="text-org6b6ea31">
+<p>
+For you are our glory and joy. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org9d7a851" class="outline-2">
+<h2 id="org9d7a851">I Thessalonians 3</h2>
+<div class="outline-text-2" id="text-org9d7a851">
+</div>
+<div id="outline-container-org4d0b369" class="outline-3">
+<h3 id="org4d0b369">I Thessalonians 3:1</h3>
+<div class="outline-text-3" id="text-org4d0b369">
+<p>
+For which cause, forbearing no longer, we thought it good to remain at Athens alone.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc8629e3" class="outline-3">
+<h3 id="orgc8629e3">I Thessalonians 3:2</h3>
+<div class="outline-text-3" id="text-orgc8629e3">
+<p>
+And we sent Timothy, our brother and the minister of God in the gospel of Christ, to confirm you and exhort you concerning your faith:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga70bd36" class="outline-3">
+<h3 id="orga70bd36">I Thessalonians 3:3</h3>
+<div class="outline-text-3" id="text-orga70bd36">
+<p>
+That no man should be moved in these tribulations: for yourselves know that we are appointed thereunto.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgec888b8" class="outline-3">
+<h3 id="orgec888b8">I Thessalonians 3:4</h3>
+<div class="outline-text-3" id="text-orgec888b8">
+<p>
+For even when we were with you, we foretold you that we should suffer tribulations: as also it is come to pass, and you know.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8f21b6f" class="outline-3">
+<h3 id="org8f21b6f">I Thessalonians 3:5</h3>
+<div class="outline-text-3" id="text-org8f21b6f">
+<p>
+For this cause also, I, forbearing no longer, sent to know your faith: lest perhaps he that tempteth should have tempted you: and our labour should be made vain.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8ae9c20" class="outline-3">
+<h3 id="org8ae9c20">I Thessalonians 3:6</h3>
+<div class="outline-text-3" id="text-org8ae9c20">
+<p>
+But now when Timothy came to us from you and related to us your faith and charity, and that you have a good remembrance of us always, desiring to see us as we also to see you:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda39d3a" class="outline-3">
+<h3 id="orgda39d3a">I Thessalonians 3:7</h3>
+<div class="outline-text-3" id="text-orgda39d3a">
+<p>
+Therefore we were comforted, brethren, in you, in all our necessity and tribulation, by your faith.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6688872" class="outline-3">
+<h3 id="org6688872">I Thessalonians 3:8</h3>
+<div class="outline-text-3" id="text-org6688872">
+<p>
+Because now we live, if you stand in the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga8d35df" class="outline-3">
+<h3 id="orga8d35df">I Thessalonians 3:9</h3>
+<div class="outline-text-3" id="text-orga8d35df">
+<p>
+For what thanks can we return to God for you, in all the joy wherewith we rejoice for you before our God,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8893d42" class="outline-3">
+<h3 id="org8893d42">I Thessalonians 3:10</h3>
+<div class="outline-text-3" id="text-org8893d42">
+<p>
+Night and day more abundantly praying that we may see your face and may accomplish those things that are wanting to your faith?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0a3a0c8" class="outline-3">
+<h3 id="org0a3a0c8">I Thessalonians 3:11</h3>
+<div class="outline-text-3" id="text-org0a3a0c8">
+<p>
+Now God himself and our Father and our Lord Jesus Christ, direct our way unto you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org385431e" class="outline-3">
+<h3 id="org385431e">I Thessalonians 3:12</h3>
+<div class="outline-text-3" id="text-org385431e">
+<p>
+And may the Lord multiply you and make you abound in charity towards one another and towards all men: as we do also towards you,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf4a983e" class="outline-3">
+<h3 id="orgf4a983e">I Thessalonians 3:13</h3>
+<div class="outline-text-3" id="text-orgf4a983e">
+<p>
+To confirm your hearts without blame, in holiness, before God and our Father, at the coming of our Lord Jesus Christ, with all his saints. Amen. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org923791e" class="outline-2">
+<h2 id="org923791e">I Thessalonians 4</h2>
+<div class="outline-text-2" id="text-org923791e">
+</div>
+<div id="outline-container-org60bd348" class="outline-3">
+<h3 id="org60bd348">I Thessalonians 4:1</h3>
+<div class="outline-text-3" id="text-org60bd348">
+<p>
+For the rest therefore, brethren, pray and beseech you in the Lord Jesus that, as you have received from us, how you ought to walk and to please God, so also you would walk, that you may abound the more.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org922c33c" class="outline-3">
+<h3 id="org922c33c">I Thessalonians 4:2</h3>
+<div class="outline-text-3" id="text-org922c33c">
+<p>
+For you know what precepts I have given to you by the Lord Jesus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7b99651" class="outline-3">
+<h3 id="org7b99651">I Thessalonians 4:3</h3>
+<div class="outline-text-3" id="text-org7b99651">
+<p>
+For this is the will of God, your sanctification: That you should abstain from fornication:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc360705" class="outline-3">
+<h3 id="orgc360705">I Thessalonians 4:4</h3>
+<div class="outline-text-3" id="text-orgc360705">
+<p>
+That every one of you should know how to possess his vessel in sanctification and honour,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbe4a435" class="outline-3">
+<h3 id="orgbe4a435">I Thessalonians 4:5</h3>
+<div class="outline-text-3" id="text-orgbe4a435">
+<p>
+Not in the passion of lust, like the Gentiles that know not God:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0a60531" class="outline-3">
+<h3 id="org0a60531">I Thessalonians 4:6</h3>
+<div class="outline-text-3" id="text-org0a60531">
+<p>
+And that no man overreach nor circumvent his brother in business: because the Lord is the avenger of all these things, as we have told you before and have testified.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org485b81f" class="outline-3">
+<h3 id="org485b81f">I Thessalonians 4:7</h3>
+<div class="outline-text-3" id="text-org485b81f">
+<p>
+For God hath not called us unto uncleanness, but unto sanctification.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org46a0b02" class="outline-3">
+<h3 id="org46a0b02">I Thessalonians 4:8</h3>
+<div class="outline-text-3" id="text-org46a0b02">
+<p>
+Therefore, he that despiseth these things, despiseth not man, but God, who also hath given his holy Spirit in us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6d5c157" class="outline-3">
+<h3 id="org6d5c157">I Thessalonians 4:9</h3>
+<div class="outline-text-3" id="text-org6d5c157">
+<p>
+But as touching the charity of brotherhood, we have no need to write to you: for yourselves have learned of God to love one another.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org06d8b91" class="outline-3">
+<h3 id="org06d8b91">I Thessalonians 4:10</h3>
+<div class="outline-text-3" id="text-org06d8b91">
+<p>
+For indeed you do it towards all the brethren in all Macedonia. But we entreat you, brethren, that you abound more:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org87c0c2c" class="outline-3">
+<h3 id="org87c0c2c">I Thessalonians 4:11</h3>
+<div class="outline-text-3" id="text-org87c0c2c">
+<p>
+And that you use your endeavour to be quiet: and that you do your own business and work with your own hands, as we commanded you: and that you walk honestly towards them that are without: and that you want nothing of any man&rsquo;s.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2074301" class="outline-3">
+<h3 id="org2074301">I Thessalonians 4:12</h3>
+<div class="outline-text-3" id="text-org2074301">
+<p>
+And we will not have you ignorant brethren, concerning them that are asleep, that you be not sorrowful, even as others who have no hope.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org718a622" class="outline-3">
+<h3 id="org718a622">I Thessalonians 4:13</h3>
+<div class="outline-text-3" id="text-org718a622">
+<p>
+For if we believe that Jesus died and rose again: even so them who have slept through Jesus, will God bring with him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org809f7cf" class="outline-3">
+<h3 id="org809f7cf">I Thessalonians 4:14</h3>
+<div class="outline-text-3" id="text-org809f7cf">
+<p>
+For this we say unto you in the word of the Lord, that we who are alive, who remain unto the coming of the Lord, shall not prevent them who have slept.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org40deaf4" class="outline-3">
+<h3 id="org40deaf4">I Thessalonians 4:15</h3>
+<div class="outline-text-3" id="text-org40deaf4">
+<p>
+For the Lord himself shall come down from heaven with commandment and with the voice of an archangel and with the trumpet of God: and the dead who are in Christ shall rise first.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf68ddef" class="outline-3">
+<h3 id="orgf68ddef">I Thessalonians 4:16</h3>
+<div class="outline-text-3" id="text-orgf68ddef">
+<p>
+Then we who are alive, who are left, shall be taken up together with them in the clouds to meet Christ, into the air: and so shall we be always with the Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9b40f7f" class="outline-3">
+<h3 id="org9b40f7f">I Thessalonians 4:17</h3>
+<div class="outline-text-3" id="text-org9b40f7f">
+<p>
+Wherefore, comfort ye one another with these words. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7cee24a" class="outline-3">
+<h3 id="org7cee24a">I Thessalonians 4:18</h3>
+<div class="outline-text-3" id="text-org7cee24a">
+<p>
+nil
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org5046413" class="outline-2">
+<h2 id="org5046413">I Thessalonians 5</h2>
+<div class="outline-text-2" id="text-org5046413">
+</div>
+<div id="outline-container-org9b6d96b" class="outline-3">
+<h3 id="org9b6d96b">I Thessalonians 5:1</h3>
+<div class="outline-text-3" id="text-org9b6d96b">
+<p>
+But of the times and moments, brethren, you need not, that we should write to you:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1692c28" class="outline-3">
+<h3 id="org1692c28">I Thessalonians 5:2</h3>
+<div class="outline-text-3" id="text-org1692c28">
+<p>
+For yourselves know perfectly that the day of the Lord shall so come as a thief in the night.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6deb870" class="outline-3">
+<h3 id="org6deb870">I Thessalonians 5:3</h3>
+<div class="outline-text-3" id="text-org6deb870">
+<p>
+For when they shall say: Peace and security; then shall sudden destruction come upon them, as the pains upon her that is with child, and they shall not escape.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge84372a" class="outline-3">
+<h3 id="orge84372a">I Thessalonians 5:4</h3>
+<div class="outline-text-3" id="text-orge84372a">
+<p>
+But you, brethren, are not in darkness, that the day should overtake you as a thief.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org27dcb27" class="outline-3">
+<h3 id="org27dcb27">I Thessalonians 5:5</h3>
+<div class="outline-text-3" id="text-org27dcb27">
+<p>
+For all you are the children of light and children of the day: we are not of the night nor of darkness.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org063661d" class="outline-3">
+<h3 id="org063661d">I Thessalonians 5:6</h3>
+<div class="outline-text-3" id="text-org063661d">
+<p>
+Therefore, let us not sleep, as others do: but let us watch, and be sober.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgad9c444" class="outline-3">
+<h3 id="orgad9c444">I Thessalonians 5:7</h3>
+<div class="outline-text-3" id="text-orgad9c444">
+<p>
+For they that sleep, sleep in the night; and they that are drunk, are drunk in the night.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb90d6c6" class="outline-3">
+<h3 id="orgb90d6c6">I Thessalonians 5:8</h3>
+<div class="outline-text-3" id="text-orgb90d6c6">
+<p>
+But let us, who are of the day, be sober, having on the breast plate of faith and charity and, for a helmet, the hope of salvation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org008aab9" class="outline-3">
+<h3 id="org008aab9">I Thessalonians 5:9</h3>
+<div class="outline-text-3" id="text-org008aab9">
+<p>
+For God hath not appointed us unto wrath: but unto the purchasing of salvation by our Lord Jesus Christ,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org76c87b1" class="outline-3">
+<h3 id="org76c87b1">I Thessalonians 5:10</h3>
+<div class="outline-text-3" id="text-org76c87b1">
+<p>
+Who died for us: that, whether we watch or sleep, we may live together with him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb5f3f50" class="outline-3">
+<h3 id="orgb5f3f50">I Thessalonians 5:11</h3>
+<div class="outline-text-3" id="text-orgb5f3f50">
+<p>
+For which cause comfort one another and edify one another, as you also do.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf6ced40" class="outline-3">
+<h3 id="orgf6ced40">I Thessalonians 5:12</h3>
+<div class="outline-text-3" id="text-orgf6ced40">
+<p>
+And we beseech you, brethren, to know them who labour among you and are over you in the Lord and admonish you;
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfc86a3" class="outline-3">
+<h3 id="orgbfc86a3">I Thessalonians 5:13</h3>
+<div class="outline-text-3" id="text-orgbfc86a3">
+<p>
+That you esteem them more abundantly in charity, for their work&rsquo;s sake. Have peace with them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcfc4110" class="outline-3">
+<h3 id="orgcfc4110">I Thessalonians 5:14</h3>
+<div class="outline-text-3" id="text-orgcfc4110">
+<p>
+And we beseech you, brethren, rebuke the unquiet: comfort the feeble minded: support the weak: be patient towards all men.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org534c794" class="outline-3">
+<h3 id="org534c794">I Thessalonians 5:15</h3>
+<div class="outline-text-3" id="text-org534c794">
+<p>
+See that none render evil for evil to any man: but ever follow that which is good towards each other and towards all men.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgce9fa75" class="outline-3">
+<h3 id="orgce9fa75">I Thessalonians 5:16</h3>
+<div class="outline-text-3" id="text-orgce9fa75">
+<p>
+Always rejoice.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0ae71f7" class="outline-3">
+<h3 id="org0ae71f7">I Thessalonians 5:17</h3>
+<div class="outline-text-3" id="text-org0ae71f7">
+<p>
+Pray without ceasing.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga44af90" class="outline-3">
+<h3 id="orga44af90">I Thessalonians 5:18</h3>
+<div class="outline-text-3" id="text-orga44af90">
+<p>
+In all things give thanks for this is the will of God in Christ Jesus concerning you all.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb5e667a" class="outline-3">
+<h3 id="orgb5e667a">I Thessalonians 5:19</h3>
+<div class="outline-text-3" id="text-orgb5e667a">
+<p>
+Extinguish not the spirit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8fbe930" class="outline-3">
+<h3 id="org8fbe930">I Thessalonians 5:20</h3>
+<div class="outline-text-3" id="text-org8fbe930">
+<p>
+Despise not prophecies.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0f1b4e8" class="outline-3">
+<h3 id="org0f1b4e8">I Thessalonians 5:21</h3>
+<div class="outline-text-3" id="text-org0f1b4e8">
+<p>
+But prove all things: hold fast that which is good.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga2bb070" class="outline-3">
+<h3 id="orga2bb070">I Thessalonians 5:22</h3>
+<div class="outline-text-3" id="text-orga2bb070">
+<p>
+From all appearance of evil refrain yourselves.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org116e918" class="outline-3">
+<h3 id="org116e918">I Thessalonians 5:23</h3>
+<div class="outline-text-3" id="text-org116e918">
+<p>
+And may the God of peace himself sanctify you in all things: that your whole spirit and soul and body may be preserved blameless in the coming of our Lord Jesus Christ.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc2efdb3" class="outline-3">
+<h3 id="orgc2efdb3">I Thessalonians 5:24</h3>
+<div class="outline-text-3" id="text-orgc2efdb3">
+<p>
+He is faithful who hath called you, who also will do it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga06b987" class="outline-3">
+<h3 id="orga06b987">I Thessalonians 5:25</h3>
+<div class="outline-text-3" id="text-orga06b987">
+<p>
+Brethren, pray for us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb37b726" class="outline-3">
+<h3 id="orgb37b726">I Thessalonians 5:26</h3>
+<div class="outline-text-3" id="text-orgb37b726">
+<p>
+Salute all the brethren with a holy kiss.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga5e026e" class="outline-3">
+<h3 id="orga5e026e">I Thessalonians 5:27</h3>
+<div class="outline-text-3" id="text-orga5e026e">
+<p>
+I charge you by the Lord that this epistle be read to all the holy brethren.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4c96145" class="outline-3">
+<h3 id="org4c96145">I Thessalonians 5:28</h3>
+<div class="outline-text-3" id="text-org4c96145">
+<p>
+The grace of our Lord Jesus Christ be with you. Amen.  
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2021-01-24 Sun 11:23</p>
+</div>
+</body>
+</html>

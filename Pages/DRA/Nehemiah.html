@@ -1,0 +1,4396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2021-01-24 Sun 11:23 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>[<a href="../index.html">Index</a>] Book: Nehemiah</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">[<a href="../index.html">Index</a>] Book: Nehemiah</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org3eec7f1">Nehemiah 1</a>
+<ul>
+<li><a href="#org8760a84">Nehemiah 1:1</a></li>
+<li><a href="#org9e5c676">Nehemiah 1:2</a></li>
+<li><a href="#org3f6eaa4">Nehemiah 1:3</a></li>
+<li><a href="#orgb0f5ba8">Nehemiah 1:4</a></li>
+<li><a href="#orgdc18245">Nehemiah 1:5</a></li>
+<li><a href="#org2ca53e0">Nehemiah 1:6</a></li>
+<li><a href="#org2e8c9ad">Nehemiah 1:7</a></li>
+<li><a href="#org4068765">Nehemiah 1:8</a></li>
+<li><a href="#orgc510100">Nehemiah 1:9</a></li>
+<li><a href="#org4321929">Nehemiah 1:10</a></li>
+<li><a href="#org0b60bf6">Nehemiah 1:11</a></li>
+</ul>
+</li>
+<li><a href="#orgaf4728f">Nehemiah 2</a>
+<ul>
+<li><a href="#orge9f2357">Nehemiah 2:1</a></li>
+<li><a href="#org3ced1f0">Nehemiah 2:2</a></li>
+<li><a href="#orgb3a22fa">Nehemiah 2:3</a></li>
+<li><a href="#orgdb5e4fc">Nehemiah 2:4</a></li>
+<li><a href="#orgdf117f3">Nehemiah 2:5</a></li>
+<li><a href="#org730a091">Nehemiah 2:6</a></li>
+<li><a href="#org4962be2">Nehemiah 2:7</a></li>
+<li><a href="#org282923d">Nehemiah 2:8</a></li>
+<li><a href="#org31ee2ee">Nehemiah 2:9</a></li>
+<li><a href="#org9f65c2c">Nehemiah 2:10</a></li>
+<li><a href="#org87676d7">Nehemiah 2:11</a></li>
+<li><a href="#orgf3c35f6">Nehemiah 2:12</a></li>
+<li><a href="#org2ccae70">Nehemiah 2:13</a></li>
+<li><a href="#orge7f6bc9">Nehemiah 2:14</a></li>
+<li><a href="#org2112195">Nehemiah 2:15</a></li>
+<li><a href="#org0fcb6ff">Nehemiah 2:16</a></li>
+<li><a href="#org422cecc">Nehemiah 2:17</a></li>
+<li><a href="#org88ec0a8">Nehemiah 2:18</a></li>
+<li><a href="#orgc790581">Nehemiah 2:19</a></li>
+<li><a href="#orga991c8d">Nehemiah 2:20</a></li>
+</ul>
+</li>
+<li><a href="#orgf153152">Nehemiah 3</a>
+<ul>
+<li><a href="#org8805ed8">Nehemiah 3:1</a></li>
+<li><a href="#org2719610">Nehemiah 3:2</a></li>
+<li><a href="#org8e9f80e">Nehemiah 3:3</a></li>
+<li><a href="#orgc4ff062">Nehemiah 3:4</a></li>
+<li><a href="#orgb2301c7">Nehemiah 3:5</a></li>
+<li><a href="#orgf89473e">Nehemiah 3:6</a></li>
+<li><a href="#org845ff47">Nehemiah 3:7</a></li>
+<li><a href="#org70bf603">Nehemiah 3:8</a></li>
+<li><a href="#org59e06c3">Nehemiah 3:9</a></li>
+<li><a href="#org355ef27">Nehemiah 3:10</a></li>
+<li><a href="#org89e77d7">Nehemiah 3:11</a></li>
+<li><a href="#org020a341">Nehemiah 3:12</a></li>
+<li><a href="#org6207905">Nehemiah 3:13</a></li>
+<li><a href="#orgc2d39d4">Nehemiah 3:14</a></li>
+<li><a href="#org48e97b2">Nehemiah 3:15</a></li>
+<li><a href="#org24260a7">Nehemiah 3:16</a></li>
+<li><a href="#org5ca9f71">Nehemiah 3:17</a></li>
+<li><a href="#org40db7c2">Nehemiah 3:18</a></li>
+<li><a href="#orgb8eb3e4">Nehemiah 3:19</a></li>
+<li><a href="#org65e8358">Nehemiah 3:20</a></li>
+<li><a href="#org41aaf5c">Nehemiah 3:21</a></li>
+<li><a href="#orgbdc4532">Nehemiah 3:22</a></li>
+<li><a href="#org710bd56">Nehemiah 3:23</a></li>
+<li><a href="#org62ddd19">Nehemiah 3:24</a></li>
+<li><a href="#orgbeb40e5">Nehemiah 3:25</a></li>
+<li><a href="#orge014d2f">Nehemiah 3:26</a></li>
+<li><a href="#org454cc9f">Nehemiah 3:27</a></li>
+<li><a href="#org0bca55e">Nehemiah 3:28</a></li>
+<li><a href="#org18b802d">Nehemiah 3:29</a></li>
+<li><a href="#orgf06f105">Nehemiah 3:30</a></li>
+<li><a href="#org796211c">Nehemiah 3:31</a></li>
+</ul>
+</li>
+<li><a href="#org5935f3d">Nehemiah 4</a>
+<ul>
+<li><a href="#org5e63ed1">Nehemiah 4:1</a></li>
+<li><a href="#orge41fa7f">Nehemiah 4:2</a></li>
+<li><a href="#org3e08d6c">Nehemiah 4:3</a></li>
+<li><a href="#org92e86ec">Nehemiah 4:4</a></li>
+<li><a href="#orgdd23b7a">Nehemiah 4:5</a></li>
+<li><a href="#org1716a46">Nehemiah 4:6</a></li>
+<li><a href="#orgda1fa32">Nehemiah 4:7</a></li>
+<li><a href="#org90db590">Nehemiah 4:8</a></li>
+<li><a href="#org82a3fac">Nehemiah 4:9</a></li>
+<li><a href="#orgd6a0a9e">Nehemiah 4:10</a></li>
+<li><a href="#org72aae39">Nehemiah 4:11</a></li>
+<li><a href="#orgda16575">Nehemiah 4:12</a></li>
+<li><a href="#orga99c5f6">Nehemiah 4:13</a></li>
+<li><a href="#orgddd271e">Nehemiah 4:14</a></li>
+<li><a href="#org75cbd73">Nehemiah 4:15</a></li>
+<li><a href="#orga658732">Nehemiah 4:16</a></li>
+<li><a href="#orga5add94">Nehemiah 4:17</a></li>
+<li><a href="#org6ba6c12">Nehemiah 4:18</a></li>
+<li><a href="#org0ebfddf">Nehemiah 4:19</a></li>
+<li><a href="#org1b20718">Nehemiah 4:20</a></li>
+<li><a href="#org53b27bd">Nehemiah 4:21</a></li>
+<li><a href="#orga3d436b">Nehemiah 4:22</a></li>
+<li><a href="#org5a6bd8f">Nehemiah 4:23</a></li>
+</ul>
+</li>
+<li><a href="#orge054b83">Nehemiah 5</a>
+<ul>
+<li><a href="#org67d23f6">Nehemiah 5:1</a></li>
+<li><a href="#orgb07e9cd">Nehemiah 5:2</a></li>
+<li><a href="#orge56891b">Nehemiah 5:3</a></li>
+<li><a href="#org336b245">Nehemiah 5:4</a></li>
+<li><a href="#org74382ab">Nehemiah 5:5</a></li>
+<li><a href="#org9f925b7">Nehemiah 5:6</a></li>
+<li><a href="#org95961fd">Nehemiah 5:7</a></li>
+<li><a href="#org816eef0">Nehemiah 5:8</a></li>
+<li><a href="#orga9c433d">Nehemiah 5:9</a></li>
+<li><a href="#org4b7575b">Nehemiah 5:10</a></li>
+<li><a href="#orgb9c99c1">Nehemiah 5:11</a></li>
+<li><a href="#orgd1403f7">Nehemiah 5:12</a></li>
+<li><a href="#orgd8e1b81">Nehemiah 5:13</a></li>
+<li><a href="#org6f41785">Nehemiah 5:14</a></li>
+<li><a href="#org84b30b4">Nehemiah 5:15</a></li>
+<li><a href="#orgef11677">Nehemiah 5:16</a></li>
+<li><a href="#org8619bc0">Nehemiah 5:17</a></li>
+<li><a href="#org089cd60">Nehemiah 5:18</a></li>
+<li><a href="#org68d65ca">Nehemiah 5:19</a></li>
+</ul>
+</li>
+<li><a href="#orgae9ee7f">Nehemiah 6</a>
+<ul>
+<li><a href="#org3e18976">Nehemiah 6:1</a></li>
+<li><a href="#org8459c87">Nehemiah 6:2</a></li>
+<li><a href="#org97c105e">Nehemiah 6:3</a></li>
+<li><a href="#orgb7f208d">Nehemiah 6:4</a></li>
+<li><a href="#orgb868e90">Nehemiah 6:5</a></li>
+<li><a href="#orgbd5faf3">Nehemiah 6:6</a></li>
+<li><a href="#org023d877">Nehemiah 6:7</a></li>
+<li><a href="#orge63cddb">Nehemiah 6:8</a></li>
+<li><a href="#orgbea3c05">Nehemiah 6:9</a></li>
+<li><a href="#orgec62b93">Nehemiah 6:10</a></li>
+<li><a href="#org419fdec">Nehemiah 6:11</a></li>
+<li><a href="#org929db2e">Nehemiah 6:12</a></li>
+<li><a href="#orgea2921b">Nehemiah 6:13</a></li>
+<li><a href="#orge9a36c2">Nehemiah 6:14</a></li>
+<li><a href="#orgb553cb4">Nehemiah 6:15</a></li>
+<li><a href="#orgc9bd604">Nehemiah 6:16</a></li>
+<li><a href="#org60cc07f">Nehemiah 6:17</a></li>
+<li><a href="#org443b224">Nehemiah 6:18</a></li>
+<li><a href="#orgc26a297">Nehemiah 6:19</a></li>
+</ul>
+</li>
+<li><a href="#org3ddaa3a">Nehemiah 7</a>
+<ul>
+<li><a href="#org7e1e405">Nehemiah 7:1</a></li>
+<li><a href="#org2ab5d70">Nehemiah 7:2</a></li>
+<li><a href="#org079c86d">Nehemiah 7:3</a></li>
+<li><a href="#org5631adf">Nehemiah 7:4</a></li>
+<li><a href="#orge7da63e">Nehemiah 7:5</a></li>
+<li><a href="#org4eca01d">Nehemiah 7:6</a></li>
+<li><a href="#org49e562c">Nehemiah 7:7</a></li>
+<li><a href="#org24735ce">Nehemiah 7:8</a></li>
+<li><a href="#org609bf77">Nehemiah 7:9</a></li>
+<li><a href="#orgc66b114">Nehemiah 7:10</a></li>
+<li><a href="#org0f68fc5">Nehemiah 7:11</a></li>
+<li><a href="#orgcb2ab6a">Nehemiah 7:12</a></li>
+<li><a href="#orgc8687b4">Nehemiah 7:13</a></li>
+<li><a href="#orgcea1470">Nehemiah 7:14</a></li>
+<li><a href="#orgd30ed1f">Nehemiah 7:15</a></li>
+<li><a href="#orgef24a7f">Nehemiah 7:16</a></li>
+<li><a href="#org6b82b48">Nehemiah 7:17</a></li>
+<li><a href="#org850cb1b">Nehemiah 7:18</a></li>
+<li><a href="#org73a9771">Nehemiah 7:19</a></li>
+<li><a href="#orgc40fba1">Nehemiah 7:20</a></li>
+<li><a href="#org450fd01">Nehemiah 7:21</a></li>
+<li><a href="#orgde80dc8">Nehemiah 7:22</a></li>
+<li><a href="#orgab5a042">Nehemiah 7:23</a></li>
+<li><a href="#org9135d40">Nehemiah 7:24</a></li>
+<li><a href="#orgbcc3507">Nehemiah 7:25</a></li>
+<li><a href="#org5f57218">Nehemiah 7:26</a></li>
+<li><a href="#org521356e">Nehemiah 7:27</a></li>
+<li><a href="#orga952abc">Nehemiah 7:28</a></li>
+<li><a href="#orga3377fb">Nehemiah 7:29</a></li>
+<li><a href="#org811988f">Nehemiah 7:30</a></li>
+<li><a href="#orgbd0e2cb">Nehemiah 7:31</a></li>
+<li><a href="#org6b614a0">Nehemiah 7:32</a></li>
+<li><a href="#org271d0dd">Nehemiah 7:33</a></li>
+<li><a href="#org43a1115">Nehemiah 7:34</a></li>
+<li><a href="#org5f1974b">Nehemiah 7:35</a></li>
+<li><a href="#orga7f542c">Nehemiah 7:36</a></li>
+<li><a href="#org128ae5d">Nehemiah 7:37</a></li>
+<li><a href="#org9ce4361">Nehemiah 7:38</a></li>
+<li><a href="#org068512f">Nehemiah 7:39</a></li>
+<li><a href="#orgc759d70">Nehemiah 7:40</a></li>
+<li><a href="#org50e5fdf">Nehemiah 7:41</a></li>
+<li><a href="#orgdb7085b">Nehemiah 7:42</a></li>
+<li><a href="#org6c81039">Nehemiah 7:43</a></li>
+<li><a href="#orgdcbf20c">Nehemiah 7:44</a></li>
+<li><a href="#org4776151">Nehemiah 7:45</a></li>
+<li><a href="#orgf9f6214">Nehemiah 7:46</a></li>
+<li><a href="#org0d52930">Nehemiah 7:47</a></li>
+<li><a href="#org75c422d">Nehemiah 7:48</a></li>
+<li><a href="#orgf41505a">Nehemiah 7:49</a></li>
+<li><a href="#orge4c0bfb">Nehemiah 7:50</a></li>
+<li><a href="#org2d91595">Nehemiah 7:51</a></li>
+<li><a href="#org9b79dcc">Nehemiah 7:52</a></li>
+<li><a href="#org2baac4d">Nehemiah 7:53</a></li>
+<li><a href="#orga3b50dd">Nehemiah 7:54</a></li>
+<li><a href="#org339545c">Nehemiah 7:55</a></li>
+<li><a href="#org43d3fa4">Nehemiah 7:56</a></li>
+<li><a href="#org10d1d5c">Nehemiah 7:57</a></li>
+<li><a href="#orgaf43594">Nehemiah 7:58</a></li>
+<li><a href="#org1c27acf">Nehemiah 7:59</a></li>
+<li><a href="#org246a484">Nehemiah 7:60</a></li>
+<li><a href="#orgcc9eb23">Nehemiah 7:61</a></li>
+<li><a href="#org0dc7cf6">Nehemiah 7:62</a></li>
+<li><a href="#orgb6e6c44">Nehemiah 7:63</a></li>
+<li><a href="#org9421e68">Nehemiah 7:64</a></li>
+<li><a href="#orge1b58fc">Nehemiah 7:65</a></li>
+<li><a href="#org71c11b0">Nehemiah 7:66</a></li>
+<li><a href="#orgc9bd88d">Nehemiah 7:67</a></li>
+<li><a href="#orgaf0a44e">Nehemiah 7:68</a></li>
+<li><a href="#org521cce9">Nehemiah 7:69</a></li>
+<li><a href="#org8ccc617">Nehemiah 7:70</a></li>
+<li><a href="#orgfe9803d">Nehemiah 7:71</a></li>
+<li><a href="#org63b17d6">Nehemiah 7:72</a></li>
+<li><a href="#orgba350ba">Nehemiah 7:73</a></li>
+</ul>
+</li>
+<li><a href="#orgba1d630">Nehemiah 8</a>
+<ul>
+<li><a href="#orgb1f1f52">Nehemiah 8:1</a></li>
+<li><a href="#org6042cef">Nehemiah 8:2</a></li>
+<li><a href="#org6cf05cf">Nehemiah 8:3</a></li>
+<li><a href="#org5b5f449">Nehemiah 8:4</a></li>
+<li><a href="#orgae14bc8">Nehemiah 8:5</a></li>
+<li><a href="#org277961b">Nehemiah 8:6</a></li>
+<li><a href="#orgbfc80dd">Nehemiah 8:7</a></li>
+<li><a href="#org438efaf">Nehemiah 8:8</a></li>
+<li><a href="#orgfe710be">Nehemiah 8:9</a></li>
+<li><a href="#org0f98d6a">Nehemiah 8:10</a></li>
+<li><a href="#org7e5248e">Nehemiah 8:11</a></li>
+<li><a href="#org7eafd00">Nehemiah 8:12</a></li>
+<li><a href="#org4251c20">Nehemiah 8:13</a></li>
+<li><a href="#org47df3aa">Nehemiah 8:14</a></li>
+<li><a href="#org44c8233">Nehemiah 8:15</a></li>
+<li><a href="#org92dfab4">Nehemiah 8:16</a></li>
+<li><a href="#orgf541845">Nehemiah 8:17</a></li>
+<li><a href="#org2bacf6f">Nehemiah 8:18</a></li>
+</ul>
+</li>
+<li><a href="#org1b0878b">Nehemiah 9</a>
+<ul>
+<li><a href="#orge307b12">Nehemiah 9:1</a></li>
+<li><a href="#org5929b41">Nehemiah 9:2</a></li>
+<li><a href="#orge2a9ae3">Nehemiah 9:3</a></li>
+<li><a href="#org39136f9">Nehemiah 9:4</a></li>
+<li><a href="#org4d66f5a">Nehemiah 9:5</a></li>
+<li><a href="#org04bb4a3">Nehemiah 9:6</a></li>
+<li><a href="#org63e1759">Nehemiah 9:7</a></li>
+<li><a href="#orgd831bf5">Nehemiah 9:8</a></li>
+<li><a href="#org56814ab">Nehemiah 9:9</a></li>
+<li><a href="#orgda88524">Nehemiah 9:10</a></li>
+<li><a href="#orgbb87288">Nehemiah 9:11</a></li>
+<li><a href="#orgb4b09bd">Nehemiah 9:12</a></li>
+<li><a href="#org8149997">Nehemiah 9:13</a></li>
+<li><a href="#org88aae0a">Nehemiah 9:14</a></li>
+<li><a href="#org9ac2b31">Nehemiah 9:15</a></li>
+<li><a href="#orgbaaa374">Nehemiah 9:16</a></li>
+<li><a href="#orgc6fd174">Nehemiah 9:17</a></li>
+<li><a href="#org153bb27">Nehemiah 9:18</a></li>
+<li><a href="#orgb7617d3">Nehemiah 9:19</a></li>
+<li><a href="#org4ec5f91">Nehemiah 9:20</a></li>
+<li><a href="#org95fc1eb">Nehemiah 9:21</a></li>
+<li><a href="#org43d468b">Nehemiah 9:22</a></li>
+<li><a href="#orgb6996c2">Nehemiah 9:23</a></li>
+<li><a href="#org2cb8c34">Nehemiah 9:24</a></li>
+<li><a href="#org1065840">Nehemiah 9:25</a></li>
+<li><a href="#orge9533be">Nehemiah 9:26</a></li>
+<li><a href="#org9dc10ec">Nehemiah 9:27</a></li>
+<li><a href="#org8c0b7ee">Nehemiah 9:28</a></li>
+<li><a href="#org92b79fc">Nehemiah 9:29</a></li>
+<li><a href="#orgb34d6b5">Nehemiah 9:30</a></li>
+<li><a href="#org333e062">Nehemiah 9:31</a></li>
+<li><a href="#orge330e9b">Nehemiah 9:32</a></li>
+<li><a href="#org1f6151e">Nehemiah 9:33</a></li>
+<li><a href="#orgfa6fbbe">Nehemiah 9:34</a></li>
+<li><a href="#org9c96bae">Nehemiah 9:35</a></li>
+<li><a href="#org398014e">Nehemiah 9:36</a></li>
+<li><a href="#org79c7a2e">Nehemiah 9:37</a></li>
+<li><a href="#orgd77a84b">Nehemiah 9:38</a></li>
+</ul>
+</li>
+<li><a href="#orge7e69fa">Nehemiah 10</a>
+<ul>
+<li><a href="#org96dad07">Nehemiah 10:1</a></li>
+<li><a href="#orge5c0388">Nehemiah 10:2</a></li>
+<li><a href="#org80401bd">Nehemiah 10:3</a></li>
+<li><a href="#orgd4c2f45">Nehemiah 10:4</a></li>
+<li><a href="#org840a7b7">Nehemiah 10:5</a></li>
+<li><a href="#org1028a59">Nehemiah 10:6</a></li>
+<li><a href="#orgb6a0719">Nehemiah 10:7</a></li>
+<li><a href="#orga86512c">Nehemiah 10:8</a></li>
+<li><a href="#orgb0a8e40">Nehemiah 10:9</a></li>
+<li><a href="#org2378925">Nehemiah 10:10</a></li>
+<li><a href="#orgd00ba3c">Nehemiah 10:11</a></li>
+<li><a href="#org0102782">Nehemiah 10:12</a></li>
+<li><a href="#orgf799390">Nehemiah 10:13</a></li>
+<li><a href="#orge549e2b">Nehemiah 10:14</a></li>
+<li><a href="#org9d0c071">Nehemiah 10:15</a></li>
+<li><a href="#org23956c6">Nehemiah 10:16</a></li>
+<li><a href="#org43d4bad">Nehemiah 10:17</a></li>
+<li><a href="#orgf9c2963">Nehemiah 10:18</a></li>
+<li><a href="#orgaed201a">Nehemiah 10:19</a></li>
+<li><a href="#orgd6cbe23">Nehemiah 10:20</a></li>
+<li><a href="#org5150e5c">Nehemiah 10:21</a></li>
+<li><a href="#org208a132">Nehemiah 10:22</a></li>
+<li><a href="#orgc150bd9">Nehemiah 10:23</a></li>
+<li><a href="#orgad60220">Nehemiah 10:24</a></li>
+<li><a href="#org2f23e7f">Nehemiah 10:25</a></li>
+<li><a href="#orgbd78f86">Nehemiah 10:26</a></li>
+<li><a href="#org76e4d30">Nehemiah 10:27</a></li>
+<li><a href="#org27f4b4a">Nehemiah 10:28</a></li>
+<li><a href="#org8d004fd">Nehemiah 10:29</a></li>
+<li><a href="#orgae8728d">Nehemiah 10:30</a></li>
+<li><a href="#org85eee95">Nehemiah 10:31</a></li>
+<li><a href="#orge3437ba">Nehemiah 10:32</a></li>
+<li><a href="#org9e6ba88">Nehemiah 10:33</a></li>
+<li><a href="#org9931fc8">Nehemiah 10:34</a></li>
+<li><a href="#org010599f">Nehemiah 10:35</a></li>
+<li><a href="#org5eb0d5a">Nehemiah 10:36</a></li>
+<li><a href="#org55f69eb">Nehemiah 10:37</a></li>
+<li><a href="#org57c310b">Nehemiah 10:38</a></li>
+<li><a href="#org8aaae06">Nehemiah 10:39</a></li>
+</ul>
+</li>
+<li><a href="#org4dba6b8">Nehemiah 11</a>
+<ul>
+<li><a href="#orgcf9dfe5">Nehemiah 11:1</a></li>
+<li><a href="#org04f6d98">Nehemiah 11:2</a></li>
+<li><a href="#org45faa13">Nehemiah 11:3</a></li>
+<li><a href="#orgeaad4d3">Nehemiah 11:4</a></li>
+<li><a href="#orgae4251b">Nehemiah 11:5</a></li>
+<li><a href="#orga7a7573">Nehemiah 11:6</a></li>
+<li><a href="#org8914a8f">Nehemiah 11:7</a></li>
+<li><a href="#orga67aba0">Nehemiah 11:8</a></li>
+<li><a href="#orgf369367">Nehemiah 11:9</a></li>
+<li><a href="#org7f0f5b8">Nehemiah 11:10</a></li>
+<li><a href="#org42eab15">Nehemiah 11:11</a></li>
+<li><a href="#org4182eb0">Nehemiah 11:12</a></li>
+<li><a href="#org6cee936">Nehemiah 11:13</a></li>
+<li><a href="#org98734aa">Nehemiah 11:14</a></li>
+<li><a href="#org5b6c6dd">Nehemiah 11:15</a></li>
+<li><a href="#org88b0d84">Nehemiah 11:16</a></li>
+<li><a href="#org45d5f4d">Nehemiah 11:17</a></li>
+<li><a href="#orgfda7690">Nehemiah 11:18</a></li>
+<li><a href="#orga1185d6">Nehemiah 11:19</a></li>
+<li><a href="#org3720955">Nehemiah 11:20</a></li>
+<li><a href="#org7a2c2a2">Nehemiah 11:21</a></li>
+<li><a href="#org659a02c">Nehemiah 11:22</a></li>
+<li><a href="#orgcd5b1fe">Nehemiah 11:23</a></li>
+<li><a href="#org3676b13">Nehemiah 11:24</a></li>
+<li><a href="#orgb00bb94">Nehemiah 11:25</a></li>
+<li><a href="#orgb183f70">Nehemiah 11:26</a></li>
+<li><a href="#org9a0cbfb">Nehemiah 11:27</a></li>
+<li><a href="#orgea970ad">Nehemiah 11:28</a></li>
+<li><a href="#org4142b4d">Nehemiah 11:29</a></li>
+<li><a href="#org4aa05e2">Nehemiah 11:30</a></li>
+<li><a href="#org64052ab">Nehemiah 11:31</a></li>
+<li><a href="#org2f93d12">Nehemiah 11:32</a></li>
+<li><a href="#org77f14f2">Nehemiah 11:33</a></li>
+<li><a href="#orgf51e901">Nehemiah 11:34</a></li>
+<li><a href="#org474d263">Nehemiah 11:35</a></li>
+<li><a href="#org3bef322">Nehemiah 11:36</a></li>
+</ul>
+</li>
+<li><a href="#org6cf3da8">Nehemiah 12</a>
+<ul>
+<li><a href="#org2e00829">Nehemiah 12:1</a></li>
+<li><a href="#org6d2bdda">Nehemiah 12:2</a></li>
+<li><a href="#org1469d9f">Nehemiah 12:3</a></li>
+<li><a href="#orgbddeeb0">Nehemiah 12:4</a></li>
+<li><a href="#orgd554cda">Nehemiah 12:5</a></li>
+<li><a href="#org9c6d3c4">Nehemiah 12:6</a></li>
+<li><a href="#org14c9570">Nehemiah 12:7</a></li>
+<li><a href="#org06f398b">Nehemiah 12:8</a></li>
+<li><a href="#org63463fa">Nehemiah 12:9</a></li>
+<li><a href="#orge05a330">Nehemiah 12:10</a></li>
+<li><a href="#orgb88ff98">Nehemiah 12:11</a></li>
+<li><a href="#org9139e0f">Nehemiah 12:12</a></li>
+<li><a href="#orga4c00b9">Nehemiah 12:13</a></li>
+<li><a href="#orgdbb24ff">Nehemiah 12:14</a></li>
+<li><a href="#orge4d51e6">Nehemiah 12:15</a></li>
+<li><a href="#org5624783">Nehemiah 12:16</a></li>
+<li><a href="#org59f406d">Nehemiah 12:17</a></li>
+<li><a href="#org0f0dea1">Nehemiah 12:18</a></li>
+<li><a href="#orgf5c87a0">Nehemiah 12:19</a></li>
+<li><a href="#org801c223">Nehemiah 12:20</a></li>
+<li><a href="#orgeddc857">Nehemiah 12:21</a></li>
+<li><a href="#orgb46b9fb">Nehemiah 12:22</a></li>
+<li><a href="#orgfb1c060">Nehemiah 12:23</a></li>
+<li><a href="#orgcaa6d12">Nehemiah 12:24</a></li>
+<li><a href="#org8c4746e">Nehemiah 12:25</a></li>
+<li><a href="#org4302186">Nehemiah 12:26</a></li>
+<li><a href="#org7df8ec1">Nehemiah 12:27</a></li>
+<li><a href="#orgfad6c17">Nehemiah 12:28</a></li>
+<li><a href="#org6a2131f">Nehemiah 12:29</a></li>
+<li><a href="#org0fc7597">Nehemiah 12:30</a></li>
+<li><a href="#org9e700ab">Nehemiah 12:31</a></li>
+<li><a href="#orgd1dcc58">Nehemiah 12:32</a></li>
+<li><a href="#orgcf3c42b">Nehemiah 12:33</a></li>
+<li><a href="#org39d0bd1">Nehemiah 12:34</a></li>
+<li><a href="#org4f1dfd9">Nehemiah 12:35</a></li>
+<li><a href="#orgd7303b6">Nehemiah 12:36</a></li>
+<li><a href="#orgb4b51e9">Nehemiah 12:37</a></li>
+<li><a href="#org806b612">Nehemiah 12:38</a></li>
+<li><a href="#orged1ba1c">Nehemiah 12:39</a></li>
+<li><a href="#org2f4760c">Nehemiah 12:40</a></li>
+<li><a href="#org1c9336d">Nehemiah 12:41</a></li>
+<li><a href="#org4d1a240">Nehemiah 12:42</a></li>
+<li><a href="#org3878100">Nehemiah 12:43</a></li>
+<li><a href="#org330390d">Nehemiah 12:44</a></li>
+<li><a href="#orgb0bfa5d">Nehemiah 12:45</a></li>
+<li><a href="#orge8ca944">Nehemiah 12:46</a></li>
+</ul>
+</li>
+<li><a href="#orga1a94ca">Nehemiah 13</a>
+<ul>
+<li><a href="#org423da44">Nehemiah 13:1</a></li>
+<li><a href="#orgc2d949f">Nehemiah 13:2</a></li>
+<li><a href="#org4932102">Nehemiah 13:3</a></li>
+<li><a href="#org3746142">Nehemiah 13:4</a></li>
+<li><a href="#org29b1e73">Nehemiah 13:5</a></li>
+<li><a href="#orgf0c8495">Nehemiah 13:6</a></li>
+<li><a href="#org51a0131">Nehemiah 13:7</a></li>
+<li><a href="#org31b7139">Nehemiah 13:8</a></li>
+<li><a href="#orgaa724c4">Nehemiah 13:9</a></li>
+<li><a href="#orgb829cfd">Nehemiah 13:10</a></li>
+<li><a href="#org4c11c53">Nehemiah 13:11</a></li>
+<li><a href="#org4ae97f4">Nehemiah 13:12</a></li>
+<li><a href="#org358b0b2">Nehemiah 13:13</a></li>
+<li><a href="#orgf4fb7d5">Nehemiah 13:14</a></li>
+<li><a href="#org49ec95c">Nehemiah 13:15</a></li>
+<li><a href="#org8dc2d9e">Nehemiah 13:16</a></li>
+<li><a href="#orge81d6f8">Nehemiah 13:17</a></li>
+<li><a href="#org124a995">Nehemiah 13:18</a></li>
+<li><a href="#org57f803c">Nehemiah 13:19</a></li>
+<li><a href="#orgd7b15c9">Nehemiah 13:20</a></li>
+<li><a href="#org69c9ae6">Nehemiah 13:21</a></li>
+<li><a href="#org9ecfabd">Nehemiah 13:22</a></li>
+<li><a href="#org8d0f655">Nehemiah 13:23</a></li>
+<li><a href="#orgee56eb8">Nehemiah 13:24</a></li>
+<li><a href="#org5198a56">Nehemiah 13:25</a></li>
+<li><a href="#org94905ac">Nehemiah 13:26</a></li>
+<li><a href="#org31ba642">Nehemiah 13:27</a></li>
+<li><a href="#org489bdeb">Nehemiah 13:28</a></li>
+<li><a href="#org902b001">Nehemiah 13:29</a></li>
+<li><a href="#orgb591e27">Nehemiah 13:30</a></li>
+<li><a href="#org144ef3e">Nehemiah 13:31</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org3eec7f1" class="outline-2">
+<h2 id="org3eec7f1">Nehemiah 1</h2>
+<div class="outline-text-2" id="text-org3eec7f1">
+</div>
+<div id="outline-container-org8760a84" class="outline-3">
+<h3 id="org8760a84">Nehemiah 1:1</h3>
+<div class="outline-text-3" id="text-org8760a84">
+<p>
+The words of Nehemiah the son of Helchias. And it came to pass in the month of Casleu, in the twentieth year, as I was in the castle of Susa,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e5c676" class="outline-3">
+<h3 id="org9e5c676">Nehemiah 1:2</h3>
+<div class="outline-text-3" id="text-org9e5c676">
+<p>
+That Hanani one of my brethren came, he and some men of Juda; and I asked them concerning the Jews, that remained and were left of the captivity, and concerning Jerusalem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f6eaa4" class="outline-3">
+<h3 id="org3f6eaa4">Nehemiah 1:3</h3>
+<div class="outline-text-3" id="text-org3f6eaa4">
+<p>
+And they said to me: They that have remained, and are left of the captivity there in the province, are in great affliction, and reproach: and the wall of Jerusalem is broken down, and the gates thereof are burnt with fire.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb0f5ba8" class="outline-3">
+<h3 id="orgb0f5ba8">Nehemiah 1:4</h3>
+<div class="outline-text-3" id="text-orgb0f5ba8">
+<p>
+And when I had heard these words, I sat down, and wept, and mourned for many days: and I fasted, and prayed before the face of the God of heaven.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdc18245" class="outline-3">
+<h3 id="orgdc18245">Nehemiah 1:5</h3>
+<div class="outline-text-3" id="text-orgdc18245">
+<p>
+And I said: I beseech thee, O Lord God of heaven, strong, great, and terrible, who keepest covenant and mercy with those that love thee, and keep thy commandments:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2ca53e0" class="outline-3">
+<h3 id="org2ca53e0">Nehemiah 1:6</h3>
+<div class="outline-text-3" id="text-org2ca53e0">
+<p>
+Let thy ears be attentive, and thy eyes open, to hear the prayer of thy servant, which I pray before thee now, night and day, for the children of Israel thy servants: and I confess the sins of the children of Israel, by which they have sinned against thee: I and my father&rsquo;s house have sinned.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2e8c9ad" class="outline-3">
+<h3 id="org2e8c9ad">Nehemiah 1:7</h3>
+<div class="outline-text-3" id="text-org2e8c9ad">
+<p>
+We have been seduced by vanity, and have not kept thy commandments, and ceremonies and judgments, which thou hast commanded thy servant Moses.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4068765" class="outline-3">
+<h3 id="org4068765">Nehemiah 1:8</h3>
+<div class="outline-text-3" id="text-org4068765">
+<p>
+Remember the word that thou commandedst to Moses thy servant, saying: If you shall transgress, I will scatter you abroad among the nations:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc510100" class="outline-3">
+<h3 id="orgc510100">Nehemiah 1:9</h3>
+<div class="outline-text-3" id="text-orgc510100">
+<p>
+But if you return to me, and keep my commandments, and do them, though you should be led away to the uttermost parts of the world, I will gather you from thence, and bring you back to the place which I have chosen for my name to dwell there.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4321929" class="outline-3">
+<h3 id="org4321929">Nehemiah 1:10</h3>
+<div class="outline-text-3" id="text-org4321929">
+<p>
+And these are thy servants, and thy people: whom thou hast redeemed by thy great strength, and by thy mighty hand.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0b60bf6" class="outline-3">
+<h3 id="org0b60bf6">Nehemiah 1:11</h3>
+<div class="outline-text-3" id="text-org0b60bf6">
+<p>
+I beseech thee, O Lord, let thy ear be attentive to the prayer of thy servant, and to the prayer of thy servants who desire to fear thy name: and direct thy servant this day, and give him mercy before this man. For I was the king&rsquo;s cupbearer. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgaf4728f" class="outline-2">
+<h2 id="orgaf4728f">Nehemiah 2</h2>
+<div class="outline-text-2" id="text-orgaf4728f">
+</div>
+<div id="outline-container-orge9f2357" class="outline-3">
+<h3 id="orge9f2357">Nehemiah 2:1</h3>
+<div class="outline-text-3" id="text-orge9f2357">
+<p>
+And it came to pass in the month of Nisan, in the twentieth year of Artaxerxes the king: that wine was before him, and I took up the wine, and gave it to the king: and I was as one languishing away before his face.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3ced1f0" class="outline-3">
+<h3 id="org3ced1f0">Nehemiah 2:2</h3>
+<div class="outline-text-3" id="text-org3ced1f0">
+<p>
+And the king said to me: Why is thy countenance sad, seeing thou dost not appear to be sick? this is not without cause, but some evil, I know not what, is in thy heart. And I was seized with an exceeding great fear:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb3a22fa" class="outline-3">
+<h3 id="orgb3a22fa">Nehemiah 2:3</h3>
+<div class="outline-text-3" id="text-orgb3a22fa">
+<p>
+And I said to the king: O king, live for ever: why should not my countenance be sorrowful, seeing the city of the place of the sepulchres of my fathers is desolate, and the gates thereof are burnt with fire?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdb5e4fc" class="outline-3">
+<h3 id="orgdb5e4fc">Nehemiah 2:4</h3>
+<div class="outline-text-3" id="text-orgdb5e4fc">
+<p>
+Then the king said to me: For what dost thou make request? And I prayed to the God of heaven,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdf117f3" class="outline-3">
+<h3 id="orgdf117f3">Nehemiah 2:5</h3>
+<div class="outline-text-3" id="text-orgdf117f3">
+<p>
+And I said to the king: If it seem good to the king, and if thy servant hath found favour in thy sight, that thou wouldst send me into Judea to the city of the sepulchre of my father, and I will build it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org730a091" class="outline-3">
+<h3 id="org730a091">Nehemiah 2:6</h3>
+<div class="outline-text-3" id="text-org730a091">
+<p>
+And the king said to me, and the queen that sat by him: For how long shall thy journey be, and when wilt thou return? And it pleased the king, and he sent me: and I fixed him a time.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4962be2" class="outline-3">
+<h3 id="org4962be2">Nehemiah 2:7</h3>
+<div class="outline-text-3" id="text-org4962be2">
+<p>
+And I said to the king: If it seem good to the king, let him give me letters to the governors of the country beyond the river, that they convey me over, till I come into Judea:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org282923d" class="outline-3">
+<h3 id="org282923d">Nehemiah 2:8</h3>
+<div class="outline-text-3" id="text-org282923d">
+<p>
+And a letter to Asaph the keeper of the king&rsquo;s forest, to give me timber that I may cover the gates of the tower of the house, and the walls of the city, and the house that I shall enter into. And the king gave me according to the good hand of my God with me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org31ee2ee" class="outline-3">
+<h3 id="org31ee2ee">Nehemiah 2:9</h3>
+<div class="outline-text-3" id="text-org31ee2ee">
+<p>
+And I came to the governors of the country beyond the river, and gave them the king&rsquo;s letters. And the king had sent with me captains of soldiers, and horsemen.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9f65c2c" class="outline-3">
+<h3 id="org9f65c2c">Nehemiah 2:10</h3>
+<div class="outline-text-3" id="text-org9f65c2c">
+<p>
+And Sanaballat the Horonite, and Tobias the servant, the Ammonite, heard it, and it grieved them exceedingly, that a man was come, who sought the prosperity of the children of Israel.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org87676d7" class="outline-3">
+<h3 id="org87676d7">Nehemiah 2:11</h3>
+<div class="outline-text-3" id="text-org87676d7">
+<p>
+And I came to Jerusalem, and was there three days.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf3c35f6" class="outline-3">
+<h3 id="orgf3c35f6">Nehemiah 2:12</h3>
+<div class="outline-text-3" id="text-orgf3c35f6">
+<p>
+And I arose in the night, I and some few men with me, and I told not any man what God had put in my heart to do in Jerusalem, and there was no beast with me, but the beast that I rode upon.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2ccae70" class="outline-3">
+<h3 id="org2ccae70">Nehemiah 2:13</h3>
+<div class="outline-text-3" id="text-org2ccae70">
+<p>
+And I went out by night by the gate of the valley, and before the dragon fountain, and to the dung gate, and I viewed the wall of Jerusalem which was broken down, and the gates thereof which were consumed with fire.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge7f6bc9" class="outline-3">
+<h3 id="orge7f6bc9">Nehemiah 2:14</h3>
+<div class="outline-text-3" id="text-orge7f6bc9">
+<p>
+And I passed to the gate of the fountain, and to the king&rsquo;s aqueduct, and there was no place for the beast on which I rode to pass.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2112195" class="outline-3">
+<h3 id="org2112195">Nehemiah 2:15</h3>
+<div class="outline-text-3" id="text-org2112195">
+<p>
+And I went up in the night by the torrent, and viewed the wall, and going back I came to the gate of the valley, and returned.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0fcb6ff" class="outline-3">
+<h3 id="org0fcb6ff">Nehemiah 2:16</h3>
+<div class="outline-text-3" id="text-org0fcb6ff">
+<p>
+But the magistrates knew not whither I went, or what I did: neither had I as yet told any thing to the Jews, or to the priests, or to the nobles, or to the magistrates, or to the rest that did the work.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org422cecc" class="outline-3">
+<h3 id="org422cecc">Nehemiah 2:17</h3>
+<div class="outline-text-3" id="text-org422cecc">
+<p>
+Then I said to them: You know the affliction wherein we are, because Jerusalem is desolate, and the gates thereof are consumed with fire: come, and let us build up the walls of Jerusalem, and let us be no longer a reproach.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org88ec0a8" class="outline-3">
+<h3 id="org88ec0a8">Nehemiah 2:18</h3>
+<div class="outline-text-3" id="text-org88ec0a8">
+<p>
+And I shewed them how the hand of my God was good with me, and the king&rsquo;s words, which he had spoken to me, and I said: Let us rise up, and build. And their hands were strengthened in good.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc790581" class="outline-3">
+<h3 id="orgc790581">Nehemiah 2:19</h3>
+<div class="outline-text-3" id="text-orgc790581">
+<p>
+But Sanaballat the Horonite, and Tobias the servant, the Ammonite, and Gossem the Arabian heard of it, and they scoffed at us, and despised us, and said: What is this thing that you do? are you going to rebel against the king?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga991c8d" class="outline-3">
+<h3 id="orga991c8d">Nehemiah 2:20</h3>
+<div class="outline-text-3" id="text-orga991c8d">
+<p>
+And I answered them, and said to them: The God of heaven he helpeth us, and we are his servants: let us rise up and build: but you have no part, nor justice, nor remembrance in Jerusalem. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgf153152" class="outline-2">
+<h2 id="orgf153152">Nehemiah 3</h2>
+<div class="outline-text-2" id="text-orgf153152">
+</div>
+<div id="outline-container-org8805ed8" class="outline-3">
+<h3 id="org8805ed8">Nehemiah 3:1</h3>
+<div class="outline-text-3" id="text-org8805ed8">
+<p>
+Then Eliasib the high priest arose, and his brethren the priests, and they built the flock gate: they sanctified it, and set up the doors thereof, even unto the tower of a hundred cubits they sanctified it unto the tower of Hananeel.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2719610" class="outline-3">
+<h3 id="org2719610">Nehemiah 3:2</h3>
+<div class="outline-text-3" id="text-org2719610">
+<p>
+And next to him the men of Jericho built: and next to them built Zachur the son of Amri.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8e9f80e" class="outline-3">
+<h3 id="org8e9f80e">Nehemiah 3:3</h3>
+<div class="outline-text-3" id="text-org8e9f80e">
+<p>
+But the fish gate the sons of Asnaa built: they covered it, and set up the doors thereof, and the locks, and the bars. And next to them built Marimuth the son of Urias the son of Accus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc4ff062" class="outline-3">
+<h3 id="orgc4ff062">Nehemiah 3:4</h3>
+<div class="outline-text-3" id="text-orgc4ff062">
+<p>
+And next to him built Mosollam the son of Barachias, the son of Merezebel, and next to them built Sadoc the son of Baana.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb2301c7" class="outline-3">
+<h3 id="orgb2301c7">Nehemiah 3:5</h3>
+<div class="outline-text-3" id="text-orgb2301c7">
+<p>
+And next to them the Thecuites built: but their great men did not put their necks to the work of their Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf89473e" class="outline-3">
+<h3 id="orgf89473e">Nehemiah 3:6</h3>
+<div class="outline-text-3" id="text-orgf89473e">
+<p>
+And Joiada the son of Phasea, and Mosollam the son of Besodia built the old gate: they covered it and set up the doors thereof, and the locks, and the bars.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org845ff47" class="outline-3">
+<h3 id="org845ff47">Nehemiah 3:7</h3>
+<div class="outline-text-3" id="text-org845ff47">
+<p>
+And next to them built Meltias the Gabaonite, and Jadon the Meronathite, the men of Gabaon and Maspha, for the governor that was in the country beyond the river.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org70bf603" class="outline-3">
+<h3 id="org70bf603">Nehemiah 3:8</h3>
+<div class="outline-text-3" id="text-org70bf603">
+<p>
+And next to him built Eziel the son of Araia the goldsmith: and next to him built Ananias the son of the perfumer: and they left Jerusalem unto the wall of the broad street.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org59e06c3" class="outline-3">
+<h3 id="org59e06c3">Nehemiah 3:9</h3>
+<div class="outline-text-3" id="text-org59e06c3">
+<p>
+And next to him built Raphaia the son of Hur, lord of the street of Jerusalem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org355ef27" class="outline-3">
+<h3 id="org355ef27">Nehemiah 3:10</h3>
+<div class="outline-text-3" id="text-org355ef27">
+<p>
+And next to him Jedaia the son of Haromaph over against his own house: and next to him built Hattus the son of Hasebonia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org89e77d7" class="outline-3">
+<h3 id="org89e77d7">Nehemiah 3:11</h3>
+<div class="outline-text-3" id="text-org89e77d7">
+<p>
+Melchias the son of Herem, and Hasub the son of Phahath Moab, built half the street, and the tower of the furnaces.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org020a341" class="outline-3">
+<h3 id="org020a341">Nehemiah 3:12</h3>
+<div class="outline-text-3" id="text-org020a341">
+<p>
+And next to him built Sellum the son of Alohes, lord of half the street of Jerusalem, he and his daughters.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6207905" class="outline-3">
+<h3 id="org6207905">Nehemiah 3:13</h3>
+<div class="outline-text-3" id="text-org6207905">
+<p>
+And the gate of the valley Hanun built, and the inhabitants of Zanoe: they built it, and set up the doors thereof, and the locks, and the bars, and a thousand cubits in the wall unto the gate of the dunghill.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc2d39d4" class="outline-3">
+<h3 id="orgc2d39d4">Nehemiah 3:14</h3>
+<div class="outline-text-3" id="text-orgc2d39d4">
+<p>
+And the gate of the dunghill Melchias the son of Rechab built, lord of the street of Bethacharam: he built it, and set up the doors thereof, and the locks, and the bars.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org48e97b2" class="outline-3">
+<h3 id="org48e97b2">Nehemiah 3:15</h3>
+<div class="outline-text-3" id="text-org48e97b2">
+<p>
+And the gate of the fountain, Sellum, the son of Cholhoza, built, lord of the street of Maspha: he built it, and covered it, and set up the doors thereof, and the locks, and the bars, and the walls of the pool of Siloe unto the king&rsquo;s guard, and unto the steps that go down from the city of David.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org24260a7" class="outline-3">
+<h3 id="org24260a7">Nehemiah 3:16</h3>
+<div class="outline-text-3" id="text-org24260a7">
+<p>
+After him built Nehemiah the son of Azboc, lord of half the street of Bethsur, as far as over against the sepulchre of David, and to the pool, that was built with great labour, and to the house of the mighty.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5ca9f71" class="outline-3">
+<h3 id="org5ca9f71">Nehemiah 3:17</h3>
+<div class="outline-text-3" id="text-org5ca9f71">
+<p>
+After him built the Levites, Rehum the son of Benni. After him built Hasebias, lord of half the street of Ceila in his own street.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org40db7c2" class="outline-3">
+<h3 id="org40db7c2">Nehemiah 3:18</h3>
+<div class="outline-text-3" id="text-org40db7c2">
+<p>
+After him built their brethren Bavai the son of Enadad, lord of half Ceila.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb8eb3e4" class="outline-3">
+<h3 id="orgb8eb3e4">Nehemiah 3:19</h3>
+<div class="outline-text-3" id="text-orgb8eb3e4">
+<p>
+And next to him Aser the son of Josue, lord of Maspha, built another measure, over against the going up of the strong corner.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org65e8358" class="outline-3">
+<h3 id="org65e8358">Nehemiah 3:20</h3>
+<div class="outline-text-3" id="text-org65e8358">
+<p>
+After him in the mount Baruch the son of Zachai built another measure, from the corner to the door of the house of Eliasib the high priest.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org41aaf5c" class="outline-3">
+<h3 id="org41aaf5c">Nehemiah 3:21</h3>
+<div class="outline-text-3" id="text-org41aaf5c">
+<p>
+After him Merimuth the son of Urias the son of Haccus, built another measure, from the door of the house of Eliasib, to the end of the house of Eliasib.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbdc4532" class="outline-3">
+<h3 id="orgbdc4532">Nehemiah 3:22</h3>
+<div class="outline-text-3" id="text-orgbdc4532">
+<p>
+And after him built the priests, the men of the plains of the Jordan.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org710bd56" class="outline-3">
+<h3 id="org710bd56">Nehemiah 3:23</h3>
+<div class="outline-text-3" id="text-org710bd56">
+<p>
+After him built Benjamin and Hasub, over against their own house: and after him built Azarias the son of Maasias the son of Ananias over against his house.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org62ddd19" class="outline-3">
+<h3 id="org62ddd19">Nehemiah 3:24</h3>
+<div class="outline-text-3" id="text-org62ddd19">
+<p>
+After him built Bennui the son of Hanadad another measure, from the house of Azarias unto the bending, and unto the corner.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbeb40e5" class="outline-3">
+<h3 id="orgbeb40e5">Nehemiah 3:25</h3>
+<div class="outline-text-3" id="text-orgbeb40e5">
+<p>
+Phalel, the son of Ozi, over against the bending and the tower, which lieth out from the king&rsquo;s high house, that is, in the court of the prison: after him Phadaia the son of Pharos.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge014d2f" class="outline-3">
+<h3 id="orge014d2f">Nehemiah 3:26</h3>
+<div class="outline-text-3" id="text-orge014d2f">
+<p>
+And the Nathinites dwelt in Ophel, as far as over against the water gate toward the east, and the tower that stood out.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org454cc9f" class="outline-3">
+<h3 id="org454cc9f">Nehemiah 3:27</h3>
+<div class="outline-text-3" id="text-org454cc9f">
+<p>
+After him the Thecuites built another measure over against, from the great tower that standeth out unto the wall of the temple.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0bca55e" class="outline-3">
+<h3 id="org0bca55e">Nehemiah 3:28</h3>
+<div class="outline-text-3" id="text-org0bca55e">
+<p>
+And upward from the horse gate the priests built, every man over against his house.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org18b802d" class="outline-3">
+<h3 id="org18b802d">Nehemiah 3:29</h3>
+<div class="outline-text-3" id="text-org18b802d">
+<p>
+After them built Sadoc the son of Emmer over against his house. And after him built Semaia the son of Sechenias, keeper of the east gate.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf06f105" class="outline-3">
+<h3 id="orgf06f105">Nehemiah 3:30</h3>
+<div class="outline-text-3" id="text-orgf06f105">
+<p>
+After him built Hanania the son of Selemia, and Hanun the sixth son of Seleph, another measure: after him built Mosollam the son of Barachias over against his treasury. After him Melcias the goldsmith&rsquo;s son built unto the house of the Nathinites, and of the sellers of small wares, over against the judgment gate, and unto the chamber of the corner.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org796211c" class="outline-3">
+<h3 id="org796211c">Nehemiah 3:31</h3>
+<div class="outline-text-3" id="text-org796211c">
+<p>
+And within the chamber of the corner of the flock gate, the goldsmiths and the merchants built. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org5935f3d" class="outline-2">
+<h2 id="org5935f3d">Nehemiah 4</h2>
+<div class="outline-text-2" id="text-org5935f3d">
+</div>
+<div id="outline-container-org5e63ed1" class="outline-3">
+<h3 id="org5e63ed1">Nehemiah 4:1</h3>
+<div class="outline-text-3" id="text-org5e63ed1">
+<p>
+And it came to pass, that when Sanaballat heard that we were building the wall he was angry: and being moved exceedingly he scoffed at the Jews.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge41fa7f" class="outline-3">
+<h3 id="orge41fa7f">Nehemiah 4:2</h3>
+<div class="outline-text-3" id="text-orge41fa7f">
+<p>
+And said before his brethren, and the multitude of the Samaritans: What are the silly Jews doing? Will the Gentiles let them alone? will they sacrifice and make an end in a day? are they able to raise stones out of the heaps of the rubbish, which are burnt?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3e08d6c" class="outline-3">
+<h3 id="org3e08d6c">Nehemiah 4:3</h3>
+<div class="outline-text-3" id="text-org3e08d6c">
+<p>
+Tobias also the Ammonite who was by him said: Let them build: if a fox go up, he will leap over their stone wall.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org92e86ec" class="outline-3">
+<h3 id="org92e86ec">Nehemiah 4:4</h3>
+<div class="outline-text-3" id="text-org92e86ec">
+<p>
+Hear thou our God, for we are despised: turn their reproach upon their own head, and give them to be despised in a land of captivity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdd23b7a" class="outline-3">
+<h3 id="orgdd23b7a">Nehemiah 4:5</h3>
+<div class="outline-text-3" id="text-orgdd23b7a">
+<p>
+Cover not their iniquity, and let not their sin be blotted out from before thy face, because they have mocked thy builders.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1716a46" class="outline-3">
+<h3 id="org1716a46">Nehemiah 4:6</h3>
+<div class="outline-text-3" id="text-org1716a46">
+<p>
+So we built the wall, and joined it all together unto the half thereof: and the heart of the people was excited to work.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda1fa32" class="outline-3">
+<h3 id="orgda1fa32">Nehemiah 4:7</h3>
+<div class="outline-text-3" id="text-orgda1fa32">
+<p>
+And it came to pass, when Sanaballat, and Tobias, and the Arabians, and the Ammonites, and the Azotians heard that the walls of Jerusalem were made up, and the breaches began to be closed, that they were exceedingly angry.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org90db590" class="outline-3">
+<h3 id="org90db590">Nehemiah 4:8</h3>
+<div class="outline-text-3" id="text-org90db590">
+<p>
+And they all assembled themselves together, to come, and to fight against Jerusalem, and to prepare ambushes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org82a3fac" class="outline-3">
+<h3 id="org82a3fac">Nehemiah 4:9</h3>
+<div class="outline-text-3" id="text-org82a3fac">
+<p>
+And we prayed to our God, and set watchmen upon the wall day and night against them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd6a0a9e" class="outline-3">
+<h3 id="orgd6a0a9e">Nehemiah 4:10</h3>
+<div class="outline-text-3" id="text-orgd6a0a9e">
+<p>
+And Juda said: The strength of the bearer of burdens is decayed, and the rubbish is very much, and we shall not be able to build the wall.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org72aae39" class="outline-3">
+<h3 id="org72aae39">Nehemiah 4:11</h3>
+<div class="outline-text-3" id="text-org72aae39">
+<p>
+And our enemies said: Let them not know, nor understand, till we come in the midst of them, and kill them, and cause the work to cease.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda16575" class="outline-3">
+<h3 id="orgda16575">Nehemiah 4:12</h3>
+<div class="outline-text-3" id="text-orgda16575">
+<p>
+And it came to pass, that when the Jews that dwelt by them came and told us ten times, out of all the places from whence they came to us,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga99c5f6" class="outline-3">
+<h3 id="orga99c5f6">Nehemiah 4:13</h3>
+<div class="outline-text-3" id="text-orga99c5f6">
+<p>
+I set the people in the place behind the wall round about in order, with their swords, and spears, and bows.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgddd271e" class="outline-3">
+<h3 id="orgddd271e">Nehemiah 4:14</h3>
+<div class="outline-text-3" id="text-orgddd271e">
+<p>
+And I looked and rose up: and I said to the chief men and the magistrates, and to the rest of the common people: be not afraid of them. Remember the Lord who is great and terrible, and fight for your brethren, your sons, and your daughters, and your wives, and your houses.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75cbd73" class="outline-3">
+<h3 id="org75cbd73">Nehemiah 4:15</h3>
+<div class="outline-text-3" id="text-org75cbd73">
+<p>
+And it came to pass, when our enemies heard that the thing had been told us, that God defeated their counsel. And we returned all of us to the walls, every man to his work.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga658732" class="outline-3">
+<h3 id="orga658732">Nehemiah 4:16</h3>
+<div class="outline-text-3" id="text-orga658732">
+<p>
+And it came to pass from that day forward, that half of their young men did the work, and half were ready for to fight, with spears, and shields, and bows, and coats of mail, and the rulers were behind them in all the house of Juda.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga5add94" class="outline-3">
+<h3 id="orga5add94">Nehemiah 4:17</h3>
+<div class="outline-text-3" id="text-orga5add94">
+<p>
+Of them that built on the wall and that carried burdens, and that laded: with one of his hands he did the work, and with the other he held a sword.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6ba6c12" class="outline-3">
+<h3 id="org6ba6c12">Nehemiah 4:18</h3>
+<div class="outline-text-3" id="text-org6ba6c12">
+<p>
+For every one of the builders was girded with a sword about his reins. And they built, and sounded with a trumpet by me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0ebfddf" class="outline-3">
+<h3 id="org0ebfddf">Nehemiah 4:19</h3>
+<div class="outline-text-3" id="text-org0ebfddf">
+<p>
+And I said to the nobles, and to the magistrates, and to the rest of the common people: The work is great and wide, and we are separated on the wall one far from another:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1b20718" class="outline-3">
+<h3 id="org1b20718">Nehemiah 4:20</h3>
+<div class="outline-text-3" id="text-org1b20718">
+<p>
+In what place soever you shall hear the sound of the trumpet, run all thither unto us: our God will fight for us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org53b27bd" class="outline-3">
+<h3 id="org53b27bd">Nehemiah 4:21</h3>
+<div class="outline-text-3" id="text-org53b27bd">
+<p>
+And let us do the work: and let one half of us hold our spears from the rising of the morning, till the stars appear.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga3d436b" class="outline-3">
+<h3 id="orga3d436b">Nehemiah 4:22</h3>
+<div class="outline-text-3" id="text-orga3d436b">
+<p>
+At that time also I said to the people: Let every one with his servant stay in the midst of Jerusalem, and let us take our turns in the night, and by day, to work.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5a6bd8f" class="outline-3">
+<h3 id="org5a6bd8f">Nehemiah 4:23</h3>
+<div class="outline-text-3" id="text-org5a6bd8f">
+<p>
+Now I and my brethren, and my servants, and the watchmen that followed me, did not put off our clothes: only every man stripped himself when he was to be washed. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orge054b83" class="outline-2">
+<h2 id="orge054b83">Nehemiah 5</h2>
+<div class="outline-text-2" id="text-orge054b83">
+</div>
+<div id="outline-container-org67d23f6" class="outline-3">
+<h3 id="org67d23f6">Nehemiah 5:1</h3>
+<div class="outline-text-3" id="text-org67d23f6">
+<p>
+Now there was a great cry of the people, and of their wives against their brethren the Jews.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb07e9cd" class="outline-3">
+<h3 id="orgb07e9cd">Nehemiah 5:2</h3>
+<div class="outline-text-3" id="text-orgb07e9cd">
+<p>
+And there were some that said: Our sons and our daughters are very many: let us take up corn for the price of them, and let us eat and live.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge56891b" class="outline-3">
+<h3 id="orge56891b">Nehemiah 5:3</h3>
+<div class="outline-text-3" id="text-orge56891b">
+<p>
+And there were some that said: Let us mortgage our lands, and our vineyards, and our houses, and let us take corn because of the famine.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org336b245" class="outline-3">
+<h3 id="org336b245">Nehemiah 5:4</h3>
+<div class="outline-text-3" id="text-org336b245">
+<p>
+And others said: Let us borrow money for the king&rsquo;s tribute, and let us give up our fields and vineyards:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org74382ab" class="outline-3">
+<h3 id="org74382ab">Nehemiah 5:5</h3>
+<div class="outline-text-3" id="text-org74382ab">
+<p>
+And now our flesh is as the flesh of our brethren: and our children as their children. Behold we bring into bondage our sons and our daughters, and some of our daughters are bondwomen already, neither have we wherewith to redeem them, and our fields and our vineyards other men possess.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9f925b7" class="outline-3">
+<h3 id="org9f925b7">Nehemiah 5:6</h3>
+<div class="outline-text-3" id="text-org9f925b7">
+<p>
+And I was exceedingly angry when I heard their cry according to these words.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org95961fd" class="outline-3">
+<h3 id="org95961fd">Nehemiah 5:7</h3>
+<div class="outline-text-3" id="text-org95961fd">
+<p>
+And my heart thought with myself: and I rebuked the nobles and magistrates, and said to them: Do you every one exact usury of your brethren? And I gathered together a great assembly against them,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org816eef0" class="outline-3">
+<h3 id="org816eef0">Nehemiah 5:8</h3>
+<div class="outline-text-3" id="text-org816eef0">
+<p>
+And I said to them: We, as you know, have redeemed according to our ability our brethren the Jews, that were sold to the Gentiles: and will you then sell your brethren, for us to redeem them? And they held their peace, and found not what to answer.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga9c433d" class="outline-3">
+<h3 id="orga9c433d">Nehemiah 5:9</h3>
+<div class="outline-text-3" id="text-orga9c433d">
+<p>
+And I said to them: The thing you do is not good: why walk you not in the fear of our God, that we be not exposed to the reproaches of the Gentiles our enemies?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b7575b" class="outline-3">
+<h3 id="org4b7575b">Nehemiah 5:10</h3>
+<div class="outline-text-3" id="text-org4b7575b">
+<p>
+Both I and my brethren, and my servants, have lent money and corn to many: let us all agree not to call for it again; let us forgive the debt that is owing to us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb9c99c1" class="outline-3">
+<h3 id="orgb9c99c1">Nehemiah 5:11</h3>
+<div class="outline-text-3" id="text-orgb9c99c1">
+<p>
+Restore ye to them this day their fields, and their vineyards, and their oliveyards, and their houses: and the hundredth part of the money, and of the corn, the wine, and the oil, which you were wont to exact of them, give it rather for them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd1403f7" class="outline-3">
+<h3 id="orgd1403f7">Nehemiah 5:12</h3>
+<div class="outline-text-3" id="text-orgd1403f7">
+<p>
+And they said: We will restore, and we will require nothing of them: and we will do as thou sayest. And I called the priests and took an oath of them, to do according to what I had said.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd8e1b81" class="outline-3">
+<h3 id="orgd8e1b81">Nehemiah 5:13</h3>
+<div class="outline-text-3" id="text-orgd8e1b81">
+<p>
+Moreover I shook my lap, and said: So may God shake every man that shall not accomplish this word, out of his house, and out of his labours, thus may he be shaken out, and become empty. And all the multitude said: Amen. And they praised God. And the people did according to what was said.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6f41785" class="outline-3">
+<h3 id="org6f41785">Nehemiah 5:14</h3>
+<div class="outline-text-3" id="text-org6f41785">
+<p>
+And from the day, in which the king commanded me to be governor in the land of Juda, from the twentieth year even to the two and thirtieth year of Artaxerxes the king, for twelve years, I and my brethren did not eat the yearly allowance that was due to the governors.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org84b30b4" class="outline-3">
+<h3 id="org84b30b4">Nehemiah 5:15</h3>
+<div class="outline-text-3" id="text-org84b30b4">
+<p>
+But the former governors that had been before me, were chargeable to the people, and took of them in bread, and wine, and in money every day forty sicles: and their officers also oppressed the people. But I did not so for the fear of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgef11677" class="outline-3">
+<h3 id="orgef11677">Nehemiah 5:16</h3>
+<div class="outline-text-3" id="text-orgef11677">
+<p>
+Moreover I built in the work of the wall, and I bought no land, and all my servants were gathered together to the work.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8619bc0" class="outline-3">
+<h3 id="org8619bc0">Nehemiah 5:17</h3>
+<div class="outline-text-3" id="text-org8619bc0">
+<p>
+The Jews also and the magistrates to the number of one hundred and fifty men, were at my table, besides them that came to us from among the nations that were round about us.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org089cd60" class="outline-3">
+<h3 id="org089cd60">Nehemiah 5:18</h3>
+<div class="outline-text-3" id="text-org089cd60">
+<p>
+And there was prepared for me day be day one ox, and six choice rams, besides fowls, and once in ten days I gave store of divers wines, and many other things: yet I did not require my yearly allowance as governor: for the people were very much impoverished.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org68d65ca" class="outline-3">
+<h3 id="org68d65ca">Nehemiah 5:19</h3>
+<div class="outline-text-3" id="text-org68d65ca">
+<p>
+Remember me, O my God, for good according to all that I have done for this people. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgae9ee7f" class="outline-2">
+<h2 id="orgae9ee7f">Nehemiah 6</h2>
+<div class="outline-text-2" id="text-orgae9ee7f">
+</div>
+<div id="outline-container-org3e18976" class="outline-3">
+<h3 id="org3e18976">Nehemiah 6:1</h3>
+<div class="outline-text-3" id="text-org3e18976">
+<p>
+And it came to pass, when Sanaballat, and Tobias, and Gossem the Arabian, and the rest of our enemies, heard that I had built the wall, and that there was no breach left in it, (though at that time I had not set up the doors in the gates,)
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8459c87" class="outline-3">
+<h3 id="org8459c87">Nehemiah 6:2</h3>
+<div class="outline-text-3" id="text-org8459c87">
+<p>
+Sanaballat and Gossem sent to me, saying: Come, and let us make a league together in the villages, in the plain of Ono. But they thought to do me mischief.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org97c105e" class="outline-3">
+<h3 id="org97c105e">Nehemiah 6:3</h3>
+<div class="outline-text-3" id="text-org97c105e">
+<p>
+And I sent messengers to them, saying: I am doing a great work, and I cannot come down, lest it be neglected whilst I come, and go down to you.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb7f208d" class="outline-3">
+<h3 id="orgb7f208d">Nehemiah 6:4</h3>
+<div class="outline-text-3" id="text-orgb7f208d">
+<p>
+And they sent to me according to this word, four times: and I answered them after the same manner.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb868e90" class="outline-3">
+<h3 id="orgb868e90">Nehemiah 6:5</h3>
+<div class="outline-text-3" id="text-orgb868e90">
+<p>
+And Sanaballat sent his servant to me the fifth time according to the former word, and he had a letter in his hand written in this manner:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbd5faf3" class="outline-3">
+<h3 id="orgbd5faf3">Nehemiah 6:6</h3>
+<div class="outline-text-3" id="text-orgbd5faf3">
+<p>
+It is reported amongst the Gentiles, and Gossem hath said it, that thou and the Jews think to rebel, and therefore thou buildest the wall, and hast a mind to set thyself king over them: for which end
+</p>
+</div>
+</div>
+
+<div id="outline-container-org023d877" class="outline-3">
+<h3 id="org023d877">Nehemiah 6:7</h3>
+<div class="outline-text-3" id="text-org023d877">
+<p>
+Thou hast also set up prophets, to preach of thee at Jerusalem, saying: There is a king in Judea. The king will hear of these things: therefore come now, that we may take counsel together.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge63cddb" class="outline-3">
+<h3 id="orge63cddb">Nehemiah 6:8</h3>
+<div class="outline-text-3" id="text-orge63cddb">
+<p>
+And I sent to them, saying: There is no such thing done as thou sayest: but thou feignest these things out of thy own heart.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbea3c05" class="outline-3">
+<h3 id="orgbea3c05">Nehemiah 6:9</h3>
+<div class="outline-text-3" id="text-orgbea3c05">
+<p>
+For all these men thought to frighten us, thinking that our hands would cease from the work, and that we would leave off. Wherefore I strengthened my hands the more:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgec62b93" class="outline-3">
+<h3 id="orgec62b93">Nehemiah 6:10</h3>
+<div class="outline-text-3" id="text-orgec62b93">
+<p>
+And I went into the house of Samaia the son of Delaia, the son of Metabeel privately. And he said: Let us consult together in the house of God in the midst of the temple: and let us shut the doors of the temple, for they will come to kill thee, and in the night they will come to slay thee.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org419fdec" class="outline-3">
+<h3 id="org419fdec">Nehemiah 6:11</h3>
+<div class="outline-text-3" id="text-org419fdec">
+<p>
+And I said: Should such a man as I flee? and who is there that being as I am, would go into the temple, to save his life? I will not go in.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org929db2e" class="outline-3">
+<h3 id="org929db2e">Nehemiah 6:12</h3>
+<div class="outline-text-3" id="text-org929db2e">
+<p>
+And I understood that God had not sent him, but that he had spoken to me as if he had been prophesying, and Tobias, and Sanaballat had hired him.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgea2921b" class="outline-3">
+<h3 id="orgea2921b">Nehemiah 6:13</h3>
+<div class="outline-text-3" id="text-orgea2921b">
+<p>
+For he had taken money, that I being afraid should do this thing, and sin, and they might have some evil to upbraid me withal.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge9a36c2" class="outline-3">
+<h3 id="orge9a36c2">Nehemiah 6:14</h3>
+<div class="outline-text-3" id="text-orge9a36c2">
+<p>
+Remember me, O Lord, for Tobias and Sanaballat, according to their works of this kind: and Noadias the prophet, and the rest of the prophets that would have put me in fear.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb553cb4" class="outline-3">
+<h3 id="orgb553cb4">Nehemiah 6:15</h3>
+<div class="outline-text-3" id="text-orgb553cb4">
+<p>
+But the wall was finished the five and twentieth day of the month of Elul, in two and fifty days.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc9bd604" class="outline-3">
+<h3 id="orgc9bd604">Nehemiah 6:16</h3>
+<div class="outline-text-3" id="text-orgc9bd604">
+<p>
+And it came to pass when all our enemies heard of it, that all nations which were round about us, were afraid, and were cast down within themselves, for they perceived that this work was the work of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org60cc07f" class="outline-3">
+<h3 id="org60cc07f">Nehemiah 6:17</h3>
+<div class="outline-text-3" id="text-org60cc07f">
+<p>
+Moreover in those days many letters were sent by the principal men of the Jews to Tobias, and from Tobias there came letters to them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org443b224" class="outline-3">
+<h3 id="org443b224">Nehemiah 6:18</h3>
+<div class="outline-text-3" id="text-org443b224">
+<p>
+For there were many in Judea sworn to him, because he was the son in law of Sechenias the son of Area, and Johanan his son had taken to wife the daughter of Mosollam the son of Barachias.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc26a297" class="outline-3">
+<h3 id="orgc26a297">Nehemiah 6:19</h3>
+<div class="outline-text-3" id="text-orgc26a297">
+<p>
+And they praised him also before me, and they related my words to him: And Tobias sent letters to put me in fear. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org3ddaa3a" class="outline-2">
+<h2 id="org3ddaa3a">Nehemiah 7</h2>
+<div class="outline-text-2" id="text-org3ddaa3a">
+</div>
+<div id="outline-container-org7e1e405" class="outline-3">
+<h3 id="org7e1e405">Nehemiah 7:1</h3>
+<div class="outline-text-3" id="text-org7e1e405">
+<p>
+Now after the wall was built, and I had set up the doors, and numbered the porters and singing men, and Levites:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2ab5d70" class="outline-3">
+<h3 id="org2ab5d70">Nehemiah 7:2</h3>
+<div class="outline-text-3" id="text-org2ab5d70">
+<p>
+I commanded Hanani my brother, and Hananias ruler of the house of Jerusalem, (for he seemed as a sincere man, and one that feared God above the rest,)
+</p>
+</div>
+</div>
+
+<div id="outline-container-org079c86d" class="outline-3">
+<h3 id="org079c86d">Nehemiah 7:3</h3>
+<div class="outline-text-3" id="text-org079c86d">
+<p>
+And I said to them: Let not the gates of Jerusalem be opened till the sun be hot. And while they were yet standing by the gates were shut, and barred: and I set watchmen of the inhabitants of Jerusalem, every one by their courses, and every man over against his house.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5631adf" class="outline-3">
+<h3 id="org5631adf">Nehemiah 7:4</h3>
+<div class="outline-text-3" id="text-org5631adf">
+<p>
+And the city was very wide and great, and the people few in the midst thereof, and the houses were not built.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge7da63e" class="outline-3">
+<h3 id="orge7da63e">Nehemiah 7:5</h3>
+<div class="outline-text-3" id="text-orge7da63e">
+<p>
+But God had put in my heart, and I assembled the princes and magistrates, and common people, to number them: and I found a book of the number of them who came up at first and therein it was found written:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4eca01d" class="outline-3">
+<h3 id="org4eca01d">Nehemiah 7:6</h3>
+<div class="outline-text-3" id="text-org4eca01d">
+<p>
+These are the children of the province, who came up from the captivity of them that had been carried away, whom Nabuchodonosor the king of Babylon had carried away, and who returned into Judea, every one into his own city.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org49e562c" class="outline-3">
+<h3 id="org49e562c">Nehemiah 7:7</h3>
+<div class="outline-text-3" id="text-org49e562c">
+<p>
+Who came with Zorobabel, Josue, Nehemiah, Azarias, Raamias, Nahamani, Mardochai, Belsam, Mespharath, Begoia, Nahum, Baana. The number of the men of the people of Israel:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org24735ce" class="outline-3">
+<h3 id="org24735ce">Nehemiah 7:8</h3>
+<div class="outline-text-3" id="text-org24735ce">
+<p>
+The children of Pharos, two thousand one hundred seventy-two.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org609bf77" class="outline-3">
+<h3 id="org609bf77">Nehemiah 7:9</h3>
+<div class="outline-text-3" id="text-org609bf77">
+<p>
+The children of Sephatia, three hundred seventy-two.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc66b114" class="outline-3">
+<h3 id="orgc66b114">Nehemiah 7:10</h3>
+<div class="outline-text-3" id="text-orgc66b114">
+<p>
+The children of Area, six hundred fifty-two.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0f68fc5" class="outline-3">
+<h3 id="org0f68fc5">Nehemiah 7:11</h3>
+<div class="outline-text-3" id="text-org0f68fc5">
+<p>
+The children of Phahath Moab of the children of Josue and Joab, two thousand eight hundred eighteen.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcb2ab6a" class="outline-3">
+<h3 id="orgcb2ab6a">Nehemiah 7:12</h3>
+<div class="outline-text-3" id="text-orgcb2ab6a">
+<p>
+The children of Elam, one thousand two hundred fifty-four.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc8687b4" class="outline-3">
+<h3 id="orgc8687b4">Nehemiah 7:13</h3>
+<div class="outline-text-3" id="text-orgc8687b4">
+<p>
+The children of Zethua, eight hundred forty-five.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcea1470" class="outline-3">
+<h3 id="orgcea1470">Nehemiah 7:14</h3>
+<div class="outline-text-3" id="text-orgcea1470">
+<p>
+The children of Zachai, seven hundred sixty.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd30ed1f" class="outline-3">
+<h3 id="orgd30ed1f">Nehemiah 7:15</h3>
+<div class="outline-text-3" id="text-orgd30ed1f">
+<p>
+The children of Bannui, six hundred forty-eight.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgef24a7f" class="outline-3">
+<h3 id="orgef24a7f">Nehemiah 7:16</h3>
+<div class="outline-text-3" id="text-orgef24a7f">
+<p>
+The children of Bebai, six hundred twenty-eight.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6b82b48" class="outline-3">
+<h3 id="org6b82b48">Nehemiah 7:17</h3>
+<div class="outline-text-3" id="text-org6b82b48">
+<p>
+The children of Azgad, two thousand three hundred twenty-two.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org850cb1b" class="outline-3">
+<h3 id="org850cb1b">Nehemiah 7:18</h3>
+<div class="outline-text-3" id="text-org850cb1b">
+<p>
+The children of Adonicam, six hundred sixty-seven.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org73a9771" class="outline-3">
+<h3 id="org73a9771">Nehemiah 7:19</h3>
+<div class="outline-text-3" id="text-org73a9771">
+<p>
+The children of Beguai, two thousand sixty-seven.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc40fba1" class="outline-3">
+<h3 id="orgc40fba1">Nehemiah 7:20</h3>
+<div class="outline-text-3" id="text-orgc40fba1">
+<p>
+The children of Adin, six hundred fifty-five.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org450fd01" class="outline-3">
+<h3 id="org450fd01">Nehemiah 7:21</h3>
+<div class="outline-text-3" id="text-org450fd01">
+<p>
+The children of Ater, children of Hezechias, ninety-eight.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde80dc8" class="outline-3">
+<h3 id="orgde80dc8">Nehemiah 7:22</h3>
+<div class="outline-text-3" id="text-orgde80dc8">
+<p>
+The children of Hasem, three hundred twenty-eight.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgab5a042" class="outline-3">
+<h3 id="orgab5a042">Nehemiah 7:23</h3>
+<div class="outline-text-3" id="text-orgab5a042">
+<p>
+The children of Besai, three hundred twenty-four.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9135d40" class="outline-3">
+<h3 id="org9135d40">Nehemiah 7:24</h3>
+<div class="outline-text-3" id="text-org9135d40">
+<p>
+The children of Hareph, a hundred and twelve.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbcc3507" class="outline-3">
+<h3 id="orgbcc3507">Nehemiah 7:25</h3>
+<div class="outline-text-3" id="text-orgbcc3507">
+<p>
+The children of Gabaon, ninety-five.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5f57218" class="outline-3">
+<h3 id="org5f57218">Nehemiah 7:26</h3>
+<div class="outline-text-3" id="text-org5f57218">
+<p>
+The children of Bethlehem, and Netupha, a hundred eighty-eight.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org521356e" class="outline-3">
+<h3 id="org521356e">Nehemiah 7:27</h3>
+<div class="outline-text-3" id="text-org521356e">
+<p>
+The men of Anathoth, a hundred twenty-eight.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga952abc" class="outline-3">
+<h3 id="orga952abc">Nehemiah 7:28</h3>
+<div class="outline-text-3" id="text-orga952abc">
+<p>
+The men of Bethazmoth, forty-two.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga3377fb" class="outline-3">
+<h3 id="orga3377fb">Nehemiah 7:29</h3>
+<div class="outline-text-3" id="text-orga3377fb">
+<p>
+The men of Cariathiarim, Cephira, and Beroth, seven hundred forty-three.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org811988f" class="outline-3">
+<h3 id="org811988f">Nehemiah 7:30</h3>
+<div class="outline-text-3" id="text-org811988f">
+<p>
+The men of Rama and Geba, six hundred twenty-one.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbd0e2cb" class="outline-3">
+<h3 id="orgbd0e2cb">Nehemiah 7:31</h3>
+<div class="outline-text-3" id="text-orgbd0e2cb">
+<p>
+The men of Machmas, a hundred twenty-two.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6b614a0" class="outline-3">
+<h3 id="org6b614a0">Nehemiah 7:32</h3>
+<div class="outline-text-3" id="text-org6b614a0">
+<p>
+The men of Bethel and Hai, a hundred twenty-three.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org271d0dd" class="outline-3">
+<h3 id="org271d0dd">Nehemiah 7:33</h3>
+<div class="outline-text-3" id="text-org271d0dd">
+<p>
+The men of the other Nebo, fifty-two.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org43a1115" class="outline-3">
+<h3 id="org43a1115">Nehemiah 7:34</h3>
+<div class="outline-text-3" id="text-org43a1115">
+<p>
+The men of the other Elam, one thousand two hundred fifty-four.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5f1974b" class="outline-3">
+<h3 id="org5f1974b">Nehemiah 7:35</h3>
+<div class="outline-text-3" id="text-org5f1974b">
+<p>
+The children of Harem, three hundred and twenty.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga7f542c" class="outline-3">
+<h3 id="orga7f542c">Nehemiah 7:36</h3>
+<div class="outline-text-3" id="text-orga7f542c">
+<p>
+The children of Jericho, three hundred forty-five.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org128ae5d" class="outline-3">
+<h3 id="org128ae5d">Nehemiah 7:37</h3>
+<div class="outline-text-3" id="text-org128ae5d">
+<p>
+The children of Lod, of Hadid and Ono, seven hundred twenty-one.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9ce4361" class="outline-3">
+<h3 id="org9ce4361">Nehemiah 7:38</h3>
+<div class="outline-text-3" id="text-org9ce4361">
+<p>
+The children of Senaa, three thousand nine hundred thirty.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org068512f" class="outline-3">
+<h3 id="org068512f">Nehemiah 7:39</h3>
+<div class="outline-text-3" id="text-org068512f">
+<p>
+The priests: the children of Idaia in the house of Josue, nine hundred and seventy-three.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc759d70" class="outline-3">
+<h3 id="orgc759d70">Nehemiah 7:40</h3>
+<div class="outline-text-3" id="text-orgc759d70">
+<p>
+The children of Emmer, one thousand fifty-two.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org50e5fdf" class="outline-3">
+<h3 id="org50e5fdf">Nehemiah 7:41</h3>
+<div class="outline-text-3" id="text-org50e5fdf">
+<p>
+The children of Phashur, one thousand two hundred forty-seven.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdb7085b" class="outline-3">
+<h3 id="orgdb7085b">Nehemiah 7:42</h3>
+<div class="outline-text-3" id="text-orgdb7085b">
+<p>
+The children of Arem, one thousand and seventeen. The Levites:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6c81039" class="outline-3">
+<h3 id="org6c81039">Nehemiah 7:43</h3>
+<div class="outline-text-3" id="text-org6c81039">
+<p>
+The children of Josue and Cedmihel, the sons
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdcbf20c" class="outline-3">
+<h3 id="orgdcbf20c">Nehemiah 7:44</h3>
+<div class="outline-text-3" id="text-orgdcbf20c">
+<p>
+Of Oduia, seventy-four. The singing men:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4776151" class="outline-3">
+<h3 id="org4776151">Nehemiah 7:45</h3>
+<div class="outline-text-3" id="text-org4776151">
+<p>
+The children of Asaph, a hundred forty-eight.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf9f6214" class="outline-3">
+<h3 id="orgf9f6214">Nehemiah 7:46</h3>
+<div class="outline-text-3" id="text-orgf9f6214">
+<p>
+The porters: the children of Sellum, the children of Ater, the children of Telmon, the children of Accub, the children of Hatita, the children of Sobai: a hundred thirty-eight.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0d52930" class="outline-3">
+<h3 id="org0d52930">Nehemiah 7:47</h3>
+<div class="outline-text-3" id="text-org0d52930">
+<p>
+The Nathinites: the children of Soha, the children of Hasupha, the children of Tebbaoth,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75c422d" class="outline-3">
+<h3 id="org75c422d">Nehemiah 7:48</h3>
+<div class="outline-text-3" id="text-org75c422d">
+<p>
+The children of Ceros, the children os Siaa, the children of Phadon, the children of Lebana, the children of Hagaba, the children of Selmai,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf41505a" class="outline-3">
+<h3 id="orgf41505a">Nehemiah 7:49</h3>
+<div class="outline-text-3" id="text-orgf41505a">
+<p>
+The children of Hanan, the children of Geddel, the children of Gaher,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge4c0bfb" class="outline-3">
+<h3 id="orge4c0bfb">Nehemiah 7:50</h3>
+<div class="outline-text-3" id="text-orge4c0bfb">
+<p>
+The children of Raaia, the children of Rasin, the children of Necoda,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2d91595" class="outline-3">
+<h3 id="org2d91595">Nehemiah 7:51</h3>
+<div class="outline-text-3" id="text-org2d91595">
+<p>
+The children of Gezem, the children of Asa, the children of Phasea,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9b79dcc" class="outline-3">
+<h3 id="org9b79dcc">Nehemiah 7:52</h3>
+<div class="outline-text-3" id="text-org9b79dcc">
+<p>
+The children of Besai, the children of Munim, the children of Nephussim,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2baac4d" class="outline-3">
+<h3 id="org2baac4d">Nehemiah 7:53</h3>
+<div class="outline-text-3" id="text-org2baac4d">
+<p>
+The children of Bacbuc, the children of Hacupha, the children of Harhur,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga3b50dd" class="outline-3">
+<h3 id="orga3b50dd">Nehemiah 7:54</h3>
+<div class="outline-text-3" id="text-orga3b50dd">
+<p>
+The children of Besloth, the children of Mahida, the children of Harsa,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org339545c" class="outline-3">
+<h3 id="org339545c">Nehemiah 7:55</h3>
+<div class="outline-text-3" id="text-org339545c">
+<p>
+The children of Bercos, the children of Sisara, the children of Thema,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org43d3fa4" class="outline-3">
+<h3 id="org43d3fa4">Nehemiah 7:56</h3>
+<div class="outline-text-3" id="text-org43d3fa4">
+<p>
+The children of Nasia, the children of Hatipha,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org10d1d5c" class="outline-3">
+<h3 id="org10d1d5c">Nehemiah 7:57</h3>
+<div class="outline-text-3" id="text-org10d1d5c">
+<p>
+The children of the servants of Solomon, the children of Sothai, the children of Sophereth, the children of Pharida,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaf43594" class="outline-3">
+<h3 id="orgaf43594">Nehemiah 7:58</h3>
+<div class="outline-text-3" id="text-orgaf43594">
+<p>
+The children of Jahala, the children of Darcon, the children of Jeddel,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1c27acf" class="outline-3">
+<h3 id="org1c27acf">Nehemiah 7:59</h3>
+<div class="outline-text-3" id="text-org1c27acf">
+<p>
+The children of Saphatia, the children of Hatil, the children of Phochereth, who was born of Sabaim, the son of Amon.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org246a484" class="outline-3">
+<h3 id="org246a484">Nehemiah 7:60</h3>
+<div class="outline-text-3" id="text-org246a484">
+<p>
+All the Nathinites, and the children of the servants of Solomon, three hundred ninety-two.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcc9eb23" class="outline-3">
+<h3 id="orgcc9eb23">Nehemiah 7:61</h3>
+<div class="outline-text-3" id="text-orgcc9eb23">
+<p>
+And these are they that came up from Telmela, Thelharsa, Cherub, Addon, and Emmer: and could not shew the house of their fathers, nor their seed, whether they were of Israel.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0dc7cf6" class="outline-3">
+<h3 id="org0dc7cf6">Nehemiah 7:62</h3>
+<div class="outline-text-3" id="text-org0dc7cf6">
+<p>
+The children of Dalaia, the children of Tobia, the children of Necoda, six hundred forty-two.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb6e6c44" class="outline-3">
+<h3 id="orgb6e6c44">Nehemiah 7:63</h3>
+<div class="outline-text-3" id="text-orgb6e6c44">
+<p>
+And of the priests, the children of Habia, the children of Accos, the children of Berzellai, who took a wife of the daughters of Berzellai the Galaadite, and he was called by their name.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9421e68" class="outline-3">
+<h3 id="org9421e68">Nehemiah 7:64</h3>
+<div class="outline-text-3" id="text-org9421e68">
+<p>
+These sought their writing in the record, and found it not: and they were cast out of the priesthood.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge1b58fc" class="outline-3">
+<h3 id="orge1b58fc">Nehemiah 7:65</h3>
+<div class="outline-text-3" id="text-orge1b58fc">
+<p>
+And Athersatha said to them, that they should not eat of the holies of holies, until there stood up a priest learned and skilful.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org71c11b0" class="outline-3">
+<h3 id="org71c11b0">Nehemiah 7:66</h3>
+<div class="outline-text-3" id="text-org71c11b0">
+<p>
+All the multitude as it were one man, forty-two thousand three hundred sixty,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc9bd88d" class="outline-3">
+<h3 id="orgc9bd88d">Nehemiah 7:67</h3>
+<div class="outline-text-3" id="text-orgc9bd88d">
+<p>
+Beside their menservants and womenservants, who were seven thousand three hundred thirty-seven: and among them singing men, and singing women, two hundred forty-five.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaf0a44e" class="outline-3">
+<h3 id="orgaf0a44e">Nehemiah 7:68</h3>
+<div class="outline-text-3" id="text-orgaf0a44e">
+<p>
+Their horses, seven hundred thirty-six: their mules two hundred forty-five.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org521cce9" class="outline-3">
+<h3 id="org521cce9">Nehemiah 7:69</h3>
+<div class="outline-text-3" id="text-org521cce9">
+<p>
+Their camels, four hundred thirty-five, their asses, six thousand seven hundred and twenty.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8ccc617" class="outline-3">
+<h3 id="org8ccc617">Nehemiah 7:70</h3>
+<div class="outline-text-3" id="text-org8ccc617">
+<p>
+And some of the heads of the families gave unto the work. Athersatha gave into the treasure a thousand drams of gold, fifty bowls, and five hundred and thirty garments for priests.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe9803d" class="outline-3">
+<h3 id="orgfe9803d">Nehemiah 7:71</h3>
+<div class="outline-text-3" id="text-orgfe9803d">
+<p>
+And some of the heads of families gave to the treasure of the work, twenty thousand drams of gold, and two thousand two hundred pounds of silver.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org63b17d6" class="outline-3">
+<h3 id="org63b17d6">Nehemiah 7:72</h3>
+<div class="outline-text-3" id="text-org63b17d6">
+<p>
+And that which the rest of the people gave, was twenty thousand drams of gold, and two thousand pounds of silver, and sixty-seven garments for priests.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgba350ba" class="outline-3">
+<h3 id="orgba350ba">Nehemiah 7:73</h3>
+<div class="outline-text-3" id="text-orgba350ba">
+<p>
+And the priests, and the Levites, and the porters, and the singing men, and the rest of the common people, and the Nathinites, and all Israel dwelt in their cities. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgba1d630" class="outline-2">
+<h2 id="orgba1d630">Nehemiah 8</h2>
+<div class="outline-text-2" id="text-orgba1d630">
+</div>
+<div id="outline-container-orgb1f1f52" class="outline-3">
+<h3 id="orgb1f1f52">Nehemiah 8:1</h3>
+<div class="outline-text-3" id="text-orgb1f1f52">
+<p>
+And the seventh month came: and the children of Israel were in their cities. And all the people were gathered together as one man to the street which is before the water gate, and they spoke to Esdras the scribe, to bring the book of the law of Moses, which the Lord had commanded to Israel.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6042cef" class="outline-3">
+<h3 id="org6042cef">Nehemiah 8:2</h3>
+<div class="outline-text-3" id="text-org6042cef">
+<p>
+Then Esdras the priest brought the law before the multitude of men and women, and all those that could understand, in the first day of the seventh month.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6cf05cf" class="outline-3">
+<h3 id="org6cf05cf">Nehemiah 8:3</h3>
+<div class="outline-text-3" id="text-org6cf05cf">
+<p>
+And he read it plainly in the street that was before the water gate, from the morning until midday, before the men, and the women, and all those that could understand: and the ears of all the people were attentive to the book.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5b5f449" class="outline-3">
+<h3 id="org5b5f449">Nehemiah 8:4</h3>
+<div class="outline-text-3" id="text-org5b5f449">
+<p>
+And Esdras the scribe stood upon a step of wood, which he had made to speak upon, and there stood by him Mathathias, and Semeia, and Ania, and Uria, and Helcia, and Maasia, on his right hand: and on the left, Phadaia, Misael, and Melchia, and Hasum, and Hasbadana, Zacharia and Mosollam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgae14bc8" class="outline-3">
+<h3 id="orgae14bc8">Nehemiah 8:5</h3>
+<div class="outline-text-3" id="text-orgae14bc8">
+<p>
+And Esdras opened the book before all the people: for he was above all the people: and when he had opened it, all the people stood.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org277961b" class="outline-3">
+<h3 id="org277961b">Nehemiah 8:6</h3>
+<div class="outline-text-3" id="text-org277961b">
+<p>
+And Esdras blessed the Lord the great God: and all the people answered, Amen, amen: lifting up their hands: and they bowed down, and adored God with their faces to the ground.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfc80dd" class="outline-3">
+<h3 id="orgbfc80dd">Nehemiah 8:7</h3>
+<div class="outline-text-3" id="text-orgbfc80dd">
+<p>
+Now Josue, and Bani, and Serebia, Jamin, Accub, Sephtai, Odia, Maasia, Celtia, Azarias, Jozabed, Hanan, Phalaia, the Levites, made silence among the people to hear the law: and the people stood in their place.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org438efaf" class="outline-3">
+<h3 id="org438efaf">Nehemiah 8:8</h3>
+<div class="outline-text-3" id="text-org438efaf">
+<p>
+And they read in the book of the law of God distinctly and plainly to be understood: and they understood when it was read.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe710be" class="outline-3">
+<h3 id="orgfe710be">Nehemiah 8:9</h3>
+<div class="outline-text-3" id="text-orgfe710be">
+<p>
+And Nehemiah (he is Athersatha) and Esdras the priest and scribe, and the Levites who interpreted to all the people, said: This is a holy day to the Lord our God: do not mourn, nor weep: for all the people wept, when they heard the words of the law.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0f98d6a" class="outline-3">
+<h3 id="org0f98d6a">Nehemiah 8:10</h3>
+<div class="outline-text-3" id="text-org0f98d6a">
+<p>
+And he said to them: Go, eat fat meats, and drink sweet wine, and send portions to them that have not prepared for themselves: because it is the holy day of the Lord, and be not sad: for the joy of the Lord is our strength.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7e5248e" class="outline-3">
+<h3 id="org7e5248e">Nehemiah 8:11</h3>
+<div class="outline-text-3" id="text-org7e5248e">
+<p>
+And the Levites stilled all the people, saying: Hold your peace, for the day is holy, and be not sorrowful.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7eafd00" class="outline-3">
+<h3 id="org7eafd00">Nehemiah 8:12</h3>
+<div class="outline-text-3" id="text-org7eafd00">
+<p>
+So all the people went to eat and drink, and to send portions, and to make great mirth: because they understood the words that he had taught them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4251c20" class="outline-3">
+<h3 id="org4251c20">Nehemiah 8:13</h3>
+<div class="outline-text-3" id="text-org4251c20">
+<p>
+And on the second day the chiefs of the families of all the people, the priests, and the Levites were gathered together to Esdras the scribe, that he should interpret to them the words of the law.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org47df3aa" class="outline-3">
+<h3 id="org47df3aa">Nehemiah 8:14</h3>
+<div class="outline-text-3" id="text-org47df3aa">
+<p>
+And they found written in the law, that the Lord had commanded by the hand of Moses, that the children of Israel should dwell in tabernacles, on the feast, in the seventh month:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org44c8233" class="outline-3">
+<h3 id="org44c8233">Nehemiah 8:15</h3>
+<div class="outline-text-3" id="text-org44c8233">
+<p>
+And that they should proclaim and publish the word in all their cities, and in Jerusalem, saying: Go forth to the mount, and fetch branches of olive, and branches of beautiful wood, branches of myrtle, and branches of palm, and branches of thick trees, to make tabernacles, as it is written.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org92dfab4" class="outline-3">
+<h3 id="org92dfab4">Nehemiah 8:16</h3>
+<div class="outline-text-3" id="text-org92dfab4">
+<p>
+And the people went forth, and brought. And they made themselves tabernacles every man on the top of his house, and in their courts, and in the courts of the house of God, and in the street of the water gate, and in the street of the gate of Ephraim.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf541845" class="outline-3">
+<h3 id="orgf541845">Nehemiah 8:17</h3>
+<div class="outline-text-3" id="text-orgf541845">
+<p>
+And all the assembly of them that were returned from the captivity, made tabernacles, and dwelt in tabernacles: for since the days of Josue the son of Nun the children of Israel had not done so, until that day: and there was exceeding great joy.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2bacf6f" class="outline-3">
+<h3 id="org2bacf6f">Nehemiah 8:18</h3>
+<div class="outline-text-3" id="text-org2bacf6f">
+<p>
+And he read in the book of the law of God day by day, from the first day till the last, and they kept the solemnity seven days, and in the eighth day a solemn assembly according to the manner. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org1b0878b" class="outline-2">
+<h2 id="org1b0878b">Nehemiah 9</h2>
+<div class="outline-text-2" id="text-org1b0878b">
+</div>
+<div id="outline-container-orge307b12" class="outline-3">
+<h3 id="orge307b12">Nehemiah 9:1</h3>
+<div class="outline-text-3" id="text-orge307b12">
+<p>
+And in the four and twentieth day of the month the children of Israel came together with fasting and with sackcloth, and earth upon them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5929b41" class="outline-3">
+<h3 id="org5929b41">Nehemiah 9:2</h3>
+<div class="outline-text-3" id="text-org5929b41">
+<p>
+And the seed of the children of Israel separated themselves from every stranger: and they stood, and confessed their sins, and the iniquities of their fathers.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge2a9ae3" class="outline-3">
+<h3 id="orge2a9ae3">Nehemiah 9:3</h3>
+<div class="outline-text-3" id="text-orge2a9ae3">
+<p>
+And they rose up to stand: and they read in the book of the law of the Lord their God, four times in the day, and four times they confessed, and adored the Lord their God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org39136f9" class="outline-3">
+<h3 id="org39136f9">Nehemiah 9:4</h3>
+<div class="outline-text-3" id="text-org39136f9">
+<p>
+And there stood up upon the step of the Levites, Josue, and Bani, and Cedmihel, Sabania, Bonni, Sarebias, Bani, and Chanani: and they cried with a loud voice to the Lord their God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4d66f5a" class="outline-3">
+<h3 id="org4d66f5a">Nehemiah 9:5</h3>
+<div class="outline-text-3" id="text-org4d66f5a">
+<p>
+And the Levites Josue and Cedmihel, Bonni, Hasebnia, Serebia, Oduia, Sebnia, and Phathahia, said: Arise, bless the Lord your God from eternity to eternity: and blessed be the high name of thy glory with all blessing and praise.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org04bb4a3" class="outline-3">
+<h3 id="org04bb4a3">Nehemiah 9:6</h3>
+<div class="outline-text-3" id="text-org04bb4a3">
+<p>
+Thou thyself, O Lord alone, thou hast made heaven, and the heaven of heavens, and all the host thereof: the earth and all things that are in it: the seas and all that are therein: and thou givest life to all these things, and the host of heaven adoreth thee.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org63e1759" class="outline-3">
+<h3 id="org63e1759">Nehemiah 9:7</h3>
+<div class="outline-text-3" id="text-org63e1759">
+<p>
+Thou O Lord God, art he who chosest Abram, and broughtest him forth out of the fire of the Chaldeans, and gavest him the name of Abraham.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd831bf5" class="outline-3">
+<h3 id="orgd831bf5">Nehemiah 9:8</h3>
+<div class="outline-text-3" id="text-orgd831bf5">
+<p>
+And thou didst find his heart faithful before thee: and thou madest a covenant with him, to give him the land of the Chanaanite, of the Hethite, and of the Amorrhite, and of the Pherezite, and of the Jebusite, and of the Gergezite, to give it to his seed: and thou hast fulfilled thy words, because thou art just.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org56814ab" class="outline-3">
+<h3 id="org56814ab">Nehemiah 9:9</h3>
+<div class="outline-text-3" id="text-org56814ab">
+<p>
+And thou sawest the affliction of our fathers in Egypt: and thou didst hear their cry by the Red Sea.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda88524" class="outline-3">
+<h3 id="orgda88524">Nehemiah 9:10</h3>
+<div class="outline-text-3" id="text-orgda88524">
+<p>
+And thou shewedst signs and wonders upon Pharao, and upon all his servants, and upon the people of his land: for thou knewest that they dealt proudly against them: and thou madest thyself a name, as it is at this day.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbb87288" class="outline-3">
+<h3 id="orgbb87288">Nehemiah 9:11</h3>
+<div class="outline-text-3" id="text-orgbb87288">
+<p>
+And thou didst divide the sea before them, and they passed through the midst of the sea on dry land: but their persecutors thou threwest into the depth, as a stone into mighty waters.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb4b09bd" class="outline-3">
+<h3 id="orgb4b09bd">Nehemiah 9:12</h3>
+<div class="outline-text-3" id="text-orgb4b09bd">
+<p>
+And in a pillar of a cloud thou wast their leader by day, and in a pillar of fire by night, that they might see the way by which they went.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8149997" class="outline-3">
+<h3 id="org8149997">Nehemiah 9:13</h3>
+<div class="outline-text-3" id="text-org8149997">
+<p>
+Thou camest down also to mount Sinai, and didst speak with them from heaven, and thou gavest them right judgments, and the law of truth, ceremonies, and good precepts.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org88aae0a" class="outline-3">
+<h3 id="org88aae0a">Nehemiah 9:14</h3>
+<div class="outline-text-3" id="text-org88aae0a">
+<p>
+Thou madest known to them thy holy sabbath, and didst prescribe to them commandments, and ceremonies, and the law by the hand of Moses thy servant.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9ac2b31" class="outline-3">
+<h3 id="org9ac2b31">Nehemiah 9:15</h3>
+<div class="outline-text-3" id="text-org9ac2b31">
+<p>
+And thou gavest them bread from heaven in their hunger, and broughtest forth water for them out of the rock in their thirst, and thou saidst to them that they should go in, and possess the land, upon which thou hadst lifted up thy hand to give it them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbaaa374" class="outline-3">
+<h3 id="orgbaaa374">Nehemiah 9:16</h3>
+<div class="outline-text-3" id="text-orgbaaa374">
+<p>
+But they and our fathers dealt proudly, and hardened their necks and hearkened not to thy commandments.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc6fd174" class="outline-3">
+<h3 id="orgc6fd174">Nehemiah 9:17</h3>
+<div class="outline-text-3" id="text-orgc6fd174">
+<p>
+And they would not hear, and they remembered not thy wonders which thou hadst done for them. And they hardened their necks, and gave the head to return to their bondage, as it were by contention. But thou, a forgiving God, gracious, and merciful, longsuffering, and full of compassion, didst not forsake them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org153bb27" class="outline-3">
+<h3 id="org153bb27">Nehemiah 9:18</h3>
+<div class="outline-text-3" id="text-org153bb27">
+<p>
+Yea when they had made also to themselves a molten calf, and had said: This is thy God, that brought thee out of Egypt: and had committed great blasphemies:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb7617d3" class="outline-3">
+<h3 id="orgb7617d3">Nehemiah 9:19</h3>
+<div class="outline-text-3" id="text-orgb7617d3">
+<p>
+Yet thou, in thy many mercies, didst not leave them in the desert: the pillar of the cloud departed not from them by day to lead them in the way, and the pillar of fire by night to shew them the way by which they should go.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4ec5f91" class="outline-3">
+<h3 id="org4ec5f91">Nehemiah 9:20</h3>
+<div class="outline-text-3" id="text-org4ec5f91">
+<p>
+And thou gavest them thy good Spirit to teach them, and thy manna thou didst not withhold from their mouth, and thou gavest them water for their thirst.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org95fc1eb" class="outline-3">
+<h3 id="org95fc1eb">Nehemiah 9:21</h3>
+<div class="outline-text-3" id="text-org95fc1eb">
+<p>
+Forty years didst thou feed them in the desert, and nothing was wanting to them: their garments did not grow old, and their feet were not worn.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org43d468b" class="outline-3">
+<h3 id="org43d468b">Nehemiah 9:22</h3>
+<div class="outline-text-3" id="text-org43d468b">
+<p>
+And thou gavest them kingdoms, and nations, and didst divide lots for them: and they possessed the land of Sehon, and the land of the king of Hesebon, and the land of Og king of Basan.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb6996c2" class="outline-3">
+<h3 id="orgb6996c2">Nehemiah 9:23</h3>
+<div class="outline-text-3" id="text-orgb6996c2">
+<p>
+And thou didst multiply their children as the stars of heaven, and broughtest them to the land concerning which thou hadst said to their fathers, that they should go in and possess it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2cb8c34" class="outline-3">
+<h3 id="org2cb8c34">Nehemiah 9:24</h3>
+<div class="outline-text-3" id="text-org2cb8c34">
+<p>
+And the children came and possessed the land, and thou didst humble before them the inhabitants of the land, the Chanaanites, and gavest them into their hands, with their kings, and the people of the land, that they might do with them as it pleased them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1065840" class="outline-3">
+<h3 id="org1065840">Nehemiah 9:25</h3>
+<div class="outline-text-3" id="text-org1065840">
+<p>
+And they took strong cities and a fat land, and possessed houses full of all goods: cisterns made by others, vineyards, and oliveyards, and fruit trees in abundance: and they ate, and were filled, and became fat, and abounded with delight in thy great goodness.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge9533be" class="outline-3">
+<h3 id="orge9533be">Nehemiah 9:26</h3>
+<div class="outline-text-3" id="text-orge9533be">
+<p>
+But they provoked thee to wrath, and departed from thee, and threw thy law behind their backs: and they killed thy prophets, who admonished them earnestly to return to thee: and they were guilty of great blasphemies.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9dc10ec" class="outline-3">
+<h3 id="org9dc10ec">Nehemiah 9:27</h3>
+<div class="outline-text-3" id="text-org9dc10ec">
+<p>
+And thou gavest them into the hands of their enemies, and they afflicted them. And in the time of their tribulation they cried to thee, and thou heardest from heaven, and according to the multitude of thy tender mercies thou gavest them saviours, to save them from the hands of their enemies.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c0b7ee" class="outline-3">
+<h3 id="org8c0b7ee">Nehemiah 9:28</h3>
+<div class="outline-text-3" id="text-org8c0b7ee">
+<p>
+But after they had rest, they returned to do evil in thy sight: and thou leftest them in the hand of their enemies, and they had dominion over them. Then they returned, and cried to thee: and thou heardest from heaven, and deliveredst them many times in thy mercies.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org92b79fc" class="outline-3">
+<h3 id="org92b79fc">Nehemiah 9:29</h3>
+<div class="outline-text-3" id="text-org92b79fc">
+<p>
+And thou didst admonish them to return to thy law. But they dealt proudly, and hearkened not to thy commandments, but sinned against thy judgments, which if a man do, he shall live in them: and they withdrew the shoulder, and hardened their neck, and would not hear.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb34d6b5" class="outline-3">
+<h3 id="orgb34d6b5">Nehemiah 9:30</h3>
+<div class="outline-text-3" id="text-orgb34d6b5">
+<p>
+And thou didst forbear with them for many years, and didst testify against them by thy spirit by the hand of thy prophets: and they heard not, and thou didst deliver them into the hand of the people of the lands.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org333e062" class="outline-3">
+<h3 id="org333e062">Nehemiah 9:31</h3>
+<div class="outline-text-3" id="text-org333e062">
+<p>
+Yet in thy very many mercies thou didst not utterly consume them, nor forsake them: because thou art a merciful and gracious God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge330e9b" class="outline-3">
+<h3 id="orge330e9b">Nehemiah 9:32</h3>
+<div class="outline-text-3" id="text-orge330e9b">
+<p>
+Now therefore our God, great, strong, and terrible, who keepest covenant and mercy, turn not away from thy face all the labour which hath come upon us, upon our kings, and our princes, and our priests, and our prophets, and our fathers, and all the people from the days of the king of Assur, until this day.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1f6151e" class="outline-3">
+<h3 id="org1f6151e">Nehemiah 9:33</h3>
+<div class="outline-text-3" id="text-org1f6151e">
+<p>
+And thou art just in all things that have come upon us: because thou hast done truth, but we have done wickedly.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfa6fbbe" class="outline-3">
+<h3 id="orgfa6fbbe">Nehemiah 9:34</h3>
+<div class="outline-text-3" id="text-orgfa6fbbe">
+<p>
+Our kings, our princes, our priests, and our fathers have not kept thy law, and have not minded thy commandments, and thy testimonies which thou hast testified among them.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9c96bae" class="outline-3">
+<h3 id="org9c96bae">Nehemiah 9:35</h3>
+<div class="outline-text-3" id="text-org9c96bae">
+<p>
+And they have not served thee in their kingdoms, and in thy manifold goodness, which thou gavest them, and in the large and fat land, which thou deliveredst before them, nor did they return from their most wicked devices.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org398014e" class="outline-3">
+<h3 id="org398014e">Nehemiah 9:36</h3>
+<div class="outline-text-3" id="text-org398014e">
+<p>
+Behold we ourselves this day are bondmen: and the land, which thou gavest our fathers, to eat the bread thereof, and the good things thereof, and we ourselves are servants in it.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org79c7a2e" class="outline-3">
+<h3 id="org79c7a2e">Nehemiah 9:37</h3>
+<div class="outline-text-3" id="text-org79c7a2e">
+<p>
+And the fruits thereof grow up for the kings, whom thou hast set over us for our sins, and they have dominion over our bodies, and over our beasts, according to their will, and we are in great tribulation.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd77a84b" class="outline-3">
+<h3 id="orgd77a84b">Nehemiah 9:38</h3>
+<div class="outline-text-3" id="text-orgd77a84b">
+<p>
+And because of all this we ourselves make a covenant, and write it, and our princes, our Levites, and our priests sign it. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orge7e69fa" class="outline-2">
+<h2 id="orge7e69fa">Nehemiah 10</h2>
+<div class="outline-text-2" id="text-orge7e69fa">
+</div>
+<div id="outline-container-org96dad07" class="outline-3">
+<h3 id="org96dad07">Nehemiah 10:1</h3>
+<div class="outline-text-3" id="text-org96dad07">
+<p>
+And the subscribers were Nehemiah, Athersatha the son of Hachelai, and Sedecias,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge5c0388" class="outline-3">
+<h3 id="orge5c0388">Nehemiah 10:2</h3>
+<div class="outline-text-3" id="text-orge5c0388">
+<p>
+Saraias, Azarias, Jeremias,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org80401bd" class="outline-3">
+<h3 id="org80401bd">Nehemiah 10:3</h3>
+<div class="outline-text-3" id="text-org80401bd">
+<p>
+Pheshur, Amarias, Melchias,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd4c2f45" class="outline-3">
+<h3 id="orgd4c2f45">Nehemiah 10:4</h3>
+<div class="outline-text-3" id="text-orgd4c2f45">
+<p>
+Hattus, Sebenia, Melluch,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org840a7b7" class="outline-3">
+<h3 id="org840a7b7">Nehemiah 10:5</h3>
+<div class="outline-text-3" id="text-org840a7b7">
+<p>
+Harem, Merimuth, Obdias,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1028a59" class="outline-3">
+<h3 id="org1028a59">Nehemiah 10:6</h3>
+<div class="outline-text-3" id="text-org1028a59">
+<p>
+Daniel, Genthon, Baruch,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb6a0719" class="outline-3">
+<h3 id="orgb6a0719">Nehemiah 10:7</h3>
+<div class="outline-text-3" id="text-orgb6a0719">
+<p>
+Mosollam, Abia, Miamin,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga86512c" class="outline-3">
+<h3 id="orga86512c">Nehemiah 10:8</h3>
+<div class="outline-text-3" id="text-orga86512c">
+<p>
+Maazia, Belgia, Semeia: these were priests.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb0a8e40" class="outline-3">
+<h3 id="orgb0a8e40">Nehemiah 10:9</h3>
+<div class="outline-text-3" id="text-orgb0a8e40">
+<p>
+And the Levites, Josue the son of Azanias, Bennui of the sons of Henadad, Cedmihel,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2378925" class="outline-3">
+<h3 id="org2378925">Nehemiah 10:10</h3>
+<div class="outline-text-3" id="text-org2378925">
+<p>
+And their brethren, Sebenia, Oduia, Celita, Phalaia, Hanan,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd00ba3c" class="outline-3">
+<h3 id="orgd00ba3c">Nehemiah 10:11</h3>
+<div class="outline-text-3" id="text-orgd00ba3c">
+<p>
+Micha, Rohob, Hasebia,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0102782" class="outline-3">
+<h3 id="org0102782">Nehemiah 10:12</h3>
+<div class="outline-text-3" id="text-org0102782">
+<p>
+Zachur, Serebia, Sabania,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf799390" class="outline-3">
+<h3 id="orgf799390">Nehemiah 10:13</h3>
+<div class="outline-text-3" id="text-orgf799390">
+<p>
+Odaia, Bani, Baninu.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge549e2b" class="outline-3">
+<h3 id="orge549e2b">Nehemiah 10:14</h3>
+<div class="outline-text-3" id="text-orge549e2b">
+<p>
+The heads of the people, Pharos, Phahath Moab, Elam, Zethu, Bani,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9d0c071" class="outline-3">
+<h3 id="org9d0c071">Nehemiah 10:15</h3>
+<div class="outline-text-3" id="text-org9d0c071">
+<p>
+Bonni, Azgad, Bebai,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org23956c6" class="outline-3">
+<h3 id="org23956c6">Nehemiah 10:16</h3>
+<div class="outline-text-3" id="text-org23956c6">
+<p>
+Adonia, Begoai, Adin,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org43d4bad" class="outline-3">
+<h3 id="org43d4bad">Nehemiah 10:17</h3>
+<div class="outline-text-3" id="text-org43d4bad">
+<p>
+Ater, Hezecia, Azur,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf9c2963" class="outline-3">
+<h3 id="orgf9c2963">Nehemiah 10:18</h3>
+<div class="outline-text-3" id="text-orgf9c2963">
+<p>
+Odaia, Hasum, Besai,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaed201a" class="outline-3">
+<h3 id="orgaed201a">Nehemiah 10:19</h3>
+<div class="outline-text-3" id="text-orgaed201a">
+<p>
+Hareph, Anathoth, Nebai,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd6cbe23" class="outline-3">
+<h3 id="orgd6cbe23">Nehemiah 10:20</h3>
+<div class="outline-text-3" id="text-orgd6cbe23">
+<p>
+Megphias, Mosollam, Hazir,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5150e5c" class="outline-3">
+<h3 id="org5150e5c">Nehemiah 10:21</h3>
+<div class="outline-text-3" id="text-org5150e5c">
+<p>
+Mesizabel, Sadoc, Jeddua,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org208a132" class="outline-3">
+<h3 id="org208a132">Nehemiah 10:22</h3>
+<div class="outline-text-3" id="text-org208a132">
+<p>
+Pheltia, Hanan, Anaia,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc150bd9" class="outline-3">
+<h3 id="orgc150bd9">Nehemiah 10:23</h3>
+<div class="outline-text-3" id="text-orgc150bd9">
+<p>
+Osee, Hanania, Hasub,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgad60220" class="outline-3">
+<h3 id="orgad60220">Nehemiah 10:24</h3>
+<div class="outline-text-3" id="text-orgad60220">
+<p>
+Alohes, Phalea, Sobec,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2f23e7f" class="outline-3">
+<h3 id="org2f23e7f">Nehemiah 10:25</h3>
+<div class="outline-text-3" id="text-org2f23e7f">
+<p>
+Rehum, Hasebna, Maasia,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbd78f86" class="outline-3">
+<h3 id="orgbd78f86">Nehemiah 10:26</h3>
+<div class="outline-text-3" id="text-orgbd78f86">
+<p>
+Echaia, Hanan, Anan,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org76e4d30" class="outline-3">
+<h3 id="org76e4d30">Nehemiah 10:27</h3>
+<div class="outline-text-3" id="text-org76e4d30">
+<p>
+Melluch, Haran, Baana:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org27f4b4a" class="outline-3">
+<h3 id="org27f4b4a">Nehemiah 10:28</h3>
+<div class="outline-text-3" id="text-org27f4b4a">
+<p>
+And the rest of the people, priests, Levites, porters, and singing men, Nathinites, and all that had separated themselves from the people of the lands to the law of God, their wives, their sons, and their daughters.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8d004fd" class="outline-3">
+<h3 id="org8d004fd">Nehemiah 10:29</h3>
+<div class="outline-text-3" id="text-org8d004fd">
+<p>
+All that could understand, promising for their brethren, with their chief men, and they came to promise, and swear that they would walk in the law of God, which he gave in the hand of Moses the servant of God, that they would do and keep all the commandments of the Lord our God, and his judgments and his ceremonies.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgae8728d" class="outline-3">
+<h3 id="orgae8728d">Nehemiah 10:30</h3>
+<div class="outline-text-3" id="text-orgae8728d">
+<p>
+And that we would not give our daughters to the people of the land, nor take their daughters for our sons.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org85eee95" class="outline-3">
+<h3 id="org85eee95">Nehemiah 10:31</h3>
+<div class="outline-text-3" id="text-org85eee95">
+<p>
+And if the people of the land bring in things to sell, or any things for use, to sell them on the sabbath day, that we would not buy them on the sabbath, or on the holy day. And that we would leave the seventh year, and the exaction of every hand.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge3437ba" class="outline-3">
+<h3 id="orge3437ba">Nehemiah 10:32</h3>
+<div class="outline-text-3" id="text-orge3437ba">
+<p>
+And we made ordinances for ourselves, to give the third part of a sicle every year for the work of the house of our God,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e6ba88" class="outline-3">
+<h3 id="org9e6ba88">Nehemiah 10:33</h3>
+<div class="outline-text-3" id="text-org9e6ba88">
+<p>
+For the loaves of proposition, and for the continual sacrifice, and for a continual holocaust on the sabbaths, on the new moons, on the set feasts, and for the holy things, and for the sin offering: that atonement might be made for Israel, and for every use of the house of our God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9931fc8" class="outline-3">
+<h3 id="org9931fc8">Nehemiah 10:34</h3>
+<div class="outline-text-3" id="text-org9931fc8">
+<p>
+And we cast lots among the priests, and the Levites, and the people for the offering of wood, that it might be brought into the house of our God by the houses of our fathers at set times, from year to year: to burn upon the altar of the Lord our God, as it is written in the law of Moses:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org010599f" class="outline-3">
+<h3 id="org010599f">Nehemiah 10:35</h3>
+<div class="outline-text-3" id="text-org010599f">
+<p>
+And that we would bring the firstfruits of our land, and the firstfruits of all fruit of every tree, from year to year, in the house of our Lord.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5eb0d5a" class="outline-3">
+<h3 id="org5eb0d5a">Nehemiah 10:36</h3>
+<div class="outline-text-3" id="text-org5eb0d5a">
+<p>
+And the firstborn of our sons, and of our cattle, as it is written in the law, and the firstlings of our oxen, and of our sheep, to be offered in the house of our God, to the priests who minister in the house of our God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org55f69eb" class="outline-3">
+<h3 id="org55f69eb">Nehemiah 10:37</h3>
+<div class="outline-text-3" id="text-org55f69eb">
+<p>
+And that we would bring the firstfruits of our meats, and of our libations, and the fruit of every tree, of the vintage also and of oil to the priests, to the storehouse of our God, and the tithes of our ground to the Levites. The Levites also shall receive the tithes of our works out of all the cities.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org57c310b" class="outline-3">
+<h3 id="org57c310b">Nehemiah 10:38</h3>
+<div class="outline-text-3" id="text-org57c310b">
+<p>
+And the priest the son of Aaron shall be with the Levites in the tithes of the Levites, and the Levites shall offer the tithe of their tithes in the house of our God, to the storeroom into the treasure house.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8aaae06" class="outline-3">
+<h3 id="org8aaae06">Nehemiah 10:39</h3>
+<div class="outline-text-3" id="text-org8aaae06">
+<p>
+For the children of Israel and the children of Levi shall carry to the treasury the firstfruits of corn, of wine, and of oil: and the sanctified vessels shall be there, and the priests, and the singing men, and the porters, and ministers, and we will not forsake the house of our God. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org4dba6b8" class="outline-2">
+<h2 id="org4dba6b8">Nehemiah 11</h2>
+<div class="outline-text-2" id="text-org4dba6b8">
+</div>
+<div id="outline-container-orgcf9dfe5" class="outline-3">
+<h3 id="orgcf9dfe5">Nehemiah 11:1</h3>
+<div class="outline-text-3" id="text-orgcf9dfe5">
+<p>
+And the princes of the people dwelt at Jerusalem: but the rest of the people cast lots, to take one part in ten to dwell in Jerusalem the holy city, and nine parts in the other cities.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org04f6d98" class="outline-3">
+<h3 id="org04f6d98">Nehemiah 11:2</h3>
+<div class="outline-text-3" id="text-org04f6d98">
+<p>
+And the people blessed all the men that willingly offered themselves to dwell in Jerusalem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org45faa13" class="outline-3">
+<h3 id="org45faa13">Nehemiah 11:3</h3>
+<div class="outline-text-3" id="text-org45faa13">
+<p>
+These therefore are the chief men of the province, who dwelt in Jerusalem, and in the cities of Juda. And every one dwelt in his possession, in their cities: Israel, the priests, the Levites, the Nathinites, and the children of the servants of Solomon.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeaad4d3" class="outline-3">
+<h3 id="orgeaad4d3">Nehemiah 11:4</h3>
+<div class="outline-text-3" id="text-orgeaad4d3">
+<p>
+And in Jerusalem there dwelt some of the children of Juda, and some of the children of Benjamin: of the children of Juda, Athaias the son of Aziam, the son of Zacharias, the son of Amarias, the son of Saphatias, the son of Malaleel: of the sons of Phares,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgae4251b" class="outline-3">
+<h3 id="orgae4251b">Nehemiah 11:5</h3>
+<div class="outline-text-3" id="text-orgae4251b">
+<p>
+Maasia the son of Baruch, the son of Cholhoza, the son of Hazia, the son of Adaia, the son of Joiarib, the son of Zacharias, the son of the Silonite:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga7a7573" class="outline-3">
+<h3 id="orga7a7573">Nehemiah 11:6</h3>
+<div class="outline-text-3" id="text-orga7a7573">
+<p>
+All these the sons of Phares, who dwelt in Jerusalem, were four hundred sixty-eight valiant men.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8914a8f" class="outline-3">
+<h3 id="org8914a8f">Nehemiah 11:7</h3>
+<div class="outline-text-3" id="text-org8914a8f">
+<p>
+And these are the children of Benjamin: Sellum the son of Mosollam, the son of Joed, the son of Phadaia, the son of Colaia, the son of Masia, the son of Etheel, the son of Isaia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga67aba0" class="outline-3">
+<h3 id="orga67aba0">Nehemiah 11:8</h3>
+<div class="outline-text-3" id="text-orga67aba0">
+<p>
+And after him Gebbai, Sellai, nine hundred twenty-eight.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf369367" class="outline-3">
+<h3 id="orgf369367">Nehemiah 11:9</h3>
+<div class="outline-text-3" id="text-orgf369367">
+<p>
+And Joel the son of Zechri their ruler, and Judas the son of Senua was second over the city.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7f0f5b8" class="outline-3">
+<h3 id="org7f0f5b8">Nehemiah 11:10</h3>
+<div class="outline-text-3" id="text-org7f0f5b8">
+<p>
+And of the priests Idaia the son of Joarib, Jachin,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org42eab15" class="outline-3">
+<h3 id="org42eab15">Nehemiah 11:11</h3>
+<div class="outline-text-3" id="text-org42eab15">
+<p>
+Saraia the son of Helcias, the son of Mosollam, the son of Sadoc, the son of Meraioth, the son of Achitob the prince of the house of God,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4182eb0" class="outline-3">
+<h3 id="org4182eb0">Nehemiah 11:12</h3>
+<div class="outline-text-3" id="text-org4182eb0">
+<p>
+And their brethren that do the works of the temple: eight hundred twenty-two. And Adaia the son of Jeroham, the son of Phelelia, the son of Amsi, the son of Zacharias, the son of Pheshur, the son of Melchias,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6cee936" class="outline-3">
+<h3 id="org6cee936">Nehemiah 11:13</h3>
+<div class="outline-text-3" id="text-org6cee936">
+<p>
+And his brethren the chiefs of the fathers: two hundred forty-two. And Amassai the son of Azreel, the son of Ahazi, the son of Mosollamoth, the son of Emmer,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org98734aa" class="outline-3">
+<h3 id="org98734aa">Nehemiah 11:14</h3>
+<div class="outline-text-3" id="text-org98734aa">
+<p>
+And their brethren who were very mighty, a hundred twenty-eight: and their ruler Zabdiel son of the mighty.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5b6c6dd" class="outline-3">
+<h3 id="org5b6c6dd">Nehemiah 11:15</h3>
+<div class="outline-text-3" id="text-org5b6c6dd">
+<p>
+And of the Levites Semeia the son of Hasub, the son of Azaricam, the son of Hasabia, the son of Boni,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org88b0d84" class="outline-3">
+<h3 id="org88b0d84">Nehemiah 11:16</h3>
+<div class="outline-text-3" id="text-org88b0d84">
+<p>
+And Sabathai and Jozabed, who were over all the outward business of the house of God, of the princes of the Levites,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org45d5f4d" class="outline-3">
+<h3 id="org45d5f4d">Nehemiah 11:17</h3>
+<div class="outline-text-3" id="text-org45d5f4d">
+<p>
+And Mathania the son of Micha, the son of Zebedei, the son of Asaph, was the principal man to praise, and to give glory in prayer, and Becbecia, the second, one of his brethren, and Abda the son of Samua, the son of Galal, the son of Idithun.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfda7690" class="outline-3">
+<h3 id="orgfda7690">Nehemiah 11:18</h3>
+<div class="outline-text-3" id="text-orgfda7690">
+<p>
+All the Levites in the holy city were two hundred eighty-four.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga1185d6" class="outline-3">
+<h3 id="orga1185d6">Nehemiah 11:19</h3>
+<div class="outline-text-3" id="text-orga1185d6">
+<p>
+And the porters, Accub, Telmon, and their brethren, who kept the doors: a hundred seventy-two.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3720955" class="outline-3">
+<h3 id="org3720955">Nehemiah 11:20</h3>
+<div class="outline-text-3" id="text-org3720955">
+<p>
+And the rest of Israel, the priests and the Levites were in all the cities of Juda, every man in his possession.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7a2c2a2" class="outline-3">
+<h3 id="org7a2c2a2">Nehemiah 11:21</h3>
+<div class="outline-text-3" id="text-org7a2c2a2">
+<p>
+And the Nathinites, that dwelt in Ophel, and Siaha, and Gaspha of the Nathinites.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org659a02c" class="outline-3">
+<h3 id="org659a02c">Nehemiah 11:22</h3>
+<div class="outline-text-3" id="text-org659a02c">
+<p>
+And the overseer of the Levites in Jerusalem, was Azzi the son of Bani, the son of Hasabia, the son of Mathania, the son of Micha. Of the sons of Asaph, were the singing men in the ministry of the house of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcd5b1fe" class="outline-3">
+<h3 id="orgcd5b1fe">Nehemiah 11:23</h3>
+<div class="outline-text-3" id="text-orgcd5b1fe">
+<p>
+For the king&rsquo;s commandment was concerning them, and an order among the singing men day by day.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3676b13" class="outline-3">
+<h3 id="org3676b13">Nehemiah 11:24</h3>
+<div class="outline-text-3" id="text-org3676b13">
+<p>
+And Phathahia the son of Mesezebel of the children of Zara the son of Juda was at the hand of the king, in all matters concerning the people,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb00bb94" class="outline-3">
+<h3 id="orgb00bb94">Nehemiah 11:25</h3>
+<div class="outline-text-3" id="text-orgb00bb94">
+<p>
+And in the houses through all their countries. Of the children of Juda some dwelt at Cariath-Arbe, and in the villages thereof: and at Dibon, and in the villages thereof: and at Cabseel, and in the villages thereof.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb183f70" class="outline-3">
+<h3 id="orgb183f70">Nehemiah 11:26</h3>
+<div class="outline-text-3" id="text-orgb183f70">
+<p>
+And at Jesue, and at Molada, and at Bethphaleth,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9a0cbfb" class="outline-3">
+<h3 id="org9a0cbfb">Nehemiah 11:27</h3>
+<div class="outline-text-3" id="text-org9a0cbfb">
+<p>
+And at Hasersuel, and at Bersabee, and in the villages thereof,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgea970ad" class="outline-3">
+<h3 id="orgea970ad">Nehemiah 11:28</h3>
+<div class="outline-text-3" id="text-orgea970ad">
+<p>
+And at Siceleg, and at Mochona, and in the villages thereof,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4142b4d" class="outline-3">
+<h3 id="org4142b4d">Nehemiah 11:29</h3>
+<div class="outline-text-3" id="text-org4142b4d">
+<p>
+And at Remmon, and at Saraa, and at Jerimuth,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4aa05e2" class="outline-3">
+<h3 id="org4aa05e2">Nehemiah 11:30</h3>
+<div class="outline-text-3" id="text-org4aa05e2">
+<p>
+Zanoa, Odollam, and in their villages, at Lachis and its dependencies, and at Azeca and the villages thereof. And they dwelt from Bersabee unto the valley of Ennom.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org64052ab" class="outline-3">
+<h3 id="org64052ab">Nehemiah 11:31</h3>
+<div class="outline-text-3" id="text-org64052ab">
+<p>
+And the children of Benjamin, from Geba, at Mechmas, and at Hai, and at Bethel, and in the villages thereof,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2f93d12" class="outline-3">
+<h3 id="org2f93d12">Nehemiah 11:32</h3>
+<div class="outline-text-3" id="text-org2f93d12">
+<p>
+At Anathoth, Nob, Anania,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org77f14f2" class="outline-3">
+<h3 id="org77f14f2">Nehemiah 11:33</h3>
+<div class="outline-text-3" id="text-org77f14f2">
+<p>
+Asor, Rama, Gethaim,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf51e901" class="outline-3">
+<h3 id="orgf51e901">Nehemiah 11:34</h3>
+<div class="outline-text-3" id="text-orgf51e901">
+<p>
+Hadid, Seboim, and Neballat, Lod,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org474d263" class="outline-3">
+<h3 id="org474d263">Nehemiah 11:35</h3>
+<div class="outline-text-3" id="text-org474d263">
+<p>
+And Ono the valley of craftsmen.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3bef322" class="outline-3">
+<h3 id="org3bef322">Nehemiah 11:36</h3>
+<div class="outline-text-3" id="text-org3bef322">
+<p>
+And of the Levites were portions of Juda and Benjamin. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org6cf3da8" class="outline-2">
+<h2 id="org6cf3da8">Nehemiah 12</h2>
+<div class="outline-text-2" id="text-org6cf3da8">
+</div>
+<div id="outline-container-org2e00829" class="outline-3">
+<h3 id="org2e00829">Nehemiah 12:1</h3>
+<div class="outline-text-3" id="text-org2e00829">
+<p>
+Now these are the priests and the Levites, that went up with Zorobabel the son of Salathiel, and Josue: Saraia, Jeremias, Esdras,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6d2bdda" class="outline-3">
+<h3 id="org6d2bdda">Nehemiah 12:2</h3>
+<div class="outline-text-3" id="text-org6d2bdda">
+<p>
+Amaria, Melluch, Hattus,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1469d9f" class="outline-3">
+<h3 id="org1469d9f">Nehemiah 12:3</h3>
+<div class="outline-text-3" id="text-org1469d9f">
+<p>
+Sebenias, Rheum, Merimuth,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbddeeb0" class="outline-3">
+<h3 id="orgbddeeb0">Nehemiah 12:4</h3>
+<div class="outline-text-3" id="text-orgbddeeb0">
+<p>
+Addo, Genthon, Abia,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd554cda" class="outline-3">
+<h3 id="orgd554cda">Nehemiah 12:5</h3>
+<div class="outline-text-3" id="text-orgd554cda">
+<p>
+Miamin, Madia, Belga,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9c6d3c4" class="outline-3">
+<h3 id="org9c6d3c4">Nehemiah 12:6</h3>
+<div class="outline-text-3" id="text-org9c6d3c4">
+<p>
+Semeia, and Joiarib, Idaia, Sellum Amoc, Helcias,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org14c9570" class="outline-3">
+<h3 id="org14c9570">Nehemiah 12:7</h3>
+<div class="outline-text-3" id="text-org14c9570">
+<p>
+Idaia. These were the chief of the priests, and of their brethren in the days of Josue.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org06f398b" class="outline-3">
+<h3 id="org06f398b">Nehemiah 12:8</h3>
+<div class="outline-text-3" id="text-org06f398b">
+<p>
+And the Levites, Jesua, Bennui, Cedmihel, Sarebia, Juda, Mathanias, they and their brethren were over the hymns:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org63463fa" class="outline-3">
+<h3 id="org63463fa">Nehemiah 12:9</h3>
+<div class="outline-text-3" id="text-org63463fa">
+<p>
+And Becbecia, and Hanni, and their brethren every one in his office.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge05a330" class="outline-3">
+<h3 id="orge05a330">Nehemiah 12:10</h3>
+<div class="outline-text-3" id="text-orge05a330">
+<p>
+And Josue begot Joacim, and Joacim begot Eliasib, and Eliasib begot Joiada,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb88ff98" class="outline-3">
+<h3 id="orgb88ff98">Nehemiah 12:11</h3>
+<div class="outline-text-3" id="text-orgb88ff98">
+<p>
+And Joiada begot Jonathan and Jonathan begot Jeddoa.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9139e0f" class="outline-3">
+<h3 id="org9139e0f">Nehemiah 12:12</h3>
+<div class="outline-text-3" id="text-org9139e0f">
+<p>
+And in the days of Joacim the priests and heads of the families were: Of Saraia, Maraia: of Jeremias, Hanania:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga4c00b9" class="outline-3">
+<h3 id="orga4c00b9">Nehemiah 12:13</h3>
+<div class="outline-text-3" id="text-orga4c00b9">
+<p>
+Of Esdras, Mosollam: and of Amaria, Johanan:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdbb24ff" class="outline-3">
+<h3 id="orgdbb24ff">Nehemiah 12:14</h3>
+<div class="outline-text-3" id="text-orgdbb24ff">
+<p>
+Of Milicho, Jonathan: of Sebenia, Joseph:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge4d51e6" class="outline-3">
+<h3 id="orge4d51e6">Nehemiah 12:15</h3>
+<div class="outline-text-3" id="text-orge4d51e6">
+<p>
+Of Haram, Edna: of Maraioth, Helci:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5624783" class="outline-3">
+<h3 id="org5624783">Nehemiah 12:16</h3>
+<div class="outline-text-3" id="text-org5624783">
+<p>
+Of Adaia, Zacharia: of Genthon, Mosollam:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org59f406d" class="outline-3">
+<h3 id="org59f406d">Nehemiah 12:17</h3>
+<div class="outline-text-3" id="text-org59f406d">
+<p>
+Of Abia, Zechri: of Miamin and Moadia, Phelti:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0f0dea1" class="outline-3">
+<h3 id="org0f0dea1">Nehemiah 12:18</h3>
+<div class="outline-text-3" id="text-org0f0dea1">
+<p>
+Of Belga, Sammua of Semaia, Jonathan:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf5c87a0" class="outline-3">
+<h3 id="orgf5c87a0">Nehemiah 12:19</h3>
+<div class="outline-text-3" id="text-orgf5c87a0">
+<p>
+Of Joiarib, Mathanai: of Jodaia, Azzi:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org801c223" class="outline-3">
+<h3 id="org801c223">Nehemiah 12:20</h3>
+<div class="outline-text-3" id="text-org801c223">
+<p>
+Of Sellai, Celai: of Amoc, Heber:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeddc857" class="outline-3">
+<h3 id="orgeddc857">Nehemiah 12:21</h3>
+<div class="outline-text-3" id="text-orgeddc857">
+<p>
+Of Helcias, Hasebia: of Idaia, Nathanael.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb46b9fb" class="outline-3">
+<h3 id="orgb46b9fb">Nehemiah 12:22</h3>
+<div class="outline-text-3" id="text-orgb46b9fb">
+<p>
+The Levites the chiefs of the families in the days of Eliasib, and Joiada, and Johanan, and Jeddoa, were recorded, and the priests in the reign of Darius the Persian.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb1c060" class="outline-3">
+<h3 id="orgfb1c060">Nehemiah 12:23</h3>
+<div class="outline-text-3" id="text-orgfb1c060">
+<p>
+The sons of Levi, heads of the families were written in the book of Chronicles, even unto the days of Jonathan the son of Eliasib.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcaa6d12" class="outline-3">
+<h3 id="orgcaa6d12">Nehemiah 12:24</h3>
+<div class="outline-text-3" id="text-orgcaa6d12">
+<p>
+Now the chief of the Levites were Hasebia, Serebia, and Josue the son of Cedmihel: and their brethren by their courses, to praise and to give thanks according to the commandment of David the man of God, and to wait equally in order.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c4746e" class="outline-3">
+<h3 id="org8c4746e">Nehemiah 12:25</h3>
+<div class="outline-text-3" id="text-org8c4746e">
+<p>
+Mathania, and Becbecia, Obedia, and Mosollam, Telmon, Accub, were keepers of the gates and of the entrances before the gates.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4302186" class="outline-3">
+<h3 id="org4302186">Nehemiah 12:26</h3>
+<div class="outline-text-3" id="text-org4302186">
+<p>
+These were in the days of Joacim the son of Josue, the son of Josedec, and in the days of Nehemiah the governor, and of Esdras the priest and scribe.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7df8ec1" class="outline-3">
+<h3 id="org7df8ec1">Nehemiah 12:27</h3>
+<div class="outline-text-3" id="text-org7df8ec1">
+<p>
+And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, and to keep the dedication, and to rejoice with thanksgiving, and with singing, and with cymbals, and psalteries and harps.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfad6c17" class="outline-3">
+<h3 id="orgfad6c17">Nehemiah 12:28</h3>
+<div class="outline-text-3" id="text-orgfad6c17">
+<p>
+And the sons of the singing men were gathered together out of the plain country about Jerusalem, and out of the villages of Nethuphati,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6a2131f" class="outline-3">
+<h3 id="org6a2131f">Nehemiah 12:29</h3>
+<div class="outline-text-3" id="text-org6a2131f">
+<p>
+And from the house of Galgal, and from the countries of Geba and Azmaveth: for the singing men had built themselves villages round about Jerusalem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0fc7597" class="outline-3">
+<h3 id="org0fc7597">Nehemiah 12:30</h3>
+<div class="outline-text-3" id="text-org0fc7597">
+<p>
+And the priests and the Levites were purified, and they purified the people, and the gates, and the wall.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9e700ab" class="outline-3">
+<h3 id="org9e700ab">Nehemiah 12:31</h3>
+<div class="outline-text-3" id="text-org9e700ab">
+<p>
+And I made the princes of Juda go up upon the wall, and I appointed two great choirs to give praise. And they went on the right hand upon the wall toward the dung gate.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd1dcc58" class="outline-3">
+<h3 id="orgd1dcc58">Nehemiah 12:32</h3>
+<div class="outline-text-3" id="text-orgd1dcc58">
+<p>
+And after them went Osaias, and half of the princes of Juda,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcf3c42b" class="outline-3">
+<h3 id="orgcf3c42b">Nehemiah 12:33</h3>
+<div class="outline-text-3" id="text-orgcf3c42b">
+<p>
+And Azarias, Esdras, and Mosollam, Judas, and Benjamin, and Semeia, and Jeremias.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org39d0bd1" class="outline-3">
+<h3 id="org39d0bd1">Nehemiah 12:34</h3>
+<div class="outline-text-3" id="text-org39d0bd1">
+<p>
+And of the sons of the priests with trumpets, Zacharias the son of Jonathan, the son of Semeia, the son of Mathania, the son of Michaia, the son of Zechur, the son of Asaph,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4f1dfd9" class="outline-3">
+<h3 id="org4f1dfd9">Nehemiah 12:35</h3>
+<div class="outline-text-3" id="text-org4f1dfd9">
+<p>
+And his brethren Semeia, and Azareel, Malalai, Galalai, Maai, Nathanael, and Judas, and Hanani, with the musical instruments of David the man of God: and Esdras the scribe before them at the fountain gate.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd7303b6" class="outline-3">
+<h3 id="orgd7303b6">Nehemiah 12:36</h3>
+<div class="outline-text-3" id="text-orgd7303b6">
+<p>
+And they went up over against them by the stairs of the city of David, at the going up of the wall of the house of David, and to the water gate eastward:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb4b51e9" class="outline-3">
+<h3 id="orgb4b51e9">Nehemiah 12:37</h3>
+<div class="outline-text-3" id="text-orgb4b51e9">
+<p>
+And the second choir of them that gave thanks went on the opposite side, and I after them, and the half of the people upon the wall, and upon the tower of the furnaces, even to the broad wall,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org806b612" class="outline-3">
+<h3 id="org806b612">Nehemiah 12:38</h3>
+<div class="outline-text-3" id="text-org806b612">
+<p>
+And above the gate of Ephraim, and above the old gate, and above the fish gate and the tower of Hananeel, and the tower of Emath, and even to the flock gate: and they stood still in the watch gate.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orged1ba1c" class="outline-3">
+<h3 id="orged1ba1c">Nehemiah 12:39</h3>
+<div class="outline-text-3" id="text-orged1ba1c">
+<p>
+And the two choirs of them that gave praise stood still at the house of God, and I and the half of the magistrates with me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2f4760c" class="outline-3">
+<h3 id="org2f4760c">Nehemiah 12:40</h3>
+<div class="outline-text-3" id="text-org2f4760c">
+<p>
+And the priests, Eliachim, Maasia, Miamin, Michea, Elioenai, Zacharia, Hanania with trumpets,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1c9336d" class="outline-3">
+<h3 id="org1c9336d">Nehemiah 12:41</h3>
+<div class="outline-text-3" id="text-org1c9336d">
+<p>
+And Maasia, and Semeia, and Eleazar, and Azzi, and Johanan, and Melchia, and Elam, and Ezer. And the singers sung loud, and Jezraia was their overseer:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4d1a240" class="outline-3">
+<h3 id="org4d1a240">Nehemiah 12:42</h3>
+<div class="outline-text-3" id="text-org4d1a240">
+<p>
+And they sacrificed on that day great sacrifices, and they rejoiced: for God had made them joyful with great joy: their wives also and their children rejoiced, and the joy of Jerusalem was heard afar off.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3878100" class="outline-3">
+<h3 id="org3878100">Nehemiah 12:43</h3>
+<div class="outline-text-3" id="text-org3878100">
+<p>
+They appointed also in that day men over the storehouses of the treasure, for the libations, and for the firstfruits, and for the tithes, that the rulers of the city might bring them in by them in honour of thanksgiving, for the priests and Levites: for Juda was joyful in the priests and Levites that assisted.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org330390d" class="outline-3">
+<h3 id="org330390d">Nehemiah 12:44</h3>
+<div class="outline-text-3" id="text-org330390d">
+<p>
+And they kept the watch of their God, and the observance of expiation, and the singing men, and the porters, according to the commandment of David, and of Solomon his son.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb0bfa5d" class="outline-3">
+<h3 id="orgb0bfa5d">Nehemiah 12:45</h3>
+<div class="outline-text-3" id="text-orgb0bfa5d">
+<p>
+For in the days of David and Asaph from the beginning there were chief singers appointed, to praise with canticles, and give thanks to God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge8ca944" class="outline-3">
+<h3 id="orge8ca944">Nehemiah 12:46</h3>
+<div class="outline-text-3" id="text-orge8ca944">
+<p>
+And all Israel, in the days of Zorobabel, and in the days of Nehemiah gave portions to the singing men, and to the porters, day by day, and they sanctified the Levites, and the Levites sanctified the sons of Aaron. 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga1a94ca" class="outline-2">
+<h2 id="orga1a94ca">Nehemiah 13</h2>
+<div class="outline-text-2" id="text-orga1a94ca">
+</div>
+<div id="outline-container-org423da44" class="outline-3">
+<h3 id="org423da44">Nehemiah 13:1</h3>
+<div class="outline-text-3" id="text-org423da44">
+<p>
+And on that day they read in the book of Moses in the hearing of the people: and therein was found written, that the Ammonites and the Moabites should not come in to the church of God for ever:
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc2d949f" class="outline-3">
+<h3 id="orgc2d949f">Nehemiah 13:2</h3>
+<div class="outline-text-3" id="text-orgc2d949f">
+<p>
+Because they met not the children of Israel with bread and water: and they hired against them Balaam, to curse them, and our God turned the curse into blessing.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4932102" class="outline-3">
+<h3 id="org4932102">Nehemiah 13:3</h3>
+<div class="outline-text-3" id="text-org4932102">
+<p>
+And it came to pass, when they had heard the law, that they separated every stranger from Israel.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3746142" class="outline-3">
+<h3 id="org3746142">Nehemiah 13:4</h3>
+<div class="outline-text-3" id="text-org3746142">
+<p>
+And over this thing was Eliasib the priest, who was set over the treasury of the house of our God, and was near akin to Tobias.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org29b1e73" class="outline-3">
+<h3 id="org29b1e73">Nehemiah 13:5</h3>
+<div class="outline-text-3" id="text-org29b1e73">
+<p>
+And he made him a great storeroom, where before him they laid up gifts, and frankincense, and vessels, and the tithes of the corn, of the wine, and of the oil, the portions of the Levites, and of the singing men, and of the porters, and the firstfruits of the priests.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf0c8495" class="outline-3">
+<h3 id="orgf0c8495">Nehemiah 13:6</h3>
+<div class="outline-text-3" id="text-orgf0c8495">
+<p>
+But in all this time I was not in Jerusalem, because in the two and thirtieth year of Artaxerxes king of Babylon, I went to the king, and after certain days I asked the king:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org51a0131" class="outline-3">
+<h3 id="org51a0131">Nehemiah 13:7</h3>
+<div class="outline-text-3" id="text-org51a0131">
+<p>
+And I came to Jerusalem, and I understood the evil that Eliasib had done for Tobias, to make him a storehouse in the courts of the house of God.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org31b7139" class="outline-3">
+<h3 id="org31b7139">Nehemiah 13:8</h3>
+<div class="outline-text-3" id="text-org31b7139">
+<p>
+And it seemed to me exceeding evil. And I cast forth the vessels of the house of Tobias out of the storehouse.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaa724c4" class="outline-3">
+<h3 id="orgaa724c4">Nehemiah 13:9</h3>
+<div class="outline-text-3" id="text-orgaa724c4">
+<p>
+And I commanded and they cleansed again the vessels of the house of God, the sacrifice, and the frankincense.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb829cfd" class="outline-3">
+<h3 id="orgb829cfd">Nehemiah 13:10</h3>
+<div class="outline-text-3" id="text-orgb829cfd">
+<p>
+And I perceived that the portions of the Levites had not been given them: and that the Levites, and the singing men, and they that ministered were fled away every man to his own country:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4c11c53" class="outline-3">
+<h3 id="org4c11c53">Nehemiah 13:11</h3>
+<div class="outline-text-3" id="text-org4c11c53">
+<p>
+And I pleaded the matter against the magistrates, and said: Why have we forsaken the house of God? And I gathered them together, and I made them to stand in their places.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4ae97f4" class="outline-3">
+<h3 id="org4ae97f4">Nehemiah 13:12</h3>
+<div class="outline-text-3" id="text-org4ae97f4">
+<p>
+And all Juda brought the tithe of the corn, and the wine, and the oil into the storehouses.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org358b0b2" class="outline-3">
+<h3 id="org358b0b2">Nehemiah 13:13</h3>
+<div class="outline-text-3" id="text-org358b0b2">
+<p>
+And we set over the storehouses Selemias the priest, and Sadoc the scribe, and of the Levites Phadaia, and next to them Hanan the son of Zachur, the son of Mathania: for they were approved as faithful, and to them were committed the portions of their brethren.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf4fb7d5" class="outline-3">
+<h3 id="orgf4fb7d5">Nehemiah 13:14</h3>
+<div class="outline-text-3" id="text-orgf4fb7d5">
+<p>
+Remember me, O my God, for this thing, and wipe not out my kindnesses, which I have done relating to the house of my God and his ceremonies.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org49ec95c" class="outline-3">
+<h3 id="org49ec95c">Nehemiah 13:15</h3>
+<div class="outline-text-3" id="text-org49ec95c">
+<p>
+In those days I saw in Juda some treading the presses on the sabbath, and carrying sheaves, and lading asses with wine, and grapes, and figs, and all manner of burthens, and bringing them into Jerusalem on the sabbath day. And I charged them that they should sell on a day on which it was lawful to sell.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8dc2d9e" class="outline-3">
+<h3 id="org8dc2d9e">Nehemiah 13:16</h3>
+<div class="outline-text-3" id="text-org8dc2d9e">
+<p>
+Some Tyrians also dwelt there, who brought fish, and all manner of wares: and they sold them on the sabbaths to the children of Juda in Jerusalem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge81d6f8" class="outline-3">
+<h3 id="orge81d6f8">Nehemiah 13:17</h3>
+<div class="outline-text-3" id="text-orge81d6f8">
+<p>
+And I rebuked the chief men of Juda, and said to them: What is this evil thing that you are doing, profaning the sabbath day:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org124a995" class="outline-3">
+<h3 id="org124a995">Nehemiah 13:18</h3>
+<div class="outline-text-3" id="text-org124a995">
+<p>
+Did not our fathers do these things, and our God brought all this evil upon us, and upon this city? And you bring more wrath upon Israel by violating the sabbath.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org57f803c" class="outline-3">
+<h3 id="org57f803c">Nehemiah 13:19</h3>
+<div class="outline-text-3" id="text-org57f803c">
+<p>
+And it came to pass, that when the gates of Jerusalem were at rest on the sabbath day, I spoke: and they shut the gates, and I commanded that they should not open them till after the sabbath: and I set some of my servants at the gates, that none should bring in burthens on the sabbath day.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd7b15c9" class="outline-3">
+<h3 id="orgd7b15c9">Nehemiah 13:20</h3>
+<div class="outline-text-3" id="text-orgd7b15c9">
+<p>
+So the merchants, and they that sold all kinds of wares, stayed without Jerusalem, once or twice.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org69c9ae6" class="outline-3">
+<h3 id="org69c9ae6">Nehemiah 13:21</h3>
+<div class="outline-text-3" id="text-org69c9ae6">
+<p>
+And I charged them, and I said to them: Why stay you before the wall? if you do so another time, I will lay hands on you. And from that time they came no more on the sabbath.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9ecfabd" class="outline-3">
+<h3 id="org9ecfabd">Nehemiah 13:22</h3>
+<div class="outline-text-3" id="text-org9ecfabd">
+<p>
+I spoke also to the Levites that they should be purified, and should come to keep the gates, and to sanctify the sabbath day: for this also remember me, O my God, and spare me according to the multitude of thy tender mercies.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8d0f655" class="outline-3">
+<h3 id="org8d0f655">Nehemiah 13:23</h3>
+<div class="outline-text-3" id="text-org8d0f655">
+<p>
+In those days also I saw Jews that married wives, women of Azotus, and of Ammon, and of Moab.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgee56eb8" class="outline-3">
+<h3 id="orgee56eb8">Nehemiah 13:24</h3>
+<div class="outline-text-3" id="text-orgee56eb8">
+<p>
+And their children spoke half in the speech of Azotus, and could not speak the Jews&rsquo; language, but they spoke according to the language of this and that people.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5198a56" class="outline-3">
+<h3 id="org5198a56">Nehemiah 13:25</h3>
+<div class="outline-text-3" id="text-org5198a56">
+<p>
+And I chid them, and laid my curse upon them. And I beat some of them, and shaved off their hair, and made them swear by God that they would not give their daughters to their sons, nor take their daughters for their sons, nor for themselves, saying:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org94905ac" class="outline-3">
+<h3 id="org94905ac">Nehemiah 13:26</h3>
+<div class="outline-text-3" id="text-org94905ac">
+<p>
+Did not Solomon king of Israel sin in this kind of thing: and surely among many nations, there was not a king like him, and he was beloved of his God, and God made him king over all Israel: and yet women of other countries brought even him to sin.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org31ba642" class="outline-3">
+<h3 id="org31ba642">Nehemiah 13:27</h3>
+<div class="outline-text-3" id="text-org31ba642">
+<p>
+And shall we also be disobedient and do all this great evil to transgress against our God, and marry strange women:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org489bdeb" class="outline-3">
+<h3 id="org489bdeb">Nehemiah 13:28</h3>
+<div class="outline-text-3" id="text-org489bdeb">
+<p>
+And one of the sons of Joiada the son of Eliasib the high priest, was son in law to Sanaballat the Horonite, and I drove him from me.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org902b001" class="outline-3">
+<h3 id="org902b001">Nehemiah 13:29</h3>
+<div class="outline-text-3" id="text-org902b001">
+<p>
+Remember them, O Lord my God, that defile the priesthood, and the law of priests and Levites.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb591e27" class="outline-3">
+<h3 id="orgb591e27">Nehemiah 13:30</h3>
+<div class="outline-text-3" id="text-orgb591e27">
+<p>
+So I separated from them all strangers, and I appointed the courses of the priests and the Levites, every man in his ministry:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org144ef3e" class="outline-3">
+<h3 id="org144ef3e">Nehemiah 13:31</h3>
+<div class="outline-text-3" id="text-org144ef3e">
+<p>
+And for the offering of wood at times appointed, and for the firstfruits: remember me, O my God, unto good. Amen.  
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2021-01-24 Sun 11:23</p>
+</div>
+</body>
+</html>

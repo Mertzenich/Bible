@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2021-01-24 Sun 11:14 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>[<a href="../index.html">Index</a>] Book: 2 Timothy</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">[<a href="../index.html">Index</a>] Book: 2 Timothy</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org5f2a15f">II Timothy 1</a>
+<ul>
+<li><a href="#org954907b">II Timothy 1:1</a></li>
+<li><a href="#org0eb4981">II Timothy 1:2</a></li>
+<li><a href="#orgcd28c58">II Timothy 1:3</a></li>
+<li><a href="#orgfeed105">II Timothy 1:4</a></li>
+<li><a href="#org5a9a074">II Timothy 1:5</a></li>
+<li><a href="#orge01b8d4">II Timothy 1:6</a></li>
+<li><a href="#org859f71f">II Timothy 1:7</a></li>
+<li><a href="#orge37458b">II Timothy 1:8</a></li>
+<li><a href="#org704ac9e">II Timothy 1:9</a></li>
+<li><a href="#org10aca3c">II Timothy 1:10</a></li>
+<li><a href="#org3a76b53">II Timothy 1:11</a></li>
+<li><a href="#org022e770">II Timothy 1:12</a></li>
+<li><a href="#orge155a1d">II Timothy 1:13</a></li>
+<li><a href="#orgecf45e9">II Timothy 1:14</a></li>
+<li><a href="#org94deda1">II Timothy 1:15</a></li>
+<li><a href="#org4a2a890">II Timothy 1:16</a></li>
+<li><a href="#org58667e6">II Timothy 1:17</a></li>
+<li><a href="#org6486ba5">II Timothy 1:18</a></li>
+</ul>
+</li>
+<li><a href="#org49e9bcb">II Timothy 2</a>
+<ul>
+<li><a href="#orge24ce2c">II Timothy 2:1</a></li>
+<li><a href="#org65782c6">II Timothy 2:2</a></li>
+<li><a href="#org68887d5">II Timothy 2:3</a></li>
+<li><a href="#org52243cd">II Timothy 2:4</a></li>
+<li><a href="#orge93f384">II Timothy 2:5</a></li>
+<li><a href="#orgf905ef9">II Timothy 2:6</a></li>
+<li><a href="#org32ec531">II Timothy 2:7</a></li>
+<li><a href="#org169b57f">II Timothy 2:8</a></li>
+<li><a href="#orgaca8adc">II Timothy 2:9</a></li>
+<li><a href="#org2ab8601">II Timothy 2:10</a></li>
+<li><a href="#orgd774226">II Timothy 2:11</a></li>
+<li><a href="#org6f0c2c9">II Timothy 2:12</a></li>
+<li><a href="#orgc1e40e9">II Timothy 2:13</a></li>
+<li><a href="#org5556943">II Timothy 2:14</a></li>
+<li><a href="#org85c9b5a">II Timothy 2:15</a></li>
+<li><a href="#org361c0a6">II Timothy 2:16</a></li>
+<li><a href="#org1014dd9">II Timothy 2:17</a></li>
+<li><a href="#org214bb06">II Timothy 2:18</a></li>
+<li><a href="#org6777540">II Timothy 2:19</a></li>
+<li><a href="#org6051499">II Timothy 2:20</a></li>
+<li><a href="#orgf54907b">II Timothy 2:21</a></li>
+<li><a href="#org20a5225">II Timothy 2:22</a></li>
+<li><a href="#orgd883606">II Timothy 2:23</a></li>
+<li><a href="#org887b97a">II Timothy 2:24</a></li>
+<li><a href="#org6a01750">II Timothy 2:25</a></li>
+<li><a href="#orgac3e90a">II Timothy 2:26</a></li>
+</ul>
+</li>
+<li><a href="#org044503e">II Timothy 3</a>
+<ul>
+<li><a href="#orgfa120a5">II Timothy 3:1</a></li>
+<li><a href="#orgb22143c">II Timothy 3:2</a></li>
+<li><a href="#orged6b53e">II Timothy 3:3</a></li>
+<li><a href="#org05f323c">II Timothy 3:4</a></li>
+<li><a href="#orgf56a9bd">II Timothy 3:5</a></li>
+<li><a href="#org1bcf3fb">II Timothy 3:6</a></li>
+<li><a href="#org8432f18">II Timothy 3:7</a></li>
+<li><a href="#org05d3653">II Timothy 3:8</a></li>
+<li><a href="#org817cda6">II Timothy 3:9</a></li>
+<li><a href="#org13b5f6f">II Timothy 3:10</a></li>
+<li><a href="#org2df9793">II Timothy 3:11</a></li>
+<li><a href="#org5468c34">II Timothy 3:12</a></li>
+<li><a href="#org0201d82">II Timothy 3:13</a></li>
+<li><a href="#orge73e542">II Timothy 3:14</a></li>
+<li><a href="#org572c836">II Timothy 3:15</a></li>
+<li><a href="#orgf3badf8">II Timothy 3:16</a></li>
+<li><a href="#orgb46d998">II Timothy 3:17</a></li>
+</ul>
+</li>
+<li><a href="#orga7e55d6">II Timothy 4</a>
+<ul>
+<li><a href="#orgd3d5ad9">II Timothy 4:1</a></li>
+<li><a href="#org208a1dd">II Timothy 4:2</a></li>
+<li><a href="#org1fba192">II Timothy 4:3</a></li>
+<li><a href="#org0dc855c">II Timothy 4:4</a></li>
+<li><a href="#orgf44d07e">II Timothy 4:5</a></li>
+<li><a href="#org5d0846f">II Timothy 4:6</a></li>
+<li><a href="#org90251d6">II Timothy 4:7</a></li>
+<li><a href="#org7b8091b">II Timothy 4:8</a></li>
+<li><a href="#org59d1817">II Timothy 4:9</a></li>
+<li><a href="#org4139387">II Timothy 4:10</a></li>
+<li><a href="#orgc550650">II Timothy 4:11</a></li>
+<li><a href="#orgd836e00">II Timothy 4:12</a></li>
+<li><a href="#org40860df">II Timothy 4:13</a></li>
+<li><a href="#org891ba76">II Timothy 4:14</a></li>
+<li><a href="#orgbce20f3">II Timothy 4:15</a></li>
+<li><a href="#org44b6c58">II Timothy 4:16</a></li>
+<li><a href="#orgbfe3c8b">II Timothy 4:17</a></li>
+<li><a href="#orgfaf7a93">II Timothy 4:18</a></li>
+<li><a href="#orgf1f3c19">II Timothy 4:19</a></li>
+<li><a href="#org7640240">II Timothy 4:20</a></li>
+<li><a href="#org9cd42c8">II Timothy 4:21</a></li>
+<li><a href="#orgfb1f009">II Timothy 4:22</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org5f2a15f" class="outline-2">
+<h2 id="org5f2a15f">II Timothy 1</h2>
+<div class="outline-text-2" id="text-org5f2a15f">
+</div>
+<div id="outline-container-org954907b" class="outline-3">
+<h3 id="org954907b">II Timothy 1:1</h3>
+<div class="outline-text-3" id="text-org954907b">
+<p>
+Paulus Apostolus Jesu Christi per voluntatem Dei, secundum promissionem vitæ, quæ est in Christo Jesu,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0eb4981" class="outline-3">
+<h3 id="org0eb4981">II Timothy 1:2</h3>
+<div class="outline-text-3" id="text-org0eb4981">
+<p>
+Timotheo carissimo filio : gratia, misericordia, pax a Deo Patre, et Christo Jesu Domino nostro.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcd28c58" class="outline-3">
+<h3 id="orgcd28c58">II Timothy 1:3</h3>
+<div class="outline-text-3" id="text-orgcd28c58">
+<p>
+Gratias ago Deo, cui servio a progenitoribus in conscientia pura, quod sine intermissione habeam tui memoriam in orationibus meis, nocte ac die
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfeed105" class="outline-3">
+<h3 id="orgfeed105">II Timothy 1:4</h3>
+<div class="outline-text-3" id="text-orgfeed105">
+<p>
+desiderans te videre, memor lacrimarum tuarum, ut gaudio implear,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5a9a074" class="outline-3">
+<h3 id="org5a9a074">II Timothy 1:5</h3>
+<div class="outline-text-3" id="text-org5a9a074">
+<p>
+recordationem accipiens ejus fidei, quæ est in te non ficta, quæ et habitavit primum in avia tua Loide, et matre tua Eunice, certus sum autem quod et in te.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge01b8d4" class="outline-3">
+<h3 id="orge01b8d4">II Timothy 1:6</h3>
+<div class="outline-text-3" id="text-orge01b8d4">
+<p>
+Propter quam causam admoneo te ut resuscites gratiam Dei, quæ est in te per impositionem manuum mearum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org859f71f" class="outline-3">
+<h3 id="org859f71f">II Timothy 1:7</h3>
+<div class="outline-text-3" id="text-org859f71f">
+<p>
+Non enim dedit nobis Deus spiritum timoris : sed virtutis, et dilectionis, et sobrietatis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge37458b" class="outline-3">
+<h3 id="orge37458b">II Timothy 1:8</h3>
+<div class="outline-text-3" id="text-orge37458b">
+<p>
+Noli itaque erubescere testimonium Domini nostri, neque me vinctum ejus : sed collabora Evangelio secundum virtutem Dei :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org704ac9e" class="outline-3">
+<h3 id="org704ac9e">II Timothy 1:9</h3>
+<div class="outline-text-3" id="text-org704ac9e">
+<p>
+qui nos liberavit, et vocavit vocatione sua sancta, non secundum opera nostra, sed secundum propositum suum, et gratiam, quæ data est nobis in Christo Jesu ante tempora sæcularia.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org10aca3c" class="outline-3">
+<h3 id="org10aca3c">II Timothy 1:10</h3>
+<div class="outline-text-3" id="text-org10aca3c">
+<p>
+Manifestata est autem nunc per illuminationem Salvatoris nostri Jesu Christi, qui destruxit quidem mortem, illuminavit autem vitam, et incorruptionem per Evangelium :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3a76b53" class="outline-3">
+<h3 id="org3a76b53">II Timothy 1:11</h3>
+<div class="outline-text-3" id="text-org3a76b53">
+<p>
+in quo positus sum ego prædicator, et Apostolus, et magister gentium.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org022e770" class="outline-3">
+<h3 id="org022e770">II Timothy 1:12</h3>
+<div class="outline-text-3" id="text-org022e770">
+<p>
+Ob quam causam etiam hæc patior, sed non confundor. Scio enim cui credidi, et certus sum quia potens est depositum meum servare in illum diem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge155a1d" class="outline-3">
+<h3 id="orge155a1d">II Timothy 1:13</h3>
+<div class="outline-text-3" id="text-orge155a1d">
+<p>
+Formam habe sanorum verborum, quæ a me audisti in fide, et in dilectione in Christo Jesu.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgecf45e9" class="outline-3">
+<h3 id="orgecf45e9">II Timothy 1:14</h3>
+<div class="outline-text-3" id="text-orgecf45e9">
+<p>
+Bonum depositum custodi per Spiritum Sanctum, qui habitat in nobis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org94deda1" class="outline-3">
+<h3 id="org94deda1">II Timothy 1:15</h3>
+<div class="outline-text-3" id="text-org94deda1">
+<p>
+Scis hoc, quod aversi sunt a me omnes, qui in Asia sunt, ex quibus est Phigellus, et Hermogenes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4a2a890" class="outline-3">
+<h3 id="org4a2a890">II Timothy 1:16</h3>
+<div class="outline-text-3" id="text-org4a2a890">
+<p>
+Det misericordiam Dominus Onesiphori domui : quia sæpe me refrigeravit, et catenam meam non erubuit :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org58667e6" class="outline-3">
+<h3 id="org58667e6">II Timothy 1:17</h3>
+<div class="outline-text-3" id="text-org58667e6">
+<p>
+sed cum Romam venisset, sollicite me quæsivit, et invenit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6486ba5" class="outline-3">
+<h3 id="org6486ba5">II Timothy 1:18</h3>
+<div class="outline-text-3" id="text-org6486ba5">
+<p>
+Det illi Dominus invenire misericordiam a Domino in illa die. Et quanta Ephesi ministravit mihi, tu melius nosti.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org49e9bcb" class="outline-2">
+<h2 id="org49e9bcb">II Timothy 2</h2>
+<div class="outline-text-2" id="text-org49e9bcb">
+</div>
+<div id="outline-container-orge24ce2c" class="outline-3">
+<h3 id="orge24ce2c">II Timothy 2:1</h3>
+<div class="outline-text-3" id="text-orge24ce2c">
+<p>
+Tu ergo fili mi, confortare in gratia, quæ est in Christo Jesu :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org65782c6" class="outline-3">
+<h3 id="org65782c6">II Timothy 2:2</h3>
+<div class="outline-text-3" id="text-org65782c6">
+<p>
+et quæ audisti a me per multos testes, hæc commenda fidelibus hominibus, qui idonei erant et alios docere.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org68887d5" class="outline-3">
+<h3 id="org68887d5">II Timothy 2:3</h3>
+<div class="outline-text-3" id="text-org68887d5">
+<p>
+Labora sicut bonus miles Christi Jesu.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org52243cd" class="outline-3">
+<h3 id="org52243cd">II Timothy 2:4</h3>
+<div class="outline-text-3" id="text-org52243cd">
+<p>
+Nemo militans Deo implicat se negotiis sæcularibus : ut ei placeat, cui se probavit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge93f384" class="outline-3">
+<h3 id="orge93f384">II Timothy 2:5</h3>
+<div class="outline-text-3" id="text-orge93f384">
+<p>
+Nam et qui certat in agone, non coronatur nisi legitime certaverit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf905ef9" class="outline-3">
+<h3 id="orgf905ef9">II Timothy 2:6</h3>
+<div class="outline-text-3" id="text-orgf905ef9">
+<p>
+Laborantem agricolam oportet primum de fructibus percipere.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org32ec531" class="outline-3">
+<h3 id="org32ec531">II Timothy 2:7</h3>
+<div class="outline-text-3" id="text-org32ec531">
+<p>
+Intellige quæ dico : dabit enim tibi Dominus in omnibus intellectum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org169b57f" class="outline-3">
+<h3 id="org169b57f">II Timothy 2:8</h3>
+<div class="outline-text-3" id="text-org169b57f">
+<p>
+Memor esto Dominum Jesum Christum resurrexisse a mortuis ex semine David, secundum Evangelium meum,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaca8adc" class="outline-3">
+<h3 id="orgaca8adc">II Timothy 2:9</h3>
+<div class="outline-text-3" id="text-orgaca8adc">
+<p>
+in quo laboro usque ad vincula, quasi male operans : sed verbum Dei non est alligatum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2ab8601" class="outline-3">
+<h3 id="org2ab8601">II Timothy 2:10</h3>
+<div class="outline-text-3" id="text-org2ab8601">
+<p>
+Ideo omnia sustineo propter electos, ut et ipsi salutem consequantur, quæ est in Christo Jesu, cum gloria cælesti.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd774226" class="outline-3">
+<h3 id="orgd774226">II Timothy 2:11</h3>
+<div class="outline-text-3" id="text-orgd774226">
+<p>
+Fidelis sermo : nam si commortui sumus, et convivemus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6f0c2c9" class="outline-3">
+<h3 id="org6f0c2c9">II Timothy 2:12</h3>
+<div class="outline-text-3" id="text-org6f0c2c9">
+<p>
+si sustinebimus, et conregnabimus : si negaverimus, et ille negabit nos :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc1e40e9" class="outline-3">
+<h3 id="orgc1e40e9">II Timothy 2:13</h3>
+<div class="outline-text-3" id="text-orgc1e40e9">
+<p>
+si non credimus, ille fidelis permanet, negare seipsum non potest.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5556943" class="outline-3">
+<h3 id="org5556943">II Timothy 2:14</h3>
+<div class="outline-text-3" id="text-org5556943">
+<p>
+Hæc commone, testificans coram Domino. Noli contendere verbis : ad nihil enim utile est, nisi ad subversionem audientium.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org85c9b5a" class="outline-3">
+<h3 id="org85c9b5a">II Timothy 2:15</h3>
+<div class="outline-text-3" id="text-org85c9b5a">
+<p>
+Sollicite cura teipsum probabilem exhibere Deo, operarium inconfusibilem, recte tractantem verbum veritatis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org361c0a6" class="outline-3">
+<h3 id="org361c0a6">II Timothy 2:16</h3>
+<div class="outline-text-3" id="text-org361c0a6">
+<p>
+Profana autem et vaniloquia devita : multum enim proficiunt ad impietatem :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1014dd9" class="outline-3">
+<h3 id="org1014dd9">II Timothy 2:17</h3>
+<div class="outline-text-3" id="text-org1014dd9">
+<p>
+et sermo eorum ut cancer serpit : ex quibus est Hymenæus et Philetus,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org214bb06" class="outline-3">
+<h3 id="org214bb06">II Timothy 2:18</h3>
+<div class="outline-text-3" id="text-org214bb06">
+<p>
+qui a veritate exciderunt, dicentes resurrectionem esse jam factam, et subverterunt quorumdam fidem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6777540" class="outline-3">
+<h3 id="org6777540">II Timothy 2:19</h3>
+<div class="outline-text-3" id="text-org6777540">
+<p>
+Sed firmum fundamentum Dei stat, habens signaculum hoc : cognovit Dominus qui sunt ejus, et discedat ab iniquitate omnis qui nominat nomen Domini.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6051499" class="outline-3">
+<h3 id="org6051499">II Timothy 2:20</h3>
+<div class="outline-text-3" id="text-org6051499">
+<p>
+In magna autem domo non solum sunt vasa aurea, et argentea, sed et lignea, et fictilia : et quædam quidem in honorem, quædam autem in contumeliam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf54907b" class="outline-3">
+<h3 id="orgf54907b">II Timothy 2:21</h3>
+<div class="outline-text-3" id="text-orgf54907b">
+<p>
+Si quis ergo emundaverit se ab istis, erit vas in honorem sanctificatum, et utile Domino ad omne opus bonum paratum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org20a5225" class="outline-3">
+<h3 id="org20a5225">II Timothy 2:22</h3>
+<div class="outline-text-3" id="text-org20a5225">
+<p>
+Juvenilia autem desideria fuge, sectare vero justitiam, fidem, spem, caritatem, et pacem cum iis qui invocant Dominum de corde puro.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd883606" class="outline-3">
+<h3 id="orgd883606">II Timothy 2:23</h3>
+<div class="outline-text-3" id="text-orgd883606">
+<p>
+Stultas autem et sine disciplina quæstiones devita : sciens quia generant lites.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org887b97a" class="outline-3">
+<h3 id="org887b97a">II Timothy 2:24</h3>
+<div class="outline-text-3" id="text-org887b97a">
+<p>
+Servum autem Domini non oportet litigare : sed mansuetum esse ad omnes, docibilem, patientem,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6a01750" class="outline-3">
+<h3 id="org6a01750">II Timothy 2:25</h3>
+<div class="outline-text-3" id="text-org6a01750">
+<p>
+cum modestia corripientem eos qui resistunt veritati, nequando Deus det illis pœnitentiam ad cognoscendam veritatem,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgac3e90a" class="outline-3">
+<h3 id="orgac3e90a">II Timothy 2:26</h3>
+<div class="outline-text-3" id="text-orgac3e90a">
+<p>
+et resipiscant a diaboli laqueis, a quo captivi tenentur ad ipsius voluntatem.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org044503e" class="outline-2">
+<h2 id="org044503e">II Timothy 3</h2>
+<div class="outline-text-2" id="text-org044503e">
+</div>
+<div id="outline-container-orgfa120a5" class="outline-3">
+<h3 id="orgfa120a5">II Timothy 3:1</h3>
+<div class="outline-text-3" id="text-orgfa120a5">
+<p>
+Hoc autem scito, quod in novissimis diebus instabunt tempora periculosa :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb22143c" class="outline-3">
+<h3 id="orgb22143c">II Timothy 3:2</h3>
+<div class="outline-text-3" id="text-orgb22143c">
+<p>
+erunt homines seipsos amantes, cupidi, elati, superbi, blasphemi, parentibus non obedientes, ingrati, scelesti,
+</p>
+</div>
+</div>
+
+<div id="outline-container-orged6b53e" class="outline-3">
+<h3 id="orged6b53e">II Timothy 3:3</h3>
+<div class="outline-text-3" id="text-orged6b53e">
+<p>
+sine affectione, sine pace, criminatores, incontinentes, immites, sine benignitate,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05f323c" class="outline-3">
+<h3 id="org05f323c">II Timothy 3:4</h3>
+<div class="outline-text-3" id="text-org05f323c">
+<p>
+proditores, protervi, tumidi, et voluptatum amatores magis quam Dei :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf56a9bd" class="outline-3">
+<h3 id="orgf56a9bd">II Timothy 3:5</h3>
+<div class="outline-text-3" id="text-orgf56a9bd">
+<p>
+habentes speciem quidem pietatis, virtutem autem ejus abnegantes. Et hos devita :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1bcf3fb" class="outline-3">
+<h3 id="org1bcf3fb">II Timothy 3:6</h3>
+<div class="outline-text-3" id="text-org1bcf3fb">
+<p>
+ex his enim sunt qui penetrant domos, et captivas ducunt mulierculas oneratas peccatis, quæ ducuntur variis desideriis :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8432f18" class="outline-3">
+<h3 id="org8432f18">II Timothy 3:7</h3>
+<div class="outline-text-3" id="text-org8432f18">
+<p>
+semper discentes, et numquam ad scientiam veritatis pervenientes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05d3653" class="outline-3">
+<h3 id="org05d3653">II Timothy 3:8</h3>
+<div class="outline-text-3" id="text-org05d3653">
+<p>
+Quemadmodum autem Jannes et Mambres restiterunt Moysi : ita et hi resistunt veritati, homines corrupti mente, reprobi circa fidem ;
+</p>
+</div>
+</div>
+
+<div id="outline-container-org817cda6" class="outline-3">
+<h3 id="org817cda6">II Timothy 3:9</h3>
+<div class="outline-text-3" id="text-org817cda6">
+<p>
+sed ultra non proficient : insipientia enim eorum manifesta erit omnibus, sicut et illorum fuit.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org13b5f6f" class="outline-3">
+<h3 id="org13b5f6f">II Timothy 3:10</h3>
+<div class="outline-text-3" id="text-org13b5f6f">
+<p>
+Tu autem assecutus es meam doctrinam, institutionem, propositum, fidem, longanimitatem, dilectionem, patientiam,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2df9793" class="outline-3">
+<h3 id="org2df9793">II Timothy 3:11</h3>
+<div class="outline-text-3" id="text-org2df9793">
+<p>
+persecutiones, passiones : qualia mihi facta sunt Antiochiæ, Iconii, et Lystris : quales persecutiones sustinui, et ex omnibus eripuit me Dominus.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5468c34" class="outline-3">
+<h3 id="org5468c34">II Timothy 3:12</h3>
+<div class="outline-text-3" id="text-org5468c34">
+<p>
+Et omnes, qui pie volunt vivere in Christo Jesu, persecutionem patientur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0201d82" class="outline-3">
+<h3 id="org0201d82">II Timothy 3:13</h3>
+<div class="outline-text-3" id="text-org0201d82">
+<p>
+Mali autem homines et seductores proficient in pejus, errantes, et in errorem mittentes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge73e542" class="outline-3">
+<h3 id="orge73e542">II Timothy 3:14</h3>
+<div class="outline-text-3" id="text-orge73e542">
+<p>
+Tu vero permane in iis quæ didicisti, et credita sunt tibi : sciens a quo didiceris :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org572c836" class="outline-3">
+<h3 id="org572c836">II Timothy 3:15</h3>
+<div class="outline-text-3" id="text-org572c836">
+<p>
+et quia ab infantia sacras litteras nosti, quæ te possunt instruere ad salutem, per fidem quæ est in Christo Jesu.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf3badf8" class="outline-3">
+<h3 id="orgf3badf8">II Timothy 3:16</h3>
+<div class="outline-text-3" id="text-orgf3badf8">
+<p>
+Omnis Scriptura divinitus inspirata utilis est ad docendum, ad arguendum, ad corripiendum, et erudiendum in justitia :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb46d998" class="outline-3">
+<h3 id="orgb46d998">II Timothy 3:17</h3>
+<div class="outline-text-3" id="text-orgb46d998">
+<p>
+ut perfectus sit homo Dei, ad omne opus bonum instructus.   
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga7e55d6" class="outline-2">
+<h2 id="orga7e55d6">II Timothy 4</h2>
+<div class="outline-text-2" id="text-orga7e55d6">
+</div>
+<div id="outline-container-orgd3d5ad9" class="outline-3">
+<h3 id="orgd3d5ad9">II Timothy 4:1</h3>
+<div class="outline-text-3" id="text-orgd3d5ad9">
+<p>
+Testificor coram Deo, et Jesu Christo, qui judicaturus est vivos et mortuos, per adventum ipsius, et regnum ejus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org208a1dd" class="outline-3">
+<h3 id="org208a1dd">II Timothy 4:2</h3>
+<div class="outline-text-3" id="text-org208a1dd">
+<p>
+prædica verbum, insta opportune, importune : argue, obsecra, increpa in omni patientia, et doctrina.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1fba192" class="outline-3">
+<h3 id="org1fba192">II Timothy 4:3</h3>
+<div class="outline-text-3" id="text-org1fba192">
+<p>
+Erit enim tempus, cum sanam doctrinam non sustinebunt, sed ad sua desideria coacervabunt sibi magistros, prurientes auribus,
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0dc855c" class="outline-3">
+<h3 id="org0dc855c">II Timothy 4:4</h3>
+<div class="outline-text-3" id="text-org0dc855c">
+<p>
+et a veritate quidem auditum avertent, ad fabulas autem convertentur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf44d07e" class="outline-3">
+<h3 id="orgf44d07e">II Timothy 4:5</h3>
+<div class="outline-text-3" id="text-orgf44d07e">
+<p>
+Tu vero vigila, in omnibus labora, opus fac evangelistæ, ministerium tuum imple. Sobrius esto.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5d0846f" class="outline-3">
+<h3 id="org5d0846f">II Timothy 4:6</h3>
+<div class="outline-text-3" id="text-org5d0846f">
+<p>
+Ego enim jam delibor, et tempus resolutionis meæ instat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org90251d6" class="outline-3">
+<h3 id="org90251d6">II Timothy 4:7</h3>
+<div class="outline-text-3" id="text-org90251d6">
+<p>
+Bonum certamen certavi, cursum consummavi, fidem servavi.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7b8091b" class="outline-3">
+<h3 id="org7b8091b">II Timothy 4:8</h3>
+<div class="outline-text-3" id="text-org7b8091b">
+<p>
+In reliquo reposita est mihi corona justitiæ, quam reddet mihi Dominus in illa die, justus judex : non solum autem mihi, sed et iis, qui diligunt adventum ejus.   Festina ad me venire cito.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org59d1817" class="outline-3">
+<h3 id="org59d1817">II Timothy 4:9</h3>
+<div class="outline-text-3" id="text-org59d1817">
+<p>
+Demas enim me reliquit, diligens hoc sæculum, et abiit Thessalonicam :
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4139387" class="outline-3">
+<h3 id="org4139387">II Timothy 4:10</h3>
+<div class="outline-text-3" id="text-org4139387">
+<p>
+Crescens in Galatiam, Titus in Dalmatiam.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc550650" class="outline-3">
+<h3 id="orgc550650">II Timothy 4:11</h3>
+<div class="outline-text-3" id="text-orgc550650">
+<p>
+Lucas est mecum solus. Marcum assume, et adduc tecum : est enim mihi utilis in ministerium.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd836e00" class="outline-3">
+<h3 id="orgd836e00">II Timothy 4:12</h3>
+<div class="outline-text-3" id="text-orgd836e00">
+<p>
+Tychicum autem misi Ephesum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org40860df" class="outline-3">
+<h3 id="org40860df">II Timothy 4:13</h3>
+<div class="outline-text-3" id="text-org40860df">
+<p>
+Penulam, quam reliqui Troade apud Carpum, veniens affer tecum, et libros, maxime autem membranas.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org891ba76" class="outline-3">
+<h3 id="org891ba76">II Timothy 4:14</h3>
+<div class="outline-text-3" id="text-org891ba76">
+<p>
+Alexander ærarius multa mala mihi ostendit : reddet illi Dominus secundum opera ejus :
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbce20f3" class="outline-3">
+<h3 id="orgbce20f3">II Timothy 4:15</h3>
+<div class="outline-text-3" id="text-orgbce20f3">
+<p>
+quem et tu devita : valde enim restitit verbis nostris.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org44b6c58" class="outline-3">
+<h3 id="org44b6c58">II Timothy 4:16</h3>
+<div class="outline-text-3" id="text-org44b6c58">
+<p>
+In prima mea defensione nemo mihi affuit, sed omnes me dereliquerunt : non illis imputetur.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfe3c8b" class="outline-3">
+<h3 id="orgbfe3c8b">II Timothy 4:17</h3>
+<div class="outline-text-3" id="text-orgbfe3c8b">
+<p>
+Dominus autem mihi astitit, et confortavit me, ut per me prædicatio impleatur, et audiant omnes gentes : et liberatus sum de ore leonis.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfaf7a93" class="outline-3">
+<h3 id="orgfaf7a93">II Timothy 4:18</h3>
+<div class="outline-text-3" id="text-orgfaf7a93">
+<p>
+Liberavit me Dominus ab omni opere malo : et salvum faciet in regnum suum cæleste, cui gloria in sæcula sæculorum. Amen.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf1f3c19" class="outline-3">
+<h3 id="orgf1f3c19">II Timothy 4:19</h3>
+<div class="outline-text-3" id="text-orgf1f3c19">
+<p>
+Saluta Priscam, et Aquilam, et Onesiphori domum.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7640240" class="outline-3">
+<h3 id="org7640240">II Timothy 4:20</h3>
+<div class="outline-text-3" id="text-org7640240">
+<p>
+Erastus remansit Corinthi. Trophimum autem reliqui infirmum Mileti.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9cd42c8" class="outline-3">
+<h3 id="org9cd42c8">II Timothy 4:21</h3>
+<div class="outline-text-3" id="text-org9cd42c8">
+<p>
+Festina ante hiemem venire. Salutant te Eubulus, et Pudens, et Linus, et Claudia, et fratres omnes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfb1f009" class="outline-3">
+<h3 id="orgfb1f009">II Timothy 4:22</h3>
+<div class="outline-text-3" id="text-orgfb1f009">
+<p>
+Dominus Jesus Christus cum spiritu tuo. Gratia vobiscum. Amen.    
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2021-01-24 Sun 11:14</p>
+</div>
+</body>
+</html>

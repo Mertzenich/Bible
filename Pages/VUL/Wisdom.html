@@ -1,0 +1,4800 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2021-01-24 Sun 11:15 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>[<a href="../index.html">Index</a>] Book: Wisdom</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">[<a href="../index.html">Index</a>] Book: Wisdom</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org078f6a2">Wisdom 1</a>
+<ul>
+<li><a href="#orgb09bcea">Wisdom 1:1</a></li>
+<li><a href="#orga821ef9">Wisdom 1:2</a></li>
+<li><a href="#orge1f3a02">Wisdom 1:3</a></li>
+<li><a href="#orge1cdc5c">Wisdom 1:4</a></li>
+<li><a href="#orgdd0b98f">Wisdom 1:5</a></li>
+<li><a href="#org2d5fcfa">Wisdom 1:6</a></li>
+<li><a href="#org1df3be9">Wisdom 1:7</a></li>
+<li><a href="#orge311992">Wisdom 1:8</a></li>
+<li><a href="#org262570f">Wisdom 1:9</a></li>
+<li><a href="#org9ff1be4">Wisdom 1:10</a></li>
+<li><a href="#org7a51771">Wisdom 1:11</a></li>
+<li><a href="#orge951445">Wisdom 1:12</a></li>
+<li><a href="#orgf7ec662">Wisdom 1:13</a></li>
+<li><a href="#org76d182f">Wisdom 1:14</a></li>
+<li><a href="#orgbfd2168">Wisdom 1:15</a></li>
+<li><a href="#orga8771d5">Wisdom 1:16</a></li>
+</ul>
+</li>
+<li><a href="#org2ef6b81">Wisdom 2</a>
+<ul>
+<li><a href="#org74e52c1">Wisdom 2:1</a></li>
+<li><a href="#orga9d7279">Wisdom 2:2</a></li>
+<li><a href="#orgdc23827">Wisdom 2:3</a></li>
+<li><a href="#org089c713">Wisdom 2:4</a></li>
+<li><a href="#orgcac985e">Wisdom 2:5</a></li>
+<li><a href="#org3c6d3d8">Wisdom 2:6</a></li>
+<li><a href="#org2db8bf9">Wisdom 2:7</a></li>
+<li><a href="#org86e7896">Wisdom 2:8</a></li>
+<li><a href="#org88cd2d9">Wisdom 2:9</a></li>
+<li><a href="#orga5c10f6">Wisdom 2:10</a></li>
+<li><a href="#org414ee73">Wisdom 2:11</a></li>
+<li><a href="#org320e87c">Wisdom 2:12</a></li>
+<li><a href="#orgc90202a">Wisdom 2:13</a></li>
+<li><a href="#orgd42b0c6">Wisdom 2:14</a></li>
+<li><a href="#org4b3158e">Wisdom 2:15</a></li>
+<li><a href="#org02cd8db">Wisdom 2:16</a></li>
+<li><a href="#orgefc7d19">Wisdom 2:17</a></li>
+<li><a href="#org466d753">Wisdom 2:18</a></li>
+<li><a href="#org8ee95e8">Wisdom 2:19</a></li>
+<li><a href="#orgffc0ae8">Wisdom 2:20</a></li>
+<li><a href="#org26c0245">Wisdom 2:21</a></li>
+<li><a href="#org786eb74">Wisdom 2:22</a></li>
+<li><a href="#org4cab330">Wisdom 2:23</a></li>
+<li><a href="#org84c002a">Wisdom 2:24</a></li>
+<li><a href="#orgb245d89">Wisdom 2:25</a></li>
+</ul>
+</li>
+<li><a href="#org5969283">Wisdom 3</a>
+<ul>
+<li><a href="#org6936b34">Wisdom 3:1</a></li>
+<li><a href="#org2619853">Wisdom 3:2</a></li>
+<li><a href="#org8ab1b40">Wisdom 3:3</a></li>
+<li><a href="#org51c5c73">Wisdom 3:4</a></li>
+<li><a href="#org91d4576">Wisdom 3:5</a></li>
+<li><a href="#org10fc4f6">Wisdom 3:6</a></li>
+<li><a href="#orgad8174f">Wisdom 3:7</a></li>
+<li><a href="#org0c7e1c0">Wisdom 3:8</a></li>
+<li><a href="#orgfcffbdd">Wisdom 3:9</a></li>
+<li><a href="#orgba3dcc0">Wisdom 3:10</a></li>
+<li><a href="#org5468458">Wisdom 3:11</a></li>
+<li><a href="#org9d428a6">Wisdom 3:12</a></li>
+<li><a href="#orga8872b2">Wisdom 3:13</a></li>
+<li><a href="#orgc4b3fc2">Wisdom 3:14</a></li>
+<li><a href="#orge883bc8">Wisdom 3:15</a></li>
+<li><a href="#org14ec8d4">Wisdom 3:16</a></li>
+<li><a href="#orge73afbb">Wisdom 3:17</a></li>
+<li><a href="#orgd2602bb">Wisdom 3:18</a></li>
+<li><a href="#org1cfb8b6">Wisdom 3:19</a></li>
+</ul>
+</li>
+<li><a href="#org7819882">Wisdom 4</a>
+<ul>
+<li><a href="#org35ba284">Wisdom 4:1</a></li>
+<li><a href="#orgaa67a89">Wisdom 4:2</a></li>
+<li><a href="#org172539d">Wisdom 4:3</a></li>
+<li><a href="#org345c1ff">Wisdom 4:4</a></li>
+<li><a href="#org7bdb5d0">Wisdom 4:5</a></li>
+<li><a href="#org695a75b">Wisdom 4:6</a></li>
+<li><a href="#orgb8aeccd">Wisdom 4:7</a></li>
+<li><a href="#org2de0c37">Wisdom 4:8</a></li>
+<li><a href="#orgfea91d2">Wisdom 4:9</a></li>
+<li><a href="#orgd9e6dab">Wisdom 4:10</a></li>
+<li><a href="#orgcb9302d">Wisdom 4:11</a></li>
+<li><a href="#org6d94c35">Wisdom 4:12</a></li>
+<li><a href="#org7673457">Wisdom 4:13</a></li>
+<li><a href="#org02dfcc3">Wisdom 4:14</a></li>
+<li><a href="#orgfab27b1">Wisdom 4:15</a></li>
+<li><a href="#orgcb14012">Wisdom 4:16</a></li>
+<li><a href="#orge54a635">Wisdom 4:17</a></li>
+<li><a href="#org36a3590">Wisdom 4:18</a></li>
+<li><a href="#org8613dc5">Wisdom 4:19</a></li>
+<li><a href="#org2d6ae17">Wisdom 4:20</a></li>
+</ul>
+</li>
+<li><a href="#org10dfd9a">Wisdom 5</a>
+<ul>
+<li><a href="#org813f625">Wisdom 5:1</a></li>
+<li><a href="#orge29c80b">Wisdom 5:2</a></li>
+<li><a href="#orga34b1ab">Wisdom 5:3</a></li>
+<li><a href="#org1e1a742">Wisdom 5:4</a></li>
+<li><a href="#org2c78035">Wisdom 5:5</a></li>
+<li><a href="#org27a00d3">Wisdom 5:6</a></li>
+<li><a href="#orgfcc7ca2">Wisdom 5:7</a></li>
+<li><a href="#org8ac1ada">Wisdom 5:8</a></li>
+<li><a href="#org97b010a">Wisdom 5:9</a></li>
+<li><a href="#org0841d60">Wisdom 5:10</a></li>
+<li><a href="#org608a78d">Wisdom 5:11</a></li>
+<li><a href="#orgd324e95">Wisdom 5:12</a></li>
+<li><a href="#org4f77a82">Wisdom 5:13</a></li>
+<li><a href="#org9820854">Wisdom 5:14</a></li>
+<li><a href="#org5a0deb7">Wisdom 5:15</a></li>
+<li><a href="#org7ef15fb">Wisdom 5:16</a></li>
+<li><a href="#org9066b07">Wisdom 5:17</a></li>
+<li><a href="#orgc419e98">Wisdom 5:18</a></li>
+<li><a href="#orgb2f143e">Wisdom 5:19</a></li>
+<li><a href="#org9ef58b5">Wisdom 5:20</a></li>
+<li><a href="#org10ab571">Wisdom 5:21</a></li>
+<li><a href="#orgb5b5b9e">Wisdom 5:22</a></li>
+<li><a href="#orgf6eb74a">Wisdom 5:23</a></li>
+<li><a href="#orgba4382c">Wisdom 5:24</a></li>
+</ul>
+</li>
+<li><a href="#org6abe008">Wisdom 6</a>
+<ul>
+<li><a href="#org58c9948">Wisdom 6:1</a></li>
+<li><a href="#orge50a7b8">Wisdom 6:2</a></li>
+<li><a href="#org69e9c10">Wisdom 6:3</a></li>
+<li><a href="#orgd4660ae">Wisdom 6:4</a></li>
+<li><a href="#org848ffc7">Wisdom 6:5</a></li>
+<li><a href="#org578e468">Wisdom 6:6</a></li>
+<li><a href="#org615c299">Wisdom 6:7</a></li>
+<li><a href="#org98c1bac">Wisdom 6:8</a></li>
+<li><a href="#org100f6aa">Wisdom 6:9</a></li>
+<li><a href="#org610dbdb">Wisdom 6:10</a></li>
+<li><a href="#orgaa58516">Wisdom 6:11</a></li>
+<li><a href="#org19129c2">Wisdom 6:12</a></li>
+<li><a href="#org721c252">Wisdom 6:13</a></li>
+<li><a href="#orgc9c176e">Wisdom 6:14</a></li>
+<li><a href="#org98bb6cd">Wisdom 6:15</a></li>
+<li><a href="#orgebd0ed8">Wisdom 6:16</a></li>
+<li><a href="#org88ca291">Wisdom 6:17</a></li>
+<li><a href="#orgc719720">Wisdom 6:18</a></li>
+<li><a href="#org6ead05a">Wisdom 6:19</a></li>
+<li><a href="#orgd5ba284">Wisdom 6:20</a></li>
+<li><a href="#org09412b1">Wisdom 6:21</a></li>
+<li><a href="#org00d100f">Wisdom 6:22</a></li>
+<li><a href="#orgeb99c30">Wisdom 6:23</a></li>
+<li><a href="#org9aa0249">Wisdom 6:24</a></li>
+<li><a href="#orge3a52e9">Wisdom 6:25</a></li>
+<li><a href="#org0cf5090">Wisdom 6:26</a></li>
+<li><a href="#orgc41046d">Wisdom 6:27</a></li>
+</ul>
+</li>
+<li><a href="#orgafb1e70">Wisdom 7</a>
+<ul>
+<li><a href="#org64f125e">Wisdom 7:1</a></li>
+<li><a href="#org668d094">Wisdom 7:2</a></li>
+<li><a href="#org89ad0bf">Wisdom 7:3</a></li>
+<li><a href="#orgbc4b26e">Wisdom 7:4</a></li>
+<li><a href="#org8c11125">Wisdom 7:5</a></li>
+<li><a href="#orgde51288">Wisdom 7:6</a></li>
+<li><a href="#org86b2780">Wisdom 7:7</a></li>
+<li><a href="#orgd5d3913">Wisdom 7:8</a></li>
+<li><a href="#org190edb9">Wisdom 7:9</a></li>
+<li><a href="#org685db4a">Wisdom 7:10</a></li>
+<li><a href="#org7cb35fe">Wisdom 7:11</a></li>
+<li><a href="#org6c7c867">Wisdom 7:12</a></li>
+<li><a href="#org65f0732">Wisdom 7:13</a></li>
+<li><a href="#org1490aea">Wisdom 7:14</a></li>
+<li><a href="#orgde04687">Wisdom 7:15</a></li>
+<li><a href="#org6eef2b9">Wisdom 7:16</a></li>
+<li><a href="#orgb584dcb">Wisdom 7:17</a></li>
+<li><a href="#org363d425">Wisdom 7:18</a></li>
+<li><a href="#org4225b29">Wisdom 7:19</a></li>
+<li><a href="#org24284b9">Wisdom 7:20</a></li>
+<li><a href="#org848a719">Wisdom 7:21</a></li>
+<li><a href="#org08b1939">Wisdom 7:22</a></li>
+<li><a href="#orgbf14b1d">Wisdom 7:23</a></li>
+<li><a href="#org98bbb97">Wisdom 7:24</a></li>
+<li><a href="#org90a1dc9">Wisdom 7:25</a></li>
+<li><a href="#org7687a54">Wisdom 7:26</a></li>
+<li><a href="#orgd2a0efa">Wisdom 7:27</a></li>
+<li><a href="#org69194dd">Wisdom 7:28</a></li>
+<li><a href="#org42e6d98">Wisdom 7:29</a></li>
+<li><a href="#org4a9180e">Wisdom 7:30</a></li>
+</ul>
+</li>
+<li><a href="#orgedfc220">Wisdom 8</a>
+<ul>
+<li><a href="#org9fecee0">Wisdom 8:1</a></li>
+<li><a href="#org127adf0">Wisdom 8:2</a></li>
+<li><a href="#org4c5e108">Wisdom 8:3</a></li>
+<li><a href="#org0af68c9">Wisdom 8:4</a></li>
+<li><a href="#org2a1f9e2">Wisdom 8:5</a></li>
+<li><a href="#orgf2309f3">Wisdom 8:6</a></li>
+<li><a href="#orgacd3fef">Wisdom 8:7</a></li>
+<li><a href="#org692ccca">Wisdom 8:8</a></li>
+<li><a href="#orga32b5e4">Wisdom 8:9</a></li>
+<li><a href="#org05feb8a">Wisdom 8:10</a></li>
+<li><a href="#org3489512">Wisdom 8:11</a></li>
+<li><a href="#orgfa5f0de">Wisdom 8:12</a></li>
+<li><a href="#org0e8c139">Wisdom 8:13</a></li>
+<li><a href="#org7fcb512">Wisdom 8:14</a></li>
+<li><a href="#orgad88b04">Wisdom 8:15</a></li>
+<li><a href="#orgd24415d">Wisdom 8:16</a></li>
+<li><a href="#org661c5bd">Wisdom 8:17</a></li>
+<li><a href="#org84cd6a0">Wisdom 8:18</a></li>
+<li><a href="#orgf175506">Wisdom 8:19</a></li>
+<li><a href="#orgd6301ec">Wisdom 8:20</a></li>
+<li><a href="#org2c20348">Wisdom 8:21</a></li>
+</ul>
+</li>
+<li><a href="#org5bedee2">Wisdom 9</a>
+<ul>
+<li><a href="#orgea85517">Wisdom 9:1</a></li>
+<li><a href="#org46366eb">Wisdom 9:2</a></li>
+<li><a href="#orgaa4c0bf">Wisdom 9:3</a></li>
+<li><a href="#org8646217">Wisdom 9:4</a></li>
+<li><a href="#orgb7a7cf3">Wisdom 9:5</a></li>
+<li><a href="#orgc9efe67">Wisdom 9:6</a></li>
+<li><a href="#org1952bf3">Wisdom 9:7</a></li>
+<li><a href="#orgef2d58f">Wisdom 9:8</a></li>
+<li><a href="#orgdd8b3fe">Wisdom 9:9</a></li>
+<li><a href="#org58453b9">Wisdom 9:10</a></li>
+<li><a href="#org71df0a5">Wisdom 9:11</a></li>
+<li><a href="#org5c808c9">Wisdom 9:12</a></li>
+<li><a href="#orgc701771">Wisdom 9:13</a></li>
+<li><a href="#org492a19c">Wisdom 9:14</a></li>
+<li><a href="#orga21049c">Wisdom 9:15</a></li>
+<li><a href="#org0210dd8">Wisdom 9:16</a></li>
+<li><a href="#org3bca08f">Wisdom 9:17</a></li>
+<li><a href="#org125110a">Wisdom 9:18</a></li>
+<li><a href="#org97568b5">Wisdom 9:19</a></li>
+</ul>
+</li>
+<li><a href="#orgd8ce54c">Wisdom 10</a>
+<ul>
+<li><a href="#org83e2cfb">Wisdom 10:1</a></li>
+<li><a href="#orga6b817d">Wisdom 10:2</a></li>
+<li><a href="#org765d6a7">Wisdom 10:3</a></li>
+<li><a href="#orgc90929e">Wisdom 10:4</a></li>
+<li><a href="#org0a9673e">Wisdom 10:5</a></li>
+<li><a href="#orgdd1565d">Wisdom 10:6</a></li>
+<li><a href="#orgb756dc4">Wisdom 10:7</a></li>
+<li><a href="#orgf993756">Wisdom 10:8</a></li>
+<li><a href="#orgf443cb7">Wisdom 10:9</a></li>
+<li><a href="#orgdb310a2">Wisdom 10:10</a></li>
+<li><a href="#org79ef43e">Wisdom 10:11</a></li>
+<li><a href="#org06619da">Wisdom 10:12</a></li>
+<li><a href="#org35bc3e8">Wisdom 10:13</a></li>
+<li><a href="#org0182c9f">Wisdom 10:14</a></li>
+<li><a href="#orga48c846">Wisdom 10:15</a></li>
+<li><a href="#orgaf3e905">Wisdom 10:16</a></li>
+<li><a href="#orgce5746c">Wisdom 10:17</a></li>
+<li><a href="#org4916868">Wisdom 10:18</a></li>
+<li><a href="#org0d00fc4">Wisdom 10:19</a></li>
+<li><a href="#orgc20f4de">Wisdom 10:20</a></li>
+<li><a href="#org35bf39e">Wisdom 10:21</a></li>
+</ul>
+</li>
+<li><a href="#orgd2cd919">Wisdom 11</a>
+<ul>
+<li><a href="#orgd1e50d5">Wisdom 11:1</a></li>
+<li><a href="#org883b721">Wisdom 11:2</a></li>
+<li><a href="#org6402a36">Wisdom 11:3</a></li>
+<li><a href="#org5e58414">Wisdom 11:4</a></li>
+<li><a href="#org7c4577e">Wisdom 11:5</a></li>
+<li><a href="#org29192c7">Wisdom 11:6</a></li>
+<li><a href="#orgc8263d7">Wisdom 11:7</a></li>
+<li><a href="#orgfc697f5">Wisdom 11:8</a></li>
+<li><a href="#org2171bfa">Wisdom 11:9</a></li>
+<li><a href="#org1611be7">Wisdom 11:10</a></li>
+<li><a href="#orga11a5b9">Wisdom 11:11</a></li>
+<li><a href="#org4aa152e">Wisdom 11:12</a></li>
+<li><a href="#orgf910c65">Wisdom 11:13</a></li>
+<li><a href="#orga3bbd72">Wisdom 11:14</a></li>
+<li><a href="#orga3d2b90">Wisdom 11:15</a></li>
+<li><a href="#orgc5b3b14">Wisdom 11:16</a></li>
+<li><a href="#orgc4bd352">Wisdom 11:17</a></li>
+<li><a href="#orgf4599ac">Wisdom 11:18</a></li>
+<li><a href="#org76fb3f3">Wisdom 11:19</a></li>
+<li><a href="#orgc7d1ff0">Wisdom 11:20</a></li>
+<li><a href="#org1ebeaf7">Wisdom 11:21</a></li>
+<li><a href="#orga1f54e6">Wisdom 11:22</a></li>
+<li><a href="#orgbfa0b33">Wisdom 11:23</a></li>
+<li><a href="#org4b3d3b3">Wisdom 11:24</a></li>
+<li><a href="#org9661805">Wisdom 11:25</a></li>
+<li><a href="#org833cae4">Wisdom 11:26</a></li>
+<li><a href="#org120860d">Wisdom 11:27</a></li>
+</ul>
+</li>
+<li><a href="#org178545e">Wisdom 12</a>
+<ul>
+<li><a href="#orgd24d463">Wisdom 12:1</a></li>
+<li><a href="#orgd59073b">Wisdom 12:2</a></li>
+<li><a href="#orga7a50b6">Wisdom 12:3</a></li>
+<li><a href="#org4557794">Wisdom 12:4</a></li>
+<li><a href="#orgd78c06f">Wisdom 12:5</a></li>
+<li><a href="#org8488457">Wisdom 12:6</a></li>
+<li><a href="#orge7d05d9">Wisdom 12:7</a></li>
+<li><a href="#orgad2b0f4">Wisdom 12:8</a></li>
+<li><a href="#orge733770">Wisdom 12:9</a></li>
+<li><a href="#org12817a6">Wisdom 12:10</a></li>
+<li><a href="#orge028a95">Wisdom 12:11</a></li>
+<li><a href="#org7560a1c">Wisdom 12:12</a></li>
+<li><a href="#org918b424">Wisdom 12:13</a></li>
+<li><a href="#orga79f41c">Wisdom 12:14</a></li>
+<li><a href="#org737e1b2">Wisdom 12:15</a></li>
+<li><a href="#orgda8b4ac">Wisdom 12:16</a></li>
+<li><a href="#orga1bfb54">Wisdom 12:17</a></li>
+<li><a href="#org740344b">Wisdom 12:18</a></li>
+<li><a href="#org011a44e">Wisdom 12:19</a></li>
+<li><a href="#org2a47962">Wisdom 12:20</a></li>
+<li><a href="#org0af7ef1">Wisdom 12:21</a></li>
+<li><a href="#orgd4f954e">Wisdom 12:22</a></li>
+<li><a href="#org54fdd9b">Wisdom 12:23</a></li>
+<li><a href="#org5c70930">Wisdom 12:24</a></li>
+<li><a href="#orgcf5c970">Wisdom 12:25</a></li>
+<li><a href="#org33b844c">Wisdom 12:26</a></li>
+<li><a href="#orgb8b929d">Wisdom 12:27</a></li>
+</ul>
+</li>
+<li><a href="#org496fb98">Wisdom 13</a>
+<ul>
+<li><a href="#orgdb3d191">Wisdom 13:1</a></li>
+<li><a href="#orgc961fbb">Wisdom 13:2</a></li>
+<li><a href="#orgf5e2502">Wisdom 13:3</a></li>
+<li><a href="#org0914377">Wisdom 13:4</a></li>
+<li><a href="#orgb8e5f6f">Wisdom 13:5</a></li>
+<li><a href="#org54e8258">Wisdom 13:6</a></li>
+<li><a href="#org16c4875">Wisdom 13:7</a></li>
+<li><a href="#orgd87f2a1">Wisdom 13:8</a></li>
+<li><a href="#org64d8c58">Wisdom 13:9</a></li>
+<li><a href="#orge72ee84">Wisdom 13:10</a></li>
+<li><a href="#orgbc54d4a">Wisdom 13:11</a></li>
+<li><a href="#orgb8ade1f">Wisdom 13:12</a></li>
+<li><a href="#org184493b">Wisdom 13:13</a></li>
+<li><a href="#org41be9a8">Wisdom 13:14</a></li>
+<li><a href="#orgbab4d62">Wisdom 13:15</a></li>
+<li><a href="#orge9bc60a">Wisdom 13:16</a></li>
+<li><a href="#org1714677">Wisdom 13:17</a></li>
+<li><a href="#org49b8751">Wisdom 13:18</a></li>
+<li><a href="#org70488cd">Wisdom 13:19</a></li>
+</ul>
+</li>
+<li><a href="#org28db5be">Wisdom 14</a>
+<ul>
+<li><a href="#org99410a0">Wisdom 14:1</a></li>
+<li><a href="#orge0a8b21">Wisdom 14:2</a></li>
+<li><a href="#orgcaf861b">Wisdom 14:3</a></li>
+<li><a href="#orgb46fe6f">Wisdom 14:4</a></li>
+<li><a href="#org649892a">Wisdom 14:5</a></li>
+<li><a href="#org5537e65">Wisdom 14:6</a></li>
+<li><a href="#org3ea9643">Wisdom 14:7</a></li>
+<li><a href="#orgee0699a">Wisdom 14:8</a></li>
+<li><a href="#org8c612b5">Wisdom 14:9</a></li>
+<li><a href="#orgbff96dc">Wisdom 14:10</a></li>
+<li><a href="#orgd35e8ab">Wisdom 14:11</a></li>
+<li><a href="#orgda0cac3">Wisdom 14:12</a></li>
+<li><a href="#orgea8650b">Wisdom 14:13</a></li>
+<li><a href="#org5880144">Wisdom 14:14</a></li>
+<li><a href="#org7660fce">Wisdom 14:15</a></li>
+<li><a href="#org714cb5e">Wisdom 14:16</a></li>
+<li><a href="#org569286d">Wisdom 14:17</a></li>
+<li><a href="#orgd23d708">Wisdom 14:18</a></li>
+<li><a href="#org1e79f77">Wisdom 14:19</a></li>
+<li><a href="#orge48a87b">Wisdom 14:20</a></li>
+<li><a href="#org790c050">Wisdom 14:21</a></li>
+<li><a href="#org2b75038">Wisdom 14:22</a></li>
+<li><a href="#org2e48bd9">Wisdom 14:23</a></li>
+<li><a href="#orga40a4a1">Wisdom 14:24</a></li>
+<li><a href="#org8a96c34">Wisdom 14:25</a></li>
+<li><a href="#orgc93fc33">Wisdom 14:26</a></li>
+<li><a href="#org2678f11">Wisdom 14:27</a></li>
+<li><a href="#org50e7593">Wisdom 14:28</a></li>
+<li><a href="#org6e5ba8e">Wisdom 14:29</a></li>
+<li><a href="#orgcda30dd">Wisdom 14:30</a></li>
+<li><a href="#orge6022f0">Wisdom 14:31</a></li>
+</ul>
+</li>
+<li><a href="#org2e27416">Wisdom 15</a>
+<ul>
+<li><a href="#org9fa4c78">Wisdom 15:1</a></li>
+<li><a href="#orgb135c56">Wisdom 15:2</a></li>
+<li><a href="#orga98c114">Wisdom 15:3</a></li>
+<li><a href="#org6735b96">Wisdom 15:4</a></li>
+<li><a href="#orgcd1662b">Wisdom 15:5</a></li>
+<li><a href="#orge03d1f0">Wisdom 15:6</a></li>
+<li><a href="#org2f6d1bc">Wisdom 15:7</a></li>
+<li><a href="#org850cb55">Wisdom 15:8</a></li>
+<li><a href="#org2d2e78f">Wisdom 15:9</a></li>
+<li><a href="#orgc5bc37d">Wisdom 15:10</a></li>
+<li><a href="#org42dcf28">Wisdom 15:11</a></li>
+<li><a href="#org489cddc">Wisdom 15:12</a></li>
+<li><a href="#org86da907">Wisdom 15:13</a></li>
+<li><a href="#org83a6052">Wisdom 15:14</a></li>
+<li><a href="#orgf69673f">Wisdom 15:15</a></li>
+<li><a href="#org0b74c06">Wisdom 15:16</a></li>
+<li><a href="#org0433a0c">Wisdom 15:17</a></li>
+<li><a href="#org6a9300c">Wisdom 15:18</a></li>
+<li><a href="#org8f4047d">Wisdom 15:19</a></li>
+</ul>
+</li>
+<li><a href="#orga218ed2">Wisdom 16</a>
+<ul>
+<li><a href="#org066d1d8">Wisdom 16:1</a></li>
+<li><a href="#org3aec6cc">Wisdom 16:2</a></li>
+<li><a href="#org0a6f75a">Wisdom 16:3</a></li>
+<li><a href="#orgeb09424">Wisdom 16:4</a></li>
+<li><a href="#org3d8f88e">Wisdom 16:5</a></li>
+<li><a href="#orga60172e">Wisdom 16:6</a></li>
+<li><a href="#org124a3b4">Wisdom 16:7</a></li>
+<li><a href="#org0b0a839">Wisdom 16:8</a></li>
+<li><a href="#org9f8fcae">Wisdom 16:9</a></li>
+<li><a href="#orgf53d341">Wisdom 16:10</a></li>
+<li><a href="#org73184b8">Wisdom 16:11</a></li>
+<li><a href="#org431620b">Wisdom 16:12</a></li>
+<li><a href="#org904a99e">Wisdom 16:13</a></li>
+<li><a href="#org85729ff">Wisdom 16:14</a></li>
+<li><a href="#orgf177bb1">Wisdom 16:15</a></li>
+<li><a href="#orgf937075">Wisdom 16:16</a></li>
+<li><a href="#orge13c138">Wisdom 16:17</a></li>
+<li><a href="#orgec205b4">Wisdom 16:18</a></li>
+<li><a href="#org4f2aac1">Wisdom 16:19</a></li>
+<li><a href="#org482cf15">Wisdom 16:20</a></li>
+<li><a href="#org6e82471">Wisdom 16:21</a></li>
+<li><a href="#org5ed5e46">Wisdom 16:22</a></li>
+<li><a href="#org45d2995">Wisdom 16:23</a></li>
+<li><a href="#org3ca0d6e">Wisdom 16:24</a></li>
+<li><a href="#org4b48267">Wisdom 16:25</a></li>
+<li><a href="#orgfbd03cb">Wisdom 16:26</a></li>
+<li><a href="#orgdf567eb">Wisdom 16:27</a></li>
+<li><a href="#orgb71d09c">Wisdom 16:28</a></li>
+<li><a href="#org95f4cc1">Wisdom 16:29</a></li>
+</ul>
+</li>
+<li><a href="#orgd6b8ef7">Wisdom 17</a>
+<ul>
+<li><a href="#org9f7513d">Wisdom 17:1</a></li>
+<li><a href="#orgdf587eb">Wisdom 17:2</a></li>
+<li><a href="#org6aa682d">Wisdom 17:3</a></li>
+<li><a href="#orgd71839f">Wisdom 17:4</a></li>
+<li><a href="#orgaa1789a">Wisdom 17:5</a></li>
+<li><a href="#orga610c09">Wisdom 17:6</a></li>
+<li><a href="#orgef50a45">Wisdom 17:7</a></li>
+<li><a href="#orge355164">Wisdom 17:8</a></li>
+<li><a href="#org05f287f">Wisdom 17:9</a></li>
+<li><a href="#orgd37aacb">Wisdom 17:10</a></li>
+<li><a href="#org5b29988">Wisdom 17:11</a></li>
+<li><a href="#orgaa2a853">Wisdom 17:12</a></li>
+<li><a href="#org3f41646">Wisdom 17:13</a></li>
+<li><a href="#org4d13bfc">Wisdom 17:14</a></li>
+<li><a href="#org1df221b">Wisdom 17:15</a></li>
+<li><a href="#org9c9c2d7">Wisdom 17:16</a></li>
+<li><a href="#org0e1a4c5">Wisdom 17:17</a></li>
+<li><a href="#org00a415b">Wisdom 17:18</a></li>
+<li><a href="#org8ecd735">Wisdom 17:19</a></li>
+<li><a href="#org20e765d">Wisdom 17:20</a></li>
+</ul>
+</li>
+<li><a href="#org493a460">Wisdom 18</a>
+<ul>
+<li><a href="#orga376677">Wisdom 18:1</a></li>
+<li><a href="#orgd2dcc0e">Wisdom 18:2</a></li>
+<li><a href="#orgfdce081">Wisdom 18:3</a></li>
+<li><a href="#org386c3cc">Wisdom 18:4</a></li>
+<li><a href="#org75312c7">Wisdom 18:5</a></li>
+<li><a href="#org48ff6db">Wisdom 18:6</a></li>
+<li><a href="#org952376d">Wisdom 18:7</a></li>
+<li><a href="#org90b92e5">Wisdom 18:8</a></li>
+<li><a href="#org1988f17">Wisdom 18:9</a></li>
+<li><a href="#org9b2ac9e">Wisdom 18:10</a></li>
+<li><a href="#org2836df8">Wisdom 18:11</a></li>
+<li><a href="#orgc3d92d2">Wisdom 18:12</a></li>
+<li><a href="#orgd0f4f18">Wisdom 18:13</a></li>
+<li><a href="#orge6c6ba6">Wisdom 18:14</a></li>
+<li><a href="#orgef1ca90">Wisdom 18:15</a></li>
+<li><a href="#org1f513ab">Wisdom 18:16</a></li>
+<li><a href="#org6743d4c">Wisdom 18:17</a></li>
+<li><a href="#org04a347a">Wisdom 18:18</a></li>
+<li><a href="#orgdf0852d">Wisdom 18:19</a></li>
+<li><a href="#org4fdcd86">Wisdom 18:20</a></li>
+<li><a href="#org2d0fb1a">Wisdom 18:21</a></li>
+<li><a href="#org4b808f7">Wisdom 18:22</a></li>
+<li><a href="#orge6ad057">Wisdom 18:23</a></li>
+<li><a href="#orgca5ae02">Wisdom 18:24</a></li>
+<li><a href="#orgeca145f">Wisdom 18:25</a></li>
+</ul>
+</li>
+<li><a href="#org7305743">Wisdom 19</a>
+<ul>
+<li><a href="#org9274724">Wisdom 19:1</a></li>
+<li><a href="#org0c62ef6">Wisdom 19:2</a></li>
+<li><a href="#orgc912d29">Wisdom 19:3</a></li>
+<li><a href="#orgf50afb8">Wisdom 19:4</a></li>
+<li><a href="#org7a72552">Wisdom 19:5</a></li>
+<li><a href="#org5e305b8">Wisdom 19:6</a></li>
+<li><a href="#orgda1c6e5">Wisdom 19:7</a></li>
+<li><a href="#org98b9479">Wisdom 19:8</a></li>
+<li><a href="#org15f7699">Wisdom 19:9</a></li>
+<li><a href="#org5137eb6">Wisdom 19:10</a></li>
+<li><a href="#orgba4d117">Wisdom 19:11</a></li>
+<li><a href="#org904b687">Wisdom 19:12</a></li>
+<li><a href="#org4da724c">Wisdom 19:13</a></li>
+<li><a href="#org05eea61">Wisdom 19:14</a></li>
+<li><a href="#org8ad3279">Wisdom 19:15</a></li>
+<li><a href="#org1a536ea">Wisdom 19:16</a></li>
+<li><a href="#org347d6fc">Wisdom 19:17</a></li>
+<li><a href="#orgbeca368">Wisdom 19:18</a></li>
+<li><a href="#orge1784d0">Wisdom 19:19</a></li>
+<li><a href="#org1bc6f15">Wisdom 19:20</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org078f6a2" class="outline-2">
+<h2 id="org078f6a2">Wisdom 1</h2>
+<div class="outline-text-2" id="text-org078f6a2">
+</div>
+<div id="outline-container-orgb09bcea" class="outline-3">
+<h3 id="orgb09bcea">Wisdom 1:1</h3>
+<div class="outline-text-3" id="text-orgb09bcea">
+<p>
+Diligite justitiam, qui judicatis terram.  Sentite de Domino in bonitate,  et in simplicitate cordis quærite illum : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga821ef9" class="outline-3">
+<h3 id="orga821ef9">Wisdom 1:2</h3>
+<div class="outline-text-3" id="text-orga821ef9">
+<p>
+quoniam invenitur ab his qui non tentant illum,  apparet autem eis qui fidem habent in illum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge1f3a02" class="outline-3">
+<h3 id="orge1f3a02">Wisdom 1:3</h3>
+<div class="outline-text-3" id="text-orge1f3a02">
+<p>
+Perversæ enim cogitationes separant a Deo ;  probata autem virtus corripit insipientes. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge1cdc5c" class="outline-3">
+<h3 id="orge1cdc5c">Wisdom 1:4</h3>
+<div class="outline-text-3" id="text-orge1cdc5c">
+<p>
+Quoniam in malevolam animam non introibit sapientia,  nec habitabit in corpore subdito peccatis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdd0b98f" class="outline-3">
+<h3 id="orgdd0b98f">Wisdom 1:5</h3>
+<div class="outline-text-3" id="text-orgdd0b98f">
+<p>
+Spiritus enim sanctus disciplinæ effugiet fictum,  et auferet se a cogitationibus quæ sunt sine intellectu,  et corripietur a superveniente iniquitate. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2d5fcfa" class="outline-3">
+<h3 id="org2d5fcfa">Wisdom 1:6</h3>
+<div class="outline-text-3" id="text-org2d5fcfa">
+<p>
+Benignus est enim spiritus sapientiæ,  et non liberabit maledicum a labiis suis :  quoniam renum illius testis est Deus,  et cordis illius scrutator est verus,  et linguæ ejus auditor. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1df3be9" class="outline-3">
+<h3 id="org1df3be9">Wisdom 1:7</h3>
+<div class="outline-text-3" id="text-org1df3be9">
+<p>
+Quoniam spiritus Domini replevit orbem terrarum,  et hoc quod continet omnia, scientiam habet vocis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge311992" class="outline-3">
+<h3 id="orge311992">Wisdom 1:8</h3>
+<div class="outline-text-3" id="text-orge311992">
+<p>
+Propter hoc qui loquitur iniqua non potest latere,  nec præteriet illum corripiens judicium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org262570f" class="outline-3">
+<h3 id="org262570f">Wisdom 1:9</h3>
+<div class="outline-text-3" id="text-org262570f">
+<p>
+In cogitationibus enim impii interrogatio erit ;  sermonum autem illius auditio ad Deum veniet,  ad correptionem iniquitatum illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9ff1be4" class="outline-3">
+<h3 id="org9ff1be4">Wisdom 1:10</h3>
+<div class="outline-text-3" id="text-org9ff1be4">
+<p>
+Quoniam auris zeli audit omnia,  et tumultus murmurationum non abscondetur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7a51771" class="outline-3">
+<h3 id="org7a51771">Wisdom 1:11</h3>
+<div class="outline-text-3" id="text-org7a51771">
+<p>
+Custodite ergo vos a murmuratione quæ nihil prodest,  et a detractione parcite linguæ :  quoniam sermo obscurus in vacuum non ibit,  os autem quod mentitur occidit animam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge951445" class="outline-3">
+<h3 id="orge951445">Wisdom 1:12</h3>
+<div class="outline-text-3" id="text-orge951445">
+<p>
+Nolite zelare mortem in errore vitæ vestræ,  neque acquiratis perditionem in operibus manuum vestrarum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf7ec662" class="outline-3">
+<h3 id="orgf7ec662">Wisdom 1:13</h3>
+<div class="outline-text-3" id="text-orgf7ec662">
+<p>
+Quoniam Deus mortem non fecit,  nec lætatur in perditione vivorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org76d182f" class="outline-3">
+<h3 id="org76d182f">Wisdom 1:14</h3>
+<div class="outline-text-3" id="text-org76d182f">
+<p>
+Creavit enim ut essent omnia,  et sanabiles fecit nationes orbis terrarum :  et non est in illis medicamentum exterminii,  nec inferorum regnum in terra. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfd2168" class="outline-3">
+<h3 id="orgbfd2168">Wisdom 1:15</h3>
+<div class="outline-text-3" id="text-orgbfd2168">
+<p>
+Justitia enim perpetua est, et immortalis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga8771d5" class="outline-3">
+<h3 id="orga8771d5">Wisdom 1:16</h3>
+<div class="outline-text-3" id="text-orga8771d5">
+<p>
+Impii autem manibus et verbis accersierunt illam,  et æstimantes illam amicam, defluxerunt ;  et sponsiones posuerunt ad illam,  quoniam digni sunt qui sint ex parte illius.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org2ef6b81" class="outline-2">
+<h2 id="org2ef6b81">Wisdom 2</h2>
+<div class="outline-text-2" id="text-org2ef6b81">
+</div>
+<div id="outline-container-org74e52c1" class="outline-3">
+<h3 id="org74e52c1">Wisdom 2:1</h3>
+<div class="outline-text-3" id="text-org74e52c1">
+<p>
+Dixerunt enim cogitantes apud se non recte :  Exiguum et cum tædio est tempus vitæ nostræ,  et non est refrigerium in fine hominis,  et non est qui agnitus sit reversus ab inferis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga9d7279" class="outline-3">
+<h3 id="orga9d7279">Wisdom 2:2</h3>
+<div class="outline-text-3" id="text-orga9d7279">
+<p>
+Quia ex nihilo nati sumus,  et post hoc erimus tamquam non fuerimus.  Quoniam fumus flatus est in naribus nostris,  et sermo scintilla ad commovendum cor nostrum : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdc23827" class="outline-3">
+<h3 id="orgdc23827">Wisdom 2:3</h3>
+<div class="outline-text-3" id="text-orgdc23827">
+<p>
+qua extincta, cinis erit corpus nostrum,  et spiritus diffundetur tamquam mollis aër ;  et transibit vita nostra tamquam vestigium nubis,  et sicut nebula dissolvetur quæ fugata est a radiis solis,  et a calore illius aggravata. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org089c713" class="outline-3">
+<h3 id="org089c713">Wisdom 2:4</h3>
+<div class="outline-text-3" id="text-org089c713">
+<p>
+Et nomen nostrum oblivionem accipiet per tempus,  et nemo memoriam habebit operum nostrorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcac985e" class="outline-3">
+<h3 id="orgcac985e">Wisdom 2:5</h3>
+<div class="outline-text-3" id="text-orgcac985e">
+<p>
+Umbræ enim transitus est tempus nostrum,  et non est reversio finis nostri :  quoniam consignata est, et nemo revertitur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3c6d3d8" class="outline-3">
+<h3 id="org3c6d3d8">Wisdom 2:6</h3>
+<div class="outline-text-3" id="text-org3c6d3d8">
+<p>
+Venite ergo, et fruamur bonis quæ sunt,  et utamur creatura tamquam in juventute celeriter. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2db8bf9" class="outline-3">
+<h3 id="org2db8bf9">Wisdom 2:7</h3>
+<div class="outline-text-3" id="text-org2db8bf9">
+<p>
+Vino pretioso et unguentis nos impleamus,  et non prætereat nos flos temporis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org86e7896" class="outline-3">
+<h3 id="org86e7896">Wisdom 2:8</h3>
+<div class="outline-text-3" id="text-org86e7896">
+<p>
+Coronemus nos rosis antequam marcescant ;  nullum pratum sit quod non pertranseat luxuria nostra : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org88cd2d9" class="outline-3">
+<h3 id="org88cd2d9">Wisdom 2:9</h3>
+<div class="outline-text-3" id="text-org88cd2d9">
+<p>
+nemo nostrum exsors sit luxuriæ nostræ.  Ubique relinquamus signa lætitiæ,  quoniam hæc est pars nostra, et hæc est sors. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga5c10f6" class="outline-3">
+<h3 id="orga5c10f6">Wisdom 2:10</h3>
+<div class="outline-text-3" id="text-orga5c10f6">
+<p>
+Opprimamus pauperem justum, et non parcamus viduæ,  nec veterani revereamur canos multi temporis : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org414ee73" class="outline-3">
+<h3 id="org414ee73">Wisdom 2:11</h3>
+<div class="outline-text-3" id="text-org414ee73">
+<p>
+sit autem fortitudo nostra lex justitiæ ;  quod enim infirmum est, inutile invenitur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org320e87c" class="outline-3">
+<h3 id="org320e87c">Wisdom 2:12</h3>
+<div class="outline-text-3" id="text-org320e87c">
+<p>
+Circumveniamus ergo justum, quoniam inutilis est nobis,  et contrarius est operibus nostris,  et improperat nobis peccata legis,  et diffamat in nos peccata disciplinæ nostræ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc90202a" class="outline-3">
+<h3 id="orgc90202a">Wisdom 2:13</h3>
+<div class="outline-text-3" id="text-orgc90202a">
+<p>
+Promittit se scientiam Dei habere,  et filium Dei se nominat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd42b0c6" class="outline-3">
+<h3 id="orgd42b0c6">Wisdom 2:14</h3>
+<div class="outline-text-3" id="text-orgd42b0c6">
+<p>
+Factus est nobis in traductionem cogitationum nostrarum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b3158e" class="outline-3">
+<h3 id="org4b3158e">Wisdom 2:15</h3>
+<div class="outline-text-3" id="text-org4b3158e">
+<p>
+Gravis est nobis etiam ad videndum,  quoniam dissimilis est aliis vita illius,  et immutatæ sunt viæ ejus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02cd8db" class="outline-3">
+<h3 id="org02cd8db">Wisdom 2:16</h3>
+<div class="outline-text-3" id="text-org02cd8db">
+<p>
+Tamquam nugaces æstimati sumus ab illo,  et abstinet se a viis nostris tamquam ab immunditiis,  et præfert novissima justorum,  et gloriatur patrem se habere Deum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgefc7d19" class="outline-3">
+<h3 id="orgefc7d19">Wisdom 2:17</h3>
+<div class="outline-text-3" id="text-orgefc7d19">
+<p>
+Videamus ergo si sermones illius veri sint,  et tentemus quæ ventura sunt illi,  et sciemus quæ erunt novissima illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org466d753" class="outline-3">
+<h3 id="org466d753">Wisdom 2:18</h3>
+<div class="outline-text-3" id="text-org466d753">
+<p>
+Si enim est verus filius Dei, suscipiet illum,  et liberabit eum de manibus contrariorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8ee95e8" class="outline-3">
+<h3 id="org8ee95e8">Wisdom 2:19</h3>
+<div class="outline-text-3" id="text-org8ee95e8">
+<p>
+Contumelia et tormento interrogemus eum,  ut sciamus reverentiam ejus,  et probemus patientiam illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgffc0ae8" class="outline-3">
+<h3 id="orgffc0ae8">Wisdom 2:20</h3>
+<div class="outline-text-3" id="text-orgffc0ae8">
+<p>
+Morte turpissima condemnemus eum ;  erit enim ei respectus ex sermonibus illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org26c0245" class="outline-3">
+<h3 id="org26c0245">Wisdom 2:21</h3>
+<div class="outline-text-3" id="text-org26c0245">
+<p>
+Hæc cogitaverunt, et erraverunt :  excæcavit enim illos malitia eorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org786eb74" class="outline-3">
+<h3 id="org786eb74">Wisdom 2:22</h3>
+<div class="outline-text-3" id="text-org786eb74">
+<p>
+Et nescierunt sacramenta Dei :  neque mercedem speraverunt justitiæ,  nec judicaverunt honorem animarum sanctarum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4cab330" class="outline-3">
+<h3 id="org4cab330">Wisdom 2:23</h3>
+<div class="outline-text-3" id="text-org4cab330">
+<p>
+Quoniam Deus creavit hominem inexterminabilem,  et ad imaginem similitudinis suæ fecit illum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org84c002a" class="outline-3">
+<h3 id="org84c002a">Wisdom 2:24</h3>
+<div class="outline-text-3" id="text-org84c002a">
+<p>
+Invidia autem diaboli mors introivit in orbem terrarum : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb245d89" class="outline-3">
+<h3 id="orgb245d89">Wisdom 2:25</h3>
+<div class="outline-text-3" id="text-orgb245d89">
+<p>
+imitantur autem illum qui sunt ex parte illius.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org5969283" class="outline-2">
+<h2 id="org5969283">Wisdom 3</h2>
+<div class="outline-text-2" id="text-org5969283">
+</div>
+<div id="outline-container-org6936b34" class="outline-3">
+<h3 id="org6936b34">Wisdom 3:1</h3>
+<div class="outline-text-3" id="text-org6936b34">
+<p>
+Justorum autem animæ in manu Dei sunt,  et non tanget illos tormentum mortis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2619853" class="outline-3">
+<h3 id="org2619853">Wisdom 3:2</h3>
+<div class="outline-text-3" id="text-org2619853">
+<p>
+Visi sunt oculis insipientium mori,  et æstimata est afflictio exitus illorum, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8ab1b40" class="outline-3">
+<h3 id="org8ab1b40">Wisdom 3:3</h3>
+<div class="outline-text-3" id="text-org8ab1b40">
+<p>
+et quod a nobis est iter exterminium ;  illi autem sunt in pace : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org51c5c73" class="outline-3">
+<h3 id="org51c5c73">Wisdom 3:4</h3>
+<div class="outline-text-3" id="text-org51c5c73">
+<p>
+etsi coram hominibus tormenta passi sunt,  spes illorum immortalitate plena est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org91d4576" class="outline-3">
+<h3 id="org91d4576">Wisdom 3:5</h3>
+<div class="outline-text-3" id="text-org91d4576">
+<p>
+In paucis vexati sunt, in multis bene disponentur,  quoniam Deus tentavit eos,  et invenit illos dignos se. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org10fc4f6" class="outline-3">
+<h3 id="org10fc4f6">Wisdom 3:6</h3>
+<div class="outline-text-3" id="text-org10fc4f6">
+<p>
+Tamquam aurum in fornace probavit illos,  et quasi holocausti hostiam accepit illos,  et in tempore erit respectus illorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgad8174f" class="outline-3">
+<h3 id="orgad8174f">Wisdom 3:7</h3>
+<div class="outline-text-3" id="text-orgad8174f">
+<p>
+Fulgebunt justi  et tamquam scintillæ in arundineto discurrent. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0c7e1c0" class="outline-3">
+<h3 id="org0c7e1c0">Wisdom 3:8</h3>
+<div class="outline-text-3" id="text-org0c7e1c0">
+<p>
+Judicabunt nationes, et dominabuntur populis,  et regnabit Dominus illorum in perpetuum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfcffbdd" class="outline-3">
+<h3 id="orgfcffbdd">Wisdom 3:9</h3>
+<div class="outline-text-3" id="text-orgfcffbdd">
+<p>
+Qui confidunt in illo intelligent veritatem,  et fideles in dilectione acquiescent illi,  quoniam donum et pax est electis ejus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgba3dcc0" class="outline-3">
+<h3 id="orgba3dcc0">Wisdom 3:10</h3>
+<div class="outline-text-3" id="text-orgba3dcc0">
+<p>
+Impii autem secundum quæ cogitaverunt  correptionem habebunt :  qui neglexerunt justum,  et a Domino recesserunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5468458" class="outline-3">
+<h3 id="org5468458">Wisdom 3:11</h3>
+<div class="outline-text-3" id="text-org5468458">
+<p>
+Sapientiam enim et disciplinam qui abjicit infelix est :  et vacua est spes illorum,  et labores sine fructu,  et inutilia opera eorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9d428a6" class="outline-3">
+<h3 id="org9d428a6">Wisdom 3:12</h3>
+<div class="outline-text-3" id="text-org9d428a6">
+<p>
+Mulieres eorum insensatæ sunt,  et nequissimi filii eorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga8872b2" class="outline-3">
+<h3 id="orga8872b2">Wisdom 3:13</h3>
+<div class="outline-text-3" id="text-orga8872b2">
+<p>
+Maledicta creatura eorum, quoniam felix est sterilis ;  et incoinquinata, quæ nescivit thorum in delicto,  habebit fructum in respectione animarum sanctarum ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc4b3fc2" class="outline-3">
+<h3 id="orgc4b3fc2">Wisdom 3:14</h3>
+<div class="outline-text-3" id="text-orgc4b3fc2">
+<p>
+et spado qui non operatus est per manus suas iniquitatem,  nec cogitavit adversus Deum nequissima :  dabitur enim illi fidei donum electum,  et sors in templo Dei acceptissima. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge883bc8" class="outline-3">
+<h3 id="orge883bc8">Wisdom 3:15</h3>
+<div class="outline-text-3" id="text-orge883bc8">
+<p>
+Bonorum enim laborum gloriosus est fructus,  et quæ non concidat radix sapientiæ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org14ec8d4" class="outline-3">
+<h3 id="org14ec8d4">Wisdom 3:16</h3>
+<div class="outline-text-3" id="text-org14ec8d4">
+<p>
+Filii autem adulterorum in inconsummatione erunt,  et ab iniquo thoro semen exterminabitur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge73afbb" class="outline-3">
+<h3 id="orge73afbb">Wisdom 3:17</h3>
+<div class="outline-text-3" id="text-orge73afbb">
+<p>
+Et si quidem longæ vitæ erunt, in nihilum computabuntur,  et sine honore erit novissima senectus illorum : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd2602bb" class="outline-3">
+<h3 id="orgd2602bb">Wisdom 3:18</h3>
+<div class="outline-text-3" id="text-orgd2602bb">
+<p>
+et si celerius defuncti fuerint, non habebunt spem,  nec in die agnitionis allocutionem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1cfb8b6" class="outline-3">
+<h3 id="org1cfb8b6">Wisdom 3:19</h3>
+<div class="outline-text-3" id="text-org1cfb8b6">
+<p>
+Nationis enim iniquæ diræ sunt consummationes.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org7819882" class="outline-2">
+<h2 id="org7819882">Wisdom 4</h2>
+<div class="outline-text-2" id="text-org7819882">
+</div>
+<div id="outline-container-org35ba284" class="outline-3">
+<h3 id="org35ba284">Wisdom 4:1</h3>
+<div class="outline-text-3" id="text-org35ba284">
+<p>
+O quam pulchra est casta generatio, cum claritate !  immortalis est enim memoria illius,  quoniam et apud Deum nota est, et apud homines. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaa67a89" class="outline-3">
+<h3 id="orgaa67a89">Wisdom 4:2</h3>
+<div class="outline-text-3" id="text-orgaa67a89">
+<p>
+Cum præsens est, imitantur illam,  et desiderant eam cum se eduxerit ;  et in perpetuum coronata triumphat,  incoinquinatorum certaminum præmium vincens. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org172539d" class="outline-3">
+<h3 id="org172539d">Wisdom 4:3</h3>
+<div class="outline-text-3" id="text-org172539d">
+<p>
+Multigena autem impiorum multitudo non erit utilis,  et spuria vitulamina non dabunt radices altas,  nec stabile firmamentum collocabunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org345c1ff" class="outline-3">
+<h3 id="org345c1ff">Wisdom 4:4</h3>
+<div class="outline-text-3" id="text-org345c1ff">
+<p>
+Etsi in ramis in tempore germinaverint,  infirmiter posita, a vento commovebuntur,  et a nimietate ventorum eradicabuntur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7bdb5d0" class="outline-3">
+<h3 id="org7bdb5d0">Wisdom 4:5</h3>
+<div class="outline-text-3" id="text-org7bdb5d0">
+<p>
+Confringentur enim rami inconsummati ;  et fructus illorum inutiles et acerbi ad manducandum,  et ad nihilum apti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org695a75b" class="outline-3">
+<h3 id="org695a75b">Wisdom 4:6</h3>
+<div class="outline-text-3" id="text-org695a75b">
+<p>
+Ex iniquis enim somnis filii qui nascuntur,  testes sunt nequitiæ adversus parentes in interrogatione sua. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb8aeccd" class="outline-3">
+<h3 id="orgb8aeccd">Wisdom 4:7</h3>
+<div class="outline-text-3" id="text-orgb8aeccd">
+<p>
+Justus autem si morte præoccupatus fuerit,  in refrigerio erit ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2de0c37" class="outline-3">
+<h3 id="org2de0c37">Wisdom 4:8</h3>
+<div class="outline-text-3" id="text-org2de0c37">
+<p>
+senectus enim venerabilis est non diuturna,  neque annorum numero computata :  cani autem sunt sensus hominis, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfea91d2" class="outline-3">
+<h3 id="orgfea91d2">Wisdom 4:9</h3>
+<div class="outline-text-3" id="text-orgfea91d2">
+<p>
+et ætas senectutis vita immaculata. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd9e6dab" class="outline-3">
+<h3 id="orgd9e6dab">Wisdom 4:10</h3>
+<div class="outline-text-3" id="text-orgd9e6dab">
+<p>
+Placens Deo factus est dilectus,  et vivens inter peccatores translatus est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcb9302d" class="outline-3">
+<h3 id="orgcb9302d">Wisdom 4:11</h3>
+<div class="outline-text-3" id="text-orgcb9302d">
+<p>
+Raptus est, ne malitia mutaret intellectum ejus,  aut ne fictio deciperet animam illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6d94c35" class="outline-3">
+<h3 id="org6d94c35">Wisdom 4:12</h3>
+<div class="outline-text-3" id="text-org6d94c35">
+<p>
+Fascinatio enim nugacitatis obscurat bona,  et inconstantia concupiscentiæ transvertit sensum sine malitia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7673457" class="outline-3">
+<h3 id="org7673457">Wisdom 4:13</h3>
+<div class="outline-text-3" id="text-org7673457">
+<p>
+Consummatus in brevi,  explevit tempora multa ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02dfcc3" class="outline-3">
+<h3 id="org02dfcc3">Wisdom 4:14</h3>
+<div class="outline-text-3" id="text-org02dfcc3">
+<p>
+placita enim erat Deo anima illius :  propter hoc properavit educere illum de medio iniquitatum.  Populi autem videntes, et non intelligentes,  nec ponentes in præcordiis talia, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfab27b1" class="outline-3">
+<h3 id="orgfab27b1">Wisdom 4:15</h3>
+<div class="outline-text-3" id="text-orgfab27b1">
+<p>
+quoniam gratia Dei et misericordia est in sanctos ejus,  et respectus in electos illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcb14012" class="outline-3">
+<h3 id="orgcb14012">Wisdom 4:16</h3>
+<div class="outline-text-3" id="text-orgcb14012">
+<p>
+Condemnat autem justus mortuus vivos impios,  et juventus celerius consummata longam vitam injusti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge54a635" class="outline-3">
+<h3 id="orge54a635">Wisdom 4:17</h3>
+<div class="outline-text-3" id="text-orge54a635">
+<p>
+Videbunt enim finem sapientis,  et non intelligent quid cogitaverit de illo Deus,  et quare munierit illum Dominus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org36a3590" class="outline-3">
+<h3 id="org36a3590">Wisdom 4:18</h3>
+<div class="outline-text-3" id="text-org36a3590">
+<p>
+Videbunt, et contemnent eum ;  illos autem Dominus irridebit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8613dc5" class="outline-3">
+<h3 id="org8613dc5">Wisdom 4:19</h3>
+<div class="outline-text-3" id="text-org8613dc5">
+<p>
+Et erunt post hæc decidentes sine honore,  et in contumelia inter mortuos in perpetuum :  quoniam disrumpet illos inflatos sine voce,  et commovebit illos a fundamentis,  et usque ad supremum desolabuntur,  et erunt gementes, et memoria illorum peribit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2d6ae17" class="outline-3">
+<h3 id="org2d6ae17">Wisdom 4:20</h3>
+<div class="outline-text-3" id="text-org2d6ae17">
+<p>
+Venient in cogitatione peccatorum suorum timidi,  et traducent illos ex adverso iniquitates ipsorum.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org10dfd9a" class="outline-2">
+<h2 id="org10dfd9a">Wisdom 5</h2>
+<div class="outline-text-2" id="text-org10dfd9a">
+</div>
+<div id="outline-container-org813f625" class="outline-3">
+<h3 id="org813f625">Wisdom 5:1</h3>
+<div class="outline-text-3" id="text-org813f625">
+<p>
+Tunc stabunt justi in magna constantia  adversus eos qui se angustiaverunt,  et qui abstulerunt labores eorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge29c80b" class="outline-3">
+<h3 id="orge29c80b">Wisdom 5:2</h3>
+<div class="outline-text-3" id="text-orge29c80b">
+<p>
+Videntes turbabuntur timore horribili,  et mirabuntur in subitatione insperatæ salutis ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga34b1ab" class="outline-3">
+<h3 id="orga34b1ab">Wisdom 5:3</h3>
+<div class="outline-text-3" id="text-orga34b1ab">
+<p>
+dicentes intra se, pœnitentiam agentes,  et præ angustia spiritus gementes :  Hi sunt quos habuimus aliquando in derisum,  et in similitudinem improperii. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1e1a742" class="outline-3">
+<h3 id="org1e1a742">Wisdom 5:4</h3>
+<div class="outline-text-3" id="text-org1e1a742">
+<p>
+Nos insensati, vitam illorum æstimabamus insaniam,  et finem illorum sine honore ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2c78035" class="outline-3">
+<h3 id="org2c78035">Wisdom 5:5</h3>
+<div class="outline-text-3" id="text-org2c78035">
+<p>
+ecce quomodo computati sunt inter filios Dei,  et inter sanctos sors illorum est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org27a00d3" class="outline-3">
+<h3 id="org27a00d3">Wisdom 5:6</h3>
+<div class="outline-text-3" id="text-org27a00d3">
+<p>
+Ergo erravimus a via veritatis,  et justitiæ lumen non luxit nobis,  et sol intelligentiæ non est ortus nobis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfcc7ca2" class="outline-3">
+<h3 id="orgfcc7ca2">Wisdom 5:7</h3>
+<div class="outline-text-3" id="text-orgfcc7ca2">
+<p>
+Lassati sumus in via iniquitatis et perditionis,  et ambulavimus vias difficiles :  viam autem Domini ignoravimus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8ac1ada" class="outline-3">
+<h3 id="org8ac1ada">Wisdom 5:8</h3>
+<div class="outline-text-3" id="text-org8ac1ada">
+<p>
+Quid nobis profuit superbia ?  aut divitiarum jactantia quid contulit nobis ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org97b010a" class="outline-3">
+<h3 id="org97b010a">Wisdom 5:9</h3>
+<div class="outline-text-3" id="text-org97b010a">
+<p>
+Transierunt omnia illa tamquam umbra,  et tamquam nuntius percurrens, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0841d60" class="outline-3">
+<h3 id="org0841d60">Wisdom 5:10</h3>
+<div class="outline-text-3" id="text-org0841d60">
+<p>
+et tamquam navis quæ pertransit fluctuantem aquam,  cujus cum præterierit non est vestigium invenire,  neque semitam carinæ illius in fluctibus ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org608a78d" class="outline-3">
+<h3 id="org608a78d">Wisdom 5:11</h3>
+<div class="outline-text-3" id="text-org608a78d">
+<p>
+aut tamquam avis quæ transvolat in aëre,  cujus nullum invenitur argumentum itineris,  sed tantum sonitus alarum verberans levem ventum,  et scindens per vim itineris aërem :  commotis alis transvolavit,  et post hoc nullum signum invenitur itineris illius ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd324e95" class="outline-3">
+<h3 id="orgd324e95">Wisdom 5:12</h3>
+<div class="outline-text-3" id="text-orgd324e95">
+<p>
+aut tamquam sagitta emissa in locum destinatum,  divisus aër continuo in se reclusus est,  ut ignoretur transitus illius : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4f77a82" class="outline-3">
+<h3 id="org4f77a82">Wisdom 5:13</h3>
+<div class="outline-text-3" id="text-org4f77a82">
+<p>
+sic et nos nati continuo desivimus esse ;  et virtutis quidem nullum signum valuimus ostendere,  in malignitate autem nostra consumpti sumus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9820854" class="outline-3">
+<h3 id="org9820854">Wisdom 5:14</h3>
+<div class="outline-text-3" id="text-org9820854">
+<p>
+Talia dixerunt in inferno hi qui peccaverunt : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5a0deb7" class="outline-3">
+<h3 id="org5a0deb7">Wisdom 5:15</h3>
+<div class="outline-text-3" id="text-org5a0deb7">
+<p>
+quoniam spes impii tamquam lanugo est quæ a vento tollitur,  et tamquam spuma gracilis quæ a procella dispergitur,  et tamquam fumus qui a vento diffusus est,  et tamquam memoria hospitis unius diei prætereuntis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7ef15fb" class="outline-3">
+<h3 id="org7ef15fb">Wisdom 5:16</h3>
+<div class="outline-text-3" id="text-org7ef15fb">
+<p>
+Justi autem in perpetuum vivent,  et apud Dominum est merces eorum,  et cogitatio illorum apud Altissimum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9066b07" class="outline-3">
+<h3 id="org9066b07">Wisdom 5:17</h3>
+<div class="outline-text-3" id="text-org9066b07">
+<p>
+Ideo accipient regnum decoris,  et diadema speciei de manu Domini :  quoniam dextera sua teget eos,  et brachio sancto suo defendet illos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc419e98" class="outline-3">
+<h3 id="orgc419e98">Wisdom 5:18</h3>
+<div class="outline-text-3" id="text-orgc419e98">
+<p>
+Accipiet armaturam zelus illius,  et armabit creaturam ad ultionem inimicorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb2f143e" class="outline-3">
+<h3 id="orgb2f143e">Wisdom 5:19</h3>
+<div class="outline-text-3" id="text-orgb2f143e">
+<p>
+Induet pro thorace justitiam,  et accipiet pro galea judicium certum ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9ef58b5" class="outline-3">
+<h3 id="org9ef58b5">Wisdom 5:20</h3>
+<div class="outline-text-3" id="text-org9ef58b5">
+<p>
+sumet scutum inexpugnabile æquitatem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org10ab571" class="outline-3">
+<h3 id="org10ab571">Wisdom 5:21</h3>
+<div class="outline-text-3" id="text-org10ab571">
+<p>
+Acuet autem duram iram in lanceam,  et pugnabit cum illo orbis terrarum contra insensatos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb5b5b9e" class="outline-3">
+<h3 id="orgb5b5b9e">Wisdom 5:22</h3>
+<div class="outline-text-3" id="text-orgb5b5b9e">
+<p>
+Ibunt directe emissiones fulgurum,  et tamquam a bene curvato arcu nubium exterminabuntur,  et ad certum locum insilient. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf6eb74a" class="outline-3">
+<h3 id="orgf6eb74a">Wisdom 5:23</h3>
+<div class="outline-text-3" id="text-orgf6eb74a">
+<p>
+Et a petrosa ira plenæ mittentur grandines ;  excandescet in illos aqua maris,  et flumina concurrent duriter. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgba4382c" class="outline-3">
+<h3 id="orgba4382c">Wisdom 5:24</h3>
+<div class="outline-text-3" id="text-orgba4382c">
+<p>
+Contra illos stabit spiritus virtutis,  et tamquam turbo venti dividet illos ;  et ad eremum perducet omnem terram iniquitas illorum,  et malignitas evertet sedes potentium.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org6abe008" class="outline-2">
+<h2 id="org6abe008">Wisdom 6</h2>
+<div class="outline-text-2" id="text-org6abe008">
+</div>
+<div id="outline-container-org58c9948" class="outline-3">
+<h3 id="org58c9948">Wisdom 6:1</h3>
+<div class="outline-text-3" id="text-org58c9948">
+<p>
+Melior est sapientia quam vires,  et vir prudens quam fortis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge50a7b8" class="outline-3">
+<h3 id="orge50a7b8">Wisdom 6:2</h3>
+<div class="outline-text-3" id="text-orge50a7b8">
+<p>
+Audite ergo, reges, et intelligite ;  discite, judices finium terræ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org69e9c10" class="outline-3">
+<h3 id="org69e9c10">Wisdom 6:3</h3>
+<div class="outline-text-3" id="text-org69e9c10">
+<p>
+Præbete aures, vos qui continetis multitudines,  et placetis vobis in turbis nationum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd4660ae" class="outline-3">
+<h3 id="orgd4660ae">Wisdom 6:4</h3>
+<div class="outline-text-3" id="text-orgd4660ae">
+<p>
+Quoniam data est a Domino potestas vobis,  et virtus ab Altissimo :  qui interrogabit opera vestra, et cogitationes scrutabitur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org848ffc7" class="outline-3">
+<h3 id="org848ffc7">Wisdom 6:5</h3>
+<div class="outline-text-3" id="text-org848ffc7">
+<p>
+Quoniam cum essetis ministri regni illius,  non recte judicastis, nec custodistis legem justitiæ,  neque secundum voluntatem Dei ambulastis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org578e468" class="outline-3">
+<h3 id="org578e468">Wisdom 6:6</h3>
+<div class="outline-text-3" id="text-org578e468">
+<p>
+Horrende et cito apparebit vobis,  quoniam judicium durissimum his qui præsunt fiet. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org615c299" class="outline-3">
+<h3 id="org615c299">Wisdom 6:7</h3>
+<div class="outline-text-3" id="text-org615c299">
+<p>
+Exiguo enim conceditur misericordia ;  potentes autem potenter tormenta patientur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org98c1bac" class="outline-3">
+<h3 id="org98c1bac">Wisdom 6:8</h3>
+<div class="outline-text-3" id="text-org98c1bac">
+<p>
+Non enim subtrahet personam cujusquam Deus,  nec verebitur magnitudinem ejus cujusquam,  quoniam pusillum et magnum ipse fecit,  et æqualiter cura est illi de omnibus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org100f6aa" class="outline-3">
+<h3 id="org100f6aa">Wisdom 6:9</h3>
+<div class="outline-text-3" id="text-org100f6aa">
+<p>
+Fortioribus autem fortior instat cruciatio. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org610dbdb" class="outline-3">
+<h3 id="org610dbdb">Wisdom 6:10</h3>
+<div class="outline-text-3" id="text-org610dbdb">
+<p>
+Ad vos ergo, reges, sunt hi sermones mei :  ut discatis sapientiam, et non excidatis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaa58516" class="outline-3">
+<h3 id="orgaa58516">Wisdom 6:11</h3>
+<div class="outline-text-3" id="text-orgaa58516">
+<p>
+Qui enim custodierint justa juste, justificabuntur ;  et qui didicerint ista, invenient quid respondeant. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org19129c2" class="outline-3">
+<h3 id="org19129c2">Wisdom 6:12</h3>
+<div class="outline-text-3" id="text-org19129c2">
+<p>
+Concupiscite ergo sermones meos ;  diligite illos, et habebitis disciplinam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org721c252" class="outline-3">
+<h3 id="org721c252">Wisdom 6:13</h3>
+<div class="outline-text-3" id="text-org721c252">
+<p>
+Clara est, et quæ numquam marcescit, sapientia :  et facile videtur ab his qui diligunt eam,  et invenitur ab his qui quærunt illam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc9c176e" class="outline-3">
+<h3 id="orgc9c176e">Wisdom 6:14</h3>
+<div class="outline-text-3" id="text-orgc9c176e">
+<p>
+Præoccupat qui se concupiscunt,  ut illis se prior ostendat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org98bb6cd" class="outline-3">
+<h3 id="org98bb6cd">Wisdom 6:15</h3>
+<div class="outline-text-3" id="text-org98bb6cd">
+<p>
+Qui de luce vigilaverit ad illam non laborabit ;  assidentem enim illam foribus suis inveniet. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgebd0ed8" class="outline-3">
+<h3 id="orgebd0ed8">Wisdom 6:16</h3>
+<div class="outline-text-3" id="text-orgebd0ed8">
+<p>
+Cogitare ergo de illa sensus est consummatus,  et qui vigilaverit propter illam cito securus erit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org88ca291" class="outline-3">
+<h3 id="org88ca291">Wisdom 6:17</h3>
+<div class="outline-text-3" id="text-org88ca291">
+<p>
+Quoniam dignos se ipsa circuit quærens,  et in viis ostendit se hilariter,  et in omni providentia occurrit illis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc719720" class="outline-3">
+<h3 id="orgc719720">Wisdom 6:18</h3>
+<div class="outline-text-3" id="text-orgc719720">
+<p>
+Initium enim illius verissima est disciplinæ concupiscentia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6ead05a" class="outline-3">
+<h3 id="org6ead05a">Wisdom 6:19</h3>
+<div class="outline-text-3" id="text-org6ead05a">
+<p>
+Cura ergo disciplinæ dilectio est,  et dilectio custodia legum illius est ;  custoditio autem legum consummatio incorruptionis est ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd5ba284" class="outline-3">
+<h3 id="orgd5ba284">Wisdom 6:20</h3>
+<div class="outline-text-3" id="text-orgd5ba284">
+<p>
+incorruptio autem facit esse proximum Deo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org09412b1" class="outline-3">
+<h3 id="org09412b1">Wisdom 6:21</h3>
+<div class="outline-text-3" id="text-org09412b1">
+<p>
+Concupiscentia itaque sapientiæ deducit ad regnum perpetuum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org00d100f" class="outline-3">
+<h3 id="org00d100f">Wisdom 6:22</h3>
+<div class="outline-text-3" id="text-org00d100f">
+<p>
+Si ergo delectamini sedibus et sceptris, o reges populi,  diligite sapientiam, ut in perpetuum regnetis : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeb99c30" class="outline-3">
+<h3 id="orgeb99c30">Wisdom 6:23</h3>
+<div class="outline-text-3" id="text-orgeb99c30">
+<p>
+diligite lumen sapientiæ, omnes qui præestis populis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9aa0249" class="outline-3">
+<h3 id="org9aa0249">Wisdom 6:24</h3>
+<div class="outline-text-3" id="text-org9aa0249">
+<p>
+Quid est autem sapientia, et quemadmodum facta sit, referam,  et non abscondam a vobis sacramenta Dei :  sed ab initio nativitatis investigabo,  et ponam in lucem scientiam illius,  et non præteribo veritatem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge3a52e9" class="outline-3">
+<h3 id="orge3a52e9">Wisdom 6:25</h3>
+<div class="outline-text-3" id="text-orge3a52e9">
+<p>
+Neque cum invidia tabescente iter habebo,  quoniam talis homo non erit particeps sapientiæ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0cf5090" class="outline-3">
+<h3 id="org0cf5090">Wisdom 6:26</h3>
+<div class="outline-text-3" id="text-org0cf5090">
+<p>
+Multitudo autem sapientium sanitas est orbis terrarum,  et rex sapiens stabilimentum populi est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc41046d" class="outline-3">
+<h3 id="orgc41046d">Wisdom 6:27</h3>
+<div class="outline-text-3" id="text-orgc41046d">
+<p>
+Ergo accipite disciplinam per sermones meos,  et proderit vobis.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgafb1e70" class="outline-2">
+<h2 id="orgafb1e70">Wisdom 7</h2>
+<div class="outline-text-2" id="text-orgafb1e70">
+</div>
+<div id="outline-container-org64f125e" class="outline-3">
+<h3 id="org64f125e">Wisdom 7:1</h3>
+<div class="outline-text-3" id="text-org64f125e">
+<p>
+Sum quidem et ego mortalis homo, similis omnibus,  et ex genere terreni illius qui prior factus est :  et in ventre matris figuratus sum caro ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org668d094" class="outline-3">
+<h3 id="org668d094">Wisdom 7:2</h3>
+<div class="outline-text-3" id="text-org668d094">
+<p>
+decem mensium tempore coagulatus sum in sanguine :  ex semine hominis, et delectamento somni conveniente. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org89ad0bf" class="outline-3">
+<h3 id="org89ad0bf">Wisdom 7:3</h3>
+<div class="outline-text-3" id="text-org89ad0bf">
+<p>
+Et ego natus accepi communem aërem,  et in similiter factam decidi terram,  et primam vocem similem omnibus emisi plorans. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbc4b26e" class="outline-3">
+<h3 id="orgbc4b26e">Wisdom 7:4</h3>
+<div class="outline-text-3" id="text-orgbc4b26e">
+<p>
+In involumentis nutritus sum, et curis magnis : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c11125" class="outline-3">
+<h3 id="org8c11125">Wisdom 7:5</h3>
+<div class="outline-text-3" id="text-org8c11125">
+<p>
+nemo enim ex regibus aliud habuit nativitatis initium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde51288" class="outline-3">
+<h3 id="orgde51288">Wisdom 7:6</h3>
+<div class="outline-text-3" id="text-orgde51288">
+<p>
+Unus ergo introitus est omnibus ad vitam,  et similis exitus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org86b2780" class="outline-3">
+<h3 id="org86b2780">Wisdom 7:7</h3>
+<div class="outline-text-3" id="text-org86b2780">
+<p>
+Propter hoc optavi, et datus est mihi sensus ;  et invocavi, et venit in me spiritus sapientiæ : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd5d3913" class="outline-3">
+<h3 id="orgd5d3913">Wisdom 7:8</h3>
+<div class="outline-text-3" id="text-orgd5d3913">
+<p>
+et præposui illam regnis et sedibus,  et divitias nihil esse duxi in comparatione illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org190edb9" class="outline-3">
+<h3 id="org190edb9">Wisdom 7:9</h3>
+<div class="outline-text-3" id="text-org190edb9">
+<p>
+Nec comparavi illi lapidem pretiosum,  quoniam omne aurum in comparatione illius arena est exigua,  et tamquam lutum æstimabitur argentum in conspectu illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org685db4a" class="outline-3">
+<h3 id="org685db4a">Wisdom 7:10</h3>
+<div class="outline-text-3" id="text-org685db4a">
+<p>
+Super salutem et speciem dilexi illam,  et proposui pro luce habere illam,  quoniam inextinguibile est lumen illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7cb35fe" class="outline-3">
+<h3 id="org7cb35fe">Wisdom 7:11</h3>
+<div class="outline-text-3" id="text-org7cb35fe">
+<p>
+Venerunt autem mihi omnia bona pariter cum illa,  et innumerabilis honestas per manus illius ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6c7c867" class="outline-3">
+<h3 id="org6c7c867">Wisdom 7:12</h3>
+<div class="outline-text-3" id="text-org6c7c867">
+<p>
+et lætatus sum in omnibus,  quoniam antecedebat me ista sapientia,  et ignorabam quoniam horum omnium mater est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org65f0732" class="outline-3">
+<h3 id="org65f0732">Wisdom 7:13</h3>
+<div class="outline-text-3" id="text-org65f0732">
+<p>
+Quam sine fictione didici,  et sine invidia communico,  et honestatem illius non abscondo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1490aea" class="outline-3">
+<h3 id="org1490aea">Wisdom 7:14</h3>
+<div class="outline-text-3" id="text-org1490aea">
+<p>
+Infinitus enim thesaurus est hominibus ;  quo qui usi sunt, participes facti sunt amicitiæ Dei,  propter disciplinæ dona commendati. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde04687" class="outline-3">
+<h3 id="orgde04687">Wisdom 7:15</h3>
+<div class="outline-text-3" id="text-orgde04687">
+<p>
+Mihi autem dedit Deus dicere ex sententia,  et præsumere digna horum quæ mihi dantur :  quoniam ipse sapientiæ dux est,  et sapientium emendator. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6eef2b9" class="outline-3">
+<h3 id="org6eef2b9">Wisdom 7:16</h3>
+<div class="outline-text-3" id="text-org6eef2b9">
+<p>
+In manu enim illius et nos et sermones nostri,  et omnis sapientia, et operum scientia, et disciplina. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb584dcb" class="outline-3">
+<h3 id="orgb584dcb">Wisdom 7:17</h3>
+<div class="outline-text-3" id="text-orgb584dcb">
+<p>
+Ipse enim dedit mihi horum quæ sunt scientiam veram,  ut sciam dispositionem orbis terrarum, et virtutes elementorum, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org363d425" class="outline-3">
+<h3 id="org363d425">Wisdom 7:18</h3>
+<div class="outline-text-3" id="text-org363d425">
+<p>
+initium, et consummationem, et medietatem temporum,  vicissitudinum permutationes, et commutationes temporum, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4225b29" class="outline-3">
+<h3 id="org4225b29">Wisdom 7:19</h3>
+<div class="outline-text-3" id="text-org4225b29">
+<p>
+anni cursus, et stellarum dispositiones, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org24284b9" class="outline-3">
+<h3 id="org24284b9">Wisdom 7:20</h3>
+<div class="outline-text-3" id="text-org24284b9">
+<p>
+naturas animalium, et iras bestiarum,  vim ventorum, et cogitationes hominum,  differentias virgultorum, et virtutes radicum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org848a719" class="outline-3">
+<h3 id="org848a719">Wisdom 7:21</h3>
+<div class="outline-text-3" id="text-org848a719">
+<p>
+Et quæcumque sunt absconsa et improvisa didici :  omnium enim artifex docuit me sapientia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org08b1939" class="outline-3">
+<h3 id="org08b1939">Wisdom 7:22</h3>
+<div class="outline-text-3" id="text-org08b1939">
+<p>
+Est enim in illa spiritus intelligentiæ,  sanctus, unicus, multiplex, subtilis,  disertus, mobilis, incoinquinatus, certus,  suavis, amans bonum, acutus,  quem nihil vetat, benefaciens, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbf14b1d" class="outline-3">
+<h3 id="orgbf14b1d">Wisdom 7:23</h3>
+<div class="outline-text-3" id="text-orgbf14b1d">
+<p>
+humanus, benignus, stabilis, certus, securus,  omnem habens virtutem, omnia prospiciens,  et qui capiat omnes spiritus,  intelligibilis, mundus, subtilis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org98bbb97" class="outline-3">
+<h3 id="org98bbb97">Wisdom 7:24</h3>
+<div class="outline-text-3" id="text-org98bbb97">
+<p>
+Omnibus enim mobilibus mobilior est sapientia :  attingit autem ubique propter suam munditiam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org90a1dc9" class="outline-3">
+<h3 id="org90a1dc9">Wisdom 7:25</h3>
+<div class="outline-text-3" id="text-org90a1dc9">
+<p>
+Vapor est enim virtutis Dei,  et emanatio quædam est claritatis omnipotentis Dei sincera,  et ideo nihil inquinatum in eam incurrit : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7687a54" class="outline-3">
+<h3 id="org7687a54">Wisdom 7:26</h3>
+<div class="outline-text-3" id="text-org7687a54">
+<p>
+candor est enim lucis æternæ,  et speculum sine macula Dei majestatis,  et imago bonitatis illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd2a0efa" class="outline-3">
+<h3 id="orgd2a0efa">Wisdom 7:27</h3>
+<div class="outline-text-3" id="text-orgd2a0efa">
+<p>
+Et cum sit una, omnia potest ;  et in se permanens omnia innovat :  et per nationes in animas sanctas se transfert ;  amicos Dei et prophetas constituit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org69194dd" class="outline-3">
+<h3 id="org69194dd">Wisdom 7:28</h3>
+<div class="outline-text-3" id="text-org69194dd">
+<p>
+Neminem enim diligit Deus,  nisi eum qui cum sapientia inhabitat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org42e6d98" class="outline-3">
+<h3 id="org42e6d98">Wisdom 7:29</h3>
+<div class="outline-text-3" id="text-org42e6d98">
+<p>
+Est enim hæc speciosior sole,  et super omnem dispositionem stellarum :  luci comparata, invenitur prior. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4a9180e" class="outline-3">
+<h3 id="org4a9180e">Wisdom 7:30</h3>
+<div class="outline-text-3" id="text-org4a9180e">
+<p>
+Illi enim succedit nox ;  sapientiam autem non vincit malitia.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgedfc220" class="outline-2">
+<h2 id="orgedfc220">Wisdom 8</h2>
+<div class="outline-text-2" id="text-orgedfc220">
+</div>
+<div id="outline-container-org9fecee0" class="outline-3">
+<h3 id="org9fecee0">Wisdom 8:1</h3>
+<div class="outline-text-3" id="text-org9fecee0">
+<p>
+Attingit ergo a fine usque ad finem fortiter,  et disponit omnia suaviter. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org127adf0" class="outline-3">
+<h3 id="org127adf0">Wisdom 8:2</h3>
+<div class="outline-text-3" id="text-org127adf0">
+<p>
+Hanc amavi, et exquisivi a juventute mea,  et quæsivi sponsam mihi eam assumere,  et amator factus sum formæ illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4c5e108" class="outline-3">
+<h3 id="org4c5e108">Wisdom 8:3</h3>
+<div class="outline-text-3" id="text-org4c5e108">
+<p>
+Generositatem illius glorificat,  contubernium habens Dei ;  sed et omnium Dominus dilexit illam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0af68c9" class="outline-3">
+<h3 id="org0af68c9">Wisdom 8:4</h3>
+<div class="outline-text-3" id="text-org0af68c9">
+<p>
+Doctrix enim est disciplinæ Dei,  et electrix operum illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2a1f9e2" class="outline-3">
+<h3 id="org2a1f9e2">Wisdom 8:5</h3>
+<div class="outline-text-3" id="text-org2a1f9e2">
+<p>
+Et si divitiæ appetuntur in vita,  quid sapientia locupletius quæ operatur omnia ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf2309f3" class="outline-3">
+<h3 id="orgf2309f3">Wisdom 8:6</h3>
+<div class="outline-text-3" id="text-orgf2309f3">
+<p>
+Si autem sensus operatur,  quis horum quæ sunt magis quam illa est artifex ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgacd3fef" class="outline-3">
+<h3 id="orgacd3fef">Wisdom 8:7</h3>
+<div class="outline-text-3" id="text-orgacd3fef">
+<p>
+Et si justitiam quis diligit,  labores hujus magnas habent virtutes :  sobrietatem enim et prudentiam docet,  et justitiam, et virtutem,  quibus utilius nihil est in vita hominibus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org692ccca" class="outline-3">
+<h3 id="org692ccca">Wisdom 8:8</h3>
+<div class="outline-text-3" id="text-org692ccca">
+<p>
+Et si multitudinem scientiæ desiderat quis,  scit præterita, et de futuris æstimat ;  scit versutias sermonum, et dissolutiones argumentorum ;  signa et monstra scit antequam fiant,  et eventus temporum et sæculorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga32b5e4" class="outline-3">
+<h3 id="orga32b5e4">Wisdom 8:9</h3>
+<div class="outline-text-3" id="text-orga32b5e4">
+<p>
+Proposui ergo hanc adducere mihi ad convivendum,  sciens quoniam mecum communicabit de bonis,  et erit allocutio cogitationis et tædii mei. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05feb8a" class="outline-3">
+<h3 id="org05feb8a">Wisdom 8:10</h3>
+<div class="outline-text-3" id="text-org05feb8a">
+<p>
+Habebo propter hanc claritatem ad turbas,  et honorem apud seniores juvenis ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3489512" class="outline-3">
+<h3 id="org3489512">Wisdom 8:11</h3>
+<div class="outline-text-3" id="text-org3489512">
+<p>
+et acutus inveniar in judicio,  et in conspectu potentium admirabilis ero,  et facies principum mirabuntur me : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfa5f0de" class="outline-3">
+<h3 id="orgfa5f0de">Wisdom 8:12</h3>
+<div class="outline-text-3" id="text-orgfa5f0de">
+<p>
+tacentem me sustinebunt,  et loquentem me respicient,  et sermocinante me plura, manus ori suo imponent. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0e8c139" class="outline-3">
+<h3 id="org0e8c139">Wisdom 8:13</h3>
+<div class="outline-text-3" id="text-org0e8c139">
+<p>
+Præterea habebo per hanc immortalitatem,  et memoriam æternam his qui post me futuri sunt relinquam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7fcb512" class="outline-3">
+<h3 id="org7fcb512">Wisdom 8:14</h3>
+<div class="outline-text-3" id="text-org7fcb512">
+<p>
+Disponam populos,  et nationes mihi erunt subditæ : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgad88b04" class="outline-3">
+<h3 id="orgad88b04">Wisdom 8:15</h3>
+<div class="outline-text-3" id="text-orgad88b04">
+<p>
+timebunt me audientes reges horrendi.  In multitudine videbor bonus,  et in bello fortis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd24415d" class="outline-3">
+<h3 id="orgd24415d">Wisdom 8:16</h3>
+<div class="outline-text-3" id="text-orgd24415d">
+<p>
+Intrans in domum meam, conquiescam cum illa :  non enim habet amaritudinem conversatio illius,  nec tædium convictus illius,  sed lætitiam et gaudium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org661c5bd" class="outline-3">
+<h3 id="org661c5bd">Wisdom 8:17</h3>
+<div class="outline-text-3" id="text-org661c5bd">
+<p>
+Hæc cogitans apud me  et commemorans in corde meo,  quoniam immortalitas est in cognatione sapientiæ, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org84cd6a0" class="outline-3">
+<h3 id="org84cd6a0">Wisdom 8:18</h3>
+<div class="outline-text-3" id="text-org84cd6a0">
+<p>
+et in amicitia illius delectatio bona,  et in operibus manuum illius honestas sine defectione,  et in certamine loquelæ illius sapientia,  et præclaritas in communicatione sermonum ipsius :  circuibam quærens, ut mihi illam assumerem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf175506" class="outline-3">
+<h3 id="orgf175506">Wisdom 8:19</h3>
+<div class="outline-text-3" id="text-orgf175506">
+<p>
+Puer autem eram ingeniosus,  et sortitus sum animam bonam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd6301ec" class="outline-3">
+<h3 id="orgd6301ec">Wisdom 8:20</h3>
+<div class="outline-text-3" id="text-orgd6301ec">
+<p>
+Et cum essem magis bonus,  veni ad corpus incoinquinatum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2c20348" class="outline-3">
+<h3 id="org2c20348">Wisdom 8:21</h3>
+<div class="outline-text-3" id="text-org2c20348">
+<p>
+Et ut scivi quoniam aliter non possem esse continens, nisi Deus det ;  et hoc ipsum erat sapientiæ, scire cujus esset hoc donum :  adii Dominum, et deprecatus sum illum,  et dixi ex totis præcordiis meis :  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org5bedee2" class="outline-2">
+<h2 id="org5bedee2">Wisdom 9</h2>
+<div class="outline-text-2" id="text-org5bedee2">
+</div>
+<div id="outline-container-orgea85517" class="outline-3">
+<h3 id="orgea85517">Wisdom 9:1</h3>
+<div class="outline-text-3" id="text-orgea85517">
+<p>
+Deus patrum meorum, et Domine misericordiæ,  qui fecisti omnia verbo tuo, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org46366eb" class="outline-3">
+<h3 id="org46366eb">Wisdom 9:2</h3>
+<div class="outline-text-3" id="text-org46366eb">
+<p>
+et sapientia tua constituisti hominem,  ut dominaretur creaturæ quæ a te facta est, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaa4c0bf" class="outline-3">
+<h3 id="orgaa4c0bf">Wisdom 9:3</h3>
+<div class="outline-text-3" id="text-orgaa4c0bf">
+<p>
+ut disponat orbem terrarum in æquitate et justitia,  et in directione cordis judicium judicet : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8646217" class="outline-3">
+<h3 id="org8646217">Wisdom 9:4</h3>
+<div class="outline-text-3" id="text-org8646217">
+<p>
+da mihi sedium tuarum assistricem sapientiam,  et noli me reprobare a pueris tuis : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb7a7cf3" class="outline-3">
+<h3 id="orgb7a7cf3">Wisdom 9:5</h3>
+<div class="outline-text-3" id="text-orgb7a7cf3">
+<p>
+quoniam servus tuus sum ego, et filius ancillæ tuæ ;  homo infirmus, et exigui temporis,  et minor ad intellectum judicii et legum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc9efe67" class="outline-3">
+<h3 id="orgc9efe67">Wisdom 9:6</h3>
+<div class="outline-text-3" id="text-orgc9efe67">
+<p>
+Nam etsi quis erit consummatus inter filios hominum,  si ab illo abfuerit sapientia tua, in nihilum computabitur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1952bf3" class="outline-3">
+<h3 id="org1952bf3">Wisdom 9:7</h3>
+<div class="outline-text-3" id="text-org1952bf3">
+<p>
+Tu elegisti me regem populo tuo,  et judicem filiorum tuorum et filiarum : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgef2d58f" class="outline-3">
+<h3 id="orgef2d58f">Wisdom 9:8</h3>
+<div class="outline-text-3" id="text-orgef2d58f">
+<p>
+et dixisti me ædificare templum in monte sancto tuo,  et in civitate habitationis tuæ altare :  similitudinem tabernaculi sancti tui quod præparasti ab initio. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdd8b3fe" class="outline-3">
+<h3 id="orgdd8b3fe">Wisdom 9:9</h3>
+<div class="outline-text-3" id="text-orgdd8b3fe">
+<p>
+Et tecum sapientia tua, quæ novit opera tua,  quæ et affuit tunc cum orbem terrarum faceres,  et sciebat quid esset placitum oculis tuis,  et quid directum in præceptis tuis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org58453b9" class="outline-3">
+<h3 id="org58453b9">Wisdom 9:10</h3>
+<div class="outline-text-3" id="text-org58453b9">
+<p>
+Mitte illam de cælis sanctis tuis,  et a sede magnitudinis tuæ,  ut mecum sit et mecum laboret,  ut sciam quid acceptum sit apud te : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org71df0a5" class="outline-3">
+<h3 id="org71df0a5">Wisdom 9:11</h3>
+<div class="outline-text-3" id="text-org71df0a5">
+<p>
+scit enim illa omnia, et intelligit,  et deducet me in operibus meis sobrie,  et custodiet me in sua potentia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5c808c9" class="outline-3">
+<h3 id="org5c808c9">Wisdom 9:12</h3>
+<div class="outline-text-3" id="text-org5c808c9">
+<p>
+Et erunt accepta opera mea,  et disponam populum tuum juste,  et ero dignus sedium patris mei. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc701771" class="outline-3">
+<h3 id="orgc701771">Wisdom 9:13</h3>
+<div class="outline-text-3" id="text-orgc701771">
+<p>
+Quis enim hominum poterit scire consilium Dei ?  aut quis poterit cogitare quid velit Deus ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org492a19c" class="outline-3">
+<h3 id="org492a19c">Wisdom 9:14</h3>
+<div class="outline-text-3" id="text-org492a19c">
+<p>
+Cogitationes enim mortalium timidæ,  et incertæ providentiæ nostræ ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga21049c" class="outline-3">
+<h3 id="orga21049c">Wisdom 9:15</h3>
+<div class="outline-text-3" id="text-orga21049c">
+<p>
+corpus enim quod corrumpitur aggravat animam,  et terrena inhabitatio deprimit sensum multa cogitantem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0210dd8" class="outline-3">
+<h3 id="org0210dd8">Wisdom 9:16</h3>
+<div class="outline-text-3" id="text-org0210dd8">
+<p>
+Et difficile æstimamus quæ in terra sunt,  et quæ in prospectu sunt invenimus cum labore :  quæ autem in cælis sunt, quis investigabit ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3bca08f" class="outline-3">
+<h3 id="org3bca08f">Wisdom 9:17</h3>
+<div class="outline-text-3" id="text-org3bca08f">
+<p>
+Sensum autem tuum, quis sciet, nisi tu dederis sapientiam,  et miseris spiritum sanctum tuum de altissimis, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org125110a" class="outline-3">
+<h3 id="org125110a">Wisdom 9:18</h3>
+<div class="outline-text-3" id="text-org125110a">
+<p>
+et sic correctæ sint semitæ eorum qui sunt in terris,  et quæ tibi placent didicerint homines ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org97568b5" class="outline-3">
+<h3 id="org97568b5">Wisdom 9:19</h3>
+<div class="outline-text-3" id="text-org97568b5">
+<p>
+Nam per sapientiam sanati sunt  quicumque placuerunt tibi, Domine, a principio.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd8ce54c" class="outline-2">
+<h2 id="orgd8ce54c">Wisdom 10</h2>
+<div class="outline-text-2" id="text-orgd8ce54c">
+</div>
+<div id="outline-container-org83e2cfb" class="outline-3">
+<h3 id="org83e2cfb">Wisdom 10:1</h3>
+<div class="outline-text-3" id="text-org83e2cfb">
+<p>
+Hæc illum qui primus formatus est a Deo patre orbis terrarum,  cum solus esset creatus, custodivit, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga6b817d" class="outline-3">
+<h3 id="orga6b817d">Wisdom 10:2</h3>
+<div class="outline-text-3" id="text-orga6b817d">
+<p>
+et eduxit illum a delicto suo,  et dedit illi virtutem continendi omnia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org765d6a7" class="outline-3">
+<h3 id="org765d6a7">Wisdom 10:3</h3>
+<div class="outline-text-3" id="text-org765d6a7">
+<p>
+Ab hac ut recessit injustus in ira sua,  per iram homicidii fraterni deperiit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc90929e" class="outline-3">
+<h3 id="orgc90929e">Wisdom 10:4</h3>
+<div class="outline-text-3" id="text-orgc90929e">
+<p>
+Propter quem cum aqua deleret terram, sanavit iterum sapientia,  per contemptibile lignum justum gubernans. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0a9673e" class="outline-3">
+<h3 id="org0a9673e">Wisdom 10:5</h3>
+<div class="outline-text-3" id="text-org0a9673e">
+<p>
+Hæc et in consensu nequitiæ, cum se nationes contulissent,  scivit justum, et conservavit sine querela Deo,  et in filii misericordia fortem custodivit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdd1565d" class="outline-3">
+<h3 id="orgdd1565d">Wisdom 10:6</h3>
+<div class="outline-text-3" id="text-orgdd1565d">
+<p>
+Hæc justum a pereuntibus impiis liberavit fugientem,  descendente igne in Pentapolim : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb756dc4" class="outline-3">
+<h3 id="orgb756dc4">Wisdom 10:7</h3>
+<div class="outline-text-3" id="text-orgb756dc4">
+<p>
+quibus in testimonium nequitiæ  fumigabunda constat deserta terra,  et incerto tempore fructus habentes arbores :  et incredibilis animæ memoria stans figmentum salis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf993756" class="outline-3">
+<h3 id="orgf993756">Wisdom 10:8</h3>
+<div class="outline-text-3" id="text-orgf993756">
+<p>
+Sapientiam enim prætereuntes,  non tantum in hoc lapsi sunt ut ignorarent bona,  sed et insipientiæ suæ reliquerunt hominibus memoriam,  ut in his quæ peccaverunt nec latere potuissent. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf443cb7" class="outline-3">
+<h3 id="orgf443cb7">Wisdom 10:9</h3>
+<div class="outline-text-3" id="text-orgf443cb7">
+<p>
+Sapientia autem hos qui se observant  a doloribus liberavit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdb310a2" class="outline-3">
+<h3 id="orgdb310a2">Wisdom 10:10</h3>
+<div class="outline-text-3" id="text-orgdb310a2">
+<p>
+Hæc profugum iræ fratris justum deduxit per vias rectas,  et ostendit illi regnum Dei,  et dedit illi scientiam sanctorum ;  honestavit illum in laboribus,  et complevit labores illius. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org79ef43e" class="outline-3">
+<h3 id="org79ef43e">Wisdom 10:11</h3>
+<div class="outline-text-3" id="text-org79ef43e">
+<p>
+In fraude circumvenientium illum affuit illi,  et honestum fecit illum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org06619da" class="outline-3">
+<h3 id="org06619da">Wisdom 10:12</h3>
+<div class="outline-text-3" id="text-org06619da">
+<p>
+Custodivit illum ab inimicis,  et a seductoribus tutavit illum :  et certamen forte dedit illi ut vinceret,  et sciret quoniam omnium potentior est sapientia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org35bc3e8" class="outline-3">
+<h3 id="org35bc3e8">Wisdom 10:13</h3>
+<div class="outline-text-3" id="text-org35bc3e8">
+<p>
+Hæc venditum justum non dereliquit,  sed a peccatoribus liberavit eum ;  descenditque cum illo in foveam, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0182c9f" class="outline-3">
+<h3 id="org0182c9f">Wisdom 10:14</h3>
+<div class="outline-text-3" id="text-org0182c9f">
+<p>
+et in vinculis non dereliquit illum,  donec afferret illi sceptrum regni,  et potentiam adversus eos qui eum deprimebant :  et mendaces ostendit qui maculaverunt illum,  et dedit illi claritatem æternam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga48c846" class="outline-3">
+<h3 id="orga48c846">Wisdom 10:15</h3>
+<div class="outline-text-3" id="text-orga48c846">
+<p>
+Hæc populum justum et semen sine querela liberavit  a nationibus quæ illum deprimebant. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaf3e905" class="outline-3">
+<h3 id="orgaf3e905">Wisdom 10:16</h3>
+<div class="outline-text-3" id="text-orgaf3e905">
+<p>
+Intravit in animam servi Dei,  et stetit contra reges horrendos in portentis et signis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgce5746c" class="outline-3">
+<h3 id="orgce5746c">Wisdom 10:17</h3>
+<div class="outline-text-3" id="text-orgce5746c">
+<p>
+Et reddidit justis mercedem laborum suorum,  et deduxit illos in via mirabili :  et fuit illis in velamento diei,  et in luce stellarum per noctem ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4916868" class="outline-3">
+<h3 id="org4916868">Wisdom 10:18</h3>
+<div class="outline-text-3" id="text-org4916868">
+<p>
+transtulit illos per mare Rubrum,  et transvexit illos per aquam nimiam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0d00fc4" class="outline-3">
+<h3 id="org0d00fc4">Wisdom 10:19</h3>
+<div class="outline-text-3" id="text-org0d00fc4">
+<p>
+Inimicos autem illorum demersit in mare,  et ab altitudine inferorum eduxit illos.  Ideo justi tulerunt spolia impiorum, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc20f4de" class="outline-3">
+<h3 id="orgc20f4de">Wisdom 10:20</h3>
+<div class="outline-text-3" id="text-orgc20f4de">
+<p>
+et decantaverunt, Domine, nomen sanctum tuum,  et victricem manum tuam laudaverunt pariter : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org35bf39e" class="outline-3">
+<h3 id="org35bf39e">Wisdom 10:21</h3>
+<div class="outline-text-3" id="text-org35bf39e">
+<p>
+quoniam sapientia aperuit os mutorum,  et linguas infantium fecit disertas.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd2cd919" class="outline-2">
+<h2 id="orgd2cd919">Wisdom 11</h2>
+<div class="outline-text-2" id="text-orgd2cd919">
+</div>
+<div id="outline-container-orgd1e50d5" class="outline-3">
+<h3 id="orgd1e50d5">Wisdom 11:1</h3>
+<div class="outline-text-3" id="text-orgd1e50d5">
+<p>
+Direxit opera eorum in manibus prophetæ sancti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org883b721" class="outline-3">
+<h3 id="org883b721">Wisdom 11:2</h3>
+<div class="outline-text-3" id="text-org883b721">
+<p>
+Iter fecerunt per deserta quæ non habitabantur,  et in locis desertis fixerunt casas. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6402a36" class="outline-3">
+<h3 id="org6402a36">Wisdom 11:3</h3>
+<div class="outline-text-3" id="text-org6402a36">
+<p>
+Steterunt contra hostes,  et de inimicis se vindicaverunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5e58414" class="outline-3">
+<h3 id="org5e58414">Wisdom 11:4</h3>
+<div class="outline-text-3" id="text-org5e58414">
+<p>
+Sitierunt, et invocaverunt te,  et data est illis aqua de petra altissima,  et requies sitis de lapide duro. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7c4577e" class="outline-3">
+<h3 id="org7c4577e">Wisdom 11:5</h3>
+<div class="outline-text-3" id="text-org7c4577e">
+<p>
+Per quæ enim pœnas passi sunt inimici illorum  a defectione potus sui,  et in eis cum abundarent filii Israël lætati sunt : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org29192c7" class="outline-3">
+<h3 id="org29192c7">Wisdom 11:6</h3>
+<div class="outline-text-3" id="text-org29192c7">
+<p>
+per hæc, cum illis deessent, bene cum illis actum est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc8263d7" class="outline-3">
+<h3 id="orgc8263d7">Wisdom 11:7</h3>
+<div class="outline-text-3" id="text-orgc8263d7">
+<p>
+Nam pro fonte quidem sempiterni fluminis,  humanum sanguinem dedisti injustis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc697f5" class="outline-3">
+<h3 id="orgfc697f5">Wisdom 11:8</h3>
+<div class="outline-text-3" id="text-orgfc697f5">
+<p>
+Qui cum minuerentur in traductione infantium occisorum,  dedisti illis abundantem aquam insperate, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2171bfa" class="outline-3">
+<h3 id="org2171bfa">Wisdom 11:9</h3>
+<div class="outline-text-3" id="text-org2171bfa">
+<p>
+ostendens per sitim quæ tunc fuit,  quemadmodum tuos exaltares,  et adversarios illorum necares. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1611be7" class="outline-3">
+<h3 id="org1611be7">Wisdom 11:10</h3>
+<div class="outline-text-3" id="text-org1611be7">
+<p>
+Cum enim tentati sunt,  et quidem cum misericordia disciplinam accipientes,  scierunt quemadmodum cum ira judicati impii tormenta paterentur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga11a5b9" class="outline-3">
+<h3 id="orga11a5b9">Wisdom 11:11</h3>
+<div class="outline-text-3" id="text-orga11a5b9">
+<p>
+Hos quidem tamquam pater monens probasti ;  illos autem tamquam durus rex interrogans condemnasti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4aa152e" class="outline-3">
+<h3 id="org4aa152e">Wisdom 11:12</h3>
+<div class="outline-text-3" id="text-org4aa152e">
+<p>
+Absentes enim, et præsentes, similiter torquebantur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf910c65" class="outline-3">
+<h3 id="orgf910c65">Wisdom 11:13</h3>
+<div class="outline-text-3" id="text-orgf910c65">
+<p>
+Duplex enim illos acceperat tædium et gemitus,  cum memoria præteritorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga3bbd72" class="outline-3">
+<h3 id="orga3bbd72">Wisdom 11:14</h3>
+<div class="outline-text-3" id="text-orga3bbd72">
+<p>
+Cum enim audirent per sua tormenta bene secum agi,  commemorati sunt Dominum, admirantes in finem exitus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga3d2b90" class="outline-3">
+<h3 id="orga3d2b90">Wisdom 11:15</h3>
+<div class="outline-text-3" id="text-orga3d2b90">
+<p>
+Quem enim in expositione prava projectum deriserunt,  in finem eventus mirati sunt,  non similiter justis sitientes. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc5b3b14" class="outline-3">
+<h3 id="orgc5b3b14">Wisdom 11:16</h3>
+<div class="outline-text-3" id="text-orgc5b3b14">
+<p>
+Pro cogitationibus autem insensatis iniquitatis illorum,  quod quidam errantes colebant mutos serpentes  et bestias supervacuas,  immisisti illis multitudinem mutorum animalium in vindictam ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc4bd352" class="outline-3">
+<h3 id="orgc4bd352">Wisdom 11:17</h3>
+<div class="outline-text-3" id="text-orgc4bd352">
+<p>
+ut scirent quia per quæ peccat quis, per hæc et torquetur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf4599ac" class="outline-3">
+<h3 id="orgf4599ac">Wisdom 11:18</h3>
+<div class="outline-text-3" id="text-orgf4599ac">
+<p>
+Non enim impossibilis erat omnipotens manus tua,  quæ creavit orbem terrarum ex materia invisa,  immittere illis multitudinem ursorum, aut audaces leones, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org76fb3f3" class="outline-3">
+<h3 id="org76fb3f3">Wisdom 11:19</h3>
+<div class="outline-text-3" id="text-org76fb3f3">
+<p>
+aut novi generis ira plenas ignotas bestias,  aut vaporem ignium spirantes,  aut fumi odorem proferentes,  aut horrendas ab oculis scintillas emittentes ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc7d1ff0" class="outline-3">
+<h3 id="orgc7d1ff0">Wisdom 11:20</h3>
+<div class="outline-text-3" id="text-orgc7d1ff0">
+<p>
+quarum non solum læsura poterat illos exterminare,  sed et aspectus per timorem occidere. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1ebeaf7" class="outline-3">
+<h3 id="org1ebeaf7">Wisdom 11:21</h3>
+<div class="outline-text-3" id="text-org1ebeaf7">
+<p>
+Sed et sine his uno spiritu poterant occidi,  persecutionem passi ab ipsis factis suis,  et dispersi per spiritum virtutis tuæ :  sed omnia in mensura, et numero et pondere disposuisti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga1f54e6" class="outline-3">
+<h3 id="orga1f54e6">Wisdom 11:22</h3>
+<div class="outline-text-3" id="text-orga1f54e6">
+<p>
+Multum enim valere, tibi soli supererat semper :  et virtuti brachii tui quis resistet ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfa0b33" class="outline-3">
+<h3 id="orgbfa0b33">Wisdom 11:23</h3>
+<div class="outline-text-3" id="text-orgbfa0b33">
+<p>
+Quoniam tamquam momentum stateræ,  sic est ante te orbis terrarum,  et tamquam gutta roris antelucani quæ descendit in terram. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b3d3b3" class="outline-3">
+<h3 id="org4b3d3b3">Wisdom 11:24</h3>
+<div class="outline-text-3" id="text-org4b3d3b3">
+<p>
+Sed misereris omnium, quia omnia potes ;  et dissimulas peccata hominum, propter pœnitentiam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9661805" class="outline-3">
+<h3 id="org9661805">Wisdom 11:25</h3>
+<div class="outline-text-3" id="text-org9661805">
+<p>
+Diligis enim omnia quæ sunt,  et nihil odisti eorum quæ fecisti ;  nec enim odiens aliquid constituisti aut fecisti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org833cae4" class="outline-3">
+<h3 id="org833cae4">Wisdom 11:26</h3>
+<div class="outline-text-3" id="text-org833cae4">
+<p>
+Quomodo autem posset aliquid permanere, nisi tu voluisses ?  aut quod a te vocatum non esset conservaretur ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org120860d" class="outline-3">
+<h3 id="org120860d">Wisdom 11:27</h3>
+<div class="outline-text-3" id="text-org120860d">
+<p>
+Parcis autem omnibus, quoniam tua sunt, Domine,  qui amas animas.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org178545e" class="outline-2">
+<h2 id="org178545e">Wisdom 12</h2>
+<div class="outline-text-2" id="text-org178545e">
+</div>
+<div id="outline-container-orgd24d463" class="outline-3">
+<h3 id="orgd24d463">Wisdom 12:1</h3>
+<div class="outline-text-3" id="text-orgd24d463">
+<p>
+O quam bonus et suavis est, Domine, spiritus tuus in omnibus ! 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd59073b" class="outline-3">
+<h3 id="orgd59073b">Wisdom 12:2</h3>
+<div class="outline-text-3" id="text-orgd59073b">
+<p>
+Ideoque eos qui exerrant partibus corripis,  et de quibus peccant admones et alloqueris,  ut relicta malitia credant in te, Domine. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga7a50b6" class="outline-3">
+<h3 id="orga7a50b6">Wisdom 12:3</h3>
+<div class="outline-text-3" id="text-orga7a50b6">
+<p>
+Illos enim antiquos inhabitatores terræ sanctæ tuæ,  quos exhorruisti, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4557794" class="outline-3">
+<h3 id="org4557794">Wisdom 12:4</h3>
+<div class="outline-text-3" id="text-org4557794">
+<p>
+quoniam odibilia opera tibi faciebant  per medicamina et sacrificia injusta, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd78c06f" class="outline-3">
+<h3 id="orgd78c06f">Wisdom 12:5</h3>
+<div class="outline-text-3" id="text-orgd78c06f">
+<p>
+et filiorum suorum necatores sine misericordia,  et comestores viscerum hominum,  et devoratores sanguinis a medio sacramento tuo, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8488457" class="outline-3">
+<h3 id="org8488457">Wisdom 12:6</h3>
+<div class="outline-text-3" id="text-org8488457">
+<p>
+et auctores parentes animarum inauxiliatarum,  perdere voluisti per manus parentum nostrorum : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge7d05d9" class="outline-3">
+<h3 id="orge7d05d9">Wisdom 12:7</h3>
+<div class="outline-text-3" id="text-orge7d05d9">
+<p>
+ut dignam perciperent peregrinationem puerorum Dei,  quæ tibi omnium carior est terra. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgad2b0f4" class="outline-3">
+<h3 id="orgad2b0f4">Wisdom 12:8</h3>
+<div class="outline-text-3" id="text-orgad2b0f4">
+<p>
+Sed et his tamquam hominibus pepercisti,  et misisti antecessores exercitus tui vespas,  ut illos paulatim exterminarent. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge733770" class="outline-3">
+<h3 id="orge733770">Wisdom 12:9</h3>
+<div class="outline-text-3" id="text-orge733770">
+<p>
+Non quia impotens eras in bello subjicere impios justis,  aut bestiis sævis, aut verbo duro simul exterminare : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org12817a6" class="outline-3">
+<h3 id="org12817a6">Wisdom 12:10</h3>
+<div class="outline-text-3" id="text-org12817a6">
+<p>
+sed partibus judicans,  dabas locum pœnitentiæ,  non ignorans quoniam nequam est natio eorum,  et naturalis malitia ipsorum,  et quoniam non poterat mutari cogitatio illorum in perpetuum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge028a95" class="outline-3">
+<h3 id="orge028a95">Wisdom 12:11</h3>
+<div class="outline-text-3" id="text-orge028a95">
+<p>
+Semen enim erat maledictum ab initio ;  nec timens aliquem, veniam dabas peccatis illorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7560a1c" class="outline-3">
+<h3 id="org7560a1c">Wisdom 12:12</h3>
+<div class="outline-text-3" id="text-org7560a1c">
+<p>
+Quis enim dicet tibi : Quid fecisti ?  aut quis stabit contra judicium tuum ?  aut quis in conspectu tuo veniet vindex iniquorum hominum ?  aut quis tibi imputabit, si perierint nationes quas tu fecisti ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org918b424" class="outline-3">
+<h3 id="org918b424">Wisdom 12:13</h3>
+<div class="outline-text-3" id="text-org918b424">
+<p>
+Non enim est alius deus quam tu,  cui cura est de omnibus,  ut ostendas quoniam non injuste judicas judicium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga79f41c" class="outline-3">
+<h3 id="orga79f41c">Wisdom 12:14</h3>
+<div class="outline-text-3" id="text-orga79f41c">
+<p>
+Neque rex, neque tyrannus in conspectu tuo inquirent  de his quos perdidisti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org737e1b2" class="outline-3">
+<h3 id="org737e1b2">Wisdom 12:15</h3>
+<div class="outline-text-3" id="text-org737e1b2">
+<p>
+Cum ergo sis justus, juste omnia disponis ;  ipsum quoque qui non debet puniri, condemnare,  exterum æstimas a tua virtute. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda8b4ac" class="outline-3">
+<h3 id="orgda8b4ac">Wisdom 12:16</h3>
+<div class="outline-text-3" id="text-orgda8b4ac">
+<p>
+Virtus enim tua justitiæ initium est,  et ob hoc quod Dominus es,  omnibus te parcere facis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga1bfb54" class="outline-3">
+<h3 id="orga1bfb54">Wisdom 12:17</h3>
+<div class="outline-text-3" id="text-orga1bfb54">
+<p>
+Virtutem enim ostendis tu,  qui non crederis esse in virtute consummatus,  et horum qui te nesciunt audaciam traducis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org740344b" class="outline-3">
+<h3 id="org740344b">Wisdom 12:18</h3>
+<div class="outline-text-3" id="text-org740344b">
+<p>
+Tu autem dominator virtutis, cum tranquillitate judicas,  et cum magna reverentia disponis nos :  subest enim tibi, cum volueris posse. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org011a44e" class="outline-3">
+<h3 id="org011a44e">Wisdom 12:19</h3>
+<div class="outline-text-3" id="text-org011a44e">
+<p>
+Docuisti autem populum tuum per talia opera,  quoniam oportet justum esse et humanum ;  et bonæ spei fecisti filios tuos,  quoniam judicans das locum in peccatis pœnitentiæ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2a47962" class="outline-3">
+<h3 id="org2a47962">Wisdom 12:20</h3>
+<div class="outline-text-3" id="text-org2a47962">
+<p>
+Si enim inimicos servorum tuorum, et debitos morti,  cum tanta cruciasti attentione,  dans tempus et locum per quæ possent mutari a malitia : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0af7ef1" class="outline-3">
+<h3 id="org0af7ef1">Wisdom 12:21</h3>
+<div class="outline-text-3" id="text-org0af7ef1">
+<p>
+cum quanta diligentia judicasti filios tuos,  quorum parentibus juramenta et conventiones dedisti bonarum promissionum ! 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd4f954e" class="outline-3">
+<h3 id="orgd4f954e">Wisdom 12:22</h3>
+<div class="outline-text-3" id="text-orgd4f954e">
+<p>
+Cum ergo das nobis disciplinam,  inimicos nostros multipliciter flagellas,  ut bonitatem tuam cogitemus judicantes,  et cum de nobis judicatur, speremus misericordiam tuam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org54fdd9b" class="outline-3">
+<h3 id="org54fdd9b">Wisdom 12:23</h3>
+<div class="outline-text-3" id="text-org54fdd9b">
+<p>
+Unde et illis qui in vita sua insensate et injuste vixerunt,  per hæc quæ coluerunt dedisti summa tormenta. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5c70930" class="outline-3">
+<h3 id="org5c70930">Wisdom 12:24</h3>
+<div class="outline-text-3" id="text-org5c70930">
+<p>
+Etenim in erroris via diutius erraverunt,  deos æstimantes hæc quæ in animalibus sunt supervacua,  infantium insensatorum more viventes. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcf5c970" class="outline-3">
+<h3 id="orgcf5c970">Wisdom 12:25</h3>
+<div class="outline-text-3" id="text-orgcf5c970">
+<p>
+Propter hoc tamquam pueris insensatis judicium in derisum dedisti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org33b844c" class="outline-3">
+<h3 id="org33b844c">Wisdom 12:26</h3>
+<div class="outline-text-3" id="text-org33b844c">
+<p>
+Qui autem ludibriis et increpationibus non sunt correcti,  dignum Dei judicium experti sunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb8b929d" class="outline-3">
+<h3 id="orgb8b929d">Wisdom 12:27</h3>
+<div class="outline-text-3" id="text-orgb8b929d">
+<p>
+In quibus enim patientes indignabantur  per hæc quos putabant deos,  in ipsis cum exterminarentur videntes,  illum quem olim negabant se nosse, verum Deum agnoverunt ;  propter quod et finis condemnationis eorum venit super illos.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org496fb98" class="outline-2">
+<h2 id="org496fb98">Wisdom 13</h2>
+<div class="outline-text-2" id="text-org496fb98">
+</div>
+<div id="outline-container-orgdb3d191" class="outline-3">
+<h3 id="orgdb3d191">Wisdom 13:1</h3>
+<div class="outline-text-3" id="text-orgdb3d191">
+<p>
+Vani autem sunt omnes homines  in quibus non subest scientia Dei ;  et de his quæ videntur bona,  non potuerunt intelligere eum qui est,  neque operibus attendentes agnoverunt quis esset artifex : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc961fbb" class="outline-3">
+<h3 id="orgc961fbb">Wisdom 13:2</h3>
+<div class="outline-text-3" id="text-orgc961fbb">
+<p>
+sed aut ignem, aut spiritum, aut citatum aërem,  aut gyrum stellarum, aut nimiam aquam, aut solem et lunam,  rectores orbis terrarum deos putaverunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf5e2502" class="outline-3">
+<h3 id="orgf5e2502">Wisdom 13:3</h3>
+<div class="outline-text-3" id="text-orgf5e2502">
+<p>
+Quorum si specie delectati, deos putaverunt,  sciant quanto his dominator eorum speciosior est :  speciei enim generator hæc omnia constituit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0914377" class="outline-3">
+<h3 id="org0914377">Wisdom 13:4</h3>
+<div class="outline-text-3" id="text-org0914377">
+<p>
+Aut si virtutem et opera eorum mirati sunt,  intelligant ab illis quoniam qui hæc fecit fortior est illis : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb8e5f6f" class="outline-3">
+<h3 id="orgb8e5f6f">Wisdom 13:5</h3>
+<div class="outline-text-3" id="text-orgb8e5f6f">
+<p>
+a magnitudine enim speciei et creaturæ  cognoscibiliter poterit creator horum videri. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org54e8258" class="outline-3">
+<h3 id="org54e8258">Wisdom 13:6</h3>
+<div class="outline-text-3" id="text-org54e8258">
+<p>
+Sed tamen adhuc in his minor est querela ;  et hi enim fortasse errant,  Deum quærentes, et volentes invenire. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org16c4875" class="outline-3">
+<h3 id="org16c4875">Wisdom 13:7</h3>
+<div class="outline-text-3" id="text-org16c4875">
+<p>
+Etenim cum in operibus illius conversentur inquirunt,  et persuasum habent quoniam bona sunt quæ videntur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd87f2a1" class="outline-3">
+<h3 id="orgd87f2a1">Wisdom 13:8</h3>
+<div class="outline-text-3" id="text-orgd87f2a1">
+<p>
+Iterum autem nec his debet ignosci. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org64d8c58" class="outline-3">
+<h3 id="org64d8c58">Wisdom 13:9</h3>
+<div class="outline-text-3" id="text-org64d8c58">
+<p>
+Si enim tantum potuerunt scire  ut possent æstimare sæculum,  quomodo hujus Dominum non facilius invenerunt ? 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge72ee84" class="outline-3">
+<h3 id="orge72ee84">Wisdom 13:10</h3>
+<div class="outline-text-3" id="text-orge72ee84">
+<p>
+Infelices autem sunt,  et inter mortuos spes illorum est,  qui appellaverunt deos opera manuum hominum :  aurum et argentum, artis inventionem,  et similitudines animalium, aut lapidem inutilem,  opus manus antiquæ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbc54d4a" class="outline-3">
+<h3 id="orgbc54d4a">Wisdom 13:11</h3>
+<div class="outline-text-3" id="text-orgbc54d4a">
+<p>
+Aut si quis artifex faber de silva lignum rectum secuerit,  et hujus docte eradat omnem corticem,  et arte sua usus  diligenter fabricet vas utile in conversationem vitæ ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb8ade1f" class="outline-3">
+<h3 id="orgb8ade1f">Wisdom 13:12</h3>
+<div class="outline-text-3" id="text-orgb8ade1f">
+<p>
+reliquiis autem ejus operis  ad præparationem escæ abutatur, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org184493b" class="outline-3">
+<h3 id="org184493b">Wisdom 13:13</h3>
+<div class="outline-text-3" id="text-org184493b">
+<p>
+et reliquum horum quod ad nullos usus facit,  lignum curvum et vorticibus plenum  sculpat diligenter per vacuitatem suam,  et per scientiam suæ artis figuret illud,  et assimilet illud imagini hominis, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org41be9a8" class="outline-3">
+<h3 id="org41be9a8">Wisdom 13:14</h3>
+<div class="outline-text-3" id="text-org41be9a8">
+<p>
+aut alicui ex animalibus illud comparet :  perliniens rubrica, et rubicundum faciens fuco colorem illius,  et omnem maculam quæ in illo est perliniens ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbab4d62" class="outline-3">
+<h3 id="orgbab4d62">Wisdom 13:15</h3>
+<div class="outline-text-3" id="text-orgbab4d62">
+<p>
+et faciat ei dignam habitationem,  et in pariete ponens illud,  et confirmans ferro
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge9bc60a" class="outline-3">
+<h3 id="orge9bc60a">Wisdom 13:16</h3>
+<div class="outline-text-3" id="text-orge9bc60a">
+<p>
+ne forte cadat,  prospiciens illi :  sciens quoniam non potest adjuvare se :  imago enim est, et opus est illi adjutorium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1714677" class="outline-3">
+<h3 id="org1714677">Wisdom 13:17</h3>
+<div class="outline-text-3" id="text-org1714677">
+<p>
+Et de substantia sua, et de filiis suis,  et de nuptiis votum faciens inquirit :  non erubescit loqui cum illo qui sine anima est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org49b8751" class="outline-3">
+<h3 id="org49b8751">Wisdom 13:18</h3>
+<div class="outline-text-3" id="text-org49b8751">
+<p>
+Et pro sanitate quidem infirmum deprecatur,  et pro vita rogat mortuum,  et in adjutorium inutilem invocat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org70488cd" class="outline-3">
+<h3 id="org70488cd">Wisdom 13:19</h3>
+<div class="outline-text-3" id="text-org70488cd">
+<p>
+Et pro itinere petit ab eo qui ambulare non potest ;  et de acquirendo, et de operando,  et de omnium rerum eventu,  petit ab eo qui in omnibus est inutilis.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org28db5be" class="outline-2">
+<h2 id="org28db5be">Wisdom 14</h2>
+<div class="outline-text-2" id="text-org28db5be">
+</div>
+<div id="outline-container-org99410a0" class="outline-3">
+<h3 id="org99410a0">Wisdom 14:1</h3>
+<div class="outline-text-3" id="text-org99410a0">
+<p>
+Iterum alius navigare cogitans,  et per feros fluctus iter facere incipiens,  ligno portante se, fragilius lignum invocat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge0a8b21" class="outline-3">
+<h3 id="orge0a8b21">Wisdom 14:2</h3>
+<div class="outline-text-3" id="text-orge0a8b21">
+<p>
+Illud enim cupiditas acquirendi excogitavit,  et artifex sapientia fabricavit sua. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcaf861b" class="outline-3">
+<h3 id="orgcaf861b">Wisdom 14:3</h3>
+<div class="outline-text-3" id="text-orgcaf861b">
+<p>
+Tua autem, Pater, providentia gubernat :  quoniam dedisti et in mari viam,  et inter fluctus semitam firmissimam, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb46fe6f" class="outline-3">
+<h3 id="orgb46fe6f">Wisdom 14:4</h3>
+<div class="outline-text-3" id="text-orgb46fe6f">
+<p>
+ostendens quoniam potens es ex omnibus salvare,  etiam si sine arte aliquis adeat mare. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org649892a" class="outline-3">
+<h3 id="org649892a">Wisdom 14:5</h3>
+<div class="outline-text-3" id="text-org649892a">
+<p>
+Sed ut non essent vacua sapientiæ tuæ opera,  propter hoc etiam et exiguo ligno credunt homines animas suas,  et transeuntes mare per ratem liberati sunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5537e65" class="outline-3">
+<h3 id="org5537e65">Wisdom 14:6</h3>
+<div class="outline-text-3" id="text-org5537e65">
+<p>
+Sed et ab initio cum perirent superbi gigantes,  spes orbis terrarum ad ratem confugiens,  remisit sæculo semen nativitatis quæ manu tua erat gubernata. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3ea9643" class="outline-3">
+<h3 id="org3ea9643">Wisdom 14:7</h3>
+<div class="outline-text-3" id="text-org3ea9643">
+<p>
+Benedictum est enim lignum per quod fit justitia ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgee0699a" class="outline-3">
+<h3 id="orgee0699a">Wisdom 14:8</h3>
+<div class="outline-text-3" id="text-orgee0699a">
+<p>
+per manus autem quod fit idolum,  maledictum est et ipsum, et qui fecit illud :  quia ille quidem operatus est,  illud autem cum esset fragile, deus cognominatus est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c612b5" class="outline-3">
+<h3 id="org8c612b5">Wisdom 14:9</h3>
+<div class="outline-text-3" id="text-org8c612b5">
+<p>
+Similiter autem odio sunt Deo impius et impietas ejus ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbff96dc" class="outline-3">
+<h3 id="orgbff96dc">Wisdom 14:10</h3>
+<div class="outline-text-3" id="text-orgbff96dc">
+<p>
+etenim quod factum est, cum illo qui fecit tormenta patietur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd35e8ab" class="outline-3">
+<h3 id="orgd35e8ab">Wisdom 14:11</h3>
+<div class="outline-text-3" id="text-orgd35e8ab">
+<p>
+Propter hoc et in idolis nationum non erit respectus,  quoniam creaturæ Dei in odium factæ sunt,  et in tentationem animabus hominum,  et in muscipulam pedibus insipientium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda0cac3" class="outline-3">
+<h3 id="orgda0cac3">Wisdom 14:12</h3>
+<div class="outline-text-3" id="text-orgda0cac3">
+<p>
+Initium enim fornicationis est exquisitio idolorum,  et adinventio illorum corruptio vitæ est : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgea8650b" class="outline-3">
+<h3 id="orgea8650b">Wisdom 14:13</h3>
+<div class="outline-text-3" id="text-orgea8650b">
+<p>
+neque enim erant ab initio,  neque erunt in perpetuum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5880144" class="outline-3">
+<h3 id="org5880144">Wisdom 14:14</h3>
+<div class="outline-text-3" id="text-org5880144">
+<p>
+Supervacuitas enim hominum hæc advenit in orbem terrarum,  et ideo brevis illorum finis est inventus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7660fce" class="outline-3">
+<h3 id="org7660fce">Wisdom 14:15</h3>
+<div class="outline-text-3" id="text-org7660fce">
+<p>
+Acerbo enim luctu dolens pater,  cito sibi rapti filii fecit imaginem ;  et illum qui tunc quasi homo mortuus fuerat,  nunc tamquam deum colere cœpit,  et constituit inter servos suos sacra et sacrificia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org714cb5e" class="outline-3">
+<h3 id="org714cb5e">Wisdom 14:16</h3>
+<div class="outline-text-3" id="text-org714cb5e">
+<p>
+Deinde interveniente tempore, convalescente iniqua consuetudine,  hic error tamquam lex custoditus est,  et tyrannorum imperio colebantur figmenta. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org569286d" class="outline-3">
+<h3 id="org569286d">Wisdom 14:17</h3>
+<div class="outline-text-3" id="text-org569286d">
+<p>
+Et hos quos in palam homines honorare non poterant  propter hoc quod longe essent,  e longinquo figura eorum allata,  evidentem imaginem regis quem honorare volebant fecerunt,  ut illum qui aberat, tamquam præsentem colerent sua sollicitudine. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd23d708" class="outline-3">
+<h3 id="orgd23d708">Wisdom 14:18</h3>
+<div class="outline-text-3" id="text-orgd23d708">
+<p>
+Provexit autem ad horum culturam  et hos qui ignorabant artificis eximia diligentia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1e79f77" class="outline-3">
+<h3 id="org1e79f77">Wisdom 14:19</h3>
+<div class="outline-text-3" id="text-org1e79f77">
+<p>
+Ille enim, volens placere illi qui se assumpsit,  elaboravit arte sua ut similitudinem in melius figuraret. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge48a87b" class="outline-3">
+<h3 id="orge48a87b">Wisdom 14:20</h3>
+<div class="outline-text-3" id="text-orge48a87b">
+<p>
+Multitudo autem hominum, abducta per speciem operis,  eum qui ante tempus tamquam homo honoratus fuerat,  nunc deum æstimaverunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org790c050" class="outline-3">
+<h3 id="org790c050">Wisdom 14:21</h3>
+<div class="outline-text-3" id="text-org790c050">
+<p>
+Et hæc fuit vitæ humanæ deceptio,  quoniam aut affectui aut regibus deservientes homines,  incommunicabile nomen lapidibus et lignis imposuerunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2b75038" class="outline-3">
+<h3 id="org2b75038">Wisdom 14:22</h3>
+<div class="outline-text-3" id="text-org2b75038">
+<p>
+Et non suffecerat errasse eos circa Dei scientiam,  sed et in magno viventes inscientiæ bello,  tot et tam magna mala pacem appellant. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2e48bd9" class="outline-3">
+<h3 id="org2e48bd9">Wisdom 14:23</h3>
+<div class="outline-text-3" id="text-org2e48bd9">
+<p>
+Aut enim filios suos sacrificantes,  aut obscura sacrificia facientes,  aut insaniæ plenas vigilias habentes, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga40a4a1" class="outline-3">
+<h3 id="orga40a4a1">Wisdom 14:24</h3>
+<div class="outline-text-3" id="text-orga40a4a1">
+<p>
+neque vitam, neque nuptias mundas jam custodiunt :  sed alius alium per invidiam occidit,  aut adulterans contristat, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8a96c34" class="outline-3">
+<h3 id="org8a96c34">Wisdom 14:25</h3>
+<div class="outline-text-3" id="text-org8a96c34">
+<p>
+et omnia commista sunt : sanguis, homicidium,  furtum et fictio, corruptio et infidelitas,  turbatio et perjurium, tumultus bonorum, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc93fc33" class="outline-3">
+<h3 id="orgc93fc33">Wisdom 14:26</h3>
+<div class="outline-text-3" id="text-orgc93fc33">
+<p>
+Dei immemoratio, animarum inquinatio,  nativitatis immutatio, nuptiarum inconstantia,  inordinatio mœchiæ et impudicitiæ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2678f11" class="outline-3">
+<h3 id="org2678f11">Wisdom 14:27</h3>
+<div class="outline-text-3" id="text-org2678f11">
+<p>
+Infandorum enim idolorum cultura  omnis mali causa est, et initium et finis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org50e7593" class="outline-3">
+<h3 id="org50e7593">Wisdom 14:28</h3>
+<div class="outline-text-3" id="text-org50e7593">
+<p>
+Aut enim dum lætantur insaniunt,  aut certe vaticinantur falsa,  aut vivunt injuste, aut pejerant cito. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6e5ba8e" class="outline-3">
+<h3 id="org6e5ba8e">Wisdom 14:29</h3>
+<div class="outline-text-3" id="text-org6e5ba8e">
+<p>
+Dum enim confidunt in idolis quæ sine anima sunt,  male jurantes noceri se non sperant. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcda30dd" class="outline-3">
+<h3 id="orgcda30dd">Wisdom 14:30</h3>
+<div class="outline-text-3" id="text-orgcda30dd">
+<p>
+Utraque ergo illis evenient digne,  quoniam male senserunt de Deo, attendentes idolis,  et juraverunt injuste,  in dolo contemnentes justitiam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge6022f0" class="outline-3">
+<h3 id="orge6022f0">Wisdom 14:31</h3>
+<div class="outline-text-3" id="text-orge6022f0">
+<p>
+Non enim juratorum virtus,  sed peccantium pœna,  perambulat semper injustorum prævaricationem.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org2e27416" class="outline-2">
+<h2 id="org2e27416">Wisdom 15</h2>
+<div class="outline-text-2" id="text-org2e27416">
+</div>
+<div id="outline-container-org9fa4c78" class="outline-3">
+<h3 id="org9fa4c78">Wisdom 15:1</h3>
+<div class="outline-text-3" id="text-org9fa4c78">
+<p>
+Tu autem, Deus noster, suavis et verus es,  patiens, et in misericordia disponens omnia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb135c56" class="outline-3">
+<h3 id="orgb135c56">Wisdom 15:2</h3>
+<div class="outline-text-3" id="text-orgb135c56">
+<p>
+Etenim si peccaverimus, tui sumus,  scientes magnitudinem tuam ;  et si non peccaverimus,  scimus quoniam apud te sumus computati. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga98c114" class="outline-3">
+<h3 id="orga98c114">Wisdom 15:3</h3>
+<div class="outline-text-3" id="text-orga98c114">
+<p>
+Nosse enim te, consummata justitia est ;  et scire justitiam et virtutem tuam, radix est immortalitatis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6735b96" class="outline-3">
+<h3 id="org6735b96">Wisdom 15:4</h3>
+<div class="outline-text-3" id="text-org6735b96">
+<p>
+Non enim in errorem induxit nos  hominum malæ artis excogitatio,  nec umbra picturæ labor sine fructu,  effigies sculpta per varios colores : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgcd1662b" class="outline-3">
+<h3 id="orgcd1662b">Wisdom 15:5</h3>
+<div class="outline-text-3" id="text-orgcd1662b">
+<p>
+cujus aspectus insensato dat concupiscentiam,  et diligit mortuæ imaginis effigiem sine anima. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge03d1f0" class="outline-3">
+<h3 id="orge03d1f0">Wisdom 15:6</h3>
+<div class="outline-text-3" id="text-orge03d1f0">
+<p>
+Malorum amatores digni sunt qui spem habeant in talibus,  et qui faciunt illos, et qui diligunt, et qui colunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2f6d1bc" class="outline-3">
+<h3 id="org2f6d1bc">Wisdom 15:7</h3>
+<div class="outline-text-3" id="text-org2f6d1bc">
+<p>
+Sed et figulus mollem terram premens,  laboriose fingit ad usus nostros unumquodque vas ;  et de eodem luto fingit quæ munda sunt in usum vasa,  et similiter quæ his sunt contraria :  horum autem vasorum quis sit usus,  judex est figulus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org850cb55" class="outline-3">
+<h3 id="org850cb55">Wisdom 15:8</h3>
+<div class="outline-text-3" id="text-org850cb55">
+<p>
+Et cum labore vano deum fingit de eodem luto  ille qui paulo ante de terra factus fuerat,  et post pusillum reducit se unde acceptus est,  repetitus animæ debitum quam habebat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2d2e78f" class="outline-3">
+<h3 id="org2d2e78f">Wisdom 15:9</h3>
+<div class="outline-text-3" id="text-org2d2e78f">
+<p>
+Sed cura est illi non quia laboraturus est,  nec quoniam brevis illi vita est :  sed concertatur aurificibus et argentariis ;  sed et ærarios imitatur,  et gloriam præfert, quoniam res supervacuas fingit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc5bc37d" class="outline-3">
+<h3 id="orgc5bc37d">Wisdom 15:10</h3>
+<div class="outline-text-3" id="text-orgc5bc37d">
+<p>
+Cinis est enim cor ejus,  et terra supervacua spes illius,  et luto vilior vita ejus : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org42dcf28" class="outline-3">
+<h3 id="org42dcf28">Wisdom 15:11</h3>
+<div class="outline-text-3" id="text-org42dcf28">
+<p>
+quoniam ignoravit qui se finxit,  et qui inspiravit illi animam quæ operatur,  et qui insufflavit ei spiritum vitalem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org489cddc" class="outline-3">
+<h3 id="org489cddc">Wisdom 15:12</h3>
+<div class="outline-text-3" id="text-org489cddc">
+<p>
+Sed et æstimaverunt ludum esse vitam nostram,  et conversationem vitæ compositam ad lucrum,  et oportere undecumque etiam ex malo acquirere. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org86da907" class="outline-3">
+<h3 id="org86da907">Wisdom 15:13</h3>
+<div class="outline-text-3" id="text-org86da907">
+<p>
+Hic enim scit se super omnes delinquere,  qui ex terræ materia fragilia vasa et sculptilia fingit. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org83a6052" class="outline-3">
+<h3 id="org83a6052">Wisdom 15:14</h3>
+<div class="outline-text-3" id="text-org83a6052">
+<p>
+Omnes enim insipientes,  et infelices supra modum animæ superbi,  sunt inimici populi tui, et imperantes illi : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf69673f" class="outline-3">
+<h3 id="orgf69673f">Wisdom 15:15</h3>
+<div class="outline-text-3" id="text-orgf69673f">
+<p>
+quoniam omnia idola nationum deos æstimaverunt,  quibus neque oculorum usus est ad videndum,  neque nares ad percipiendum spiritum,  neque aures ad audiendum,  neque digiti manuum ad tractandum,  sed et pedes eorum pigri ad ambulandum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0b74c06" class="outline-3">
+<h3 id="org0b74c06">Wisdom 15:16</h3>
+<div class="outline-text-3" id="text-org0b74c06">
+<p>
+Homo enim fecit illos ;  et qui spiritum mutuatus est, is finxit illos.  Nemo enim sibi similem homo poterit deum fingere. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0433a0c" class="outline-3">
+<h3 id="org0433a0c">Wisdom 15:17</h3>
+<div class="outline-text-3" id="text-org0433a0c">
+<p>
+Cum enim sit mortalis, mortuum fingit manibus iniquis.  Melior enim est ipse his quos colit,  quia ipse quidem vixit, cum esset mortalis, illi autem numquam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6a9300c" class="outline-3">
+<h3 id="org6a9300c">Wisdom 15:18</h3>
+<div class="outline-text-3" id="text-org6a9300c">
+<p>
+Sed et animalia miserrima colunt ;  insensata enim comparata his, illis sunt deteriora. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8f4047d" class="outline-3">
+<h3 id="org8f4047d">Wisdom 15:19</h3>
+<div class="outline-text-3" id="text-org8f4047d">
+<p>
+Sed nec aspectu aliquis ex his animalibus bona potest conspicere :  effugerunt autem Dei laudem et benedictionem ejus.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga218ed2" class="outline-2">
+<h2 id="orga218ed2">Wisdom 16</h2>
+<div class="outline-text-2" id="text-orga218ed2">
+</div>
+<div id="outline-container-org066d1d8" class="outline-3">
+<h3 id="org066d1d8">Wisdom 16:1</h3>
+<div class="outline-text-3" id="text-org066d1d8">
+<p>
+Propter hæc et per his similia passi sunt digne tormenta,  et per multitudinem bestiarum exterminati sunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3aec6cc" class="outline-3">
+<h3 id="org3aec6cc">Wisdom 16:2</h3>
+<div class="outline-text-3" id="text-org3aec6cc">
+<p>
+Pro quibus tormentis bene disposuisti populum tuum,  quibus dedisti concupiscentiam delectamenti sui novum saporem,  escam parans eis ortygometram : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0a6f75a" class="outline-3">
+<h3 id="org0a6f75a">Wisdom 16:3</h3>
+<div class="outline-text-3" id="text-org0a6f75a">
+<p>
+ut illi quidem, concupiscentes escam  propter ea quæ illis ostensa et missa sunt,  etiam a necessaria concupiscentia averterentur.  Hi autem in brevi inopes facti, novam gustaverunt escam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeb09424" class="outline-3">
+<h3 id="orgeb09424">Wisdom 16:4</h3>
+<div class="outline-text-3" id="text-orgeb09424">
+<p>
+Oportebat enim illis sine excusatione quidem  supervenire interitum exercentibus tyrannidem ;  his autem tantum ostendere  quemadmodum inimici eorum exterminabantur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3d8f88e" class="outline-3">
+<h3 id="org3d8f88e">Wisdom 16:5</h3>
+<div class="outline-text-3" id="text-org3d8f88e">
+<p>
+Etenim cum illis supervenit sæva bestiarum ira,  morsibus perversorum colubrorum exterminabantur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga60172e" class="outline-3">
+<h3 id="orga60172e">Wisdom 16:6</h3>
+<div class="outline-text-3" id="text-orga60172e">
+<p>
+Sed non in perpetuum ira tua permansit,  sed ad correptionem in brevi turbati sunt,  signum habentes salutis ad commemorationem mandati legis tuæ. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org124a3b4" class="outline-3">
+<h3 id="org124a3b4">Wisdom 16:7</h3>
+<div class="outline-text-3" id="text-org124a3b4">
+<p>
+Qui enim conversus est,  non per hoc quod videbat sanabatur,  sed per te, omnium salvatorem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0b0a839" class="outline-3">
+<h3 id="org0b0a839">Wisdom 16:8</h3>
+<div class="outline-text-3" id="text-org0b0a839">
+<p>
+In hoc autem ostendisti inimicis nostris  quia tu es qui liberas ab omni malo. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9f8fcae" class="outline-3">
+<h3 id="org9f8fcae">Wisdom 16:9</h3>
+<div class="outline-text-3" id="text-org9f8fcae">
+<p>
+Illos enim locustarum et muscarum occiderunt morsus,  et non est inventa sanitas animæ illorum,  quia digni erant ab hujuscemodi exterminari. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf53d341" class="outline-3">
+<h3 id="orgf53d341">Wisdom 16:10</h3>
+<div class="outline-text-3" id="text-orgf53d341">
+<p>
+Filios autem tuos nec draconum venenatorum vicerunt dentes :  misericordia enim tua adveniens sanabat illos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org73184b8" class="outline-3">
+<h3 id="org73184b8">Wisdom 16:11</h3>
+<div class="outline-text-3" id="text-org73184b8">
+<p>
+In memoria enim sermonum tuorum examinabantur,  et velociter salvabantur :  ne in altam incidentes oblivionem  non possent tuo uti adjutorio. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org431620b" class="outline-3">
+<h3 id="org431620b">Wisdom 16:12</h3>
+<div class="outline-text-3" id="text-org431620b">
+<p>
+Etenim neque herba, neque malagma sanavit eos :  sed tuus, Domine, sermo, qui sanat omnia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org904a99e" class="outline-3">
+<h3 id="org904a99e">Wisdom 16:13</h3>
+<div class="outline-text-3" id="text-org904a99e">
+<p>
+Tu es enim, Domine, qui vitæ et mortis habes potestatem,  et deducis ad portas mortis, et reducis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org85729ff" class="outline-3">
+<h3 id="org85729ff">Wisdom 16:14</h3>
+<div class="outline-text-3" id="text-org85729ff">
+<p>
+Homo autem occidit quidem per malitiam ;  et cum exierit spiritus, non revertetur,  nec revocabit animam quæ recepta est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf177bb1" class="outline-3">
+<h3 id="orgf177bb1">Wisdom 16:15</h3>
+<div class="outline-text-3" id="text-orgf177bb1">
+<p>
+Sed tuam manum effugere impossibile est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf937075" class="outline-3">
+<h3 id="orgf937075">Wisdom 16:16</h3>
+<div class="outline-text-3" id="text-orgf937075">
+<p>
+Negantes enim te nosse impii,  per fortitudinem brachii tui flagellati sunt :  novis aquis, et grandinibus,  et pluviis persecutionem passi,  et per ignem consumpti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge13c138" class="outline-3">
+<h3 id="orge13c138">Wisdom 16:17</h3>
+<div class="outline-text-3" id="text-orge13c138">
+<p>
+Quod enim mirabile erat, in aqua, quæ omnia extinguit,  plus ignis valebat :  vindex est enim orbis justorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgec205b4" class="outline-3">
+<h3 id="orgec205b4">Wisdom 16:18</h3>
+<div class="outline-text-3" id="text-orgec205b4">
+<p>
+Quodam enim tempore mansuetabatur ignis,  ne comburerentur quæ ad impios missa erant animalia,  sed ut ipsi videntes scirent  quoniam Dei judicio patiuntur persecutionem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4f2aac1" class="outline-3">
+<h3 id="org4f2aac1">Wisdom 16:19</h3>
+<div class="outline-text-3" id="text-org4f2aac1">
+<p>
+Et quodam tempore in aqua  supra virtutem ignis exardescebat undique,  ut iniquæ terræ nationem exterminaret. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org482cf15" class="outline-3">
+<h3 id="org482cf15">Wisdom 16:20</h3>
+<div class="outline-text-3" id="text-org482cf15">
+<p>
+Pro quibus angelorum esca nutrivisti populum tuum,  et paratum panem de cælo præstitisti illis sine labore,  omne delectamentum in se habentem,  et omnis saporis suavitatem. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6e82471" class="outline-3">
+<h3 id="org6e82471">Wisdom 16:21</h3>
+<div class="outline-text-3" id="text-org6e82471">
+<p>
+Substantia enim tua dulcedinem tuam,  quam in filios habes, ostendebat ;  et deserviens uniuscujusque voluntati,  ad quod quisque volebat convertebatur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5ed5e46" class="outline-3">
+<h3 id="org5ed5e46">Wisdom 16:22</h3>
+<div class="outline-text-3" id="text-org5ed5e46">
+<p>
+Nix autem et glacies sustinebant vim ignis, et non tabescebant :  ut scirent quoniam fructus inimicorum exterminabat  ignis ardens in grandine et pluvia coruscans ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org45d2995" class="outline-3">
+<h3 id="org45d2995">Wisdom 16:23</h3>
+<div class="outline-text-3" id="text-org45d2995">
+<p>
+hic autem iterum ut nutrirentur justi,  etiam suæ virtutis oblitus est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3ca0d6e" class="outline-3">
+<h3 id="org3ca0d6e">Wisdom 16:24</h3>
+<div class="outline-text-3" id="text-org3ca0d6e">
+<p>
+Creatura enim tibi factori deserviens,  exardescit in tormentum adversus injustos,  et lenior fit ad benefaciendum pro his qui in te confidunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b48267" class="outline-3">
+<h3 id="org4b48267">Wisdom 16:25</h3>
+<div class="outline-text-3" id="text-org4b48267">
+<p>
+Propter hoc et tunc in omnia transfigurata,  omnium nutrici gratiæ tuæ deserviebat,  ad voluntatem eorum qui a te desiderabant : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfbd03cb" class="outline-3">
+<h3 id="orgfbd03cb">Wisdom 16:26</h3>
+<div class="outline-text-3" id="text-orgfbd03cb">
+<p>
+ut scirent filii tui quos dilexisti, Domine,  quoniam non nativitatis fructus pascunt homines,  sed sermo tuus hos qui in te crediderint conservat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdf567eb" class="outline-3">
+<h3 id="orgdf567eb">Wisdom 16:27</h3>
+<div class="outline-text-3" id="text-orgdf567eb">
+<p>
+Quod enim ab igne non poterat exterminari,  statim ab exiguo radio solis calefactum tabescebat : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb71d09c" class="outline-3">
+<h3 id="orgb71d09c">Wisdom 16:28</h3>
+<div class="outline-text-3" id="text-orgb71d09c">
+<p>
+ut notum omnibus esset  quoniam oportet prævenire solem ad benedictionem tuam,  et ad ortum lucis te adorare. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org95f4cc1" class="outline-3">
+<h3 id="org95f4cc1">Wisdom 16:29</h3>
+<div class="outline-text-3" id="text-org95f4cc1">
+<p>
+Ingrati enim spes tamquam hibernalis glacies tabescet,  et disperiet tamquam aqua supervacua.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd6b8ef7" class="outline-2">
+<h2 id="orgd6b8ef7">Wisdom 17</h2>
+<div class="outline-text-2" id="text-orgd6b8ef7">
+</div>
+<div id="outline-container-org9f7513d" class="outline-3">
+<h3 id="org9f7513d">Wisdom 17:1</h3>
+<div class="outline-text-3" id="text-org9f7513d">
+<p>
+Magna sunt enim judicia tua, Domine,  et inenarrabilia verba tua :  propter hoc indisciplinatæ animæ erraverunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdf587eb" class="outline-3">
+<h3 id="orgdf587eb">Wisdom 17:2</h3>
+<div class="outline-text-3" id="text-orgdf587eb">
+<p>
+Dum enim persuasum habent iniqui  posse dominari nationi sanctæ,  vinculis tenebrarum et longæ noctis compediti,  inclusi sub tectis,  fugitivi perpetuæ providentiæ jacuerunt. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6aa682d" class="outline-3">
+<h3 id="org6aa682d">Wisdom 17:3</h3>
+<div class="outline-text-3" id="text-org6aa682d">
+<p>
+Et dum putant se latere in obscuris peccatis,  tenebroso oblivionis velamento dispersi sunt,  paventes horrende,  et cum admiratione nimia perturbati. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd71839f" class="outline-3">
+<h3 id="orgd71839f">Wisdom 17:4</h3>
+<div class="outline-text-3" id="text-orgd71839f">
+<p>
+Neque enim quæ continebat illos spelunca sine timore custodiebat,  quoniam sonitus descendens perturbabat illos,  et personæ tristes illis apparentes pavorem illis præstabant. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaa1789a" class="outline-3">
+<h3 id="orgaa1789a">Wisdom 17:5</h3>
+<div class="outline-text-3" id="text-orgaa1789a">
+<p>
+Et ignis quidem nulla vis poterat illis lumen præbere,  nec siderum limpidæ flammæ  illuminare poterant illam noctem horrendam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga610c09" class="outline-3">
+<h3 id="orga610c09">Wisdom 17:6</h3>
+<div class="outline-text-3" id="text-orga610c09">
+<p>
+Apparebat autem illis subitaneus ignis, timore plenus ;  et timore perculsi illius quæ non videbatur faciei,  æstimabant deteriora esse quæ videbantur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgef50a45" class="outline-3">
+<h3 id="orgef50a45">Wisdom 17:7</h3>
+<div class="outline-text-3" id="text-orgef50a45">
+<p>
+Et magicæ artis appositi erant derisus,  et sapientiæ gloriæ correptio cum contumelia. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge355164" class="outline-3">
+<h3 id="orge355164">Wisdom 17:8</h3>
+<div class="outline-text-3" id="text-orge355164">
+<p>
+Illi enim qui promittebant  timores et perturbationes expellere se ab anima languente,  hi cum derisu pleni timore languebant. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05f287f" class="outline-3">
+<h3 id="org05f287f">Wisdom 17:9</h3>
+<div class="outline-text-3" id="text-org05f287f">
+<p>
+Nam etsi nihil illos ex monstris perturbabat,  transitu animalium et serpentium sibilatione commoti,  tremebundi peribant,  et aërem quem nulla ratione quis effugere posset, negantes se videre. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd37aacb" class="outline-3">
+<h3 id="orgd37aacb">Wisdom 17:10</h3>
+<div class="outline-text-3" id="text-orgd37aacb">
+<p>
+Cum sit enim timida nequitia,  dat testimonium condemnationis :  semper enim præsumit sæva,  perturbata conscientia : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5b29988" class="outline-3">
+<h3 id="org5b29988">Wisdom 17:11</h3>
+<div class="outline-text-3" id="text-org5b29988">
+<p>
+nihil enim est timor nisi proditio cogitationis auxiliorum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaa2a853" class="outline-3">
+<h3 id="orgaa2a853">Wisdom 17:12</h3>
+<div class="outline-text-3" id="text-orgaa2a853">
+<p>
+Et dum ab intus minor est exspectatio,  majorem computat inscientiam ejus causæ,  de qua tormentum præstat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3f41646" class="outline-3">
+<h3 id="org3f41646">Wisdom 17:13</h3>
+<div class="outline-text-3" id="text-org3f41646">
+<p>
+Illi autem qui impotentem vere noctem,  et ab infimis et ab altissimis inferis supervenientem,  eumdem somnum dormientes, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4d13bfc" class="outline-3">
+<h3 id="org4d13bfc">Wisdom 17:14</h3>
+<div class="outline-text-3" id="text-org4d13bfc">
+<p>
+aliquando monstrorum exagitabantur timore,  aliquando animæ deficiebant traductione :  subitaneus enim illis et insperatus timor supervenerat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1df221b" class="outline-3">
+<h3 id="org1df221b">Wisdom 17:15</h3>
+<div class="outline-text-3" id="text-org1df221b">
+<p>
+Deinde si quisquam ex illis decidisset,  custodiebatur in carcere sine ferro reclusus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9c9c2d7" class="outline-3">
+<h3 id="org9c9c2d7">Wisdom 17:16</h3>
+<div class="outline-text-3" id="text-org9c9c2d7">
+<p>
+Si enim rusticus quis erat, aut pastor,  aut agri laborum operarius præoccupatus esset,  ineffugibilem sustinebat necessitatem ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0e1a4c5" class="outline-3">
+<h3 id="org0e1a4c5">Wisdom 17:17</h3>
+<div class="outline-text-3" id="text-org0e1a4c5">
+<p>
+una enim catena tenebrarum omnes erant colligati.  Sive spiritus sibilans,  aut inter spissos arborum ramos avium sonus suavis,  aut vis aquæ decurrentis nimium, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org00a415b" class="outline-3">
+<h3 id="org00a415b">Wisdom 17:18</h3>
+<div class="outline-text-3" id="text-org00a415b">
+<p>
+aut sonus validus præcipitatarum petrarum,  aut ludentium animalium cursus invisus,  aut mugientium valida bestiarum vox,  aut resonans de altissimis montibus echo :  deficientes faciebant illos præ timore. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8ecd735" class="outline-3">
+<h3 id="org8ecd735">Wisdom 17:19</h3>
+<div class="outline-text-3" id="text-org8ecd735">
+<p>
+Omnis enim orbis terrarum limpido illuminabatur lumine,  et non impeditis operibus continebatur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org20e765d" class="outline-3">
+<h3 id="org20e765d">Wisdom 17:20</h3>
+<div class="outline-text-3" id="text-org20e765d">
+<p>
+Solis autem illis superposita erat gravis nox,  imago tenebrarum quæ superventura illis erat :  ipsi ergo sibi erant graviores tenebris.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org493a460" class="outline-2">
+<h2 id="org493a460">Wisdom 18</h2>
+<div class="outline-text-2" id="text-org493a460">
+</div>
+<div id="outline-container-orga376677" class="outline-3">
+<h3 id="orga376677">Wisdom 18:1</h3>
+<div class="outline-text-3" id="text-orga376677">
+<p>
+Sanctis autem tuis maxima erat lux,  et horum quidem vocem audiebant, sed figuram non videbant.  Et quia non et ipsi eadem passi erant, magnificabant te ; 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd2dcc0e" class="outline-3">
+<h3 id="orgd2dcc0e">Wisdom 18:2</h3>
+<div class="outline-text-3" id="text-orgd2dcc0e">
+<p>
+et qui ante læsi erant, quia non lædebantur, gratias agebant,  et ut esset differentia, donum petebant. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfdce081" class="outline-3">
+<h3 id="orgfdce081">Wisdom 18:3</h3>
+<div class="outline-text-3" id="text-orgfdce081">
+<p>
+Propter quod ignis ardentem columnam  ducem habuerunt ignotæ viæ,  et solem sine læsura boni hospitii præstitisti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org386c3cc" class="outline-3">
+<h3 id="org386c3cc">Wisdom 18:4</h3>
+<div class="outline-text-3" id="text-org386c3cc">
+<p>
+Digni quidem illi carere luce,  et pati carcerem tenebrarum,  qui inclusos custodiebant filios tuos,  per quos incipiebat incorruptum legis lumen sæculo dari. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org75312c7" class="outline-3">
+<h3 id="org75312c7">Wisdom 18:5</h3>
+<div class="outline-text-3" id="text-org75312c7">
+<p>
+Cum cogitarent justorum occidere infantes,  et uno exposito filio et liberato,  in traductionem illorum, multitudinem filiorum abstulisti,  et pariter illos perdidisti in aqua valida. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org48ff6db" class="outline-3">
+<h3 id="org48ff6db">Wisdom 18:6</h3>
+<div class="outline-text-3" id="text-org48ff6db">
+<p>
+Illa enim nox ante cognita est a patribus nostris,  ut vere scientes quibus juramentis crediderunt,  animæquiores essent. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org952376d" class="outline-3">
+<h3 id="org952376d">Wisdom 18:7</h3>
+<div class="outline-text-3" id="text-org952376d">
+<p>
+Suscepta est autem a populo tuo sanitas quidem justorum,  injustorum autem exterminatio. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org90b92e5" class="outline-3">
+<h3 id="org90b92e5">Wisdom 18:8</h3>
+<div class="outline-text-3" id="text-org90b92e5">
+<p>
+Sicut enim læsisti adversarios,  sic et nos provocans magnificasti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1988f17" class="outline-3">
+<h3 id="org1988f17">Wisdom 18:9</h3>
+<div class="outline-text-3" id="text-org1988f17">
+<p>
+Absconse enim sacrificabant justi pueri bonorum,  et justitiæ legem in concordia disposuerunt ;  similiter et bona et mala recepturos justos,  patrum jam decantantes laudes. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9b2ac9e" class="outline-3">
+<h3 id="org9b2ac9e">Wisdom 18:10</h3>
+<div class="outline-text-3" id="text-org9b2ac9e">
+<p>
+Resonabat autem inconveniens inimicorum vox,  et flebilis audiebatur planctus ploratorum infantium. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2836df8" class="outline-3">
+<h3 id="org2836df8">Wisdom 18:11</h3>
+<div class="outline-text-3" id="text-org2836df8">
+<p>
+Simili autem pœna servus cum domino afflictus est,  et popularis homo regi similia passus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc3d92d2" class="outline-3">
+<h3 id="orgc3d92d2">Wisdom 18:12</h3>
+<div class="outline-text-3" id="text-orgc3d92d2">
+<p>
+Similiter ergo omnes, uno nomine mortis,  mortuos habebant innumerabiles :  nec enim ad sepeliendum vivi sufficiebant,  quoniam uno momento quæ erat præclarior  natio illorum exterminata est. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd0f4f18" class="outline-3">
+<h3 id="orgd0f4f18">Wisdom 18:13</h3>
+<div class="outline-text-3" id="text-orgd0f4f18">
+<p>
+De omnibus enim non credentes, propter veneficia ;  tunc vero primum cum fuit exterminium primogenitorum,  spoponderunt populum Dei esse. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge6c6ba6" class="outline-3">
+<h3 id="orge6c6ba6">Wisdom 18:14</h3>
+<div class="outline-text-3" id="text-orge6c6ba6">
+<p>
+Cum enim quietum silentium contineret omnia,  et nox in suo cursu medium iter haberet, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgef1ca90" class="outline-3">
+<h3 id="orgef1ca90">Wisdom 18:15</h3>
+<div class="outline-text-3" id="text-orgef1ca90">
+<p>
+omnipotens sermo tuus de cælo, a regalibus sedibus,  durus debellator in mediam exterminii terram prosilivit, 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1f513ab" class="outline-3">
+<h3 id="org1f513ab">Wisdom 18:16</h3>
+<div class="outline-text-3" id="text-org1f513ab">
+<p>
+gladius acutus insimulatum imperium tuum portans :  et stans, replevit omnia morte,  et usque ad cælum attingebat stans in terra. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6743d4c" class="outline-3">
+<h3 id="org6743d4c">Wisdom 18:17</h3>
+<div class="outline-text-3" id="text-org6743d4c">
+<p>
+Tunc continuo visus somniorum malorum turbaverunt illos,  et timores supervenerunt insperati. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org04a347a" class="outline-3">
+<h3 id="org04a347a">Wisdom 18:18</h3>
+<div class="outline-text-3" id="text-org04a347a">
+<p>
+Et alius alibi projectus semivivus,  propter quam moriebatur causam demonstrabat mortis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdf0852d" class="outline-3">
+<h3 id="orgdf0852d">Wisdom 18:19</h3>
+<div class="outline-text-3" id="text-orgdf0852d">
+<p>
+Visiones enim quæ illos turbaverunt hæc præmonebant,  ne inscii quare mala patiebantur perirent. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4fdcd86" class="outline-3">
+<h3 id="org4fdcd86">Wisdom 18:20</h3>
+<div class="outline-text-3" id="text-org4fdcd86">
+<p>
+Tetigit autem tunc et justos tentatio mortis,  et commotio in eremo facta est multitudinis :  sed non diu permansit ira tua. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2d0fb1a" class="outline-3">
+<h3 id="org2d0fb1a">Wisdom 18:21</h3>
+<div class="outline-text-3" id="text-org2d0fb1a">
+<p>
+Prosperans enim homo sine querela deprecari pro populis,  proferens servitutis suæ scutum,  orationem et per incensum deprecationem allegans,  restitit iræ, et finem imposuit necessitati,  ostendens quoniam tuus est famulus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4b808f7" class="outline-3">
+<h3 id="org4b808f7">Wisdom 18:22</h3>
+<div class="outline-text-3" id="text-org4b808f7">
+<p>
+Vicit autem turbas non in virtute corporis,  nec armaturæ potentia :  sed verbo illum qui se vexabat subjecit,  juramenta parentum et testamentum commemorans. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge6ad057" class="outline-3">
+<h3 id="orge6ad057">Wisdom 18:23</h3>
+<div class="outline-text-3" id="text-orge6ad057">
+<p>
+Cum enim jam acervatim cecidissent super alterutrum mortui,  interstitit, et amputavit impetum,  et divisit illam quæ ad vivos ducebat viam. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgca5ae02" class="outline-3">
+<h3 id="orgca5ae02">Wisdom 18:24</h3>
+<div class="outline-text-3" id="text-orgca5ae02">
+<p>
+In veste enim poderis quam habebat, totus erat orbis terrarum ;  et parentum magnalia in quatuor ordinibus lapidum erant sculpta,  et magnificentia tua in diademate capitis illius sculpta erat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeca145f" class="outline-3">
+<h3 id="orgeca145f">Wisdom 18:25</h3>
+<div class="outline-text-3" id="text-orgeca145f">
+<p>
+His autem cessit qui exterminabat, et hæc extimuit :  erat enim sola tentatio iræ sufficiens.  
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org7305743" class="outline-2">
+<h2 id="org7305743">Wisdom 19</h2>
+<div class="outline-text-2" id="text-org7305743">
+</div>
+<div id="outline-container-org9274724" class="outline-3">
+<h3 id="org9274724">Wisdom 19:1</h3>
+<div class="outline-text-3" id="text-org9274724">
+<p>
+Impiis autem usque in novissimum  sine misericordia ira supervenit.  Præsciebat enim et futura illorum : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0c62ef6" class="outline-3">
+<h3 id="org0c62ef6">Wisdom 19:2</h3>
+<div class="outline-text-3" id="text-org0c62ef6">
+<p>
+quoniam cum ipsi permisissent ut se educerent,  et cum magna sollicitudine præmisissent illos,  consequebantur illos, pœnitentia acti. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc912d29" class="outline-3">
+<h3 id="orgc912d29">Wisdom 19:3</h3>
+<div class="outline-text-3" id="text-orgc912d29">
+<p>
+Adhuc enim inter manus habentes luctum,  et deplorantes ad monumenta mortuorum,  aliam sibi assumpserunt cogitationem inscientiæ,  et quos rogantes projecerant,  hos tamquam fugitivos persequebantur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf50afb8" class="outline-3">
+<h3 id="orgf50afb8">Wisdom 19:4</h3>
+<div class="outline-text-3" id="text-orgf50afb8">
+<p>
+Ducebat enim illos ad hunc finem digna necessitas ;  et horum quæ acciderant commemorationem amittebant,  ut quæ deerant tormentis repleret punitio : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7a72552" class="outline-3">
+<h3 id="org7a72552">Wisdom 19:5</h3>
+<div class="outline-text-3" id="text-org7a72552">
+<p>
+et populus quidem tuus mirabiliter transiret,  illi autem novam mortem invenirent. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5e305b8" class="outline-3">
+<h3 id="org5e305b8">Wisdom 19:6</h3>
+<div class="outline-text-3" id="text-org5e305b8">
+<p>
+Omnis enim creatura ad suum genus ab initio refigurabatur,  deserviens tuis præceptis,  ut pueri tui custodirentur illæsi. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgda1c6e5" class="outline-3">
+<h3 id="orgda1c6e5">Wisdom 19:7</h3>
+<div class="outline-text-3" id="text-orgda1c6e5">
+<p>
+Nam nubes castra eorum obumbrabat,  et ex aqua quæ ante erat, terra arida apparuit,  et in mari Rubro via sine impedimento,  et campus germinans de profundo nimio : 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org98b9479" class="outline-3">
+<h3 id="org98b9479">Wisdom 19:8</h3>
+<div class="outline-text-3" id="text-org98b9479">
+<p>
+per quem omnis natio transivit quæ tegebatur tua manu,  videntes tua mirabilia et monstra. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org15f7699" class="outline-3">
+<h3 id="org15f7699">Wisdom 19:9</h3>
+<div class="outline-text-3" id="text-org15f7699">
+<p>
+Tamquam enim equi depaverunt escam,  et tamquam agni exsultaverunt,  magnificantes te, Domine, qui liberasti illos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5137eb6" class="outline-3">
+<h3 id="org5137eb6">Wisdom 19:10</h3>
+<div class="outline-text-3" id="text-org5137eb6">
+<p>
+Memores enim erant adhuc eorum  quæ in incolatu illorum facta fuerant :  quemadmodum pro natione animalium eduxit terra muscas,  et pro piscibus eructavit fluvius multitudinem ranarum. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgba4d117" class="outline-3">
+<h3 id="orgba4d117">Wisdom 19:11</h3>
+<div class="outline-text-3" id="text-orgba4d117">
+<p>
+Novissime autem viderunt novam creaturam avium,  cum, adducti concupiscentia, postulaverunt escas epulationis. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org904b687" class="outline-3">
+<h3 id="org904b687">Wisdom 19:12</h3>
+<div class="outline-text-3" id="text-org904b687">
+<p>
+In allocutione enim desiderii ascendit illis de mari ortygometra :  et vexationes peccatoribus supervenerunt,  non sine illis quæ ante facta erant argumentis per vim fulminum :  juste enim patiebantur secundum suas nequitias. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4da724c" class="outline-3">
+<h3 id="org4da724c">Wisdom 19:13</h3>
+<div class="outline-text-3" id="text-org4da724c">
+<p>
+Etenim detestabiliorem inhospitalitatem instituerunt :  alii quidem ignotos non recipiebant advenas ;  alii autem bonos hospites in servitutem redigebant. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org05eea61" class="outline-3">
+<h3 id="org05eea61">Wisdom 19:14</h3>
+<div class="outline-text-3" id="text-org05eea61">
+<p>
+Et non solum hæc, sed et alius quidam respectus illorum erat,  quoniam inviti recipiebant extraneos. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8ad3279" class="outline-3">
+<h3 id="org8ad3279">Wisdom 19:15</h3>
+<div class="outline-text-3" id="text-org8ad3279">
+<p>
+Qui autem cum lætitia receperunt hos  qui eisdem usi erant justitiis,  sævissimis afflixerunt doloribus. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1a536ea" class="outline-3">
+<h3 id="org1a536ea">Wisdom 19:16</h3>
+<div class="outline-text-3" id="text-org1a536ea">
+<p>
+Percussi sunt autem cæcitate :  sicut illi in foribus justi,  cum subitaneis cooperti essent tenebris,  unusquisque transitum ostii sui quærebat. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org347d6fc" class="outline-3">
+<h3 id="org347d6fc">Wisdom 19:17</h3>
+<div class="outline-text-3" id="text-org347d6fc">
+<p>
+In se enim elementa dum convertuntur,  sicut in organo qualitatis sonus immutatur,  et omnia suum sonum custodiunt :  unde æstimari ex ipso visu certo potest. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbeca368" class="outline-3">
+<h3 id="orgbeca368">Wisdom 19:18</h3>
+<div class="outline-text-3" id="text-orgbeca368">
+<p>
+Agrestia enim in aquatica convertebantur,  et quæcumque erant natantia, in terram transibant. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge1784d0" class="outline-3">
+<h3 id="orge1784d0">Wisdom 19:19</h3>
+<div class="outline-text-3" id="text-orge1784d0">
+<p>
+Ignis in aqua valebat supra suam virtutem,  et aqua extinguentis naturæ obliviscebatur. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1bc6f15" class="outline-3">
+<h3 id="org1bc6f15">Wisdom 19:20</h3>
+<div class="outline-text-3" id="text-org1bc6f15">
+<p>
+Flammæ e contrario corruptibilium animalium  non vexaverunt carnes coambulantium,  nec dissolvebant illam, quæ facile dissolvebatur sicut glacies, bonam escam.  In omnibus enim magnificasti populum tuum, Domine,  et honorasti, et non despexisti,  in omni tempore et in omni loco assistens eis.    
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2021-01-24 Sun 11:15</p>
+</div>
+</body>
+</html>
