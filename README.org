@@ -1,6 +1,5 @@
 #+TITLE: Adam's Bible Repository
-
-* [[https://bible.mertzeni.ch/]]
+https://bible.mertzeni.ch/
 
 * About
 This project is a set of translations of the Holy Bible in a convenient Emacs ORG mode format.
