@@ -9,6 +9,19 @@ This is a project designed to bring the Holy Bible to Emacs org-mode. This site 
 
 If there is anything else you want added, such as more translations, go ahead and create an issue on the GitHub page (or do it yourself 😄).
 
+* Become Christian
+Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and I will try to send you a copy of "Why We're Catholic: Our Reasons For Faith, Hope, And Love by Trent Horn" or another book relevant to questions you may have (I will try to do this as long as its affordable). Here are some resources for you to check out right now:
+- [[https://www.catholic.com/tract/gods-love-for-you][God's Love for You]]
+- [[https://www.catholic.com/tract/how-to-become-a-catholic][How to Become a Catholic]]
+- [[https://www.catholic.com/magazine/online-edition/the-evidence-is-on-our-side][The Evidence Is on Our Side]]
+- [[https://www.catholic.com/magazine/online-edition/christian-faith-is-not-blind-belief][Christian Faith Is Not Blind Belief]]
+- [[https://www.catholic.com/magazine/print-edition/did-jesus-exist][Did Jesus Exist?]]
+- [[https://www.catholic.com/tract/the-divinity-of-christ][What the Early Church Believed: The Divinity of Christ]]
+- [[https://www.catholic.com/magazine/online-edition/looking-for-the-historical-jesus-again][Looking for the Historical Jesus]]
+- [[https://www.catholic.com/magazine/print-edition/christian-yesbut-why-catholic][Christian, Yes...But Why Be Catholic?]]
+- [[https://www.catholic.com/video/why-should-i-be-catholic][Why Should I Be Catholic]]
+- [[https://www.catholic.com/encyclopedia][Encyclopedia]]
+
 * Translations
 - Douay-Rheims = DRA
 - Latin Vulgate = VUL
