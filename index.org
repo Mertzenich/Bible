@@ -29,221 +29,221 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 ** Old Testament
 *** Genesis
 - [[./DRA/Genesis.org][DRA]]
-- [[./VUL/Genesis.html][VUL]]
+- [[./VUL/Genesis.org][VUL]]
 *** Exodus
-- [[./DRA/Exodus.html][DRA]]
-- [[./VUL/Exodus.html][VUL]]
+- [[./DRA/Exodus.org][DRA]]
+- [[./VUL/Exodus.org][VUL]]
 *** Leviticus
-- [[./DRA/Leviticus.html][DRA]]
-- [[./VUL/Leviticus.html][VUL]]
+- [[./DRA/Leviticus.org][DRA]]
+- [[./VUL/Leviticus.org][VUL]]
 *** Numbers
-- [[./DRA/Numbers.html][DRA]]
-- [[./VUL/Numbers.html][VUL]]
+- [[./DRA/Numbers.org][DRA]]
+- [[./VUL/Numbers.org][VUL]]
 *** Deuteronomy
-- [[./DRA/Deuteronomy.html][DRA]]
-- [[./VUL/Deuteronomy.html][VUL]]
+- [[./DRA/Deuteronomy.org][DRA]]
+- [[./VUL/Deuteronomy.org][VUL]]
 *** Joshua
-- [[./DRA/Joshua.html][DRA]]
-- [[./VUL/Joshua.html][VUL]]
+- [[./DRA/Joshua.org][DRA]]
+- [[./VUL/Joshua.org][VUL]]
 *** Judges
-- [[./DRA/Judges.html][DRA]]
-- [[./VUL/Judges.html][VUL]]
+- [[./DRA/Judges.org][DRA]]
+- [[./VUL/Judges.org][VUL]]
 *** Ruth
-- [[./DRA/Ruth.html][DRA]]
-- [[./VUL/Ruth.html][VUL]]
+- [[./DRA/Ruth.org][DRA]]
+- [[./VUL/Ruth.org][VUL]]
 *** 1 Samuel
-- [[./DRA/1 Samuel.html][DRA]]
-- [[./VUL/1 Samuel.html][VUL]]
+- [[./DRA/1 Samuel.org][DRA]]
+- [[./VUL/1 Samuel.org][VUL]]
 *** 2 Samuel
-- [[./DRA/2 Samuel.html][DRA]]
-- [[./VUL/2 Samuel.html][VUL]]
+- [[./DRA/2 Samuel.org][DRA]]
+- [[./VUL/2 Samuel.org][VUL]]
 *** 1 Kings
-- [[./DRA/1 Kings.html][DRA]]
-- [[./VUL/1 Kings.html][VUL]]
+- [[./DRA/1 Kings.org][DRA]]
+- [[./VUL/1 Kings.org][VUL]]
 *** 2 Kings
-- [[./DRA/2 Kings.html][DRA]]
-- [[./VUL/2 Kings.html][VUL]]
+- [[./DRA/2 Kings.org][DRA]]
+- [[./VUL/2 Kings.org][VUL]]
 *** 1 Chronicles
-- [[./DRA/1 Chronicles.html][DRA]]
-- [[./VUL/1 Chronicles.html][VUL]]
+- [[./DRA/1 Chronicles.org][DRA]]
+- [[./VUL/1 Chronicles.org][VUL]]
 *** 2 Chronicles
-- [[./DRA/2 Chronicles.html][DRA]]
-- [[./VUL/2 Chronicles.html][VUL]]
+- [[./DRA/2 Chronicles.org][DRA]]
+- [[./VUL/2 Chronicles.org][VUL]]
 *** Ezra
-- [[./DRA/Ezra.html][DRA]]
-- [[./VUL/Ezra.html][VUL]]
+- [[./DRA/Ezra.org][DRA]]
+- [[./VUL/Ezra.org][VUL]]
 *** Nehemiah
-- [[./DRA/Nehemiah.html][DRA]]
-- [[./VUL/Nehemiah.html][VUL]]
+- [[./DRA/Nehemiah.org][DRA]]
+- [[./VUL/Nehemiah.org][VUL]]
 *** Tobit
-- [[./DRA/Tobit.html][DRA]]
-- [[./VUL/Tobit.html][VUL]]
+- [[./DRA/Tobit.org][DRA]]
+- [[./VUL/Tobit.org][VUL]]
 *** Judith
-- [[./DRA/Judith.html][DRA]]
-- [[./VUL/Judith.html][VUL]]
+- [[./DRA/Judith.org][DRA]]
+- [[./VUL/Judith.org][VUL]]
 *** Esther
-- [[./DRA/Esther.html][DRA]]
-- [[./VUL/Esther.html][VUL]]
+- [[./DRA/Esther.org][DRA]]
+- [[./VUL/Esther.org][VUL]]
 *** 1 Maccabees
-- [[./DRA/1 Maccabees.html][DRA]]
-- [[./VUL/1 Maccabees.html][VUL]]
+- [[./DRA/1 Maccabees.org][DRA]]
+- [[./VUL/1 Maccabees.org][VUL]]
 *** 2 Maccabees
-- [[./DRA/2 Maccabees.html][DRA]]
-- [[./VUL/2 Maccabees.html][VUL]]
+- [[./DRA/2 Maccabees.org][DRA]]
+- [[./VUL/2 Maccabees.org][VUL]]
 *** Job
-- [[./DRA/Job.html][DRA]]
-- [[./VUL/Job.html][VUL]]
+- [[./DRA/Job.org][DRA]]
+- [[./VUL/Job.org][VUL]]
 *** Psalms
-- [[./DRA/Psalms.html][DRA]]
-- [[./VUL/Psalms.html][VUL]]
+- [[./DRA/Psalms.org][DRA]]
+- [[./VUL/Psalms.org][VUL]]
 *** Proverbs
-- [[./DRA/Proverbs.html][DRA]]
-- [[./VUL/Proverbs.html][VUL]]
+- [[./DRA/Proverbs.org][DRA]]
+- [[./VUL/Proverbs.org][VUL]]
 *** Ecclesiastes
-- [[./DRA/Ecclesiastes.html][DRA]]
-- [[./VUL/Ecclesiastes.html][VUL]]
+- [[./DRA/Ecclesiastes.org][DRA]]
+- [[./VUL/Ecclesiastes.org][VUL]]
 *** Song of Songs
-- [[./DRA/Song of Songs.html][DRA]]
-- [[./VUL/Song of Songs.html][VUL]]
+- [[./DRA/Song of Songs.org][DRA]]
+- [[./VUL/Song of Songs.org][VUL]]
 *** Wisdom
-- [[./DRA/Wisdom.html][DRA]]
-- [[./VUL/Wisdom.html][VUL]]
+- [[./DRA/Wisdom.org][DRA]]
+- [[./VUL/Wisdom.org][VUL]]
 *** Sirach
-- [[./DRA/Sirach.html][DRA]]
-- [[./VUL/Sirach.html][VUL]]
+- [[./DRA/Sirach.org][DRA]]
+- [[./VUL/Sirach.org][VUL]]
 *** Isaiah
-- [[./DRA/Isaiah.html][DRA]]
-- [[./VUL/Isaiah.html][VUL]]
+- [[./DRA/Isaiah.org][DRA]]
+- [[./VUL/Isaiah.org][VUL]]
 *** Jeremiah
-- [[./DRA/Jeremiah.html][DRA]]
-- [[./VUL/Jeremiah.html][VUL]]
+- [[./DRA/Jeremiah.org][DRA]]
+- [[./VUL/Jeremiah.org][VUL]]
 *** Lamentations
-- [[./DRA/Lamentations.html][DRA]]
-- [[./VUL/Lamentations.html][VUL]]
+- [[./DRA/Lamentations.org][DRA]]
+- [[./VUL/Lamentations.org][VUL]]
 *** Baruch
-- [[./DRA/Baruch.html][DRA]]
-- [[./VUL/Baruch.html][VUL]]
+- [[./DRA/Baruch.org][DRA]]
+- [[./VUL/Baruch.org][VUL]]
 *** Ezekiel
-- [[./DRA/Ezekiel.html][DRA]]
-- [[./VUL/Ezekiel.html][VUL]]
+- [[./DRA/Ezekiel.org][DRA]]
+- [[./VUL/Ezekiel.org][VUL]]
 *** Daniel
-- [[./DRA/Daniel.html][DRA]]
-- [[./VUL/Daniel.html][VUL]]
+- [[./DRA/Daniel.org][DRA]]
+- [[./VUL/Daniel.org][VUL]]
 *** Hosea
-- [[./DRA/Hosea.html][DRA]]
-- [[./VUL/Hosea.html][VUL]]
+- [[./DRA/Hosea.org][DRA]]
+- [[./VUL/Hosea.org][VUL]]
 *** Joel
-- [[./DRA/Joel.html][DRA]]
-- [[./VUL/Joel.html][VUL]]
+- [[./DRA/Joel.org][DRA]]
+- [[./VUL/Joel.org][VUL]]
 *** Amos
-- [[./DRA/Amos.html][DRA]]
-- [[./VUL/Amos.html][VUL]]
+- [[./DRA/Amos.org][DRA]]
+- [[./VUL/Amos.org][VUL]]
 *** Obadiah
-- [[./DRA/Obadiah.html][DRA]]
-- [[./VUL/Obadiah.html][VUL]]
+- [[./DRA/Obadiah.org][DRA]]
+- [[./VUL/Obadiah.org][VUL]]
 *** Jonah
-- [[./DRA/Jonah.html][DRA]]
-- [[./VUL/Jonah.html][VUL]]
+- [[./DRA/Jonah.org][DRA]]
+- [[./VUL/Jonah.org][VUL]]
 *** Micah
-- [[./DRA/Micah.html][DRA]]
-- [[./VUL/Micah.html][VUL]]
+- [[./DRA/Micah.org][DRA]]
+- [[./VUL/Micah.org][VUL]]
 *** Nahum
-- [[./DRA/Nahum.html][DRA]]
-- [[./VUL/Nahum.html][VUL]]
+- [[./DRA/Nahum.org][DRA]]
+- [[./VUL/Nahum.org][VUL]]
 *** Habakkuk
-- [[./DRA/Habakkuk.html][DRA]]
-- [[./VUL/Habakkuk.html][VUL]]
+- [[./DRA/Habakkuk.org][DRA]]
+- [[./VUL/Habakkuk.org][VUL]]
 *** Zephaniah
-- [[./DRA/Zephaniah.html][DRA]]
-- [[./VUL/Zephaniah.html][VUL]]
+- [[./DRA/Zephaniah.org][DRA]]
+- [[./VUL/Zephaniah.org][VUL]]
 *** Haggai
-- [[./DRA/Haggai.html][DRA]]
-- [[./VUL/Haggai.html][VUL]]
+- [[./DRA/Haggai.org][DRA]]
+- [[./VUL/Haggai.org][VUL]]
 *** Zechariah
-- [[./DRA/Zechariah.html][DRA]]
-- [[./VUL/Zechariah.html][VUL]]
+- [[./DRA/Zechariah.org][DRA]]
+- [[./VUL/Zechariah.org][VUL]]
 *** Malachi
-- [[./DRA/Malachi.html][DRA]]
-- [[./VUL/Malachi.html][VUL]]
+- [[./DRA/Malachi.org][DRA]]
+- [[./VUL/Malachi.org][VUL]]
 ** New Testament
 *** Matthew
-- [[./DRA/Matthew.html][DRA]]
-- [[./VUL/Matthew.html][VUL]]
+- [[./DRA/Matthew.org][DRA]]
+- [[./VUL/Matthew.org][VUL]]
 *** Mark
-- [[./DRA/Mark.html][DRA]]
-- [[./VUL/Mark.html][VUL]]
+- [[./DRA/Mark.org][DRA]]
+- [[./VUL/Mark.org][VUL]]
 *** Luke
-- [[./DRA/Luke.html][DRA]]
-- [[./VUL/Luke.html][VUL]]
+- [[./DRA/Luke.org][DRA]]
+- [[./VUL/Luke.org][VUL]]
 *** John
-- [[./DRA/John.html][DRA]]
-- [[./VUL/John.html][VUL]]
+- [[./DRA/John.org][DRA]]
+- [[./VUL/John.org][VUL]]
 *** Acts of the Apostles
-- [[./DRA/Acts of the Apostles.html][DRA]]
-- [[./VUL/Acts of the Apostles.html][VUL]]
+- [[./DRA/Acts of the Apostles.org][DRA]]
+- [[./VUL/Acts of the Apostles.org][VUL]]
 *** Romans
-- [[./DRA/Romans.html][DRA]]
-- [[./VUL/Romans.html][VUL]]
+- [[./DRA/Romans.org][DRA]]
+- [[./VUL/Romans.org][VUL]]
 *** 1 Corinthians
-- [[./DRA/1 Corinthians.html][DRA]]
-- [[./VUL/1 Corinthians.html][VUL]]
+- [[./DRA/1 Corinthians.org][DRA]]
+- [[./VUL/1 Corinthians.org][VUL]]
 *** 2 Corinthians
-- [[./DRA/2 Corinthians.html][DRA]]
-- [[./VUL/2 Corinthians.html][VUL]]
+- [[./DRA/2 Corinthians.org][DRA]]
+- [[./VUL/2 Corinthians.org][VUL]]
 *** Galatians
-- [[./DRA/Galatians.html][DRA]]
-- [[./VUL/Galatians.html][VUL]]
+- [[./DRA/Galatians.org][DRA]]
+- [[./VUL/Galatians.org][VUL]]
 *** Ephesians
-- [[./DRA/Ephesians.html][DRA]]
-- [[./VUL/Ephesians.html][VUL]]
+- [[./DRA/Ephesians.org][DRA]]
+- [[./VUL/Ephesians.org][VUL]]
 *** Philippians
-- [[./DRA/Philippians.html][DRA]]
-- [[./VUL/Philippians.html][VUL]]
+- [[./DRA/Philippians.org][DRA]]
+- [[./VUL/Philippians.org][VUL]]
 *** Colossians
-- [[./DRA/Colossians.html][DRA]]
-- [[./VUL/Colossians.html][VUL]]
+- [[./DRA/Colossians.org][DRA]]
+- [[./VUL/Colossians.org][VUL]]
 *** 1 Thessalonians
-- [[./DRA/1 Thessalonians.html][DRA]]
-- [[./VUL/1 Thessalonians.html][VUL]]
+- [[./DRA/1 Thessalonians.org][DRA]]
+- [[./VUL/1 Thessalonians.org][VUL]]
 *** 2 Thessalonians
-- [[./DRA/2 Thessalonians.html][DRA]]
-- [[./VUL/2 Thessalonians.html][VUL]]
+- [[./DRA/2 Thessalonians.org][DRA]]
+- [[./VUL/2 Thessalonians.org][VUL]]
 *** 1 Timothy
-- [[./DRA/1 Timothy.html][DRA]]
-- [[./VUL/1 Timothy.html][VUL]]
+- [[./DRA/1 Timothy.org][DRA]]
+- [[./VUL/1 Timothy.org][VUL]]
 *** 2 Timothy
-- [[./DRA/2 Timothy.html][DRA]]
-- [[./VUL/2 Timothy.html][VUL]]
+- [[./DRA/2 Timothy.org][DRA]]
+- [[./VUL/2 Timothy.org][VUL]]
 *** Titus
-- [[./DRA/Titus.html][DRA]]
-- [[./VUL/Titus.html][VUL]]
+- [[./DRA/Titus.org][DRA]]
+- [[./VUL/Titus.org][VUL]]
 *** Philemon
-- [[./DRA/Philemon.html][DRA]]
-- [[./VUL/Philemon.html][VUL]]
+- [[./DRA/Philemon.org][DRA]]
+- [[./VUL/Philemon.org][VUL]]
 *** Hebrews
-- [[./DRA/Hebrews.html][DRA]]
-- [[./VUL/Hebrews.html][VUL]]
+- [[./DRA/Hebrews.org][DRA]]
+- [[./VUL/Hebrews.org][VUL]]
 *** James
-- [[./DRA/James.html][DRA]]
-- [[./VUL/James.html][VUL]]
+- [[./DRA/James.org][DRA]]
+- [[./VUL/James.org][VUL]]
 *** 1 Peter
-- [[./DRA/1 Peter.html][DRA]]
-- [[./VUL/1 Peter.html][VUL]]
+- [[./DRA/1 Peter.org][DRA]]
+- [[./VUL/1 Peter.org][VUL]]
 *** 2 Peter
-- [[./DRA/2 Peter.html][DRA]]
-- [[./VUL/2 Peter.html][VUL]]
+- [[./DRA/2 Peter.org][DRA]]
+- [[./VUL/2 Peter.org][VUL]]
 *** 1 John
-- [[./DRA/1 John.html][DRA]]
-- [[./VUL/1 John.html][VUL]]
+- [[./DRA/1 John.org][DRA]]
+- [[./VUL/1 John.org][VUL]]
 *** 2 John
-- [[./DRA/2 John.html][DRA]]
-- [[./VUL/2 John.html][VUL]]
+- [[./DRA/2 John.org][DRA]]
+- [[./VUL/2 John.org][VUL]]
 *** 3 John
-- [[./DRA/3 John.html][DRA]]
-- [[./VUL/3 John.html][VUL]]
+- [[./DRA/3 John.org][DRA]]
+- [[./VUL/3 John.org][VUL]]
 *** Jude
-- [[./DRA/Jude.html][DRA]]
-- [[./VUL/Jude.html][VUL]]
+- [[./DRA/Jude.org][DRA]]
+- [[./VUL/Jude.org][VUL]]
 *** Revelation
-- [[./DRA/Revelation.html][DRA]]
-- [[./VUL/Revelation.html][VUL]]
+- [[./DRA/Revelation.org][DRA]]
+- [[./VUL/Revelation.org][VUL]]

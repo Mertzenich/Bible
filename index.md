@@ -1,89 +1,89 @@
 
 # Table of Contents
 
--   [Welcome](#org6346dea)
--   [Become Christian](#org569933f)
--   [Translations](#org1d475a8)
--   [Table of Contents](#org8f2d688)
-    -   [Old Testament](#org4ea370c)
-        -   [Genesis](#orgbdaa133)
-        -   [Exodus](#orgd9c7db9)
-        -   [Leviticus](#orgc44717c)
-        -   [Numbers](#orgf041ed2)
-        -   [Deuteronomy](#orgb17de2c)
-        -   [Joshua](#orgdd899da)
-        -   [Judges](#org8285147)
-        -   [Ruth](#org6ed3e10)
-        -   [1 Samuel](#orge51a118)
-        -   [2 Samuel](#org22fca3d)
-        -   [1 Kings](#orga80adf2)
-        -   [2 Kings](#org226e9fb)
-        -   [1 Chronicles](#org6e053ec)
-        -   [2 Chronicles](#org35968c3)
-        -   [Ezra](#orgb4c70cf)
-        -   [Nehemiah](#org2a61f9c)
-        -   [Tobit](#orgaf2d1da)
-        -   [Judith](#org58bd4f0)
-        -   [Esther](#orgc1b5482)
-        -   [1 Maccabees](#org685550f)
-        -   [2 Maccabees](#orgddeac95)
-        -   [Job](#orgb335a70)
-        -   [Psalms](#org1546cac)
-        -   [Proverbs](#org81f9537)
-        -   [Ecclesiastes](#orgcffe64e)
-        -   [Song of Songs](#org46d66f5)
-        -   [Wisdom](#org5dee75f)
-        -   [Sirach](#org1e4de60)
-        -   [Isaiah](#org37ab425)
-        -   [Jeremiah](#orgd6e557e)
-        -   [Lamentations](#org698d0c8)
-        -   [Baruch](#org5879224)
-        -   [Ezekiel](#org5826965)
-        -   [Daniel](#org377a27f)
-        -   [Hosea](#org4960070)
-        -   [Joel](#orgddaf41d)
-        -   [Amos](#org601d1c3)
-        -   [Obadiah](#org2019adb)
-        -   [Jonah](#org95c15ba)
-        -   [Micah](#orga4f5602)
-        -   [Nahum](#org46dae57)
-        -   [Habakkuk](#org86e14ac)
-        -   [Zephaniah](#org5be61e5)
-        -   [Haggai](#org9308255)
-        -   [Zechariah](#orgfdb6827)
-        -   [Malachi](#orgfda596a)
-    -   [New Testament](#orgbcc924a)
-        -   [Matthew](#org298ca74)
-        -   [Mark](#org15870f0)
-        -   [Luke](#orgff971df)
-        -   [John](#org4b2d124)
-        -   [Acts of the Apostles](#org5ef9405)
-        -   [Romans](#org6f7b194)
-        -   [1 Corinthians](#org0679414)
-        -   [2 Corinthians](#org75333a7)
-        -   [Galatians](#org02e53e2)
-        -   [Ephesians](#org9c34623)
-        -   [Philippians](#orgf466af0)
-        -   [Colossians](#org1e6abdf)
-        -   [1 Thessalonians](#org42c6b81)
-        -   [2 Thessalonians](#org343a529)
-        -   [1 Timothy](#org86ba85b)
-        -   [2 Timothy](#org006eddb)
-        -   [Titus](#orgf3b32f6)
-        -   [Philemon](#org25645cd)
-        -   [Hebrews](#org52b854d)
-        -   [James](#orgc5089eb)
-        -   [1 Peter](#orgb7871d3)
-        -   [2 Peter](#orgbb50b00)
-        -   [1 John](#org917ea7c)
-        -   [2 John](#orgef83f98)
-        -   [3 John](#org40940a9)
-        -   [Jude](#org0b14407)
-        -   [Revelation](#org68d523a)
+-   [Welcome](#org6289cd1)
+-   [Become Christian](#org49d2a44)
+-   [Translations](#orgf1a6443)
+-   [Table of Contents](#orga7f4c25)
+    -   [Old Testament](#org029a76e)
+        -   [Genesis](#orgb13d020)
+        -   [Exodus](#orgdb3f3f9)
+        -   [Leviticus](#org066d199)
+        -   [Numbers](#orgbdc6516)
+        -   [Deuteronomy](#orgec51e8b)
+        -   [Joshua](#orgf57a76e)
+        -   [Judges](#org6533f33)
+        -   [Ruth](#org317c25c)
+        -   [1 Samuel](#org3b42677)
+        -   [2 Samuel](#org127ccf9)
+        -   [1 Kings](#orgb20d8af)
+        -   [2 Kings](#org083e17d)
+        -   [1 Chronicles](#org2e8b424)
+        -   [2 Chronicles](#org8db0c83)
+        -   [Ezra](#orgf581967)
+        -   [Nehemiah](#org02933b2)
+        -   [Tobit](#orge4f8f94)
+        -   [Judith](#orgc0acc9d)
+        -   [Esther](#org48393fe)
+        -   [1 Maccabees](#org8833564)
+        -   [2 Maccabees](#orge07a663)
+        -   [Job](#org64afced)
+        -   [Psalms](#org197dcb4)
+        -   [Proverbs](#org1580546)
+        -   [Ecclesiastes](#orgbaac87a)
+        -   [Song of Songs](#org748c16b)
+        -   [Wisdom](#orgaef0bd6)
+        -   [Sirach](#orgd05b432)
+        -   [Isaiah](#org4273530)
+        -   [Jeremiah](#org93f2dc3)
+        -   [Lamentations](#org7b69bb5)
+        -   [Baruch](#orgbaeddeb)
+        -   [Ezekiel](#orgc293814)
+        -   [Daniel](#orgabcea15)
+        -   [Hosea](#orgfd9a1f0)
+        -   [Joel](#org5bcd11b)
+        -   [Amos](#org84dd7a9)
+        -   [Obadiah](#org87d859c)
+        -   [Jonah](#org7ea979f)
+        -   [Micah](#org4c2645f)
+        -   [Nahum](#org97143f6)
+        -   [Habakkuk](#org335d5e6)
+        -   [Zephaniah](#org3f48fc8)
+        -   [Haggai](#orge7be7e7)
+        -   [Zechariah](#org3a10800)
+        -   [Malachi](#org236fcd6)
+    -   [New Testament](#org498b474)
+        -   [Matthew](#org91f9053)
+        -   [Mark](#org5ac0b89)
+        -   [Luke](#org4f84161)
+        -   [John](#orgcf1711c)
+        -   [Acts of the Apostles](#org67798ba)
+        -   [Romans](#org3cb12e2)
+        -   [1 Corinthians](#org5f5fa4e)
+        -   [2 Corinthians](#org3e2ad6d)
+        -   [Galatians](#orgf364246)
+        -   [Ephesians](#org2c9b3c4)
+        -   [Philippians](#orgbd97670)
+        -   [Colossians](#orga1ab114)
+        -   [1 Thessalonians](#org44fac45)
+        -   [2 Thessalonians](#org7514357)
+        -   [1 Timothy](#org68f7a61)
+        -   [2 Timothy](#orgbb169de)
+        -   [Titus](#org586d81f)
+        -   [Philemon](#org10e30cf)
+        -   [Hebrews](#orgee3c8cc)
+        -   [James](#orgeaaba7f)
+        -   [1 Peter](#org2e042c7)
+        -   [2 Peter](#orga62f75d)
+        -   [1 John](#org95615fa)
+        -   [2 John](#org5ddd9b5)
+        -   [3 John](#org1342e76)
+        -   [Jude](#org06b2614)
+        -   [Revelation](#org30f65dc)
 
 
 
-<a id="org6346dea"></a>
+<a id="org6289cd1"></a>
 
 # Welcome
 
@@ -94,7 +94,7 @@ This is a project designed to bring the Holy Bible to Emacs org-mode. This site 
 If there is anything else you want added, such as more translations, go ahead and create an issue on the GitHub page (or do it yourself 😄).
 
 
-<a id="org569933f"></a>
+<a id="org49d2a44"></a>
 
 # Become Christian
 
@@ -112,7 +112,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [Encyclopedia](https://www.catholic.com/encyclopedia)
 
 
-<a id="org1d475a8"></a>
+<a id="orgf1a6443"></a>
 
 # Translations
 
@@ -120,601 +120,601 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   Latin Vulgate = VUL
 
 
-<a id="org8f2d688"></a>
+<a id="orga7f4c25"></a>
 
 # Table of Contents
 
 
-<a id="org4ea370c"></a>
+<a id="org029a76e"></a>
 
 ## Old Testament
 
 
-<a id="orgbdaa133"></a>
+<a id="orgb13d020"></a>
 
 ### Genesis
 
 -   [DRA](./DRA/Genesis.md)
--   [VUL](./VUL/Genesis.html)
+-   [VUL](./VUL/Genesis.md)
 
 
-<a id="orgd9c7db9"></a>
+<a id="orgdb3f3f9"></a>
 
 ### Exodus
 
--   [DRA](./DRA/Exodus.html)
--   [VUL](./VUL/Exodus.html)
+-   [DRA](./DRA/Exodus.md)
+-   [VUL](./VUL/Exodus.md)
 
 
-<a id="orgc44717c"></a>
+<a id="org066d199"></a>
 
 ### Leviticus
 
--   [DRA](./DRA/Leviticus.html)
--   [VUL](./VUL/Leviticus.html)
+-   [DRA](./DRA/Leviticus.md)
+-   [VUL](./VUL/Leviticus.md)
 
 
-<a id="orgf041ed2"></a>
+<a id="orgbdc6516"></a>
 
 ### Numbers
 
--   [DRA](./DRA/Numbers.html)
--   [VUL](./VUL/Numbers.html)
+-   [DRA](./DRA/Numbers.md)
+-   [VUL](./VUL/Numbers.md)
 
 
-<a id="orgb17de2c"></a>
+<a id="orgec51e8b"></a>
 
 ### Deuteronomy
 
--   [DRA](./DRA/Deuteronomy.html)
--   [VUL](./VUL/Deuteronomy.html)
+-   [DRA](./DRA/Deuteronomy.md)
+-   [VUL](./VUL/Deuteronomy.md)
 
 
-<a id="orgdd899da"></a>
+<a id="orgf57a76e"></a>
 
 ### Joshua
 
--   [DRA](./DRA/Joshua.html)
--   [VUL](./VUL/Joshua.html)
+-   [DRA](./DRA/Joshua.md)
+-   [VUL](./VUL/Joshua.md)
 
 
-<a id="org8285147"></a>
+<a id="org6533f33"></a>
 
 ### Judges
 
--   [DRA](./DRA/Judges.html)
--   [VUL](./VUL/Judges.html)
+-   [DRA](./DRA/Judges.md)
+-   [VUL](./VUL/Judges.md)
 
 
-<a id="org6ed3e10"></a>
+<a id="org317c25c"></a>
 
 ### Ruth
 
--   [DRA](./DRA/Ruth.html)
--   [VUL](./VUL/Ruth.html)
+-   [DRA](./DRA/Ruth.md)
+-   [VUL](./VUL/Ruth.md)
 
 
-<a id="orge51a118"></a>
+<a id="org3b42677"></a>
 
 ### 1 Samuel
 
--   [DRA](./DRA/1 Samuel.html)
--   [VUL](./VUL/1 Samuel.html)
+-   [DRA](./DRA/1 Samuel.md)
+-   [VUL](./VUL/1 Samuel.md)
 
 
-<a id="org22fca3d"></a>
+<a id="org127ccf9"></a>
 
 ### 2 Samuel
 
--   [DRA](./DRA/2 Samuel.html)
--   [VUL](./VUL/2 Samuel.html)
+-   [DRA](./DRA/2 Samuel.md)
+-   [VUL](./VUL/2 Samuel.md)
 
 
-<a id="orga80adf2"></a>
+<a id="orgb20d8af"></a>
 
 ### 1 Kings
 
--   [DRA](./DRA/1 Kings.html)
--   [VUL](./VUL/1 Kings.html)
+-   [DRA](./DRA/1 Kings.md)
+-   [VUL](./VUL/1 Kings.md)
 
 
-<a id="org226e9fb"></a>
+<a id="org083e17d"></a>
 
 ### 2 Kings
 
--   [DRA](./DRA/2 Kings.html)
--   [VUL](./VUL/2 Kings.html)
+-   [DRA](./DRA/2 Kings.md)
+-   [VUL](./VUL/2 Kings.md)
 
 
-<a id="org6e053ec"></a>
+<a id="org2e8b424"></a>
 
 ### 1 Chronicles
 
--   [DRA](./DRA/1 Chronicles.html)
--   [VUL](./VUL/1 Chronicles.html)
+-   [DRA](./DRA/1 Chronicles.md)
+-   [VUL](./VUL/1 Chronicles.md)
 
 
-<a id="org35968c3"></a>
+<a id="org8db0c83"></a>
 
 ### 2 Chronicles
 
--   [DRA](./DRA/2 Chronicles.html)
--   [VUL](./VUL/2 Chronicles.html)
+-   [DRA](./DRA/2 Chronicles.md)
+-   [VUL](./VUL/2 Chronicles.md)
 
 
-<a id="orgb4c70cf"></a>
+<a id="orgf581967"></a>
 
 ### Ezra
 
--   [DRA](./DRA/Ezra.html)
--   [VUL](./VUL/Ezra.html)
+-   [DRA](./DRA/Ezra.md)
+-   [VUL](./VUL/Ezra.md)
 
 
-<a id="org2a61f9c"></a>
+<a id="org02933b2"></a>
 
 ### Nehemiah
 
--   [DRA](./DRA/Nehemiah.html)
--   [VUL](./VUL/Nehemiah.html)
+-   [DRA](./DRA/Nehemiah.md)
+-   [VUL](./VUL/Nehemiah.md)
 
 
-<a id="orgaf2d1da"></a>
+<a id="orge4f8f94"></a>
 
 ### Tobit
 
--   [DRA](./DRA/Tobit.html)
--   [VUL](./VUL/Tobit.html)
+-   [DRA](./DRA/Tobit.md)
+-   [VUL](./VUL/Tobit.md)
 
 
-<a id="org58bd4f0"></a>
+<a id="orgc0acc9d"></a>
 
 ### Judith
 
--   [DRA](./DRA/Judith.html)
--   [VUL](./VUL/Judith.html)
+-   [DRA](./DRA/Judith.md)
+-   [VUL](./VUL/Judith.md)
 
 
-<a id="orgc1b5482"></a>
+<a id="org48393fe"></a>
 
 ### Esther
 
--   [DRA](./DRA/Esther.html)
--   [VUL](./VUL/Esther.html)
+-   [DRA](./DRA/Esther.md)
+-   [VUL](./VUL/Esther.md)
 
 
-<a id="org685550f"></a>
+<a id="org8833564"></a>
 
 ### 1 Maccabees
 
--   [DRA](./DRA/1 Maccabees.html)
--   [VUL](./VUL/1 Maccabees.html)
+-   [DRA](./DRA/1 Maccabees.md)
+-   [VUL](./VUL/1 Maccabees.md)
 
 
-<a id="orgddeac95"></a>
+<a id="orge07a663"></a>
 
 ### 2 Maccabees
 
--   [DRA](./DRA/2 Maccabees.html)
--   [VUL](./VUL/2 Maccabees.html)
+-   [DRA](./DRA/2 Maccabees.md)
+-   [VUL](./VUL/2 Maccabees.md)
 
 
-<a id="orgb335a70"></a>
+<a id="org64afced"></a>
 
 ### Job
 
--   [DRA](./DRA/Job.html)
--   [VUL](./VUL/Job.html)
+-   [DRA](./DRA/Job.md)
+-   [VUL](./VUL/Job.md)
 
 
-<a id="org1546cac"></a>
+<a id="org197dcb4"></a>
 
 ### Psalms
 
--   [DRA](./DRA/Psalms.html)
--   [VUL](./VUL/Psalms.html)
+-   [DRA](./DRA/Psalms.md)
+-   [VUL](./VUL/Psalms.md)
 
 
-<a id="org81f9537"></a>
+<a id="org1580546"></a>
 
 ### Proverbs
 
--   [DRA](./DRA/Proverbs.html)
--   [VUL](./VUL/Proverbs.html)
+-   [DRA](./DRA/Proverbs.md)
+-   [VUL](./VUL/Proverbs.md)
 
 
-<a id="orgcffe64e"></a>
+<a id="orgbaac87a"></a>
 
 ### Ecclesiastes
 
--   [DRA](./DRA/Ecclesiastes.html)
--   [VUL](./VUL/Ecclesiastes.html)
+-   [DRA](./DRA/Ecclesiastes.md)
+-   [VUL](./VUL/Ecclesiastes.md)
 
 
-<a id="org46d66f5"></a>
+<a id="org748c16b"></a>
 
 ### Song of Songs
 
--   [DRA](./DRA/Song of Songs.html)
--   [VUL](./VUL/Song of Songs.html)
+-   [DRA](./DRA/Song of Songs.md)
+-   [VUL](./VUL/Song of Songs.md)
 
 
-<a id="org5dee75f"></a>
+<a id="orgaef0bd6"></a>
 
 ### Wisdom
 
--   [DRA](./DRA/Wisdom.html)
--   [VUL](./VUL/Wisdom.html)
+-   [DRA](./DRA/Wisdom.md)
+-   [VUL](./VUL/Wisdom.md)
 
 
-<a id="org1e4de60"></a>
+<a id="orgd05b432"></a>
 
 ### Sirach
 
--   [DRA](./DRA/Sirach.html)
--   [VUL](./VUL/Sirach.html)
+-   [DRA](./DRA/Sirach.md)
+-   [VUL](./VUL/Sirach.md)
 
 
-<a id="org37ab425"></a>
+<a id="org4273530"></a>
 
 ### Isaiah
 
--   [DRA](./DRA/Isaiah.html)
--   [VUL](./VUL/Isaiah.html)
+-   [DRA](./DRA/Isaiah.md)
+-   [VUL](./VUL/Isaiah.md)
 
 
-<a id="orgd6e557e"></a>
+<a id="org93f2dc3"></a>
 
 ### Jeremiah
 
--   [DRA](./DRA/Jeremiah.html)
--   [VUL](./VUL/Jeremiah.html)
+-   [DRA](./DRA/Jeremiah.md)
+-   [VUL](./VUL/Jeremiah.md)
 
 
-<a id="org698d0c8"></a>
+<a id="org7b69bb5"></a>
 
 ### Lamentations
 
--   [DRA](./DRA/Lamentations.html)
--   [VUL](./VUL/Lamentations.html)
+-   [DRA](./DRA/Lamentations.md)
+-   [VUL](./VUL/Lamentations.md)
 
 
-<a id="org5879224"></a>
+<a id="orgbaeddeb"></a>
 
 ### Baruch
 
--   [DRA](./DRA/Baruch.html)
--   [VUL](./VUL/Baruch.html)
+-   [DRA](./DRA/Baruch.md)
+-   [VUL](./VUL/Baruch.md)
 
 
-<a id="org5826965"></a>
+<a id="orgc293814"></a>
 
 ### Ezekiel
 
--   [DRA](./DRA/Ezekiel.html)
--   [VUL](./VUL/Ezekiel.html)
+-   [DRA](./DRA/Ezekiel.md)
+-   [VUL](./VUL/Ezekiel.md)
 
 
-<a id="org377a27f"></a>
+<a id="orgabcea15"></a>
 
 ### Daniel
 
--   [DRA](./DRA/Daniel.html)
--   [VUL](./VUL/Daniel.html)
+-   [DRA](./DRA/Daniel.md)
+-   [VUL](./VUL/Daniel.md)
 
 
-<a id="org4960070"></a>
+<a id="orgfd9a1f0"></a>
 
 ### Hosea
 
--   [DRA](./DRA/Hosea.html)
--   [VUL](./VUL/Hosea.html)
+-   [DRA](./DRA/Hosea.md)
+-   [VUL](./VUL/Hosea.md)
 
 
-<a id="orgddaf41d"></a>
+<a id="org5bcd11b"></a>
 
 ### Joel
 
--   [DRA](./DRA/Joel.html)
--   [VUL](./VUL/Joel.html)
+-   [DRA](./DRA/Joel.md)
+-   [VUL](./VUL/Joel.md)
 
 
-<a id="org601d1c3"></a>
+<a id="org84dd7a9"></a>
 
 ### Amos
 
--   [DRA](./DRA/Amos.html)
--   [VUL](./VUL/Amos.html)
+-   [DRA](./DRA/Amos.md)
+-   [VUL](./VUL/Amos.md)
 
 
-<a id="org2019adb"></a>
+<a id="org87d859c"></a>
 
 ### Obadiah
 
--   [DRA](./DRA/Obadiah.html)
--   [VUL](./VUL/Obadiah.html)
+-   [DRA](./DRA/Obadiah.md)
+-   [VUL](./VUL/Obadiah.md)
 
 
-<a id="org95c15ba"></a>
+<a id="org7ea979f"></a>
 
 ### Jonah
 
--   [DRA](./DRA/Jonah.html)
--   [VUL](./VUL/Jonah.html)
+-   [DRA](./DRA/Jonah.md)
+-   [VUL](./VUL/Jonah.md)
 
 
-<a id="orga4f5602"></a>
+<a id="org4c2645f"></a>
 
 ### Micah
 
--   [DRA](./DRA/Micah.html)
--   [VUL](./VUL/Micah.html)
+-   [DRA](./DRA/Micah.md)
+-   [VUL](./VUL/Micah.md)
 
 
-<a id="org46dae57"></a>
+<a id="org97143f6"></a>
 
 ### Nahum
 
--   [DRA](./DRA/Nahum.html)
--   [VUL](./VUL/Nahum.html)
+-   [DRA](./DRA/Nahum.md)
+-   [VUL](./VUL/Nahum.md)
 
 
-<a id="org86e14ac"></a>
+<a id="org335d5e6"></a>
 
 ### Habakkuk
 
--   [DRA](./DRA/Habakkuk.html)
--   [VUL](./VUL/Habakkuk.html)
+-   [DRA](./DRA/Habakkuk.md)
+-   [VUL](./VUL/Habakkuk.md)
 
 
-<a id="org5be61e5"></a>
+<a id="org3f48fc8"></a>
 
 ### Zephaniah
 
--   [DRA](./DRA/Zephaniah.html)
--   [VUL](./VUL/Zephaniah.html)
+-   [DRA](./DRA/Zephaniah.md)
+-   [VUL](./VUL/Zephaniah.md)
 
 
-<a id="org9308255"></a>
+<a id="orge7be7e7"></a>
 
 ### Haggai
 
--   [DRA](./DRA/Haggai.html)
--   [VUL](./VUL/Haggai.html)
+-   [DRA](./DRA/Haggai.md)
+-   [VUL](./VUL/Haggai.md)
 
 
-<a id="orgfdb6827"></a>
+<a id="org3a10800"></a>
 
 ### Zechariah
 
--   [DRA](./DRA/Zechariah.html)
--   [VUL](./VUL/Zechariah.html)
+-   [DRA](./DRA/Zechariah.md)
+-   [VUL](./VUL/Zechariah.md)
 
 
-<a id="orgfda596a"></a>
+<a id="org236fcd6"></a>
 
 ### Malachi
 
--   [DRA](./DRA/Malachi.html)
--   [VUL](./VUL/Malachi.html)
+-   [DRA](./DRA/Malachi.md)
+-   [VUL](./VUL/Malachi.md)
 
 
-<a id="orgbcc924a"></a>
+<a id="org498b474"></a>
 
 ## New Testament
 
 
-<a id="org298ca74"></a>
+<a id="org91f9053"></a>
 
 ### Matthew
 
--   [DRA](./DRA/Matthew.html)
--   [VUL](./VUL/Matthew.html)
+-   [DRA](./DRA/Matthew.md)
+-   [VUL](./VUL/Matthew.md)
 
 
-<a id="org15870f0"></a>
+<a id="org5ac0b89"></a>
 
 ### Mark
 
--   [DRA](./DRA/Mark.html)
--   [VUL](./VUL/Mark.html)
+-   [DRA](./DRA/Mark.md)
+-   [VUL](./VUL/Mark.md)
 
 
-<a id="orgff971df"></a>
+<a id="org4f84161"></a>
 
 ### Luke
 
--   [DRA](./DRA/Luke.html)
--   [VUL](./VUL/Luke.html)
+-   [DRA](./DRA/Luke.md)
+-   [VUL](./VUL/Luke.md)
 
 
-<a id="org4b2d124"></a>
+<a id="orgcf1711c"></a>
 
 ### John
 
--   [DRA](./DRA/John.html)
--   [VUL](./VUL/John.html)
+-   [DRA](./DRA/John.md)
+-   [VUL](./VUL/John.md)
 
 
-<a id="org5ef9405"></a>
+<a id="org67798ba"></a>
 
 ### Acts of the Apostles
 
--   [DRA](./DRA/Acts of the Apostles.html)
--   [VUL](./VUL/Acts of the Apostles.html)
+-   [DRA](./DRA/Acts of the Apostles.md)
+-   [VUL](./VUL/Acts of the Apostles.md)
 
 
-<a id="org6f7b194"></a>
+<a id="org3cb12e2"></a>
 
 ### Romans
 
--   [DRA](./DRA/Romans.html)
--   [VUL](./VUL/Romans.html)
+-   [DRA](./DRA/Romans.md)
+-   [VUL](./VUL/Romans.md)
 
 
-<a id="org0679414"></a>
+<a id="org5f5fa4e"></a>
 
 ### 1 Corinthians
 
--   [DRA](./DRA/1 Corinthians.html)
--   [VUL](./VUL/1 Corinthians.html)
+-   [DRA](./DRA/1 Corinthians.md)
+-   [VUL](./VUL/1 Corinthians.md)
 
 
-<a id="org75333a7"></a>
+<a id="org3e2ad6d"></a>
 
 ### 2 Corinthians
 
--   [DRA](./DRA/2 Corinthians.html)
--   [VUL](./VUL/2 Corinthians.html)
+-   [DRA](./DRA/2 Corinthians.md)
+-   [VUL](./VUL/2 Corinthians.md)
 
 
-<a id="org02e53e2"></a>
+<a id="orgf364246"></a>
 
 ### Galatians
 
--   [DRA](./DRA/Galatians.html)
--   [VUL](./VUL/Galatians.html)
+-   [DRA](./DRA/Galatians.md)
+-   [VUL](./VUL/Galatians.md)
 
 
-<a id="org9c34623"></a>
+<a id="org2c9b3c4"></a>
 
 ### Ephesians
 
--   [DRA](./DRA/Ephesians.html)
--   [VUL](./VUL/Ephesians.html)
+-   [DRA](./DRA/Ephesians.md)
+-   [VUL](./VUL/Ephesians.md)
 
 
-<a id="orgf466af0"></a>
+<a id="orgbd97670"></a>
 
 ### Philippians
 
--   [DRA](./DRA/Philippians.html)
--   [VUL](./VUL/Philippians.html)
+-   [DRA](./DRA/Philippians.md)
+-   [VUL](./VUL/Philippians.md)
 
 
-<a id="org1e6abdf"></a>
+<a id="orga1ab114"></a>
 
 ### Colossians
 
--   [DRA](./DRA/Colossians.html)
--   [VUL](./VUL/Colossians.html)
+-   [DRA](./DRA/Colossians.md)
+-   [VUL](./VUL/Colossians.md)
 
 
-<a id="org42c6b81"></a>
+<a id="org44fac45"></a>
 
 ### 1 Thessalonians
 
--   [DRA](./DRA/1 Thessalonians.html)
--   [VUL](./VUL/1 Thessalonians.html)
+-   [DRA](./DRA/1 Thessalonians.md)
+-   [VUL](./VUL/1 Thessalonians.md)
 
 
-<a id="org343a529"></a>
+<a id="org7514357"></a>
 
 ### 2 Thessalonians
 
--   [DRA](./DRA/2 Thessalonians.html)
--   [VUL](./VUL/2 Thessalonians.html)
+-   [DRA](./DRA/2 Thessalonians.md)
+-   [VUL](./VUL/2 Thessalonians.md)
 
 
-<a id="org86ba85b"></a>
+<a id="org68f7a61"></a>
 
 ### 1 Timothy
 
--   [DRA](./DRA/1 Timothy.html)
--   [VUL](./VUL/1 Timothy.html)
+-   [DRA](./DRA/1 Timothy.md)
+-   [VUL](./VUL/1 Timothy.md)
 
 
-<a id="org006eddb"></a>
+<a id="orgbb169de"></a>
 
 ### 2 Timothy
 
--   [DRA](./DRA/2 Timothy.html)
--   [VUL](./VUL/2 Timothy.html)
+-   [DRA](./DRA/2 Timothy.md)
+-   [VUL](./VUL/2 Timothy.md)
 
 
-<a id="orgf3b32f6"></a>
+<a id="org586d81f"></a>
 
 ### Titus
 
--   [DRA](./DRA/Titus.html)
--   [VUL](./VUL/Titus.html)
+-   [DRA](./DRA/Titus.md)
+-   [VUL](./VUL/Titus.md)
 
 
-<a id="org25645cd"></a>
+<a id="org10e30cf"></a>
 
 ### Philemon
 
--   [DRA](./DRA/Philemon.html)
--   [VUL](./VUL/Philemon.html)
+-   [DRA](./DRA/Philemon.md)
+-   [VUL](./VUL/Philemon.md)
 
 
-<a id="org52b854d"></a>
+<a id="orgee3c8cc"></a>
 
 ### Hebrews
 
--   [DRA](./DRA/Hebrews.html)
--   [VUL](./VUL/Hebrews.html)
+-   [DRA](./DRA/Hebrews.md)
+-   [VUL](./VUL/Hebrews.md)
 
 
-<a id="orgc5089eb"></a>
+<a id="orgeaaba7f"></a>
 
 ### James
 
--   [DRA](./DRA/James.html)
--   [VUL](./VUL/James.html)
+-   [DRA](./DRA/James.md)
+-   [VUL](./VUL/James.md)
 
 
-<a id="orgb7871d3"></a>
+<a id="org2e042c7"></a>
 
 ### 1 Peter
 
--   [DRA](./DRA/1 Peter.html)
--   [VUL](./VUL/1 Peter.html)
+-   [DRA](./DRA/1 Peter.md)
+-   [VUL](./VUL/1 Peter.md)
 
 
-<a id="orgbb50b00"></a>
+<a id="orga62f75d"></a>
 
 ### 2 Peter
 
--   [DRA](./DRA/2 Peter.html)
--   [VUL](./VUL/2 Peter.html)
+-   [DRA](./DRA/2 Peter.md)
+-   [VUL](./VUL/2 Peter.md)
 
 
-<a id="org917ea7c"></a>
+<a id="org95615fa"></a>
 
 ### 1 John
 
--   [DRA](./DRA/1 John.html)
--   [VUL](./VUL/1 John.html)
+-   [DRA](./DRA/1 John.md)
+-   [VUL](./VUL/1 John.md)
 
 
-<a id="orgef83f98"></a>
+<a id="org5ddd9b5"></a>
 
 ### 2 John
 
--   [DRA](./DRA/2 John.html)
--   [VUL](./VUL/2 John.html)
+-   [DRA](./DRA/2 John.md)
+-   [VUL](./VUL/2 John.md)
 
 
-<a id="org40940a9"></a>
+<a id="org1342e76"></a>
 
 ### 3 John
 
--   [DRA](./DRA/3 John.html)
--   [VUL](./VUL/3 John.html)
+-   [DRA](./DRA/3 John.md)
+-   [VUL](./VUL/3 John.md)
 
 
-<a id="org0b14407"></a>
+<a id="org06b2614"></a>
 
 ### Jude
 
--   [DRA](./DRA/Jude.html)
--   [VUL](./VUL/Jude.html)
+-   [DRA](./DRA/Jude.md)
+-   [VUL](./VUL/Jude.md)
 
 
-<a id="org68d523a"></a>
+<a id="org30f65dc"></a>
 
 ### Revelation
 
--   [DRA](./DRA/Revelation.html)
--   [VUL](./VUL/Revelation.html)
+-   [DRA](./DRA/Revelation.md)
+-   [VUL](./VUL/Revelation.md)
 
