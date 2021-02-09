@@ -1,6 +1,8 @@
 #+TITLE: Adam's Bible Repository
 Web Version: https://bible.mertzeni.ch/
 
+Markdown Version: https://github.com/Mertzenich/bible.org/blob/master/index.md
+
 * About
 This project is a set of translations of the Holy Bible in a convenient Emacs ORG mode format.
 
