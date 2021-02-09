@@ -1,89 +1,89 @@
 
 # Table of Contents
 
--   [Welcome](#orgddf807d)
--   [Become Christian](#orgcc8c763)
--   [Translations](#org8e0d3cf)
--   [Table of Contents](#org996700c)
-    -   [Old Testament](#org3daffc6)
-        -   [Genesis](#org91f288e)
-        -   [Exodus](#org9ee284d)
-        -   [Leviticus](#orgfd886a9)
-        -   [Numbers](#org73036e7)
-        -   [Deuteronomy](#orgf64ef6b)
-        -   [Joshua](#org122d581)
-        -   [Judges](#org1b79f81)
-        -   [Ruth](#orgfe1db3d)
-        -   [1 Samuel](#orgf6aaad5)
-        -   [2 Samuel](#org520a07f)
-        -   [1 Kings](#org62b863a)
-        -   [2 Kings](#org306e9cf)
-        -   [1 Chronicles](#org752607e)
-        -   [2 Chronicles](#orgb955760)
-        -   [Ezra](#org62dc472)
-        -   [Nehemiah](#org8549950)
-        -   [Tobit](#org390ae81)
-        -   [Judith](#org86a6ed4)
-        -   [Esther](#org7fad2df)
-        -   [1 Maccabees](#org72dd4e8)
-        -   [2 Maccabees](#org5f3bd61)
-        -   [Job](#orgf639579)
-        -   [Psalms](#org7950417)
-        -   [Proverbs](#orge9efc38)
-        -   [Ecclesiastes](#org3a06bf1)
-        -   [Song of Songs](#orga5d9929)
-        -   [Wisdom](#org816681c)
-        -   [Sirach](#org8e3191c)
-        -   [Isaiah](#orgb8e4a0d)
-        -   [Jeremiah](#org2273511)
-        -   [Lamentations](#org7267324)
-        -   [Baruch](#org368bbea)
-        -   [Ezekiel](#orgcf02488)
-        -   [Daniel](#orgfd36fd1)
-        -   [Hosea](#org56c5aa5)
-        -   [Joel](#org81f1088)
-        -   [Amos](#orgf650f83)
-        -   [Obadiah](#org4516027)
-        -   [Jonah](#orgc3e5b27)
-        -   [Micah](#orgf99ad7a)
-        -   [Nahum](#org48edbdf)
-        -   [Habakkuk](#orgd07fe9e)
-        -   [Zephaniah](#org80fe3f6)
-        -   [Haggai](#org4e848e8)
-        -   [Zechariah](#org6509497)
-        -   [Malachi](#org9187b49)
-    -   [New Testament](#orgea5ec9f)
-        -   [Matthew](#orgb968437)
-        -   [Mark](#org61e4230)
-        -   [Luke](#org9c05265)
-        -   [John](#org343244c)
-        -   [Acts of the Apostles](#orgaff7aba)
-        -   [Romans](#org7f684de)
-        -   [1 Corinthians](#org41c3f5a)
-        -   [2 Corinthians](#orgbbd7238)
-        -   [Galatians](#org33fccb2)
-        -   [Ephesians](#orgd8c4074)
-        -   [Philippians](#org8713980)
-        -   [Colossians](#org4fb8884)
-        -   [1 Thessalonians](#orgc79580c)
-        -   [2 Thessalonians](#org3205ec3)
-        -   [1 Timothy](#orgd864e82)
-        -   [2 Timothy](#org18117ff)
-        -   [Titus](#org765254e)
-        -   [Philemon](#org46fa198)
-        -   [Hebrews](#org381d498)
-        -   [James](#orge649183)
-        -   [1 Peter](#orgd029291)
-        -   [2 Peter](#org28f010a)
-        -   [1 John](#org86bec2d)
-        -   [2 John](#orga403e9f)
-        -   [3 John](#org2bbe452)
-        -   [Jude](#org33b96a2)
-        -   [Revelation](#org9412c00)
+-   [Welcome](#org6346dea)
+-   [Become Christian](#org569933f)
+-   [Translations](#org1d475a8)
+-   [Table of Contents](#org8f2d688)
+    -   [Old Testament](#org4ea370c)
+        -   [Genesis](#orgbdaa133)
+        -   [Exodus](#orgd9c7db9)
+        -   [Leviticus](#orgc44717c)
+        -   [Numbers](#orgf041ed2)
+        -   [Deuteronomy](#orgb17de2c)
+        -   [Joshua](#orgdd899da)
+        -   [Judges](#org8285147)
+        -   [Ruth](#org6ed3e10)
+        -   [1 Samuel](#orge51a118)
+        -   [2 Samuel](#org22fca3d)
+        -   [1 Kings](#orga80adf2)
+        -   [2 Kings](#org226e9fb)
+        -   [1 Chronicles](#org6e053ec)
+        -   [2 Chronicles](#org35968c3)
+        -   [Ezra](#orgb4c70cf)
+        -   [Nehemiah](#org2a61f9c)
+        -   [Tobit](#orgaf2d1da)
+        -   [Judith](#org58bd4f0)
+        -   [Esther](#orgc1b5482)
+        -   [1 Maccabees](#org685550f)
+        -   [2 Maccabees](#orgddeac95)
+        -   [Job](#orgb335a70)
+        -   [Psalms](#org1546cac)
+        -   [Proverbs](#org81f9537)
+        -   [Ecclesiastes](#orgcffe64e)
+        -   [Song of Songs](#org46d66f5)
+        -   [Wisdom](#org5dee75f)
+        -   [Sirach](#org1e4de60)
+        -   [Isaiah](#org37ab425)
+        -   [Jeremiah](#orgd6e557e)
+        -   [Lamentations](#org698d0c8)
+        -   [Baruch](#org5879224)
+        -   [Ezekiel](#org5826965)
+        -   [Daniel](#org377a27f)
+        -   [Hosea](#org4960070)
+        -   [Joel](#orgddaf41d)
+        -   [Amos](#org601d1c3)
+        -   [Obadiah](#org2019adb)
+        -   [Jonah](#org95c15ba)
+        -   [Micah](#orga4f5602)
+        -   [Nahum](#org46dae57)
+        -   [Habakkuk](#org86e14ac)
+        -   [Zephaniah](#org5be61e5)
+        -   [Haggai](#org9308255)
+        -   [Zechariah](#orgfdb6827)
+        -   [Malachi](#orgfda596a)
+    -   [New Testament](#orgbcc924a)
+        -   [Matthew](#org298ca74)
+        -   [Mark](#org15870f0)
+        -   [Luke](#orgff971df)
+        -   [John](#org4b2d124)
+        -   [Acts of the Apostles](#org5ef9405)
+        -   [Romans](#org6f7b194)
+        -   [1 Corinthians](#org0679414)
+        -   [2 Corinthians](#org75333a7)
+        -   [Galatians](#org02e53e2)
+        -   [Ephesians](#org9c34623)
+        -   [Philippians](#orgf466af0)
+        -   [Colossians](#org1e6abdf)
+        -   [1 Thessalonians](#org42c6b81)
+        -   [2 Thessalonians](#org343a529)
+        -   [1 Timothy](#org86ba85b)
+        -   [2 Timothy](#org006eddb)
+        -   [Titus](#orgf3b32f6)
+        -   [Philemon](#org25645cd)
+        -   [Hebrews](#org52b854d)
+        -   [James](#orgc5089eb)
+        -   [1 Peter](#orgb7871d3)
+        -   [2 Peter](#orgbb50b00)
+        -   [1 John](#org917ea7c)
+        -   [2 John](#orgef83f98)
+        -   [3 John](#org40940a9)
+        -   [Jude](#org0b14407)
+        -   [Revelation](#org68d523a)
 
 
 
-<a id="orgddf807d"></a>
+<a id="org6346dea"></a>
 
 # Welcome
 
@@ -94,7 +94,7 @@ This is a project designed to bring the Holy Bible to Emacs org-mode. This site 
 If there is anything else you want added, such as more translations, go ahead and create an issue on the GitHub page (or do it yourself 😄).
 
 
-<a id="orgcc8c763"></a>
+<a id="org569933f"></a>
 
 # Become Christian
 
@@ -112,7 +112,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [Encyclopedia](https://www.catholic.com/encyclopedia)
 
 
-<a id="org8e0d3cf"></a>
+<a id="org1d475a8"></a>
 
 # Translations
 
@@ -120,25 +120,25 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   Latin Vulgate = VUL
 
 
-<a id="org996700c"></a>
+<a id="org8f2d688"></a>
 
 # Table of Contents
 
 
-<a id="org3daffc6"></a>
+<a id="org4ea370c"></a>
 
 ## Old Testament
 
 
-<a id="org91f288e"></a>
+<a id="orgbdaa133"></a>
 
 ### Genesis
 
--   [DRA](./DRA/Genesis.html)
+-   [DRA](./DRA/Genesis.md)
 -   [VUL](./VUL/Genesis.html)
 
 
-<a id="org9ee284d"></a>
+<a id="orgd9c7db9"></a>
 
 ### Exodus
 
@@ -146,7 +146,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Exodus.html)
 
 
-<a id="orgfd886a9"></a>
+<a id="orgc44717c"></a>
 
 ### Leviticus
 
@@ -154,7 +154,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Leviticus.html)
 
 
-<a id="org73036e7"></a>
+<a id="orgf041ed2"></a>
 
 ### Numbers
 
@@ -162,7 +162,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Numbers.html)
 
 
-<a id="orgf64ef6b"></a>
+<a id="orgb17de2c"></a>
 
 ### Deuteronomy
 
@@ -170,7 +170,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Deuteronomy.html)
 
 
-<a id="org122d581"></a>
+<a id="orgdd899da"></a>
 
 ### Joshua
 
@@ -178,7 +178,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Joshua.html)
 
 
-<a id="org1b79f81"></a>
+<a id="org8285147"></a>
 
 ### Judges
 
@@ -186,7 +186,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Judges.html)
 
 
-<a id="orgfe1db3d"></a>
+<a id="org6ed3e10"></a>
 
 ### Ruth
 
@@ -194,7 +194,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Ruth.html)
 
 
-<a id="orgf6aaad5"></a>
+<a id="orge51a118"></a>
 
 ### 1 Samuel
 
@@ -202,7 +202,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/1 Samuel.html)
 
 
-<a id="org520a07f"></a>
+<a id="org22fca3d"></a>
 
 ### 2 Samuel
 
@@ -210,7 +210,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/2 Samuel.html)
 
 
-<a id="org62b863a"></a>
+<a id="orga80adf2"></a>
 
 ### 1 Kings
 
@@ -218,7 +218,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/1 Kings.html)
 
 
-<a id="org306e9cf"></a>
+<a id="org226e9fb"></a>
 
 ### 2 Kings
 
@@ -226,7 +226,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/2 Kings.html)
 
 
-<a id="org752607e"></a>
+<a id="org6e053ec"></a>
 
 ### 1 Chronicles
 
@@ -234,7 +234,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/1 Chronicles.html)
 
 
-<a id="orgb955760"></a>
+<a id="org35968c3"></a>
 
 ### 2 Chronicles
 
@@ -242,7 +242,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/2 Chronicles.html)
 
 
-<a id="org62dc472"></a>
+<a id="orgb4c70cf"></a>
 
 ### Ezra
 
@@ -250,7 +250,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Ezra.html)
 
 
-<a id="org8549950"></a>
+<a id="org2a61f9c"></a>
 
 ### Nehemiah
 
@@ -258,7 +258,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Nehemiah.html)
 
 
-<a id="org390ae81"></a>
+<a id="orgaf2d1da"></a>
 
 ### Tobit
 
@@ -266,7 +266,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Tobit.html)
 
 
-<a id="org86a6ed4"></a>
+<a id="org58bd4f0"></a>
 
 ### Judith
 
@@ -274,7 +274,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Judith.html)
 
 
-<a id="org7fad2df"></a>
+<a id="orgc1b5482"></a>
 
 ### Esther
 
@@ -282,7 +282,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Esther.html)
 
 
-<a id="org72dd4e8"></a>
+<a id="org685550f"></a>
 
 ### 1 Maccabees
 
@@ -290,7 +290,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/1 Maccabees.html)
 
 
-<a id="org5f3bd61"></a>
+<a id="orgddeac95"></a>
 
 ### 2 Maccabees
 
@@ -298,7 +298,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/2 Maccabees.html)
 
 
-<a id="orgf639579"></a>
+<a id="orgb335a70"></a>
 
 ### Job
 
@@ -306,7 +306,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Job.html)
 
 
-<a id="org7950417"></a>
+<a id="org1546cac"></a>
 
 ### Psalms
 
@@ -314,7 +314,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Psalms.html)
 
 
-<a id="orge9efc38"></a>
+<a id="org81f9537"></a>
 
 ### Proverbs
 
@@ -322,7 +322,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Proverbs.html)
 
 
-<a id="org3a06bf1"></a>
+<a id="orgcffe64e"></a>
 
 ### Ecclesiastes
 
@@ -330,7 +330,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Ecclesiastes.html)
 
 
-<a id="orga5d9929"></a>
+<a id="org46d66f5"></a>
 
 ### Song of Songs
 
@@ -338,7 +338,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Song of Songs.html)
 
 
-<a id="org816681c"></a>
+<a id="org5dee75f"></a>
 
 ### Wisdom
 
@@ -346,7 +346,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Wisdom.html)
 
 
-<a id="org8e3191c"></a>
+<a id="org1e4de60"></a>
 
 ### Sirach
 
@@ -354,7 +354,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Sirach.html)
 
 
-<a id="orgb8e4a0d"></a>
+<a id="org37ab425"></a>
 
 ### Isaiah
 
@@ -362,7 +362,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Isaiah.html)
 
 
-<a id="org2273511"></a>
+<a id="orgd6e557e"></a>
 
 ### Jeremiah
 
@@ -370,7 +370,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Jeremiah.html)
 
 
-<a id="org7267324"></a>
+<a id="org698d0c8"></a>
 
 ### Lamentations
 
@@ -378,7 +378,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Lamentations.html)
 
 
-<a id="org368bbea"></a>
+<a id="org5879224"></a>
 
 ### Baruch
 
@@ -386,7 +386,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Baruch.html)
 
 
-<a id="orgcf02488"></a>
+<a id="org5826965"></a>
 
 ### Ezekiel
 
@@ -394,7 +394,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Ezekiel.html)
 
 
-<a id="orgfd36fd1"></a>
+<a id="org377a27f"></a>
 
 ### Daniel
 
@@ -402,7 +402,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Daniel.html)
 
 
-<a id="org56c5aa5"></a>
+<a id="org4960070"></a>
 
 ### Hosea
 
@@ -410,7 +410,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Hosea.html)
 
 
-<a id="org81f1088"></a>
+<a id="orgddaf41d"></a>
 
 ### Joel
 
@@ -418,7 +418,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Joel.html)
 
 
-<a id="orgf650f83"></a>
+<a id="org601d1c3"></a>
 
 ### Amos
 
@@ -426,7 +426,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Amos.html)
 
 
-<a id="org4516027"></a>
+<a id="org2019adb"></a>
 
 ### Obadiah
 
@@ -434,7 +434,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Obadiah.html)
 
 
-<a id="orgc3e5b27"></a>
+<a id="org95c15ba"></a>
 
 ### Jonah
 
@@ -442,7 +442,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Jonah.html)
 
 
-<a id="orgf99ad7a"></a>
+<a id="orga4f5602"></a>
 
 ### Micah
 
@@ -450,7 +450,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Micah.html)
 
 
-<a id="org48edbdf"></a>
+<a id="org46dae57"></a>
 
 ### Nahum
 
@@ -458,7 +458,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Nahum.html)
 
 
-<a id="orgd07fe9e"></a>
+<a id="org86e14ac"></a>
 
 ### Habakkuk
 
@@ -466,7 +466,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Habakkuk.html)
 
 
-<a id="org80fe3f6"></a>
+<a id="org5be61e5"></a>
 
 ### Zephaniah
 
@@ -474,7 +474,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Zephaniah.html)
 
 
-<a id="org4e848e8"></a>
+<a id="org9308255"></a>
 
 ### Haggai
 
@@ -482,7 +482,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Haggai.html)
 
 
-<a id="org6509497"></a>
+<a id="orgfdb6827"></a>
 
 ### Zechariah
 
@@ -490,7 +490,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Zechariah.html)
 
 
-<a id="org9187b49"></a>
+<a id="orgfda596a"></a>
 
 ### Malachi
 
@@ -498,12 +498,12 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Malachi.html)
 
 
-<a id="orgea5ec9f"></a>
+<a id="orgbcc924a"></a>
 
 ## New Testament
 
 
-<a id="orgb968437"></a>
+<a id="org298ca74"></a>
 
 ### Matthew
 
@@ -511,7 +511,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Matthew.html)
 
 
-<a id="org61e4230"></a>
+<a id="org15870f0"></a>
 
 ### Mark
 
@@ -519,7 +519,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Mark.html)
 
 
-<a id="org9c05265"></a>
+<a id="orgff971df"></a>
 
 ### Luke
 
@@ -527,7 +527,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Luke.html)
 
 
-<a id="org343244c"></a>
+<a id="org4b2d124"></a>
 
 ### John
 
@@ -535,7 +535,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/John.html)
 
 
-<a id="orgaff7aba"></a>
+<a id="org5ef9405"></a>
 
 ### Acts of the Apostles
 
@@ -543,7 +543,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Acts of the Apostles.html)
 
 
-<a id="org7f684de"></a>
+<a id="org6f7b194"></a>
 
 ### Romans
 
@@ -551,7 +551,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Romans.html)
 
 
-<a id="org41c3f5a"></a>
+<a id="org0679414"></a>
 
 ### 1 Corinthians
 
@@ -559,7 +559,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/1 Corinthians.html)
 
 
-<a id="orgbbd7238"></a>
+<a id="org75333a7"></a>
 
 ### 2 Corinthians
 
@@ -567,7 +567,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/2 Corinthians.html)
 
 
-<a id="org33fccb2"></a>
+<a id="org02e53e2"></a>
 
 ### Galatians
 
@@ -575,7 +575,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Galatians.html)
 
 
-<a id="orgd8c4074"></a>
+<a id="org9c34623"></a>
 
 ### Ephesians
 
@@ -583,7 +583,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Ephesians.html)
 
 
-<a id="org8713980"></a>
+<a id="orgf466af0"></a>
 
 ### Philippians
 
@@ -591,7 +591,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Philippians.html)
 
 
-<a id="org4fb8884"></a>
+<a id="org1e6abdf"></a>
 
 ### Colossians
 
@@ -599,7 +599,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Colossians.html)
 
 
-<a id="orgc79580c"></a>
+<a id="org42c6b81"></a>
 
 ### 1 Thessalonians
 
@@ -607,7 +607,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/1 Thessalonians.html)
 
 
-<a id="org3205ec3"></a>
+<a id="org343a529"></a>
 
 ### 2 Thessalonians
 
@@ -615,7 +615,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/2 Thessalonians.html)
 
 
-<a id="orgd864e82"></a>
+<a id="org86ba85b"></a>
 
 ### 1 Timothy
 
@@ -623,7 +623,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/1 Timothy.html)
 
 
-<a id="org18117ff"></a>
+<a id="org006eddb"></a>
 
 ### 2 Timothy
 
@@ -631,7 +631,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/2 Timothy.html)
 
 
-<a id="org765254e"></a>
+<a id="orgf3b32f6"></a>
 
 ### Titus
 
@@ -639,7 +639,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Titus.html)
 
 
-<a id="org46fa198"></a>
+<a id="org25645cd"></a>
 
 ### Philemon
 
@@ -647,7 +647,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Philemon.html)
 
 
-<a id="org381d498"></a>
+<a id="org52b854d"></a>
 
 ### Hebrews
 
@@ -655,7 +655,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Hebrews.html)
 
 
-<a id="orge649183"></a>
+<a id="orgc5089eb"></a>
 
 ### James
 
@@ -663,7 +663,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/James.html)
 
 
-<a id="orgd029291"></a>
+<a id="orgb7871d3"></a>
 
 ### 1 Peter
 
@@ -671,7 +671,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/1 Peter.html)
 
 
-<a id="org28f010a"></a>
+<a id="orgbb50b00"></a>
 
 ### 2 Peter
 
@@ -679,7 +679,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/2 Peter.html)
 
 
-<a id="org86bec2d"></a>
+<a id="org917ea7c"></a>
 
 ### 1 John
 
@@ -687,7 +687,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/1 John.html)
 
 
-<a id="orga403e9f"></a>
+<a id="orgef83f98"></a>
 
 ### 2 John
 
@@ -695,7 +695,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/2 John.html)
 
 
-<a id="org2bbe452"></a>
+<a id="org40940a9"></a>
 
 ### 3 John
 
@@ -703,7 +703,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/3 John.html)
 
 
-<a id="org33b96a2"></a>
+<a id="org0b14407"></a>
 
 ### Jude
 
@@ -711,7 +711,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 -   [VUL](./VUL/Jude.html)
 
 
-<a id="org9412c00"></a>
+<a id="org68d523a"></a>
 
 ### Revelation
 

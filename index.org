@@ -28,7 +28,7 @@ Are you interested in becoming a Christian? Email me at adam[at]mertzeni.ch and 
 * Table of Contents
 ** Old Testament
 *** Genesis
-- [[./DRA/Genesis.html][DRA]]
+- [[./DRA/Genesis.org][DRA]]
 - [[./VUL/Genesis.html][VUL]]
 *** Exodus
 - [[./DRA/Exodus.html][DRA]]
